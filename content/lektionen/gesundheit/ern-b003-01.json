@@ -1,0 +1,123 @@
+{
+  "id": "ern-b003-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum gelten Nüsse als gesund?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nuesse",
+    "fette",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nüsse gelten als Kalorienbomben. Viele lassen sie deshalb weg.",
+        "Gleichzeitig empfehlen Ernährungsfachleute, regelmäßig Nüsse zu essen. Wie passt das zusammen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in Nüssen steckt",
+      "absaetze": [
+        "Nüsse enthalten viel Fett, vor allem ungesättigte Fettsäuren. Dazu kommen Eiweiß, Ballaststoffe, Vitamin E und Mineralstoffe wie Magnesium.",
+        "Walnüsse liefern zusätzlich pflanzliche Omega-3-Fettsäuren. Ungesättigte Fette gelten als günstig für die Blutfette."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In großen Beobachtungsstudien haben Menschen, die regelmäßig Nüsse essen, seltener Herz-Kreislauf-Erkrankungen. Auch Studien mit zufälliger Gruppeneinteilung stützen einen Nutzen für Blutfette.",
+        "Trotz ihres Energiegehalts führten Nüsse in Studien meist nicht zu einer Gewichtszunahme. Sie machen gut satt."
+      ],
+      "merke": "Eine kleine Handvoll Nüsse am Tag passt gut in eine gesunde Ernährung.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten kannst",
+      "absaetze": [
+        "Die DGE empfiehlt täglich eine kleine Handvoll Nüsse oder Samen. Am besten sind sie ungesalzen und nicht kandiert.",
+        "Nüsse gehören zu den häufigen Auslösern von Lebensmittelallergien. Wer allergisch ist, muss sie meiden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Nüsse machen dick.",
+      "urteil": "mythos",
+      "erklaerung": "Nüsse haben viel Energie. In Studien nahmen Menschen, die regelmäßig maßvolle Mengen Nüsse aßen, aber meist nicht zu. Sie sättigen gut, und ein Teil des Fetts wird gar nicht aufgenommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fette überwiegen in Nüssen?",
+      "art": "mc",
+      "optionen": [
+        "Ungesättigte Fettsäuren",
+        "Transfette",
+        "Nur gesättigte Fette",
+        "Gar keine Fette"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nüsse enthalten vor allem ungesättigte Fettsäuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Nuss liefert besonders pflanzliches Omega-3?",
+      "art": "mc",
+      "optionen": [
+        "Erdnuss",
+        "Walnuss",
+        "Cashew",
+        "Kokosnuss"
+      ],
+      "richtig": 1,
+      "erklaerung": "Walnüsse enthalten viel pflanzliches Omega-3."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In Studien führten maßvolle Mengen Nüsse meist zu deutlicher Gewichtszunahme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist blieb das Gewicht stabil."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nüsse liefern ungesättigte Fette, Eiweiß und Ballaststoffe.",
+        "Regelmäßiger Verzehr hängt mit weniger Herz-Kreislauf-Erkrankungen zusammen.",
+        "Die DGE empfiehlt täglich eine kleine Handvoll."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "geo-b003-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Warum ist die Straße von Hormus so wichtig?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "World Oil Transit Chokepoints",
+      "herausgeber": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "oel",
+    "handel",
+    "nahost"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Steigt in den Nachrichten die Spannung am Persischen Golf, steigt oft auch der Ölpreis. An der Tankstelle merkst du das wenig später.",
+        "Ein Grund dafür ist eine schmale Meerenge zwischen Iran und Oman."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Nadelöhr",
+      "absaetze": [
+        "Die Straße von Hormus verbindet den Persischen Golf mit dem offenen Meer. An ihrer engsten Stelle ist sie nur rund 33 Kilometer breit.",
+        "Auf der einen Seite liegt Iran, auf der anderen die omanische Halbinsel Musandam. Große Tanker fahren in festgelegten, noch schmaleren Fahrrinnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hindurchfährt",
+      "absaetze": [
+        "Die Golfstaaten wie Saudi-Arabien, Irak, Kuwait und die Vereinigten Arabischen Emirate exportieren einen großen Teil ihres Öls über diesen Weg. Katar verschifft dort außerdem viel Flüssiggas.",
+        "Nach Angaben der US-Energiebehörde EIA passiert rund ein Fünftel des weltweit verbrauchten Öls die Meerenge."
+      ],
+      "merke": "Etwa ein Fünftel des weltweiten Ölverbrauchs fährt durch Hormus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das Spannungen auslöst",
+      "absaetze": [
+        "Es gibt nur wenige Pipelines, die die Meerenge umgehen. Eine Störung würde deshalb sofort die Weltmärkte treffen.",
+        "Drohungen, die Straße zu sperren, und Angriffe auf Tanker haben in der Vergangenheit immer wieder die Preise steigen lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zwischen welchen Ländern liegt die Straße von Hormus?",
+      "art": "mc",
+      "optionen": [
+        "Ägypten und Saudi-Arabien",
+        "Iran und Oman",
+        "Türkei und Griechenland",
+        "Jemen und Dschibuti"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Meerenge liegt zwischen Iran und Oman."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Anteil des weltweit verbrauchten Öls fährt laut EIA etwa durch die Meerenge?",
+      "art": "mc",
+      "optionen": [
+        "Ein Hundertstel",
+        "Ein Fünftel",
+        "Die Hälfte",
+        "Fast alles"
+      ],
+      "richtig": 1,
+      "erklaerung": "Es ist rund ein Fünftel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es gibt viele Pipelines, die die Straße von Hormus problemlos ersetzen können.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Umgehungsmöglichkeiten sind begrenzt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Straße von Hormus ist eine schmale Meerenge zwischen Iran und Oman.",
+        "Rund ein Fünftel des weltweiten Ölverbrauchs passiert sie.",
+        "Spannungen dort wirken sich schnell auf den Ölpreis aus."
+      ]
+    }
+  ]
+}

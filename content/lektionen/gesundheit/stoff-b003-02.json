@@ -1,0 +1,140 @@
+{
+  "id": "stoff-b003-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was macht Bewegung mit deinem Stoffwechsel?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bewegung",
+    "muskeln",
+    "blutzucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine halbe Stunde zügig spazieren verbraucht weniger Energie als ein Schokoriegel liefert. Lohnt sich Bewegung dann überhaupt?",
+        "Für den Stoffwechsel lautet die Antwort klar: ja."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Muskeln als Zuckerverbraucher",
+      "absaetze": [
+        "Arbeitende Muskeln nehmen Zucker aus dem Blut auf, und zwar auch ohne viel Insulin. Nach dem Training bleiben sie für Stunden empfindlicher für Insulin.",
+        "Schon ein kurzer Spaziergang nach dem Essen kann den Anstieg des Blutzuckers dämpfen."
+      ],
+      "merke": "Bewegte Muskeln senken den Blutzucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als Kalorienverbrauch",
+      "absaetze": [
+        "Bewegung allein führt oft nur zu einem kleinen Gewichtsverlust. Sie hilft aber besonders gut, ein Gewicht zu halten.",
+        "Außerdem senkt sie Blutdruck und Blutfette, stärkt Herz und Knochen und verbessert die Stimmung. Diese Vorteile gibt es unabhängig von der Waage."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Empfehlung der WHO",
+      "absaetze": [
+        "Die WHO empfiehlt Erwachsenen pro Woche 150 bis 300 Minuten Bewegung mit mittlerer Anstrengung. Dazu kommen an mindestens zwei Tagen Übungen zur Kräftigung der Muskeln.",
+        "Jede Bewegung zählt, auch Treppensteigen und Radfahren im Alltag."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "Mehr Bewegung im Alltag",
+      "schritte": [
+        {
+          "titel": "Nach dem Essen gehen",
+          "text": "Ein Spaziergang von zehn Minuten nach einer Mahlzeit ist ein guter Anfang."
+        },
+        {
+          "titel": "Sitzen unterbrechen",
+          "text": "Steh mindestens einmal pro Stunde kurz auf."
+        },
+        {
+          "titel": "Kraft einbauen",
+          "text": "Zweimal pro Woche Übungen wie Kniebeugen oder Liegestütze an der Wand."
+        },
+        {
+          "titel": "Wege nutzen",
+          "text": "Erledige kurze Strecken zu Fuß oder mit dem Rad."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Minuten Bewegung mit mittlerer Anstrengung empfiehlt die WHO Erwachsenen pro Woche?",
+      "art": "mc",
+      "optionen": [
+        "30 bis 60",
+        "150 bis 300",
+        "600 bis 900",
+        "Keine feste Zahl"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die WHO empfiehlt 150 bis 300 Minuten pro Woche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Arbeitende Muskeln können Zucker auch ohne viel Insulin aufnehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb senkt Bewegung den Blutzucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei hilft Bewegung besonders gut?",
+      "art": "mc",
+      "optionen": [
+        "Beim Halten des Gewichts",
+        "Beim Wachsen der Körpergröße",
+        "Beim Verlernen von Sprachen",
+        "Beim Vermeiden von Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bewegung hilft vor allem, ein Gewicht zu halten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bewegte Muskeln senken den Blutzucker.",
+        "Bewegung hilft beim Halten des Gewichts und schützt Herz und Knochen.",
+        "Die WHO empfiehlt 150 bis 300 Minuten pro Woche plus Krafttraining.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

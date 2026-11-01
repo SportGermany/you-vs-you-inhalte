@@ -1,0 +1,129 @@
+{
+  "id": "ern-b003-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie riskant sind Wurst und rotes Fleisch?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Monographs",
+      "herausgeber": "Internationale Agentur für Krebsforschung (IARC)",
+      "url": "https://www.iarc.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fleisch",
+    "wurst",
+    "krebsrisiko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "2015 gingen Schlagzeilen um die Welt: Wurst sei so krebserregend wie Rauchen.",
+        "Stimmt das? Und was bedeutet es für dein Pausenbrot?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die WHO-Agentur einstufte",
+      "absaetze": [
+        "Die Internationale Agentur für Krebsforschung, kurz IARC, gehört zur WHO. Sie stufte 2015 verarbeitetes Fleisch wie Wurst, Schinken und Speck als krebserregend für den Menschen ein.",
+        "Rotes Fleisch wie Rind und Schwein stufte sie als wahrscheinlich krebserregend ein. Im Vordergrund steht Darmkrebs."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gleiche Gruppe, anderes Risiko",
+      "absaetze": [
+        "Die Einstufung sagt, wie sicher ein Zusammenhang belegt ist, nicht wie groß das Risiko ist. Deshalb stehen Wurst und Tabak in derselben Gruppe.",
+        "Das Risiko durch Rauchen ist aber um ein Vielfaches höher. Bei Wurst steigt das Darmkrebsrisiko mit der Menge, die man regelmäßig isst."
+      ],
+      "merke": "Gleiche Gruppe heißt gleich gut belegt, nicht gleich gefährlich.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die DGE empfiehlt",
+      "absaetze": [
+        "Die DGE empfiehlt Erwachsenen, höchstens etwa 300 Gramm Fleisch und Wurst pro Woche zu essen. Viele Menschen in Deutschland essen deutlich mehr.",
+        "Fleisch liefert auch wertvolle Nährstoffe wie Eisen und Vitamin B12. Es geht ums Maßhalten, nicht ums Verbot."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Wurst ist genauso gefährlich wie Rauchen.",
+      "urteil": "mythos",
+      "erklaerung": "Beide stehen in derselben IARC-Gruppe, weil der Zusammenhang mit Krebs gut belegt ist. Das Ausmaß des Risikos ist aber sehr unterschiedlich. Rauchen ist um ein Vielfaches gefährlicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stufte die IARC verarbeitetes Fleisch ein?",
+      "art": "mc",
+      "optionen": [
+        "Als unbedenklich",
+        "Als krebserregend",
+        "Als Heilmittel",
+        "Gar nicht"
+      ],
+      "richtig": 1,
+      "erklaerung": "Verarbeitetes Fleisch gilt als krebserregend für den Menschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die IARC-Gruppe sagt aus, wie groß das Krebsrisiko ist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sagt, wie gut der Zusammenhang belegt ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Krebsart steht bei Fleisch und Wurst im Vordergrund?",
+      "art": "mc",
+      "optionen": [
+        "Hautkrebs",
+        "Darmkrebs",
+        "Lungenkrebs",
+        "Knochenkrebs"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Zusammenhang betrifft vor allem Darmkrebs."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Verarbeitetes Fleisch gilt als krebserregend, rotes Fleisch als wahrscheinlich krebserregend.",
+        "Die Einstufung beschreibt die Beweislage, nicht die Stärke des Risikos.",
+        "Die DGE empfiehlt höchstens etwa 300 Gramm Fleisch und Wurst pro Woche."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "schlaf-b003-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was tun, wenn du nicht einschlafen kannst?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "einschlafen",
+    "schlafhygiene",
+    "insomnie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es ist 1 Uhr nachts. Du drehst dich zum zwanzigsten Mal um und schaust auf die Uhr.",
+        "Je mehr du schlafen willst, desto wacher wirst du."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlafen lässt sich nicht erzwingen",
+      "absaetze": [
+        "Schlaf kommt, wenn genug Schlafdruck da ist und der Körper zur Ruhe kommt. Anstrengung und Grübeln bewirken das Gegenteil.",
+        "Wer lange wach im Bett liegt, verknüpft das Bett mit Wachsein und Ärger. Das kann Schlafprobleme verstärken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aufstehen statt Wälzen",
+      "absaetze": [
+        "Fachleute raten: Wenn du lange wach liegst, steh auf. Geh in einen anderen Raum und mach etwas Ruhiges bei gedämpftem Licht.",
+        "Kehr erst zurück ins Bett, wenn du müde bist. So lernt dein Gehirn wieder, dass das Bett zum Schlafen da ist."
+      ],
+      "merke": "Das Bett ist zum Schlafen da, nicht zum Grübeln.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es länger anhält",
+      "absaetze": [
+        "Halten Schlafprobleme über Wochen an und belasten den Tag, spricht man von einer Insomnie, also einer Schlafstörung.",
+        "Als wirksamste Behandlung gilt laut Leitlinien eine spezielle kognitive Verhaltenstherapie für Schlaf. Sie wirkt oft nachhaltiger als Schlafmittel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "Gute Bedingungen für die Nacht",
+      "schritte": [
+        {
+          "titel": "Feste Zeiten",
+          "text": "Steh jeden Tag zur ähnlichen Zeit auf, auch nach einer schlechten Nacht."
+        },
+        {
+          "titel": "Kühl und dunkel",
+          "text": "Ein ruhiges, kühles und dunkles Schlafzimmer hilft beim Einschlafen."
+        },
+        {
+          "titel": "Uhr umdrehen",
+          "text": "Wer nachts auf die Uhr schaut, macht sich oft zusätzlich Druck."
+        },
+        {
+          "titel": "Abends herunterfahren",
+          "text": "Plane vor dem Schlafen eine ruhige Zeit ohne Arbeit und Streit ein."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was raten Fachleute, wenn du lange wach im Bett liegst?",
+      "art": "mc",
+      "optionen": [
+        "Liegen bleiben und es weiter versuchen",
+        "Aufstehen und etwas Ruhiges tun",
+        "Sport treiben",
+        "Eine große Mahlzeit essen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Aufstehen verhindert, dass das Bett mit Wachsein verknüpft wird."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Behandlung gilt bei anhaltender Insomnie laut Leitlinien als besonders wirksam?",
+      "art": "mc",
+      "optionen": [
+        "Kognitive Verhaltenstherapie für Schlaf",
+        "Mehr Kaffee am Abend",
+        "Längere Mittagsschläfe",
+        "Fernsehen im Bett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die kognitive Verhaltenstherapie für Schlaf ist die erste Wahl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach einer schlechten Nacht sollte man möglichst lange ausschlafen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Feste Aufstehzeiten stabilisieren den Rhythmus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlaf lässt sich nicht erzwingen.",
+        "Bei langem Wachliegen lieber aufstehen.",
+        "Anhaltende Schlafprobleme lassen sich gut behandeln, am besten mit Verhaltenstherapie."
+      ]
+    }
+  ]
+}

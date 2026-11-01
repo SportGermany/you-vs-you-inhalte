@@ -1,0 +1,112 @@
+{
+  "id": "stoff-b003-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was sagt der BMI aus und was nicht?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bmi",
+    "koerpergewicht",
+    "messung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Fitness-Rechner im Internet stuft einen muskulösen Rugbyspieler als übergewichtig ein.",
+        "Liegt der Rechner falsch, oder ist die Formel zu einfach?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So wird er berechnet",
+      "absaetze": [
+        "Der Body-Mass-Index, kurz BMI, setzt Gewicht und Körpergröße ins Verhältnis. Man teilt das Gewicht in Kilogramm durch die Körpergröße in Metern zum Quadrat.",
+        "Die WHO stuft bei Erwachsenen Werte von 18,5 bis unter 25 als Normalgewicht ein. Ab 25 spricht sie von Übergewicht, ab 30 von Adipositas."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür er taugt",
+      "absaetze": [
+        "Der BMI ist schnell berechnet und hilft, Gruppen von Menschen zu vergleichen. In großen Studien hängt ein hoher BMI mit mehr Krankheiten zusammen.",
+        "Für Kinder und Jugendliche gelten eigene Kurven, die das Alter berücksichtigen."
+      ],
+      "merke": "Für Gruppen nützlich, für Einzelne nur ein grober Hinweis.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo er versagt",
+      "absaetze": [
+        "Der BMI unterscheidet nicht zwischen Muskeln und Fett. Er sagt auch nicht, wo das Fett sitzt.",
+        "Muskulöse Menschen erscheinen schnell übergewichtig. Ältere Menschen mit wenig Muskeln und viel Bauchfett können dagegen normal wirken. Ärztinnen und Ärzte ziehen deshalb weitere Werte hinzu."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird der BMI berechnet?",
+      "art": "mc",
+      "optionen": [
+        "Gewicht geteilt durch Körpergröße zum Quadrat",
+        "Größe mal Alter",
+        "Gewicht minus Größe",
+        "Taillenumfang geteilt durch Alter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gewicht in Kilogramm durch Größe in Metern zum Quadrat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem BMI spricht die WHO bei Erwachsenen von Übergewicht?",
+      "art": "mc",
+      "optionen": [
+        "Ab 18,5",
+        "Ab 25",
+        "Ab 35",
+        "Ab 40"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ab einem BMI von 25 spricht die WHO von Übergewicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der BMI unterscheidet zwischen Muskeln und Fett.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ist seine größte Schwäche."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der BMI setzt Gewicht und Körpergröße ins Verhältnis.",
+        "Für Gruppen ist er nützlich, für Einzelne nur ein grober Hinweis.",
+        "Muskeln und Fettverteilung erfasst er nicht.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "supp-b003-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft Zink gegen Erkältungen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Cochrane Reviews",
+      "herausgeber": "Cochrane",
+      "url": "https://www.cochrane.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zink",
+    "erkaeltung",
+    "immunsystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es kratzt im Hals, die Nase läuft. In der Apotheke liegen Zink-Lutschtabletten aus.",
+        "Kann das Mineral die Erkältung wirklich verkürzen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Spurenelement für die Abwehr",
+      "absaetze": [
+        "Zink ist ein Spurenelement, das der Körper nur in kleinen Mengen braucht. Es ist an vielen Enzymen beteiligt und wichtig für das Immunsystem.",
+        "Gute Quellen sind Fleisch, Käse, Eier, Vollkorn und Hülsenfrüchte. Bei abwechslungsreicher Ernährung ist ein Mangel in Deutschland selten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige Studien deuten darauf hin, dass Zink zu Beginn einer Erkältung die Dauer leicht verkürzen kann. Die Ergebnisse sind aber uneinheitlich.",
+        "Übersichtsarbeiten bewerten die Studienlage als unsicher. Vorbeugend scheint Zink bei gut versorgten Menschen wenig zu bringen."
+      ],
+      "merke": "Die Wirkung bei Erkältungen ist unsicher und eher klein.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Hohe Zinkmengen über längere Zeit können einen Kupfermangel auslösen. Das BfR rät, Höchstmengen aus Präparaten nicht zu überschreiten.",
+        "Zink kann die Aufnahme mancher Antibiotika vermindern. Auf nüchternen Magen verursacht es oft Übelkeit. Sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Zink-Nasensprays sind eine harmlose Alternative.",
+      "urteil": "mythos",
+      "erklaerung": "Bei Nasensprays mit Zink wurde über einen teils dauerhaften Verlust des Geruchssinns berichtet. Behörden haben davor gewarnt. Deshalb gelten sie nicht als harmlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Zink?",
+      "art": "mc",
+      "optionen": [
+        "Ein Vitamin",
+        "Ein Spurenelement",
+        "Ein Hormon",
+        "Ein Antibiotikum"
+      ],
+      "richtig": 1,
+      "erklaerung": "Zink ist ein Spurenelement."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Studien zeigen einheitlich, dass Zink Erkältungen verhindert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Ergebnisse sind uneinheitlich, vorbeugend bringt es Gesunden wenig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Lebensmittel liefern Zink?",
+      "art": "mc",
+      "optionen": [
+        "Fleisch, Käse und Vollkorn",
+        "Nur Zucker",
+        "Nur Wasser",
+        "Nur Salat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fleisch, Käse, Eier, Vollkorn und Hülsenfrüchte enthalten Zink."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zink ist wichtig für das Immunsystem.",
+        "Bei Erkältungen ist der Nutzen unsicher und eher klein.",
+        "Eine abwechslungsreiche Ernährung deckt den Bedarf meist."
+      ]
+    }
+  ]
+}

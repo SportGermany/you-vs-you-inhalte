@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b003-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie viel Schlaf brauchen Erwachsene?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafdauer",
+    "erwachsene",
+    "schlafmangel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Kollegin sagt, ihr reichen fünf Stunden. Ein Freund braucht neun.",
+        "Wer von beiden ist normal?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Richtwert",
+      "absaetze": [
+        "Fachgesellschaften empfehlen gesunden Erwachsenen meist sieben bis neun Stunden Schlaf pro Nacht. Ältere Menschen kommen oft mit etwas weniger aus.",
+        "Der genaue Bedarf ist individuell. Ein guter Hinweis: Fühlst du dich tagsüber wach und leistungsfähig, ohne viel Koffein?"
+      ],
+      "merke": "Sieben bis neun Stunden sind für die meisten Erwachsenen ein guter Bereich.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Echte Kurzschläfer sind selten",
+      "absaetze": [
+        "Es gibt Menschen, denen dauerhaft weniger als sechs Stunden genügen. Bei ihnen wurden bestimmte Erbanlagen gefunden.",
+        "Sie sind aber sehr selten. Die meisten, die wenig schlafen, haben sich an die Müdigkeit gewöhnt und unterschätzen die Folgen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu wenig Schlaf bewirkt",
+      "absaetze": [
+        "Schon wenige kurze Nächte verschlechtern Konzentration, Reaktionszeit und Stimmung. Das Unfallrisiko im Straßenverkehr steigt.",
+        "Dauerhaft zu wenig Schlaf hängt in Studien mit Übergewicht, Bluthochdruck und Typ-2-Diabetes zusammen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Schlaf kann man am Wochenende vollständig nachholen.",
+      "urteil": "teils",
+      "erklaerung": "Ausschlafen am Wochenende lindert einen Teil der Müdigkeit. Studien deuten aber darauf hin, dass sich nicht alle Folgen einer Woche mit zu wenig Schlaf so ausgleichen lassen. Regelmäßiger Schlaf ist günstiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Stunden Schlaf empfehlen Fachgesellschaften gesunden Erwachsenen meist?",
+      "art": "mc",
+      "optionen": [
+        "Vier bis fünf",
+        "Sieben bis neun",
+        "Zehn bis zwölf",
+        "Genau sechs"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sieben bis neun Stunden gelten als guter Bereich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Echte Kurzschläfer mit weniger als sechs Stunden Bedarf sind häufig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind sehr selten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steigt bei Schlafmangel?",
+      "art": "mc",
+      "optionen": [
+        "Die Reaktionsfähigkeit",
+        "Das Unfallrisiko",
+        "Die Konzentration",
+        "Die Körpergröße"
+      ],
+      "richtig": 1,
+      "erklaerung": "Müdigkeit erhöht das Unfallrisiko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sieben bis neun Stunden passen für die meisten Erwachsenen.",
+        "Echte Kurzschläfer sind selten.",
+        "Schlafmangel schadet Konzentration und auf Dauer der Gesundheit."
+      ]
+    }
+  ]
+}

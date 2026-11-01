@@ -1,0 +1,125 @@
+{
+  "id": "supp-b003-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was können Probiotika?",
+  "minuten": 5,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nutrition and health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "probiotika",
+    "darm",
+    "bakterien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Kühlregal stehen Joghurtdrinks mit lebenden Kulturen. Daneben gibt es Kapseln mit Milliarden Bakterien.",
+        "Brauchst du die für einen gesunden Darm?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lebende Mikroorganismen",
+      "absaetze": [
+        "Probiotika sind lebende Mikroorganismen, meist Bakterien. Sie sollen der Gesundheit nützen, wenn man sie in ausreichender Menge aufnimmt. So beschreiben es internationale Fachleute.",
+        "Sie kommen in manchen Joghurts, Kefir und Sauerkraut vor oder werden als Präparate verkauft."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Jeder Stamm ist anders",
+      "absaetze": [
+        "Bakterien gibt es in sehr vielen Arten und Stämmen. Ein Ergebnis für einen Stamm lässt sich nicht auf andere übertragen.",
+        "Für einige Stämme gibt es Hinweise auf einen Nutzen, etwa gegen Durchfall während einer Antibiotikabehandlung. Für viele andere Versprechen fehlen gute Belege."
+      ],
+      "merke": "Ob ein Probiotikum hilft, hängt vom Stamm und vom Zweck ab.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in der EU erlaubt ist",
+      "absaetze": [
+        "Die EFSA hat bisher keine gesundheitsbezogene Aussage zu Probiotika in Lebensmitteln anerkannt. Die Belege reichten nicht aus.",
+        "Deshalb dürfen Hersteller in der EU nicht pauschal mit Vorteilen für Darm oder Abwehr werben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Für Menschen mit stark geschwächtem Immunsystem oder schweren Erkrankungen können Probiotika riskant sein.",
+        "Bei anhaltenden Verdauungsbeschwerden gehört die Ursache ärztlich abgeklärt, statt sie mit Präparaten zu überdecken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Probiotika?",
+      "art": "mc",
+      "optionen": [
+        "Lebende Mikroorganismen",
+        "Ballaststoffe",
+        "Vitamine",
+        "Mineralstoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Probiotika sind lebende Mikroorganismen, meist Bakterien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn ein Bakterienstamm hilft, helfen alle anderen Stämme genauso.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Wirkung ist stammabhängig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür gibt es bei einigen Stämmen Hinweise auf einen Nutzen?",
+      "art": "mc",
+      "optionen": [
+        "Gegen Durchfall bei Antibiotikabehandlung",
+        "Gegen Kurzsichtigkeit",
+        "Gegen Haarausfall",
+        "Für schnelleres Wachstum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei antibiotikabedingtem Durchfall gibt es für manche Stämme Hinweise."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Probiotika sind lebende Mikroorganismen.",
+        "Ihre Wirkung hängt vom Stamm ab.",
+        "In der EU ist keine allgemeine Gesundheitsaussage zugelassen."
+      ]
+    }
+  ]
+}

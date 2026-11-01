@@ -1,0 +1,131 @@
+{
+  "id": "supp-b003-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum brauchen Veganer Vitamin B12?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-b12",
+    "vegan",
+    "nerven"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Freundin lebt seit einem Jahr vegan. Sie fühlt sich gut.",
+        "Trotzdem rät ihr die Hausärztin zu Vitamin B12. Warum ausgerechnet dieses Vitamin?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Vitamin aus Bakterien",
+      "absaetze": [
+        "Vitamin B12 wird von Mikroorganismen gebildet. Tiere nehmen es auf und speichern es. Deshalb steckt es fast nur in tierischen Lebensmitteln wie Fleisch, Fisch, Eiern und Milchprodukten.",
+        "Pflanzliche Lebensmittel enthalten praktisch kein verwertbares Vitamin B12."
+      ],
+      "merke": "Vitamin B12 steckt fast nur in tierischen Lebensmitteln.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür der Körper es braucht",
+      "absaetze": [
+        "Vitamin B12 ist wichtig für die Blutbildung und für das Nervensystem. Ein Mangel kann eine Blutarmut und Schäden an den Nerven verursachen.",
+        "Der Körper hat Vorräte für mehrere Jahre. Ein Mangel entwickelt sich deshalb langsam und bleibt oft lange unbemerkt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Fachgesellschaften raten",
+      "absaetze": [
+        "Die DGE empfiehlt Menschen, die sich vegan ernähren, ein Vitamin-B12-Präparat. Das ist eine der wenigen Situationen, in denen sie ausdrücklich zur Ergänzung rät.",
+        "Regelmäßige Blutkontrollen in der Hausarztpraxis zeigen, ob die Versorgung ausreicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Lass deine B12-Versorgung regelmäßig ärztlich prüfen, vor allem bei veganer Ernährung oder im Alter.",
+        "Manche Medikamente wie Metformin oder Magensäureblocker können die Aufnahme von B12 verringern. Sprich mit deiner Ärztin oder deinem Arzt darüber."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Mit Sauerkraut, Algen oder Pilzen ist man gut mit B12 versorgt.",
+      "urteil": "mythos",
+      "erklaerung": "Manche dieser Lebensmittel enthalten B12-ähnliche Stoffe, die der Körper nicht nutzen kann. Andere enthalten nur Spuren. Als verlässliche Quelle für eine vegane Ernährung gelten sie nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bildet Vitamin B12 ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Pflanzen",
+        "Mikroorganismen",
+        "Der menschliche Magen",
+        "Sonnenlicht in der Haut"
+      ],
+      "richtig": 1,
+      "erklaerung": "Bakterien und andere Mikroorganismen bilden Vitamin B12."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die DGE empfiehlt Menschen mit veganer Ernährung ein Vitamin-B12-Präparat.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist eine ausdrückliche Empfehlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bleibt ein B12-Mangel oft lange unbemerkt?",
+      "art": "mc",
+      "optionen": [
+        "Weil der Körper Vorräte für mehrere Jahre hat",
+        "Weil er nie Beschwerden macht",
+        "Weil er sich von selbst behebt",
+        "Weil man ihn nicht messen kann"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Speicher reichen oft mehrere Jahre."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin B12 steckt fast nur in tierischen Lebensmitteln.",
+        "Es ist wichtig für Blut und Nerven.",
+        "Für vegane Ernährung empfiehlt die DGE ein B12-Präparat."
+      ]
+    }
+  ]
+}

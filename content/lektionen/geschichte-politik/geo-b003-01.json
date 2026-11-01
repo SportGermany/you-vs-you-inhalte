@@ -1,0 +1,113 @@
+{
+  "id": "geo-b003-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Wie funktioniert das Veto im UN-Sicherheitsrat?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Security Council",
+      "herausgeber": "Vereinte Nationen",
+      "url": "https://www.un.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "uno",
+    "sicherheitsrat",
+    "veto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der UN-Sicherheitsrat stimmt über eine Resolution ab. Dreizehn Hände gehen hoch, eine dagegen.",
+        "Trotzdem ist die Resolution gescheitert. Wie kann das sein?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fünf mit Sonderrecht",
+      "absaetze": [
+        "Der Sicherheitsrat hat 15 Mitglieder. Fünf davon sind ständig dabei: China, Frankreich, Großbritannien, Russland und die USA.",
+        "Die anderen zehn wählt die Generalversammlung jeweils für zwei Jahre. Die ständigen Mitglieder sind die Siegermächte des Zweiten Weltkriegs, die 1945 die UN mitgründeten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So wird abgestimmt",
+      "absaetze": [
+        "Für einen Beschluss in wichtigen Fragen braucht es mindestens neun Ja-Stimmen. Zusätzlich darf keines der fünf ständigen Mitglieder mit Nein stimmen.",
+        "Ein einziges Nein eines ständigen Mitglieds reicht also, um einen Beschluss zu verhindern. Eine Enthaltung gilt in der Praxis nicht als Veto."
+      ],
+      "merke": "Neun Ja-Stimmen und kein Nein der fünf Ständigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das umstritten ist",
+      "absaetze": [
+        "Das Veto soll verhindern, dass der Rat gegen eine Großmacht handelt und so einen großen Krieg riskiert. Es führt aber oft zu Blockaden, etwa wenn ein ständiges Mitglied selbst an einem Konflikt beteiligt ist.",
+        "Über eine Reform wird seit Jahrzehnten diskutiert, bisher ohne Ergebnis."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele ständige Mitglieder hat der UN-Sicherheitsrat?",
+      "art": "mc",
+      "optionen": [
+        "Drei",
+        "Fünf",
+        "Zehn",
+        "Fünfzehn"
+      ],
+      "richtig": 1,
+      "erklaerung": "China, Frankreich, Großbritannien, Russland und die USA sind ständige Mitglieder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Ja-Stimmen braucht ein Beschluss in wichtigen Fragen mindestens?",
+      "art": "mc",
+      "optionen": [
+        "Fünf",
+        "Sieben",
+        "Neun",
+        "Fünfzehn"
+      ],
+      "richtig": 2,
+      "erklaerung": "Nötig sind neun Ja-Stimmen und kein Veto."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Enthaltung eines ständigen Mitglieds gilt in der Praxis als Veto.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur ein Nein blockiert den Beschluss."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Sicherheitsrat hat 15 Mitglieder, fünf davon ständig.",
+        "Ein Nein eines ständigen Mitglieds verhindert einen Beschluss.",
+        "Das Veto schützt vor Großmachtkonflikten, führt aber oft zu Blockaden."
+      ]
+    }
+  ]
+}

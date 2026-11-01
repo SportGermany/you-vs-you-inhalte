@@ -1,0 +1,117 @@
+{
+  "id": "ern-b003-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist dunkles Brot immer Vollkornbrot?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vollkorn",
+    "brot",
+    "einkaufen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Bäckerei liegt ein dunkles Brot mit Körnern obendrauf. Es sieht sehr gesund aus.",
+        "Doch dunkel und körnig heißt nicht automatisch Vollkorn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das ganze Korn",
+      "absaetze": [
+        "Ein Getreidekorn besteht aus drei Teilen: der Randschicht, dem Keimling und dem Mehlkörper. Bei Vollkorn bleiben alle drei Teile erhalten.",
+        "In Randschicht und Keimling stecken die meisten Ballaststoffe, Vitamine und Mineralstoffe. Weißmehl besteht fast nur aus dem Mehlkörper."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Farbe täuscht",
+      "absaetze": [
+        "Brot kann durch Malz, Zuckerrübensirup oder Röstprodukte dunkel gefärbt sein. Auch Körner auf der Kruste machen aus einem Weißmehlbrot kein Vollkornbrot.",
+        "In Deutschland muss Vollkornbrot nach den Leitsätzen für Brot zu mindestens 90 Prozent aus Vollkornerzeugnissen bestehen. Achte auf das Wort Vollkorn in der Bezeichnung."
+      ],
+      "merke": "Die Bezeichnung zählt, nicht die Farbe.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es sich lohnt",
+      "absaetze": [
+        "Studien verbinden Vollkorn mit einem geringeren Risiko für Typ-2-Diabetes, Herz-Kreislauf-Erkrankungen und Darmkrebs.",
+        "Die DGE empfiehlt, bei Getreideprodukten möglichst die Vollkornvariante zu wählen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Teile des Korns bleiben bei Vollkorn erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Nur der Mehlkörper",
+        "Randschicht, Keimling und Mehlkörper",
+        "Nur die Randschicht",
+        "Nur der Keimling"
+      ],
+      "richtig": 1,
+      "erklaerung": "Beim Vollkorn bleibt das ganze Korn erhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein dunkles Brot ist immer ein Vollkornbrot.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann zum Beispiel mit Malz oder Sirup gefärbt sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu wie viel Prozent muss Vollkornbrot in Deutschland mindestens aus Vollkornerzeugnissen bestehen?",
+      "art": "mc",
+      "optionen": [
+        "30 Prozent",
+        "50 Prozent",
+        "90 Prozent",
+        "10 Prozent"
+      ],
+      "richtig": 2,
+      "erklaerung": "Nach den Leitsätzen für Brot sind es mindestens 90 Prozent."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vollkorn enthält das ganze Getreidekorn.",
+        "Dunkle Farbe und Körner obendrauf sind kein Beweis für Vollkorn.",
+        "Achte auf die Bezeichnung Vollkorn."
+      ]
+    }
+  ]
+}

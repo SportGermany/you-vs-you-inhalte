@@ -1,0 +1,107 @@
+{
+  "id": "welt-b003-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Was hat die Reformation ausgelöst?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "luther",
+    "reformation",
+    "kirche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wittenberg, 1517. Ein Mönch und Theologieprofessor veröffentlicht 95 Thesen gegen den Ablasshandel.",
+        "Er will die Kirche verbessern. Am Ende ist sie gespalten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Streit um den Ablass",
+      "absaetze": [
+        "Mit einem Ablass konnten Gläubige nach damaliger Lehre Strafen für Sünden verringern. Er wurde auch gegen Geld verkauft, unter anderem für den Bau des Petersdoms in Rom.",
+        "Martin Luther kritisierte das scharf. Für ihn konnte nur der Glaube an Gott den Menschen retten, nicht Geld oder gute Werke."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Protest zur Spaltung",
+      "absaetze": [
+        "Luther weigerte sich, seine Lehren zu widerrufen, auch nicht 1521 vor dem Reichstag in Worms. Daraufhin wurde er geächtet.",
+        "Auf der Wartburg übersetzte er das Neue Testament ins Deutsche. Dank des Buchdrucks verbreiteten sich seine Schriften sehr schnell."
+      ],
+      "merke": "Buchdruck und Bibelübersetzung machten die Reformation zur Massenbewegung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kompromiss",
+      "absaetze": [
+        "Auf die Reformation folgten Jahrzehnte voller Konflikte. 1555 einigte man sich im Augsburger Religionsfrieden.",
+        "Danach bestimmte der Landesherr die Konfession seiner Untertanen. Die Glaubensfreiheit des Einzelnen gab es damit noch nicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wogegen richteten sich Luthers 95 Thesen vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Gegen den Ablasshandel",
+        "Gegen den Buchdruck",
+        "Gegen den Kaiser von China",
+        "Gegen die Kreuzzüge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Luther kritisierte den Verkauf von Ablässen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was übersetzte Luther auf der Wartburg?",
+      "art": "mc",
+      "optionen": [
+        "Die Odyssee",
+        "Das Neue Testament",
+        "Das römische Recht",
+        "Den Koran"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er übersetzte das Neue Testament ins Deutsche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit dem Augsburger Religionsfrieden durfte jeder Mensch seine Konfession frei wählen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Landesherr bestimmte die Konfession."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "1517 kritisierte Luther den Ablasshandel.",
+        "Der Buchdruck verbreitete seine Ideen rasch.",
+        "1555 legte der Augsburger Religionsfrieden fest, dass der Landesherr die Konfession bestimmt."
+      ]
+    }
+  ]
+}

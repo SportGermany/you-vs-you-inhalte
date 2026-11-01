@@ -1,0 +1,113 @@
+{
+  "id": "geo-b003-03",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was regelt das Schengener Abkommen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Schengen-Raum",
+      "herausgeber": "Europäische Kommission",
+      "url": "https://commission.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schengen",
+    "grenzen",
+    "eu"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du fährst mit dem Auto von Deutschland nach Frankreich. Früher hätte dich ein Grenzbeamter angehalten.",
+        "Heute merkst du die Grenze oft nur am Schild am Straßenrand."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Dorf als Namensgeber",
+      "absaetze": [
+        "1985 unterzeichneten fünf Staaten im luxemburgischen Ort Schengen ein Abkommen. Sie wollten die Kontrollen an ihren gemeinsamen Grenzen schrittweise abschaffen.",
+        "Daraus entstand der Schengen-Raum. Darin können Menschen reisen, ohne an den Binnengrenzen regelmäßig kontrolliert zu werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht gleich EU",
+      "absaetze": [
+        "Schengen-Raum und EU sind nicht deckungsgleich. Norwegen, Island, die Schweiz und Liechtenstein sind dabei, obwohl sie nicht zur EU gehören.",
+        "Irland gehört zur EU, aber nicht zum Schengen-Raum. Kroatien kam 2023 hinzu, Bulgarien und Rumänien wurden 2025 vollständig aufgenommen."
+      ],
+      "merke": "Schengen und EU sind zwei verschiedene Kreise."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kontrollen bleiben möglich",
+      "absaetze": [
+        "Im Gegenzug schützen die Staaten die Außengrenzen gemeinsam und arbeiten bei Polizei und Visa zusammen.",
+        "Bei einer ernsten Bedrohung dürfen Staaten vorübergehend wieder an den Binnengrenzen kontrollieren. Deutschland tut das seit 2024 an allen seinen Landgrenzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Land liegt der Ort Schengen?",
+      "art": "mc",
+      "optionen": [
+        "Belgien",
+        "Luxemburg",
+        "Frankreich",
+        "Deutschland"
+      ],
+      "richtig": 1,
+      "erklaerung": "Schengen liegt in Luxemburg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land gehört zum Schengen-Raum, aber nicht zur EU?",
+      "art": "mc",
+      "optionen": [
+        "Irland",
+        "Norwegen",
+        "Zypern",
+        "Großbritannien"
+      ],
+      "richtig": 1,
+      "erklaerung": "Norwegen ist Schengen-Mitglied, aber kein EU-Mitglied."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schengen-Staaten dürfen vorübergehend wieder an den Binnengrenzen kontrollieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist bei einer ernsten Bedrohung erlaubt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Schengener Abkommen von 1985 schaffte Grenzkontrollen im Inneren schrittweise ab.",
+        "Der Schengen-Raum ist nicht identisch mit der EU.",
+        "Vorübergehende Kontrollen sind weiterhin möglich."
+      ]
+    }
+  ]
+}

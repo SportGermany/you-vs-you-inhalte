@@ -1,0 +1,124 @@
+{
+  "id": "stoff-b003-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum ist Bauchfett besonders riskant?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bauchfett",
+    "viszeral",
+    "taille"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Menschen wiegen gleich viel. Bei der einen sitzt das Fett eher an Hüften und Oberschenkeln, beim anderen am Bauch.",
+        "Für die Gesundheit macht das einen Unterschied."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fett ist nicht gleich Fett",
+      "absaetze": [
+        "Unterhautfett liegt direkt unter der Haut. Viszerales Fett liegt tief im Bauchraum, rund um die inneren Organe wie Leber und Darm.",
+        "Viszerales Fett ist sehr stoffwechselaktiv. Es gibt Fettsäuren und Botenstoffe ab, die Entzündungen fördern und die Wirkung von Insulin verschlechtern können."
+      ],
+      "merke": "Das Fett um die Organe ist das riskantere.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Folgen",
+      "absaetze": [
+        "Viel Bauchfett hängt mit einem höheren Risiko für Typ-2-Diabetes, Bluthochdruck und Herz-Kreislauf-Erkrankungen zusammen. Das gilt auch bei Menschen, die nach dem BMI normalgewichtig sind.",
+        "Ärztinnen und Ärzte messen deshalb oft zusätzlich den Taillenumfang."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Bewegung baut viszerales Fett vergleichsweise gut ab, schon bevor sich das Gewicht stark ändert. Auch ausreichend Schlaf und wenig Alkohol helfen.",
+        "Gezielt am Bauch abnehmen kann man dagegen nicht. Sit-ups allein entfernen kein Bauchfett."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Mit Bauchübungen verschwindet das Bauchfett.",
+      "urteil": "mythos",
+      "erklaerung": "Bauchübungen stärken die Muskeln, verbrennen aber kein Fett gezielt an dieser Stelle. Der Körper baut Fett überall ab, gesteuert von Erbanlagen und Hormonen. Ausdauer- und Krafttraining insgesamt wirken besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt viszerales Fett?",
+      "art": "mc",
+      "optionen": [
+        "Direkt unter der Haut",
+        "Rund um die inneren Organe",
+        "In den Knochen",
+        "Nur in den Oberschenkeln"
+      ],
+      "richtig": 1,
+      "erklaerung": "Viszerales Fett liegt tief im Bauchraum um die Organe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was messen Ärztinnen und Ärzte oft zusätzlich zum Gewicht?",
+      "art": "mc",
+      "optionen": [
+        "Den Taillenumfang",
+        "Die Schuhgröße",
+        "Die Haarlänge",
+        "Die Handspanne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Taillenumfang gibt Hinweise auf das Bauchfett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit vielen Sit-ups kann man gezielt Bauchfett abbauen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gezieltes Abnehmen an einer Stelle funktioniert nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viszerales Fett liegt um die Organe und ist stoffwechselaktiv.",
+        "Es erhöht das Risiko für Diabetes und Herz-Kreislauf-Erkrankungen.",
+        "Bewegung baut es gut ab, gezieltes Abnehmen am Bauch gibt es nicht.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

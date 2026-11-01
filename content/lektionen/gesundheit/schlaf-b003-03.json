@@ -1,0 +1,123 @@
+{
+  "id": "schlaf-b003-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläfst du nach Alkohol schlechter?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "alkohol",
+    "schlafqualitaet",
+    "rem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach zwei Gläsern Wein schläfst du schnell ein. Gegen vier Uhr bist du plötzlich hellwach.",
+        "Am Morgen fühlst du dich wie gerädert. Woran liegt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schneller eingeschlafen",
+      "absaetze": [
+        "Alkohol wirkt dämpfend auf das Gehirn. Viele schlafen deshalb schneller ein.",
+        "Diese Wirkung hält aber nur so lange, wie Alkohol im Blut ist. Der Körper baut ihn im Laufe der Nacht ab. Dann kippt der Effekt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unruhige zweite Nachthälfte",
+      "absaetze": [
+        "In der zweiten Nachthälfte wird der Schlaf unruhiger. Man wacht häufiger auf und muss öfter zur Toilette.",
+        "Alkohol unterdrückt außerdem den REM-Schlaf, also die Traumphase. Insgesamt ist der Schlaf weniger erholsam, auch wenn er lang genug war."
+      ],
+      "merke": "Alkohol macht müde, aber der Schlaf wird schlechter.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnarchen und Atemaussetzer",
+      "absaetze": [
+        "Alkohol entspannt die Muskulatur im Rachen. Dadurch schnarchen viele Menschen stärker.",
+        "Bei Menschen mit nächtlichen Atemaussetzern, der Schlafapnoe, kann Alkohol diese verstärken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Ein Schlummertrunk ist eine gute Einschlafhilfe.",
+      "urteil": "mythos",
+      "erklaerung": "Alkohol verkürzt zwar die Zeit bis zum Einschlafen. Er stört aber die zweite Nachthälfte und den REM-Schlaf. Regelmäßig als Schlafhilfe genutzt, kann er Schlafprobleme verstärken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schlafphase unterdrückt Alkohol?",
+      "art": "mc",
+      "optionen": [
+        "Den REM-Schlaf",
+        "Das Einschlafen",
+        "Das Aufwachen am Morgen",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alkohol unterdrückt den REM-Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach Alkohol ist vor allem die zweite Nachthälfte unruhiger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wenn der Alkohol abgebaut wird, wird der Schlaf unruhig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schnarchen viele nach Alkohol stärker?",
+      "art": "mc",
+      "optionen": [
+        "Weil er die Rachenmuskulatur entspannt",
+        "Weil er die Nase verlängert",
+        "Weil er die Lunge vergrößert",
+        "Weil er die Stimme stärkt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die entspannte Rachenmuskulatur verengt die Atemwege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alkohol lässt dich schneller einschlafen.",
+        "Danach wird der Schlaf unruhiger und weniger erholsam.",
+        "Als Schlafhilfe ist er ungeeignet."
+      ]
+    }
+  ]
+}
