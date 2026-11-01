@@ -1,0 +1,125 @@
+{
+  "id": "supp-b013-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchst du zusätzlich Selen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "selen",
+    "schilddruese",
+    "paranuesse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Präparat verspricht mit Selen ein starkes Immunsystem und eine gesunde Schilddrüse.",
+        "Ist Selen bei uns Mangelware?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiges Spurenelement",
+      "absaetze": [
+        "Selen ist ein Spurenelement. Der Körper braucht es nur in kleinen Mengen, etwa für Enzyme, die Zellen schützen, und für den Stoffwechsel der Schilddrüsenhormone.",
+        "Gute Quellen sind Fisch, Fleisch, Eier und Hülsenfrüchte. Paranüsse enthalten so viel Selen, dass schon wenige Stück am Tag sehr viel liefern."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie gut sind wir versorgt?",
+      "absaetze": [
+        "Die Böden in Deutschland enthalten eher wenig Selen. Trotzdem gelten die meisten Menschen mit gemischter Kost als ausreichend versorgt, unter anderem weil Tierfutter oft mit Selen angereichert wird.",
+        "Bei rein pflanzlicher Ernährung kann die Versorgung knapper sein. Ob ein Mangel vorliegt, lässt sich nur ärztlich klären."
+      ],
+      "merke": "Die meisten sind mit gemischter Kost ausreichend versorgt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr ist nicht besser",
+      "absaetze": [
+        "Studien mit Selenpräparaten zeigten bei gut versorgten Menschen keinen Schutz vor Krebs oder Herzkrankheiten. Manche Ergebnisse deuten sogar auf Risiken hin.",
+        "Zwischen ausreichender und zu hoher Menge liegt bei Selen kein großer Abstand."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Zu viel Selen kann zu Vergiftungserscheinungen führen, etwa Haarausfall, brüchigen Nägeln und Verdauungsbeschwerden. Das BfR empfiehlt Höchstmengen für Präparate.",
+        "Wer Selenpräparate nimmt und zusätzlich viele Paranüsse isst, kann leicht zu viel aufnehmen. Kläre eine Einnahme mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür braucht der Körper Selen unter anderem?",
+      "art": "mc",
+      "optionen": [
+        "Für den Stoffwechsel der Schilddrüsenhormone",
+        "Für die Bildung von Haaren aus Luft",
+        "Für die Verdauung von Zellulose",
+        "Für das Sehen von Farben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Selen ist an Enzymen der Schilddrüse beteiligt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Lebensmittel enthält besonders viel Selen?",
+      "art": "mc",
+      "optionen": [
+        "Paranüsse",
+        "Äpfel",
+        "Gurken",
+        "Reiswaffeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schon wenige Paranüsse liefern sehr viel Selen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Selenpräparate schützten gut versorgte Menschen in Studien vor Krebs.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein solcher Schutz zeigte sich nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Selen ist ein wichtiges Spurenelement, etwa für die Schilddrüse.",
+        "Die meisten sind mit gemischter Kost ausreichend versorgt.",
+        "Zu viel Selen kann schaden, Präparate brachten Gesunden keinen Schutz."
+      ]
+    }
+  ]
+}

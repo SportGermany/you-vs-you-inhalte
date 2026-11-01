@@ -1,0 +1,113 @@
+{
+  "id": "haus-b013-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was kostet ein Auto wirklich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Autokosten und Versicherung",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "auto",
+    "mobilitaet",
+    "fixkosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Autokauf schaust du auf den Preis und vielleicht auf den Verbrauch. Danach scheint das Auto nur noch Benzin zu kosten.",
+        "Die tatsächlichen Kosten sind meist deutlich höher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der größte Posten: Wertverlust",
+      "absaetze": [
+        "Ein Auto verliert mit jedem Jahr an Wert. Bei Neuwagen ist der Wertverlust in den ersten Jahren besonders hoch. Er ist oft der größte Kostenposten, auch wenn man ihn nicht monatlich bezahlt.",
+        "Der ADAC berechnet deshalb Vollkosten. Sie enthalten neben dem Wertverlust auch fixe Kosten, Betriebskosten und Werkstattkosten."
+      ],
+      "merke": "Der Wertverlust ist oft der teuerste Teil eines Autos."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fixe und laufende Kosten",
+      "absaetze": [
+        "Zu den fixen Kosten gehören Versicherung, Kfz-Steuer und eventuell Parkplatz oder Garage. Sie fallen an, auch wenn das Auto nur steht.",
+        "Dazu kommen Kraftstoff oder Strom, Wartung, Reparaturen, Reifen und Hauptuntersuchung. Zusammen ergeben sich für ein durchschnittliches Auto meist mehrere Hundert Euro pro Monat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vergleichen lohnt sich",
+      "absaetze": [
+        "Wer seine echten Autokosten kennt, kann besser vergleichen. Für manche Menschen in der Stadt sind öffentlicher Verkehr, Fahrrad und gelegentliches Carsharing günstiger.",
+        "Auf dem Land ist ein Auto oft unverzichtbar. Hier lohnt der Blick auf ein sparsames, eher kleines Modell."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist oft der größte Kostenposten eines Autos?",
+      "art": "mc",
+      "optionen": [
+        "Der Wertverlust",
+        "Die Scheibenwischer",
+        "Das Radio",
+        "Der Duftbaum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Wertverlust wird oft unterschätzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kosten fallen an, auch wenn das Auto nur steht?",
+      "art": "mc",
+      "optionen": [
+        "Versicherung und Kfz-Steuer",
+        "Kraftstoff",
+        "Reifenabrieb",
+        "Ölverbrauch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fixkosten laufen unabhängig von der Nutzung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für manche Menschen in der Stadt können Alternativen zum eigenen Auto günstiger sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein ehrlicher Kostenvergleich lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Auto kostet viel mehr als nur Kraftstoff.",
+        "Der Wertverlust ist oft der größte Posten.",
+        "Ein Vergleich der Vollkosten hilft bei der Entscheidung."
+      ]
+    }
+  ]
+}

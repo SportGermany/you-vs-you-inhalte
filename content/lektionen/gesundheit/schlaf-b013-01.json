@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b013-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist Narkolepsie?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Leitlinien und Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Neurologie",
+      "url": "https://dgn.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "narkolepsie",
+    "tagesschlaefrigkeit",
+    "neurologie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten in einem Gespräch schläft ein junger Mann plötzlich ein. Ein anderes Mal sackt er beim Lachen in sich zusammen.",
+        "Er ist nicht faul und nicht übermüdet. Er hat eine seltene Erkrankung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Störung der Schlaf-Wach-Steuerung",
+      "absaetze": [
+        "Narkolepsie ist eine neurologische Erkrankung. Bei der häufigsten Form fehlt im Gehirn der Botenstoff Orexin, auch Hypocretin genannt. Er hilft, wach zu bleiben und die Schlafphasen zu ordnen.",
+        "Vermutlich zerstört das eigene Immunsystem die Nervenzellen, die Orexin bilden. Die Erkrankung beginnt oft im Jugend- oder jungen Erwachsenenalter."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Anzeichen",
+      "absaetze": [
+        "Betroffene leiden unter starker Tagesschläfrigkeit und plötzlichen Schlafattacken. Bei vielen tritt außerdem eine Kataplexie auf: Bei starken Gefühlen wie Lachen oder Schreck erschlafft plötzlich die Muskulatur, bei vollem Bewusstsein.",
+        "Auch lebhafte Traumbilder beim Einschlafen und eine kurze Lähmung beim Aufwachen kommen vor."
+      ],
+      "merke": "Plötzliche Muskelschwäche bei starken Gefühlen ist typisch.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Diagnose und Behandlung",
+      "absaetze": [
+        "Narkolepsie ist selten und wird oft erst nach Jahren erkannt. Die Diagnose stellt man im Schlaflabor.",
+        "Heilbar ist sie bisher nicht, aber gut behandelbar. Medikamente, geplante kurze Schlafpausen am Tag und ein regelmäßiger Rhythmus helfen vielen Betroffenen, ein weitgehend normales Leben zu führen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Botenstoff fehlt bei der häufigsten Form der Narkolepsie?",
+      "art": "mc",
+      "optionen": [
+        "Orexin",
+        "Insulin",
+        "Adrenalin",
+        "Melatonin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Orexin, auch Hypocretin genannt, fehlt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Kataplexie?",
+      "art": "mc",
+      "optionen": [
+        "Plötzliche Muskelschwäche bei starken Gefühlen",
+        "Eine Form von Schlafwandeln",
+        "Ein Albtraum",
+        "Ein Schlafmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Muskulatur erschlafft bei vollem Bewusstsein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Narkolepsie ist bisher heilbar.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist nicht heilbar, aber gut behandelbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Narkolepsie ist eine seltene neurologische Erkrankung.",
+        "Typisch sind Schlafattacken und Muskelschwäche bei Gefühlen.",
+        "Sie ist gut behandelbar, wird aber oft spät erkannt."
+      ]
+    }
+  ]
+}

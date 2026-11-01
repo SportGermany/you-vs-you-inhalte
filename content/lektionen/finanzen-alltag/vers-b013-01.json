@@ -1,0 +1,113 @@
+{
+  "id": "vers-b013-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Haftpflicht, Teilkasko, Vollkasko: Was zahlt welche Autoversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Autokosten und Versicherung",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kfz-versicherung",
+    "teilkasko",
+    "vollkasko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Reh springt auf die Straße, der Kühlergrill ist kaputt. Eine Woche später fährst du beim Ausparken gegen einen Pfeiler.",
+        "Welche Versicherung zahlt was?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haftpflicht ist Pflicht",
+      "absaetze": [
+        "Jedes Auto in Deutschland muss eine Kfz-Haftpflichtversicherung haben. Sie zahlt Schäden, die du mit dem Auto anderen zufügst, etwa an anderen Autos oder an verletzten Menschen.",
+        "Schäden am eigenen Auto bezahlt sie nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teilkasko",
+      "absaetze": [
+        "Die Teilkasko zahlt bestimmte Schäden am eigenen Auto, die du nicht selbst verursacht hast. Dazu gehören meist Diebstahl, Glasbruch, Brand, Sturm, Hagel und Zusammenstöße mit Haarwild wie Rehen.",
+        "Der Wildunfall vom Anfang wäre also ein Fall für die Teilkasko."
+      ],
+      "merke": "Teilkasko zahlt Schäden durch äußere Ereignisse wie Wild oder Hagel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vollkasko",
+      "absaetze": [
+        "Die Vollkasko enthält die Leistungen der Teilkasko. Zusätzlich zahlt sie Schäden, die du am eigenen Auto selbst verursacht hast, sowie Vandalismus.",
+        "Sie lohnt sich vor allem für neue oder wertvolle Autos. Bei der Haftpflicht und der Vollkasko gibt es Schadenfreiheitsklassen: Wer lange keinen Schaden meldet, zahlt weniger. Ein Schaden kann den Beitrag wieder erhöhen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Autoversicherung ist in Deutschland Pflicht?",
+      "art": "mc",
+      "optionen": [
+        "Die Kfz-Haftpflicht",
+        "Die Vollkasko",
+        "Die Teilkasko",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Haftpflicht ist gesetzlich vorgeschrieben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt bei einem Wildunfall mit einem Reh?",
+      "art": "mc",
+      "optionen": [
+        "Die Teilkasko",
+        "Nur die Haftpflicht",
+        "Die Hausratversicherung",
+        "Die Krankenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zusammenstöße mit Haarwild deckt die Teilkasko."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Vollkasko zahlt auch Schäden, die du am eigenen Auto selbst verursacht hast.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das unterscheidet sie von der Teilkasko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kfz-Haftpflicht zahlt Schäden bei anderen und ist Pflicht.",
+        "Die Teilkasko deckt Diebstahl, Glas, Wild und Unwetter.",
+        "Die Vollkasko zahlt zusätzlich selbst verursachte Schäden."
+      ]
+    }
+  ]
+}

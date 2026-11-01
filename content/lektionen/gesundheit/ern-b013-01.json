@@ -1,0 +1,111 @@
+{
+  "id": "ern-b013-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Eier schlecht für das Cholesterin?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "eier",
+    "cholesterin",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher hieß es: höchstens zwei, drei Eier pro Woche, sonst steigt das Cholesterin.",
+        "Heute liest man oft das Gegenteil. Was stimmt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Cholesterin im Ei und im Blut",
+      "absaetze": [
+        "Ein Eigelb enthält viel Cholesterin. Lange nahm man an, dass es den Cholesterinspiegel im Blut direkt erhöht.",
+        "Heute weiß man: Der Körper bildet selbst einen großen Teil seines Cholesterins. Isst man mehr davon, bildet er bei vielen Menschen weniger. Gesättigte Fette und Transfette beeinflussen den Blutspiegel meist stärker als das Cholesterin aus der Nahrung."
+      ],
+      "merke": "Gesättigte Fette beeinflussen das Blutcholesterin meist stärker als Eier.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Für gesunde Menschen fanden viele Studien bei maßvollem Eierkonsum kein deutlich erhöhtes Risiko für Herz-Kreislauf-Erkrankungen. Die Ergebnisse sind aber nicht ganz einheitlich.",
+        "Menschen reagieren unterschiedlich auf Cholesterin aus der Nahrung. Bei Diabetes oder erhöhtem Cholesterin ist Zurückhaltung eher angebracht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Eier liefern",
+      "absaetze": [
+        "Eier enthalten hochwertiges Eiweiß, Vitamin D, B-Vitamine und weitere Nährstoffe. Sie sind preiswert und vielseitig.",
+        "Wichtig ist auch, womit man sie isst. Rührei mit Speck und Weißbrot ist etwas anderes als ein Ei mit Vollkornbrot und Gemüse."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beeinflusst das Blutcholesterin meist stärker als Cholesterin aus Eiern?",
+      "art": "mc",
+      "optionen": [
+        "Gesättigte Fette und Transfette",
+        "Wasser",
+        "Gemüse",
+        "Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gesättigte Fette und Transfette wirken meist stärker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht der Körper bei vielen Menschen, wenn mehr Cholesterin über die Nahrung kommt?",
+      "art": "mc",
+      "optionen": [
+        "Er bildet selbst weniger",
+        "Er bildet doppelt so viel",
+        "Er speichert alles im Gehirn",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die eigene Produktion wird oft gedrosselt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle Menschen reagieren gleich auf Cholesterin aus der Nahrung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Reaktion ist individuell verschieden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cholesterin aus Eiern erhöht das Blutcholesterin oft weniger als gedacht.",
+        "Für Gesunde scheint ein maßvoller Eierkonsum unbedenklich.",
+        "Bei Diabetes oder hohem Cholesterin ist Zurückhaltung sinnvoll."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "all-b013-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wo liegen wir in der Milchstraße?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Milky Way Galaxy",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gaia",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "milchstrasse",
+    "galaxie",
+    "sterne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In einer klaren Nacht fern der Stadt zieht sich ein heller, milchiger Streifen über den Himmel.",
+        "Was du siehst, ist unsere eigene Galaxie, von innen betrachtet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Spiralgalaxie",
+      "absaetze": [
+        "Die Milchstraße ist eine Galaxie aus Hunderten Milliarden Sternen, dazu Gas und Staub. Von oben betrachtet sähe sie aus wie eine flache Scheibe mit Spiralarmen und einem länglichen Balken in der Mitte.",
+        "Ihr Durchmesser beträgt etwa 100.000 Lichtjahre. Ein Lichtjahr ist die Strecke, die das Licht in einem Jahr zurücklegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unser Platz",
+      "absaetze": [
+        "Die Sonne liegt nicht im Zentrum, sondern in einem der Spiralarme, etwa 26.000 Lichtjahre vom Zentrum entfernt. Im Zentrum sitzt ein gewaltiges Schwarzes Loch.",
+        "Die Sonne umkreist das Zentrum mit hoher Geschwindigkeit. Für eine Runde braucht sie trotzdem etwa 230 Millionen Jahre."
+      ],
+      "merke": "Wir leben am Rand eines Spiralarms, nicht im Zentrum."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Galaxie von vielen",
+      "absaetze": [
+        "Der helle Streifen am Himmel entsteht, weil wir in die Scheibe hineinschauen und dort besonders viele Sterne sehen.",
+        "Die Milchstraße ist nur eine von vermutlich Hunderten Milliarden Galaxien im beobachtbaren Universum. Die ESA-Raumsonde Gaia hat die Positionen von mehr als einer Milliarde Sterne vermessen und so eine genaue Karte unserer Galaxie erstellt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Form hat die Milchstraße?",
+      "art": "mc",
+      "optionen": [
+        "Eine Spiralgalaxie mit Balken",
+        "Eine Kugel",
+        "Ein Würfel",
+        "Ein unregelmäßiger Klumpen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist eine Balkenspiralgalaxie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie weit ist die Sonne etwa vom Zentrum der Milchstraße entfernt?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 26.000 Lichtjahre",
+        "Etwa 8 Lichtminuten",
+        "Etwa 1 Lichtjahr",
+        "Sie liegt genau im Zentrum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Sonne liegt etwa 26.000 Lichtjahre vom Zentrum entfernt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Sonne braucht für eine Runde um das Zentrum der Milchstraße etwa 230 Millionen Jahre.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das nennt man auch ein galaktisches Jahr."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Milchstraße ist eine Spiralgalaxie mit Hunderten Milliarden Sternen.",
+        "Die Sonne liegt etwa 26.000 Lichtjahre vom Zentrum entfernt.",
+        "Der Streifen am Himmel ist der Blick in die Scheibe unserer Galaxie."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "tech-b013-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie fährt ein Elektroauto?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Elektromobilität",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Autokosten und Versicherung",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "elektroauto",
+    "akku",
+    "effizienz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Elektroauto rollt fast lautlos an einer Ampel los. Kein Motorbrummen, kein Auspuff.",
+        "Was passiert unter der Haube?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Akku und Elektromotor",
+      "absaetze": [
+        "Ein Elektroauto speichert Energie in einem großen Akku, meist einem Lithium-Ionen-Akku im Fahrzeugboden. Ein Elektromotor wandelt den Strom in Bewegung um.",
+        "Elektromotoren haben schon beim Anfahren viel Kraft. Ein Getriebe mit vielen Gängen ist deshalb meist nicht nötig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sehr effizient",
+      "absaetze": [
+        "Ein Elektromotor wandelt einen großen Teil der Energie in Bewegung um. Bei Verbrennungsmotoren geht ein deutlich größerer Teil als Wärme verloren.",
+        "Beim Bremsen kann der Motor als Generator arbeiten und Energie zurück in den Akku speisen. Das nennt man Rekuperation. Besonders im Stadtverkehr spart das Energie."
+      ],
+      "merke": "Elektromotoren nutzen Energie deutlich effizienter als Verbrennungsmotoren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Laden und Klimabilanz",
+      "absaetze": [
+        "Geladen wird an der Haushaltssteckdose, an einer Wandladestation oder an Schnellladesäulen. An Schnellladern geht es mit Gleichstrom deutlich schneller.",
+        "Die Herstellung des Akkus verursacht viel Kohlendioxid. Über die Nutzungsdauer schneiden Elektroautos laut Umweltbundesamt in Deutschland trotzdem meist besser ab als Verbrenner, und mit mehr Ökostrom wird der Vorteil größer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Rekuperation?",
+      "art": "mc",
+      "optionen": [
+        "Energie beim Bremsen zurückgewinnen",
+        "Den Akku austauschen",
+        "Den Motor kühlen",
+        "Benzin nachfüllen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Bremsen wird Energie zurück in den Akku gespeist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird ein Elektroauto am schnellsten geladen?",
+      "art": "mc",
+      "optionen": [
+        "An einer Schnellladesäule mit Gleichstrom",
+        "An einer normalen Haushaltssteckdose",
+        "Mit einer Powerbank",
+        "An einer Tankstelle mit Benzin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schnelllader liefern Gleichstrom mit hoher Leistung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Elektromotoren wandeln Energie weniger effizient um als Verbrennungsmotoren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind deutlich effizienter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Elektroauto fährt mit Akku und Elektromotor.",
+        "Es nutzt Energie effizient und gewinnt beim Bremsen Energie zurück.",
+        "Über die Nutzungszeit ist die Klimabilanz meist besser als beim Verbrenner."
+      ]
+    }
+  ]
+}

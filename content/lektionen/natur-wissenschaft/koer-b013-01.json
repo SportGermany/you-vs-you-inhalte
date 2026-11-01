@@ -1,0 +1,135 @@
+{
+  "id": "koer-b013-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum schadet Lärm deinen Ohren?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lärm",
+      "herausgeber": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)",
+      "url": "https://www.baua.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets and Guidelines",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "laerm",
+    "hoeren",
+    "gehoerschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Konzert piept es in deinen Ohren. Am nächsten Morgen ist es meist vorbei.",
+        "Doch jedes Mal kann ein kleiner Schaden zurückbleiben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haarzellen im Innenohr",
+      "absaetze": [
+        "Im Innenohr sitzen feine Sinneszellen mit winzigen Härchen. Sie wandeln Schallwellen in Nervensignale um.",
+        "Sehr lauter Schall kann diese Haarzellen überlasten und dauerhaft schädigen. Einmal zerstört, wachsen sie beim Menschen nicht nach. Ein Hörverlust durch Lärm ist deshalb meist bleibend."
+      ],
+      "merke": "Zerstörte Haarzellen im Ohr wachsen nicht nach."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lautstärke und Dauer",
+      "absaetze": [
+        "Entscheidend ist die Kombination aus Lautstärke und Dauer. Lautstärke wird in Dezibel gemessen. Schon wenige Dezibel mehr bedeuten deutlich mehr Belastung.",
+        "In Deutschland muss der Arbeitgeber ab einem Tagesdurchschnitt von 85 Dezibel Gehörschutz zur Verfügung stellen und dafür sorgen, dass er getragen wird. Konzerte und Clubs erreichen oft deutlich mehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohren schützen",
+      "absaetze": [
+        "Die WHO warnt, dass weltweit sehr viele junge Menschen durch laute Musik über Kopfhörer und bei Veranstaltungen ihr Gehör gefährden.",
+        "Gehörschutzstöpsel bei Konzerten, Pausen in ruhiger Umgebung und eine moderate Kopfhörerlautstärke helfen. Ein Pfeifen oder dumpfes Hören nach Lärm ist ein Warnsignal."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Gut für deine Ohren",
+      "schritte": [
+        {
+          "titel": "Stöpsel einpacken",
+          "text": "Nimm zu Konzerten und in Clubs Gehörschutz mit."
+        },
+        {
+          "titel": "Abstand",
+          "text": "Halte Abstand zu Lautsprechern."
+        },
+        {
+          "titel": "Leiser hören",
+          "text": "Stell Kopfhörer so ein, dass du die Umgebung noch wahrnimmst."
+        },
+        {
+          "titel": "Ruhephasen",
+          "text": "Gönn deinen Ohren nach lauten Abenden Erholung."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit zerstörten Haarzellen im Innenohr?",
+      "art": "mc",
+      "optionen": [
+        "Sie wachsen beim Menschen nicht nach",
+        "Sie wachsen in einer Woche nach",
+        "Sie verwandeln sich in Knochen",
+        "Sie werden zu Ohrenschmalz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lärmschäden sind deshalb meist bleibend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem Tagesdurchschnitt muss in Deutschland am Arbeitsplatz Gehörschutz getragen werden?",
+      "art": "mc",
+      "optionen": [
+        "85 Dezibel",
+        "30 Dezibel",
+        "50 Dezibel",
+        "200 Dezibel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ab 85 Dezibel ist Gehörschutz Pflicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Pfeifen in den Ohren nach einem Konzert ist ein Warnsignal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es zeigt eine Überlastung des Gehörs."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lärm kann die Haarzellen im Innenohr dauerhaft schädigen.",
+        "Lautstärke und Dauer bestimmen die Belastung.",
+        "Gehörschutz, Abstand und leisere Kopfhörer schützen."
+      ]
+    }
+  ]
+}

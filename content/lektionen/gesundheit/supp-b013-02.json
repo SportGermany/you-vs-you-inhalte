@@ -1,0 +1,116 @@
+{
+  "id": "supp-b013-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was weiß man über CBD-Öl?",
+  "minuten": 4,
+  "studienlage": 1,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Sweeteners and Nutrition",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "cbd",
+    "cannabis",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "CBD-Öl soll gegen Stress, Schlafprobleme und Schmerzen helfen. Es wird online und in Läden verkauft.",
+        "Was ist dran, und wie sicher ist es?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was CBD ist",
+      "absaetze": [
+        "CBD steht für Cannabidiol, einen Inhaltsstoff der Hanfpflanze. Anders als THC macht CBD nicht high.",
+        "Ein CBD-haltiges Arzneimittel ist für bestimmte seltene, schwere Formen der Epilepsie zugelassen. Dort ist eine Wirkung belegt. Kleine Studien deuten auf mögliche weitere Effekte hin. Belastbare Belege für die vielen anderen Versprechen fehlen aber."
+      ],
+      "merke": "Belegt ist ein Nutzen nur bei bestimmten seltenen Epilepsieformen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unklare Rechtslage",
+      "absaetze": [
+        "Als Lebensmittel oder Nahrungsergänzungsmittel ist CBD in der EU als neuartiges Lebensmittel eingestuft. Eine Zulassung dafür gibt es bisher nicht. Die EFSA sieht noch große Wissenslücken zur Sicherheit.",
+        "Trotzdem werden viele Produkte verkauft. Untersuchungen fanden teils deutlich andere Mengen als angegeben und manchmal auch THC."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "CBD kann den Abbau vieler Medikamente in der Leber beeinflussen und so ihre Wirkung verändern. Bei höheren Mengen wurden erhöhte Leberwerte beobachtet.",
+        "Produkte können THC enthalten, was im Straßenverkehr problematisch sein kann. In Schwangerschaft und Stillzeit wird von CBD abgeraten. Sprich vor einer Einnahme mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht CBD?",
+      "art": "mc",
+      "optionen": [
+        "Cannabidiol",
+        "Calcium-Bicarbonat-Dioxid",
+        "Chemischer Basisdünger",
+        "Cholesterin-Blocker"
+      ],
+      "richtig": 0,
+      "erklaerung": "CBD ist Cannabidiol aus der Hanfpflanze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei ist ein Nutzen von CBD belegt?",
+      "art": "mc",
+      "optionen": [
+        "Bei bestimmten seltenen Epilepsieformen",
+        "Bei Haarausfall",
+        "Bei allen Schlafproblemen",
+        "Bei Kurzsichtigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür ist ein Arzneimittel zugelassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "CBD macht high wie THC.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. CBD wirkt nicht berauschend."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "CBD ist ein nicht berauschender Hanf-Inhaltsstoff.",
+        "Ein Nutzen ist nur bei bestimmten seltenen Epilepsien belegt.",
+        "Als Lebensmittel ist CBD in der EU nicht zugelassen, die Sicherheit ist unklar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "schlaf-b013-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum macht die Zeitumstellung vielen zu schaffen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zeitumstellung",
+    "sommerzeit",
+    "innere-uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ende März wird die Uhr eine Stunde vorgestellt. Am Montag danach fühlst du dich wie nach einem Flug.",
+        "Dabei ist es doch nur eine Stunde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Mini-Jetlag",
+      "absaetze": [
+        "Bei der Umstellung auf Sommerzeit verschiebt sich die Uhrzeit plötzlich um eine Stunde nach vorn. Die innere Uhr passt sich aber nur allmählich an.",
+        "Viele Menschen schlafen in den Tagen danach schlechter und kürzer. Die Anpassung kann je nach Person einige Tage bis länger dauern. Im Herbst fällt die Umstellung meist leichter."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien beobachten",
+      "absaetze": [
+        "Einige Studien finden in den Tagen nach der Umstellung im Frühjahr etwas mehr Herzinfarkte und Verkehrsunfälle. Die Effekte sind klein, und nicht alle Studien kommen zum selben Ergebnis.",
+        "Schlafmediziner kritisieren vor allem die dauerhafte Sommerzeit. Sie verschiebt das Licht in den Abend, was für die innere Uhr vieler Menschen ungünstig ist."
+      ],
+      "merke": "Die Umstellung im Frühjahr ist für den Körper die schwierigere.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abschaffen, aber wie?",
+      "absaetze": [
+        "In einer Online-Umfrage der EU-Kommission 2018 sprach sich eine große Mehrheit der Teilnehmenden für die Abschaffung der Zeitumstellung aus. Das Europäische Parlament stimmte 2019 dafür.",
+        "Umgesetzt wurde sie bisher nicht, weil sich die Mitgliedsstaaten nicht einigen konnten, welche Zeit dauerhaft gelten soll."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "schritte",
+      "titel": "So kommst du besser durch die Umstellung",
+      "schritte": [
+        {
+          "titel": "Früher ins Bett",
+          "text": "Geh einige Tage vorher schrittweise etwas früher schlafen."
+        },
+        {
+          "titel": "Morgenlicht",
+          "text": "Geh morgens nach draußen ins Tageslicht."
+        },
+        {
+          "titel": "Abends dimmen",
+          "text": "Vermeide helles Licht am späten Abend."
+        },
+        {
+          "titel": "Geduld",
+          "text": "Plane in den ersten Tagen keine großen Anstrengungen ein."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Umstellung fällt vielen schwerer?",
+      "art": "mc",
+      "optionen": [
+        "Die auf Sommerzeit im Frühjahr",
+        "Die auf Winterzeit im Herbst",
+        "Beide gleich",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Frühjahr fehlt eine Stunde, das fällt den meisten schwerer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beobachten einige Studien nach der Umstellung im Frühjahr?",
+      "art": "mc",
+      "optionen": [
+        "Etwas mehr Herzinfarkte und Unfälle",
+        "Weniger Krankheiten",
+        "Mehr Schlaf",
+        "Keine Veränderungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Effekte sind klein, aber messbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Zeitumstellung in der EU wurde 2019 abgeschafft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Parlament stimmte zu, umgesetzt wurde es bisher nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Zeitumstellung wirkt wie ein kleiner Jetlag.",
+        "Die Umstellung auf Sommerzeit ist meist schwieriger.",
+        "Die Abschaffung in der EU wurde bisher nicht umgesetzt."
+      ]
+    }
+  ]
+}

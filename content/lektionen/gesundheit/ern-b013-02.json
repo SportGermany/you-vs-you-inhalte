@@ -1,0 +1,123 @@
+{
+  "id": "ern-b013-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt hinter dem Wort Superfood?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "superfood",
+    "chia",
+    "regional"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Chiasamen, Gojibeeren, Açaí-Pulver: Im Regal stehen kleine Tüten zu großen Preisen.",
+        "Auf der Verpackung prangt das Wort Superfood. Was bedeutet es?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Werbebegriff",
+      "absaetze": [
+        "Superfood ist kein geschützter oder wissenschaftlicher Begriff. Er wird im Marketing für Lebensmittel genutzt, die besonders viele Nährstoffe enthalten sollen.",
+        "Viele dieser Produkte sind tatsächlich nährstoffreich. Für die versprochenen besonderen Gesundheitswirkungen fehlen aber meist gute Belege."
+      ],
+      "merke": "Superfood ist ein Werbewort, kein Qualitätsnachweis.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Heimische Alternativen",
+      "absaetze": [
+        "Viele heimische Lebensmittel sind mindestens ebenso nährstoffreich und deutlich günstiger. Leinsamen liefern ähnlich wie Chiasamen Ballaststoffe und pflanzliches Omega-3.",
+        "Heidelbeeren, schwarze Johannisbeeren und Grünkohl stehen exotischen Beeren und Pulvern in vielem nicht nach. Sie haben außerdem kürzere Transportwege."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten kannst",
+      "absaetze": [
+        "Bei importierten Produkten wurden in Untersuchungen gelegentlich Schadstoffe oder Pestizidrückstände gefunden. Verbraucherzentralen raten deshalb, auf geprüfte Ware zu achten.",
+        "Gesundheit entsteht nicht durch einzelne Wunderzutaten, sondern durch eine insgesamt ausgewogene Ernährung mit viel Gemüse, Obst, Vollkorn und Hülsenfrüchten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Superfoods sind deutlich gesünder als normales Obst und Gemüse.",
+      "urteil": "mythos",
+      "erklaerung": "Für die meisten sogenannten Superfoods fehlen Belege für besondere Wirkungen. Heimisches Obst, Gemüse, Leinsamen und Nüsse liefern ähnliche Nährstoffe, oft günstiger und mit kürzeren Wegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Superfood ein geschützter Begriff?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist ein Werbebegriff ohne feste Definition."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches heimische Lebensmittel ist eine Alternative zu Chiasamen?",
+      "art": "mc",
+      "optionen": [
+        "Leinsamen",
+        "Zucker",
+        "Weißmehl",
+        "Butter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leinsamen liefern ähnliche Nährstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für die Gesundheit entscheidend?",
+      "art": "mc",
+      "optionen": [
+        "Eine insgesamt ausgewogene Ernährung",
+        "Einzelne exotische Zutaten",
+        "Möglichst teure Lebensmittel",
+        "Nur Pulver und Kapseln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ernährung als Ganzes zählt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Superfood ist ein Werbebegriff ohne feste Definition.",
+        "Heimische Lebensmittel sind oft ebenso nährstoffreich und günstiger.",
+        "Gesundheit entsteht durch die ganze Ernährung."
+      ]
+    }
+  ]
+}
