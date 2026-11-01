@@ -1,0 +1,135 @@
+{
+  "id": "all-b007-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Woher kommen Sternschnuppen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Black Holes and Meteors",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sternschnuppen",
+    "meteore",
+    "perseiden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine warme Augustnacht. Du liegst auf einer Wiese und siehst plötzlich einen hellen Strich am Himmel.",
+        "Mit Sternen haben Sternschnuppen allerdings nichts zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Staub, der verglüht",
+      "absaetze": [
+        "Sternschnuppen entstehen, wenn kleine Teilchen aus dem All in die Erdatmosphäre eindringen. Meist sind sie nur so groß wie ein Sandkorn.",
+        "Sie rasen mit sehr hoher Geschwindigkeit heran. Durch die Reibung an der Luft heizen sie sich auf und bringen die Luft zum Leuchten. Das passiert in etwa 70 bis 100 Kilometern Höhe."
+      ],
+      "merke": "Eine Sternschnuppe ist ein verglühendes Staubkorn."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Spur eines Kometen",
+      "absaetze": [
+        "Kometen verlieren auf ihrer Bahn um die Sonne Staub. Kreuzt die Erde eine solche Staubspur, sieht man besonders viele Sternschnuppen. Man spricht von einem Meteorstrom.",
+        "Bekannt sind die Perseiden im August. Sie stammen vom Kometen Swift-Tuttle. In guten Nächten sind dann viele Sternschnuppen pro Stunde zu sehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Meteoroid, Meteor, Meteorit",
+      "absaetze": [
+        "Das Teilchen im All heißt Meteoroid. Die Leuchterscheinung in der Atmosphäre heißt Meteor.",
+        "Erreicht ein Rest den Erdboden, nennt man ihn Meteorit. Die meisten Sternschnuppen verglühen aber vollständig."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Gut Sternschnuppen sehen",
+      "schritte": [
+        {
+          "titel": "Dunkel",
+          "text": "Such dir einen Ort fern von Stadtlicht."
+        },
+        {
+          "titel": "Geduld",
+          "text": "Lass deine Augen etwa 20 Minuten an die Dunkelheit gewöhnen."
+        },
+        {
+          "titel": "Kein Handy",
+          "text": "Das helle Display stört die Anpassung der Augen."
+        },
+        {
+          "titel": "Zeitpunkt",
+          "text": "Die Perseiden um Mitte August sind besonders bekannt."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie groß sind die meisten Teilchen, die Sternschnuppen erzeugen?",
+      "art": "mc",
+      "optionen": [
+        "Etwa so groß wie ein Sandkorn",
+        "So groß wie ein Haus",
+        "So groß wie der Mond",
+        "So groß wie ein Auto"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist sind es winzige Staubteilchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von welchem Kometen stammen die Perseiden?",
+      "art": "mc",
+      "optionen": [
+        "Swift-Tuttle",
+        "Halley",
+        "Hale-Bopp",
+        "Tschurjumow-Gerassimenko"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Perseiden stammen vom Kometen Swift-Tuttle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Meteorit ist ein Rest, der den Erdboden erreicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die meisten Teilchen verglühen aber vollständig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sternschnuppen sind verglühende Staubteilchen.",
+        "Meteorströme entstehen, wenn die Erde Kometenstaub kreuzt.",
+        "Was den Boden erreicht, heißt Meteorit."
+      ]
+    }
+  ]
+}

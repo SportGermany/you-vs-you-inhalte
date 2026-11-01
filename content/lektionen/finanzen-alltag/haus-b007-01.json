@@ -1,0 +1,135 @@
+{
+  "id": "haus-b007-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie senkst du deine Heizkosten?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energiesparen, Heizen und Ozonschicht",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Energie, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "heizen",
+    "energiesparen",
+    "lueften"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Heizkostenabrechnung kommt, und die Nachzahlung ist hoch. Du fragst dich, wo du sparen kannst.",
+        "Oft helfen schon kleine Änderungen im Alltag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Jedes Grad zählt",
+      "absaetze": [
+        "Nach Angaben des Umweltbundesamts spart jedes Grad weniger Raumtemperatur etwa sechs Prozent Heizenergie. Im Wohnzimmer reichen vielen etwa 20 Grad, im Schlafzimmer weniger.",
+        "Nachts und bei Abwesenheit lohnt es sich, die Temperatur etwas abzusenken. Ganz auskühlen sollten Räume aber nicht, sonst droht Schimmel."
+      ],
+      "merke": "Ein Grad weniger spart etwa sechs Prozent Heizenergie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig lüften",
+      "absaetze": [
+        "Dauerhaft gekippte Fenster lassen viel Wärme entweichen und kühlen die Wände aus. Besser ist Stoßlüften: mehrmals täglich die Fenster für einige Minuten weit öffnen.",
+        "Dabei wird die feuchte Luft schnell ausgetauscht, ohne dass Wände und Möbel auskühlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme nicht verstecken",
+      "absaetze": [
+        "Heizkörper sollten frei stehen. Lange Vorhänge, Möbel oder Verkleidungen halten die Wärme zurück.",
+        "Abends geschlossene Rollläden und Vorhänge verringern Wärmeverluste über die Fenster. Gluckernde Heizkörper sollten entlüftet werden, damit sie gleichmäßig warm werden."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Sofort umsetzbar",
+      "schritte": [
+        {
+          "titel": "Temperatur prüfen",
+          "text": "Senke die Raumtemperatur um ein Grad und beobachte, ob es angenehm bleibt."
+        },
+        {
+          "titel": "Stoßlüften",
+          "text": "Mehrmals täglich kurz und weit statt dauernd gekippt."
+        },
+        {
+          "titel": "Heizkörper freiräumen",
+          "text": "Rücke Möbel ab und kürze Vorhänge, die davor hängen."
+        },
+        {
+          "titel": "Nachts absenken",
+          "text": "Nutze programmierbare Thermostate oder dreh abends etwas herunter."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Heizenergie spart etwa ein Grad weniger Raumtemperatur?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 6 Prozent",
+        "Etwa 50 Prozent",
+        "Nichts",
+        "Etwa 0,1 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Umweltbundesamt nennt etwa sechs Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Art zu lüften ist im Winter besser?",
+      "art": "mc",
+      "optionen": [
+        "Stoßlüften",
+        "Fenster dauerhaft kippen",
+        "Gar nicht lüften",
+        "Nur nachts kippen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Stoßlüften tauscht Luft aus, ohne Wände auszukühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Möbel vor dem Heizkörper halten Wärme zurück.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Heizkörper sollten frei stehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Jedes Grad weniger spart rund sechs Prozent Heizenergie.",
+        "Stoßlüften ist besser als gekippte Fenster.",
+        "Heizkörper freihalten und nachts absenken."
+      ]
+    }
+  ]
+}

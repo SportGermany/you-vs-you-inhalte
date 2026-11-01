@@ -1,0 +1,139 @@
+{
+  "id": "ern-b007-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt hinter fünf Portionen Obst und Gemüse?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "obst",
+    "gemuese",
+    "portionen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fünf am Tag, das hast du schon oft gehört. Aber fünf was eigentlich?",
+        "Fünf Äpfel? Fünf Teller Salat? Die Regel ist einfacher, als sie klingt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Handregel",
+      "absaetze": [
+        "Fachgesellschaften empfehlen, täglich mindestens drei Portionen Gemüse und zwei Portionen Obst zu essen. Als eine Portion gilt ungefähr eine Handvoll.",
+        "Deine Hand wächst mit dir. Kinder brauchen deshalb kleinere Portionen als Erwachsene. Auch Hülsenfrüchte und eine kleine Handvoll Nüsse können zur Gemüseseite zählen."
+      ],
+      "merke": "Drei Hände Gemüse, zwei Hände Obst.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum die Menge zählt",
+      "absaetze": [
+        "Obst und Gemüse liefern Vitamine, Mineralstoffe, Ballaststoffe und sekundäre Pflanzenstoffe. Dabei haben sie meist wenig Energie.",
+        "Große Beobachtungsstudien verbinden einen hohen Verzehr mit einem geringeren Risiko für Herz-Kreislauf-Erkrankungen. Viele Menschen in Deutschland erreichen die empfohlene Menge nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bunt und einfach",
+      "absaetze": [
+        "Unterschiedliche Farben stehen oft für unterschiedliche Inhaltsstoffe. Es lohnt sich deshalb, abwechslungsreich zu wählen.",
+        "Tiefkühlgemüse ist eine gute Alternative zu frischem Gemüse, weil es kurz nach der Ernte eingefroren wird. Saft ersetzt höchstens gelegentlich eine Portion Obst."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "Fünf Portionen im Alltag",
+      "schritte": [
+        {
+          "titel": "Frühstück",
+          "text": "Ein Apfel oder Beeren ins Müsli."
+        },
+        {
+          "titel": "Mittag",
+          "text": "Eine große Portion Gemüse oder Salat zum Hauptgericht."
+        },
+        {
+          "titel": "Zwischendurch",
+          "text": "Rohkost wie Paprika oder Karotten statt Keksen."
+        },
+        {
+          "titel": "Abend",
+          "text": "Gemüse in Suppe, Soße oder auf dem Brot."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt als eine Portion Obst oder Gemüse?",
+      "art": "mc",
+      "optionen": [
+        "Etwa eine Handvoll",
+        "Ein ganzes Kilo",
+        "Ein Teelöffel",
+        "Ein Glas Limonade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Handvoll ist die übliche Portionsgröße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Portionen Gemüse werden täglich empfohlen?",
+      "art": "mc",
+      "optionen": [
+        "Mindestens drei",
+        "Eine",
+        "Keine",
+        "Genau zehn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Empfohlen sind mindestens drei Portionen Gemüse und zwei Portionen Obst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tiefkühlgemüse ist eine gute Alternative zu frischem Gemüse.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es wird kurz nach der Ernte eingefroren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Empfohlen sind mindestens drei Portionen Gemüse und zwei Portionen Obst.",
+        "Eine Portion entspricht etwa einer Handvoll.",
+        "Abwechslung und Tiefkühlware machen es leichter."
+      ]
+    }
+  ]
+}

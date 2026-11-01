@@ -1,0 +1,117 @@
+{
+  "id": "ern-b007-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum ist zu viel Salz ein Problem?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "salz",
+    "blutdruck",
+    "natrium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du salzt dein Essen kaum nach. Trotzdem isst du vermutlich mehr Salz, als du denkst.",
+        "Der größte Teil steckt nämlich schon im Essen, bevor es auf deinem Teller landet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Salz und Blutdruck",
+      "absaetze": [
+        "Speisesalz besteht aus Natrium und Chlorid. Der Körper braucht Natrium, etwa für den Wasserhaushalt und die Nerven.",
+        "Zu viel Natrium lässt bei vielen Menschen den Blutdruck steigen. Bluthochdruck ist ein wichtiger Risikofaktor für Schlaganfall und Herzinfarkt. Weniger Salz senkt den Blutdruck in Studien messbar."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Richtwert",
+      "absaetze": [
+        "Die WHO empfiehlt Erwachsenen, weniger als 5 Gramm Salz pro Tag zu essen. Das ist etwa ein gestrichener Teelöffel.",
+        "In Deutschland liegen viele Menschen deutlich darüber. Männer essen im Durchschnitt mehr Salz als Frauen."
+      ],
+      "merke": "Die WHO empfiehlt weniger als 5 Gramm Salz am Tag.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo das Salz steckt",
+      "absaetze": [
+        "Die größten Salzquellen sind verarbeitete Lebensmittel. Dazu gehören Brot, Wurst, Käse, Fertiggerichte, Soßen und Knabbereien.",
+        "Wer öfter selbst kocht, Kräuter und Gewürze nutzt und auf Packungen den Salzgehalt vergleicht, kann viel einsparen. Der Geschmack gewöhnt sich nach einigen Wochen an weniger Salz."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Salz pro Tag empfiehlt die WHO Erwachsenen höchstens?",
+      "art": "mc",
+      "optionen": [
+        "Weniger als 5 Gramm",
+        "Etwa 15 Gramm",
+        "Etwa 25 Gramm",
+        "Es gibt keine Empfehlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die WHO empfiehlt weniger als 5 Gramm pro Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt der größte Teil des Salzes in unserer Ernährung?",
+      "art": "mc",
+      "optionen": [
+        "Aus verarbeiteten Lebensmitteln",
+        "Aus dem Salzstreuer am Tisch",
+        "Aus Obst",
+        "Aus Leitungswasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Brot, Wurst, Käse und Fertigprodukte liefern das meiste Salz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Weniger Salz kann den Blutdruck senken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das zeigen viele Studien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zu viel Salz erhöht bei vielen Menschen den Blutdruck.",
+        "Die WHO empfiehlt weniger als 5 Gramm am Tag.",
+        "Das meiste Salz steckt in verarbeiteten Lebensmitteln."
+      ]
+    }
+  ]
+}

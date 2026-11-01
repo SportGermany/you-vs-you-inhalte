@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b007-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum ist Nachtarbeit so anstrengend für den Körper?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Monographs",
+      "herausgeber": "Internationale Agentur für Krebsforschung (IARC)",
+      "url": "https://www.iarc.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schichtarbeit",
+    "nachtarbeit",
+    "innere-uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Pflegekraft kommt um sieben Uhr morgens von der Nachtschicht. Draußen ist es hell, die Stadt erwacht.",
+        "Sie soll jetzt schlafen. Ihr Körper sagt: Es ist Tag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gegen die innere Uhr",
+      "absaetze": [
+        "Die innere Uhr ist auf Aktivität am Tag und Schlaf in der Nacht eingestellt. Bei Nachtarbeit arbeitet man gegen diesen Rhythmus.",
+        "Der Tagschlaf ist meist kürzer und leichter, weil Licht, Lärm und die innere Uhr stören. Viele Schichtarbeitende haben deshalb dauerhaft zu wenig Schlaf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Folgen",
+      "absaetze": [
+        "Schichtarbeit hängt in Studien mit mehr Schlafstörungen, Verdauungsproblemen und Stoffwechselstörungen zusammen. Auch das Unfallrisiko auf dem Heimweg ist erhöht.",
+        "Die Internationale Agentur für Krebsforschung stuft Nachtschichtarbeit als wahrscheinlich krebserregend ein. Die Beweislage dafür ist begrenzt und wird weiter erforscht."
+      ],
+      "merke": "Nachtarbeit belastet vor allem durch dauerhaften Schlafmangel.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Ein dunkles, ruhiges Schlafzimmer ist für den Tagschlaf besonders wichtig. Eine Sonnenbrille auf dem Heimweg kann helfen, weniger helles Morgenlicht abzubekommen.",
+        "Fachleute halten vorwärts rotierende Schichtpläne für günstiger, also von Früh- zu Spät- zu Nachtschicht. Mehrere Nachtschichten am Stück sollten begrenzt sein."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Tagschlaf nach einer Nachtschicht oft kürzer?",
+      "art": "mc",
+      "optionen": [
+        "Weil Licht, Lärm und die innere Uhr stören",
+        "Weil man tagsüber nicht müde sein kann",
+        "Weil das Bett tagsüber härter ist",
+        "Weil man zu viel geschlafen hat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die innere Uhr und äußere Reize erschweren den Tagschlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schichtfolge gilt als günstiger?",
+      "art": "mc",
+      "optionen": [
+        "Vorwärts: Früh, Spät, Nacht",
+        "Rückwärts: Nacht, Spät, Früh",
+        "Täglich wechselnd zufällig",
+        "Nur Nachtschichten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorwärts rotierende Pläne passen besser zur inneren Uhr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die IARC stuft Nachtschichtarbeit als wahrscheinlich krebserregend ein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Beweislage ist aber begrenzt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachtarbeit läuft gegen die innere Uhr.",
+        "Sie führt oft zu dauerhaftem Schlafmangel.",
+        "Dunkle Schlafräume und vorwärts rotierende Schichten helfen."
+      ]
+    }
+  ]
+}

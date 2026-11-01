@@ -1,0 +1,109 @@
+{
+  "id": "steu-b007-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie funktioniert die Mehrwertsteuer?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mehrwertsteuer",
+    "umsatzsteuer",
+    "verbrauch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Kassenbon stehen zwei Prozentsätze: 7 und 19 Prozent. Du hast dich nie gefragt, warum.",
+        "Dahinter steckt eine der wichtigsten Einnahmequellen des Staates."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Steuer auf den Verbrauch",
+      "absaetze": [
+        "Die Mehrwertsteuer heißt offiziell Umsatzsteuer. Sie wird auf fast alle Waren und Dienstleistungen erhoben und ist im Preis enthalten.",
+        "Unternehmen ziehen sie beim Verkauf ein und führen sie ans Finanzamt ab. Am Ende trägt sie aber der Verbraucher, der das Produkt kauft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Sätze",
+      "absaetze": [
+        "Der reguläre Satz beträgt in Deutschland 19 Prozent. Für bestimmte Waren gilt ein ermäßigter Satz von 7 Prozent.",
+        "Dazu gehören die meisten Lebensmittel, Bücher und Zeitungen sowie der öffentliche Nahverkehr. Manche Leistungen sind ganz befreit, etwa viele ärztliche Behandlungen und die Wohnungsmiete."
+      ],
+      "merke": "Regulär 19 Prozent, ermäßigt 7 Prozent."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur auf den Mehrwert",
+      "absaetze": [
+        "Unternehmen können die Umsatzsteuer, die sie selbst beim Einkauf zahlen, vom Finanzamt zurückfordern. Das heißt Vorsteuerabzug.",
+        "So wird auf jeder Stufe der Herstellung nur der neu geschaffene Wert besteuert. Daher kommt der Name Mehrwertsteuer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der reguläre Mehrwertsteuersatz in Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "7 Prozent",
+        "16 Prozent",
+        "19 Prozent",
+        "25 Prozent"
+      ],
+      "richtig": 2,
+      "erklaerung": "Der reguläre Satz beträgt 19 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welche Waren gilt meist der ermäßigte Satz?",
+      "art": "mc",
+      "optionen": [
+        "Für die meisten Lebensmittel",
+        "Für Autos",
+        "Für Fernseher",
+        "Für Schmuck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lebensmittel werden meist mit 7 Prozent besteuert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer trägt am Ende die Mehrwertsteuer?",
+      "art": "mc",
+      "optionen": [
+        "Die Verbraucher",
+        "Nur die Hersteller",
+        "Nur die Banken",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unternehmen ziehen sie ein, getragen wird sie von den Verbrauchern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Mehrwertsteuer ist eine Steuer auf den Verbrauch.",
+        "Regulär gelten 19 Prozent, ermäßigt 7 Prozent.",
+        "Unternehmen können gezahlte Vorsteuer zurückfordern."
+      ]
+    }
+  ]
+}

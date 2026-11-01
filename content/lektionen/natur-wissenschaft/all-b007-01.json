@@ -1,0 +1,119 @@
+{
+  "id": "all-b007-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Schwarzes Loch?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Black Holes and Meteors",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schwarzes-loch",
+    "gravitation",
+    "sterne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "2019 ging ein Bild um die Welt: ein dunkler Fleck in einem leuchtenden, orangefarbenen Ring.",
+        "Es war das erste Foto eines Schwarzen Lochs. Was genau zeigt es?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Masse auf engstem Raum",
+      "absaetze": [
+        "Ein Schwarzes Loch ist ein Bereich im Weltall, in dem Masse so dicht zusammengepresst ist, dass nichts seiner Anziehung entkommen kann, nicht einmal Licht.",
+        "Viele entstehen, wenn sehr massereiche Sterne am Ende ihres Lebens in sich zusammenstürzen. Im Zentrum der meisten großen Galaxien sitzen außerdem riesige Schwarze Löcher mit Millionen bis Milliarden Sonnenmassen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Ereignishorizont",
+      "absaetze": [
+        "Die Grenze, ab der es kein Zurück mehr gibt, heißt Ereignishorizont. Was ihn überschreitet, kann nicht mehr entkommen.",
+        "Das Schwarze Loch selbst ist deshalb unsichtbar. Sichtbar ist heißes Gas, das es umkreist und dabei hell leuchtet. Auf dem berühmten Bild ist genau dieser Ring zu sehen, mit dem Schatten des Schwarzen Lochs in der Mitte."
+      ],
+      "merke": "Sichtbar ist nicht das Loch, sondern das leuchtende Gas drumherum."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch in unserer Galaxie",
+      "absaetze": [
+        "Das erste Bild zeigte das Schwarze Loch in der Galaxie M87. 2022 folgte ein Bild des Schwarzen Lochs im Zentrum unserer Milchstraße, genannt Sagittarius A Stern.",
+        "Für die Aufnahmen wurden Radioteleskope auf der ganzen Welt zusammengeschaltet. So entstand quasi ein Teleskop so groß wie die Erde."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Schwarze Löcher saugen alles in ihrer Umgebung auf wie ein Staubsauger.",
+      "urteil": "mythos",
+      "erklaerung": "Aus großer Entfernung wirkt ein Schwarzes Loch wie jede andere Masse. Würde die Sonne durch ein gleich schweres Schwarzes Loch ersetzt, liefe die Erde auf ihrer Bahn weiter. Gefährlich ist nur die unmittelbare Nähe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann einem Schwarzen Loch nicht entkommen, sobald es den Ereignishorizont überschreitet?",
+      "art": "mc",
+      "optionen": [
+        "Nichts, nicht einmal Licht",
+        "Nur Gestein",
+        "Nur Wasser",
+        "Nur Planeten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nicht einmal Licht entkommt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde das erste Bild eines Schwarzen Lochs veröffentlicht?",
+      "art": "mc",
+      "optionen": [
+        "2019",
+        "1969",
+        "2001",
+        "1990"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Bild des Schwarzen Lochs in M87 erschien 2019."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch im Zentrum der Milchstraße sitzt ein Schwarzes Loch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es heißt Sagittarius A Stern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Schwarzes Loch hält sogar Licht fest.",
+        "Sichtbar ist nur das leuchtende Gas um den Ereignishorizont.",
+        "Auch im Zentrum der Milchstraße sitzt ein Schwarzes Loch."
+      ]
+    }
+  ]
+}

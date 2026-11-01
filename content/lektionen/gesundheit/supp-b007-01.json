@@ -1,0 +1,125 @@
+{
+  "id": "supp-b007-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bringt Kollagenpulver für Haut und Gelenke?",
+  "minuten": 4,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nutrition and health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kollagen",
+    "haut",
+    "gelenke"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Influencer rühren morgens Kollagenpulver in ihren Kaffee. Straffere Haut und gesunde Gelenke sollen folgen.",
+        "Was ist dran an dem Trend?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Kollagen ist",
+      "absaetze": [
+        "Kollagen ist ein Eiweiß, das dem Bindegewebe Festigkeit gibt. Es steckt in Haut, Knochen, Sehnen und Knorpel. Der Körper bildet es selbst aus Bausteinen der Nahrung.",
+        "Kollagenpulver wird meist aus Haut und Knochen von Rindern, Schweinen oder Fischen gewonnen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was mit dem Pulver passiert",
+      "absaetze": [
+        "Wie anderes Eiweiß wird Kollagen bei der Verdauung in kleine Bausteine zerlegt. Der Körper baut daraus nicht gezielt Kollagen in der Haut auf, sondern nutzt sie dort, wo er sie braucht.",
+        "Einzelne Studien deuten auf kleine Effekte bei der Hautelastizität hin. Viele davon sind klein, kurz und von Herstellern finanziert. Die Studienlage gilt als schwach."
+      ],
+      "merke": "Die Belege für Kollagenpulver sind dünn.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was erlaubt ist",
+      "absaetze": [
+        "In der EU gibt es keine zugelassene Gesundheitsaussage, die Kollagen eine Wirkung auf Haut oder Gelenke bescheinigt.",
+        "Für die Haut nachweislich wichtig sind dagegen Sonnenschutz und Nichtrauchen. Für Gelenke helfen Bewegung und ein gesundes Körpergewicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Kollagenpulver kann tierische Bestandteile von Rind, Schwein oder Fisch enthalten. Das ist bei Allergien oder Ernährungsweisen wichtig.",
+        "Bei Nierenerkrankungen kann zusätzliches Eiweiß ungünstig sein. Sprich vor einer regelmäßigen Einnahme mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Kollagen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Eiweiß im Bindegewebe",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Hormon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kollagen ist ein Strukturprotein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Kollagenpulver bei der Verdauung?",
+      "art": "mc",
+      "optionen": [
+        "Es wird in kleine Bausteine zerlegt",
+        "Es wandert unverändert in die Haut",
+        "Es wird zu Vitamin C",
+        "Es bleibt im Magen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie anderes Eiweiß wird es zerlegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In der EU ist eine Gesundheitsaussage zu Kollagen und straffer Haut zugelassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt keine solche zugelassene Aussage."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kollagen gibt dem Bindegewebe Festigkeit.",
+        "Kollagenpulver wird verdaut wie anderes Eiweiß.",
+        "Die Studienlage für Haut und Gelenke ist schwach."
+      ]
+    }
+  ]
+}

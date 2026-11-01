@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b007-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was passiert beim Schlafwandeln?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafwandeln",
+    "kinder",
+    "tiefschlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten in der Nacht steht dein Kind im Flur. Die Augen sind offen, aber es reagiert nicht richtig.",
+        "Am nächsten Morgen weiß es von nichts."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Halb wach, halb im Tiefschlaf",
+      "absaetze": [
+        "Schlafwandeln entsteht meist aus dem Tiefschlaf heraus, oft im ersten Drittel der Nacht. Ein Teil des Gehirns wird wach und steuert Bewegungen, andere Teile schlafen weiter.",
+        "Deshalb können Schlafwandelnde laufen, Türen öffnen oder sprechen, sind aber nicht bei vollem Bewusstsein. Erinnern können sie sich danach meist nicht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufig bei Kindern",
+      "absaetze": [
+        "Schlafwandeln kommt bei Kindern häufig vor und verliert sich meist bis zur Jugend. Bei Erwachsenen ist es seltener.",
+        "Begünstigt wird es unter anderem durch Schlafmangel, Stress, Fieber und einen unregelmäßigen Schlafrhythmus. Es tritt in manchen Familien gehäuft auf."
+      ],
+      "merke": "Bei Kindern ist Schlafwandeln häufig und meist harmlos.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Die größte Gefahr sind Stürze und Verletzungen. Sichere Treppen, verschlossene Fenster und Türen sowie freie Wege helfen.",
+        "Schlafwandelnde führt man am besten ruhig zurück ins Bett. Bei häufigen Episoden, Verletzungen oder Beginn im Erwachsenenalter sollte man ärztlichen Rat suchen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Schlafwandler darf man auf keinen Fall wecken.",
+      "urteil": "mythos",
+      "erklaerung": "Gefährlich ist das Wecken nicht. Die Person ist aber oft verwirrt und kann erschrecken. Besser ist es, sie sanft und ohne Hektik ins Bett zurückzuführen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus welcher Schlafphase entsteht Schlafwandeln meist?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Tiefschlaf",
+        "Aus dem REM-Schlaf",
+        "Aus dem Wachzustand",
+        "Aus dem Mittagsschlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlafwandeln beginnt meist im Tiefschlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Schlafwandeln begünstigen?",
+      "art": "mc",
+      "optionen": [
+        "Schlafmangel und Stress",
+        "Regelmäßige Schlafzeiten",
+        "Ein dunkles Zimmer",
+        "Ein warmes Bad am Nachmittag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlafmangel, Stress und Fieber fördern Episoden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlafwandelnde erinnern sich am nächsten Morgen meist an alles.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist fehlt jede Erinnerung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafwandeln entsteht meist aus dem Tiefschlaf.",
+        "Bei Kindern ist es häufig und verliert sich meist.",
+        "Sicherheit im Haus ist der wichtigste Schutz."
+      ]
+    }
+  ]
+}

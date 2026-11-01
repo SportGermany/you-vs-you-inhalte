@@ -1,0 +1,113 @@
+{
+  "id": "geld-b007-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Tagesgeld oder Festgeld, was passt wann?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Energie, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tagesgeld",
+    "festgeld",
+    "zinsen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf deinem Girokonto liegt Geld, das kaum Zinsen bringt. Die Bank bietet dir Tagesgeld und Festgeld an.",
+        "Wo liegt der Unterschied?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tagesgeld",
+      "absaetze": [
+        "Ein Tagesgeldkonto ist ein Sparkonto, auf das du jederzeit zugreifen kannst. Das Geld lässt sich meist innerhalb eines Tages zurück aufs Girokonto überweisen.",
+        "Der Zins ist variabel. Die Bank kann ihn jederzeit ändern, etwa wenn sich der Leitzins der Europäischen Zentralbank ändert. Tagesgeld eignet sich gut für den Notgroschen."
+      ],
+      "merke": "Tagesgeld ist flexibel, der Zins kann sich ändern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Festgeld",
+      "absaetze": [
+        "Beim Festgeld legst du einen Betrag für eine feste Zeit an, etwa ein Jahr oder drei Jahre. Der Zins ist für diese Zeit fest vereinbart.",
+        "Während der Laufzeit kommst du in der Regel nicht an das Geld. Dafür bekommst du oft einen etwas höheren Zins als beim Tagesgeld."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit und Inflation",
+      "absaetze": [
+        "Beide Anlageformen fallen unter die gesetzliche Einlagensicherung. Kursverluste wie bei Aktien gibt es nicht.",
+        "Liegt die Inflation über dem Zins, verliert das Geld allerdings an Kaufkraft. Für Geld, das du lange nicht brauchst, können deshalb andere Anlagen sinnvoller sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für Tagesgeld?",
+      "art": "mc",
+      "optionen": [
+        "Täglich verfügbar, variabler Zins",
+        "Für zehn Jahre gesperrt",
+        "Fester Zins für immer",
+        "Starke Kursschwankungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tagesgeld ist flexibel, der Zins variabel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für Festgeld?",
+      "art": "mc",
+      "optionen": [
+        "Feste Laufzeit und fester Zins",
+        "Jederzeit verfügbar",
+        "Kein Zins",
+        "Nicht von der Einlagensicherung erfasst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Festgeld bindet das Geld zu einem festen Zins."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn die Inflation höher ist als der Zins, verliert das Geld an Kaufkraft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Real wird das Geld dann weniger wert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tagesgeld ist flexibel mit variablem Zins.",
+        "Festgeld bindet Geld für eine feste Zeit zu festem Zins.",
+        "Beide sind geschützt, verlieren aber bei hoher Inflation an Kaufkraft."
+      ]
+    }
+  ]
+}

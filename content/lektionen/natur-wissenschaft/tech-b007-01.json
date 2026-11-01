@@ -1,0 +1,113 @@
+{
+  "id": "tech-b007-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie heizt eine Wärmepumpe mit kalter Luft?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energiesparen, Heizen und Ozonschicht",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Energie, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waermepumpe",
+    "heizen",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Draußen ist es null Grad. Trotzdem holt eine Wärmepumpe Wärme aus dieser kalten Luft und heizt damit ein Haus.",
+        "Das klingt paradox, funktioniert aber wie ein umgekehrter Kühlschrank."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Kühlschrank-Prinzip",
+      "absaetze": [
+        "Ein Kühlschrank holt Wärme aus seinem Inneren und gibt sie hinten an die Küche ab. Eine Wärmepumpe macht dasselbe in umgekehrter Richtung.",
+        "Sie nimmt Wärme aus der Außenluft, dem Erdreich oder dem Grundwasser auf. Auch kalte Luft enthält noch Wärmeenergie. Diese Wärme bringt die Pumpe auf ein höheres Temperaturniveau und gibt sie ans Heizsystem ab."
+      ],
+      "merke": "Eine Wärmepumpe ist ein Kühlschrank, der rückwärts arbeitet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kältemittel als Transporter",
+      "absaetze": [
+        "Im Inneren kreist ein Kältemittel, das schon bei niedrigen Temperaturen verdampft. Ein Verdichter presst den Dampf zusammen, dabei wird er heiß.",
+        "Diese Wärme wird an das Heizwasser abgegeben. Danach entspannt sich das Kältemittel, kühlt ab, und der Kreislauf beginnt von vorn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Wärme als Strom",
+      "absaetze": [
+        "Für den Verdichter braucht die Wärmepumpe Strom. Gut geplante Anlagen liefern aus einer Kilowattstunde Strom mehrere Kilowattstunden Wärme, oft drei bis vier.",
+        "Am effizientesten arbeiten sie mit niedrigen Vorlauftemperaturen, etwa mit Fußbodenheizung oder großen Heizkörpern. Auch in vielen Bestandsgebäuden lassen sie sich sinnvoll einsetzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gerät arbeitet nach dem gleichen Prinzip wie eine Wärmepumpe?",
+      "art": "mc",
+      "optionen": [
+        "Der Kühlschrank",
+        "Der Toaster",
+        "Der Föhn",
+        "Die Glühbirne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beide transportieren Wärme mit einem Kältemittelkreislauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Wärme liefert eine gut geplante Wärmepumpe oft aus einer Kilowattstunde Strom?",
+      "art": "mc",
+      "optionen": [
+        "Drei bis vier Kilowattstunden",
+        "Eine halbe Kilowattstunde",
+        "Genau eine Kilowattstunde",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie nutzt zusätzlich die Umweltwärme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch kalte Außenluft enthält noch nutzbare Wärmeenergie.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Wärmepumpe bringt sie auf ein höheres Niveau."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Wärmepumpe holt Wärme aus Luft, Erde oder Wasser.",
+        "Sie funktioniert wie ein umgekehrter Kühlschrank.",
+        "Aus einer Kilowattstunde Strom werden oft drei bis vier Kilowattstunden Wärme."
+      ]
+    }
+  ]
+}

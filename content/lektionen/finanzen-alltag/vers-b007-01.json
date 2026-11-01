@@ -1,0 +1,113 @@
+{
+  "id": "vers-b007-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was zahlt die Hausratversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Energie, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hausrat",
+    "einbruch",
+    "versicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Wasserrohr in der Wohnung über dir platzt. Dein Sofa, der Teppich und der Laptop sind ruiniert.",
+        "Wer kommt für deine Sachen auf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was versichert ist",
+      "absaetze": [
+        "Die Hausratversicherung ersetzt Schäden an deinen beweglichen Sachen in der Wohnung. Dazu gehören Möbel, Kleidung, Elektronik und Geschirr.",
+        "Versichert sind meist Schäden durch Feuer, Leitungswasser, Sturm und Hagel sowie Einbruchdiebstahl und Vandalismus nach einem Einbruch. Ersetzt wird in der Regel der Neuwert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was oft extra kostet",
+      "absaetze": [
+        "Schäden durch Hochwasser, Starkregen oder Erdbeben sind meist nur mit einem Zusatzbaustein für Elementarschäden versichert. Auch Fahrraddiebstahl außerhalb der Wohnung ist oft nur gegen Aufpreis abgedeckt.",
+        "Prüfe deshalb, welche Risiken für dich wichtig sind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die richtige Summe",
+      "absaetze": [
+        "Die Versicherungssumme sollte dem Wert deines gesamten Hausrats entsprechen. Ist sie zu niedrig, spricht man von Unterversicherung. Dann zahlt der Versicherer im Schadenfall oft nur einen Teil.",
+        "Viele Tarife bieten einen Unterversicherungsverzicht, wenn man eine pauschale Summe pro Quadratmeter wählt."
+      ],
+      "merke": "Eine zu niedrige Versicherungssumme kann teuer werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Schaden ist in der Hausratversicherung meist versichert?",
+      "art": "mc",
+      "optionen": [
+        "Leitungswasserschaden am Sofa",
+        "Kratzer am eigenen Auto",
+        "Schäden, die du anderen zufügst",
+        "Zahnbehandlungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leitungswasser gehört zu den Grundrisiken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man eine zu niedrige Versicherungssumme?",
+      "art": "mc",
+      "optionen": [
+        "Unterversicherung",
+        "Überversicherung",
+        "Selbstbehalt",
+        "Beitragsrückerstattung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Unterversicherung wird oft nur anteilig gezahlt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hochwasserschäden sind in der Hausratversicherung immer automatisch eingeschlossen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür ist meist ein Zusatzbaustein für Elementarschäden nötig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Hausratversicherung ersetzt Schäden an deinen Sachen in der Wohnung.",
+        "Elementarschäden und Fahrraddiebstahl kosten oft extra.",
+        "Die Versicherungssumme sollte zum Wert deines Hausrats passen."
+      ]
+    }
+  ]
+}

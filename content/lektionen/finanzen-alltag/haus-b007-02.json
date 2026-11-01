@@ -1,0 +1,113 @@
+{
+  "id": "haus-b007-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Lohnt es sich, den Stromanbieter zu wechseln?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher Energie",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Energie, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "strom",
+    "anbieterwechsel",
+    "grundversorgung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seit Jahren zahlst du deinen Strom beim örtlichen Versorger. Du hast nie darüber nachgedacht.",
+        "Ein Kollege erzählt, er habe durch einen Wechsel einiges gespart."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grundversorgung und Sonderverträge",
+      "absaetze": [
+        "Wer nie einen Vertrag abgeschlossen hat, ist meist in der Grundversorgung. Das ist der Standardtarif des örtlichen Grundversorgers.",
+        "Die Grundversorgung ist oft teurer als andere Tarife. Ihr Vorteil: Sie ist mit kurzer Frist kündbar. Verbraucherschützer raten, Preise regelmäßig zu vergleichen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Angst vor dem Wechsel",
+      "absaetze": [
+        "Der Wechsel ist einfach. Meist kümmert sich der neue Anbieter um die Kündigung beim alten.",
+        "Der Strom fließt dabei ohne Unterbrechung weiter. Selbst wenn ein Anbieter pleitegeht, wirst du automatisch vom Grundversorger weiter beliefert."
+      ],
+      "merke": "Beim Anbieterwechsel bleibt der Strom an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Achte beim Vergleich nicht nur auf hohe Neukundenboni. Sie gelten meist nur im ersten Jahr.",
+        "Wichtig sind der Arbeitspreis pro Kilowattstunde, der monatliche Grundpreis, die Vertragslaufzeit und eine Preisgarantie. Vorkasse über ein ganzes Jahr ist riskant."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit der Stromversorgung beim Anbieterwechsel?",
+      "art": "mc",
+      "optionen": [
+        "Der Strom fließt ohne Unterbrechung weiter",
+        "Der Strom ist eine Woche weg",
+        "Man braucht einen neuen Zähler",
+        "Man muss neue Leitungen legen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Belieferung läuft nahtlos weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf sollte man beim Vergleich besonders achten?",
+      "art": "mc",
+      "optionen": [
+        "Arbeitspreis, Grundpreis und Laufzeit",
+        "Nur auf den Neukundenbonus",
+        "Auf das Logo des Anbieters",
+        "Auf die Farbe der Rechnung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Boni gelten meist nur im ersten Jahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Grundversorgung ist meist der günstigste Tarif.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist oft teurer als andere Tarife."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Grundversorgung ist oft teurer als andere Tarife.",
+        "Ein Wechsel ist einfach und der Strom fließt weiter.",
+        "Vergleiche Arbeitspreis, Grundpreis und Laufzeit, nicht nur Boni."
+      ]
+    }
+  ]
+}
