@@ -1,0 +1,107 @@
+{
+  "id": "haus-b009-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was gehört in welche Tonne?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasser sparen und Abfall trennen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "muelltrennung",
+    "recycling",
+    "verpackung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein leerer Joghurtbecher, ein Pizzakarton mit Fettflecken, eine kaputte Glühbirne.",
+        "Vor dem Mülleimer stehst du oft ratlos da."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gelbe Tonne und Papier",
+      "absaetze": [
+        "In die Gelbe Tonne oder den Gelben Sack gehören Verpackungen aus Kunststoff, Metall und Verbundstoffen, etwa Joghurtbecher, Konservendosen und Getränkekartons. Ausspülen ist nicht nötig, löffelleer reicht.",
+        "Den Deckel vom Becher solltest du ganz abziehen, damit die Sortieranlage die Materialien trennen kann. Ins Altpapier gehören Zeitungen, Kartons und Papierverpackungen. Stark verschmutztes Papier gehört in den Restmüll."
+      ],
+      "merke": "Verpackungen löffelleer in die Gelbe Tonne, Deckel abtrennen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bio und Glas",
+      "absaetze": [
+        "In die Biotonne gehören Obst- und Gemüsereste, Kaffeesatz und Gartenabfälle. Plastiktüten haben darin nichts verloren, auch keine angeblich kompostierbaren, wenn die Gemeinde sie nicht ausdrücklich erlaubt.",
+        "Glas wird nach Farben getrennt. Blaues oder grünes Glas kommt zum Grünglas. Trinkgläser, Spiegel und Fensterglas gehören nicht in den Altglascontainer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sonderfälle",
+      "absaetze": [
+        "Batterien, Akkus und Elektrogeräte dürfen nicht in den Hausmüll. Sie enthalten Schadstoffe und wertvolle Rohstoffe. Supermärkte und Wertstoffhöfe nehmen sie zurück.",
+        "Die Regeln unterscheiden sich etwas zwischen Gemeinden. Im Zweifel hilft der Abfallkalender oder die Website deiner Stadt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Muss ein Joghurtbecher vor der Gelben Tonne ausgespült werden?",
+      "art": "mc",
+      "optionen": [
+        "Nein, löffelleer reicht",
+        "Ja, mit heißem Wasser und Spülmittel",
+        "Ja, in der Spülmaschine",
+        "Er gehört in den Restmüll"
+      ],
+      "richtig": 0,
+      "erklaerung": "Löffelleer genügt, Spülen verschwendet Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin gehört blaues Glas?",
+      "art": "mc",
+      "optionen": [
+        "Zum Grünglas",
+        "Zum Weißglas",
+        "In den Restmüll",
+        "In die Gelbe Tonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Blaues Glas wird mit dem Grünglas gesammelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alte Batterien dürfen in den Hausmüll.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gehören in Sammelboxen oder zum Wertstoffhof."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Verpackungen löffelleer in die Gelbe Tonne, Deckel abtrennen.",
+        "Glas nach Farben trennen, Trinkgläser gehören nicht dazu.",
+        "Batterien und Elektrogeräte gehören zu Sammelstellen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "supp-b009-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Ashwagandha zu halten?",
+  "minuten": 4,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Jod und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ashwagandha",
+    "stress",
+    "pflanzenextrakt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In sozialen Medien wird Ashwagandha als natürliches Mittel gegen Stress und für besseren Schlaf beworben.",
+        "Die Pflanze stammt aus der traditionellen indischen Heilkunde. Doch wie sicher ist sie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Pflanze mit langer Tradition",
+      "absaetze": [
+        "Ashwagandha, auch Schlafbeere genannt, ist ein Nachtschattengewächs. Ihre Wurzel wird im Ayurveda, der traditionellen indischen Heilkunde, seit Langem verwendet.",
+        "In Europa wird sie vor allem als Nahrungsergänzungsmittel in Kapseln oder Pulvern verkauft. Die Produkte unterscheiden sich stark in Menge und Zusammensetzung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Studien sagen",
+      "absaetze": [
+        "Einige kleine Studien deuten auf eine leichte Verbesserung von Stressempfinden oder Schlaf hin. Die Studien sind aber oft kurz, klein und methodisch schwach.",
+        "Für eine verlässliche Aussage reicht die Datenlage nach Einschätzung des BfR nicht aus. Zur Sicherheit bei längerer Einnahme ist wenig bekannt."
+      ],
+      "merke": "Die Belege sind dünn, die Sicherheit ist nicht ausreichend geklärt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Es gibt Fallberichte über Leberschäden im Zusammenhang mit Ashwagandha. Das BfR sieht gesundheitliche Risiken, Dänemark hat entsprechende Produkte verboten.",
+        "Ashwagandha kann die Schilddrüse beeinflussen und mit Medikamenten wechselwirken, etwa mit Beruhigungs- oder Schilddrüsenmitteln. In Schwangerschaft und Stillzeit wird davon abgeraten. Sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus welcher Tradition stammt Ashwagandha?",
+      "art": "mc",
+      "optionen": [
+        "Aus der indischen Heilkunde Ayurveda",
+        "Aus der Wikingermedizin",
+        "Aus der Raumfahrt",
+        "Aus der Chemieindustrie des 20. Jahrhunderts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ashwagandha wird im Ayurveda verwendet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bewertet das BfR die Datenlage zu Ashwagandha?",
+      "art": "mc",
+      "optionen": [
+        "Als nicht ausreichend",
+        "Als hervorragend",
+        "Als abschließend geklärt",
+        "Es hat sich nie geäußert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das BfR hält die Daten für nicht ausreichend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ashwagandha ist als pflanzliches Mittel automatisch harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt Berichte über Leberschäden und weitere Risiken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ashwagandha ist eine Pflanze aus der ayurvedischen Tradition.",
+        "Studien zu Stress und Schlaf sind klein und wenig aussagekräftig.",
+        "Pflanzlich heißt nicht automatisch sicher."
+      ]
+    }
+  ]
+}

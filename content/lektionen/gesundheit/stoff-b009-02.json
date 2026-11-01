@@ -1,0 +1,118 @@
+{
+  "id": "stoff-b009-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie wirken die neuen Abnehmspritzen?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arzneimittel",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glp-1",
+    "medikamente",
+    "adipositas"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seit einigen Jahren sind Abnehmspritzen in aller Munde. Prominente sprechen darüber, Apotheken melden Engpässe.",
+        "Was steckt hinter diesen Medikamenten, und was sollte man wissen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Darmhormon als Vorbild",
+      "absaetze": [
+        "Die Wirkstoffe ahmen das Darmhormon GLP-1 nach, manche zusätzlich ein zweites Hormon. Nach dem Essen meldet GLP-1 dem Gehirn Sättigung und regt die Insulinausschüttung an.",
+        "Die Medikamente verstärken diese Signale. Der Magen entleert sich langsamer, der Appetit sinkt. Ursprünglich wurden sie zur Behandlung von Typ-2-Diabetes entwickelt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In großen Studien verloren Menschen mit Adipositas, also starkem Übergewicht, deutlich mehr Gewicht als mit Placebo. Für einen Wirkstoff ist auch ein Nutzen für Herz und Kreislauf bei bestimmten Patientengruppen belegt.",
+        "Häufige Nebenwirkungen sind Übelkeit, Erbrechen und Verdauungsbeschwerden. Nach dem Absetzen nahmen viele Teilnehmende einen großen Teil des Gewichts wieder zu."
+      ],
+      "merke": "Die Wirkung hält meist nur, solange das Medikament genommen wird.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Lifestyle-Produkt",
+      "absaetze": [
+        "Die Mittel sind verschreibungspflichtig und zugelassen für Menschen mit Adipositas oder Übergewicht mit Begleiterkrankungen. Sie gehören in eine ärztlich begleitete Behandlung zusammen mit Ernährung und Bewegung.",
+        "Präparate aus dem Internet ohne Rezept können gefälscht und gefährlich sein. Zur Gewichtsreduktion zahlen die gesetzlichen Krankenkassen sie in der Regel nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon ahmen die Wirkstoffe nach?",
+      "art": "mc",
+      "optionen": [
+        "GLP-1",
+        "Melatonin",
+        "Adrenalin",
+        "Testosteron"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ahmen das Darmhormon GLP-1 nach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei vielen nach dem Absetzen?",
+      "art": "mc",
+      "optionen": [
+        "Sie nehmen einen großen Teil wieder zu",
+        "Sie nehmen weiter stark ab",
+        "Nichts ändert sich",
+        "Sie wachsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wirkung hält meist nur während der Behandlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Abnehmspritzen aus dem Internet ohne Rezept sind eine sichere Alternative.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie können gefälscht und gefährlich sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Spritzen ahmen das Sättigungshormon GLP-1 nach.",
+        "Sie wirken deutlich, aber meist nur während der Anwendung.",
+        "Sie sind verschreibungspflichtig und gehören in ärztliche Begleitung.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "all-b009-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist Pluto kein Planet mehr?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pluto and the Solar System",
+      "herausgeber": "Internationale Astronomische Union (IAU)",
+      "url": "https://www.iau.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Sun, Stars and Pluto",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pluto",
+    "zwergplanet",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer vor 2006 zur Schule ging, lernte neun Planeten. Heute sind es acht.",
+        "Pluto ist nicht verschwunden. Geändert hat sich die Definition."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neue Funde am Rand",
+      "absaetze": [
+        "Pluto wurde 1930 entdeckt und galt lange als neunter Planet. Er ist allerdings viel kleiner als unser Mond.",
+        "Ab den 1990er Jahren fanden Astronomen jenseits des Neptun viele ähnliche Eiskörper. 2005 wurde mit Eris einer entdeckt, der etwa so groß ist wie Pluto. Sollte der nun auch ein Planet sein?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Definition von 2006",
+      "absaetze": [
+        "2006 legte die Internationale Astronomische Union fest, was ein Planet ist. Er muss die Sonne umkreisen, durch seine Schwerkraft annähernd rund sein und seine Umlaufbahn von anderen Körpern weitgehend freigeräumt haben.",
+        "Pluto erfüllt die dritte Bedingung nicht. Er teilt seine Bahnregion mit vielen anderen Objekten. Seitdem gilt er als Zwergplanet."
+      ],
+      "merke": "Ein Planet muss seine Bahn freigeräumt haben, Pluto schafft das nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein spannender Zwerg",
+      "absaetze": [
+        "2015 flog die Raumsonde New Horizons an Pluto vorbei. Sie zeigte Berge aus Wassereis, Ebenen aus gefrorenem Stickstoff und eine dünne Atmosphäre.",
+        "Unter Fachleuten wird die Definition bis heute diskutiert. Für die Wissenschaft ist Pluto so oder so ein faszinierendes Objekt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde Pluto zum Zwergplaneten erklärt?",
+      "art": "mc",
+      "optionen": [
+        "2006",
+        "1930",
+        "1969",
+        "2015"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die IAU beschloss die neue Definition 2006."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Bedingung für einen Planeten erfüllt Pluto nicht?",
+      "art": "mc",
+      "optionen": [
+        "Er hat seine Umlaufbahn nicht freigeräumt",
+        "Er umkreist nicht die Sonne",
+        "Er ist nicht rund",
+        "Er besteht nicht aus Materie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er teilt seine Bahnregion mit vielen anderen Körpern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pluto ist größer als der Erdmond.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Pluto ist kleiner als unser Mond."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pluto wurde 1930 entdeckt und galt lange als Planet.",
+        "Seit 2006 ist er ein Zwergplanet, weil er seine Bahn nicht freigeräumt hat.",
+        "New Horizons zeigte 2015 eine vielfältige Oberfläche."
+      ]
+    }
+  ]
+}

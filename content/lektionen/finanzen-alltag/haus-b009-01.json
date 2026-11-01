@@ -1,0 +1,135 @@
+{
+  "id": "haus-b009-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wofür verbraucht ein Haushalt das meiste Wasser?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasserwirtschaft",
+      "herausgeber": "Statistisches Bundesamt (Destatis)",
+      "url": "https://www.destatis.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wasser sparen und Abfall trennen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wasser",
+    "duschen",
+    "nebenkosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du trinkst vielleicht zwei Liter am Tag. Dein Haushalt verbraucht pro Kopf aber ein Vielfaches davon.",
+        "Wohin fließt das ganze Wasser?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rund 125 Liter pro Kopf",
+      "absaetze": [
+        "In Deutschland verbraucht jeder Mensch im Haushalt im Durchschnitt etwa 125 Liter Trinkwasser pro Tag. Nur ein kleiner Teil davon wird getrunken oder zum Kochen genutzt.",
+        "Die größten Posten sind Duschen und Baden sowie die Toilettenspülung. Danach folgen Wäschewaschen, Geschirrspülen und Putzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warmes Wasser kostet doppelt",
+      "absaetze": [
+        "Bei warmem Wasser zahlst du nicht nur das Wasser selbst, sondern auch die Energie zum Erhitzen. Deshalb lohnt sich Sparen vor allem beim Duschen.",
+        "Ein Sparduschkopf kann den Durchfluss deutlich senken, ohne dass das Duschen unangenehm wird. Kürzer duschen spart ebenfalls Wasser und Energie."
+      ],
+      "merke": "Beim warmen Wasser sparst du Wasser und Energie zugleich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sich weniger lohnt",
+      "absaetze": [
+        "Eine voll beladene Spülmaschine braucht meist weniger Wasser als Abwaschen von Hand unter fließendem Wasser.",
+        "Kaltes Leitungswasser ist in Deutschland vergleichsweise günstig. Wer hier spart, schont vor allem die Umwelt, im Geldbeutel wirkt das Sparen bei warmem Wasser stärker."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Einfach Wasser sparen",
+      "schritte": [
+        {
+          "titel": "Sparduschkopf",
+          "text": "Tausche den Duschkopf gegen ein wassersparendes Modell."
+        },
+        {
+          "titel": "Kurz duschen",
+          "text": "Dusche ein paar Minuten kürzer."
+        },
+        {
+          "titel": "Spartaste",
+          "text": "Nutze bei der Toilette die kleine Spültaste."
+        },
+        {
+          "titel": "Voll beladen",
+          "text": "Starte Wasch- und Spülmaschine erst, wenn sie voll sind."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Trinkwasser verbraucht ein Mensch in Deutschland im Haushalt etwa pro Tag?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 125 Liter",
+        "Etwa 2 Liter",
+        "Etwa 1.000 Liter",
+        "Etwa 20 Liter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Durchschnitt liegt bei etwa 125 Litern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird im Haushalt besonders viel Wasser verbraucht?",
+      "art": "mc",
+      "optionen": [
+        "Duschen, Baden und Toilettenspülung",
+        "Trinken",
+        "Zähneputzen allein",
+        "Blumengießen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Körperpflege und Toilette sind die größten Posten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine voll beladene Spülmaschine braucht meist weniger Wasser als Abwaschen unter fließendem Wasser.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Moderne Geräte sind sehr sparsam."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pro Kopf fließen täglich etwa 125 Liter durch den Haushalt.",
+        "Duschen und Toilette sind die größten Verbraucher.",
+        "Bei warmem Wasser spart man Wasser und Energie."
+      ]
+    }
+  ]
+}

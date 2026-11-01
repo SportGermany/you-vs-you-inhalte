@@ -1,0 +1,123 @@
+{
+  "id": "ern-b009-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Kaffee gut oder schlecht für die Gesundheit?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Caffeine",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kaffee",
+    "koffein",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lange galt Kaffee als Laster, das dem Herzen schadet und dem Körper Wasser entzieht.",
+        "Neuere Studien zeichnen ein deutlich freundlicheres Bild."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Beobachtungsstudien zeigen",
+      "absaetze": [
+        "In großen Beobachtungsstudien haben Menschen, die moderat Kaffee trinken, kein höheres, sondern eher ein etwas geringeres Risiko für einige Krankheiten. Dazu zählen Typ-2-Diabetes und bestimmte Lebererkrankungen.",
+        "Solche Studien zeigen Zusammenhänge, keine Ursachen. Kaffeetrinker könnten sich auch in anderen Dingen unterscheiden. Die Ergebnisse deuten aber darauf hin, dass moderater Kaffeekonsum für gesunde Erwachsene unbedenklich ist."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel Koffein unbedenklich ist",
+      "absaetze": [
+        "Die EFSA hält für gesunde Erwachsene bis zu 400 Milligramm Koffein pro Tag für unbedenklich. Das entspricht grob drei bis vier Tassen Filterkaffee.",
+        "Für Schwangere und Stillende nennt die EFSA bis zu 200 Milligramm. Wie stark Koffein wirkt, ist individuell sehr verschieden."
+      ],
+      "merke": "Bis 400 Milligramm Koffein am Tag gelten für gesunde Erwachsene als unbedenklich.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten kannst",
+      "absaetze": [
+        "Ungefilterter Kaffee, etwa aus der French Press, enthält Stoffe, die das Cholesterin erhöhen können. Papierfilter halten sie weitgehend zurück.",
+        "Viel Zucker und Sahne machen aus Kaffee schnell eine Kalorienquelle. Und wer schlecht schläft, verzichtet am Nachmittag besser auf Koffein."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Kaffee entzieht dem Körper Wasser.",
+      "urteil": "mythos",
+      "erklaerung": "Koffein wirkt leicht harntreibend, bei regelmäßigem Konsum aber nur gering. Kaffee zählt deshalb zur täglichen Flüssigkeitsaufnahme. Das bestätigen auch Fachgesellschaften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Koffein pro Tag hält die EFSA für gesunde Erwachsene für unbedenklich?",
+      "art": "mc",
+      "optionen": [
+        "Bis zu 400 Milligramm",
+        "Bis zu 40 Milligramm",
+        "Bis zu 4.000 Milligramm",
+        "Gar keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das entspricht grob drei bis vier Tassen Filterkaffee."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Kaffee kann das Cholesterin eher erhöhen?",
+      "art": "mc",
+      "optionen": [
+        "Ungefilterter Kaffee aus der French Press",
+        "Filterkaffee",
+        "Entkoffeinierter Filterkaffee",
+        "Kalter Filterkaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Papierfilter halten cholesterinerhöhende Stoffe zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beobachtungsstudien beweisen, dass Kaffee vor Diabetes schützt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zeigen Zusammenhänge, keine Ursachen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Moderater Kaffeekonsum gilt für gesunde Erwachsene als unbedenklich.",
+        "Die EFSA nennt bis zu 400 Milligramm Koffein am Tag.",
+        "Filterkaffee ist günstiger für das Cholesterin als ungefilterter."
+      ]
+    }
+  ]
+}

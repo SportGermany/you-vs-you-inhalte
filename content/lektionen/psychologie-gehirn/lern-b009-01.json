@@ -1,0 +1,107 @@
+{
+  "id": "lern-b009-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Kannst du dich an etwas erinnern, das nie passiert ist?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "falsche-erinnerungen",
+    "gedaechtnis",
+    "zeugen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einem Familienfest erzählt deine Mutter eine Geschichte aus deiner Kindheit. Du erinnerst dich lebhaft daran.",
+        "Später stellt sich heraus: Das ist deinem Bruder passiert, nicht dir."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erinnern ist Rekonstruieren",
+      "absaetze": [
+        "Das Gedächtnis funktioniert nicht wie eine Videokamera. Beim Erinnern setzt das Gehirn Bruchstücke neu zusammen und füllt Lücken.",
+        "Dabei können sich Erzählungen anderer, Fotos oder spätere Informationen unbemerkt einmischen. Die Erinnerung fühlt sich trotzdem echt an."
+      ],
+      "merke": "Jede Erinnerung wird beim Abrufen neu zusammengesetzt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Experimente von Elizabeth Loftus",
+      "absaetze": [
+        "Die Psychologin Elizabeth Loftus zeigte Versuchspersonen Filme von Autounfällen. Fragte sie, wie schnell die Autos ineinander krachten, schätzten die Personen die Geschwindigkeit höher als bei der Frage, wie schnell sie sich berührten.",
+        "In anderen Studien gelang es, Menschen erfundene Kindheitserlebnisse einzureden, etwa sich als Kind im Einkaufszentrum verlaufen zu haben. Ein Teil der Teilnehmenden erinnerte sich später daran."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was daraus folgt",
+      "absaetze": [
+        "Besonders wichtig ist das bei Zeugenaussagen vor Gericht. Suggestive Fragen können Erinnerungen verändern.",
+        "Sicherheit und Lebendigkeit einer Erinnerung sind kein Beweis dafür, dass sie stimmt. Das gilt für alle Menschen, nicht nur für vergessliche."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie funktioniert das Gedächtnis beim Erinnern?",
+      "art": "mc",
+      "optionen": [
+        "Es setzt Bruchstücke neu zusammen",
+        "Es spielt eine exakte Aufnahme ab",
+        "Es speichert nur Bilder",
+        "Es erinnert sich nur an Zahlen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erinnern ist ein Rekonstruieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zeigte in Experimenten, wie leicht sich Erinnerungen verändern lassen?",
+      "art": "mc",
+      "optionen": [
+        "Elizabeth Loftus",
+        "Marie Curie",
+        "Charles Darwin",
+        "Isaac Newton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Elizabeth Loftus erforschte falsche Erinnerungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn eine Erinnerung sich sehr lebendig anfühlt, ist sie sicher wahr.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch falsche Erinnerungen können sich lebendig anfühlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Gedächtnis rekonstruiert, statt aufzuzeichnen.",
+        "Fragen und Erzählungen können Erinnerungen verändern.",
+        "Lebendigkeit ist kein Beweis für Wahrheit."
+      ]
+    }
+  ]
+}

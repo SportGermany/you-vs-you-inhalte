@@ -1,0 +1,125 @@
+{
+  "id": "supp-b009-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum gibt es Jod im Speisesalz?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Jod und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "jod",
+    "schilddruese",
+    "jodsalz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Salzpackung im Supermarkt steht Jodsalz. Daneben gibt es Meersalz und Himalayasalz ohne Jod.",
+        "Warum wird Jod überhaupt ins Salz gemischt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Baustein für die Schilddrüse",
+      "absaetze": [
+        "Die Schilddrüse braucht Jod, um ihre Hormone herzustellen. Diese Hormone steuern unter anderem den Stoffwechsel und sind für die Entwicklung von Gehirn und Knochen bei Kindern wichtig.",
+        "Fehlt Jod über lange Zeit, kann sich die Schilddrüse vergrößern. Man spricht dann von einem Kropf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Deutschland ist ein Jodmangelgebiet",
+      "absaetze": [
+        "Die Böden in Deutschland enthalten wenig Jod, deshalb liefern hier angebaute Lebensmittel nur wenig davon. Gute natürliche Quellen sind Seefisch und Milchprodukte.",
+        "Seit Jahrzehnten wird deshalb jodiertes Speisesalz empfohlen. Die Versorgung hat sich dadurch stark verbessert. Neuere Untersuchungen zeigen aber, dass viele Menschen wieder zu wenig Jod aufnehmen, auch weil weniger Jodsalz in Fertigprodukten steckt."
+      ],
+      "merke": "Jodsalz ist eine einfache Maßnahme gegen Jodmangel.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besonderer Bedarf",
+      "absaetze": [
+        "In Schwangerschaft und Stillzeit ist der Bedarf erhöht. Fachgesellschaften empfehlen hier oft zusätzlich Jod, nach ärztlicher Rücksprache.",
+        "Wer Salz verwendet, sollte jodiertes wählen. Das bedeutet nicht, mehr Salz zu essen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Getrocknete Algen können extrem viel Jod enthalten. Das BfR warnt vor gesundheitlichen Risiken durch zu hohe Mengen.",
+        "Bei Schilddrüsenerkrankungen kann zusätzliches Jod ungünstig sein. Kläre eine Einnahme von Jodpräparaten vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür braucht die Schilddrüse Jod?",
+      "art": "mc",
+      "optionen": [
+        "Zur Herstellung ihrer Hormone",
+        "Zum Speichern von Fett",
+        "Zur Bildung von Knochenmark",
+        "Zum Filtern von Blut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jod ist Baustein der Schilddrüsenhormone."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Deutschland ein Jodmangelgebiet?",
+      "art": "mc",
+      "optionen": [
+        "Weil die Böden wenig Jod enthalten",
+        "Weil es zu viel regnet",
+        "Weil hier wenig Salz gegessen wird",
+        "Weil die Luft zu trocken ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jodarme Böden liefern jodarme Lebensmittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jodsalz zu verwenden bedeutet, mehr Salz zu essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es geht darum, beim üblichen Salz das jodierte zu wählen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Schilddrüse braucht Jod für ihre Hormone.",
+        "Deutschland ist ein Jodmangelgebiet, Jodsalz hilft.",
+        "In Schwangerschaft und Stillzeit ist der Bedarf erhöht."
+      ]
+    }
+  ]
+}

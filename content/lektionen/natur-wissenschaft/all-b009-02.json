@@ -1,0 +1,113 @@
+{
+  "id": "all-b009-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum leuchten Sterne?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sun, Stars and Pluto",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sterne",
+    "sonne",
+    "kernfusion"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Sonne wärmt dein Gesicht. Ihr Licht ist gut acht Minuten unterwegs gewesen.",
+        "Woher nimmt sie seit Milliarden Jahren ihre Energie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kernfusion im Inneren",
+      "absaetze": [
+        "Im Kern der Sonne herrschen Temperaturen von etwa 15 Millionen Grad und ein enormer Druck. Dort verschmelzen Wasserstoffkerne zu Helium.",
+        "Bei dieser Kernfusion wird ein winziger Teil der Masse in Energie umgewandelt. Die Energie wandert über lange Zeit nach außen und wird an der Oberfläche als Licht und Wärme abgestrahlt."
+      ],
+      "merke": "Sterne leuchten, weil in ihrem Inneren Wasserstoff zu Helium verschmilzt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Leben in Phasen",
+      "absaetze": [
+        "Die Sonne ist etwa 4,6 Milliarden Jahre alt und hat ungefähr die Hälfte ihres Lebens hinter sich. Wenn der Wasserstoff im Kern zur Neige geht, wird sie sich zu einem Roten Riesen aufblähen.",
+        "Am Ende bleibt ein kleiner, heißer Rest übrig, ein Weißer Zwerg. Sehr massereiche Sterne enden dagegen in einer gewaltigen Explosion, einer Supernova."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Farbe verrät Temperatur",
+      "absaetze": [
+        "Sterne leuchten in unterschiedlichen Farben. Rötliche Sterne sind vergleichsweise kühl, bläulich-weiße besonders heiß.",
+        "Unsere Sonne liegt mit etwa 5.500 Grad an der Oberfläche im mittleren Bereich und erscheint weiß, durch die Atmosphäre oft gelblich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verschmilzt im Kern der Sonne?",
+      "art": "mc",
+      "optionen": [
+        "Wasserstoff zu Helium",
+        "Eisen zu Gold",
+        "Sauerstoff zu Wasser",
+        "Kohle zu Diamant"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasserstoffkerne verschmelzen zu Helium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie alt ist die Sonne etwa?",
+      "art": "mc",
+      "optionen": [
+        "4,6 Milliarden Jahre",
+        "6.000 Jahre",
+        "100 Millionen Jahre",
+        "100 Milliarden Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist etwa 4,6 Milliarden Jahre alt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bläulich leuchtende Sterne sind kühler als rötliche.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bläuliche Sterne sind heißer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sterne leuchten durch Kernfusion in ihrem Inneren.",
+        "Die Sonne hat etwa die Hälfte ihres Lebens hinter sich.",
+        "Die Farbe eines Sterns verrät seine Temperatur."
+      ]
+    }
+  ]
+}

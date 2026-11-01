@@ -1,0 +1,107 @@
+{
+  "id": "vers-b009-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie viel Mietkaution darf verlangt werden?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Verträge, Wohnen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kaution",
+    "miete",
+    "wohnung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast endlich eine Wohnung gefunden. Der Vermieter verlangt fünf Monatsmieten Kaution, sofort und bar.",
+        "Darf er das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Obergrenze",
+      "absaetze": [
+        "Nach dem Bürgerlichen Gesetzbuch darf die Mietkaution höchstens drei Monatsmieten betragen. Maßgeblich ist die Kaltmiete ohne Nebenkosten.",
+        "Du darfst die Kaution in drei gleichen Monatsraten zahlen. Die erste Rate ist zu Beginn des Mietverhältnisses fällig."
+      ],
+      "merke": "Höchstens drei Nettokaltmieten, zahlbar in drei Raten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Getrennt angelegt",
+      "absaetze": [
+        "Der Vermieter muss die Kaution getrennt von seinem eigenen Vermögen anlegen, meist auf einem speziellen Kautionskonto. So ist dein Geld geschützt, falls er in finanzielle Schwierigkeiten gerät.",
+        "Zinsen, die dabei entstehen, stehen dir zu und erhöhen die Kaution."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Auszug",
+      "absaetze": [
+        "Nach dem Auszug darf der Vermieter die Kaution eine angemessene Zeit behalten, um mögliche Forderungen zu prüfen, etwa wegen Schäden oder einer Nebenkostenabrechnung. Oft sind das einige Monate.",
+        "Ein gemeinsames Übergabeprotokoll beim Ein- und Auszug hilft, Streit über Schäden zu vermeiden. Mach am besten auch Fotos."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch darf die Mietkaution höchstens sein?",
+      "art": "mc",
+      "optionen": [
+        "Drei Monatskaltmieten",
+        "Eine Jahresmiete",
+        "Zehn Monatsmieten",
+        "Es gibt keine Grenze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gesetz begrenzt sie auf drei Nettokaltmieten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In wie vielen Raten darfst du die Kaution zahlen?",
+      "art": "mc",
+      "optionen": [
+        "In drei Monatsraten",
+        "Nur auf einmal",
+        "In zwölf Raten",
+        "In zwei Jahresraten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Drei gleiche Monatsraten sind erlaubt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Vermieter muss die Kaution getrennt von seinem Vermögen anlegen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So ist dein Geld geschützt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kaution darf höchstens drei Nettokaltmieten betragen.",
+        "Du kannst sie in drei Raten zahlen.",
+        "Ein Übergabeprotokoll hilft beim Auszug."
+      ]
+    }
+  ]
+}

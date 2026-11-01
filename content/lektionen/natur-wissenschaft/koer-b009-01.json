@@ -1,0 +1,107 @@
+{
+  "id": "koer-b009-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum gähnen wir?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gaehnen",
+    "muedigkeit",
+    "ansteckung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jemand gegenüber gähnt herzhaft. Kurz darauf musst du auch gähnen.",
+        "Vielleicht gähnst du sogar gerade, weil du das hier liest."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht wegen Sauerstoffmangel",
+      "absaetze": [
+        "Lange hieß es, wir gähnen, weil dem Körper Sauerstoff fehlt. In Versuchen änderte sich die Häufigkeit des Gähnens aber nicht, wenn Menschen Luft mit mehr Sauerstoff oder mehr Kohlendioxid atmeten.",
+        "Diese Erklärung gilt deshalb als unwahrscheinlich. Gähnen tritt besonders oft vor dem Schlafen, nach dem Aufwachen und bei Langeweile auf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein kühler Kopf?",
+      "absaetze": [
+        "Eine Hypothese besagt, dass Gähnen das Gehirn kühlt. Beim tiefen Einatmen strömt kühle Luft ein, und die Durchblutung im Kopf verändert sich.",
+        "Einige Studien fanden, dass Menschen bei sehr heißem Wetter seltener gähnen als bei milden Temperaturen. Endgültig geklärt ist die Funktion des Gähnens aber nicht."
+      ],
+      "merke": "Warum wir gähnen, ist noch nicht endgültig geklärt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ansteckendes Gähnen",
+      "absaetze": [
+        "Gähnen steckt an, beim Menschen und auch bei manchen Tieren wie Schimpansen und Hunden. Oft reicht es schon, über Gähnen zu lesen.",
+        "Studien deuten darauf hin, dass wir bei vertrauten Menschen leichter mitgähnen als bei Fremden. Kleine Kinder lassen sich in den ersten Lebensjahren noch kaum anstecken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gilt Sauerstoffmangel heute als Hauptgrund für Gähnen?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Versuche sprechen gegen diese Erklärung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hypothese wird zur Funktion des Gähnens diskutiert?",
+      "art": "mc",
+      "optionen": [
+        "Kühlung des Gehirns",
+        "Stärkung der Zähne",
+        "Verbesserung des Gehörs für immer",
+        "Bildung von Vitamin D"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gähnen könnte das Gehirn kühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei wem gähnen wir leichter mit?",
+      "art": "mc",
+      "optionen": [
+        "Bei vertrauten Menschen",
+        "Bei völlig Fremden",
+        "Nur bei Tieren",
+        "Nur bei Babys"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vertrautheit scheint ansteckendes Gähnen zu verstärken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sauerstoffmangel erklärt das Gähnen wohl nicht.",
+        "Möglicherweise kühlt Gähnen das Gehirn.",
+        "Gähnen ist ansteckend, besonders unter Vertrauten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "vers-b009-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Gesetzlich oder privat krankenversichert, was ist der Unterschied?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Krankenversicherung",
+      "herausgeber": "Bundesministerium für Gesundheit",
+      "url": "https://www.bundesgesundheitsministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Verträge, Wohnen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "krankenversicherung",
+    "gkv",
+    "pkv"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Kollegin wechselt in die private Krankenversicherung. Sie zahlt jetzt weniger und bekommt schneller Termine, erzählt sie.",
+        "Klingt verlockend. Doch die Entscheidung hat langfristige Folgen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die gesetzliche Krankenversicherung",
+      "absaetze": [
+        "Die meisten Menschen in Deutschland sind gesetzlich krankenversichert. Der Beitrag richtet sich nach dem Einkommen, nicht nach Alter oder Gesundheit.",
+        "Arbeitgeber zahlen etwa die Hälfte. Ehepartner und Kinder ohne eigenes Einkommen sind oft kostenlos mitversichert. Das nennt man Familienversicherung. Das Prinzip dahinter ist Solidarität."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die private Krankenversicherung",
+      "absaetze": [
+        "Privat versichern können sich vor allem Selbstständige, Beamte und Angestellte mit einem Einkommen über einer bestimmten Grenze. Der Beitrag richtet sich nach Alter, Gesundheitszustand und gewählten Leistungen.",
+        "Jede Person braucht einen eigenen Vertrag, auch Kinder. Für junge, gesunde Menschen kann der Beitrag anfangs niedrig sein. Im Alter steigen die Beiträge oft deutlich."
+      ],
+      "merke": "Privat zahlt jeder nach eigenem Risiko, gesetzlich nach Einkommen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut überlegen",
+      "absaetze": [
+        "Ein Wechsel zurück in die gesetzliche Krankenversicherung ist nur unter engen Voraussetzungen möglich, ab 55 Jahren kaum noch.",
+        "Verbraucherschützer raten deshalb, die Entscheidung nicht nur nach dem aktuellen Beitrag zu treffen. Familienplanung, Einkommenssicherheit und Beiträge im Alter spielen eine wichtige Rolle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach richtet sich der Beitrag in der gesetzlichen Krankenversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Nach dem Einkommen",
+        "Nach dem Alter",
+        "Nach dem Gesundheitszustand",
+        "Nach der Körpergröße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gesetzlich zahlt man nach Einkommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Familienversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Kostenlose Mitversicherung von Angehörigen ohne eigenes Einkommen",
+        "Eine Lebensversicherung für Familien",
+        "Eine Hausratversicherung",
+        "Ein Sparplan für Kinder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gibt es nur in der gesetzlichen Krankenversicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Wechsel von privat zurück zu gesetzlich ist jederzeit problemlos möglich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist nur unter engen Voraussetzungen möglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gesetzlich zahlt man nach Einkommen, Familie ist oft mitversichert.",
+        "Privat richtet sich der Beitrag nach Alter und Gesundheit.",
+        "Die Rückkehr in die gesetzliche Versicherung ist schwierig."
+      ]
+    }
+  ]
+}

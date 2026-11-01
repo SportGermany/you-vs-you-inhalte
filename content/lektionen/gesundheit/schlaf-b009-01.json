@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b009-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schläfst du besser, wenn du Sport treibst?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sport",
+    "bewegung",
+    "schlafqualitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Tag mit Wanderung oder Gartenarbeit schläfst du tief und fest. Nach einem Tag am Schreibtisch liegst du länger wach.",
+        "Hängen Bewegung und Schlaf zusammen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Viele Studien deuten darauf hin, dass regelmäßige körperliche Aktivität die Schlafqualität verbessert. Menschen schlafen schneller ein und haben mehr Tiefschlaf.",
+        "Besonders deutlich ist der Effekt bei Menschen, die vorher wenig aktiv waren oder unter leichten Schlafproblemen leiden. Die Wirkung baut sich über Wochen auf, nicht über Nacht."
+      ],
+      "merke": "Regelmäßige Bewegung fördert guten Schlaf.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das so sein könnte",
+      "absaetze": [
+        "Bewegung erhöht den Schlafdruck, also das Bedürfnis nach Schlaf. Sie baut Stress ab und kann Grübeln verringern.",
+        "Wer draußen aktiv ist, bekommt außerdem Tageslicht ab. Das hilft der inneren Uhr, im richtigen Takt zu bleiben."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und abends?",
+      "absaetze": [
+        "Lange hieß es, Sport am Abend störe den Schlaf. Neuere Studien deuten darauf hin, dass moderates Training am Abend die meisten Menschen nicht stört.",
+        "Sehr intensives Training kurz vor dem Schlafengehen kann das Einschlafen aber erschweren. Hier lohnt es sich, auf den eigenen Körper zu achten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt regelmäßige Bewegung beim Schlaf meist?",
+      "art": "mc",
+      "optionen": [
+        "Bessere Schlafqualität",
+        "Schlechteren Schlaf",
+        "Gar nichts",
+        "Nur mehr Träume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Studien zeigen einen positiven Effekt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erhöht Bewegung?",
+      "art": "mc",
+      "optionen": [
+        "Den Schlafdruck",
+        "Den Koffeinspiegel",
+        "Die Lichtempfindlichkeit in der Nacht",
+        "Den Blutzucker am Abend dauerhaft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bewegung steigert das Bedürfnis nach Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Moderater Sport am Abend stört den Schlaf der meisten Menschen stark.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Neuere Studien sehen meist keine Störung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Regelmäßige Bewegung verbessert oft den Schlaf.",
+        "Sie erhöht den Schlafdruck und baut Stress ab.",
+        "Nur sehr intensives Training kurz vor dem Schlafen kann stören."
+      ]
+    }
+  ]
+}
