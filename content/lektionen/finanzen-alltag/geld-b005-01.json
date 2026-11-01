@@ -1,0 +1,119 @@
+{
+  "id": "geld-b005-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist ein ETF?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "etf",
+    "fonds",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Alle reden von ETFs. Deine Kollegin hat einen Sparplan, dein Onkel hält das für Zockerei.",
+        "Was steckt hinter den drei Buchstaben?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Fonds, der einen Index nachbildet",
+      "absaetze": [
+        "ETF steht für Exchange Traded Fund, also börsengehandelter Fonds. Die meisten ETFs bilden einen Index nach. Ein Index ist ein Korb von Aktien, etwa der DAX mit 40 deutschen Unternehmen.",
+        "Steigen die Kurse im Index, steigt auch der ETF. Fallen sie, fällt er. Ein Fondsmanager, der einzelne Aktien auswählt, ist nicht nötig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum ETFs beliebt sind",
+      "absaetze": [
+        "ETFs sind meist günstig, weil kein teures Management aktiv Aktien auswählt. Ein weltweiter Index verteilt das Geld auf viele Hundert oder Tausend Unternehmen.",
+        "Diese Streuung senkt das Risiko, dass eine einzelne Firmenpleite viel Geld kostet. Verbraucherschützer und Stiftung Warentest empfehlen breit gestreute ETFs deshalb oft für den langfristigen Vermögensaufbau."
+      ],
+      "merke": "Breite Streuung und niedrige Kosten sind die Stärken von ETFs."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Risiko bleibt",
+      "absaetze": [
+        "Auch ein breit gestreuter Aktien-ETF kann in Krisen stark fallen, zeitweise um 30 Prozent oder mehr. In der Vergangenheit haben sich weltweite Aktienmärkte über lange Zeiträume erholt, eine Garantie dafür gibt es aber nicht.",
+        "Geld, das du in den nächsten Jahren brauchst, gehört deshalb nicht in Aktien-ETFs."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "ETFs sind sicher wie ein Sparbuch.",
+      "urteil": "mythos",
+      "erklaerung": "Aktien-ETFs schwanken mit den Börsenkursen und können zeitweise stark an Wert verlieren. Das Fondsvermögen ist zwar vor einer Pleite des Anbieters geschützt, nicht aber vor Kursverlusten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht ETF?",
+      "art": "mc",
+      "optionen": [
+        "Exchange Traded Fund",
+        "Euro Tax Fund",
+        "Electronic Transfer Form",
+        "Extra Tagesgeld Fonds"
+      ],
+      "richtig": 0,
+      "erklaerung": "ETF bedeutet börsengehandelter Fonds."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bildet ein typischer ETF nach?",
+      "art": "mc",
+      "optionen": [
+        "Einen Index",
+        "Den Goldpreis allein",
+        "Ein einzelnes Unternehmen",
+        "Den Leitzins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die meisten ETFs bilden einen Index wie den DAX oder einen Weltindex nach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein breit gestreuter Aktien-ETF kann nicht an Wert verlieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch er schwankt mit dem Markt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein ETF ist ein börsengehandelter Fonds, der meist einen Index nachbildet.",
+        "Er ist günstig und streut das Geld breit.",
+        "Kursverluste sind möglich, deshalb eignet er sich für langfristiges Geld."
+      ]
+    }
+  ]
+}

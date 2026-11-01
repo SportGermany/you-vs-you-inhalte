@@ -1,0 +1,113 @@
+{
+  "id": "vers-b005-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Warum ist die private Haftpflicht so wichtig?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haftpflicht",
+    "schaden",
+    "versicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du fährst mit dem Fahrrad und übersiehst eine Fußgängerin. Sie stürzt und kann monatelang nicht arbeiten.",
+        "Die Kosten für Behandlung und Verdienstausfall muss jemand tragen. Im Zweifel du."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unbegrenzte Haftung",
+      "absaetze": [
+        "Wer einem anderen schuldhaft einen Schaden zufügt, muss ihn nach deutschem Recht ersetzen. Das gilt ohne Obergrenze und notfalls ein Leben lang.",
+        "Bei Personenschäden können schnell Summen in Millionenhöhe entstehen. Ohne Versicherung kann das eine Existenz ruinieren."
+      ],
+      "merke": "Für Schäden an anderen haftest du in unbegrenzter Höhe."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Versicherung macht",
+      "absaetze": [
+        "Die private Haftpflichtversicherung zahlt berechtigte Ansprüche anderer. Sie wehrt außerdem unberechtigte Forderungen ab, notfalls vor Gericht.",
+        "Verbraucherschützer zählen sie zu den wichtigsten Versicherungen überhaupt. Sie kostet meist vergleichsweise wenig. Achte auf eine hohe Deckungssumme von mehreren Millionen Euro."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie nicht abdeckt",
+      "absaetze": [
+        "Schäden an deinen eigenen Sachen zahlt die Haftpflicht nicht. Auch Schäden durch Autos sind ausgeschlossen, dafür gibt es die gesetzlich vorgeschriebene Kfz-Haftpflicht.",
+        "Kinder und Partner sind in einem Familientarif oft mitversichert. Prüfe das in deinem Vertrag."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch haftest du in Deutschland für Schäden, die du anderen schuldhaft zufügst?",
+      "art": "mc",
+      "optionen": [
+        "Bis 1.000 Euro",
+        "Bis 10.000 Euro",
+        "In unbegrenzter Höhe",
+        "Gar nicht"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Haftung ist unbegrenzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die private Haftpflicht zahlt Schäden an deinem eigenen Handy.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zahlt nur Schäden, die du anderen zufügst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Haftpflicht ist für Autos gesetzlich vorgeschrieben?",
+      "art": "mc",
+      "optionen": [
+        "Kfz-Haftpflicht",
+        "Tierhalterhaftpflicht",
+        "Berufshaftpflicht",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Fahrzeuge ist die Kfz-Haftpflicht Pflicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Für Schäden an anderen haftest du unbegrenzt.",
+        "Die private Haftpflicht zahlt berechtigte und wehrt unberechtigte Ansprüche ab.",
+        "Achte auf eine hohe Deckungssumme."
+      ]
+    }
+  ]
+}

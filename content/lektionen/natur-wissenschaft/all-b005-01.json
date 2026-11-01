@@ -1,0 +1,119 @@
+{
+  "id": "all-b005-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum verändert der Mond seine Gestalt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moon and Earth",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mond",
+    "mondphasen",
+    "himmel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mal ist der Mond eine schmale Sichel, mal eine volle, helle Scheibe.",
+        "Dabei ist er immer gleich rund. Was ändert sich also?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Sonne beleuchtet immer eine Hälfte",
+      "absaetze": [
+        "Der Mond leuchtet nicht selbst. Er wird von der Sonne angestrahlt, und zwar immer genau zur Hälfte.",
+        "Während der Mond in etwa einem Monat um die Erde kreist, sehen wir diese beleuchtete Hälfte aus wechselnden Blickwinkeln. Daraus entstehen die Mondphasen."
+      ],
+      "merke": "Wir sehen je nach Stellung mehr oder weniger von der beleuchteten Seite."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neumond und Vollmond",
+      "absaetze": [
+        "Bei Neumond steht der Mond zwischen Erde und Sonne. Seine beleuchtete Seite zeigt von uns weg, wir sehen ihn kaum.",
+        "Bei Vollmond steht die Erde zwischen Sonne und Mond. Dann blicken wir genau auf die beleuchtete Seite. Von Neumond zu Neumond dauert es etwa 29,5 Tage."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Erdschatten",
+      "absaetze": [
+        "Viele glauben, die Phasen entstünden durch den Schatten der Erde. Das stimmt nicht. Der Erdschatten fällt nur bei einer Mondfinsternis auf den Mond.",
+        "Das passiert nur bei manchen Vollmonden, wenn Sonne, Erde und Mond fast genau auf einer Linie stehen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Die Mondphasen entstehen durch den Schatten der Erde.",
+      "urteil": "mythos",
+      "erklaerung": "Die Phasen entstehen, weil wir die von der Sonne beleuchtete Mondhälfte aus wechselnden Winkeln sehen. Der Erdschatten trifft den Mond nur bei einer Mondfinsternis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert es ungefähr von Neumond zu Neumond?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 7 Tage",
+        "Etwa 29,5 Tage",
+        "Etwa 365 Tage",
+        "Etwa 24 Stunden"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein Mondzyklus dauert etwa 29,5 Tage."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steht der Mond bei Neumond?",
+      "art": "mc",
+      "optionen": [
+        "Zwischen Erde und Sonne",
+        "Hinter der Erde",
+        "Neben dem Mars",
+        "Er verschwindet ganz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seine beleuchtete Seite zeigt dann von uns weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Mond leuchtet selbst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er wird von der Sonne angestrahlt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Sonne beleuchtet immer eine Hälfte des Mondes.",
+        "Die Phasen entstehen durch unseren wechselnden Blickwinkel.",
+        "Der Erdschatten spielt nur bei Mondfinsternissen eine Rolle."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "steu-b005-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Warum ist Netto so viel weniger als Brutto?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "brutto",
+    "netto",
+    "lohnabrechnung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Arbeitsvertrag steht ein schönes Bruttogehalt. Auf dem Konto kommt deutlich weniger an.",
+        "Ein Blick auf die Lohnabrechnung zeigt, wohin der Rest geht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuern",
+      "absaetze": [
+        "Vom Bruttolohn behält der Arbeitgeber die Lohnsteuer ein und überweist sie ans Finanzamt. Ihre Höhe hängt vom Einkommen und von der Steuerklasse ab.",
+        "Wer Mitglied einer Kirche ist, zahlt zusätzlich Kirchensteuer. Der Solidaritätszuschlag fällt seit 2021 für die meisten Beschäftigten nicht mehr an, nur noch bei hohen Einkommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sozialversicherung",
+      "absaetze": [
+        "Dazu kommen Beiträge zur Sozialversicherung. Sie besteht aus Renten-, Kranken-, Pflege- und Arbeitslosenversicherung.",
+        "Die Beiträge teilen sich Arbeitnehmer und Arbeitgeber im Grundsatz etwa zur Hälfte. Der Arbeitgeber zahlt seinen Anteil zusätzlich zum Bruttolohn, er taucht auf deinem Zettel nur als Information auf."
+      ],
+      "merke": "Netto ist Brutto minus Steuern minus Sozialabgaben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür das Geld da ist",
+      "absaetze": [
+        "Die Abzüge finanzieren Leistungen, die du selbst nutzt oder später nutzen kannst. Dazu gehören Arztbesuche, Rente, Pflege und Arbeitslosengeld.",
+        "Steuern bezahlen außerdem Schulen, Straßen, Polizei und vieles mehr. Wer mehr verdient, zahlt in Deutschland einen höheren Steuersatz."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer überweist die Lohnsteuer ans Finanzamt?",
+      "art": "mc",
+      "optionen": [
+        "Der Arbeitgeber",
+        "Die Krankenkasse",
+        "Die Rentenversicherung",
+        "Du selbst jeden Monat bar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Arbeitgeber behält sie ein und führt sie ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung gehört nicht zur gesetzlichen Sozialversicherung auf der Lohnabrechnung?",
+      "art": "mc",
+      "optionen": [
+        "Rentenversicherung",
+        "Krankenversicherung",
+        "Hausratversicherung",
+        "Arbeitslosenversicherung"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Hausratversicherung ist eine private Versicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Sozialversicherungsbeiträge zahlt der Arbeitnehmer allein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Arbeitgeber und Arbeitnehmer teilen sie sich im Grundsatz etwa zur Hälfte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vom Brutto gehen Lohnsteuer und gegebenenfalls Kirchensteuer ab.",
+        "Dazu kommen Beiträge zu Renten-, Kranken-, Pflege- und Arbeitslosenversicherung.",
+        "Die Abgaben finanzieren Sozialleistungen und öffentliche Aufgaben."
+      ]
+    }
+  ]
+}

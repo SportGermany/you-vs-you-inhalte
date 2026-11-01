@@ -1,0 +1,113 @@
+{
+  "id": "geld-b005-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie sicher ist dein Geld bei der Bank?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Einlagensicherung",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "einlagensicherung",
+    "bank",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten geht eine Bank pleite. Du denkst an dein Tagesgeldkonto.",
+        "Ist das Geld jetzt weg?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die gesetzliche Einlagensicherung",
+      "absaetze": [
+        "In der EU sind Einlagen bei Banken gesetzlich geschützt. Pro Person und Bank sind Guthaben bis 100.000 Euro abgesichert.",
+        "Dazu gehören Girokonten, Tagesgeld, Festgeld und Sparbücher. Geht die Bank pleite, zahlt die Sicherungseinrichtung das Geld zurück, in der Regel innerhalb weniger Arbeitstage."
+      ],
+      "merke": "Bis 100.000 Euro pro Person und Bank sind Einlagen gesetzlich geschützt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zusätzlich gilt",
+      "absaetze": [
+        "In bestimmten Fällen ist der Schutz vorübergehend höher, etwa nach dem Verkauf einer Wohnung. In Deutschland sind viele Banken außerdem Mitglied in freiwilligen Sicherungssystemen der Sparkassen, Volksbanken oder privaten Banken.",
+        "Bei Banken aus anderen EU-Ländern greift die Einlagensicherung des jeweiligen Landes. Ihre Leistungsfähigkeit kann unterschiedlich sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nicht darunter fällt",
+      "absaetze": [
+        "Wertpapiere wie Aktien oder Fondsanteile sind keine Einlagen. Sie gehören aber dir und werden im Depot getrennt vom Vermögen der Bank verwahrt.",
+        "Bei einer Pleite der Bank bleiben sie also dein Eigentum. Vor Kursverlusten schützt das jedoch nicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welcher Summe sind Einlagen pro Person und Bank gesetzlich geschützt?",
+      "art": "mc",
+      "optionen": [
+        "10.000 Euro",
+        "50.000 Euro",
+        "100.000 Euro",
+        "1 Million Euro"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die gesetzliche Grenze liegt bei 100.000 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Anlage fällt nicht unter die Einlagensicherung?",
+      "art": "mc",
+      "optionen": [
+        "Tagesgeld",
+        "Festgeld",
+        "Aktien im Depot",
+        "Girokonto"
+      ],
+      "richtig": 2,
+      "erklaerung": "Wertpapiere sind keine Einlagen, sie bleiben aber dein Eigentum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aktien im Depot gehen bei einer Bankpleite in die Insolvenzmasse der Bank.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie werden getrennt verwahrt und bleiben dein Eigentum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einlagen sind in der EU bis 100.000 Euro pro Person und Bank geschützt.",
+        "Viele Banken haben zusätzlich freiwillige Sicherungssysteme.",
+        "Wertpapiere bleiben bei einer Bankpleite dein Eigentum."
+      ]
+    }
+  ]
+}

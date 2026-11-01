@@ -1,0 +1,113 @@
+{
+  "id": "koer-b005-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Woher kommt Muskelkater?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sportmedizin",
+      "herausgeber": "Deutsche Sporthochschule Köln",
+      "url": "https://www.dshs-koeln.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "muskelkater",
+    "sport",
+    "muskeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem ersten Bergabwandern seit Jahren kommst du am übernächsten Tag kaum die Treppe hinunter.",
+        "Lange hieß es: Schuld ist Milchsäure. Das gilt heute als überholt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Winzige Verletzungen",
+      "absaetze": [
+        "Muskelkater entsteht nach heutigem Wissen durch winzige Risse in den Muskelfasern. Danach folgen Entzündungsreaktionen und Schwellungen, die schmerzen.",
+        "Deshalb tut es meist erst nach 12 bis 24 Stunden weh. Am stärksten ist der Schmerz oft nach ein bis drei Tagen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bremsen ist anstrengender",
+      "absaetze": [
+        "Besonders anfällig sind Bewegungen, bei denen der Muskel unter Spannung länger wird. Das passiert beim Bergabgehen, beim Absetzen einer Hantel oder beim Abbremsen.",
+        "Fachleute nennen das exzentrische Belastung. Ungewohnte Bewegungen lösen eher Muskelkater aus als vertraute."
+      ],
+      "merke": "Ungewohnte Bewegungen und Bremsen fördern Muskelkater."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Milchsäure ist unschuldig",
+      "absaetze": [
+        "Laktat, das Salz der Milchsäure, entsteht bei intensiver Belastung tatsächlich. Es wird aber innerhalb kurzer Zeit nach dem Training abgebaut.",
+        "Es kann deshalb den Schmerz Tage später nicht erklären. Muskelkater klingt von selbst ab, und der Muskel ist danach besser auf die Belastung vorbereitet."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Muskelkater kommt von Milchsäure in den Muskeln.",
+      "urteil": "mythos",
+      "erklaerung": "Laktat ist kurz nach dem Training wieder abgebaut. Muskelkater tritt aber erst Stunden bis Tage später auf. Nach heutigem Wissen sind feine Verletzungen der Muskelfasern die Ursache."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist Muskelkater oft am stärksten?",
+      "art": "mc",
+      "optionen": [
+        "Während des Trainings",
+        "Ein bis drei Tage danach",
+        "Nach zwei Wochen",
+        "Nur nachts"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Schmerz erreicht oft nach ein bis drei Tagen seinen Höhepunkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Bewegung fördert Muskelkater besonders?",
+      "art": "mc",
+      "optionen": [
+        "Bergabgehen",
+        "Ruhiges Sitzen",
+        "Langsames Atmen",
+        "Schlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Bergabgehen arbeiten die Muskeln bremsend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Milchsäure ist nach heutigem Wissen die Ursache von Muskelkater.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ursache sind feine Verletzungen der Muskelfasern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Muskelkater entsteht durch winzige Verletzungen in Muskelfasern.",
+        "Bremsende und ungewohnte Bewegungen lösen ihn eher aus.",
+        "Milchsäure ist nicht die Ursache."
+      ]
+    }
+  ]
+}

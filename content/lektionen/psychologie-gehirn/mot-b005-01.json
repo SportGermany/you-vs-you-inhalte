@@ -1,0 +1,107 @@
+{
+  "id": "mot-b005-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "motivation-emotionen",
+  "titel": "Was passiert bei Stress in deinem Körper?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stress",
+    "cortisol",
+    "adrenalin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kurz vor einer Präsentation klopft dein Herz, die Hände sind feucht, der Mund ist trocken.",
+        "Dein Körper bereitet sich auf etwas vor, das es heute selten gibt: einen Kampf oder eine Flucht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die schnelle Reaktion",
+      "absaetze": [
+        "Nimmt das Gehirn eine Bedrohung wahr, wird das sympathische Nervensystem aktiv. Die Nebennieren schütten Adrenalin aus.",
+        "Herzschlag und Atmung beschleunigen sich, die Muskeln werden besser durchblutet, Zucker wird ins Blut freigesetzt. Diese Kampf-oder-Flucht-Reaktion läuft in Sekunden ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die langsamere Welle",
+      "absaetze": [
+        "Etwas später setzt eine zweite Kette ein. Über Hirnanhangdrüse und Nebennieren wird das Hormon Cortisol ausgeschüttet.",
+        "Cortisol stellt Energie bereit und dämpft Entzündungen. Nach der Belastung sorgt es mit dafür, dass die Stressreaktion wieder abklingt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurzer Stress und Dauerstress",
+      "absaetze": [
+        "Kurzer Stress ist nützlich. Er schärft die Aufmerksamkeit und hilft, Herausforderungen zu meistern.",
+        "Hält Stress ohne Erholung lange an, kann er schaden. Er hängt mit Schlafstörungen, Bluthochdruck und Erschöpfung zusammen. Entscheidend sind deshalb Pausen, in denen der Körper wieder herunterfährt."
+      ],
+      "merke": "Stress ist nicht das Problem, fehlende Erholung schon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon wird bei Stress sehr schnell ausgeschüttet?",
+      "art": "mc",
+      "optionen": [
+        "Adrenalin",
+        "Melatonin",
+        "Insulin",
+        "Östrogen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Adrenalin sorgt für die schnelle Kampf-oder-Flucht-Reaktion."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon folgt als langsamere Welle?",
+      "art": "mc",
+      "optionen": [
+        "Cortisol",
+        "Melatonin",
+        "Wachstumshormon",
+        "Leptin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Cortisol folgt etwas später."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kurzer Stress kann die Aufmerksamkeit schärfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Problematisch wird Stress ohne Erholung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Stress schüttet der Körper zuerst Adrenalin, dann Cortisol aus.",
+        "Die Reaktion bereitet auf Kampf oder Flucht vor.",
+        "Kurzer Stress hilft, Dauerstress ohne Erholung schadet."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "tech-b005-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Lithium-Ionen-Akku?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "The Nobel Prize in Chemistry 2019",
+      "herausgeber": "Nobel Prize Outreach",
+      "url": "https://www.nobelprize.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Energiesparen und Umwelt im Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "akku",
+    "lithium",
+    "batterie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Handy, dein Laptop und vielleicht dein Fahrrad laufen mit demselben Akkutyp.",
+        "2019 gab es dafür sogar einen Nobelpreis. Was passiert in so einem Akku?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wandernde Ionen",
+      "absaetze": [
+        "Ein Lithium-Ionen-Akku hat zwei Elektroden, dazwischen liegt eine Flüssigkeit oder ein Gel, der Elektrolyt. Ionen sind elektrisch geladene Teilchen.",
+        "Beim Laden wandern Lithium-Ionen von der einen Elektrode zur anderen und werden dort eingelagert. Beim Entladen wandern sie zurück. Gleichzeitig fließen Elektronen durch das Gerät und treiben es an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein preisgekröntes Prinzip",
+      "absaetze": [
+        "John Goodenough, Stanley Whittingham und Akira Yoshino erhielten 2019 den Nobelpreis für Chemie für die Entwicklung dieser Akkus.",
+        "Lithium ist sehr leicht und kann viel Energie speichern. Deshalb sind diese Akkus klein, leicht und leistungsstark. Sie haben tragbare Elektronik und Elektroautos erst möglich gemacht."
+      ],
+      "merke": "Leicht und energiereich: deshalb stecken Lithium-Ionen-Akkus überall."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Akkus altern",
+      "absaetze": [
+        "Mit jeder Ladung verändern sich die Materialien ein wenig. Die Kapazität sinkt mit der Zeit.",
+        "Hitze beschleunigt die Alterung. Auch dauerhaft volle oder ganz leere Akkus altern schneller. Beschädigte Akkus können in Brand geraten und gehören nicht in den Hausmüll, sondern in die Sammelstelle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wandert beim Laden von einer Elektrode zur anderen?",
+      "art": "mc",
+      "optionen": [
+        "Lithium-Ionen",
+        "Wassermoleküle",
+        "Sauerstoffblasen",
+        "Lichtteilchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lithium-Ionen werden zwischen den Elektroden hin- und hergeschoben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür gab es 2019 einen Nobelpreis?",
+      "art": "mc",
+      "optionen": [
+        "Für Lithium-Ionen-Akkus",
+        "Für das Internet",
+        "Für das Smartphone-Display",
+        "Für Solarzellen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Chemie-Nobelpreis 2019 würdigte die Entwicklung dieser Akkus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hitze lässt Akkus schneller altern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Hohe Temperaturen beschleunigen die Alterung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Laden und Entladen wandern Lithium-Ionen zwischen zwei Elektroden.",
+        "Die Akkus sind leicht und speichern viel Energie.",
+        "Hitze und Extreme beim Ladestand lassen sie schneller altern."
+      ]
+    }
+  ]
+}

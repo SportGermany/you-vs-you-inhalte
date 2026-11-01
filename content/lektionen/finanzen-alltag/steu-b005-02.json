@@ -1,0 +1,113 @@
+{
+  "id": "steu-b005-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was bewirkt deine Steuerklasse?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuerklasse",
+    "lohnsteuer",
+    "ehe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach der Hochzeit wechselt ein Paar die Steuerklassen. Plötzlich hat einer viel mehr netto, die andere deutlich weniger.",
+        "Zahlen die beiden jetzt insgesamt mehr oder weniger Steuern?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sechs Klassen",
+      "absaetze": [
+        "In Deutschland gibt es sechs Steuerklassen. Klasse I gilt für Ledige, Klasse II für Alleinerziehende mit Entlastungsbetrag.",
+        "Verheiratete und eingetragene Lebenspartner können zwischen IV/IV und III/V wählen. Klasse VI gilt für einen zweiten oder weiteren Job."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Es geht um den Vorschuss",
+      "absaetze": [
+        "Die Steuerklasse bestimmt nur, wie viel Lohnsteuer jeden Monat einbehalten wird. Das ist eine Art Vorauszahlung auf die Jahressteuer.",
+        "Wie viel Steuer ein Paar am Ende eines Jahres insgesamt zahlt, hängt nicht von der Steuerklasse ab. Das zeigt sich erst mit der Steuererklärung."
+      ],
+      "merke": "Die Steuerklasse verändert den monatlichen Abzug, nicht die Jahressteuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf Paare achten können",
+      "absaetze": [
+        "Bei III/V kann es zu Nachzahlungen kommen. Deshalb sind Paare mit dieser Kombination in der Regel verpflichtet, eine Steuererklärung abzugeben.",
+        "Die Klasse beeinflusst außerdem manche Lohnersatzleistungen wie Eltern- oder Arbeitslosengeld, da diese sich am Netto orientieren. Ein Wechsel kann deshalb vor solchen Phasen eine Rolle spielen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Steuerklasse gilt für einen zweiten Job?",
+      "art": "mc",
+      "optionen": [
+        "Klasse I",
+        "Klasse III",
+        "Klasse V",
+        "Klasse VI"
+      ],
+      "richtig": 3,
+      "erklaerung": "Für weitere Arbeitsverhältnisse gilt Klasse VI."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Steuerklasse bestimmt, wie viel Steuer ein Paar am Jahresende insgesamt zahlt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bestimmt nur den monatlichen Abzug."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei der Kombination III/V in der Regel Pflicht?",
+      "art": "mc",
+      "optionen": [
+        "Eine Steuererklärung",
+        "Ein neuer Arbeitsvertrag",
+        "Ein Umzug",
+        "Eine Kirchenmitgliedschaft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Paare mit III/V müssen in der Regel eine Steuererklärung abgeben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Es gibt sechs Steuerklassen.",
+        "Sie regeln den monatlichen Lohnsteuerabzug, nicht die Jahressteuer.",
+        "Die Wahl kann Lohnersatzleistungen beeinflussen."
+      ]
+    }
+  ]
+}

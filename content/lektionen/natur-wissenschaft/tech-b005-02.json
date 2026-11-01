@@ -1,0 +1,129 @@
+{
+  "id": "tech-b005-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie kommt das Internet per WLAN zu dir?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Router und WLAN",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wlan",
+    "funk",
+    "router"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Wohnzimmer läuft der Film flüssig. Im Schlafzimmer hinter zwei Wänden stockt er ständig.",
+        "Was hat das mit Funkwellen zu tun?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Daten per Funk",
+      "absaetze": [
+        "WLAN steht für Wireless Local Area Network, also drahtloses lokales Netzwerk. Der Router wandelt Daten aus dem Internetanschluss in Funkwellen um. Dein Gerät empfängt sie und sendet selbst Funkwellen zurück.",
+        "Genutzt werden vor allem die Frequenzbereiche 2,4 und 5 Gigahertz, bei neueren Geräten auch 6 Gigahertz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reichweite und Tempo",
+      "absaetze": [
+        "Das 2,4-Gigahertz-Band reicht weiter und durchdringt Wände besser, ist aber oft überfüllt und langsamer. Höhere Frequenzen übertragen mehr Daten, werden aber von Wänden stärker geschwächt.",
+        "Dicke Betonwände, Metall und Wasser wie in Aquarien dämpfen das Signal deutlich. Ein zentraler, erhöhter Standort für den Router hilft oft."
+      ],
+      "merke": "Höhere Frequenz bedeutet mehr Tempo, aber weniger Reichweite."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit",
+      "absaetze": [
+        "Funkwellen kann jeder in der Nähe empfangen. Deshalb werden WLAN-Daten verschlüsselt.",
+        "Das BSI rät zu aktueller Verschlüsselung wie WPA3 oder mindestens WPA2, einem langen eigenen Passwort und regelmäßigen Updates für den Router."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Besseres WLAN zu Hause",
+      "schritte": [
+        {
+          "titel": "Standort",
+          "text": "Stell den Router frei, erhöht und möglichst zentral in die Wohnung."
+        },
+        {
+          "titel": "Hindernisse meiden",
+          "text": "Nicht in den Schrank, nicht hinter Metall oder neben Aquarien."
+        },
+        {
+          "titel": "Updates",
+          "text": "Halte die Software des Routers aktuell."
+        },
+        {
+          "titel": "Passwort",
+          "text": "Ändere das voreingestellte Passwort in ein langes eigenes."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht WLAN?",
+      "art": "mc",
+      "optionen": [
+        "Wireless Local Area Network",
+        "World Large Access Net",
+        "Wide Line Antenna Node",
+        "Web Link Area Number"
+      ],
+      "richtig": 0,
+      "erklaerung": "WLAN ist ein drahtloses lokales Netzwerk."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Frequenzband durchdringt Wände besser?",
+      "art": "mc",
+      "optionen": [
+        "2,4 Gigahertz",
+        "5 Gigahertz",
+        "6 Gigahertz",
+        "Alle gleich gut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Niedrigere Frequenzen reichen weiter durch Wände."
+    },
+    {
+      "typ": "quiz",
+      "frage": "WLAN-Daten sollten verschlüsselt werden, weil jeder in der Nähe die Funkwellen empfangen kann.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Verschlüsselung schützt die Daten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Router überträgt Daten per Funkwellen.",
+        "Höhere Frequenzen sind schneller, reichen aber weniger weit.",
+        "Verschlüsselung, Passwort und Updates schützen dein Netz."
+      ]
+    }
+  ]
+}

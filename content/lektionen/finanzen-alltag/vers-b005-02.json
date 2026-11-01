@@ -1,0 +1,107 @@
+{
+  "id": "vers-b005-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann kannst du einen Kauf widerrufen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "widerruf",
+    "onlinekauf",
+    "verbraucherrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Jacke aus dem Onlineshop passt nicht. Du schickst sie einfach zurück.",
+        "Im Laden um die Ecke sagt die Verkäuferin dagegen: Umtausch nur gegen Gutschein. Ist das erlaubt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Widerruf bei Fernabsatz",
+      "absaetze": [
+        "Bei Verträgen im Internet, am Telefon oder per Post hast du als Verbraucher in der EU ein gesetzliches Widerrufsrecht. Die Frist beträgt 14 Tage und beginnt bei Waren in der Regel mit dem Erhalt.",
+        "Einen Grund musst du nicht nennen. Der Grund dafür: Du konntest die Ware vorher nicht anfassen und prüfen."
+      ],
+      "merke": "Online gekauft: 14 Tage Widerrufsrecht ohne Begründung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen",
+      "absaetze": [
+        "Nicht alles lässt sich widerrufen. Ausgenommen sind etwa maßgefertigte oder personalisierte Waren und schnell verderbliche Lebensmittel.",
+        "Auch versiegelte Hygieneartikel und Software, deren Versiegelung geöffnet wurde, sind oft ausgenommen. Hat der Händler nicht korrekt über das Widerrufsrecht belehrt, verlängert sich die Frist deutlich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Laden gilt etwas anderes",
+      "absaetze": [
+        "Für Käufe im Geschäft gibt es kein gesetzliches Umtauschrecht. Viele Händler bieten freiwillig einen Umtausch an und dürfen die Bedingungen selbst festlegen, etwa nur gegen Gutschein.",
+        "Davon getrennt ist die Gewährleistung. Ist eine Ware mangelhaft, hast du immer Rechte, egal ob online oder im Laden gekauft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lang ist die gesetzliche Widerrufsfrist bei Onlinekäufen?",
+      "art": "mc",
+      "optionen": [
+        "3 Tage",
+        "14 Tage",
+        "30 Tage",
+        "Ein Jahr"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Frist beträgt 14 Tage."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Käufe im Laden gibt es ein gesetzliches Umtauschrecht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Umtausch im Laden ist freiwillig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Ware ist vom Widerrufsrecht ausgenommen?",
+      "art": "mc",
+      "optionen": [
+        "Ein maßgeschneiderter Anzug",
+        "Eine Jacke von der Stange",
+        "Ein Buch",
+        "Ein Paar Turnschuhe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Maßgefertigte Waren sind ausgenommen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Onlinekäufen hast du 14 Tage Widerrufsrecht ohne Begründung.",
+        "Maßgefertigtes und Verderbliches ist ausgenommen.",
+        "Im Laden ist Umtausch freiwillig, bei Mängeln hast du aber immer Rechte."
+      ]
+    }
+  ]
+}

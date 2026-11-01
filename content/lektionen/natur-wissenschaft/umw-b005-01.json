@@ -1,0 +1,129 @@
+{
+  "id": "umw-b005-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wo versteckt sich Stromverbrauch im Haushalt?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energiesparen und Umwelt im Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "strom",
+    "energiesparen",
+    "standby"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachts ist es still in der Wohnung. Trotzdem leuchten überall kleine rote und grüne Lämpchen.",
+        "Fernseher, Spielkonsole und Ladegeräte verbrauchen weiter Strom, obwohl niemand sie nutzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leerlauf kostet",
+      "absaetze": [
+        "Viele Geräte verbrauchen im Bereitschaftsmodus Strom, auch Standby genannt. Einzeln ist das wenig, zusammen und übers Jahr summiert es sich.",
+        "Das Umweltbundesamt rät, Geräte ganz auszuschalten, etwa mit einer schaltbaren Steckdosenleiste. Besonders bei Unterhaltungselektronik und älteren Geräten lohnt sich das."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die großen Verbraucher",
+      "absaetze": [
+        "Geräte, die Wärme oder Kälte erzeugen, brauchen besonders viel Strom. Dazu gehören Kühl- und Gefriergeräte, Waschmaschine, Trockner und Elektroherd.",
+        "Für den Kühlschrank reichen meist etwa 7 Grad Celsius. Jedes Grad kälter erhöht den Verbrauch. Wäsche wird bei niedrigen Temperaturen und mit Eco-Programmen meist auch sauber."
+      ],
+      "merke": "Wärme und Kälte erzeugen kostet am meisten Strom."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Neukauf",
+      "absaetze": [
+        "Beim Kauf eines neuen Geräts lohnt der Blick auf das EU-Energielabel. Es zeigt die Effizienzklasse und den Verbrauch pro Jahr.",
+        "Ein sparsames Gerät ist im Kauf manchmal teurer, kann über die Lebensdauer aber günstiger sein. LED-Lampen brauchen deutlich weniger Strom als alte Glühbirnen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Schnelle Sparschritte",
+      "schritte": [
+        {
+          "titel": "Steckdosenleiste",
+          "text": "Schalte Fernseher und Konsole nachts komplett ab."
+        },
+        {
+          "titel": "Kühlschrank prüfen",
+          "text": "Stell ihn auf etwa 7 Grad und taue das Gefrierfach regelmäßig ab."
+        },
+        {
+          "titel": "Kühler waschen",
+          "text": "Nutze für normal verschmutzte Wäsche niedrige Temperaturen."
+        },
+        {
+          "titel": "Deckel drauf",
+          "text": "Beim Kochen mit Deckel sparst du Energie."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Temperatur reicht für den Kühlschrank meist?",
+      "art": "mc",
+      "optionen": [
+        "Etwa minus 18 Grad",
+        "Etwa 2 Grad",
+        "Etwa 7 Grad",
+        "Etwa 15 Grad"
+      ],
+      "richtig": 2,
+      "erklaerung": "Etwa 7 Grad Celsius reichen meist aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Geräte brauchen besonders viel Strom?",
+      "art": "mc",
+      "optionen": [
+        "Geräte, die Wärme oder Kälte erzeugen",
+        "Taschenrechner",
+        "Armbanduhren",
+        "Rauchmelder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Heizen und Kühlen kosten viel Energie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geräte im Standby verbrauchen keinen Strom.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch im Bereitschaftsmodus fließt Strom."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Standby verbraucht übers Jahr spürbar Strom.",
+        "Kühlen, Waschen und Kochen sind die großen Posten.",
+        "Das EU-Energielabel hilft beim Neukauf."
+      ]
+    }
+  ]
+}

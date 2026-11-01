@@ -1,0 +1,113 @@
+{
+  "id": "haus-b005-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie groß sollte ein Notgroschen sein?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "notgroschen",
+    "ruecklage",
+    "tagesgeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Waschmaschine gibt den Geist auf. Kurz darauf kommt eine hohe Nachzahlung für die Heizkosten.",
+        "Wer jetzt keine Rücklage hat, muss oft das Konto überziehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Polster für Unvorhergesehenes",
+      "absaetze": [
+        "Ein Notgroschen ist Geld, das nur für unerwartete Ausgaben gedacht ist. Dazu gehören kaputte Geräte, Autoreparaturen oder ein Einkommensausfall.",
+        "Er schützt davor, teure Kredite aufzunehmen oder den Dispo zu nutzen. Der Dispokredit ist das Überziehen des Girokontos und kostet meist hohe Zinsen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die übliche Größe",
+      "absaetze": [
+        "Verbraucherschützer empfehlen als Orientierung drei bis sechs Monatsnettogehälter. Wer Familie, ein Auto oder ein unsicheres Einkommen hat, plant eher mehr ein.",
+        "Fang klein an, wenn das viel erscheint. Schon ein Monatsgehalt als Reserve hilft in vielen Situationen deutlich."
+      ],
+      "merke": "Drei bis sechs Monatsnettogehälter sind eine gängige Orientierung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo das Geld liegt",
+      "absaetze": [
+        "Der Notgroschen muss schnell verfügbar und sicher sein. Gut geeignet ist ein Tagesgeldkonto bei einer Bank mit gesetzlicher Einlagensicherung.",
+        "In Aktien oder Fonds gehört er nicht. Deren Wert kann genau dann gefallen sein, wenn du das Geld dringend brauchst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Größe empfehlen Verbraucherschützer als Orientierung?",
+      "art": "mc",
+      "optionen": [
+        "Ein halbes Monatsgehalt",
+        "Drei bis sechs Monatsnettogehälter",
+        "Zwei Jahresgehälter",
+        "Genau 100 Euro"
+      ],
+      "richtig": 1,
+      "erklaerung": "Drei bis sechs Monatsnettogehälter gelten als Orientierung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist ein Notgroschen gut aufgehoben?",
+      "art": "mc",
+      "optionen": [
+        "Auf einem Tagesgeldkonto",
+        "In Einzelaktien",
+        "In Kryptowährungen",
+        "In einem langfristigen Festgeld über zehn Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tagesgeld ist sicher und schnell verfügbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Dispokredit ist eine günstige Alternative zum Notgroschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kostet meist hohe Zinsen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Notgroschen fängt unerwartete Ausgaben ab.",
+        "Orientierung sind drei bis sechs Monatsnettogehälter.",
+        "Er gehört auf ein sicheres, schnell verfügbares Konto."
+      ]
+    }
+  ]
+}

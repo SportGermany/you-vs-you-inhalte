@@ -1,0 +1,119 @@
+{
+  "id": "all-b005-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum gibt es Jahreszeiten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moon and Earth",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "jahreszeiten",
+    "erdachse",
+    "sonne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Januar ist es in Deutschland kalt. Gleichzeitig feiern Menschen in Australien Silvester am Strand.",
+        "Wenn die Entfernung zur Sonne schuld wäre, müsste überall gleichzeitig Winter sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die schiefe Erdachse",
+      "absaetze": [
+        "Die Erdachse ist um etwa 23,4 Grad gegenüber ihrer Umlaufbahn geneigt. Diese Neigung bleibt beim Lauf um die Sonne fast gleich ausgerichtet.",
+        "Deshalb ist mal die Nordhalbkugel stärker zur Sonne geneigt, mal die Südhalbkugel. Wer zur Sonne geneigt ist, hat Sommer."
+      ],
+      "merke": "Jahreszeiten entstehen durch die Neigung der Erdachse."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steiler Einfall, lange Tage",
+      "absaetze": [
+        "Im Sommer steht die Sonne hoch am Himmel. Ihre Strahlen treffen steiler auf und wärmen eine Fläche stärker.",
+        "Gleichzeitig sind die Tage länger, die Erde kann sich länger aufheizen. Im Winter treffen die Strahlen flach auf, und die Nächte sind lang."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Entfernung spielt kaum eine Rolle",
+      "absaetze": [
+        "Die Erdbahn ist fast ein Kreis. Am nächsten ist die Erde der Sonne Anfang Januar, also mitten im Winter der Nordhalbkugel.",
+        "Der Unterschied in der Entfernung ist so klein, dass er die Jahreszeiten nicht erklärt. Entscheidend ist die Neigung der Achse."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Im Sommer ist die Erde der Sonne näher.",
+      "urteil": "mythos",
+      "erklaerung": "Die Erde ist der Sonne Anfang Januar am nächsten, wenn bei uns Winter ist. Jahreszeiten entstehen durch die Neigung der Erdachse und damit durch den Einfallswinkel und die Tageslänge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entstehen die Jahreszeiten?",
+      "art": "mc",
+      "optionen": [
+        "Durch die Neigung der Erdachse",
+        "Durch die Entfernung zur Sonne",
+        "Durch den Mond",
+        "Durch Wolken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die geneigte Erdachse ist entscheidend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist die Erde der Sonne am nächsten?",
+      "art": "mc",
+      "optionen": [
+        "Anfang Januar",
+        "Im Juli",
+        "Im April",
+        "Im Oktober"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist Anfang Januar, im Winter der Nordhalbkugel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn auf der Nordhalbkugel Winter ist, ist auf der Südhalbkugel Sommer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Halbkugeln sind abwechselnd zur Sonne geneigt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Erdachse ist um etwa 23,4 Grad geneigt.",
+        "Die zur Sonne geneigte Halbkugel hat Sommer.",
+        "Die Entfernung zur Sonne erklärt die Jahreszeiten nicht."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "koer-b005-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie wehrt dein Immunsystem Erreger ab?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Infektionsschutz und Impfen",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "immunsystem",
+    "abwehr",
+    "impfung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Kind in der Kita hat Windpocken. Dein Sohn hatte sie schon und bleibt gesund.",
+        "Sein Körper hat sich den Erreger offenbar gemerkt. Wie macht er das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die angeborene Abwehr",
+      "absaetze": [
+        "Die erste Verteidigungslinie ist angeboren. Haut und Schleimhäute bilden eine Barriere, Fresszellen verschlingen eingedrungene Erreger.",
+        "Diese Abwehr reagiert innerhalb von Minuten bis Stunden. Sie unterscheidet aber nur grob und erkennt typische Merkmale vieler Krankheitserreger. Fieber und Entzündungen gehören ebenfalls zu ihr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die erworbene Abwehr",
+      "absaetze": [
+        "Die zweite Linie ist die erworbene oder spezifische Abwehr. Ihre Zellen erkennen einen ganz bestimmten Erreger. B-Zellen bilden passende Antikörper, T-Zellen töten befallene Körperzellen.",
+        "Beim ersten Kontakt braucht diese Abwehr einige Tage, bis sie voll arbeitet. Deshalb wird man zunächst krank."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gedächtnis",
+      "absaetze": [
+        "Nach einer Infektion bleiben Gedächtniszellen zurück. Trifft der Körper erneut auf denselben Erreger, reagieren sie schnell und stark.",
+        "Impfungen nutzen genau dieses Prinzip. Sie zeigen dem Immunsystem einen Erreger oder einen Teil davon, ohne dass man die Krankheit durchmachen muss."
+      ],
+      "merke": "Gedächtniszellen sind der Grund, warum Impfungen wirken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört zur angeborenen Abwehr?",
+      "art": "mc",
+      "optionen": [
+        "Haut und Fresszellen",
+        "Gedächtniszellen",
+        "Antikörper gegen einen bestimmten Erreger",
+        "Impfstoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Haut, Schleimhäute und Fresszellen sind die erste Linie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zellen bilden Antikörper?",
+      "art": "mc",
+      "optionen": [
+        "B-Zellen",
+        "Rote Blutkörperchen",
+        "Nervenzellen",
+        "Hautzellen"
+      ],
+      "richtig": 0,
+      "erklaerung": "B-Zellen bilden Antikörper."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Impfungen nutzen das Gedächtnis des Immunsystems.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie trainieren die Abwehr, ohne dass man krank wird."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die angeborene Abwehr reagiert schnell, aber grob.",
+        "Die erworbene Abwehr erkennt bestimmte Erreger genau.",
+        "Gedächtniszellen schützen bei erneutem Kontakt, darauf beruhen Impfungen."
+      ]
+    }
+  ]
+}
