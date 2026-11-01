@@ -1,0 +1,113 @@
+{
+  "id": "steu-b008-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Handwerkerkosten von der Steuer absetzen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "handwerker",
+    "steuerermaessigung",
+    "haushaltsnah"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Maler hat die Wohnung gestrichen, die Heizung wurde gewartet. Die Rechnungen sind hoch.",
+        "Ein Teil davon kann dir über die Steuer wieder zugutekommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Bonus direkt auf die Steuer",
+      "absaetze": [
+        "Für Handwerkerleistungen in deinem Haushalt kannst du 20 Prozent der Arbeitskosten von deiner Steuerschuld abziehen. Pro Jahr sind das höchstens 1.200 Euro Steuerersparnis.",
+        "Das gilt für Mieter und Eigentümer, etwa für Reparaturen, Renovierungen, Wartungen oder den Schornsteinfeger."
+      ],
+      "merke": "20 Prozent der Arbeitskosten mindern direkt die Steuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haushaltsnahe Dienstleistungen",
+      "absaetze": [
+        "Auch für haushaltsnahe Dienstleistungen wie Fensterputzen, Gartenpflege oder eine Reinigungskraft gibt es eine Ermäßigung. Hier sind es ebenfalls 20 Prozent der Arbeitskosten, höchstens 4.000 Euro pro Jahr.",
+        "In der Nebenkostenabrechnung stecken oft solche Posten, etwa Treppenhausreinigung oder Hausmeister. Auch sie kannst du anteilig angeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf es ankommt",
+      "absaetze": [
+        "Begünstigt sind nur Arbeits-, Maschinen- und Fahrtkosten, nicht das Material. Auf der Rechnung sollten diese Kosten deshalb getrennt ausgewiesen sein.",
+        "Wichtig: Du musst per Überweisung bezahlen. Barzahlungen erkennt das Finanzamt nicht an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Prozent der Arbeitskosten für Handwerker kannst du von der Steuer abziehen?",
+      "art": "mc",
+      "optionen": [
+        "20 Prozent",
+        "5 Prozent",
+        "50 Prozent",
+        "100 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind 20 Prozent der Arbeitskosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kosten sind nicht begünstigt?",
+      "art": "mc",
+      "optionen": [
+        "Materialkosten",
+        "Arbeitskosten",
+        "Fahrtkosten des Handwerkers",
+        "Maschinenkosten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Material zählt nicht dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch bar bezahlte Handwerkerrechnungen erkennt das Finanzamt an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es muss überwiesen werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Für Handwerkerleistungen sinkt die Steuer um 20 Prozent der Arbeitskosten.",
+        "Auch haushaltsnahe Dienstleistungen sind begünstigt.",
+        "Nur Arbeitskosten zählen, und nur bei Überweisung."
+      ]
+    }
+  ]
+}

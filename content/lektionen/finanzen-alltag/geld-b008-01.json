@@ -1,0 +1,113 @@
+{
+  "id": "geld-b008-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie funktioniert die gesetzliche Rente?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rente und Altersvorsorge",
+      "herausgeber": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rente",
+    "altersvorsorge",
+    "umlageverfahren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeden Monat geht ein Teil deines Lohns an die Rentenversicherung. Du denkst, das Geld liegt dort für dich bereit.",
+        "Tatsächlich ist es längst ausgegeben, und zwar für die heutigen Rentner."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Umlageverfahren",
+      "absaetze": [
+        "Die gesetzliche Rente in Deutschland funktioniert im Umlageverfahren. Die Beiträge der heute Arbeitenden werden direkt für die Renten der heutigen Rentner verwendet.",
+        "Ein Vermögen wird dabei nicht angespart. Man spricht vom Generationenvertrag: Die Jungen zahlen für die Alten und erwerben dabei eigene Ansprüche für später."
+      ],
+      "merke": "Die Beiträge von heute zahlen die Renten von heute."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sich die Rente berechnet",
+      "absaetze": [
+        "Wer einzahlt, sammelt Entgeltpunkte. Wer genau den Durchschnittslohn verdient, bekommt für ein Jahr einen Punkt.",
+        "Die Summe der Punkte wird später mit dem aktuellen Rentenwert multipliziert. So hängt die Rente davon ab, wie lange und wie viel man eingezahlt hat. Die Rentenversicherung verschickt dazu regelmäßig eine Renteninformation."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Herausforderung",
+      "absaetze": [
+        "Die Menschen leben länger, und es gibt weniger junge Beitragszahler im Verhältnis zu den Rentnern. Das setzt das System unter Druck.",
+        "Die gesetzliche Rente soll deshalb für viele nicht der einzige Baustein sein. Betriebliche und private Vorsorge können sie ergänzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man das Finanzierungsprinzip der gesetzlichen Rente?",
+      "art": "mc",
+      "optionen": [
+        "Umlageverfahren",
+        "Kapitaldeckung allein",
+        "Lotterieverfahren",
+        "Steuerverfahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beiträge werden direkt für laufende Renten verwendet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Entgeltpunkte bekommt man für ein Jahr mit genau durchschnittlichem Lohn?",
+      "art": "mc",
+      "optionen": [
+        "Einen",
+        "Zehn",
+        "Keinen",
+        "Hundert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Durchschnittsverdienst ergibt einen Punkt pro Jahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Deine Rentenbeiträge werden bis zu deiner Rente angespart.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie finanzieren die heutigen Renten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die gesetzliche Rente funktioniert im Umlageverfahren.",
+        "Die Rentenhöhe hängt von gesammelten Entgeltpunkten ab.",
+        "Weil die Bevölkerung altert, ist zusätzliche Vorsorge sinnvoll."
+      ]
+    }
+  ]
+}

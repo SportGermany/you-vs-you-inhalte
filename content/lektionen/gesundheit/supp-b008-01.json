@@ -1,0 +1,122 @@
+{
+  "id": "supp-b008-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Schützt Vitamin C vor Erkältungen?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Cochrane Reviews",
+      "herausgeber": "Cochrane",
+      "url": "https://www.cochrane.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-c",
+    "erkaeltung",
+    "immunsystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei den ersten Anzeichen einer Erkältung greifen viele zu Brausetabletten mit Vitamin C.",
+        "Das Vitamin gilt seit Jahrzehnten als Erkältungskiller. Was sagen die Studien?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiges Vitamin",
+      "absaetze": [
+        "Vitamin C ist wichtig für das Immunsystem, das Bindegewebe und die Aufnahme von Eisen. Der Körper kann es nicht selbst bilden.",
+        "Gute Quellen sind Paprika, Zitrusfrüchte, Kiwi, Brokkoli und Kartoffeln. Wer regelmäßig Obst und Gemüse isst, ist in Deutschland meist gut versorgt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Eine große Cochrane-Übersicht wertete viele Studien aus. Regelmäßige Vitamin-C-Präparate verhinderten bei den meisten Menschen keine Erkältungen.",
+        "Die Dauer einer Erkältung war bei regelmäßiger Einnahme etwas kürzer. Wer erst bei den ersten Symptomen damit begann, hatte keinen klaren Vorteil. Eine Ausnahme bildeten Menschen unter extremer körperlicher Belastung, etwa Marathonläufer."
+      ],
+      "merke": "Vitamin C verhindert Erkältungen bei den meisten nicht.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Hohe Mengen Vitamin C können Durchfall verursachen.",
+        "Bei Neigung zu Nierensteinen oder bei Nierenerkrankungen können hohe Mengen ungünstig sein. Sprich vor einer regelmäßigen Einnahme mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Viel Vitamin C bei den ersten Symptomen stoppt die Erkältung.",
+      "urteil": "mythos",
+      "erklaerung": "In Studien brachte der Beginn der Einnahme nach den ersten Symptomen keinen klaren Vorteil. Erkältungen werden durch Viren verursacht und klingen meist nach etwa einer Woche von selbst ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Lebensmittel ist eine gute Vitamin-C-Quelle?",
+      "art": "mc",
+      "optionen": [
+        "Paprika",
+        "Butter",
+        "Weißbrot",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Paprika enthält besonders viel Vitamin C."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Verhinderten regelmäßige Vitamin-C-Präparate in Studien bei den meisten Menschen Erkältungen?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Zahl der Erkältungen sank bei den meisten nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Gruppe zeigte Vitamin C einen vorbeugenden Effekt?",
+      "art": "mc",
+      "optionen": [
+        "Bei Menschen unter extremer körperlicher Belastung",
+        "Bei Büroangestellten",
+        "Bei Kindern beim Fernsehen",
+        "Bei niemandem"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei Marathonläufern gab es einen Effekt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin C ist wichtig, wird aber meist ausreichend über die Nahrung aufgenommen.",
+        "Präparate verhindern bei den meisten Menschen keine Erkältung.",
+        "Bei regelmäßiger Einnahme verkürzt sich die Dauer nur etwas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ern-b008-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was sind sekundäre Pflanzenstoffe?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pflanzenstoffe",
+    "polyphenole",
+    "gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rote Beete färbt dein Schneidebrett, Brokkoli schmeckt leicht bitter, Zwiebeln treiben dir Tränen in die Augen.",
+        "Hinter Farbe, Geschmack und Geruch stecken oft sekundäre Pflanzenstoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Pflanzen davon haben",
+      "absaetze": [
+        "Pflanzen bilden diese Stoffe nicht für ihr Wachstum, sondern zum Schutz. Sie wehren damit Fraßfeinde und Krankheitserreger ab oder schützen sich vor UV-Strahlung. Andere locken mit Farbe Insekten an.",
+        "Man kennt Tausende solcher Stoffe. Bekannte Gruppen sind Carotinoide in Karotten, Polyphenole in Beeren und Tee sowie Senfölverbindungen in Kohl und Senf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie für uns tun könnten",
+      "absaetze": [
+        "Viele dieser Stoffe zeigen im Labor schützende Wirkungen, etwa gegen Entzündungen oder Zellschäden. Beim Menschen ist die Lage weniger klar.",
+        "Gut belegt ist, dass eine Ernährung mit viel Gemüse, Obst, Vollkorn und Hülsenfrüchten mit weniger Krankheiten zusammenhängt. Welchen Anteil einzelne Pflanzenstoffe daran haben, ist schwer zu trennen."
+      ],
+      "merke": "Am besten belegt ist der Nutzen des ganzen Lebensmittels.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lieber bunt essen als Kapseln",
+      "absaetze": [
+        "Isolierte Pflanzenstoffe in hoher Menge als Präparat haben in Studien oft nicht die erhofften Effekte gezeigt. Manche können sogar schaden.",
+        "Die DGE empfiehlt deshalb, die Vielfalt über Lebensmittel aufzunehmen. Eine bunte Auswahl an Gemüse und Obst liefert viele verschiedene Pflanzenstoffe gleichzeitig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu bilden Pflanzen sekundäre Pflanzenstoffe?",
+      "art": "mc",
+      "optionen": [
+        "Zum Schutz und zur Anlockung",
+        "Nur zum Wachstum",
+        "Um Wasser zu speichern",
+        "Um Fotosynthese zu verhindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie schützen vor Fraßfeinden und UV-Strahlung oder locken Insekten an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Lebensmittel stecken viele Carotinoide?",
+      "art": "mc",
+      "optionen": [
+        "In Karotten",
+        "In Weißbrot",
+        "In Zucker",
+        "In Mineralwasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Carotinoide geben Karotten ihre orange Farbe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hochdosierte Präparate mit isolierten Pflanzenstoffen haben in Studien immer überzeugt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft blieben die erhofften Effekte aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sekundäre Pflanzenstoffe schützen Pflanzen und geben ihnen Farbe und Geschmack.",
+        "Ihr Nutzen für Menschen ist vor allem über ganze Lebensmittel belegt.",
+        "Bunte Vielfalt ist besser als Kapseln."
+      ]
+    }
+  ]
+}

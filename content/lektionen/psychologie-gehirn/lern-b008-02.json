@@ -1,0 +1,107 @@
+{
+  "id": "lern-b008-02",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie verändert sich dein Gehirn, wenn du lernst?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "neuroplastizitaet",
+    "synapsen",
+    "gehirn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lange hieß es: Das Gehirn eines Erwachsenen ist fertig. Danach geht es nur noch bergab.",
+        "Heute weiß man: Das Gehirn bleibt ein Leben lang formbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verbindungen, die wachsen",
+      "absaetze": [
+        "Dein Gehirn besteht aus Milliarden Nervenzellen. Sie sind über Kontaktstellen verbunden, die Synapsen heißen.",
+        "Wenn du etwas lernst, werden bestimmte Verbindungen häufiger genutzt und dadurch stärker. Manche Synapsen entstehen neu, ungenutzte werden schwächer. Diese Formbarkeit heißt Neuroplastizität."
+      ],
+      "merke": "Lernen verändert die Verbindungen zwischen Nervenzellen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Beispiel aus London",
+      "absaetze": [
+        "Taxifahrer in London müssen sich Tausende Straßen einprägen. Hirnscans zeigten bei ihnen einen vergrößerten hinteren Teil des Hippocampus, einer Region, die für räumliche Orientierung wichtig ist.",
+        "Bei Fahrern, die länger im Beruf waren, war der Unterschied größer. Das spricht dafür, dass intensives Lernen die Gehirnstruktur verändern kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch im Alter",
+      "absaetze": [
+        "Neuroplastizität nimmt mit dem Alter etwas ab, verschwindet aber nicht. Auch ältere Menschen können neue Sprachen, Instrumente oder Fähigkeiten lernen.",
+        "Bewegung, ausreichend Schlaf und geistige Herausforderungen unterstützen ein gesundes Gehirn in jedem Alter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die Kontaktstellen zwischen Nervenzellen?",
+      "art": "mc",
+      "optionen": [
+        "Synapsen",
+        "Alveolen",
+        "Ribosomen",
+        "Kapillaren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Synapsen verbinden Nervenzellen miteinander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hirnregion war bei Londoner Taxifahrern teilweise vergrößert?",
+      "art": "mc",
+      "optionen": [
+        "Der Hippocampus",
+        "Das Kleinhirn",
+        "Die Sehrinde",
+        "Der Hirnstamm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der hintere Hippocampus war vergrößert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Gehirn eines Erwachsenen kann sich nicht mehr verändern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es bleibt ein Leben lang formbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lernen stärkt und schafft Verbindungen zwischen Nervenzellen.",
+        "Intensives Training kann die Gehirnstruktur verändern.",
+        "Neuroplastizität bleibt bis ins Alter erhalten."
+      ]
+    }
+  ]
+}

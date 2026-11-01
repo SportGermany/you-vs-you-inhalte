@@ -1,0 +1,113 @@
+{
+  "id": "umw-b008-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum sind Moore wichtig für das Klima?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moore",
+      "herausgeber": "Bundesamt für Naturschutz",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Moore und Klimaschutz",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "moor",
+    "kohlenstoff",
+    "klimaschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Moor wirkt unscheinbar: nasser Boden, Torfmoos, ein paar knorrige Birken.",
+        "Doch unter deinen Füßen liegt ein riesiger Kohlenstoffspeicher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Speicher aus Pflanzenresten",
+      "absaetze": [
+        "In Mooren ist der Boden dauerhaft nass. Abgestorbene Pflanzen zersetzen sich deshalb kaum, sie bilden über Jahrtausende Torf.",
+        "Im Torf ist sehr viel Kohlenstoff gespeichert. Moore bedecken nur wenige Prozent der Landfläche der Erde, speichern aber nach Schätzungen mehr Kohlenstoff als alle Wälder der Welt zusammen."
+      ],
+      "merke": "Nasse Moore speichern enorme Mengen Kohlenstoff."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Trockengelegt wird es zum Problem",
+      "absaetze": [
+        "In Deutschland wurde der größte Teil der Moore entwässert, vor allem für Landwirtschaft und Torfabbau. Gelangt Luft an den Torf, zersetzt er sich, und der Kohlenstoff entweicht als Kohlendioxid.",
+        "Entwässerte Moore sind deshalb eine bedeutende Quelle von Treibhausgasen in Deutschland."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wiedervernässen",
+      "absaetze": [
+        "Werden Moore wieder vernässt, stoppt der Abbau des Torfs weitgehend. Langfristig können sie wieder Kohlenstoff speichern.",
+        "Moore sind außerdem Lebensraum für seltene Pflanzen und Tiere und speichern Wasser. Wer Blumenerde kauft, kann auf torffreie Produkte achten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum zersetzen sich Pflanzen im Moor kaum?",
+      "art": "mc",
+      "optionen": [
+        "Weil der Boden dauerhaft nass ist",
+        "Weil es dort zu warm ist",
+        "Weil dort keine Pflanzen wachsen",
+        "Weil der Boden aus Sand besteht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Wasserüberschuss verhindert den Abbau."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn Moore entwässert werden?",
+      "art": "mc",
+      "optionen": [
+        "Sie setzen Kohlendioxid frei",
+        "Sie speichern mehr Kohlenstoff",
+        "Sie werden zu Wüsten",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Torf zersetzt sich und gibt Kohlendioxid ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Torffreie Blumenerde schont Moore.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für Torf werden Moore abgebaut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Moore speichern im Torf große Mengen Kohlenstoff.",
+        "Entwässerte Moore setzen Treibhausgase frei.",
+        "Wiedervernässung und torffreie Erde helfen."
+      ]
+    }
+  ]
+}

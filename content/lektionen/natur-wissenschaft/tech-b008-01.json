@@ -1,0 +1,107 @@
+{
+  "id": "tech-b008-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie spürt ein Touchscreen deinen Finger?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Smartphones und Tablets",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "touchscreen",
+    "smartphone",
+    "kapazitiv"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit dem Finger wischst du problemlos über dein Handy. Mit dicken Winterhandschuhen passiert gar nichts.",
+        "Der Grund liegt in der Elektrizität deines Körpers."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein unsichtbares Gitter",
+      "absaetze": [
+        "Die meisten Smartphones haben einen kapazitiven Touchscreen. Unter dem Glas liegt ein feines, durchsichtiges Gitter aus leitenden Bahnen. Darauf liegt ein schwaches elektrisches Feld.",
+        "Dein Körper leitet Strom. Berührst du das Glas, verändert dein Finger das elektrische Feld an dieser Stelle. Ein Chip misst die Veränderung und berechnet daraus, wo du getippt hast."
+      ],
+      "merke": "Dein Finger verändert ein elektrisches Feld unter dem Glas."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehrere Finger gleichzeitig",
+      "absaetze": [
+        "Weil das Gitter viele Punkte gleichzeitig misst, erkennt der Bildschirm mehrere Berührungen auf einmal. So funktionieren Gesten wie das Vergrößern mit zwei Fingern.",
+        "Handschuhe aus normalem Stoff isolieren, deshalb reagiert der Bildschirm nicht. Spezielle Touch-Handschuhe haben leitende Fäden in den Fingerspitzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die ältere Technik",
+      "absaetze": [
+        "Ältere Geräte nutzten oft resistive Touchscreens. Dabei werden zwei Schichten durch Druck aufeinandergepresst.",
+        "Sie funktionieren auch mit Stiften oder Handschuhen, sind aber weniger genau und erkennen meist nur eine Berührung. Man findet sie heute noch an manchen Automaten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum reagiert ein Smartphone nicht auf normale Handschuhe?",
+      "art": "mc",
+      "optionen": [
+        "Weil Stoff nicht leitet",
+        "Weil Handschuhe zu schwer sind",
+        "Weil der Bildschirm Wärme misst",
+        "Weil Handschuhe zu kalt sind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Normale Handschuhe isolieren den leitenden Finger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Art Touchscreen haben die meisten Smartphones?",
+      "art": "mc",
+      "optionen": [
+        "Kapazitiv",
+        "Resistiv",
+        "Mechanisch",
+        "Magnetisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kapazitive Bildschirme reagieren auf die Leitfähigkeit des Fingers."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kapazitive Touchscreens können mehrere Finger gleichzeitig erkennen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb funktionieren Zwei-Finger-Gesten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kapazitive Touchscreens messen Veränderungen eines elektrischen Feldes.",
+        "Sie erkennen mehrere Berührungen gleichzeitig.",
+        "Normale Handschuhe leiten nicht und funktionieren deshalb nicht."
+      ]
+    }
+  ]
+}

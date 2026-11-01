@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b008-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Woher kommen Albträume?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "albtraum",
+    "traeume",
+    "rem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du wirst verfolgt, deine Beine sind schwer wie Blei. Mit Herzrasen wachst du auf.",
+        "Es war nur ein Traum. Aber warum träumt man so etwas?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Träume der zweiten Nachthälfte",
+      "absaetze": [
+        "Albträume entstehen meist im REM-Schlaf, der Phase mit lebhaften Träumen. Da diese Phase gegen Morgen länger wird, treten Albträume oft in der zweiten Nachthälfte auf.",
+        "Typisch ist, dass man aufwacht und sich gut an den Inhalt erinnert. Häufig geht es um Bedrohung, Verfolgung oder Versagen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie begünstigt",
+      "absaetze": [
+        "Bei Kindern sind Albträume häufig und meist harmlos. Bei Erwachsenen treten sie vor allem bei Stress, Schlafmangel und nach belastenden Erlebnissen auf.",
+        "Auch manche Medikamente und das Absetzen von Alkohol können sie fördern. Nach traumatischen Erfahrungen können wiederkehrende Albträume ein Zeichen einer posttraumatischen Belastungsstörung sein."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Gegen häufige Albträume gibt es eine wirksame Methode, die Imaginationstherapie. Dabei schreibt man den Traum tagsüber um, gibt ihm ein neues Ende und stellt sich diese Version regelmäßig vor.",
+        "Studien zeigen, dass Albträume dadurch seltener werden können. Bei starken oder häufigen Albträumen lohnt sich ärztliche oder psychotherapeutische Hilfe."
+      ],
+      "merke": "Umschreiben des Traums tagsüber kann Albträume verringern.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Schlafphase entstehen Albträume meist?",
+      "art": "mc",
+      "optionen": [
+        "Im REM-Schlaf",
+        "Im Tiefschlaf",
+        "Beim Einschlafen",
+        "Im Wachzustand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Albträume entstehen meist im REM-Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Kern der Imaginationstherapie?",
+      "art": "mc",
+      "optionen": [
+        "Den Traum tagsüber umschreiben und neu vorstellen",
+        "Gar nicht mehr schlafen",
+        "Vor dem Schlafen Horrorfilme schauen",
+        "Mehr Kaffee trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man gibt dem Traum ein neues Ende und übt diese Version."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Albträume bei Kindern sind häufig und meist harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie nehmen mit dem Alter meist ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Albträume entstehen meist im REM-Schlaf gegen Morgen.",
+        "Stress, Schlafmangel und belastende Erlebnisse fördern sie.",
+        "Die Imaginationstherapie kann sie verringern."
+      ]
+    }
+  ]
+}
