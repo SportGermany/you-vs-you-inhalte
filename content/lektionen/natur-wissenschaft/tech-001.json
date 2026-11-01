@@ -1,0 +1,99 @@
+{
+  "id": "tech-001",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert GPS?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gps",
+    "satelliten",
+    "navigation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du stehst in einer fremden Stadt. Ein blauer Punkt auf dem Handy zeigt dir genau, wo du bist.",
+        "Dein Handy sendet dafür nichts ins All. Wie geht das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Satelliten senden Zeitsignale",
+      "absaetze": [
+        "Rund 30 GPS-Satelliten kreisen um die Erde. Jeder sendet ständig ein Signal mit seiner Position und der genauen Uhrzeit.",
+        "Dein Handy empfängt nur. Es misst, wie lange die Signale unterwegs waren, und berechnet daraus die Entfernung zu jedem Satelliten."
+      ],
+      "merke": "Dein Handy empfängt nur, es sendet nichts an die Satelliten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mindestens vier",
+      "absaetze": [
+        "Mit Entfernungen zu mindestens vier Satelliten kann das Handy seine Position und die genaue Zeit berechnen.",
+        "Die Uhren müssen extrem genau sein. Ohne Korrektur nach Einsteins Relativitätstheorie würde die Position jeden Tag um Kilometer abweichen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sendet ein GPS-Satellit?",
+      "art": "mc",
+      "optionen": [
+        "Fotos der Erde",
+        "Position und genaue Uhrzeit",
+        "Musik",
+        "Wetterdaten"
+      ],
+      "richtig": 1,
+      "erklaerung": "Jeder Satellit sendet seine Position und die Zeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Dein Handy sendet für GPS Signale an die Satelliten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es empfängt nur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Signale von wie vielen Satelliten braucht man mindestens?",
+      "art": "mc",
+      "optionen": [
+        "Einem",
+        "Zwei",
+        "Vier",
+        "Zwanzig"
+      ],
+      "richtig": 2,
+      "erklaerung": "Für Position und Zeit braucht man mindestens vier."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "GPS-Satelliten senden Position und Zeit.",
+        "Das Handy berechnet aus den Laufzeiten seine Position.",
+        "Ohne Relativitätstheorie wäre GPS ungenau."
+      ]
+    }
+  ]
+}

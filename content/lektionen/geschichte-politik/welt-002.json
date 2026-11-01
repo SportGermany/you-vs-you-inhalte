@@ -1,0 +1,105 @@
+{
+  "id": "welt-002",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Was hat der Buchdruck verändert?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gutenberg",
+    "buchdruck",
+    "mittelalter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Mönch sitzt Monate an einer einzigen Bibel. Jeder Buchstabe von Hand.",
+        "Ein paar Jahrzehnte später gibt es Tausende Bücher. Was war geschehen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gutenbergs Idee",
+      "absaetze": [
+        "Um 1450 entwickelte Johannes Gutenberg in Mainz den Buchdruck mit beweglichen Metallbuchstaben.",
+        "Die Buchstaben ließen sich zu Seiten zusammensetzen, drucken und neu verwenden. Bücher wurden so viel schneller und billiger."
+      ],
+      "merke": "Der Kern war die Wiederverwendbarkeit der Lettern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wissen für viele",
+      "absaetze": [
+        "Bis 1500 entstanden in Europa schätzungsweise Millionen gedruckte Bücher. Ideen verbreiteten sich schneller als je zuvor.",
+        "Martin Luthers Schriften wurden ab 1517 massenhaft gedruckt. Ohne den Buchdruck hätte sich die Reformation kaum so schnell ausgebreitet."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Gutenberg hat das Drucken überhaupt erfunden.",
+      "urteil": "mythos",
+      "erklaerung": "In China und Korea wurde schon Jahrhunderte früher gedruckt, auch mit beweglichen Lettern. Gutenbergs Leistung war ein besonders gut funktionierendes System für Europa."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entwickelte Gutenberg den Buchdruck ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Um 1050",
+        "Um 1450",
+        "Um 1650",
+        "Um 1850"
+      ],
+      "richtig": 1,
+      "erklaerung": "Gutenberg arbeitete um 1450 in Mainz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Bewegung profitierte stark vom Buchdruck?",
+      "art": "mc",
+      "optionen": [
+        "Die Reformation",
+        "Die Völkerwanderung",
+        "Die Kreuzzüge",
+        "Die Antike"
+      ],
+      "richtig": 0,
+      "erklaerung": "Luthers Schriften verbreiteten sich durch den Druck sehr schnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor Gutenberg wurde nirgends auf der Welt gedruckt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. In Ostasien gab es schon früher Druckverfahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gutenberg nutzte um 1450 bewegliche Metalllettern.",
+        "Bücher wurden schneller und billiger.",
+        "Der Buchdruck half der Reformation."
+      ]
+    }
+  ]
+}

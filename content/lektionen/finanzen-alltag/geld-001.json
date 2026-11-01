@@ -1,0 +1,99 @@
+{
+  "id": "geld-001",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist der Zinseszins?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zinsen",
+    "sparen",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du legst 1000 Euro zur Seite und vergisst sie. Zehn Jahre später schaust du nach.",
+        "Es ist mehr geworden, und zwar mehr, als du gedacht hättest."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zinsen auf Zinsen",
+      "absaetze": [
+        "Beim Zinseszins bekommst du nicht nur Zinsen auf dein Startgeld. Du bekommst auch Zinsen auf die Zinsen, die schon dazugekommen sind.",
+        "Dadurch wächst das Geld nicht gleichmäßig, sondern immer schneller. Je länger die Zeit, desto stärker der Effekt."
+      ],
+      "merke": "Zeit ist beim Zinseszins der wichtigste Faktor."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Beispiel",
+      "absaetze": [
+        "Bei fünf Prozent Zinsen pro Jahr werden aus 1000 Euro nach einem Jahr 1050 Euro. Im zweiten Jahr gibt es Zinsen auf 1050 Euro, also 52,50 Euro.",
+        "Nach etwa 14 Jahren hat sich das Geld ungefähr verdoppelt. Die Faustregel: 72 geteilt durch den Zinssatz ergibt die Jahre bis zur Verdopplung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Besondere am Zinseszins?",
+      "art": "mc",
+      "optionen": [
+        "Es gibt keine Zinsen",
+        "Es gibt Zinsen auf die Zinsen",
+        "Die Bank zahlt doppelt",
+        "Zinsen werden abgezogen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Auch die bereits gutgeschriebenen Zinsen werden verzinst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach der 72er-Regel: Wie lange dauert die Verdopplung bei 6 Prozent?",
+      "art": "mc",
+      "optionen": [
+        "6 Jahre",
+        "12 Jahre",
+        "18 Jahre",
+        "72 Jahre"
+      ],
+      "richtig": 1,
+      "erklaerung": "72 geteilt durch 6 ergibt 12 Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Zinseszins wächst das Geld jedes Jahr um genau den gleichen Betrag.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es wächst jedes Jahr um einen größeren Betrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Zinseszins werden auch Zinsen verzinst.",
+        "Das Geld wächst mit der Zeit immer schneller.",
+        "72 geteilt durch den Zinssatz ergibt grob die Jahre bis zur Verdopplung."
+      ]
+    }
+  ]
+}

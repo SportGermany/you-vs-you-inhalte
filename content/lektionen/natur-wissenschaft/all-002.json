@@ -1,0 +1,105 @@
+{
+  "id": "all-002",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie groß ist unser Sonnensystem?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Solar System Exploration",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnensystem",
+    "planeten",
+    "entfernung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Stell dir die Sonne als Fußball vor, mitten auf einem Sportplatz.",
+        "Die Erde wäre dann ein Pfefferkorn, rund 25 Meter entfernt. Und der Rest?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Acht Planeten",
+      "absaetze": [
+        "Um die Sonne kreisen acht Planeten: Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus und Neptun.",
+        "Seit 2006 zählt Pluto nicht mehr als Planet, sondern als Zwergplanet. Er räumt seine Umlaufbahn nicht frei, wie es die Definition verlangt."
+      ],
+      "merke": "Acht Planeten, Pluto ist ein Zwergplanet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Riesige Abstände",
+      "absaetze": [
+        "Licht braucht von der Sonne zur Erde etwa acht Minuten. Bis zum Neptun sind es gut vier Stunden.",
+        "Die Raumsonde Voyager 1 ist seit 1977 unterwegs. Sie hat das Gebiet verlassen, in dem der Sonnenwind dominiert, und fliegt durch den interstellaren Raum."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Planeten hat unser Sonnensystem?",
+      "art": "mc",
+      "optionen": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "richtig": 1,
+      "erklaerung": "Seit 2006 sind es offiziell acht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht Sonnenlicht ungefähr bis zur Erde?",
+      "art": "mc",
+      "optionen": [
+        "Eine Sekunde",
+        "Acht Minuten",
+        "Einen Tag",
+        "Ein Jahr"
+      ],
+      "richtig": 1,
+      "erklaerung": "Etwa acht Minuten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pluto gilt heute als Zwergplanet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Seit 2006."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Acht Planeten kreisen um die Sonne.",
+        "Pluto ist seit 2006 ein Zwergplanet.",
+        "Sonnenlicht braucht etwa acht Minuten zur Erde."
+      ]
+    }
+  ]
+}

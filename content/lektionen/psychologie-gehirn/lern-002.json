@@ -1,0 +1,105 @@
+{
+  "id": "lern-002",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Kann man wirklich Multitasking?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "multitasking",
+    "aufmerksamkeit",
+    "konzentration"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du schreibst eine Mail, hörst einen Podcast und antwortest nebenbei im Chat.",
+        "Am Ende ist die Mail voller Tippfehler. Zufall?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnelles Umschalten",
+      "absaetze": [
+        "Bei Aufgaben, die Aufmerksamkeit brauchen, arbeitet dein Gehirn nicht wirklich gleichzeitig. Es springt zwischen den Aufgaben hin und her.",
+        "Jeder Wechsel kostet etwas Zeit und Konzentration. Forschende nennen das Wechselkosten."
+      ],
+      "merke": "Multitasking ist meist schnelles Hin- und Herspringen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen gibt es",
+      "absaetze": [
+        "Gut eingeübte, automatische Tätigkeiten lassen sich kombinieren. Gehen und Reden klappt meist gut.",
+        "Schwierig wird es, wenn beide Aufgaben Sprache oder Nachdenken brauchen. Dann leiden Tempo und Genauigkeit."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Manche Menschen sind echte Multitasking-Profis.",
+      "urteil": "teils",
+      "erklaerung": "Ein sehr kleiner Teil der Menschen schneidet in Tests ungewöhnlich gut ab. Die meisten, die sich für gute Multitasker halten, sind beim Umschalten nicht besser als andere."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht das Gehirn bei zwei anspruchsvollen Aufgaben meist?",
+      "art": "mc",
+      "optionen": [
+        "Es arbeitet an beiden gleichzeitig",
+        "Es springt zwischen ihnen hin und her",
+        "Es schaltet ab",
+        "Es wird schneller"
+      ],
+      "richtig": 1,
+      "erklaerung": "Es wechselt schnell zwischen den Aufgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jeder Wechsel zwischen Aufgaben kostet Zeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das sind die sogenannten Wechselkosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kombination klappt meist gut?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Texte gleichzeitig schreiben",
+        "Gehen und Reden",
+        "Telefonieren und Mail schreiben",
+        "Rechnen und Lesen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Automatische Tätigkeiten wie Gehen lassen sich gut kombinieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Echtes Multitasking ist meist schnelles Umschalten.",
+        "Jeder Wechsel kostet Zeit und Genauigkeit.",
+        "Automatische Tätigkeiten lassen sich kombinieren."
+      ]
+    }
+  ]
+}

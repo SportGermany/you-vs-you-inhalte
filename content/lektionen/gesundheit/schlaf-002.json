@@ -1,0 +1,114 @@
+{
+  "id": "schlaf-002",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was macht Kaffee mit deinem Schlaf?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dietary Reference Values",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "koffein",
+    "kaffee",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es ist 16 Uhr, das Tief kommt. Ein Espresso hilft sofort.",
+        "Um Mitternacht liegst du wach und wunderst dich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Koffein wirkt",
+      "absaetze": [
+        "Im Laufe des Tages sammelt sich im Gehirn der Stoff Adenosin an. Er macht dich müde.",
+        "Koffein blockiert die Andockstellen für Adenosin. Die Müdigkeit ist noch da, du spürst sie nur weniger."
+      ],
+      "merke": "Koffein verdeckt Müdigkeit, es baut sie nicht ab.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Länger wirksam als gedacht",
+      "absaetze": [
+        "Der Körper baut Koffein langsam ab. Nach etwa fünf Stunden ist bei vielen Erwachsenen noch die Hälfte im Blut.",
+        "Wie schnell das geht, ist sehr unterschiedlich. Ein Kaffee am Nachmittag kann deshalb bei manchen den Tiefschlaf verringern, auch wenn sie gut einschlafen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Wer nach Kaffee gut einschläft, schläft auch genauso gut.",
+      "urteil": "teils",
+      "erklaerung": "Manche schlafen nach Kaffee problemlos ein. Messungen zeigen aber, dass Koffein am Abend den Tiefschlaf verringern kann, auch wenn man es selbst nicht bemerkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Stoff blockiert Koffein im Gehirn?",
+      "art": "mc",
+      "optionen": [
+        "Adenosin",
+        "Insulin",
+        "Melatonin",
+        "Adrenalin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Koffein blockiert die Andockstellen von Adenosin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach etwa fünf Stunden ist bei vielen Erwachsenen noch die Hälfte des Koffeins im Blut.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Halbwertszeit liegt grob in diesem Bereich, mit großen Unterschieden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Kaffee am Abend verringern, auch wenn du gut einschläfst?",
+      "art": "mc",
+      "optionen": [
+        "Den Tiefschlaf",
+        "Die Körpergröße",
+        "Den Puls am Morgen",
+        "Das Gewicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Koffein kann die Tiefschlafphasen verkürzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Koffein verdeckt Müdigkeit, indem es Adenosin blockiert.",
+        "Es bleibt viele Stunden im Körper.",
+        "Kaffee am späten Nachmittag kann den Tiefschlaf stören."
+      ]
+    }
+  ]
+}

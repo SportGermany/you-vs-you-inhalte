@@ -1,0 +1,137 @@
+{
+  "id": "stoff-002",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum klappen Crash-Diäten selten auf Dauer?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Referenzwerte für die Nährstoffzufuhr",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "diaet",
+    "abnehmen",
+    "jojo"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Wochen nur Shakes. Die Waage zeigt vier Kilo weniger. Du bist stolz.",
+        "Drei Monate später ist alles wieder da, manchmal sogar mehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in den ersten Tagen passiert",
+      "absaetze": [
+        "Bei sehr wenig Essen leert der Körper zuerst seine Kohlenhydratspeicher. Diese sind an Wasser gebunden.",
+        "Ein großer Teil des schnellen Gewichtsverlusts ist deshalb Wasser. Fett baut sich deutlich langsamer ab."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper spart",
+      "absaetze": [
+        "Bei starkem Energiemangel passt sich der Körper an. Hunger nimmt zu, und der Verbrauch sinkt etwas.",
+        "Dazu kommt: Eine sehr strenge Diät lässt sich kaum lange durchhalten. Wer danach zum alten Essen zurückkehrt, nimmt meist wieder zu."
+      ],
+      "merke": "Was du nicht dauerhaft durchhältst, wirkt nicht dauerhaft.",
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Langsames Abnehmen bringt nichts, schnell ist besser.",
+      "urteil": "mythos",
+      "erklaerung": "Fachgesellschaften empfehlen eine moderate, dauerhafte Umstellung. Sie lässt sich besser halten und schützt eher vor dem Jojo-Effekt als eine Crash-Diät."
+    },
+    {
+      "typ": "schritte",
+      "titel": "Was nachhaltiger hilft",
+      "schritte": [
+        {
+          "titel": "Kleine Änderungen",
+          "text": "Ändere eine Gewohnheit nach der anderen, zum Beispiel Wasser statt Limo."
+        },
+        {
+          "titel": "Viel Gemüse",
+          "text": "Gemüse und Ballaststoffe machen satt und liefern wenig Energie."
+        },
+        {
+          "titel": "Bewegung im Alltag",
+          "text": "Treppe, Fahrrad und Spaziergänge zählen mit."
+        },
+        {
+          "titel": "Genug Schlaf",
+          "text": "Schlafmangel steigert bei vielen den Appetit."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verliert man in den ersten Tagen einer Crash-Diät vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Muskeln",
+        "Wasser",
+        "Knochen",
+        "Haare"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der schnelle Verlust ist zu einem großen Teil Wasser aus den Kohlenhydratspeichern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei starkem Energiemangel nimmt der Hunger oft zu.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Körper reagiert auf Mangel mit mehr Hunger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfehlen Fachgesellschaften eher?",
+      "art": "mc",
+      "optionen": [
+        "Möglichst schnell abnehmen",
+        "Eine moderate, dauerhafte Umstellung",
+        "Nur noch Shakes",
+        "Gar nichts essen am Abend"
+      ],
+      "richtig": 1,
+      "erklaerung": "Dauerhafte Änderungen lassen sich besser halten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schneller Gewichtsverlust ist anfangs vor allem Wasser.",
+        "Der Körper reagiert auf Mangel mit Hunger und Sparen.",
+        "Kleine, dauerhafte Änderungen wirken nachhaltiger.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "stoff-001",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist eigentlich der Grundumsatz?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Referenzwerte für die Nährstoffzufuhr",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "energie",
+    "kalorien",
+    "stoffwechsel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du liegst einen ganzen Sonntag auf dem Sofa. Trotzdem hast du abends Hunger.",
+        "Dein Körper hat den ganzen Tag gearbeitet, auch ohne dass du es merkst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie im Ruhezustand",
+      "absaetze": [
+        "Der Grundumsatz ist die Energie, die dein Körper in völliger Ruhe braucht. Damit schlägt das Herz, atmest du und hält der Körper seine Temperatur.",
+        "Bei den meisten Menschen macht er den größten Teil des täglichen Energieverbrauchs aus. Bewegung kommt obendrauf."
+      ],
+      "merke": "Der Grundumsatz ist der größte Posten im Energieverbrauch.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ihn beeinflusst",
+      "absaetze": [
+        "Muskelmasse, Körpergröße, Alter und Geschlecht spielen eine Rolle. Muskeln verbrauchen auch in Ruhe mehr Energie als Fettgewebe.",
+        "Mit dem Alter sinkt der Grundumsatz meist leicht, vor allem weil Muskelmasse verloren geht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Ein langsamer Stoffwechsel ist der Hauptgrund für Übergewicht.",
+      "urteil": "teils",
+      "erklaerung": "Der Grundumsatz unterscheidet sich zwischen Menschen, aber meist weniger als vermutet. Für das Gewicht zählen vor allem Ernährung, Bewegung, Schlaf und Umfeld zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt der Grundumsatz?",
+      "art": "mc",
+      "optionen": [
+        "Energie beim Sport",
+        "Energie in völliger Ruhe",
+        "Energie beim Verdauen",
+        "Energie beim Denken allein"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Grundumsatz ist der Verbrauch in Ruhe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Muskeln verbrauchen in Ruhe mehr Energie als Fettgewebe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb hängt der Grundumsatz auch von der Muskelmasse ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sinkt der Grundumsatz im Alter oft?",
+      "art": "mc",
+      "optionen": [
+        "Weil man weniger schläft",
+        "Weil Muskelmasse verloren geht",
+        "Weil man mehr trinkt",
+        "Weil die Haut dünner wird"
+      ],
+      "richtig": 1,
+      "erklaerung": "Weniger Muskelmasse bedeutet weniger Verbrauch in Ruhe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Grundumsatz hält dich in Ruhe am Leben.",
+        "Er ist der größte Teil deines Energieverbrauchs.",
+        "Muskelmasse erhöht ihn, mit dem Alter sinkt er oft leicht.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

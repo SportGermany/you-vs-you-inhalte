@@ -1,0 +1,40 @@
+{
+  "themenwelten": [
+    {"id": "gesundheit", "name": "Gesundheit", "icon": "heartbeat", "gesundheit": true, "unterthemen": [
+      {"id": "supplements", "name": "Supplements", "icon": "pill", "profi": "Supplement-Profi"},
+      {"id": "stoffwechsel-abnehmen", "name": "Stoffwechsel und Abnehmen", "icon": "flame", "profi": "Stoffwechsel-Profi"},
+      {"id": "schlaf-regeneration", "name": "Schlaf und Regeneration", "icon": "moon", "profi": "Schlaf-Profi"},
+      {"id": "ernaehrung-langlebigkeit", "name": "Ernährung und Langlebigkeit", "icon": "salad", "profi": "Ernährungs-Profi"}
+    ]},
+    {"id": "geschichte-politik", "name": "Geschichte und Politik", "icon": "building-bank", "gesundheit": false, "unterthemen": [
+      {"id": "weltgeschichte", "name": "Weltgeschichte", "icon": "world", "profi": "Weltgeschichte-Profi"},
+      {"id": "zeitgeschichte", "name": "Zeitgeschichte", "icon": "calendar-event", "profi": "Zeitgeschichte-Profi"},
+      {"id": "geopolitik", "name": "Geopolitik", "icon": "swords", "profi": "Geopolitik-Profi"}
+    ]},
+    {"id": "psychologie-gehirn", "name": "Psychologie und Gehirn", "icon": "brain", "gesundheit": false, "unterthemen": [
+      {"id": "lernen-gedaechtnis", "name": "Lernen und Gedächtnis", "icon": "bulb", "profi": "Gedächtnis-Profi"},
+      {"id": "gewohnheiten", "name": "Gewohnheiten", "icon": "list-check", "profi": "Gewohnheits-Profi"},
+      {"id": "motivation-emotionen", "name": "Motivation und Emotionen", "icon": "sparkles", "profi": "Motivations-Profi"}
+    ]},
+    {"id": "finanzen-alltag", "name": "Finanzen und Alltag", "icon": "coin", "gesundheit": false, "unterthemen": [
+      {"id": "geld-sparen", "name": "Geld und Sparen", "icon": "pig-money", "profi": "Spar-Profi"},
+      {"id": "versicherungen-vertraege", "name": "Versicherungen und Verträge", "icon": "shield-check", "profi": "Vertrags-Profi"},
+      {"id": "steuern", "name": "Steuern", "icon": "receipt-tax", "profi": "Steuer-Profi"},
+      {"id": "haushalt", "name": "Haushalt", "icon": "home-2", "profi": "Haushalts-Profi"}
+    ]},
+    {"id": "natur-wissenschaft", "name": "Natur und Wissenschaft", "icon": "planet", "gesundheit": false, "unterthemen": [
+      {"id": "koerper", "name": "Körper", "icon": "dna-2", "profi": "Körper-Profi"},
+      {"id": "weltall", "name": "Weltall", "icon": "rocket", "profi": "Weltall-Profi"},
+      {"id": "technik", "name": "Technik", "icon": "cpu", "profi": "Technik-Profi"},
+      {"id": "umwelt", "name": "Umwelt", "icon": "leaf", "profi": "Umwelt-Profi"}
+    ]}
+  ],
+  "ziele": [
+    {"id": "abnehmen", "name": "Abnehmen", "unterthemen": ["stoffwechsel-abnehmen", "ernaehrung-langlebigkeit"]},
+    {"id": "besser-schlafen", "name": "Besser schlafen", "unterthemen": ["schlaf-regeneration"]},
+    {"id": "mehr-energie", "name": "Mehr Energie", "unterthemen": ["schlaf-regeneration", "ernaehrung-langlebigkeit", "supplements"]},
+    {"id": "fitter-werden", "name": "Fitter werden", "unterthemen": ["koerper", "stoffwechsel-abnehmen", "gewohnheiten"]},
+    {"id": "finanzen-ordnen", "name": "Finanzen ordnen", "unterthemen": ["geld-sparen", "versicherungen-vertraege", "steuern", "haushalt"]},
+    {"id": "allgemein-kluger", "name": "Allgemein klüger werden", "unterthemen": ["weltgeschichte", "zeitgeschichte", "geopolitik", "lernen-gedaechtnis", "weltall", "technik", "umwelt"]}
+  ]
+}

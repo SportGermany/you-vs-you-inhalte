@@ -1,0 +1,127 @@
+{
+  "id": "steu-001",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Lohnt sich die Steuererklärung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuererklaerung",
+    "erstattung",
+    "werbungskosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jedes Jahr nimmst du dir vor, die Steuererklärung zu machen. Jedes Jahr schiebst du sie auf.",
+        "Dabei verschenken viele Menschen so Geld."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oft gibt es Geld zurück",
+      "absaetze": [
+        "Bei Angestellten zieht der Arbeitgeber die Lohnsteuer direkt ab. Dabei werden viele Ausgaben noch nicht berücksichtigt.",
+        "Mit der Steuererklärung kannst du sie geltend machen. Viele Angestellte bekommen dadurch Geld zurück."
+      ],
+      "merke": "Viele Angestellte erhalten eine Erstattung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zählt",
+      "absaetze": [
+        "Werbungskosten sind Ausgaben für den Job, etwa der Weg zur Arbeit, Fachbücher oder Arbeitsmittel. Dazu kommen zum Beispiel Handwerkerkosten im Haushalt.",
+        "Wer nicht zur Abgabe verpflichtet ist, kann die Erklärung freiwillig bis zu vier Jahre rückwirkend einreichen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So fängst du an",
+      "schritte": [
+        {
+          "titel": "Belege sammeln",
+          "text": "Leg eine Mappe oder einen Ordner auf dem Handy für das ganze Jahr an."
+        },
+        {
+          "titel": "Online abgeben",
+          "text": "Mit ELSTER, dem Portal der Finanzverwaltung, geht es kostenlos."
+        },
+        {
+          "titel": "Daten übernehmen",
+          "text": "Viele Angaben wie Lohn und Versicherungen sind dort schon vorausgefüllt."
+        },
+        {
+          "titel": "Bei Bedarf Hilfe holen",
+          "text": "Lohnsteuerhilfevereine helfen Mitgliedern gegen einen Beitrag."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Werbungskosten?",
+      "art": "mc",
+      "optionen": [
+        "Ausgaben für Werbung im Fernsehen",
+        "Ausgaben für den Job",
+        "Kosten für den Urlaub",
+        "Spenden"
+      ],
+      "richtig": 1,
+      "erklaerung": "Werbungskosten sind berufliche Ausgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie weit rückwirkend kann man eine freiwillige Erklärung abgeben?",
+      "art": "mc",
+      "optionen": [
+        "Ein Jahr",
+        "Vier Jahre",
+        "Zehn Jahre",
+        "Gar nicht"
+      ],
+      "richtig": 1,
+      "erklaerung": "Freiwillig geht es bis zu vier Jahre rückwirkend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "ELSTER ist das kostenlose Online-Portal der Finanzverwaltung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort kannst du die Erklärung kostenlos abgeben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viele Angestellte bekommen Geld zurück.",
+        "Werbungskosten sind berufliche Ausgaben.",
+        "Freiwillig geht es bis zu vier Jahre rückwirkend."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "koer-001",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie viele Bakterien leben in dir?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mikrobiom",
+    "bakterien",
+    "darm"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lange hieß es: In dir leben zehnmal mehr Bakterien als du Zellen hast.",
+        "Die Zahl klang spektakulär. Sie war aber falsch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Etwa gleich viele",
+      "absaetze": [
+        "Neuere Schätzungen kommen zu einem anderen Ergebnis. Ein Mensch besteht aus rund 30 Billionen Zellen und beherbergt etwa 38 Billionen Bakterien.",
+        "Das Verhältnis liegt also grob bei eins zu eins. Die meisten Bakterien leben im Dickdarm."
+      ],
+      "merke": "Bakterien und Körperzellen halten sich ungefähr die Waage."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nützliche Mitbewohner",
+      "absaetze": [
+        "Die Darmbakterien helfen, Ballaststoffe abzubauen, und bilden dabei nützliche Stoffe. Sie trainieren auch das Immunsystem.",
+        "Welche Bakterien bei dir leben, hängt unter anderem von Ernährung, Medikamenten und Umgebung ab."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "In deinem Körper leben zehnmal mehr Bakterien als eigene Zellen.",
+      "urteil": "mythos",
+      "erklaerung": "Diese Zahl stammt aus einer groben Schätzung aus den 1970er-Jahren. Neuere Berechnungen zeigen ein Verhältnis von ungefähr eins zu eins."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist das Verhältnis von Bakterien zu Körperzellen nach neueren Schätzungen?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 1 zu 1",
+        "10 zu 1",
+        "100 zu 1",
+        "1 zu 100"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ungefähr gleich viele."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo leben die meisten Bakterien im Körper?",
+      "art": "mc",
+      "optionen": [
+        "Im Gehirn",
+        "Im Dickdarm",
+        "In den Knochen",
+        "Im Blut"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die meisten leben im Dickdarm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Darmbakterien helfen beim Abbau von Ballaststoffen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dabei entstehen nützliche Stoffe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bakterien und Körperzellen sind etwa gleich viele.",
+        "Die meisten leben im Dickdarm.",
+        "Sie helfen bei der Verdauung und trainieren das Immunsystem."
+      ]
+    }
+  ]
+}

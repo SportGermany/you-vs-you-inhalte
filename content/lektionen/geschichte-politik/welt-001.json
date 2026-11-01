@@ -1,0 +1,113 @@
+{
+  "id": "welt-001",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Warum fiel das Römische Reich?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rom",
+    "antike",
+    "imperium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du stehst auf dem Forum Romanum. Zwischen umgestürzten Säulen wachsen Gräser.",
+        "Hier schlug einmal das Herz eines Reiches, das von Schottland bis Syrien reichte. Was ist passiert?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein einzelner Tag",
+      "absaetze": [
+        "Den Untergang Roms gab es nicht an einem bestimmten Datum. Historiker sehen einen langen Prozess über mehrere Jahrhunderte.",
+        "Oft wird das Jahr 476 genannt. Damals setzte der germanische Heerführer Odoaker den letzten weströmischen Kaiser ab."
+      ],
+      "merke": "476 gilt als Symboldatum, nicht als Knall."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Ursachen",
+      "absaetze": [
+        "Das Reich war riesig und teuer zu verteidigen. Bürgerkriege um den Kaiserthron schwächten es von innen.",
+        "Dazu kamen Wirtschaftskrisen, Seuchen und der Druck von Völkern an den Grenzen. Im Jahr 395 wurde das Reich dauerhaft in West und Ost geteilt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Osten lebte weiter",
+      "absaetze": [
+        "Das Oströmische Reich mit der Hauptstadt Konstantinopel bestand noch fast tausend Jahre.",
+        "Es endete erst 1453, als die Osmanen die Stadt eroberten. Heute heißt sie Istanbul."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Rom ging unter, weil die Römer dekadent wurden.",
+      "urteil": "mythos",
+      "erklaerung": "Die These vom moralischen Verfall ist alt und beliebt, gilt in der Forschung aber als zu einfach. Militärische, politische und wirtschaftliche Gründe wirkten zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Jahr gilt oft als Ende Westroms?",
+      "art": "mc",
+      "optionen": [
+        "44 v. Chr.",
+        "395",
+        "476",
+        "1453"
+      ],
+      "richtig": 2,
+      "erklaerung": "476 setzte Odoaker den letzten weströmischen Kaiser ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Oströmische Reich endete im selben Jahr wie Westrom.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ostrom bestand bis 1453."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt Konstantinopel heute?",
+      "art": "mc",
+      "optionen": [
+        "Athen",
+        "Istanbul",
+        "Kairo",
+        "Rom"
+      ],
+      "richtig": 1,
+      "erklaerung": "Konstantinopel ist das heutige Istanbul."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Untergang Westroms war ein langer Prozess.",
+        "Viele Ursachen wirkten zusammen.",
+        "476 gilt als Symboldatum, Ostrom bestand bis 1453."
+      ]
+    }
+  ]
+}

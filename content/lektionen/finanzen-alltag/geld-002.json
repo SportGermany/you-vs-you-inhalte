@@ -1,0 +1,105 @@
+{
+  "id": "geld-002",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was frisst die Inflation?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "inflation",
+    "preisanstieg",
+    "kaufkraft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor ein paar Jahren hat dein Einkauf 50 Euro gekostet. Heute zahlst du für den gleichen Korb deutlich mehr.",
+        "Dein Geld ist gleich viel, aber es reicht für weniger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Inflation bedeutet",
+      "absaetze": [
+        "Inflation heißt: Preise steigen im Durchschnitt über längere Zeit. Für dasselbe Geld bekommst du weniger.",
+        "Gemessen wird sie in Deutschland mit einem Warenkorb aus vielen typischen Ausgaben, von Brot bis Miete."
+      ],
+      "merke": "Inflation senkt die Kaufkraft deines Geldes."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das fürs Sparen heißt",
+      "absaetze": [
+        "Liegt Geld auf einem Konto ohne Zinsen, verliert es bei Inflation an Wert. Bei zwei Prozent Inflation sind 1000 Euro nach einem Jahr real nur noch etwa 980 Euro wert.",
+        "Die Europäische Zentralbank strebt mittelfristig eine Inflation von zwei Prozent an. Leicht steigende Preise gelten als gesünder als sinkende."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Inflation trifft nur Menschen mit viel Geld.",
+      "urteil": "mythos",
+      "erklaerung": "Inflation trifft alle. Menschen mit wenig Geld oft sogar stärker, weil sie einen großen Teil für Lebensmittel und Energie ausgeben, deren Preise besonders schwanken können."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Inflation?",
+      "art": "mc",
+      "optionen": [
+        "Preise sinken",
+        "Preise steigen im Durchschnitt",
+        "Löhne steigen immer",
+        "Zinsen fallen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Inflation bedeutet allgemein steigende Preise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches mittelfristige Inflationsziel hat die Europäische Zentralbank?",
+      "art": "mc",
+      "optionen": [
+        "0 Prozent",
+        "2 Prozent",
+        "5 Prozent",
+        "10 Prozent"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die EZB strebt zwei Prozent an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geld ohne Zinsen verliert bei Inflation an Kaufkraft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Du kannst dir dafür weniger kaufen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Inflation heißt steigende Preise.",
+        "Geld ohne Zinsen verliert dabei an Wert.",
+        "Die EZB strebt zwei Prozent an."
+      ]
+    }
+  ]
+}

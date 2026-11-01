@@ -1,0 +1,172 @@
+{
+  "id": "schlaf-001",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläft man?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society",
+      "herausgeber": "American Academy of Sleep Medicine, Sleep Research Society (Journal of Clinical Sleep Medicine, 2015)",
+      "url": "https://doi.org/10.5664/jcsm.4758",
+      "abgerufen": ""
+    },
+    {
+      "titel": "About Sleep's Role in Memory",
+      "herausgeber": "Rasch B, Born J (Physiological Reviews, 2013)",
+      "url": "https://doi.org/10.1152/physrev.00032.2012",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Sleep Drives Metabolite Clearance from the Adult Brain",
+      "herausgeber": "Xie L et al. (Science, 2013)",
+      "url": "https://doi.org/10.1126/science.1241224",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlaf",
+    "gehirn",
+    "gedaechtnis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es ist kurz nach Mitternacht. Die Serie läuft noch, eine Folge geht noch. Morgen klingelt der Wecker um sechs.",
+        "Am nächsten Tag liest du eine Mail dreimal. Du merkst dir den Namen deiner neuen Kollegin nicht. Was ist in der Nacht gefehlt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlaf ist kein Stand-by",
+      "absaetze": [
+        "Im Schlaf ist dein Gehirn sehr aktiv. Es durchläuft mehrmals pro Nacht feste Phasen: leichten Schlaf, Tiefschlaf und REM-Schlaf. REM steht für schnelle Augenbewegungen.",
+        "Ein Zyklus dauert etwa 90 Minuten. Am Anfang der Nacht überwiegt der Tiefschlaf, gegen Morgen der REM-Schlaf. Jede Phase hat eigene Aufgaben für Körper und Gehirn."
+      ],
+      "merke": "Schlaf ist ein aktiver Zustand mit festen Phasen, kein Ausschalten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlaf sortiert, was du gelernt hast",
+      "absaetze": [
+        "Tagsüber speichert dein Gehirn Neues zunächst vorläufig. Im Tiefschlaf werden diese Spuren erneut abgespielt und gefestigt. Fachleute nennen das Konsolidierung, also Verfestigung.",
+        "Viele Studien zeigen: Wer nach dem Lernen schläft, erinnert sich später besser als nach gleich langer Wachzeit. Schlafmangel schwächt dagegen Aufmerksamkeit und Merkfähigkeit."
+      ],
+      "merke": "Lernen und Schlafen gehören zusammen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Art Reinigung im Gehirn",
+      "absaetze": [
+        "Studien an Mäusen deuten darauf hin, dass im Schlaf mehr Flüssigkeit durch das Gehirn strömt. Dabei könnten Abfallstoffe schneller abtransportiert werden.",
+        "Ob das beim Menschen genauso abläuft, ist noch nicht sicher geklärt. Die Idee ist spannend, aber die Forschung steht hier noch am Anfang."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Den verpassten Schlaf der Woche holst du am Wochenende einfach nach.",
+      "urteil": "teils",
+      "erklaerung": "Ausschlafen kann Müdigkeit kurzfristig lindern. Regelmäßiger Schlafmangel unter der Woche lässt sich so aber nicht vollständig ausgleichen. Stark wechselnde Schlafzeiten bringen zudem deinen inneren Takt durcheinander."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel ist genug?",
+      "absaetze": [
+        "Fachgesellschaften für Schlafmedizin empfehlen Erwachsenen regelmäßig mindestens sieben Stunden Schlaf pro Nacht. Das ist ein allgemeiner Richtwert, kein persönliches Ziel.",
+        "Der Bedarf schwankt von Mensch zu Mensch. Ein guter Hinweis ist dein Tag: Bist du ohne Wecker und ohne viel Kaffee wach und konzentriert, passt es meist."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "So unterstützt du deinen Schlaf",
+      "schritte": [
+        {
+          "titel": "Feste Zeiten",
+          "text": "Steh möglichst jeden Tag zur gleichen Zeit auf, auch am Wochenende."
+        },
+        {
+          "titel": "Licht am Morgen",
+          "text": "Geh morgens kurz nach draußen. Tageslicht stellt deine innere Uhr."
+        },
+        {
+          "titel": "Ruhe am Abend",
+          "text": "Dimme in der letzten Stunde vor dem Schlafen das Licht und leg das Handy weg."
+        },
+        {
+          "titel": "Kühles Zimmer",
+          "text": "Ein kühles, dunkles und ruhiges Schlafzimmer erleichtert das Einschlafen."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert ein Schlafzyklus ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "20 Minuten",
+        "90 Minuten",
+        "3 Stunden",
+        "5 Stunden"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein Zyklus aus leichtem Schlaf, Tiefschlaf und REM-Schlaf dauert etwa 90 Minuten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Tiefschlaf wird Gelerntes gefestigt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Im Tiefschlaf werden neue Gedächtnisspuren erneut abgespielt und verfestigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Schlaf empfehlen Fachgesellschaften Erwachsenen mindestens?",
+      "art": "mc",
+      "optionen": [
+        "5 Stunden",
+        "6 Stunden",
+        "7 Stunden",
+        "10 Stunden"
+      ],
+      "richtig": 2,
+      "erklaerung": "Der allgemeine Richtwert liegt bei mindestens sieben Stunden pro Nacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ausschlafen am Wochenende gleicht Schlafmangel vollständig aus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ausschlafen lindert Müdigkeit kurzfristig, gleicht regelmäßigen Mangel aber nicht ganz aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlaf ist aktiv und verläuft in Zyklen von etwa 90 Minuten.",
+        "Im Tiefschlaf festigt dein Gehirn, was du gelernt hast.",
+        "Erwachsenen werden mindestens sieben Stunden pro Nacht empfohlen.",
+        "Feste Aufstehzeiten und Licht am Morgen helfen deiner inneren Uhr."
+      ]
+    }
+  ]
+}

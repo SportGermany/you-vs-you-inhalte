@@ -4,3 +4,13 @@
 
 Die App lädt `index.json` und alle geänderten `paket-*.json` automatisch im WLAN.
 Die Dateien werden automatisch erzeugt. Bitte nicht von Hand bearbeiten.
+
+## Aufbau
+
+| Ordner | Inhalt |
+| --- | --- |
+| `content/lektionen/` | Lektionen als JSON, eine Datei pro Lektion |
+| `content/themen.json` | Themenwelten, Unterthemen, Ziele |
+| `content-tools/` | Prüfung, Pakete bauen, Stand, Ablaufbericht, Anleitung für die Automatik |
+| `content-tools/batches/` | Skripte, die die Lektionen erzeugen |
+| Hauptverzeichnis | `index.json` und `paket-*.json` für die App |

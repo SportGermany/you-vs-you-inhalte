@@ -1,0 +1,105 @@
+{
+  "id": "geo-001",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Wie viele Mitglieder hat die EU 2026?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "eu",
+    "europa",
+    "mitglieder"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du fährst von Lissabon nach Helsinki, ohne an einer Grenze anhalten zu müssen.",
+        "Wie viele Länder gehören eigentlich zur Europäischen Union?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "27 Mitglieder",
+      "absaetze": [
+        "Die Europäische Union hat 27 Mitgliedstaaten. Das Vereinigte Königreich trat am 31. Januar 2020 aus.",
+        "Zuletzt kam 2013 Kroatien hinzu. Mehrere Länder, etwa auf dem Westbalkan sowie die Ukraine und Moldau, sind Beitrittskandidaten."
+      ],
+      "merke": "Seit dem Brexit hat die EU 27 Mitglieder."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Euro ist nicht gleich EU",
+      "absaetze": [
+        "Nicht alle EU-Länder nutzen den Euro. Länder wie Polen, Schweden oder Dänemark haben ihre eigene Währung.",
+        "Zum 1. Januar 2026 führte Bulgarien den Euro ein. Damit zahlen 21 EU-Länder mit dem Euro."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Die Schweiz ist Mitglied der EU.",
+      "urteil": "mythos",
+      "erklaerung": "Die Schweiz ist kein EU-Mitglied. Sie ist aber eng über viele Verträge mit der EU verbunden und gehört zum Schengenraum ohne Grenzkontrollen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Mitgliedstaaten hat die EU?",
+      "art": "mc",
+      "optionen": [
+        "25",
+        "27",
+        "28",
+        "30"
+      ],
+      "richtig": 1,
+      "erklaerung": "Seit dem Austritt des Vereinigten Königreichs sind es 27."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land trat 2020 aus der EU aus?",
+      "art": "mc",
+      "optionen": [
+        "Norwegen",
+        "Vereinigtes Königreich",
+        "Schweiz",
+        "Island"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Brexit wurde am 31. Januar 2020 wirksam."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle EU-Länder zahlen mit dem Euro.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Mehrere Länder haben eigene Währungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die EU hat 27 Mitglieder.",
+        "Das Vereinigte Königreich ist seit 2020 nicht mehr dabei.",
+        "Nicht alle EU-Länder nutzen den Euro."
+      ]
+    }
+  ]
+}

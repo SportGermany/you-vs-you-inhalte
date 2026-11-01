@@ -1,0 +1,122 @@
+{
+  "id": "supp-002",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bringt Magnesium wirklich?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Referenzwerte für die Nährstoffzufuhr",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "magnesium",
+    "muskeln",
+    "krampf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachts zieht sich deine Wade plötzlich zusammen. Du springst aus dem Bett.",
+        "Am nächsten Morgen rät dir jemand zu Magnesium. Hilft das wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Mineral für Muskeln und Nerven",
+      "absaetze": [
+        "Magnesium ist an Hunderten Abläufen im Körper beteiligt. Es hilft Muskeln, sich zu entspannen, und Nerven, Signale weiterzugeben.",
+        "Gute Quellen sind Vollkornprodukte, Nüsse, Hülsenfrüchte und grünes Gemüse. Wer abwechslungsreich isst, ist meist gut versorgt."
+      ],
+      "merke": "Vollkorn, Nüsse und Hülsenfrüchte liefern viel Magnesium.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und die Wadenkrämpfe?",
+      "absaetze": [
+        "Magnesium gilt als Klassiker gegen Krämpfe. Übersichtsarbeiten finden bei gewöhnlichen nächtlichen Krämpfen älterer Menschen jedoch kaum einen Nutzen.",
+        "Krämpfe haben viele Ursachen, etwa Überlastung oder Flüssigkeitsmangel. Dehnen hilft oft schneller."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Hohe Mengen aus Präparaten können Durchfall auslösen.",
+        "Magnesium kann die Aufnahme mancher Medikamente stören, zum Beispiel bestimmter Antibiotika. Bei Nierenerkrankungen ist Vorsicht nötig. Sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Bei Muskelkrämpfen fehlt immer Magnesium.",
+      "urteil": "mythos",
+      "erklaerung": "Krämpfe entstehen oft durch Überlastung, Ermüdung oder Flüssigkeitsverlust. Ein Magnesiummangel ist nur eine von vielen möglichen Ursachen und bei gesunden Menschen eher selten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Lebensmittel liefern viel Magnesium?",
+      "art": "mc",
+      "optionen": [
+        "Weißbrot und Zucker",
+        "Nüsse und Vollkorn",
+        "Butter und Sahne",
+        "Limonade"
+      ],
+      "richtig": 1,
+      "erklaerung": "Nüsse, Vollkorn und Hülsenfrüchte sind gute Quellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Studien zeigen einen starken Nutzen von Magnesium bei gewöhnlichen nächtlichen Wadenkrämpfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Übersichtsarbeiten finden dort kaum einen Nutzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Krämpfen oft eine schnelle Hilfe?",
+      "art": "mc",
+      "optionen": [
+        "Den Muskel dehnen",
+        "Kaffee trinken",
+        "Hinlegen und still halten",
+        "Zucker essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sanftes Dehnen löst einen Krampf oft am schnellsten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Magnesium ist wichtig für Muskeln und Nerven.",
+        "Eine abwechslungsreiche Ernährung deckt den Bedarf meist.",
+        "Gegen gewöhnliche Wadenkrämpfe hilft es oft weniger als gedacht."
+      ]
+    }
+  ]
+}

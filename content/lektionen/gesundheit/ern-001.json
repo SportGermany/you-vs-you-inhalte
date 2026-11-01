@@ -1,0 +1,139 @@
+{
+  "id": "ern-001",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum sind Ballaststoffe so wichtig?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Referenzwerte für die Nährstoffzufuhr",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ballaststoffe",
+    "darm",
+    "vollkorn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Brötchen zum Frühstück, eins hell, eins Vollkorn. Nach dem hellen hast du um zehn wieder Hunger.",
+        "Nach dem Vollkornbrötchen hältst du bis Mittag durch. Woran liegt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Ballaststoffe sind",
+      "absaetze": [
+        "Ballaststoffe sind Teile von Pflanzen, die dein Dünndarm nicht verdauen kann. Sie stecken in Vollkorn, Gemüse, Obst, Hülsenfrüchten und Nüssen.",
+        "Sie quellen auf, machen länger satt und lassen den Blutzucker langsamer steigen."
+      ],
+      "merke": "Ballaststoffe machen satt und bremsen den Blutzuckeranstieg.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Futter für den Darm",
+      "absaetze": [
+        "Im Dickdarm leben Billionen Bakterien. Viele von ihnen ernähren sich von Ballaststoffen.",
+        "Große Beobachtungsstudien zeigen: Wer viele Ballaststoffe isst, hat ein geringeres Risiko für Herz-Kreislauf-Erkrankungen und Typ-2-Diabetes."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die meisten essen zu wenig",
+      "absaetze": [
+        "Die DGE empfiehlt Erwachsenen mindestens 30 Gramm Ballaststoffe pro Tag. Viele Menschen in Deutschland erreichen diesen Richtwert nicht.",
+        "Schon ein Wechsel von Weißbrot zu Vollkorn macht einen deutlichen Unterschied."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "Mehr Ballaststoffe im Alltag",
+      "schritte": [
+        {
+          "titel": "Vollkorn wählen",
+          "text": "Greif bei Brot, Nudeln und Reis zur Vollkornvariante."
+        },
+        {
+          "titel": "Hülsenfrüchte",
+          "text": "Bohnen, Linsen oder Kichererbsen ein- bis zweimal pro Woche."
+        },
+        {
+          "titel": "Gemüse zu jeder Mahlzeit",
+          "text": "Eine Handvoll Gemüse oder Salat dazu."
+        },
+        {
+          "titel": "Langsam steigern",
+          "text": "Erhöhe die Menge schrittweise und trink genug, sonst kann es zu Blähungen kommen."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo stecken viele Ballaststoffe?",
+      "art": "mc",
+      "optionen": [
+        "In Weißbrot",
+        "In Hülsenfrüchten",
+        "In Fleisch",
+        "In Käse"
+      ],
+      "richtig": 1,
+      "erklaerung": "Hülsenfrüchte, Vollkorn, Gemüse und Nüsse sind reich an Ballaststoffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Gramm Ballaststoffe pro Tag empfiehlt die DGE Erwachsenen mindestens?",
+      "art": "mc",
+      "optionen": [
+        "5 Gramm",
+        "15 Gramm",
+        "30 Gramm",
+        "100 Gramm"
+      ],
+      "richtig": 2,
+      "erklaerung": "Der Richtwert liegt bei mindestens 30 Gramm pro Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ballaststoffe werden im Dünndarm vollständig verdaut.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gelangen unverdaut in den Dickdarm und ernähren dort Bakterien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ballaststoffe machen satt und bremsen den Blutzucker.",
+        "Sie ernähren die Bakterien im Darm.",
+        "Der Richtwert liegt bei mindestens 30 Gramm pro Tag."
+      ]
+    }
+  ]
+}
