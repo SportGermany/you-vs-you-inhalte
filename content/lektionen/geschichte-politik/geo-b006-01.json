@@ -1,0 +1,113 @@
+{
+  "id": "geo-b006-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Welche Macht hat die OPEC über den Ölpreis?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About us",
+      "herausgeber": "Organisation erdölexportierender Länder (OPEC)",
+      "url": "https://www.opec.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "opec",
+    "oelpreis",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten heißt es: Die OPEC-plus-Staaten drosseln ihre Förderung. Kurz darauf steigt der Ölpreis.",
+        "Wer sind diese Staaten, und wie viel Einfluss haben sie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kartell der Ölexporteure",
+      "absaetze": [
+        "Die Organisation erdölexportierender Länder, kurz OPEC, wurde 1960 in Bagdad gegründet. Ihr Sitz ist heute Wien.",
+        "Gründungsmitglieder waren Iran, Irak, Kuwait, Saudi-Arabien und Venezuela. Die Mitglieder stimmen ab, wie viel Öl sie fördern. So wollen sie den Preis beeinflussen. Saudi-Arabien hat dabei besonders viel Gewicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "OPEC plus",
+      "absaetze": [
+        "Seit 2016 arbeitet die OPEC mit weiteren Förderländern zusammen, darunter Russland. Dieser lockere Verbund heißt OPEC plus.",
+        "Zusammen fördern diese Staaten einen großen Teil des weltweiten Öls. Kürzen sie die Förderung, steigt meist der Preis, erhöhen sie sie, sinkt er oft."
+      ],
+      "merke": "Weniger Förderung bedeutet meist höhere Preise."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen der Macht",
+      "absaetze": [
+        "Die Mitglieder halten sich nicht immer an vereinbarte Mengen. Manche Länder sind auch wieder ausgetreten.",
+        "Außerdem fördern Staaten wie die USA viel Öl außerhalb der OPEC. Auch Konjunktur, Kriege und der Ausbau erneuerbarer Energien beeinflussen den Preis."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hat die OPEC heute ihren Sitz?",
+      "art": "mc",
+      "optionen": [
+        "Wien",
+        "Riad",
+        "Genf",
+        "New York"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Sitz der OPEC ist Wien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches große Förderland gehört zu OPEC plus, aber nicht zur OPEC?",
+      "art": "mc",
+      "optionen": [
+        "Russland",
+        "Saudi-Arabien",
+        "Irak",
+        "Kuwait"
+      ],
+      "richtig": 0,
+      "erklaerung": "Russland arbeitet im Verbund OPEC plus mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kürzt die OPEC plus ihre Förderung, sinkt der Ölpreis meist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Weniger Angebot lässt den Preis meist steigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die OPEC wurde 1960 gegründet und hat ihren Sitz in Wien.",
+        "Mit OPEC plus stimmen auch Länder wie Russland ihre Förderung ab.",
+        "Ihre Macht ist groß, aber begrenzt."
+      ]
+    }
+  ]
+}

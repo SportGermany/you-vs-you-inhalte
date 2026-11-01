@@ -1,0 +1,107 @@
+{
+  "id": "umw-b006-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was unterscheidet Wetter und Klima?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetter- und Klimalexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wetter",
+    "klima",
+    "klimawandel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Draußen schneit es heftig. Ein Bekannter spottet: So viel zur Erderwärmung.",
+        "Doch ein kalter Tag sagt über das Klima wenig aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wetter ist das Jetzt",
+      "absaetze": [
+        "Wetter beschreibt den Zustand der Atmosphäre an einem Ort zu einem bestimmten Zeitpunkt. Dazu gehören Temperatur, Niederschlag, Wind und Bewölkung.",
+        "Wetter ändert sich von Stunde zu Stunde und von Tag zu Tag. Vorhersagen sind deshalb nur für einige Tage im Voraus zuverlässig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klima ist der lange Durchschnitt",
+      "absaetze": [
+        "Klima beschreibt das typische Wetter über einen langen Zeitraum. Nach internationaler Übereinkunft betrachtet man dafür meist mindestens 30 Jahre.",
+        "Dazu gehören Mittelwerte, aber auch, wie oft Extreme wie Hitzewellen oder Starkregen auftreten. Ein einzelner kalter Winter ändert am Klima nichts."
+      ],
+      "merke": "Das Wetter erlebst du, das Klima erkennst du in langen Messreihen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sich ändert",
+      "absaetze": [
+        "In Deutschland ist es seit Beginn regelmäßiger Messungen 1881 im Mittel deutlich wärmer geworden. Die Erwärmung liegt laut Deutschem Wetterdienst bereits bei über anderthalb Grad.",
+        "Kalte Tage gibt es weiterhin. Sie werden aber seltener, während heiße Tage häufiger werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Zeitraum wird für die Beschreibung des Klimas meist betrachtet?",
+      "art": "mc",
+      "optionen": [
+        "Ein Tag",
+        "Eine Woche",
+        "Mindestens 30 Jahre",
+        "Ein Monat"
+      ],
+      "richtig": 2,
+      "erklaerung": "Klima beschreibt das Wetter über mindestens 30 Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein besonders kalter Winter widerlegt den Klimawandel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein einzelnes Wetterereignis sagt über das Klima wenig aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann gibt es in Deutschland regelmäßige flächendeckende Wettermessungen?",
+      "art": "mc",
+      "optionen": [
+        "Seit 1881",
+        "Seit 1990",
+        "Seit 2010",
+        "Seit dem Mittelalter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Messreihe beginnt 1881."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wetter ist der kurzfristige Zustand der Atmosphäre.",
+        "Klima ist das typische Wetter über mindestens 30 Jahre.",
+        "Einzelne kalte Tage widersprechen der Erwärmung nicht."
+      ]
+    }
+  ]
+}

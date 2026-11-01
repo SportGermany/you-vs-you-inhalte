@@ -1,0 +1,135 @@
+{
+  "id": "haus-b006-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was bedeutet das Mindesthaltbarkeitsdatum wirklich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zu gut für die Tonne",
+      "herausgeber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+      "url": "https://www.zugutfuerdietonne.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mhd",
+    "lebensmittel",
+    "verschwendung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Joghurt im Kühlschrank ist seit zwei Tagen abgelaufen. Du willst ihn schon wegwerfen.",
+        "Doch abgelaufen heißt nicht unbedingt verdorben. Es kommt auf das Datum an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mindestens haltbar bis",
+      "absaetze": [
+        "Das Mindesthaltbarkeitsdatum, kurz MHD, sichert zu, dass ein ungeöffnetes Lebensmittel bei richtiger Lagerung bis zu diesem Tag seine Eigenschaften behält. Dazu gehören Geschmack, Farbe und Konsistenz.",
+        "Es ist kein Verfallsdatum. Viele Produkte wie Joghurt, Nudeln oder Konserven sind oft noch lange danach genießbar. Prüfe mit Augen, Nase und Zunge."
+      ],
+      "merke": "Das MHD ist ein Qualitätsversprechen, kein Wegwerfdatum."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu verbrauchen bis",
+      "absaetze": [
+        "Anders ist das Verbrauchsdatum. Es steht auf leicht verderblichen Lebensmitteln wie rohem Hackfleisch, frischem Geflügel oder Fisch.",
+        "Nach Ablauf dieses Datums sollst du das Lebensmittel nicht mehr essen, auch wenn es noch gut aussieht. Krankheitserreger können sich vermehrt haben, ohne dass man sie riecht oder sieht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verschwendung im Haushalt",
+      "absaetze": [
+        "In Deutschland landet ein großer Teil der weggeworfenen Lebensmittel in privaten Haushalten, nach Erhebungen mehr als die Hälfte. Häufige Gründe sind zu große Einkäufe, falsche Lagerung und Unsicherheit beim Datum.",
+        "Wer weniger wegwirft, spart Geld und schont Umwelt und Klima."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Weniger wegwerfen",
+      "schritte": [
+        {
+          "titel": "Planen",
+          "text": "Schau vor dem Einkauf in den Kühlschrank und schreib eine Liste."
+        },
+        {
+          "titel": "Richtig lagern",
+          "text": "Neues nach hinten, Älteres nach vorne in den Kühlschrank."
+        },
+        {
+          "titel": "Prüfen statt wegwerfen",
+          "text": "Teste Produkte nach dem MHD mit allen Sinnen."
+        },
+        {
+          "titel": "Reste nutzen",
+          "text": "Plane einmal pro Woche ein Resteessen ein."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sichert das Mindesthaltbarkeitsdatum zu?",
+      "art": "mc",
+      "optionen": [
+        "Dass das Produkt bis dahin seine Eigenschaften behält",
+        "Dass es danach giftig ist",
+        "Dass es nach dem Datum verboten ist",
+        "Dass es nur bis dahin verkauft werden darf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das MHD ist ein Qualitätsversprechen des Herstellers."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welchen Lebensmitteln steht ein Verbrauchsdatum?",
+      "art": "mc",
+      "optionen": [
+        "Auf rohem Hackfleisch",
+        "Auf trockenen Nudeln",
+        "Auf Salz",
+        "Auf Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leicht verderbliche Lebensmittel tragen ein Verbrauchsdatum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lebensmittel nach Ablauf des Verbrauchsdatums kann man bedenkenlos essen, wenn sie gut riechen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Erreger können sich vermehrt haben, ohne dass man es merkt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das MHD ist kein Wegwerfdatum.",
+        "Nach dem Verbrauchsdatum solltest du ein Lebensmittel nicht mehr essen.",
+        "Gute Planung und Lagerung verringern Verschwendung."
+      ]
+    }
+  ]
+}

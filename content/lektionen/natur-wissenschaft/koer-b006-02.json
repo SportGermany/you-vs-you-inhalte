@@ -1,0 +1,107 @@
+{
+  "id": "koer-b006-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum bekommst du Fieber?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Infektionskrankheiten A bis Z",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fieber",
+    "immunsystem",
+    "koerpertemperatur"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast eine Grippe. Erst frierst du unter drei Decken, Stunden später ist dir glühend heiß.",
+        "Dein Körper heizt sich absichtlich auf. Warum?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Thermostat im Gehirn",
+      "absaetze": [
+        "Die Körpertemperatur wird im Hypothalamus geregelt, einem Bereich im Zwischenhirn. Normal sind etwa 36 bis 37 Grad Celsius.",
+        "Bei einer Infektion schüttet das Immunsystem Botenstoffe aus. Sie stellen den Sollwert im Hypothalamus höher. Der Körper empfindet die normale Temperatur dann als zu kalt und erzeugt Wärme, etwa durch Muskelzittern."
+      ],
+      "merke": "Fieber ist ein höher gestellter Thermostat."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu das gut ist",
+      "absaetze": [
+        "Viele Erreger vermehren sich bei höheren Temperaturen schlechter. Gleichzeitig arbeiten manche Abwehrzellen bei erhöhter Temperatur besser.",
+        "Fieber ist deshalb meist ein Zeichen, dass das Immunsystem aktiv ist. Es ist keine Krankheit an sich, sondern eine Abwehrreaktion."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann Vorsicht geboten ist",
+      "absaetze": [
+        "Fieber belastet den Kreislauf und erhöht den Flüssigkeitsbedarf. Genug zu trinken ist deshalb wichtig.",
+        "Bei sehr hohem oder lange anhaltendem Fieber, bei Säuglingen, Verwirrtheit, Atemnot oder einem steifen Nacken sollte man ärztlichen Rat einholen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hirnregion regelt die Körpertemperatur?",
+      "art": "mc",
+      "optionen": [
+        "Der Hypothalamus",
+        "Das Kleinhirn",
+        "Die Sehrinde",
+        "Der Hippocampus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Hypothalamus ist der Thermostat des Körpers."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum friert man zu Beginn von Fieber?",
+      "art": "mc",
+      "optionen": [
+        "Weil der Sollwert erhöht wurde und der Körper Wärme erzeugen will",
+        "Weil das Blut abkühlt",
+        "Weil die Haut zu dünn wird",
+        "Weil man zu viel trinkt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die normale Temperatur fühlt sich dann zu kalt an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fieber ist meist eine Abwehrreaktion des Körpers.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Viele Erreger vermehren sich bei höherer Temperatur schlechter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Fieber stellt der Hypothalamus die Temperatur höher.",
+        "Fieber hilft dem Körper oft bei der Abwehr.",
+        "Bei Warnzeichen oder bei Säuglingen ärztlichen Rat einholen."
+      ]
+    }
+  ]
+}

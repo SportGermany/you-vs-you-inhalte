@@ -1,0 +1,113 @@
+{
+  "id": "tech-b006-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie lernt künstliche Intelligenz?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Künstliche Intelligenz",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ki",
+    "maschinelles-lernen",
+    "chatbot"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Chatbot schreibt dir in Sekunden ein Gedicht über deine Katze. Kurz darauf erfindet er eine Quelle, die es nicht gibt.",
+        "Wie kann ein Programm so klug und zugleich so falsch sein?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lernen aus Beispielen",
+      "absaetze": [
+        "Viele heutige KI-Systeme beruhen auf maschinellem Lernen. Statt feste Regeln zu programmieren, zeigt man dem System sehr viele Beispiele.",
+        "Ein künstliches neuronales Netz passt dabei Millionen oder Milliarden interner Zahlen an, bis es Muster in den Daten erkennt. So lernt es zum Beispiel, Katzen auf Fotos zu erkennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Sprachmodelle arbeiten",
+      "absaetze": [
+        "Große Sprachmodelle wurden mit riesigen Textmengen trainiert. Vereinfacht gesagt berechnen sie, welches Wort mit hoher Wahrscheinlichkeit als Nächstes passt.",
+        "Daraus entstehen erstaunlich flüssige Texte. Das Modell prüft aber nicht automatisch, ob eine Aussage wahr ist. Deshalb kann es überzeugend klingende Fehler produzieren."
+      ],
+      "merke": "Flüssig formuliert heißt nicht geprüft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Daten prägen das Ergebnis",
+      "absaetze": [
+        "Eine KI ist nur so gut wie ihre Trainingsdaten. Enthalten diese Vorurteile oder Fehler, kann die KI sie übernehmen.",
+        "Das BSI rät, Ergebnisse von KI-Systemen kritisch zu prüfen und keine vertraulichen Daten unbedacht einzugeben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf beruhen viele heutige KI-Systeme?",
+      "art": "mc",
+      "optionen": [
+        "Auf maschinellem Lernen aus Beispielen",
+        "Auf Zufallszahlen allein",
+        "Auf handgeschriebenen Regeln für jede Situation",
+        "Auf Magnetismus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lernen Muster aus sehr vielen Beispielen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was berechnen große Sprachmodelle vereinfacht gesagt?",
+      "art": "mc",
+      "optionen": [
+        "Welches Wort wahrscheinlich als Nächstes passt",
+        "Den Wetterbericht",
+        "Den Wahrheitsgehalt jeder Aussage",
+        "Die Uhrzeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sagen wahrscheinliche Fortsetzungen eines Textes voraus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Sprachmodell prüft jede Aussage automatisch auf Wahrheit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Deshalb können Fehler entstehen, die überzeugend klingen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "KI lernt Muster aus vielen Beispielen.",
+        "Sprachmodelle sagen wahrscheinliche Wortfolgen voraus und können sich irren.",
+        "Ergebnisse kritisch prüfen und keine vertraulichen Daten eingeben."
+      ]
+    }
+  ]
+}

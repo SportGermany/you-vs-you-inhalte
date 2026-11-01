@@ -1,0 +1,113 @@
+{
+  "id": "vers-b006-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wofür gibt es die Berufsunfähigkeitsversicherung?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage, Kredite und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "berufsunfaehigkeit",
+    "arbeitskraft",
+    "absicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Krankenpflegerin bekommt einen schweren Bandscheibenvorfall. Ihren Beruf kann sie nicht mehr ausüben.",
+        "Ihr Einkommen fällt weg. Wovon soll sie jetzt leben?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Arbeitskraft absichern",
+      "absaetze": [
+        "Für die meisten Menschen ist die Arbeitskraft die wichtigste Einkommensquelle. Eine Berufsunfähigkeitsversicherung zahlt eine monatliche Rente, wenn man seinen Beruf aus gesundheitlichen Gründen nicht mehr ausüben kann.",
+        "Häufige Ursachen sind nicht Unfälle, sondern psychische Erkrankungen sowie Probleme mit Rücken und Gelenken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum der Staat wenig hilft",
+      "absaetze": [
+        "Die gesetzliche Rentenversicherung zahlt bei Krankheit nur eine Erwerbsminderungsrente. Wer nach 1960 geboren ist, bekommt sie nur, wenn er kaum noch irgendeine Arbeit ausüben kann, nicht nur den eigenen Beruf.",
+        "Die Rente fällt außerdem meist niedrig aus. Verbraucherschützer zählen die Berufsunfähigkeitsversicherung deshalb für Erwerbstätige zu den wichtigen Versicherungen."
+      ],
+      "merke": "Der gesetzliche Schutz bei Berufsunfähigkeit ist lückenhaft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ehrlich bei den Gesundheitsfragen",
+      "absaetze": [
+        "Beim Abschluss stellen Versicherer viele Fragen zur Gesundheit. Wer hier etwas verschweigt, riskiert, dass der Versicherer später nicht zahlt.",
+        "Jüngere und gesunde Menschen bekommen meist günstigere Beiträge. Je nach Beruf und Vorerkrankungen kann der Vertrag teuer oder schwer zu bekommen sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zahlt eine Berufsunfähigkeitsversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Eine monatliche Rente bei Berufsunfähigkeit",
+        "Reparaturen am Auto",
+        "Schäden an fremden Sachen",
+        "Den Urlaub bei Krankheit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ersetzt einen Teil des Einkommens."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind häufige Ursachen für Berufsunfähigkeit?",
+      "art": "mc",
+      "optionen": [
+        "Psychische Erkrankungen und Rückenleiden",
+        "Nur Verkehrsunfälle",
+        "Nur Erkältungen",
+        "Sonnenbrand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Psychische Erkrankungen und Probleme mit dem Bewegungsapparat sind häufig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bei den Gesundheitsfragen etwas verschweigt, riskiert den Versicherungsschutz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Versicherer kann dann die Leistung verweigern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Berufsunfähigkeitsversicherung sichert dein Einkommen ab.",
+        "Der gesetzliche Schutz ist lückenhaft und niedrig.",
+        "Gesundheitsfragen müssen ehrlich beantwortet werden."
+      ]
+    }
+  ]
+}

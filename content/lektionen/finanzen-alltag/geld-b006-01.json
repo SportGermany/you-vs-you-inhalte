@@ -1,0 +1,113 @@
+{
+  "id": "geld-b006-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was kostet ein Kredit wirklich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage, Kredite und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kredit",
+    "zinsen",
+    "effektivzins"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein neuer Fernseher, bequem in 24 Raten. Die monatliche Rate wirkt klein.",
+        "Doch was zahlst du am Ende insgesamt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sollzins und Effektivzins",
+      "absaetze": [
+        "Der Sollzins ist der reine Zins für das geliehene Geld. Der effektive Jahreszins enthält zusätzlich weitere Kosten, die du zwingend zahlen musst, etwa bestimmte Gebühren.",
+        "Banken müssen den effektiven Jahreszins angeben. Er ist die richtige Zahl, um Kreditangebote miteinander zu vergleichen."
+      ],
+      "merke": "Vergleiche Kredite immer über den effektiven Jahreszins."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teure Varianten",
+      "absaetze": [
+        "Der Dispokredit, also das Überziehen des Girokontos, ist besonders teuer. Für größere Beträge über längere Zeit ist ein Ratenkredit meist günstiger.",
+        "Auch Ratenkäufe oder Später-bezahlen-Angebote im Internet können teuer werden, wenn Zahlungen verspätet kommen. Dann fallen oft Mahngebühren und Zinsen an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorher rechnen",
+      "absaetze": [
+        "Prüfe vor einem Kredit, ob die Rate auch dann noch passt, wenn unerwartete Ausgaben kommen. Kredite für Konsum wie Urlaub oder Elektronik sind besonders kritisch.",
+        "Verspätete oder ausbleibende Zahlungen können bei der Schufa gespeichert werden. Das kann spätere Kredite oder sogar Mietverträge erschweren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Zins eignet sich zum Vergleich von Kreditangeboten?",
+      "art": "mc",
+      "optionen": [
+        "Der effektive Jahreszins",
+        "Der Sollzins allein",
+        "Der Leitzins",
+        "Der Sparzins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der effektive Jahreszins enthält auch zusätzliche Pflichtkosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kreditform ist meist besonders teuer?",
+      "art": "mc",
+      "optionen": [
+        "Der Dispokredit",
+        "Ein Ratenkredit mit gutem Effektivzins",
+        "Ein zinsloses Darlehen der Eltern",
+        "Gar keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Überziehen des Girokontos kostet meist hohe Zinsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Verspätete Kreditzahlungen können bei der Schufa gespeichert werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das kann spätere Verträge erschweren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der effektive Jahreszins zeigt die echten Kosten eines Kredits.",
+        "Der Dispo ist für längere Zeit eine teure Lösung.",
+        "Prüfe vorher, ob die Rate auch in schwierigen Monaten passt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "koer-b006-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie arbeitet dein Herz?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Herz und Kreislauf",
+      "herausgeber": "Deutsche Herzstiftung",
+      "url": "https://www.herzstiftung.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "herz",
+    "kreislauf",
+    "puls"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lege zwei Finger an deinen Hals. Du spürst einen gleichmäßigen Takt.",
+        "Dein Herz schlägt so jeden Tag rund hunderttausendmal, ohne dass du daran denken musst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Pumpen in einem",
+      "absaetze": [
+        "Das Herz ist ein Hohlmuskel, etwa so groß wie eine Faust. Es hat vier Räume: zwei Vorhöfe und zwei Kammern.",
+        "Die rechte Herzhälfte pumpt sauerstoffarmes Blut in die Lunge. Die linke Hälfte pumpt das frische, sauerstoffreiche Blut in den ganzen Körper. Klappen sorgen dafür, dass das Blut nur in eine Richtung fließt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der eigene Taktgeber",
+      "absaetze": [
+        "Das Herz erzeugt seinen Takt selbst. Im rechten Vorhof sitzt der Sinusknoten, ein natürlicher Schrittmacher. Er sendet elektrische Impulse, die den Herzmuskel zusammenziehen.",
+        "Das Nervensystem kann den Takt beschleunigen oder bremsen. Bei Sport oder Aufregung schlägt das Herz schneller, in Ruhe langsamer."
+      ],
+      "merke": "Der Sinusknoten gibt den Herzschlag vor."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was es leistet",
+      "absaetze": [
+        "In Ruhe pumpt das Herz eines Erwachsenen etwa fünf Liter Blut pro Minute. Bei großer Anstrengung kann es ein Vielfaches sein.",
+        "Der Ruhepuls liegt bei Erwachsenen meist zwischen 60 und 80 Schlägen pro Minute. Bei trainierten Menschen ist er oft niedriger, weil das Herz pro Schlag mehr Blut auswirft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Räume hat das Herz?",
+      "art": "mc",
+      "optionen": [
+        "Zwei",
+        "Drei",
+        "Vier",
+        "Sechs"
+      ],
+      "richtig": 2,
+      "erklaerung": "Zwei Vorhöfe und zwei Kammern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin pumpt die rechte Herzhälfte das Blut?",
+      "art": "mc",
+      "optionen": [
+        "In die Lunge",
+        "In das Gehirn",
+        "In die Beine",
+        "In die Leber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die rechte Herzhälfte versorgt den Lungenkreislauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei trainierten Menschen ist der Ruhepuls oft niedriger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ihr Herz wirft pro Schlag mehr Blut aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Herz hat vier Räume und zwei Kreisläufe.",
+        "Der Sinusknoten erzeugt den Takt.",
+        "In Ruhe pumpt es etwa fünf Liter Blut pro Minute."
+      ]
+    }
+  ]
+}

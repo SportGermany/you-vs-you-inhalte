@@ -1,0 +1,107 @@
+{
+  "id": "haus-b006-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie erkennst du im Supermarkt das günstigere Angebot?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "grundpreis",
+    "einkaufen",
+    "preisvergleich"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die große Packung ist im Angebot. Sie muss also günstiger sein, denkst du.",
+        "Ein Blick auf das kleine Preisschild darunter zeigt manchmal das Gegenteil."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Grundpreis",
+      "absaetze": [
+        "Händler müssen in Deutschland neben dem Endpreis meist auch den Grundpreis angeben. Er zeigt, was ein Kilogramm, ein Liter oder eine ähnliche Menge kostet.",
+        "Mit dem Grundpreis kannst du Packungen unterschiedlicher Größe direkt vergleichen. Große Packungen sind nicht immer günstiger, gerade wenn kleine im Angebot sind."
+      ],
+      "merke": "Vergleiche den Grundpreis, nicht den Packungspreis."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger drin, gleicher Preis",
+      "absaetze": [
+        "Manchmal verkleinern Hersteller den Inhalt, ohne den Preis zu senken. Die Packung sieht gleich aus, enthält aber weniger. Das nennt man versteckte Preiserhöhung oder Shrinkflation.",
+        "Verbraucherzentralen sammeln solche Fälle und veröffentlichen sie. Auch hier hilft der Grundpreis, die Veränderung zu erkennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo die günstigen Produkte stehen",
+      "absaetze": [
+        "Teure Markenprodukte stehen oft auf Augenhöhe, wo du zuerst hinschaust. Günstigere Eigenmarken des Händlers findest du häufig weiter unten oder oben im Regal.",
+        "Eigenmarken schneiden in Tests oft nicht schlechter ab als Markenprodukte. Manchmal stammen sie sogar aus derselben Fabrik."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt der Grundpreis an?",
+      "art": "mc",
+      "optionen": [
+        "Den Preis pro Kilogramm oder Liter",
+        "Den Rabatt in Prozent",
+        "Den Einkaufspreis des Händlers",
+        "Die Mehrwertsteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er macht unterschiedliche Packungsgrößen vergleichbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man es, wenn weniger Inhalt zum gleichen Preis verkauft wird?",
+      "art": "mc",
+      "optionen": [
+        "Shrinkflation",
+        "Deflation",
+        "Rabattaktion",
+        "Pfand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine versteckte Preiserhöhung, auch Shrinkflation genannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Große Packungen sind immer günstiger als kleine.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur der Grundpreis zeigt, was wirklich günstiger ist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Grundpreis macht Angebote vergleichbar.",
+        "Achte auf versteckte Preiserhöhungen durch weniger Inhalt.",
+        "Eigenmarken stehen oft nicht auf Augenhöhe und sind meist günstiger."
+      ]
+    }
+  ]
+}

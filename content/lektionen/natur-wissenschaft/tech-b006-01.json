@@ -1,0 +1,107 @@
+{
+  "id": "tech-b006-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie macht eine Solarzelle aus Licht Strom?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Photovoltaik",
+      "herausgeber": "Fraunhofer-Institut für Solare Energiesysteme ISE",
+      "url": "https://www.ise.fraunhofer.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "solar",
+    "photovoltaik",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf immer mehr Dächern und Balkonen glänzen dunkelblaue Module.",
+        "Sie haben keine beweglichen Teile und liefern trotzdem Strom. Wie geht das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der photovoltaische Effekt",
+      "absaetze": [
+        "Die meisten Solarzellen bestehen aus Silizium, einem Halbleiter. Trifft Licht auf die Zelle, gibt es Energie an Elektronen im Silizium ab und macht sie beweglich.",
+        "Die Zelle besteht aus zwei unterschiedlich behandelten Schichten. An ihrer Grenze entsteht ein elektrisches Feld, das die Elektronen in eine Richtung lenkt. So fließt Strom, wenn ein Gerät angeschlossen ist."
+      ],
+      "merke": "Licht setzt Elektronen in Bewegung, ein elektrisches Feld lenkt sie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Gleichstrom zur Steckdose",
+      "absaetze": [
+        "Solarzellen liefern Gleichstrom. Im Haushalt wird aber Wechselstrom genutzt.",
+        "Ein Wechselrichter wandelt den Strom deshalb um. Danach kann er im Haus genutzt, in einem Speicher geladen oder ins Netz eingespeist werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel Licht ankommt",
+      "absaetze": [
+        "Handelsübliche Module wandeln etwa ein Fünftel der eingestrahlten Sonnenenergie in Strom um. Forschende arbeiten an Zellen, die mehr schaffen.",
+        "Auch bei bewölktem Himmel erzeugen Module Strom, nur weniger. Ausrichtung, Neigung und Verschattung beeinflussen den Ertrag stark."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus welchem Material bestehen die meisten Solarzellen?",
+      "art": "mc",
+      "optionen": [
+        "Silizium",
+        "Kupfer",
+        "Holz",
+        "Gummi"
+      ],
+      "richtig": 0,
+      "erklaerung": "Silizium ist ein Halbleiter und das häufigste Material."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu braucht man einen Wechselrichter?",
+      "art": "mc",
+      "optionen": [
+        "Um Gleichstrom in Wechselstrom umzuwandeln",
+        "Um die Module zu kühlen",
+        "Um die Sonne zu verfolgen",
+        "Um Wasser zu erhitzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Haushaltsgeräte nutzen Wechselstrom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Bewölkung erzeugen Solarmodule gar keinen Strom.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie erzeugen weniger, aber nicht nichts."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Solarzellen nutzen den photovoltaischen Effekt.",
+        "Ein Wechselrichter macht aus Gleichstrom nutzbaren Wechselstrom.",
+        "Übliche Module wandeln etwa ein Fünftel des Sonnenlichts in Strom um."
+      ]
+    }
+  ]
+}

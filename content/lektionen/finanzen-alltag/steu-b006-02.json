@@ -1,0 +1,113 @@
+{
+  "id": "steu-b006-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was sind Werbungskosten?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Verträge",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "werbungskosten",
+    "steuererklaerung",
+    "pauschbetrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast dir für die Arbeit einen neuen Laptop gekauft und eine Fortbildung bezahlt.",
+        "Das Finanzamt beteiligt sich daran, wenn du es in der Steuererklärung angibst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kosten für den Job",
+      "absaetze": [
+        "Werbungskosten sind Ausgaben, die du hast, um dein Einkommen zu erzielen. Mit Werbung im üblichen Sinn hat der Begriff nichts zu tun.",
+        "Typisch sind Fahrten zur Arbeit, Arbeitsmittel wie Computer oder Fachbücher, Fortbildungen, Bewerbungskosten und Gewerkschaftsbeiträge. Sie senken dein zu versteuerndes Einkommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Pauschale",
+      "absaetze": [
+        "Das Finanzamt zieht für Arbeitnehmer automatisch eine Pauschale ab, den Arbeitnehmer-Pauschbetrag. Er liegt derzeit bei 1.230 Euro im Jahr.",
+        "Nur wenn deine tatsächlichen Werbungskosten höher sind, lohnt es sich, sie einzeln nachzuweisen. Dann wirkt jeder Euro über der Pauschale steuermindernd."
+      ],
+      "merke": "Erst Kosten über der Pauschale bringen zusätzlich Geld zurück."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Belege sammeln",
+      "absaetze": [
+        "Bewahre Rechnungen und Quittungen für berufliche Ausgaben auf. Das Finanzamt kann sie anfordern.",
+        "Oft kommt man schnell über die Pauschale, etwa durch einen langen Arbeitsweg oder ein teures Arbeitsgerät. Teure Geräte werden allerdings manchmal über mehrere Jahre verteilt abgesetzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Werbungskosten?",
+      "art": "mc",
+      "optionen": [
+        "Ausgaben, um Einkommen zu erzielen",
+        "Kosten für Werbeanzeigen",
+        "Spenden an Vereine",
+        "Kosten für den Urlaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Werbungskosten sind beruflich veranlasste Ausgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Arbeitnehmer-Pauschbetrag derzeit pro Jahr?",
+      "art": "mc",
+      "optionen": [
+        "230 Euro",
+        "1.230 Euro",
+        "5.000 Euro",
+        "12.000 Euro"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Pauschbetrag liegt bei 1.230 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fortbildungskosten können Werbungskosten sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Beruflich veranlasste Fortbildungen zählen dazu."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Werbungskosten sind Ausgaben für deinen Job.",
+        "Eine Pauschale von 1.230 Euro wird automatisch berücksichtigt.",
+        "Höhere Kosten musst du mit Belegen nachweisen."
+      ]
+    }
+  ]
+}

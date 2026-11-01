@@ -1,0 +1,113 @@
+{
+  "id": "steu-b006-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie funktioniert die Einkommensteuer in Stufen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "einkommensteuer",
+    "grundfreibetrag",
+    "steuersatz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Freund sagt: Mit der Gehaltserhöhung rutsche ich in eine höhere Steuerstufe, am Ende habe ich weniger.",
+        "Das hört man oft. Es stimmt aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein steuerfreier Sockel",
+      "absaetze": [
+        "Jeder Mensch darf ein bestimmtes Einkommen im Jahr steuerfrei verdienen. Dieser Betrag heißt Grundfreibetrag und soll das Existenzminimum sichern.",
+        "Für 2026 liegt er bei 12.348 Euro für Alleinstehende, für Ehepaare bei der Zusammenveranlagung beim Doppelten. Erst darüber fällt Einkommensteuer an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Satz steigt langsam",
+      "absaetze": [
+        "Über dem Grundfreibetrag beginnt der Steuersatz bei 14 Prozent. Mit wachsendem Einkommen steigt er schrittweise bis auf 42 Prozent, für sehr hohe Einkommen auf 45 Prozent.",
+        "Wichtig ist: Der höhere Satz gilt nur für den Teil des Einkommens, der in den höheren Bereich fällt. Das Einkommen darunter wird weiterhin mit den niedrigeren Sätzen besteuert."
+      ],
+      "merke": "Ein höherer Steuersatz gilt nur für das zusätzliche Einkommen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Brutto, mehr Netto",
+      "absaetze": [
+        "Deshalb führt eine Gehaltserhöhung bei der Einkommensteuer nie zu weniger Netto. Man behält von jedem zusätzlichen Euro nur einen kleineren Teil.",
+        "Ausnahmen können entstehen, wenn durch mehr Einkommen Sozialleistungen wie Wohngeld wegfallen. Das liegt dann aber nicht am Steuertarif."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Mit einer Gehaltserhöhung kann man in eine höhere Steuerstufe rutschen und dann insgesamt weniger haben.",
+      "urteil": "mythos",
+      "erklaerung": "Der deutsche Steuertarif steigt gleitend. Ein höherer Satz trifft nur das zusätzliche Einkommen, nicht das ganze. Bei der Einkommensteuer bleibt nach einer Erhöhung deshalb immer mehr Netto übrig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Betrag, den jeder steuerfrei verdienen darf?",
+      "art": "mc",
+      "optionen": [
+        "Grundfreibetrag",
+        "Pendlerpauschale",
+        "Kindergeld",
+        "Solidaritätszuschlag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Grundfreibetrag sichert das Existenzminimum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Satz beginnt die Einkommensteuer oberhalb des Grundfreibetrags?",
+      "art": "mc",
+      "optionen": [
+        "5 Prozent",
+        "14 Prozent",
+        "30 Prozent",
+        "42 Prozent"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Eingangssteuersatz liegt bei 14 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein höherer Steuersatz gilt für das gesamte Einkommen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er gilt nur für den Teil, der in den höheren Bereich fällt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bis zum Grundfreibetrag bleibt Einkommen steuerfrei.",
+        "Der Steuersatz steigt gleitend von 14 auf 42 und für sehr hohe Einkommen 45 Prozent.",
+        "Eine Gehaltserhöhung führt bei der Einkommensteuer nie zu weniger Netto."
+      ]
+    }
+  ]
+}
