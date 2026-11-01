@@ -1,0 +1,129 @@
+{
+  "id": "lern-b004-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Warum lernst du mehr, wenn du dich abfragst?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lernen",
+    "testeffekt",
+    "pruefung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor der Prüfung liest du deine Notizen dreimal durch. Alles kommt dir bekannt vor.",
+        "In der Prüfung ist plötzlich vieles weg. Was ist schiefgelaufen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bekannt ist nicht gleich gelernt",
+      "absaetze": [
+        "Wiederholtes Lesen erzeugt ein Gefühl von Vertrautheit. Man erkennt den Text wieder und glaubt, ihn zu können.",
+        "Wiedererkennen ist aber leichter als frei abrufen. In der Prüfung musst du das Wissen selbst hervorholen, ohne dass es vor dir liegt. Genau das hast du beim Lesen nicht geübt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Testeffekt",
+      "absaetze": [
+        "Forschende ließen Studierende einen Text lernen. Die eine Gruppe las ihn mehrmals, die andere las ihn einmal und schrieb dann aus dem Gedächtnis auf, was sie wusste.",
+        "Nach einer Woche erinnerte sich die zweite Gruppe deutlich besser. Das Abrufen selbst stärkt die Erinnerung. Fachleute nennen das den Testeffekt oder Abrufübung."
+      ],
+      "merke": "Erinnern ist nicht nur ein Test, sondern selbst Lernen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Etwas Mühe gehört dazu",
+      "absaetze": [
+        "Sich selbst abzufragen fühlt sich anstrengender an als Lesen. Gerade diese Anstrengung macht das Lernen nachhaltiger.",
+        "Besonders wirksam ist es, das Abfragen über mehrere Tage zu verteilen, statt alles an einem Abend zu machen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So nutzt du den Testeffekt",
+      "schritte": [
+        {
+          "titel": "Buch zu",
+          "text": "Lies einen Abschnitt, schließ das Buch und schreib auf, was du behalten hast."
+        },
+        {
+          "titel": "Karteikarten",
+          "text": "Schreib Fragen auf die Vorderseite und Antworten auf die Rückseite."
+        },
+        {
+          "titel": "Erklären",
+          "text": "Erklär den Stoff laut einer anderen Person oder dir selbst."
+        },
+        {
+          "titel": "Verteilen",
+          "text": "Frag dich an mehreren Tagen ab, nicht nur am Vorabend."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stärkte in der Studie die Erinnerung nach einer Woche mehr?",
+      "art": "mc",
+      "optionen": [
+        "Mehrmaliges Lesen",
+        "Einmal lesen und dann aus dem Gedächtnis aufschreiben",
+        "Den Text abschreiben",
+        "Den Text markieren"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das Abrufen aus dem Gedächtnis war wirksamer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wiedererkennen ist leichter als freies Abrufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb täuscht das Gefühl der Vertrautheit beim Lesen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennen Fachleute den Lerneffekt durch Abfragen?",
+      "art": "mc",
+      "optionen": [
+        "Testeffekt",
+        "Placeboeffekt",
+        "Dominoeffekt",
+        "Treibhauseffekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er heißt Testeffekt oder Abrufübung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wiederholtes Lesen erzeugt trügerische Vertrautheit.",
+        "Sich selbst abzufragen stärkt die Erinnerung.",
+        "Verteile das Abfragen auf mehrere Tage."
+      ]
+    }
+  ]
+}

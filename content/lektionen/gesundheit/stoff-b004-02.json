@@ -1,0 +1,118 @@
+{
+  "id": "stoff-b004-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum macht Schlafmangel Appetit?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafmangel",
+    "appetit",
+    "hormone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer kurzen Nacht greifst du im Büro ständig zu Keksen. Abends bestellst du Pizza.",
+        "Das ist kein Zufall. Schlaf und Appetit hängen eng zusammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hormone geraten aus dem Takt",
+      "absaetze": [
+        "Zwei Hormone sind für Hunger und Sättigung wichtig. Ghrelin aus dem Magen macht hungrig, Leptin aus dem Fettgewebe meldet Sättigung.",
+        "In Studien stieg nach zu wenig Schlaf bei vielen Teilnehmenden der Ghrelinspiegel, während Leptin sank. Nicht alle Studien finden das gleich deutlich, die Richtung ist aber oft ähnlich."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Lust auf Energiedichtes",
+      "absaetze": [
+        "Müde Menschen wählen in Versuchen häufiger süße und fettige Lebensmittel. Das Belohnungssystem im Gehirn reagiert stärker auf solche Reize, die Selbstkontrolle ist schwächer.",
+        "Wer länger wach ist, hat außerdem mehr Zeit zum Essen. In Schlaflaborstudien aßen Menschen nach verkürzten Nächten im Durchschnitt mehr."
+      ],
+      "merke": "Ausgeschlafen fällt gesundes Essen leichter.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf Dauer",
+      "absaetze": [
+        "Beobachtungsstudien verbinden dauerhaft kurzen Schlaf mit einem höheren Risiko für Übergewicht und Typ-2-Diabetes.",
+        "Ausreichend Schlaf ist deshalb ein Baustein für ein gesundes Gewicht. Er ersetzt aber keine ausgewogene Ernährung und Bewegung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon macht hungrig?",
+      "art": "mc",
+      "optionen": [
+        "Ghrelin",
+        "Leptin",
+        "Melatonin",
+        "Insulin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ghrelin wird im Magen gebildet und steigert den Hunger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Leptin meldet dem Gehirn Sättigung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Leptin stammt aus dem Fettgewebe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wählten müde Menschen in Versuchen häufiger?",
+      "art": "mc",
+      "optionen": [
+        "Süße und fettige Lebensmittel",
+        "Mehr Gemüse",
+        "Mehr Wasser",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlafmangel verstärkt die Lust auf Energiedichtes."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafmangel kann Hunger- und Sättigungshormone verschieben.",
+        "Müde wählt man eher Süßes und Fettiges.",
+        "Genug Schlaf erleichtert ein gesundes Gewicht.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

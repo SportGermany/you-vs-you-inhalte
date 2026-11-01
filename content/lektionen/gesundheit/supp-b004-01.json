@@ -1,0 +1,123 @@
+{
+  "id": "supp-b004-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bringt Kreatin beim Training?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nutrition and health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kreatin",
+    "krafttraining",
+    "sport"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Fitnessstudio steht eine große Dose Kreatin im Spind deines Trainingspartners. Er schwört darauf.",
+        "Ist das ein Trick für Profis oder ein gut untersuchter Stoff?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein körpereigener Stoff",
+      "absaetze": [
+        "Kreatin bildet der Körper selbst, vor allem in Leber und Nieren. Zusätzlich steckt es in Fleisch und Fisch.",
+        "Es wird überwiegend in den Muskeln gespeichert. Dort hilft es, bei kurzen, sehr intensiven Belastungen schnell Energie bereitzustellen. Das betrifft zum Beispiel Sprints oder schwere Wiederholungen beim Krafttraining."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Studienlage sagt",
+      "absaetze": [
+        "Kreatin gehört zu den am besten untersuchten Sportpräparaten. Zusammen mit Training kann es die Leistung bei kurzen, intensiven Belastungen etwas steigern.",
+        "Die EFSA hat eine entsprechende Gesundheitsaussage für Erwachsene zugelassen. Bei Ausdauersport wie Laufen über lange Strecken zeigt sich dagegen kaum ein Nutzen."
+      ],
+      "merke": "Kreatin wirkt nur in Kombination mit intensivem Training.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Kreatin bindet Wasser in den Muskeln. Das Körpergewicht steigt deshalb oft etwas an.",
+        "Bei Nierenerkrankungen ist Kreatin nicht geeignet. Wer Medikamente nimmt oder unter 18 ist, sollte vorher mit einer Ärztin oder einem Arzt sprechen.",
+        "Achte auf geprüfte Produkte, denn Sportpräparate können mit verbotenen Stoffen verunreinigt sein."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Kreatin ist ein verbotenes Dopingmittel.",
+      "urteil": "mythos",
+      "erklaerung": "Kreatin steht nicht auf der Dopingliste. Es ist ein körpereigener Stoff, der auch in Lebensmitteln vorkommt. Problematisch können allerdings verunreinigte Präparate aus unsicheren Quellen sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird Kreatin im Körper vor allem gespeichert?",
+      "art": "mc",
+      "optionen": [
+        "In den Muskeln",
+        "In den Knochen",
+        "In der Haut",
+        "Im Gehirn allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der größte Teil liegt in der Muskulatur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welchen Belastungen kann Kreatin die Leistung steigern?",
+      "art": "mc",
+      "optionen": [
+        "Bei kurzen, intensiven Belastungen",
+        "Beim Marathon",
+        "Beim Schlafen",
+        "Beim Lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Nutzen zeigt sich bei kurzen, intensiven Belastungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kreatin steht auf der Dopingliste.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Kreatin ist im Sport erlaubt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kreatin ist ein körpereigener Stoff, der Energie für kurze Belastungen liefert.",
+        "Mit intensivem Training kann es die Leistung etwas steigern.",
+        "Für Ausdauersport bringt es kaum etwas."
+      ]
+    }
+  ]
+}

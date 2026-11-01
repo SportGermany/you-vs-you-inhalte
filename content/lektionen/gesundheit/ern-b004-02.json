@@ -1,0 +1,117 @@
+{
+  "id": "ern-b004-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was sind hochverarbeitete Lebensmittel?",
+  "minuten": 5,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hochverarbeitet",
+    "fertigprodukte",
+    "einkaufen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Packung eines Frühstücksriegels stehen 20 Zutaten. Viele davon hast du noch nie in einer Küche gesehen.",
+        "Fachleute sprechen von hochverarbeiteten Lebensmitteln. Was ist damit gemeint?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Einteilung nach Verarbeitung",
+      "absaetze": [
+        "Forschende aus Brasilien haben ein System entwickelt, das Lebensmittel nach dem Grad ihrer Verarbeitung ordnet. Es heißt NOVA.",
+        "Hochverarbeitete Lebensmittel werden industriell aus vielen Zutaten hergestellt. Typisch sind Zusatzstoffe wie Aromen, Farbstoffe oder Emulgatoren. Beispiele sind Softdrinks, viele Snacks, Fertiggerichte und süße Frühstücksflocken."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Beobachtungsstudien verbinden einen hohen Anteil hochverarbeiteter Lebensmittel mit Übergewicht, Typ-2-Diabetes und Herz-Kreislauf-Erkrankungen.",
+        "In einer kontrollierten Studie in den USA aßen Teilnehmende mit hochverarbeiteter Kost deutlich mehr und nahmen zu. Warum das so ist, wird noch erforscht. Diskutiert werden die hohe Energiedichte und das schnelle Essen."
+      ],
+      "merke": "Viel Hochverarbeitetes hängt mit mehr Krankheiten zusammen, die Gründe sind noch nicht ganz klar.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alles Verarbeitete ist schlecht",
+      "absaetze": [
+        "Auch Tiefkühlgemüse, Naturjoghurt oder Vollkornbrot sind verarbeitet. Sie zählen aber nicht zu den hochverarbeiteten Lebensmitteln.",
+        "Ein einfacher Hinweis ist die Zutatenliste. Je kürzer und verständlicher sie ist, desto näher ist das Produkt meist an frischen Lebensmitteln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das Einteilungssystem nach Verarbeitungsgrad?",
+      "art": "mc",
+      "optionen": [
+        "NOVA",
+        "BMI",
+        "IARC",
+        "DGE"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das NOVA-System wurde in Brasilien entwickelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was geschah in der kontrollierten US-Studie mit hochverarbeiteter Kost?",
+      "art": "mc",
+      "optionen": [
+        "Die Teilnehmenden aßen mehr und nahmen zu",
+        "Die Teilnehmenden nahmen ab",
+        "Nichts änderte sich",
+        "Die Teilnehmenden schliefen mehr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit hochverarbeiteter Kost aßen sie deutlich mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tiefkühlgemüse gilt als hochverarbeitetes Lebensmittel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist verarbeitet, aber nicht hochverarbeitet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hochverarbeitete Lebensmittel bestehen aus vielen industriellen Zutaten.",
+        "Ein hoher Anteil hängt mit mehr Krankheiten zusammen.",
+        "Eine kurze, verständliche Zutatenliste ist ein guter Hinweis."
+      ]
+    }
+  ]
+}

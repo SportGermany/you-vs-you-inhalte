@@ -1,0 +1,118 @@
+{
+  "id": "stoff-b004-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was bringt Intervallfasten?",
+  "minuten": 5,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "intervallfasten",
+    "fasten",
+    "essenspausen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Kollegin isst nur noch zwischen 12 und 20 Uhr. Seitdem fühlt sie sich besser, sagt sie.",
+        "Ist Intervallfasten eine Wundermethode oder einfach eine andere Art, weniger zu essen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dahintersteckt",
+      "absaetze": [
+        "Beim Intervallfasten wechseln Zeiten mit Essen und Zeiten ohne Essen. Bekannt ist die 16:8-Methode: 16 Stunden Pause, 8 Stunden Essenszeit.",
+        "Eine andere Form ist 5:2. Dabei isst man an fünf Tagen normal und an zwei Tagen pro Woche sehr wenig. Wichtig ist, was und wie viel in den Essenszeiten auf den Teller kommt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Studien zeigen, dass man mit Intervallfasten abnehmen kann. Im Vergleich mit einer gewöhnlichen, moderaten Verringerung der Energiezufuhr fällt der Gewichtsverlust aber meist ähnlich aus.",
+        "Ob Intervallfasten darüber hinaus besondere Vorteile für den Stoffwechsel hat, ist beim Menschen noch nicht klar belegt. Viele Ergebnisse stammen aus Tierversuchen."
+      ],
+      "merke": "Intervallfasten ist eine Methode unter mehreren, keine Zauberei.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen es passt",
+      "absaetze": [
+        "Manchen fällt es leichter, feste Essenspausen einzuhalten als Portionen zu verkleinern. Für sie kann Intervallfasten ein guter Weg sein.",
+        "Schwangere, Stillende, Kinder und Menschen mit Essstörungen sollten nicht fasten. Wer Medikamente gegen Diabetes nimmt, sollte vorher ärztlichen Rat einholen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet die 16:8-Methode?",
+      "art": "mc",
+      "optionen": [
+        "16 Stunden Pause, 8 Stunden Essenszeit",
+        "16 Mahlzeiten an 8 Tagen",
+        "8 Stunden Sport, 16 Stunden Ruhe",
+        "16 Tage fasten, 8 Tage essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gegessen wird in einem Zeitfenster von 8 Stunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Intervallfasten führt in Studien zu deutlich mehr Gewichtsverlust als eine moderate Verringerung der Energiezufuhr.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist fällt der Gewichtsverlust ähnlich aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte nicht fasten?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere und Menschen mit Essstörungen",
+        "Alle Erwachsenen",
+        "Nur Sportler",
+        "Menschen mit kurzen Haaren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für diese Gruppen ist Fasten nicht geeignet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Intervallfasten wechselt Essenszeiten und Pausen.",
+        "Es wirkt beim Abnehmen ähnlich wie andere moderate Methoden.",
+        "Nicht für alle geeignet, etwa nicht in der Schwangerschaft.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b004-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum sind Jugendliche abends so lange wach?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "jugendliche",
+    "pubertaet",
+    "chronotyp"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Um 23 Uhr ist deine Tochter hellwach. Um 6:30 Uhr bekommst du sie kaum aus dem Bett.",
+        "Faulheit? Meist steckt etwas anderes dahinter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die innere Uhr verschiebt sich",
+      "absaetze": [
+        "In der Pubertät verschiebt sich der Schlaf-Wach-Rhythmus nach hinten. Das Hormon Melatonin wird abends später ausgeschüttet als bei Kindern und Erwachsenen.",
+        "Jugendliche werden deshalb später müde und würden morgens natürlicherweise länger schlafen. Diese Verschiebung ist biologisch bedingt und verliert sich meist erst um das 20. Lebensjahr."
+      ],
+      "merke": "Spätes Müdewerden ist in der Pubertät normal.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Konflikt mit der Schule",
+      "absaetze": [
+        "Der Unterricht beginnt aber oft schon um acht Uhr. Viele Jugendliche schlafen unter der Woche deshalb deutlich zu wenig.",
+        "Studien verbinden Schlafmangel bei Jugendlichen mit schlechterer Konzentration, Stimmungsschwankungen und mehr Unfällen. An Schulen mit späterem Beginn schliefen Jugendliche in Untersuchungen länger."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Helles Tageslicht am Morgen und gedämpftes Licht am Abend unterstützen die innere Uhr. Bildschirme und spannende Inhalte kurz vor dem Schlafen halten zusätzlich wach.",
+        "Hilfreich sind möglichst gleichmäßige Zeiten, auch am Wochenende. Wer am Samstag bis mittags schläft, verschiebt seinen Rhythmus noch weiter."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verschiebt sich in der Pubertät?",
+      "art": "mc",
+      "optionen": [
+        "Der Schlaf-Wach-Rhythmus nach hinten",
+        "Die Körpertemperatur auf 40 Grad",
+        "Der Herzschlag auf null",
+        "Die Augenfarbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jugendliche werden später müde und wachen später auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das späte Müdewerden von Jugendlichen ist vor allem eine Frage der Erziehung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist biologisch bedingt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte sich an Schulen mit späterem Beginn?",
+      "art": "mc",
+      "optionen": [
+        "Jugendliche schliefen länger",
+        "Jugendliche schliefen kürzer",
+        "Kein Unterschied beim Schlaf",
+        "Mehr Unterricht am Abend"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Untersuchungen schliefen die Jugendlichen dort länger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In der Pubertät verschiebt sich die innere Uhr nach hinten.",
+        "Früher Schulbeginn führt oft zu Schlafmangel.",
+        "Morgenlicht und regelmäßige Zeiten helfen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b004-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist eine Schlafapnoe?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafapnoe",
+    "schnarchen",
+    "atmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Partnerin erzählt: Du schnarchst laut, dann ist es plötzlich still. Nach ein paar Sekunden schnappst du nach Luft.",
+        "Tagsüber bist du ständig müde, obwohl du lange im Bett liegst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Atemaussetzer im Schlaf",
+      "absaetze": [
+        "Bei der obstruktiven Schlafapnoe erschlafft im Schlaf die Muskulatur im Rachen. Die oberen Atemwege verengen sich oder fallen ganz zusammen.",
+        "Die Atmung setzt für Sekunden aus, oft viele Male pro Stunde. Jedes Mal schreckt das Gehirn kurz auf, meist ohne dass man es bemerkt. Der Schlaf wird dadurch zerstückelt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen und Risiken",
+      "absaetze": [
+        "Typische Zeichen sind lautes Schnarchen mit Pausen, starke Tagesmüdigkeit und Kopfschmerzen am Morgen. Häufiger betroffen sind Männer, ältere Menschen und Menschen mit Übergewicht.",
+        "Unbehandelt erhöht die Schlafapnoe das Risiko für Bluthochdruck, Herzrhythmusstörungen und Schlaganfälle. Durch Sekundenschlaf steigt zudem das Unfallrisiko."
+      ],
+      "merke": "Schnarchen mit Atempausen und Tagesmüdigkeit sollten ärztlich abgeklärt werden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut behandelbar",
+      "absaetze": [
+        "Die Diagnose stellt man meist mit einer Messung im Schlaflabor oder mit einem Gerät für zu Hause.",
+        "Häufig wird eine Atemmaske eingesetzt, die über leichten Überdruck die Atemwege offen hält. Auch Gewichtsabnahme, weniger Alkohol und spezielle Zahnschienen können helfen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Schnarchen ist immer harmlos.",
+      "urteil": "mythos",
+      "erklaerung": "Gelegentliches Schnarchen ist meist harmlos. Lautes Schnarchen mit Atemaussetzern und starker Tagesmüdigkeit kann aber auf eine Schlafapnoe hinweisen. Diese sollte untersucht werden, weil sie Herz und Kreislauf belastet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei der obstruktiven Schlafapnoe?",
+      "art": "mc",
+      "optionen": [
+        "Die Atemwege verengen sich im Schlaf",
+        "Das Herz bleibt stehen",
+        "Man schlafwandelt",
+        "Man träumt nicht mehr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die erschlaffte Rachenmuskulatur verengt die Atemwege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist häufiger betroffen?",
+      "art": "mc",
+      "optionen": [
+        "Männer und Menschen mit Übergewicht",
+        "Nur Kinder",
+        "Nur Sportler",
+        "Nur Frauen unter 20"
+      ],
+      "richtig": 0,
+      "erklaerung": "Männer, Ältere und Menschen mit Übergewicht sind häufiger betroffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine unbehandelte Schlafapnoe kann das Risiko für Bluthochdruck erhöhen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie belastet Herz und Kreislauf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Schlafapnoe setzt die Atmung im Schlaf immer wieder aus.",
+        "Warnzeichen sind lautes Schnarchen mit Pausen und Tagesmüdigkeit.",
+        "Sie ist gut behandelbar, etwa mit einer Atemmaske."
+      ]
+    }
+  ]
+}

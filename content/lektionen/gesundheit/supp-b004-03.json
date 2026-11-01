@@ -1,0 +1,137 @@
+{
+  "id": "supp-b004-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Schützen Multivitamintabletten vor Krankheiten?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Vitamin, Mineral, and Multivitamin Supplementation",
+      "herausgeber": "U.S. Preventive Services Task Force",
+      "url": "https://www.uspreventiveservicestaskforce.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "multivitamin",
+    "vitamine",
+    "vorbeugung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeden Morgen eine bunte Tablette mit allem drin. Das fühlt sich an wie eine Versicherung.",
+        "Aber schützt sie wirklich vor Herzinfarkt oder Krebs?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was große Studien zeigen",
+      "absaetze": [
+        "Multivitaminpräparate wurden in großen Studien mit Zehntausenden Menschen untersucht. Bei gesunden, gut ernährten Erwachsenen senkten sie das Risiko für Herz-Kreislauf-Erkrankungen und Krebs nicht nachweisbar.",
+        "Eine unabhängige US-Expertenkommission kam 2022 zu dem Schluss, dass die Belege für einen solchen Schutz nicht ausreichen."
+      ],
+      "merke": "Bei guter Ernährung bringen Multivitamine nach heutigem Wissen keinen Schutz.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn mehr schadet",
+      "absaetze": [
+        "Manche Vitamine können in hohen Mengen schaden. Fettlösliche Vitamine wie A und D reichern sich im Körper an.",
+        "Ein bekanntes Beispiel ist Beta-Carotin, eine Vorstufe von Vitamin A. In zwei großen Studien erhöhten hochdosierte Präparate bei Rauchern das Lungenkrebsrisiko. Das BfR empfiehlt deshalb Höchstmengen für Nahrungsergänzungsmittel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer etwas braucht",
+      "absaetze": [
+        "Bestimmte Gruppen haben einen besonderen Bedarf, etwa Schwangere, Menschen mit veganer Ernährung oder mit bestimmten Erkrankungen.",
+        "Für sie geht es meist um einzelne Nährstoffe, nicht um ein Rundum-Präparat. Was im Einzelfall sinnvoll ist, klärt man am besten ärztlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nimmst du mehrere Präparate gleichzeitig, können sich Mengen unbemerkt addieren.",
+        "Raucherinnen und Raucher sollten keine hochdosierten Beta-Carotin-Präparate verwenden. Bei Medikamenten oder Erkrankungen sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Vitamine kann man nicht überdosieren.",
+      "urteil": "mythos",
+      "erklaerung": "Wasserlösliche Vitamine werden zum Teil ausgeschieden, fettlösliche wie A und D aber gespeichert. Zu viel davon kann Leber, Knochen oder Nieren schaden. Auch bei Mineralstoffen gibt es Obergrenzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Senkten Multivitamine in großen Studien bei gesunden Erwachsenen das Krebsrisiko nachweisbar?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein solcher Schutz ließ sich nicht nachweisen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vitamine reichern sich im Körper an?",
+      "art": "mc",
+      "optionen": [
+        "Fettlösliche wie A und D",
+        "Nur Vitamin C",
+        "Alle B-Vitamine",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fettlösliche Vitamine werden gespeichert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erhöhten hochdosierte Beta-Carotin-Präparate bei Rauchern?",
+      "art": "mc",
+      "optionen": [
+        "Das Lungenkrebsrisiko",
+        "Die Sehkraft",
+        "Die Körpergröße",
+        "Die Lungenfunktion"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zwei große Studien zeigten ein erhöhtes Lungenkrebsrisiko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Multivitamine schützen gut ernährte Menschen nicht nachweisbar vor Krankheiten.",
+        "Fettlösliche Vitamine können sich anreichern und schaden.",
+        "Besondere Gruppen brauchen eher gezielt einzelne Nährstoffe."
+      ]
+    }
+  ]
+}

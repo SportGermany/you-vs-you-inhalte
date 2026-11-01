@@ -1,0 +1,117 @@
+{
+  "id": "ern-b004-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was sind Transfette?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "transfette",
+    "fette",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher steckten sie in vielen Keksen, Fertigsuppen und Frittierfetten. Heute liest du kaum noch von ihnen.",
+        "Transfette sind ein Beispiel dafür, wie Forschung und Gesetze Lebensmittel verändern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Transfette entstehen",
+      "absaetze": [
+        "Transfette sind eine besondere Form ungesättigter Fettsäuren. Sie entstehen vor allem, wenn flüssige Pflanzenöle industriell teilweise gehärtet werden. So wird das Fett fest und lange haltbar.",
+        "In kleinen Mengen kommen sie natürlich auch in Milch und Fleisch von Wiederkäuern vor. Beim starken Erhitzen von Öl können ebenfalls Transfette entstehen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum sie schaden",
+      "absaetze": [
+        "Transfette erhöhen das ungünstige LDL-Cholesterin und senken das günstige HDL-Cholesterin. Das fördert Ablagerungen in den Gefäßen.",
+        "Viele Studien verbinden eine hohe Aufnahme von Transfetten mit mehr Herz-Kreislauf-Erkrankungen. Die WHO setzt sich deshalb dafür ein, industrielle Transfette weltweit aus Lebensmitteln zu entfernen."
+      ],
+      "merke": "Industrielle Transfette gelten als besonders ungünstig für das Herz.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sich getan hat",
+      "absaetze": [
+        "Die EU hat den Gehalt an industriellen Transfetten in Lebensmitteln seit 2021 streng begrenzt. Auch andere Länder haben Grenzwerte oder Verbote eingeführt.",
+        "Steht auf einer Zutatenliste teilweise gehärtetes Fett, ist das ein Hinweis auf mögliche Transfette."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entstehen industrielle Transfette vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Beim teilweisen Härten von Pflanzenölen",
+        "Beim Kochen von Gemüse",
+        "Beim Gefrieren von Obst",
+        "Beim Trocknen von Nudeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die teilweise Härtung von Ölen erzeugt Transfette."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirken Transfette beim Cholesterin?",
+      "art": "mc",
+      "optionen": [
+        "LDL steigt, HDL sinkt",
+        "LDL sinkt, HDL steigt",
+        "Beide steigen stark",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie verschieben die Blutfette in eine ungünstige Richtung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die EU begrenzt industrielle Transfette in Lebensmitteln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Seit 2021 gilt ein strenger Grenzwert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Transfette entstehen vor allem beim teilweisen Härten von Ölen.",
+        "Sie verschlechtern die Blutfette und schaden dem Herz.",
+        "Die EU hat sie seit 2021 streng begrenzt."
+      ]
+    }
+  ]
+}

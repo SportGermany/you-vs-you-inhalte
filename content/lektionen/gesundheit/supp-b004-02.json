@@ -1,0 +1,116 @@
+{
+  "id": "supp-b004-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Ist Melatonin ein harmloses Schlafmittel?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "melatonin",
+    "schlaf",
+    "jetlag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Urlaub in den USA kauft eine Freundin Melatonin-Gummibärchen im Supermarkt. Sie sollen beim Einschlafen helfen.",
+        "In Deutschland steht Melatonin auch in Drogerien. Ist es deshalb harmlos?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hormon der Nacht",
+      "absaetze": [
+        "Melatonin ist ein Hormon, das der Körper bei Dunkelheit bildet. Es signalisiert der inneren Uhr, dass Nacht ist. Es ist kein Schlafmittel im klassischen Sinne, das müde macht.",
+        "In Deutschland gibt es Melatonin als verschreibungspflichtiges Arzneimittel und in geringeren Mengen als Nahrungsergänzungsmittel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was es kann und was nicht",
+      "absaetze": [
+        "Bei Jetlag kann Melatonin helfen, die innere Uhr schneller umzustellen. Bei gewöhnlichen Schlafproblemen ist der Effekt in Studien eher klein, das Einschlafen geht oft nur einige Minuten schneller.",
+        "Den Ursachen von Schlafproblemen begegnet es nicht. Dafür gibt es wirksamere Ansätze wie die Verhaltenstherapie für Schlaf."
+      ],
+      "merke": "Melatonin stellt die innere Uhr, es ersetzt keine Behandlung von Schlafstörungen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Das BfR rät bei melatoninhaltigen Nahrungsergänzungsmitteln zur Vorsicht. Mögliche Folgen sind Tagesmüdigkeit, Kopfschmerzen und eine eingeschränkte Fahrtüchtigkeit.",
+        "Melatonin kann mit Medikamenten wie Blutverdünnern oder Beruhigungsmitteln wechselwirken. Für Kinder, Schwangere und Stillende ist es ohne ärztlichen Rat nicht geeignet. Sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann bildet der Körper Melatonin?",
+      "art": "mc",
+      "optionen": [
+        "Bei Dunkelheit",
+        "Beim Essen",
+        "Bei Sport",
+        "Bei Sonnenlicht am Mittag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Melatonin wird bei Dunkelheit ausgeschüttet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei kann Melatonin nachweislich helfen?",
+      "art": "mc",
+      "optionen": [
+        "Bei Jetlag",
+        "Bei Knochenbrüchen",
+        "Bei Kurzsichtigkeit",
+        "Beim Muskelaufbau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kann helfen, die innere Uhr nach Zeitverschiebungen anzupassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei gewöhnlichen Schlafproblemen verkürzt Melatonin das Einschlafen in Studien meist deutlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Effekt ist eher klein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Melatonin ist das Hormon der Dunkelheit.",
+        "Bei Jetlag kann es helfen, bei gewöhnlichen Schlafproblemen wirkt es wenig.",
+        "Auch frei verkäufliches Melatonin ist nicht automatisch harmlos."
+      ]
+    }
+  ]
+}
