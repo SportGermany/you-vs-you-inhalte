@@ -1,0 +1,129 @@
+{
+  "id": "haus-b011-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie sparst du mit einem Essensplan?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Einkaufen, Wohnen, Verträge und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "essensplan",
+    "einkaufen",
+    "lebensmittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Montagabend, der Kühlschrank ist leer. Also wird Pizza bestellt. Am Donnerstag landet vergessenes Gemüse im Müll.",
+        "Ein einfacher Plan kann beides verhindern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Planen spart doppelt",
+      "absaetze": [
+        "Wer vorher überlegt, was es in der Woche zu essen gibt, kauft gezielter ein. Es landen weniger Spontankäufe im Wagen, und weniger Lebensmittel verderben.",
+        "Außerdem sinkt die Versuchung, teuer zu bestellen oder unterwegs zu essen, wenn zu Hause alles bereitliegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht hungrig einkaufen",
+      "absaetze": [
+        "Untersuchungen deuten darauf hin, dass Menschen hungrig mehr und energiereichere Lebensmittel kaufen. Mit vollem Magen fällt es leichter, sich an die Liste zu halten.",
+        "Auch Sonderangebote lohnen sich nur, wenn du die Ware wirklich brauchst und rechtzeitig verbrauchst."
+      ],
+      "merke": "Mit Liste und vollem Magen einkaufen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Clever kombinieren",
+      "absaetze": [
+        "Plane Gerichte, die ähnliche Zutaten nutzen. Bleibt ein halber Kohlkopf übrig, wird er am nächsten Tag zur Suppe.",
+        "Größere Mengen kochen und einfrieren spart Zeit und Geld. Ein fester Resteabend in der Woche hilft, Übriggebliebenes zu verwerten."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So startest du",
+      "schritte": [
+        {
+          "titel": "Bestand prüfen",
+          "text": "Schau vor dem Planen in Kühlschrank und Vorratsschrank."
+        },
+        {
+          "titel": "Fünf Gerichte",
+          "text": "Plane fünf Abendessen, zwei Tage bleiben flexibel."
+        },
+        {
+          "titel": "Liste schreiben",
+          "text": "Schreib nur auf, was für diese Gerichte fehlt."
+        },
+        {
+          "titel": "Reste einplanen",
+          "text": "Lege einen Resteabend fest."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein Essensplan verringern?",
+      "art": "mc",
+      "optionen": [
+        "Spontankäufe und Lebensmittelabfall",
+        "Die Zahl der Mahlzeiten",
+        "Den Geschmack",
+        "Den Nährwert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Planen hilft gegen Verschwendung und Spontankäufe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kaufen Menschen hungrig laut Untersuchungen ein?",
+      "art": "mc",
+      "optionen": [
+        "Mehr und energiereicher",
+        "Weniger und gesünder",
+        "Genau nach Liste",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hunger verleitet zu mehr und energiereicheren Käufen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein fester Resteabend hilft, Übriggebliebenes zu verwerten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So landet weniger im Müll."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Essensplan spart Geld und verringert Abfall.",
+        "Mit Liste und vollem Magen einkaufen.",
+        "Gerichte mit ähnlichen Zutaten und Resteabende helfen."
+      ]
+    }
+  ]
+}

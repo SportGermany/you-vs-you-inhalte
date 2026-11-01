@@ -1,0 +1,107 @@
+{
+  "id": "vers-b011-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Brauchst du eine Auslandsreisekrankenversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Einkaufen, Wohnen, Verträge und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "reise",
+    "krankenversicherung",
+    "ausland"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Urlaub in den USA brichst du dir beim Wandern das Bein. Krankenhaus, Operation, Rückflug.",
+        "Die Rechnung kann leicht fünfstellig werden. Wer zahlt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die gesetzliche Kasse zahlt",
+      "absaetze": [
+        "Die gesetzliche Krankenversicherung zahlt in der EU und einigen anderen Ländern über die Europäische Krankenversicherungskarte. Sie übernimmt aber nur Leistungen, die auch Einheimische bekommen, und Zuzahlungen können anfallen.",
+        "Außerhalb dieser Länder zahlt sie in der Regel gar nicht. Einen medizinisch nötigen Rücktransport nach Deutschland übernimmt sie grundsätzlich nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Günstiger Schutz",
+      "absaetze": [
+        "Eine private Auslandsreisekrankenversicherung schließt diese Lücken. Sie zahlt Behandlungen im Ausland und meist auch den Rücktransport, wenn er medizinisch sinnvoll ist.",
+        "Verbraucherschützer zählen sie zu den wichtigen Versicherungen für Reisende. Jahresverträge für Urlaubsreisen kosten oft nur wenige Euro im Jahr."
+      ],
+      "merke": "Die Auslandsreisekrankenversicherung kostet wenig und schützt vor hohen Kosten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Wichtig ist, dass ein medizinisch sinnvoller Rücktransport abgedeckt ist, nicht nur ein medizinisch notwendiger. Prüfe auch, wie lange eine einzelne Reise dauern darf.",
+        "Eine Reiserücktrittsversicherung ist etwas anderes. Sie zahlt, wenn du eine Reise aus wichtigem Grund nicht antreten kannst. Sie lohnt sich vor allem bei teuren Reisen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was übernimmt die gesetzliche Krankenversicherung grundsätzlich nicht?",
+      "art": "mc",
+      "optionen": [
+        "Den Rücktransport aus dem Ausland",
+        "Arztbesuche in Deutschland",
+        "Notfallbehandlungen in Deutschland",
+        "Impfungen nach Empfehlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Rücktransport ist grundsätzlich nicht abgedeckt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf solltest du beim Rücktransport achten?",
+      "art": "mc",
+      "optionen": [
+        "Dass ein medizinisch sinnvoller Rücktransport abgedeckt ist",
+        "Dass nur der Hinflug versichert ist",
+        "Dass der Transport per Schiff erfolgt",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Medizinisch sinnvoll ist großzügiger als medizinisch notwendig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Reiserücktrittsversicherung zahlt Arztkosten im Urlaub.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zahlt, wenn man die Reise nicht antreten kann."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die gesetzliche Kasse zahlt im Ausland nur eingeschränkt.",
+        "Eine Auslandsreisekrankenversicherung ist günstig und wichtig.",
+        "Achte auf den Rücktransport im Vertrag."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "all-b011-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Gibt es Wasser auf dem Mars?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moon and Mars Exploration",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mars",
+    "wasser",
+    "leben"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Mars ist heute eine kalte, staubige Wüste. Trotzdem sehen Forschende auf Fotos ausgetrocknete Flussbetten.",
+        "Was ist mit dem Wasser passiert?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eis, aber kein Meer",
+      "absaetze": [
+        "Auf dem Mars gibt es heute Wasser, aber fast nur als Eis. Die Polkappen bestehen teilweise aus Wassereis, und unter der Oberfläche liegen in vielen Regionen große Eisvorkommen.",
+        "Flüssiges Wasser kann an der Oberfläche kaum dauerhaft bestehen. Der Luftdruck ist so niedrig, dass es schnell verdampft oder gefriert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine nasse Vergangenheit",
+      "absaetze": [
+        "Täler, Deltas und Gesteine zeigen, dass vor Milliarden Jahren Flüsse und Seen auf dem Mars existierten. Damals war die Atmosphäre wohl dichter.",
+        "Der Rover Perseverance erforscht seit 2021 den Jezero-Krater, in dem einst ein See lag. Er sammelt Gesteinsproben, die später zur Erde gebracht werden sollen."
+      ],
+      "merke": "Der Mars hatte einst Flüsse und Seen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und das Leben?",
+      "absaetze": [
+        "Wo es Wasser gab, könnte es auch Leben gegeben haben, etwa einfache Mikroben. Bisher wurde aber kein eindeutiger Nachweis gefunden.",
+        "Die Suche nach Spuren früheren Lebens ist eines der wichtigsten Ziele der Marsforschung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Form gibt es heute vor allem Wasser auf dem Mars?",
+      "art": "mc",
+      "optionen": [
+        "Als Eis",
+        "Als Ozeane",
+        "Als Regen",
+        "Als Wasserdampf in Wolkenmeeren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser liegt vor allem als Eis vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Rover erforscht seit 2021 den Jezero-Krater?",
+      "art": "mc",
+      "optionen": [
+        "Perseverance",
+        "Sputnik",
+        "Voyager",
+        "Hubble"
+      ],
+      "richtig": 0,
+      "erklaerung": "Perseverance landete 2021 im Jezero-Krater."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf dem Mars wurde bereits eindeutig Leben nachgewiesen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein eindeutiger Nachweis fehlt bisher."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wasser gibt es auf dem Mars heute vor allem als Eis.",
+        "Früher gab es dort Flüsse und Seen.",
+        "Ob es Leben gab, ist noch offen."
+      ]
+    }
+  ]
+}

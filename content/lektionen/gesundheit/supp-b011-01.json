@@ -1,0 +1,116 @@
+{
+  "id": "supp-b011-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bringen Flohsamenschalen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "flohsamen",
+    "ballaststoffe",
+    "verdauung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Reformhaus steht ein Pulver aus Flohsamenschalen. Es soll die Verdauung regeln.",
+        "Hinter dem seltsamen Namen steckt ein Ballaststoff."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein quellender Ballaststoff",
+      "absaetze": [
+        "Flohsamen stammen von einer Wegerich-Art. Ihre Schalen enthalten viele lösliche Ballaststoffe, die in Wasser stark aufquellen und ein Gel bilden.",
+        "Das macht den Stuhl weicher und voluminöser. Flohsamenschalen werden deshalb bei Verstopfung eingesetzt und können auch bei manchen Formen von Durchfall helfen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Studien zeigen, dass Flohsamenschalen bei Verstopfung helfen können. Zudem deuten Studien darauf hin, dass sie das LDL-Cholesterin etwas senken können.",
+        "Sie ersetzen aber keine ballaststoffreiche Ernährung. Vollkorn, Gemüse, Obst und Hülsenfrüchte liefern neben Ballaststoffen viele weitere Nährstoffe."
+      ],
+      "merke": "Flohsamenschalen können die Verdauung unterstützen, ersetzen aber kein ballaststoffreiches Essen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Flohsamenschalen müssen mit reichlich Flüssigkeit eingenommen werden. Sonst können sie im Extremfall Speiseröhre oder Darm verstopfen.",
+        "Sie können die Aufnahme von Medikamenten verzögern. Halte zeitlichen Abstand zu Arzneimitteln und sprich bei Schluckbeschwerden, Darmverengungen oder Diabetes vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Flohsamenschalen in Wasser?",
+      "art": "mc",
+      "optionen": [
+        "Sie quellen stark auf",
+        "Sie lösen sich spurlos auf",
+        "Sie werden hart wie Stein",
+        "Sie verdampfen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie bilden ein Gel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei werden Flohsamenschalen häufig eingesetzt?",
+      "art": "mc",
+      "optionen": [
+        "Bei Verstopfung",
+        "Bei Kurzsichtigkeit",
+        "Bei Haarausfall",
+        "Bei Sonnenbrand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie machen den Stuhl weicher und voluminöser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Flohsamenschalen ersetzen eine ballaststoffreiche Ernährung vollständig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ganze Lebensmittel liefern viele weitere Nährstoffe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Flohsamenschalen sind ein stark quellender Ballaststoff.",
+        "Sie können bei Verstopfung helfen und das Cholesterin etwas senken.",
+        "Sie ersetzen keine ballaststoffreiche Ernährung."
+      ]
+    }
+  ]
+}

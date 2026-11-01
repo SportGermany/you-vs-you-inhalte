@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b011-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Bist du eine Lerche oder eine Eule?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "chronotyp",
+    "innere-uhr",
+    "sozialer-jetlag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Freundin springt um sechs Uhr gut gelaunt aus dem Bett. Du kommst vor neun kaum in Gang, bist dafür abends hellwach.",
+        "Keiner von euch ist faul. Ihr habt unterschiedliche Chronotypen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frühtypen und Spättypen",
+      "absaetze": [
+        "Der Chronotyp beschreibt, zu welcher Tageszeit jemand am liebsten schläft und am wachsten ist. Frühtypen nennt man Lerchen, Spättypen Eulen. Die meisten Menschen liegen irgendwo dazwischen.",
+        "Der Chronotyp ist zum Teil erblich. Er verändert sich auch mit dem Alter. Kinder sind oft früh, Jugendliche besonders spät, ältere Menschen wieder früher."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sozialer Jetlag",
+      "absaetze": [
+        "Schule und Arbeit beginnen meist früh. Spättypen müssen deshalb unter der Woche gegen ihre innere Uhr aufstehen und holen am Wochenende Schlaf nach.",
+        "Der Chronobiologe Till Roenneberg nennt diese Verschiebung sozialen Jetlag. Studien deuten darauf hin, dass er mit Müdigkeit, schlechterer Stimmung und ungünstigen Gewohnheiten zusammenhängen kann."
+      ],
+      "merke": "Wer gegen seinen Chronotyp lebt, hat oft dauerhaften Mini-Jetlag.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Den Chronotyp kann man nur begrenzt ändern. Licht hilft aber, die innere Uhr etwas zu verschieben. Spättypen profitieren von viel Tageslicht am Morgen und wenig hellem Licht am Abend.",
+        "Wo möglich, lohnt es sich, anspruchsvolle Aufgaben in die eigenen wachen Stunden zu legen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man Spättypen umgangssprachlich?",
+      "art": "mc",
+      "optionen": [
+        "Eulen",
+        "Lerchen",
+        "Spatzen",
+        "Tauben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spättypen heißen Eulen, Frühtypen Lerchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bezeichnet sozialer Jetlag?",
+      "art": "mc",
+      "optionen": [
+        "Den Unterschied zwischen innerer Uhr und sozialen Zeiten",
+        "Müdigkeit nach einem Flug",
+        "Ein Treffen mit Freunden spät abends",
+        "Einen kaputten Wecker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er entsteht, wenn Arbeits- und Schulzeiten nicht zur inneren Uhr passen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Chronotyp bleibt ein Leben lang gleich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er verändert sich mit dem Alter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Chronotyp beschreibt, ob du eher früh oder spät aktiv bist.",
+        "Er ist teils erblich und ändert sich mit dem Alter.",
+        "Morgenlicht hilft Spättypen, sozialen Jetlag zu verringern."
+      ]
+    }
+  ]
+}

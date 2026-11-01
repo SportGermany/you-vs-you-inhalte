@@ -1,0 +1,107 @@
+{
+  "id": "vers-b011-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie schützt du dich vor Abofallen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Einkaufen, Wohnen, Verträge und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "abofalle",
+    "handy",
+    "verbraucherschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf deiner Handyrechnung steht plötzlich ein Abo für 4,99 Euro pro Woche. Du hast nie etwas bestellt.",
+        "Vermutlich bist du in eine Abofalle getappt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Abofallen funktionieren",
+      "absaetze": [
+        "Abofallen locken mit scheinbar kostenlosen Angeboten, Gewinnspielen oder Tests. Die Kosten sind versteckt oder werden durch einen unbedachten Klick ausgelöst.",
+        "Auf dem Handy reicht manchmal ein Tippen auf ein Werbebanner. Die Kosten werden dann über die Handyrechnung von einem Drittanbieter abgerechnet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Gesetz sagt",
+      "absaetze": [
+        "Seit 2012 gilt in Deutschland die sogenannte Buttonlösung. Online-Bestellungen sind nur wirksam, wenn der Bestellknopf eindeutig beschriftet ist, etwa mit zahlungspflichtig bestellen.",
+        "Fehlt ein solcher Hinweis, ist kein wirksamer Vertrag entstanden. Du musst dann nicht zahlen. Verbraucherzentralen bieten Musterbriefe zum Widerspruch an."
+      ],
+      "merke": "Ohne eindeutigen Bestellknopf entsteht kein wirksamer Vertrag."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Lass beim Mobilfunkanbieter eine Drittanbietersperre einrichten. Dann können Fremdfirmen nicht mehr über deine Handyrechnung abrechnen. Die Sperre ist kostenlos.",
+        "Prüfe deine Rechnungen regelmäßig. Unberechtigte Posten kannst du beim Anbieter beanstanden und gegebenenfalls zurückbuchen lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie muss ein Bestellknopf online seit 2012 beschriftet sein?",
+      "art": "mc",
+      "optionen": [
+        "Eindeutig, etwa mit zahlungspflichtig bestellen",
+        "Mit weiter",
+        "Mit OK",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Buttonlösung verlangt einen eindeutigen Hinweis auf Kosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verhindert Abrechnungen von Fremdfirmen über die Handyrechnung?",
+      "art": "mc",
+      "optionen": [
+        "Eine Drittanbietersperre",
+        "Ein neuer Klingelton",
+        "Ein dunkler Bildschirm",
+        "Ein neues Passwort für WLAN"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Drittanbietersperre beim Mobilfunkanbieter hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fehlt der eindeutige Bestellknopf, ist kein wirksamer Vertrag entstanden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Du musst dann nicht zahlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Abofallen verstecken Kosten hinter scheinbar kostenlosen Angeboten.",
+        "Ohne eindeutigen Bestellknopf entsteht kein Vertrag.",
+        "Eine kostenlose Drittanbietersperre schützt die Handyrechnung."
+      ]
+    }
+  ]
+}

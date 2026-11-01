@@ -1,0 +1,107 @@
+{
+  "id": "koer-b011-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum gibt es verschiedene Blutgruppen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Blutgruppen und Blutspende",
+      "herausgeber": "DRK-Blutspendedienst",
+      "url": "https://www.drk-blutspende.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blutgruppen",
+    "blutspende",
+    "rhesus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Unfall braucht ein Mensch schnell Blut. Doch nicht jede Blutkonserve passt.",
+        "Der Grund liegt auf der Oberfläche der roten Blutkörperchen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Merkmale auf den Blutzellen",
+      "absaetze": [
+        "Rote Blutkörperchen tragen bestimmte Merkmale auf ihrer Oberfläche. Beim AB0-System gibt es die Merkmale A und B. Wer A hat, hat Blutgruppe A, wer beide hat AB, wer keines hat 0.",
+        "Entdeckt wurde das System 1901 vom österreichischen Arzt Karl Landsteiner. Dafür erhielt er später den Nobelpreis."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es auf die Gruppe ankommt",
+      "absaetze": [
+        "Das Immunsystem bildet Antikörper gegen fremde Blutgruppenmerkmale. Bekommt jemand Blut mit einem Merkmal, das er selbst nicht hat, können die Blutkörperchen verklumpen. Das kann lebensgefährlich sein.",
+        "Dazu kommt der Rhesusfaktor. Wer ihn hat, ist Rhesus-positiv, wer nicht, Rhesus-negativ."
+      ],
+      "merke": "Falsches Blut kann eine gefährliche Abwehrreaktion auslösen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spender und Empfänger",
+      "absaetze": [
+        "Blut der Gruppe 0 negativ trägt keine dieser Merkmale. Es kann im Notfall vielen Menschen gegeben werden. Menschen mit AB positiv können dagegen rote Blutkörperchen aller Gruppen erhalten.",
+        "In Deutschland sind die Gruppen A und 0 am häufigsten. Blutspenden werden ständig gebraucht, weil Blut nur begrenzt haltbar ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entdeckte das AB0-Blutgruppensystem?",
+      "art": "mc",
+      "optionen": [
+        "Karl Landsteiner",
+        "Robert Koch",
+        "Louis Pasteur",
+        "Alexander Fleming"
+      ],
+      "richtig": 0,
+      "erklaerung": "Karl Landsteiner entdeckte es 1901."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Blutgruppe kann im Notfall vielen Menschen gegeben werden?",
+      "art": "mc",
+      "optionen": [
+        "0 negativ",
+        "AB positiv",
+        "A positiv",
+        "B negativ"
+      ],
+      "richtig": 0,
+      "erklaerung": "0 negativ trägt keine der wichtigen Merkmale."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Blutgruppe AB hat weder Merkmal A noch Merkmal B.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. AB hat beide Merkmale, 0 hat keines."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Blutgruppen unterscheiden sich durch Merkmale auf roten Blutkörperchen.",
+        "Unpassendes Blut kann eine gefährliche Reaktion auslösen.",
+        "0 negativ ist im Notfall vielseitig einsetzbar."
+      ]
+    }
+  ]
+}

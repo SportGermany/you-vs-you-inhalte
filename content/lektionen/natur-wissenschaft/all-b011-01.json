@@ -1,0 +1,119 @@
+{
+  "id": "all-b011-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie gelangten Menschen auf den Mond?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moon and Mars Exploration",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mondlandung",
+    "apollo",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "20. Juli 1969. Hunderte Millionen Menschen sitzen vor schwarz-weißen Fernsehern.",
+        "Neil Armstrong setzt als erster Mensch einen Fuß auf den Mond."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Wettlauf im Kalten Krieg",
+      "absaetze": [
+        "Die Sowjetunion schickte 1957 den ersten Satelliten Sputnik und 1961 mit Juri Gagarin den ersten Menschen ins All. Die USA fühlten sich herausgefordert.",
+        "Präsident John F. Kennedy kündigte 1961 an, noch vor Ende des Jahrzehnts einen Menschen auf den Mond und sicher zurück zu bringen. Dafür entstand das Apollo-Programm."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Apollo 11",
+      "absaetze": [
+        "Eine riesige Saturn-V-Rakete brachte Neil Armstrong, Buzz Aldrin und Michael Collins zum Mond. Collins blieb in der Kapsel im Mondorbit, während die beiden anderen mit der Landefähre aufsetzten.",
+        "Sie sammelten Gestein, stellten Messgeräte auf und kehrten sicher zur Erde zurück. Bis 1972 betraten insgesamt zwölf Menschen den Mond, alle aus den USA."
+      ],
+      "merke": "Zwölf Menschen haben bisher den Mond betreten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zurück zum Mond",
+      "absaetze": [
+        "Seit 1972 war kein Mensch mehr auf dem Mond. Mit dem Artemis-Programm will die NASA gemeinsam mit Partnern wie der ESA wieder Menschen dorthin bringen.",
+        "Ziel ist diesmal eine dauerhaftere Präsenz, auch als Vorbereitung für Reisen zum Mars."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Die Mondlandung wurde im Studio gefälscht.",
+      "urteil": "mythos",
+      "erklaerung": "Die Landungen sind vielfach belegt, etwa durch Hunderte Kilogramm Mondgestein, Reflektoren auf dem Mond, die bis heute für Lasermessungen genutzt werden, und Aufnahmen späterer Raumsonden von den Landestellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer betrat als erster Mensch den Mond?",
+      "art": "mc",
+      "optionen": [
+        "Neil Armstrong",
+        "Juri Gagarin",
+        "Buzz Aldrin",
+        "Michael Collins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Neil Armstrong war der erste Mensch auf dem Mond."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Menschen haben bisher den Mond betreten?",
+      "art": "mc",
+      "optionen": [
+        "Zwölf",
+        "Zwei",
+        "Hundert",
+        "Keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zwischen 1969 und 1972 waren es zwölf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Michael Collins betrat 1969 ebenfalls den Mond.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er blieb in der Kapsel im Mondorbit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Wettlauf ins All war Teil des Kalten Krieges.",
+        "Apollo 11 landete am 20. Juli 1969 auf dem Mond.",
+        "Mit Artemis sollen wieder Menschen zum Mond fliegen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ern-b011-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie viel Zucker ist zu viel?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zucker",
+    "softdrinks",
+    "zaehne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein halber Liter Limo zum Mittag, ein Schokoriegel am Nachmittag. Das klingt nicht nach viel.",
+        "Zusammen liegt das schon über der Menge, die Fachleute für einen ganzen Tag empfehlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die WHO empfiehlt",
+      "absaetze": [
+        "Die WHO empfiehlt, dass freier Zucker weniger als zehn Prozent der täglichen Energie ausmacht. Noch besser seien weniger als fünf Prozent.",
+        "Für einen Erwachsenen mit durchschnittlichem Energiebedarf entsprechen zehn Prozent etwa 50 Gramm Zucker am Tag. Freier Zucker ist zugesetzter Zucker sowie Zucker in Honig, Sirup und Säften."
+      ],
+      "merke": "Weniger als zehn Prozent der Energie aus freiem Zucker, besser unter fünf.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum zu viel schadet",
+      "absaetze": [
+        "Zucker liefert viel Energie, aber kaum Nährstoffe. Zuckerhaltige Getränke machen kaum satt und begünstigen Übergewicht und Typ-2-Diabetes.",
+        "Zucker ist außerdem die Hauptnahrung für Bakterien, die Karies verursachen. Je häufiger man über den Tag Süßes isst, desto mehr leiden die Zähne."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Versteckter Zucker",
+      "absaetze": [
+        "Viel Zucker steckt in Produkten, die gar nicht süß wirken, etwa in Ketchup, Fertigsoßen oder Brot. Auf der Zutatenliste versteckt er sich hinter Namen wie Glukosesirup, Dextrose oder Maltodextrin.",
+        "Die Nährwerttabelle verrät unter Zucker, wie viel insgesamt enthalten ist. Getränke sind oft die größte Quelle."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Anteil an der Energie sollte freier Zucker laut WHO höchstens ausmachen?",
+      "art": "mc",
+      "optionen": [
+        "Weniger als zehn Prozent",
+        "Mindestens 30 Prozent",
+        "Genau die Hälfte",
+        "Es gibt keine Empfehlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die WHO empfiehlt weniger als zehn Prozent, besser unter fünf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zutat ist ein versteckter Name für Zucker?",
+      "art": "mc",
+      "optionen": [
+        "Glukosesirup",
+        "Kochsalz",
+        "Hefe",
+        "Pfeffer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Glukosesirup, Dextrose und Maltodextrin sind Zuckerarten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zuckerhaltige Getränke machen gut satt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie liefern viel Energie, machen aber kaum satt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die WHO empfiehlt weniger als zehn Prozent der Energie aus freiem Zucker.",
+        "Zu viel Zucker fördert Übergewicht und Karies.",
+        "Zucker versteckt sich oft unter anderen Namen."
+      ]
+    }
+  ]
+}

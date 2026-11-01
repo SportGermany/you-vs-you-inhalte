@@ -1,0 +1,113 @@
+{
+  "id": "haus-b011-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was tun bei Schimmel in der Wohnung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Schimmel in Innenräumen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Einkaufen, Wohnen, Verträge und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schimmel",
+    "lueften",
+    "mietwohnung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hinter dem Schrank im Schlafzimmer entdeckst du dunkle Flecken an der Wand. Es riecht muffig.",
+        "Schimmel ist unangenehm und kann die Gesundheit belasten. Was jetzt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feuchtigkeit ist die Ursache",
+      "absaetze": [
+        "Schimmel wächst dort, wo es dauerhaft feucht ist. Feuchtigkeit entsteht beim Kochen, Duschen, Wäschetrocknen und sogar beim Atmen.",
+        "Schlägt sie sich an kalten Stellen nieder, etwa an Außenwänden, Fensterlaibungen oder hinter Möbeln, bildet sich Schimmel. Auch Baumängel wie undichte Dächer oder Wärmebrücken können die Ursache sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Das Umweltbundesamt empfiehlt eine relative Luftfeuchtigkeit von meist unter 60 Prozent. Ein günstiges Hygrometer zeigt sie an.",
+        "Mehrmals täglich stoßlüften, Räume ausreichend heizen und Möbel mit etwas Abstand zur Außenwand stellen beugt vor. Nach dem Duschen oder Kochen sofort lüften."
+      ],
+      "merke": "Lüften, heizen und Abstand zur Wand beugen Schimmel vor."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn er schon da ist",
+      "absaetze": [
+        "Kleine, oberflächliche Flecken kann man oft selbst entfernen, etwa mit 70-prozentigem Alkohol. Dabei Handschuhe und Maske tragen und gut lüften. Größere Flächen gehören in Fachhände.",
+        "In Mietwohnungen solltest du Schimmel dem Vermieter schnell schriftlich melden. Ist ein Baumangel die Ursache, ist er für die Beseitigung zuständig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Hauptursache von Schimmel?",
+      "art": "mc",
+      "optionen": [
+        "Dauerhafte Feuchtigkeit",
+        "Zu viel Licht",
+        "Zu viele Pflanzen",
+        "Laute Musik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schimmel wächst, wo es dauerhaft feucht ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch sollte die relative Luftfeuchtigkeit laut Umweltbundesamt meist höchstens sein?",
+      "art": "mc",
+      "optionen": [
+        "Unter 60 Prozent",
+        "Über 90 Prozent",
+        "Genau 100 Prozent",
+        "Unter 5 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist unter 60 Prozent wird empfohlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schimmel in der Mietwohnung sollte man dem Vermieter schnell melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Am besten schriftlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schimmel entsteht durch dauerhafte Feuchtigkeit.",
+        "Lüften, heizen und Abstand zur Wand beugen vor.",
+        "Kleine Flecken selbst entfernen, größere vom Fachbetrieb, Vermieter informieren."
+      ]
+    }
+  ]
+}
