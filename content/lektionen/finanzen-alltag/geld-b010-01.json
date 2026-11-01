@@ -1,0 +1,113 @@
+{
+  "id": "geld-b010-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was bringt ein Sparplan?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sparplan",
+    "durchschnittskosten",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeden Monat gehen automatisch 50 Euro in einen Fonds. Du musst dich um nichts kümmern.",
+        "Ist das klüger, als auf den richtigen Moment zu warten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig und automatisch",
+      "absaetze": [
+        "Bei einem Sparplan zahlst du regelmäßig einen festen Betrag ein, etwa monatlich. Dafür werden automatisch Anteile an einem Fonds oder ETF gekauft.",
+        "Viele Banken bieten Sparpläne schon ab kleinen Beträgen an. Du kannst den Betrag meist jederzeit ändern oder aussetzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Durchschnittskosteneffekt",
+      "absaetze": [
+        "Weil du immer den gleichen Betrag investierst, kaufst du bei niedrigen Kursen mehr Anteile und bei hohen weniger. Man spricht vom Durchschnittskosteneffekt.",
+        "Er ist kein Zaubertrick und sichert keinen Gewinn zu. Aber er nimmt dir die schwierige Entscheidung ab, wann der richtige Zeitpunkt zum Einstieg ist. Diesen Zeitpunkt kann ohnehin niemand verlässlich vorhersagen."
+      ],
+      "merke": "Ein Sparplan nimmt dir die Suche nach dem richtigen Zeitpunkt ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die größte Stärke: Disziplin",
+      "absaetze": [
+        "Der wichtigste Vorteil ist oft psychologisch. Das Geld wird gespart, bevor du es ausgeben kannst.",
+        "Achte auf niedrige Kosten pro Ausführung und auf eine breite Streuung. Ein Sparplan in Aktien eignet sich für Geld, das du viele Jahre nicht brauchst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Durchschnittskosteneffekt?",
+      "art": "mc",
+      "optionen": [
+        "Bei niedrigen Kursen werden mehr Anteile gekauft",
+        "Es werden immer gleich viele Anteile gekauft",
+        "Der Gewinn ist sicher",
+        "Es fallen keine Kosten an"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit festem Betrag kaufst du bei niedrigen Kursen mehr Anteile."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein großer Vorteil eines Sparplans?",
+      "art": "mc",
+      "optionen": [
+        "Regelmäßiges, automatisches Sparen",
+        "Garantierte hohe Zinsen",
+        "Keine Schwankungen",
+        "Staatliche Absicherung gegen Verluste"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Geld wird automatisch gespart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit einem Sparplan ist ein Gewinn sicher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch bei einem Sparplan sind Verluste möglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Sparplan investiert regelmäßig einen festen Betrag.",
+        "Der Durchschnittskosteneffekt nimmt dir das Timing ab, sichert aber nichts zu.",
+        "Der größte Vorteil ist die automatische Disziplin."
+      ]
+    }
+  ]
+}

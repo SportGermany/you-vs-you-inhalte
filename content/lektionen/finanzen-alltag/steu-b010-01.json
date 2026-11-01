@@ -1,0 +1,113 @@
+{
+  "id": "steu-b010-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie werden Zinsen und Dividenden besteuert?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "abgeltungsteuer",
+    "sparerpauschbetrag",
+    "freistellungsauftrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf deinem Tagesgeldkonto gibt es endlich wieder Zinsen. Bei der Abrechnung fehlt plötzlich ein Teil.",
+        "Wie werden Kapitalerträge besteuert, und wie viel bleibt steuerfrei?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Sparerpauschbetrag",
+      "absaetze": [
+        "Kapitalerträge sind zum Beispiel Zinsen, Dividenden und Kursgewinne. Bis zu 1.000 Euro im Jahr bleiben für eine Person steuerfrei, für zusammen veranlagte Paare 2.000 Euro.",
+        "Das ist der Sparerpauschbetrag. Damit die Bank ihn berücksichtigt, brauchst du einen Freistellungsauftrag. Du kannst ihn auf mehrere Banken aufteilen."
+      ],
+      "merke": "Ohne Freistellungsauftrag zieht die Bank sofort Steuern ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Abgeltungsteuer",
+      "absaetze": [
+        "Erträge über dem Pauschbetrag werden mit 25 Prozent Abgeltungsteuer besteuert. Dazu können Solidaritätszuschlag und Kirchensteuer kommen.",
+        "Die Bank führt die Steuer direkt ans Finanzamt ab. Damit ist sie in der Regel abgegolten, daher der Name."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann sich die Steuererklärung trotzdem lohnt",
+      "absaetze": [
+        "Liegt dein persönlicher Steuersatz unter 25 Prozent, kannst du über die Steuererklärung eine Günstigerprüfung beantragen. Dann wird mit deinem niedrigeren Satz gerechnet.",
+        "Auch wenn du den Freistellungsauftrag vergessen hast, kannst du zu viel gezahlte Steuer über die Steuererklärung zurückholen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Kapitalertrag bleibt für eine Person pro Jahr steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "1.000 Euro",
+        "100 Euro",
+        "10.000 Euro",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Sparerpauschbetrag beträgt 1.000 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Abgeltungsteuer?",
+      "art": "mc",
+      "optionen": [
+        "25 Prozent",
+        "5 Prozent",
+        "42 Prozent",
+        "19 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen gegebenenfalls Soli und Kirchensteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohne Freistellungsauftrag berücksichtigt die Bank den Pauschbetrag automatisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ohne Auftrag zieht sie direkt Steuern ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bis 1.000 Euro Kapitalerträge pro Person bleiben steuerfrei.",
+        "Darüber gilt die Abgeltungsteuer von 25 Prozent.",
+        "Ein Freistellungsauftrag verhindert unnötige Abzüge."
+      ]
+    }
+  ]
+}

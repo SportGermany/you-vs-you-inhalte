@@ -1,0 +1,112 @@
+{
+  "id": "stoff-b010-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Kann die Schilddrüse schuld am Gewicht sein?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Schilddrüse",
+      "herausgeber": "Deutsche Gesellschaft für Endokrinologie",
+      "url": "https://www.endokrinologie.net",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schilddruese",
+    "unterfunktion",
+    "stoffwechsel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du nimmst zu, obwohl du kaum etwas änderst. Eine Freundin sagt: Lass mal deine Schilddrüse untersuchen.",
+        "Steckt wirklich ein kleines Organ am Hals dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gaspedal des Stoffwechsels",
+      "absaetze": [
+        "Die Schilddrüse sitzt vorn am Hals unterhalb des Kehlkopfs. Ihre Hormone beeinflussen, wie schnell viele Abläufe im Körper ablaufen, auch den Energieverbrauch.",
+        "Bei einer Unterfunktion bildet sie zu wenig Hormone. Typische Anzeichen sind Müdigkeit, Frieren, Verstopfung und trockene Haut. Eine häufige Ursache ist eine Autoimmunerkrankung namens Hashimoto-Thyreoiditis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel sie am Gewicht ändert",
+      "absaetze": [
+        "Eine Unterfunktion kann zu einer gewissen Gewichtszunahme führen. Ein Teil davon ist eingelagertes Wasser.",
+        "Meist ist der Effekt aber kleiner, als viele vermuten. Eine deutliche Gewichtszunahme lässt sich selten allein durch die Schilddrüse erklären. Nach einer passenden Behandlung normalisiert sich der Stoffwechsel wieder."
+      ],
+      "merke": "Die Schilddrüse erklärt eine starke Gewichtszunahme nur selten allein.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klarheit durch einen Bluttest",
+      "absaetze": [
+        "Ob die Schilddrüse richtig arbeitet, zeigt eine Blutuntersuchung. Dabei wird meist zuerst das Steuerhormon TSH gemessen.",
+        "Schilddrüsenhormone nimmt man nur nach Diagnose und ärztlicher Verordnung. Zum Abnehmen sind sie ungeeignet und können gefährlich sein, etwa für das Herz."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt die Schilddrüse?",
+      "art": "mc",
+      "optionen": [
+        "Vorn am Hals",
+        "Im Bauch neben dem Magen",
+        "Im Kopf hinter den Augen",
+        "Im Rücken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie liegt vorn am Hals unterhalb des Kehlkopfs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Wert wird meist zuerst gemessen?",
+      "art": "mc",
+      "optionen": [
+        "TSH",
+        "Blutzucker",
+        "Cholesterin",
+        "Vitamin C"
+      ],
+      "richtig": 0,
+      "erklaerung": "TSH ist das Steuerhormon der Schilddrüse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schilddrüsenhormone sind ein sicheres Mittel zum Abnehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ohne Diagnose können sie gefährlich sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Schilddrüse steuert die Geschwindigkeit des Stoffwechsels.",
+        "Eine Unterfunktion erklärt eine starke Zunahme meist nicht allein.",
+        "Klarheit bringt ein Bluttest, behandelt wird nur nach Diagnose.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

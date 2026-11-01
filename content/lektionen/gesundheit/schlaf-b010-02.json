@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b010-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Welche Temperatur hilft beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "temperatur",
+    "schlafzimmer",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In einer heißen Sommernacht wälzt du dich hin und her. Im Winter schläfst du dagegen wie ein Stein.",
+        "Die Temperatur hat großen Einfluss auf deinen Schlaf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper kühlt ab",
+      "absaetze": [
+        "Am Abend sinkt die Körperkerntemperatur, gesteuert von der inneren Uhr. Diese Abkühlung ist ein Signal für den Schlaf.",
+        "Dafür gibt der Körper Wärme über Hände und Füße ab. Ist es im Raum zu warm, gelingt das schlechter. Man schläft unruhiger und wacht häufiger auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühl, aber nicht kalt",
+      "absaetze": [
+        "Viele Fachleute empfehlen ein eher kühles Schlafzimmer, oft werden etwa 16 bis 18 Grad genannt. Das Empfinden ist allerdings individuell.",
+        "Wichtig ist, dass du unter der Decke nicht frierst. Kalte Füße können das Einschlafen erschweren, warme Socken helfen manchen."
+      ],
+      "merke": "Ein kühles Zimmer und eine warme Decke sind eine gute Kombination.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Trick mit dem warmen Bad",
+      "absaetze": [
+        "Ein warmes Bad oder eine warme Dusche ein bis zwei Stunden vor dem Schlafengehen kann das Einschlafen erleichtern. Das zeigt eine Auswertung mehrerer Studien.",
+        "Die Wärme weitet die Blutgefäße in der Haut. Danach gibt der Körper schneller Wärme ab und kühlt im Inneren ab."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert abends mit der Körperkerntemperatur?",
+      "art": "mc",
+      "optionen": [
+        "Sie sinkt",
+        "Sie steigt stark",
+        "Sie bleibt immer gleich",
+        "Sie schwankt zufällig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die sinkende Temperatur ist ein Signal für den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Raumtemperatur nennen viele Fachleute für das Schlafzimmer?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 16 bis 18 Grad",
+        "Etwa 25 bis 28 Grad",
+        "Etwa 5 Grad",
+        "Etwa 30 Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein eher kühles Zimmer wird oft empfohlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein warmes Bad ein bis zwei Stunden vor dem Schlafen kann beim Einschlafen helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Danach kühlt der Körper schneller ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zum Einschlafen kühlt der Körper im Inneren ab.",
+        "Ein kühles Schlafzimmer unterstützt das.",
+        "Ein warmes Bad einige Zeit vor dem Schlafen kann helfen."
+      ]
+    }
+  ]
+}

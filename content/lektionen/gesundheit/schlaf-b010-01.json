@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b010-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist das Restless-Legs-Syndrom?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Leitlinien und Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Neurologie",
+      "url": "https://dgn.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "restless-legs",
+    "beine",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Abends auf dem Sofa kribbelt es in deinen Beinen. Du musst sie bewegen, sonst wird es unerträglich.",
+        "Im Bett geht es weiter, an Schlaf ist kaum zu denken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unruhige Beine",
+      "absaetze": [
+        "Das Restless-Legs-Syndrom heißt auf Deutsch Syndrom der unruhigen Beine. Betroffene spüren einen starken Drang, die Beine zu bewegen, oft mit Kribbeln, Ziehen oder Spannungsgefühl.",
+        "Die Beschwerden treten vor allem in Ruhe und am Abend oder in der Nacht auf. Bewegung lindert sie kurzfristig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufig und oft unerkannt",
+      "absaetze": [
+        "Das Syndrom gehört zu den häufigen neurologischen Erkrankungen. Viele Betroffene leiden jahrelang, bevor sie eine Diagnose bekommen.",
+        "Es kann erblich sein. Es kann auch im Zusammenhang mit Eisenmangel, Nierenerkrankungen oder einer Schwangerschaft auftreten. Manche Medikamente können die Beschwerden verstärken."
+      ],
+      "merke": "Eisenmangel kann hinter unruhigen Beinen stecken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut behandelbar",
+      "absaetze": [
+        "Bei Verdacht lohnt sich ein Arztbesuch. Oft wird zuerst der Eisenspeicher im Blut untersucht.",
+        "Je nach Ursache und Schwere gibt es wirksame Behandlungen. Auch Alkohol, Nikotin und Koffein am Abend zu meiden und sich tagsüber moderat zu bewegen, kann helfen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann treten die Beschwerden beim Restless-Legs-Syndrom vor allem auf?",
+      "art": "mc",
+      "optionen": [
+        "In Ruhe am Abend und in der Nacht",
+        "Beim Joggen am Morgen",
+        "Nur im Sommer",
+        "Nur beim Essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Beschwerden kommen vor allem in Ruhe am Abend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Mangel kann mit unruhigen Beinen zusammenhängen?",
+      "art": "mc",
+      "optionen": [
+        "Eisenmangel",
+        "Vitamin-C-Überschuss",
+        "Zu viel Kalzium",
+        "Zu viel Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Eisenmangel kann die Beschwerden auslösen oder verstärken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bewegung lindert die Beschwerden kurzfristig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb haben Betroffene den Drang, sich zu bewegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Restless-Legs-Syndrom drängt es die Beine in Ruhe zur Bewegung.",
+        "Es ist häufig und kann mit Eisenmangel zusammenhängen.",
+        "Es ist gut behandelbar, ein Arztbesuch lohnt sich."
+      ]
+    }
+  ]
+}

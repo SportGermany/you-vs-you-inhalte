@@ -1,0 +1,113 @@
+{
+  "id": "steu-b010-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wer muss eine Steuererklärung abgeben?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuererklaerung",
+    "pflicht",
+    "frist"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du bist angestellt, die Lohnsteuer wird automatisch abgezogen. Musst du trotzdem eine Steuererklärung machen?",
+        "Für viele ist sie freiwillig, für manche aber Pflicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann es Pflicht ist",
+      "absaetze": [
+        "Arbeitnehmer müssen in bestimmten Fällen eine Steuererklärung abgeben. Dazu gehört etwa die Steuerklassenkombination III und V oder ein zweites Arbeitsverhältnis mit Steuerklasse VI.",
+        "Pflicht ist sie auch, wenn du Lohnersatzleistungen wie Elterngeld, Kurzarbeitergeld oder Arbeitslosengeld von mehr als 410 Euro im Jahr bekommen hast. Gleiches gilt für Nebeneinkünfte über 410 Euro, etwa aus Vermietung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Frist",
+      "absaetze": [
+        "Wer zur Abgabe verpflichtet ist, hat dafür grundsätzlich bis zum 31. Juli des Folgejahres Zeit. Mit Steuerberatung oder Lohnsteuerhilfeverein verlängert sich die Frist deutlich.",
+        "Wer zu spät abgibt, muss mit einem Verspätungszuschlag rechnen. Eine Fristverlängerung kann man beim Finanzamt beantragen."
+      ],
+      "merke": "Pflichtabgabe grundsätzlich bis 31. Juli des Folgejahres."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Freiwillig lohnt es sich oft",
+      "absaetze": [
+        "Wer nicht verpflichtet ist, kann die Steuererklärung freiwillig abgeben. Dafür hat man vier Jahre Zeit.",
+        "Für viele Angestellte lohnt sich das, weil sie Geld zurückbekommen, etwa für Arbeitswege, Arbeitsmittel oder Handwerkerkosten. Das kostenlose Online-Portal der Steuerverwaltung heißt ELSTER."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Steuerklassenkombination ist die Steuererklärung Pflicht?",
+      "art": "mc",
+      "optionen": [
+        "III und V",
+        "I allein",
+        "IV und IV ohne Faktor in jedem Fall",
+        "Es gibt keine solche Pflicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei III/V ist die Abgabe in der Regel Pflicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis wann müssen Pflichtige ohne Steuerberatung grundsätzlich abgeben?",
+      "art": "mc",
+      "optionen": [
+        "31. Juli des Folgejahres",
+        "31. Dezember desselben Jahres",
+        "1. April des Folgejahres",
+        "Es gibt keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Grundfrist ist der 31. Juli des Folgejahres."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für eine freiwillige Steuererklärung hat man vier Jahre Zeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So kann man auch ältere Jahre nachholen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflicht ist die Erklärung etwa bei III/V, Steuerklasse VI oder Lohnersatzleistungen über 410 Euro.",
+        "Die Grundfrist ist der 31. Juli des Folgejahres.",
+        "Freiwillig hat man vier Jahre Zeit, oft lohnt es sich."
+      ]
+    }
+  ]
+}

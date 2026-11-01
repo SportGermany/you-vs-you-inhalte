@@ -1,0 +1,117 @@
+{
+  "id": "ern-b010-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Milch und Milchprodukte?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "milch",
+    "kalzium",
+    "laktose"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Für die einen ist Milch ein Grundnahrungsmittel. Für die anderen ist sie nur etwas für Kälber.",
+        "Was sagt die Forschung zu Milch, Joghurt und Käse?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Milch liefert",
+      "absaetze": [
+        "Milch und Milchprodukte liefern Eiweiß, Kalzium, Jod und Vitamin B2. Kalzium ist wichtig für Knochen und Zähne.",
+        "Die DGE empfiehlt, täglich Milch und Milchprodukte zu essen, etwa ein Glas Milch, einen Joghurt oder eine Scheibe Käse. Für Kalzium gibt es auch pflanzliche Quellen wie grünes Gemüse und kalziumreiches Mineralwasser."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Große Beobachtungsstudien finden für Milchprodukte insgesamt meist keine schädlichen Effekte. Für Joghurt und andere fermentierte Produkte deuten Studien sogar auf ein etwas geringeres Risiko für Typ-2-Diabetes hin.",
+        "Beim Käse ist der hohe Salz- und Fettgehalt zu beachten. Die Studienlage ist insgesamt nicht ganz einheitlich."
+      ],
+      "merke": "Milchprodukte passen in eine ausgewogene Ernährung, nötig sind sie nicht zwingend.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Laktoseintoleranz",
+      "absaetze": [
+        "Viele Erwachsene weltweit bilden weniger von dem Enzym, das Milchzucker spaltet. Dann kann Milch Blähungen oder Durchfall auslösen.",
+        "Gereifter Käse enthält kaum Laktose, Joghurt wird oft besser vertragen. Laktosefreie Produkte sind eine Alternative. Wer ganz auf Milch verzichtet, sollte auf andere Kalziumquellen achten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Mineralstoff liefern Milchprodukte besonders?",
+      "art": "mc",
+      "optionen": [
+        "Kalzium",
+        "Eisen",
+        "Fluor",
+        "Selen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Milchprodukte sind eine wichtige Kalziumquelle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Milchprodukt enthält kaum Laktose?",
+      "art": "mc",
+      "optionen": [
+        "Gereifter Käse",
+        "Frische Milch",
+        "Kondensmilch",
+        "Milchpulver"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei der Reifung wird der Milchzucker weitgehend abgebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer keine Milch trinkt, kann Kalzium auch aus Gemüse und Mineralwasser aufnehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es gibt pflanzliche Kalziumquellen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Milchprodukte liefern Eiweiß, Kalzium und Jod.",
+        "Fermentierte Produkte wie Joghurt schneiden in Studien gut ab.",
+        "Bei Laktoseintoleranz helfen Käse, Joghurt oder laktosefreie Produkte."
+      ]
+    }
+  ]
+}

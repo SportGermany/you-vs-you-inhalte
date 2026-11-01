@@ -1,0 +1,117 @@
+{
+  "id": "ern-b010-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Welches Speiseöl eignet sich wofür?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "oel",
+    "fette",
+    "kochen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Supermarkt stehen Raps-, Oliven-, Sonnenblumen-, Lein- und Kokosöl nebeneinander.",
+        "Welches nimmst du für den Salat, welches für die Pfanne?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Fettsäuren machen den Unterschied",
+      "absaetze": [
+        "Pflanzenöle bestehen aus verschiedenen Fettsäuren. Ungesättigte Fettsäuren gelten als günstig für die Blutfette, viele gesättigte Fettsäuren eher als ungünstig.",
+        "Die DGE empfiehlt Rapsöl als Standardöl. Es enthält wenig gesättigte Fettsäuren und viel pflanzliches Omega-3. Auch Olivenöl, Walnussöl und Leinöl gelten als gute Wahl."
+      ],
+      "merke": "Rapsöl gilt als gutes Alltagsöl.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kokosöl ist kein Superfood",
+      "absaetze": [
+        "Kokosöl besteht überwiegend aus gesättigten Fettsäuren. Es erhöht das LDL-Cholesterin stärker als die meisten Pflanzenöle.",
+        "Für die Gesundheit ist es deshalb keine bessere Wahl, auch wenn es oft so beworben wird. Ab und zu für den Geschmack spricht aber nichts dagegen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hitze und Haltbarkeit",
+      "absaetze": [
+        "Kaltgepresste Öle wie Leinöl sind hitzeempfindlich und eignen sich vor allem für kalte Speisen. Sie werden schnell ranzig und sollten kühl und dunkel lagern.",
+        "Zum Braten eignen sich raffinierte Öle wie raffiniertes Rapsöl, die höhere Temperaturen vertragen. Raucht ein Öl in der Pfanne, ist es zu heiß."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Kokosöl ist das gesündeste Öl.",
+      "urteil": "mythos",
+      "erklaerung": "Kokosöl enthält überwiegend gesättigte Fettsäuren und erhöht das LDL-Cholesterin. Fachgesellschaften empfehlen eher Öle mit viel ungesättigten Fettsäuren wie Raps- oder Olivenöl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Öl empfiehlt die DGE als Standardöl?",
+      "art": "mc",
+      "optionen": [
+        "Rapsöl",
+        "Kokosöl",
+        "Palmöl",
+        "Butterschmalz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rapsöl hat ein günstiges Fettsäuremuster."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür eignet sich kaltgepresstes Leinöl vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Für kalte Speisen",
+        "Zum scharfen Anbraten",
+        "Zum Frittieren",
+        "Zum Backen bei 250 Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leinöl ist hitzeempfindlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kokosöl besteht überwiegend aus ungesättigten Fettsäuren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es besteht überwiegend aus gesättigten Fettsäuren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ungesättigte Fettsäuren sind günstig für die Blutfette.",
+        "Rapsöl und Olivenöl sind gute Alltagsöle, Kokosöl nicht.",
+        "Kaltgepresste Öle für Salat, raffinierte für die Pfanne."
+      ]
+    }
+  ]
+}

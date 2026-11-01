@@ -1,0 +1,113 @@
+{
+  "id": "tech-b010-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie macht die Mikrowelle dein Essen warm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mikrowellen und elektromagnetische Felder",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mikrowelle",
+    "strahlung",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Suppe ist in zwei Minuten heiß, der Teller bleibt fast kalt.",
+        "Wie kann eine Mikrowelle das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wassermoleküle in Bewegung",
+      "absaetze": [
+        "Ein Mikrowellengerät erzeugt elektromagnetische Wellen mit einer Frequenz von etwa 2,45 Gigahertz. Diese Wellen bringen vor allem Wassermoleküle im Essen in Bewegung.",
+        "Die Moleküle drehen sich ständig hin und her und reiben aneinander. Dabei entsteht Wärme. Teller aus Glas oder Porzellan enthalten kaum Wasser und werden vor allem durch das heiße Essen warm."
+      ],
+      "merke": "Mikrowellen erwärmen vor allem das Wasser im Essen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ungleichmäßig warm",
+      "absaetze": [
+        "Die Wellen dringen nur wenige Zentimeter tief ein. Das Innere größerer Portionen erwärmt sich durch Wärmeleitung langsamer.",
+        "Deshalb gibt es oft kalte Stellen neben heißen. Umrühren und kurz ruhen lassen helfen, die Wärme zu verteilen. Gerade bei Babynahrung ist das wichtig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ist das gefährlich?",
+      "absaetze": [
+        "Mikrowellen machen Essen nicht radioaktiv. Die Strahlung ist nicht ionisierend und verschwindet, sobald das Gerät ausgeschaltet ist.",
+        "Das Gehäuse schirmt die Wellen ab. Bei beschädigter Tür oder Dichtung sollte man das Gerät nicht mehr benutzen. Metall kann Funken erzeugen und gehört deshalb nicht hinein."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Essen aus der Mikrowelle ist radioaktiv.",
+      "urteil": "mythos",
+      "erklaerung": "Mikrowellen sind nicht ionisierende Strahlung. Sie erwärmen das Essen, verändern aber nicht die Atome. Nach dem Ausschalten ist keine Strahlung mehr vorhanden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bringen Mikrowellen im Essen vor allem in Bewegung?",
+      "art": "mc",
+      "optionen": [
+        "Wassermoleküle",
+        "Eisenatome",
+        "Salzkristalle",
+        "Luftblasen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem Wassermoleküle werden angeregt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sollte man Essen aus der Mikrowelle umrühren?",
+      "art": "mc",
+      "optionen": [
+        "Weil es ungleichmäßig warm wird",
+        "Weil es sonst radioaktiv bleibt",
+        "Weil es sonst gefriert",
+        "Weil die Mikrowelle es verlangt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Umrühren verteilt die Wärme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Metall gehört nicht in die Mikrowelle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann Funken erzeugen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mikrowellen bringen Wassermoleküle in Bewegung und erzeugen so Wärme.",
+        "Das Essen wird ungleichmäßig warm, Umrühren hilft.",
+        "Essen aus der Mikrowelle ist nicht radioaktiv."
+      ]
+    }
+  ]
+}

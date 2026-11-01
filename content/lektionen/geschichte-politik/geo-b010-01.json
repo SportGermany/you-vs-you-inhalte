@@ -1,0 +1,113 @@
+{
+  "id": "geo-b010-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Wer entscheidet was in der Europäischen Union?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Institutionen und Einrichtungen der EU",
+      "herausgeber": "Europäische Union",
+      "url": "https://european-union.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "eu",
+    "institutionen",
+    "gesetzgebung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten fallen ständig Begriffe wie EU-Kommission, Rat und Europaparlament. Sie klingen ähnlich, sind aber sehr verschieden.",
+        "Wer macht in Brüssel und Straßburg eigentlich was?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Kommission schlägt vor",
+      "absaetze": [
+        "Die Europäische Kommission ist so etwas wie die Regierung der EU. Jedes Mitgliedsland stellt ein Kommissionsmitglied.",
+        "Die Kommission schlägt neue Gesetze vor und achtet darauf, dass die Mitgliedsstaaten die EU-Regeln einhalten. Sie vertritt die EU außerdem in Handelsfragen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Parlament und Rat entscheiden",
+      "absaetze": [
+        "Über die meisten Gesetze entscheiden zwei Institutionen gemeinsam. Das Europäische Parlament wird alle fünf Jahre direkt von den Bürgerinnen und Bürgern gewählt.",
+        "Der Rat der Europäischen Union besteht aus Ministerinnen und Ministern der Mitgliedsstaaten, je nach Thema in unterschiedlicher Besetzung. Erst wenn Parlament und Rat zustimmen, wird ein Vorschlag zum Gesetz."
+      ],
+      "merke": "Die Kommission schlägt vor, Parlament und Rat beschließen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und der Europäische Rat?",
+      "absaetze": [
+        "Leicht zu verwechseln ist der Europäische Rat. Darin treffen sich die Staats- und Regierungschefs der Mitgliedsländer.",
+        "Er legt die großen politischen Linien fest, macht aber selbst keine Gesetze. Noch einmal anders ist der Europarat in Straßburg. Er ist keine EU-Institution, sondern eine eigene Organisation für Menschenrechte."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche EU-Institution schlägt neue Gesetze vor?",
+      "art": "mc",
+      "optionen": [
+        "Die Europäische Kommission",
+        "Der Europarat",
+        "Die Europäische Zentralbank",
+        "Der Europäische Gerichtshof"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kommission hat das Vorschlagsrecht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sitzt im Europäischen Rat?",
+      "art": "mc",
+      "optionen": [
+        "Die Staats- und Regierungschefs",
+        "Die Europaabgeordneten",
+        "Richterinnen und Richter",
+        "Die Zentralbankchefs"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Europäische Rat ist das Treffen der Staats- und Regierungschefs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Europarat ist eine Institution der Europäischen Union.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist eine eigene Organisation, vor allem für Menschenrechte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kommission schlägt Gesetze vor und überwacht ihre Einhaltung.",
+        "Parlament und Rat der EU beschließen gemeinsam.",
+        "Der Europäische Rat setzt die großen Linien, der Europarat ist keine EU-Institution."
+      ]
+    }
+  ]
+}

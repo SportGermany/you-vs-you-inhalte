@@ -1,0 +1,119 @@
+{
+  "id": "umw-b010-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum steigt der Meeresspiegel?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sixth Assessment Report",
+      "herausgeber": "Weltklimarat (IPCC)",
+      "url": "https://www.ipcc.ch",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Luftqualität und Feinstaub",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "meeresspiegel",
+    "klimawandel",
+    "eisschmelze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf einer Hallig in der Nordsee stehen die Häuser auf künstlichen Hügeln. Bei Sturmflut ragen nur sie aus dem Wasser.",
+        "Steigt der Meeresspiegel weiter, wird das Leben an den Küsten schwieriger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Hauptgründe",
+      "absaetze": [
+        "Wenn sich Wasser erwärmt, dehnt es sich aus. Die Ozeane haben einen Großteil der zusätzlichen Wärme durch den Klimawandel aufgenommen und brauchen deshalb mehr Platz.",
+        "Dazu kommt Schmelzwasser von Gebirgsgletschern und von den großen Eisschilden auf Grönland und in der Antarktis. Schmelzendes Meereis trägt dagegen kaum bei, weil es bereits im Wasser schwimmt."
+      ],
+      "merke": "Wärmeausdehnung und Schmelzwasser vom Land lassen das Meer steigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel schon passiert ist",
+      "absaetze": [
+        "Laut Weltklimarat ist der mittlere Meeresspiegel weltweit zwischen 1901 und 2018 um etwa 20 Zentimeter gestiegen. Der Anstieg hat sich in den letzten Jahrzehnten beschleunigt.",
+        "Wie stark er bis zum Ende des Jahrhunderts steigt, hängt vor allem davon ab, wie viel Treibhausgas noch ausgestoßen wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das bedeutet",
+      "absaetze": [
+        "Schon wenige Zentimeter können Sturmfluten verstärken und Küsten stärker abtragen. Besonders gefährdet sind flache Inselstaaten und dicht besiedelte Flussdeltas.",
+        "Auch Deutschland muss seine Deiche an der Nord- und Ostseeküste nach und nach erhöhen. Der Meeresspiegel wird wegen der Trägheit der Ozeane und Eisschilde auch nach einer Begrenzung der Erwärmung noch lange steigen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Wenn das Meereis am Nordpol schmilzt, steigt der Meeresspiegel stark.",
+      "urteil": "mythos",
+      "erklaerung": "Meereis schwimmt bereits im Wasser und verdrängt etwa so viel, wie es beim Schmelzen hinzufügt. Den Anstieg verursachen vor allem die Wärmeausdehnung und das Schmelzen von Eis auf dem Land."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Um wie viel stieg der Meeresspiegel laut Weltklimarat zwischen 1901 und 2018 etwa?",
+      "art": "mc",
+      "optionen": [
+        "Um etwa 20 Zentimeter",
+        "Um etwa 2 Meter",
+        "Um etwa 2 Millimeter",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Anstieg betrug etwa 20 Zentimeter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Hauptgrund für den Anstieg?",
+      "art": "mc",
+      "optionen": [
+        "Die Ausdehnung von wärmerem Wasser",
+        "Mehr Regen über Wüsten",
+        "Mehr Schiffe auf dem Meer",
+        "Die Gezeiten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wärmeres Wasser braucht mehr Platz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schmelzendes Meereis trägt kaum zum Anstieg des Meeresspiegels bei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es schwimmt bereits im Wasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Meeresspiegel steigt durch Wärmeausdehnung und Schmelzwasser vom Land.",
+        "Seit 1901 stieg er um etwa 20 Zentimeter, zuletzt schneller.",
+        "Küsten und Inselstaaten sind besonders betroffen."
+      ]
+    }
+  ]
+}

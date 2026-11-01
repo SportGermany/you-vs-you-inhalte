@@ -1,0 +1,113 @@
+{
+  "id": "geld-b010-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was solltest du über Kryptowährungen wissen?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherschutz und Warnungen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "krypto",
+    "bitcoin",
+    "risiko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Bekannter erzählt, er habe mit Bitcoin viel Geld verdient. Ein anderer hat fast alles verloren.",
+        "Was sind Kryptowährungen, und welche Risiken haben sie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Digitales Geld ohne Bank",
+      "absaetze": [
+        "Kryptowährungen sind digitale Werte, die ohne Zentralbank funktionieren. Bitcoin, die bekannteste, entstand 2009.",
+        "Die Transaktionen werden in einer Blockchain gespeichert. Das ist eine Art öffentliches Kassenbuch, das auf vielen Computern gleichzeitig geführt wird. Hinter Kryptowährungen steht kein Staat, der ihren Wert absichert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Extreme Schwankungen",
+      "absaetze": [
+        "Die Kurse vieler Kryptowährungen schwanken extrem. Innerhalb weniger Wochen sind Verluste von der Hälfte des Wertes oder mehr vorgekommen.",
+        "Einen inneren Wert wie Unternehmensgewinne bei Aktien gibt es nicht. Der Preis hängt allein von Angebot und Nachfrage ab. Die BaFin warnt, dass ein Totalverlust möglich ist."
+      ],
+      "merke": "Ein Totalverlust ist bei Kryptowerten möglich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Betrug erkennen",
+      "absaetze": [
+        "Rund um Kryptowährungen gibt es viel Betrug. Typisch sind Versprechen hoher, sicherer Gewinne, Druck zur schnellen Entscheidung und Kontakte über soziale Medien oder Dating-Apps.",
+        "Es gibt keine gesetzliche Einlagensicherung für Kryptowerte. Wer investiert, sollte nur Geld einsetzen, dessen Verlust er verkraften kann."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entstand Bitcoin?",
+      "art": "mc",
+      "optionen": [
+        "2009",
+        "1995",
+        "2020",
+        "1971"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bitcoin startete 2009."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Blockchain vereinfacht?",
+      "art": "mc",
+      "optionen": [
+        "Ein öffentliches Kassenbuch auf vielen Computern",
+        "Ein Tresor bei der Zentralbank",
+        "Ein Sparbuch",
+        "Eine Kreditkarte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Blockchain speichert Transaktionen dezentral."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Kryptowerte gibt es eine gesetzliche Einlagensicherung wie für Tagesgeld.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Totalverlust ist möglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kryptowährungen sind digitale Werte ohne Zentralbank.",
+        "Ihre Kurse schwanken extrem, ein Totalverlust ist möglich.",
+        "Vorsicht vor Betrug mit Versprechen hoher sicherer Gewinne."
+      ]
+    }
+  ]
+}

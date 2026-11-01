@@ -1,0 +1,113 @@
+{
+  "id": "umw-b010-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Woher kommt der Feinstaub in der Luft?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Luftqualität und Feinstaub",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "feinstaub",
+    "luft",
+    "gesundheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An einer viel befahrenen Kreuzung, neben einem Kaminofen, über einem Feld nach dem Düngen.",
+        "Überall entstehen winzige Teilchen, die wir einatmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unsichtbar klein",
+      "absaetze": [
+        "Feinstaub sind winzige Partikel in der Luft. PM10 bezeichnet Teilchen kleiner als 10 Mikrometer, PM2,5 noch kleinere unter 2,5 Mikrometer. Zum Vergleich: Ein Haar ist etwa 50 bis 70 Mikrometer dick.",
+        "Je kleiner die Teilchen sind, desto tiefer gelangen sie in die Lunge. Die feinsten können sogar ins Blut übertreten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Quellen",
+      "absaetze": [
+        "Feinstaub entsteht im Straßenverkehr, nicht nur aus dem Auspuff, sondern auch durch Abrieb von Reifen und Bremsen. Holzöfen und Kamine sind eine weitere wichtige Quelle.",
+        "Dazu kommen Industrie, Kraftwerke und die Landwirtschaft. Aus Ammoniak aus der Tierhaltung und Düngung bilden sich in der Luft weitere Partikel."
+      ],
+      "merke": "Verkehr, Holzöfen und Landwirtschaft tragen viel zum Feinstaub bei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für die Gesundheit",
+      "absaetze": [
+        "Feinstaub kann Atemwege reizen und das Risiko für Herz-Kreislauf- und Lungenerkrankungen erhöhen. Die WHO zählt Luftverschmutzung zu den größten Umweltrisiken für die Gesundheit.",
+        "2021 hat die WHO ihre Richtwerte deutlich verschärft. Die Belastung in Deutschland ist in den letzten Jahrzehnten gesunken, liegt aber vielerorts noch über diesen Empfehlungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet PM2,5?",
+      "art": "mc",
+      "optionen": [
+        "Partikel kleiner als 2,5 Mikrometer",
+        "Partikel größer als 2,5 Zentimeter",
+        "Ein Messgerät",
+        "Eine Uhrzeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "PM2,5 sind besonders feine Partikel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Quelle von Feinstaub gibt es im Straßenverkehr neben dem Auspuff?",
+      "art": "mc",
+      "optionen": [
+        "Abrieb von Reifen und Bremsen",
+        "Scheinwerferlicht",
+        "Hupen",
+        "Ampeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reifen- und Bremsabrieb erzeugen Feinstaub."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die WHO hat ihre Richtwerte für Luftqualität 2021 verschärft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind jetzt deutlich strenger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Feinstaub sind winzige Partikel, die tief in die Lunge gelangen.",
+        "Verkehr, Holzöfen, Industrie und Landwirtschaft sind wichtige Quellen.",
+        "Feinstaub belastet Herz und Lunge, die WHO hat ihre Richtwerte verschärft."
+      ]
+    }
+  ]
+}

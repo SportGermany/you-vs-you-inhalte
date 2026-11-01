@@ -1,0 +1,116 @@
+{
+  "id": "supp-b010-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Helfen Glucosamin und Chondroitin den Gelenken?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nutrition and health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glucosamin",
+    "gelenke",
+    "arthrose"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Knie schmerzt beim Treppensteigen. In der Apotheke stehen Kapseln mit Glucosamin und Chondroitin für die Gelenke.",
+        "Können sie den Knorpel wirklich schützen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bausteine des Knorpels",
+      "absaetze": [
+        "Glucosamin und Chondroitin sind natürliche Bestandteile des Gelenkknorpels. Die Idee hinter den Präparaten: Wer die Bausteine zuführt, unterstützt den Knorpel.",
+        "Glucosamin wird meist aus Schalen von Krebstieren gewonnen, Chondroitin oft aus Knorpel von Tieren."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Die Ergebnisse sind gemischt. Einige, oft von Herstellern unterstützte Studien fanden eine leichte Linderung bei Kniearthrose. Große unabhängige Studien fanden im Vergleich zu Placebo meist keinen deutlichen Nutzen.",
+        "Die EFSA hat gesundheitsbezogene Aussagen zu Glucosamin für die Gelenke abgelehnt. Gut belegt bei Arthrose sind dagegen Bewegung, Kräftigung der Muskulatur und bei Übergewicht eine Gewichtsabnahme."
+      ],
+      "merke": "Für einen klaren Nutzen fehlen unabhängige Belege.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Glucosamin aus Krebstieren ist bei einer Allergie gegen Schalentiere problematisch.",
+        "Glucosamin kann die Wirkung gerinnungshemmender Medikamente wie Warfarin verstärken. Auch bei Diabetes ist Vorsicht geboten. Sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Glucosamin meist gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus Schalen von Krebstieren",
+        "Aus Zitronen",
+        "Aus Getreide",
+        "Aus Meersalz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Glucosamin stammt oft aus Krebstierschalen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten große unabhängige Studien meist?",
+      "art": "mc",
+      "optionen": [
+        "Keinen deutlichen Nutzen gegenüber Placebo",
+        "Eine vollständige Heilung",
+        "Neuen Knorpel nach einer Woche",
+        "Schwere Schäden bei allen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein klarer Nutzen ließ sich meist nicht zeigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bewegung und Muskelkräftigung gelten bei Arthrose als gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie gehören zu den wichtigsten Maßnahmen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glucosamin und Chondroitin sind Bausteine des Knorpels.",
+        "Unabhängige Studien zeigen meist keinen klaren Nutzen.",
+        "Bewegung und Muskelaufbau helfen bei Arthrose nachweislich."
+      ]
+    }
+  ]
+}

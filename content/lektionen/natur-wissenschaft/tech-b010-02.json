@@ -1,0 +1,129 @@
+{
+  "id": "tech-b010-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Warum schützt ein zweiter Faktor deine Konten?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zwei-Faktor-Authentisierung",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zwei-faktor",
+    "passwort",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Passwort taucht in einer Datenbank gestohlener Zugangsdaten auf. Jemand versucht, sich in dein E-Mail-Konto einzuloggen.",
+        "Er scheitert, weil eine zweite Bestätigung fehlt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei verschiedene Nachweise",
+      "absaetze": [
+        "Bei der Zwei-Faktor-Authentisierung reicht ein Passwort allein nicht aus. Du brauchst zusätzlich einen zweiten Nachweis, etwa einen Code aus einer App auf deinem Handy oder einen Sicherheitsschlüssel.",
+        "Die Idee: Etwas, das du weißt, wird mit etwas kombiniert, das du besitzt. Selbst wer dein Passwort kennt, hat dein Gerät nicht."
+      ],
+      "merke": "Passwort plus Gerät ist viel sicherer als Passwort allein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alle Verfahren sind gleich",
+      "absaetze": [
+        "Codes per SMS sind besser als nichts, aber vergleichsweise angreifbar. Authenticator-Apps, Hardware-Schlüssel oder Passkeys gelten als sicherer.",
+        "Das BSI empfiehlt, die Zwei-Faktor-Authentisierung überall zu aktivieren, wo sie angeboten wird, besonders bei E-Mail, Onlinebanking und sozialen Netzwerken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht vor Tricks",
+      "absaetze": [
+        "Betrüger versuchen manchmal, dir den zweiten Code am Telefon oder per Nachricht zu entlocken. Gib solche Codes niemals weiter, auch nicht an angebliche Mitarbeiter deiner Bank.",
+        "Bewahre Wiederherstellungscodes sicher auf. Sie helfen, wenn du dein Handy verlierst."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So richtest du es ein",
+      "schritte": [
+        {
+          "titel": "Wichtigste Konten zuerst",
+          "text": "Starte mit E-Mail und Onlinebanking."
+        },
+        {
+          "titel": "Einstellungen öffnen",
+          "text": "Suche im Bereich Sicherheit nach Zwei-Faktor oder Anmeldung in zwei Schritten."
+        },
+        {
+          "titel": "App wählen",
+          "text": "Nutze wenn möglich eine Authenticator-App statt SMS."
+        },
+        {
+          "titel": "Codes sichern",
+          "text": "Notiere die Wiederherstellungscodes und bewahre sie sicher auf."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kombiniert die Zwei-Faktor-Authentisierung?",
+      "art": "mc",
+      "optionen": [
+        "Etwas, das du weißt, mit etwas, das du besitzt",
+        "Zwei Passwörter",
+        "Benutzername und E-Mail-Adresse",
+        "Geburtsdatum und Wohnort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Passwort und ein Gerät werden kombiniert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Verfahren gilt als vergleichsweise angreifbar?",
+      "art": "mc",
+      "optionen": [
+        "Codes per SMS",
+        "Hardware-Schlüssel",
+        "Passkeys",
+        "Authenticator-Apps"
+      ],
+      "richtig": 0,
+      "erklaerung": "SMS ist besser als nichts, aber weniger sicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einen Bestätigungscode darfst du einem angeblichen Bankmitarbeiter am Telefon nennen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Solche Codes gibst du niemals weiter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein zweiter Faktor schützt auch bei gestohlenem Passwort.",
+        "Apps, Schlüssel und Passkeys sind sicherer als SMS.",
+        "Codes niemals weitergeben."
+      ]
+    }
+  ]
+}
