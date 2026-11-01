@@ -1,0 +1,117 @@
+{
+  "id": "ern-b014-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Kartoffeln Dickmacher oder gesunde Beilage?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Solanin in Kartoffeln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kartoffeln",
+    "beilage",
+    "zubereitung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Low-Carb-Fans meiden Kartoffeln. Die Großeltern essen sie fast jeden Tag.",
+        "Was ist dran an der Knolle?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als Stärke",
+      "absaetze": [
+        "Kartoffeln bestehen vor allem aus Wasser und Stärke. Sie liefern außerdem Kalium, Vitamin C, B-Vitamine und Ballaststoffe, besonders wenn die Schale mitgegessen wird.",
+        "Gekochte Kartoffeln haben im Verhältnis zu ihrer Menge wenig Energie und machen gut satt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Zubereitung entscheidet",
+      "absaetze": [
+        "Gekocht, als Pell- oder Ofenkartoffel ist die Kartoffel eine gute Beilage. Als Pommes oder Chips enthält sie dagegen viel Fett und oft viel Salz.",
+        "In Beobachtungsstudien hingen frittierte Kartoffelprodukte mit ungünstigen Gesundheitswerten zusammen. Für gekochte Kartoffeln zeigte sich das meist nicht."
+      ],
+      "merke": "Gekocht ist die Kartoffel gesund, frittiert eher nicht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grüne Stellen wegschneiden",
+      "absaetze": [
+        "Kartoffeln bilden an grünen Stellen und in Keimen vermehrt Solanin. Dieser Stoff kann in größeren Mengen Übelkeit und Bauchschmerzen verursachen.",
+        "Das BfR rät, grüne Stellen und Keime großzügig zu entfernen und Kartoffeln kühl, dunkel und trocken zu lagern. Kochwasser sollte nicht weiterverwendet werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Nährstoffe liefern Kartoffeln unter anderem?",
+      "art": "mc",
+      "optionen": [
+        "Kalium und Vitamin C",
+        "Nur Fett",
+        "Nur Zucker",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kartoffeln liefern Kalium, Vitamin C und Ballaststoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zubereitung ist eher ungünstig?",
+      "art": "mc",
+      "optionen": [
+        "Frittiert als Pommes oder Chips",
+        "Gekocht als Pellkartoffel",
+        "Im Ofen gebacken",
+        "Als Kartoffelsuppe mit Gemüse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Frittiert enthalten Kartoffeln viel Fett und Salz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Grüne Stellen an Kartoffeln sollte man wegschneiden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort steckt vermehrt Solanin."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kartoffeln liefern Kalium, Vitamin C und Ballaststoffe.",
+        "Gekocht sind sie eine gute Beilage, frittiert eher nicht.",
+        "Grüne Stellen und Keime großzügig entfernen."
+      ]
+    }
+  ]
+}

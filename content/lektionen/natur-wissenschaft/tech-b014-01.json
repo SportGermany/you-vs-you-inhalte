@@ -1,0 +1,107 @@
+{
+  "id": "tech-b014-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein QR-Code?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "QR-Codes und Phishing",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "qr-code",
+    "smartphone",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Speisekarte, dem Parkautomaten und dem Konzertticket: Überall kleine schwarz-weiße Quadrate.",
+        "Dein Handy liest sie in einer Sekunde. Wie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein zweidimensionaler Code",
+      "absaetze": [
+        "QR steht für Quick Response, also schnelle Antwort. Der Code wurde 1994 in Japan entwickelt, ursprünglich um Autoteile in Fabriken zu verfolgen.",
+        "Anders als ein Strichcode speichert er Informationen in zwei Richtungen, waagerecht und senkrecht. So passt viel mehr hinein, etwa eine Internetadresse oder Kontaktdaten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Robust gegen Schäden",
+      "absaetze": [
+        "Die drei großen Quadrate in den Ecken helfen der Kamera, Lage und Größe des Codes zu erkennen. Die vielen kleinen Felder enthalten die eigentlichen Daten.",
+        "QR-Codes enthalten eine Fehlerkorrektur. Selbst wenn ein Teil verschmutzt oder beschädigt ist, lässt sich der Inhalt oft noch lesen."
+      ],
+      "merke": "Fehlerkorrektur macht QR-Codes auch beschädigt lesbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht vor Fälschungen",
+      "absaetze": [
+        "Betrüger kleben manchmal gefälschte QR-Codes auf Parkautomaten oder verschicken sie per Post oder E-Mail. Sie führen auf täuschend echte Seiten, die Bank- oder Zahlungsdaten abgreifen.",
+        "Prüfe vor dem Öffnen die angezeigte Adresse. Gib keine sensiblen Daten ein, wenn du unsicher bist, woher ein Code stammt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht QR?",
+      "art": "mc",
+      "optionen": [
+        "Quick Response",
+        "Quality Rate",
+        "Quiet Radio",
+        "Quadrat Raster"
+      ],
+      "richtig": 0,
+      "erklaerung": "QR bedeutet schnelle Antwort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen die drei großen Quadrate in den Ecken?",
+      "art": "mc",
+      "optionen": [
+        "Zur Erkennung von Lage und Größe",
+        "Als Dekoration",
+        "Zur Stromversorgung",
+        "Als Werbung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie helfen der Kamera bei der Ausrichtung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein QR-Code ist nicht mehr lesbar, sobald ein kleiner Teil verschmutzt ist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Fehlerkorrektur gleicht kleinere Schäden aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "QR-Codes speichern Daten in zwei Richtungen.",
+        "Eine Fehlerkorrektur macht sie robust.",
+        "Gefälschte Codes können zu Betrugsseiten führen."
+      ]
+    }
+  ]
+}

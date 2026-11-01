@@ -1,0 +1,113 @@
+{
+  "id": "steu-b014-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wann wird beim Erben Steuer fällig?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Haushalt",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "erbschaftsteuer",
+    "freibetrag",
+    "schenkung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Großmutter hinterlässt dir ihre Ersparnisse. Musst du jetzt Erbschaftsteuer zahlen?",
+        "Für die meisten Erbschaften lautet die Antwort: nein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hohe Freibeträge für Angehörige",
+      "absaetze": [
+        "Bei der Erbschaftsteuer gibt es Freibeträge, die vom Verwandtschaftsgrad abhängen. Ehepartner haben einen Freibetrag von 500.000 Euro, Kinder je 400.000 Euro pro Elternteil.",
+        "Enkel haben 200.000 Euro, Geschwister und nicht verwandte Personen dagegen nur 20.000 Euro. Erst was darüber liegt, wird besteuert."
+      ],
+      "merke": "Die meisten Erbschaften in der Familie bleiben steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerklassen und Sätze",
+      "absaetze": [
+        "Erben werden je nach Verwandtschaft in drei Steuerklassen eingeteilt. Je enger die Verwandtschaft, desto niedriger ist der Steuersatz.",
+        "Für das selbst bewohnte Familienheim gelten unter bestimmten Bedingungen weitere Erleichterungen, etwa wenn Ehepartner oder Kinder darin wohnen bleiben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch Schenkungen zählen",
+      "absaetze": [
+        "Für Schenkungen gelten dieselben Freibeträge. Sie können alle zehn Jahre erneut genutzt werden.",
+        "Wer größeres Vermögen übertragen möchte, verteilt es deshalb manchmal über viele Jahre. Bei größeren Summen ist steuerliche Beratung sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Freibetrag für ein Kind pro Elternteil?",
+      "art": "mc",
+      "optionen": [
+        "400.000 Euro",
+        "20.000 Euro",
+        "1.000 Euro",
+        "5 Millionen Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kinder haben je Elternteil 400.000 Euro Freibetrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft können die Freibeträge bei Schenkungen genutzt werden?",
+      "art": "mc",
+      "optionen": [
+        "Alle zehn Jahre erneut",
+        "Nur einmal im Leben",
+        "Jedes Jahr",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Freibeträge erneuern sich nach zehn Jahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geschwister haben denselben Freibetrag wie Kinder.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Geschwister haben nur 20.000 Euro Freibetrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Erbschaften gibt es hohe Freibeträge für enge Angehörige.",
+        "Je enger die Verwandtschaft, desto niedriger der Steuersatz.",
+        "Die Freibeträge gelten auch für Schenkungen alle zehn Jahre."
+      ]
+    }
+  ]
+}

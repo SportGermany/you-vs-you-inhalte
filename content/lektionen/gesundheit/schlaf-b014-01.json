@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b014-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Stören Bildschirme vor dem Schlafen wirklich?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bildschirm",
+    "blaulicht",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Bett noch schnell durch Nachrichten scrollen. Eine Stunde später bist du immer noch wach.",
+        "Ist das blaue Licht schuld?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Licht bewirkt",
+      "absaetze": [
+        "Helles Licht am Abend, besonders mit hohem Blauanteil, kann die Ausschüttung des Schlafhormons Melatonin verzögern. In Laborstudien schliefen Menschen nach dem Lesen auf einem hellen E-Reader etwas später ein als mit einem gedruckten Buch.",
+        "Die Unterschiede waren allerdings eher klein, oft nur einige Minuten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Inhalt zählt oft mehr",
+      "absaetze": [
+        "Studien deuten darauf hin, dass im Alltag nicht nur das Licht stört. Spannende Serien, Spiele, Arbeits-E-Mails oder aufregende Nachrichten halten das Gehirn wach.",
+        "Dazu kommt: Wer scrollt, verliert leicht das Gefühl für die Zeit und geht später schlafen. So fehlt am Ende vor allem Schlafzeit."
+      ],
+      "merke": "Aufregende Inhalte und verlorene Zeit stören oft mehr als das Licht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Nachtmodus und gedimmte Bildschirme verringern das blaue Licht etwas. Wirksamer ist oft, in der letzten halben Stunde vor dem Schlafen ruhigere Tätigkeiten zu wählen.",
+        "Ein Wecker statt Handy auf dem Nachttisch kann helfen, nicht ins Scrollen zu geraten. Ein gedrucktes Buch oder ruhige Musik eignen sich gut als Abendritual."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann helles, blaues Licht am Abend verzögern?",
+      "art": "mc",
+      "optionen": [
+        "Die Ausschüttung von Melatonin",
+        "Die Verdauung",
+        "Den Herzschlag dauerhaft",
+        "Das Haarwachstum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Melatonin wird bei Dunkelheit ausgeschüttet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stört im Alltag oft zusätzlich zum Licht?",
+      "art": "mc",
+      "optionen": [
+        "Aufregende Inhalte und verlorene Zeit",
+        "Die Farbe des Handys",
+        "Das Gewicht des Geräts",
+        "Der Klingelton im Flugmodus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spannung und spätes Zubettgehen spielen eine große Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Effekte von blauem Licht auf das Einschlafen waren in Studien meist sehr groß.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie waren eher klein, oft nur einige Minuten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Helles, blaues Licht kann Melatonin etwas verzögern.",
+        "Aufregende Inhalte und spätes Zubettgehen stören oft mehr.",
+        "Ruhige Abendrituale ohne Handy helfen beim Einschlafen."
+      ]
+    }
+  ]
+}

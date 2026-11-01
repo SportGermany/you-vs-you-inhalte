@@ -1,0 +1,113 @@
+{
+  "id": "umw-b014-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie viel Wasser steckt in deinem Essen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Water Footprint",
+      "herausgeber": "Water Footprint Network",
+      "url": "https://www.waterfootprint.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wasser, Wald und Haushalt",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "virtuelles-wasser",
+    "wasserfussabdruck",
+    "ernaehrung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Tasse Kaffee enthält etwa 0,15 Liter Wasser. Um die Bohnen dafür anzubauen, braucht es aber viel mehr.",
+        "Dieses unsichtbare Wasser nennt man virtuelles Wasser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Wasser hinter den Produkten",
+      "absaetze": [
+        "Virtuelles Wasser ist die Menge Wasser, die für die Herstellung eines Produkts insgesamt nötig ist. Dazu gehören Regen für den Anbau, Bewässerung und Wasser für die Verarbeitung.",
+        "Nach Berechnungen des Water Footprint Network stecken in einer Tasse Kaffee rund 130 Liter. In einem Kilogramm Rindfleisch sind es im weltweiten Durchschnitt etwa 15.000 Liter."
+      ],
+      "merke": "In Lebensmitteln steckt oft ein Vielfaches an unsichtbarem Wasser."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher das Wasser kommt",
+      "absaetze": [
+        "Nicht jedes virtuelle Wasser ist gleich problematisch. Regenwasser auf Weiden ist etwas anderes als Grundwasser, das in trockenen Regionen für Bewässerung abgepumpt wird.",
+        "Viele Produkte, die wir kaufen, etwa Avocados, Baumwolle oder Tomaten aus südlichen Ländern, werden in wasserarmen Gebieten angebaut. Unser Konsum beeinflusst so den Wasserhaushalt anderer Länder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Der größte Teil des Wasserfußabdrucks in Deutschland steckt nicht im Leitungswasser, sondern in Lebensmitteln und Kleidung.",
+        "Weniger tierische Produkte, saisonales Obst und Gemüse und langlebige Kleidung können den Wasserfußabdruck deutlich verringern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist virtuelles Wasser?",
+      "art": "mc",
+      "optionen": [
+        "Wasser, das für die Herstellung eines Produkts nötig ist",
+        "Wasser im Computer",
+        "Wasser aus dem Wasserhahn",
+        "Gefrorenes Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es umfasst das gesamte Wasser der Herstellung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel virtuelles Wasser steckt im weltweiten Durchschnitt in einem Kilogramm Rindfleisch?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 15.000 Liter",
+        "Etwa 15 Liter",
+        "Etwa 150 Liter",
+        "Etwa 1,5 Millionen Liter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind etwa 15.000 Liter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der größte Teil unseres Wasserfußabdrucks steckt im Leitungswasser.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er steckt vor allem in Lebensmitteln und Kleidung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Virtuelles Wasser ist das Wasser hinter einem Produkt.",
+        "Vor allem tierische Produkte haben einen großen Wasserfußabdruck.",
+        "Unser Konsum beeinflusst den Wasserhaushalt anderer Länder."
+      ]
+    }
+  ]
+}

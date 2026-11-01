@@ -1,0 +1,107 @@
+{
+  "id": "welt-b014-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wie wurden die Hieroglyphen entschlüsselt?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "aegypten",
+    "hieroglyphen",
+    "rosetta"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über tausend Jahre lang konnte niemand die Bilderschrift an den Tempeln Ägyptens lesen.",
+        "Dann fanden Soldaten einen Stein, der zum Schlüssel wurde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Hochkultur am Nil",
+      "absaetze": [
+        "Das alte Ägypten bestand über drei Jahrtausende. Die großen Pyramiden von Gizeh entstanden um 2500 vor Christus als Grabmäler für Pharaonen.",
+        "Die Ägypter schrieben mit Hieroglyphen, einer Schrift aus Bildzeichen. Nach dem Ende der altägyptischen Kultur geriet ihre Bedeutung in Vergessenheit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Stein von Rosetta",
+      "absaetze": [
+        "1799 fanden französische Soldaten bei Rosetta im Nildelta einen Steinblock mit Inschriften. Er trägt denselben Text in drei Schriften: Hieroglyphen, eine spätere ägyptische Schrift und Altgriechisch.",
+        "Weil Gelehrte Altgriechisch lesen konnten, hatten sie nun eine Art Übersetzungshilfe. Der Stein steht heute im British Museum in London."
+      ],
+      "merke": "Der gleiche Text in drei Schriften machte die Entschlüsselung möglich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Champollions Durchbruch",
+      "absaetze": [
+        "Der Franzose Jean-François Champollion erkannte, dass Hieroglyphen nicht nur Bilder für Wörter sind, sondern oft auch Laute darstellen. 1822 stellte er seine Entschlüsselung vor.",
+        "Damit konnte man plötzlich Tausende Inschriften lesen. Die moderne Ägyptologie war geboren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde der Stein von Rosetta gefunden?",
+      "art": "mc",
+      "optionen": [
+        "1799",
+        "1492",
+        "1914",
+        "2001"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wurde 1799 im Nildelta gefunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schrift auf dem Stein konnten die Gelehrten bereits lesen?",
+      "art": "mc",
+      "optionen": [
+        "Altgriechisch",
+        "Hieroglyphen",
+        "Keilschrift",
+        "Chinesisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Altgriechisch diente als Übersetzungshilfe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Champollion erkannte, dass Hieroglyphen oft auch Laute darstellen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das war der entscheidende Schritt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hieroglyphen konnte über tausend Jahre niemand lesen.",
+        "Der Stein von Rosetta enthielt denselben Text in drei Schriften.",
+        "Champollion entschlüsselte die Hieroglyphen 1822."
+      ]
+    }
+  ]
+}

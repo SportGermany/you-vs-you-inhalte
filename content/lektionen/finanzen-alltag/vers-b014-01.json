@@ -1,0 +1,113 @@
+{
+  "id": "vers-b014-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann ist eine Risikolebensversicherung sinnvoll?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Haushalt",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage und Altersvorsorge",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "risikoleben",
+    "familie",
+    "absicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein junges Paar kauft eine Wohnung auf Kredit. Zwei kleine Kinder, ein Einkommen trägt den Großteil.",
+        "Was passiert, wenn dieser Mensch plötzlich stirbt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz für Hinterbliebene",
+      "absaetze": [
+        "Eine Risikolebensversicherung zahlt eine vereinbarte Summe, wenn die versicherte Person während der Vertragslaufzeit stirbt. Das Geld geht an die Hinterbliebenen.",
+        "Damit können sie zum Beispiel einen Kredit abbezahlen oder die ersten Jahre finanziell überbrücken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen sie wichtig ist",
+      "absaetze": [
+        "Verbraucherschützer halten sie für wichtig, wenn andere finanziell von dir abhängen. Das gilt besonders für Eltern, für Alleinverdiener und für Menschen mit einem hohen Kredit, etwa für eine Immobilie.",
+        "Wer allein lebt und niemanden versorgt, braucht sie meist nicht. Bei jüngeren, gesunden Menschen ist sie vergleichsweise günstig."
+      ],
+      "merke": "Wichtig, wenn andere finanziell von dir abhängen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht mit Kapitallebensversicherung verwechseln",
+      "absaetze": [
+        "Eine Kapitallebensversicherung kombiniert den Todesfallschutz mit einem Sparvertrag. Sie ist deutlich teurer und bringt oft nur eine geringe Rendite.",
+        "Verbraucherschützer raten meist dazu, Absicherung und Geldanlage zu trennen. Wichtig ist, die Versicherungssumme und Laufzeit am tatsächlichen Bedarf der Familie auszurichten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann zahlt eine Risikolebensversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Wenn die versicherte Person während der Laufzeit stirbt",
+        "Wenn man in Rente geht",
+        "Bei jedem Arztbesuch",
+        "Bei einem Autounfall mit Blechschaden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie zahlt im Todesfall an die Hinterbliebenen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist sie besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Für Menschen, von denen andere finanziell abhängen",
+        "Für Alleinlebende ohne Angehörige",
+        "Für Kinder",
+        "Für Haustiere"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie schützt Familie und Kreditgeber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Verbraucherschützer raten meist, Absicherung und Geldanlage zu trennen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kombiverträge sind oft teuer und renditeschwach."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Risikolebensversicherung sichert Hinterbliebene ab.",
+        "Sie ist wichtig, wenn andere finanziell von dir abhängen.",
+        "Absicherung und Geldanlage besser getrennt halten."
+      ]
+    }
+  ]
+}

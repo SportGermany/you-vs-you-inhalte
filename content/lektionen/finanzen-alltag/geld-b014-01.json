@@ -1,0 +1,113 @@
+{
+  "id": "geld-b014-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Warum solltest du nicht alles auf eine Karte setzen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage und Altersvorsorge",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Haushalt",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "streuung",
+    "risiko",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Kollege hat sein ganzes Erspartes in Aktien seines Arbeitgebers gesteckt. Dann gerät die Firma in eine Krise.",
+        "Er verliert in kurzer Zeit seinen Job und einen großen Teil seiner Ersparnisse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Streuen senkt das Risiko",
+      "absaetze": [
+        "Wer sein Geld auf viele verschiedene Anlagen verteilt, ist weniger abhängig vom Schicksal einer einzelnen. Fachleute nennen das Diversifikation oder Streuung.",
+        "Geht ein Unternehmen pleite, trifft das bei breiter Streuung nur einen kleinen Teil des Vermögens. Andere Anlagen können Verluste teilweise ausgleichen."
+      ],
+      "merke": "Breite Streuung schützt vor dem Totalausfall einzelner Anlagen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worüber man streuen kann",
+      "absaetze": [
+        "Man kann über viele Unternehmen, Branchen und Länder streuen. Ein weltweiter Aktienfonds enthält zum Beispiel Anteile an Tausenden Firmen.",
+        "Man kann auch über Anlageklassen streuen, etwa Aktien mit sicheren Anlagen wie Tagesgeld kombinieren. Der sichere Teil federt Schwankungen ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Streuung nicht kann",
+      "absaetze": [
+        "Streuung verhindert nicht, dass ein ganzer Markt in einer Krise fällt. Sie senkt aber das Risiko, das von einzelnen Firmen oder Ländern ausgeht.",
+        "Besonders riskant ist es, Arbeitsplatz und Ersparnisse an dasselbe Unternehmen zu knüpfen. Dann trifft eine Krise doppelt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennen Fachleute das Verteilen des Geldes auf viele Anlagen?",
+      "art": "mc",
+      "optionen": [
+        "Diversifikation",
+        "Inflation",
+        "Spekulation",
+        "Liquidation"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diversifikation bedeutet Streuung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verhindert Streuung nicht?",
+      "art": "mc",
+      "optionen": [
+        "Dass ein ganzer Markt in einer Krise fällt",
+        "Den Totalausfall durch eine einzelne Pleite",
+        "Die Abhängigkeit von einem Land",
+        "Die Abhängigkeit von einer Branche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Marktweite Krisen treffen auch gestreute Anlagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ersparnisse komplett in Aktien des eigenen Arbeitgebers sind besonders riskant.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine Krise träfe Job und Vermögen zugleich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Breite Streuung senkt das Risiko einzelner Anlagen.",
+        "Gestreut wird über Unternehmen, Länder und Anlageklassen.",
+        "Streuung schützt nicht vor Marktkrisen, aber vor Einzelrisiken."
+      ]
+    }
+  ]
+}

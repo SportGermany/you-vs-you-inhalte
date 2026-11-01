@@ -1,0 +1,113 @@
+{
+  "id": "haus-b014-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Welche Putzmittel brauchst du wirklich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasser, Wald und Haushalt",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Haushalt",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "putzen",
+    "reinigungsmittel",
+    "haushalt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Putzschrank stehen zwölf verschiedene Flaschen: für Bad, Küche, Glas, Fliesen, Backofen und noch mehr.",
+        "Brauchst du die alle?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenige Mittel reichen",
+      "absaetze": [
+        "Das Umweltbundesamt empfiehlt eine kleine Grundausstattung. Ein Allzweckreiniger, ein Handspülmittel, ein Scheuermittel und ein säurehaltiger Reiniger gegen Kalk, etwa auf Basis von Zitronensäure, decken die meisten Aufgaben ab.",
+        "Mit Mikrofasertüchern lassen sich viele Oberflächen sogar nur mit Wasser reinigen."
+      ],
+      "merke": "Vier Grundmittel reichen für die meisten Putzaufgaben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Desinfektion im Haushalt",
+      "absaetze": [
+        "Desinfektionsmittel sind im normalen Haushalt meist nicht nötig. Gründliches Reinigen genügt. Ausnahmen gibt es, wenn eine ärztliche Empfehlung vorliegt, etwa bei bestimmten Infektionen oder geschwächtem Immunsystem.",
+        "Unnötige Desinfektion belastet Umwelt und Gewässer und kann Haut und Atemwege reizen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht beim Mischen",
+      "absaetze": [
+        "Manche Reiniger dürfen nie gemischt werden. Chlorhaltige Mittel und säurehaltige Reiniger setzen zusammen giftiges Chlorgas frei.",
+        "Lies die Warnhinweise auf der Verpackung und bewahre Putzmittel für Kinder unerreichbar auf. Weniger Produkte bedeuten auch weniger Risiko und weniger Kosten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Grundmittel empfiehlt das Umweltbundesamt ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa vier",
+        "Etwa zwanzig",
+        "Gar keine",
+        "Für jeden Raum ein eigenes"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine kleine Grundausstattung reicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Mittel dürfen nie gemischt werden?",
+      "art": "mc",
+      "optionen": [
+        "Chlorhaltige und säurehaltige Reiniger",
+        "Wasser und Spülmittel",
+        "Seife und Wasser",
+        "Zwei Mikrofasertücher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei kann giftiges Chlorgas entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im normalen Haushalt sind Desinfektionsmittel meist nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gründliches Reinigen genügt meist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wenige Grundmittel reichen für fast alle Putzaufgaben.",
+        "Desinfektionsmittel sind im Haushalt meist unnötig.",
+        "Chlorhaltige und saure Reiniger niemals mischen."
+      ]
+    }
+  ]
+}

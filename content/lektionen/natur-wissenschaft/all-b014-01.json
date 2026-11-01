@@ -1,0 +1,113 @@
+{
+  "id": "all-b014-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie lebt man auf der Internationalen Raumstation?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2028-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "International Space Station",
+      "herausgeber": "NASA",
+      "url": "https://www.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "International Space Station",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "iss",
+    "raumstation",
+    "astronauten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Abendhimmel zieht ein heller Punkt ohne zu blinken in wenigen Minuten über den Himmel.",
+        "Es ist die Internationale Raumstation mit Menschen an Bord."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Labor im Orbit",
+      "absaetze": [
+        "Die ISS kreist in etwa 400 Kilometern Höhe um die Erde. Seit dem Jahr 2000 leben dort ständig Menschen. Gebaut wurde sie gemeinsam von den USA, Russland, Europa, Japan und Kanada.",
+        "Für eine Erdumrundung braucht sie nur etwa 90 Minuten. Die Besatzung erlebt deshalb jeden Tag rund 16 Sonnenauf- und -untergänge."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alltag in Schwerelosigkeit",
+      "absaetze": [
+        "In der Station schwebt alles. Astronautinnen und Astronauten schlafen in Schlafsäcken an der Wand und trinken aus Beuteln. Wasser wird aufwendig aufbereitet, auch aus Urin und Schweiß.",
+        "Täglich trainieren sie etwa zwei Stunden. Ohne Training würden in der Schwerelosigkeit Muskeln und Knochen schnell abbauen."
+      ],
+      "merke": "In der Schwerelosigkeit ist tägliches Training Pflicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Forschung und Zukunft",
+      "absaetze": [
+        "Auf der ISS wird zu Medizin, Materialien, Pflanzenwachstum und zum menschlichen Körper geforscht. Auch deutsche Astronauten wie Alexander Gerst und Matthias Maurer arbeiteten dort.",
+        "Die Station altert. Nach heutigen Plänen soll sie um das Jahr 2030 kontrolliert zum Absturz gebracht werden. Nachfolger sind in Planung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Höhe kreist die ISS etwa?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 400 Kilometer",
+        "Etwa 4 Kilometer",
+        "Etwa 40.000 Kilometer",
+        "Etwa 400.000 Kilometer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die ISS fliegt in rund 400 Kilometern Höhe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht die ISS für eine Erdumrundung?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 90 Minuten",
+        "Etwa einen Tag",
+        "Etwa eine Woche",
+        "Etwa ein Jahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb sieht die Besatzung rund 16 Sonnenaufgänge am Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit dem Jahr 2000 leben ständig Menschen auf der ISS.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie ist seitdem dauerhaft bewohnt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die ISS kreist in etwa 400 Kilometern Höhe in 90 Minuten um die Erde.",
+        "Ohne tägliches Training würden Muskeln und Knochen abbauen.",
+        "Um 2030 soll sie kontrolliert zum Absturz gebracht werden."
+      ]
+    }
+  ]
+}

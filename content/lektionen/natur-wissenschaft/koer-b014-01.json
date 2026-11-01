@@ -1,0 +1,113 @@
+{
+  "id": "koer-b014-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum sind deine Knochen lebendig?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Osteoporose",
+      "herausgeber": "Dachverband Osteologie",
+      "url": "https://www.dv-osteologie.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "knochen",
+    "osteoporose",
+    "kalzium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Skelett im Biologieraum wirkt tot und trocken. Doch die Knochen in deinem Körper sind ständig in Bewegung.",
+        "Sie werden laufend ab- und wieder aufgebaut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ständiger Umbau",
+      "absaetze": [
+        "Knochen bestehen aus lebendem Gewebe mit Zellen, Blutgefäßen und Mineralien wie Kalzium. Bestimmte Zellen bauen alten Knochen ab, andere bauen neuen auf.",
+        "So erneuert sich das Skelett im Laufe der Jahre nach und nach. Kleine Schäden werden repariert, und Knochen passen sich an Belastungen an."
+      ],
+      "merke": "Dein Skelett wird ständig umgebaut und erneuert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Belastung macht stark",
+      "absaetze": [
+        "Knochen werden stärker, wenn sie belastet werden, etwa durch Gehen, Laufen, Springen oder Krafttraining. Ohne Belastung bauen sie ab. Astronauten verlieren in der Schwerelosigkeit deshalb Knochenmasse.",
+        "Die höchste Knochendichte erreichen Menschen etwa um das 30. Lebensjahr. Danach nimmt sie langsam ab, bei Frauen nach den Wechseljahren schneller."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Osteoporose vorbeugen",
+      "absaetze": [
+        "Bei Osteoporose verlieren Knochen so viel Substanz, dass sie leicht brechen. Häufig betroffen sind ältere Menschen, besonders Frauen.",
+        "Bewegung, eine Ernährung mit genug Kalzium und eine gute Vitamin-D-Versorgung stärken die Knochen. Rauchen und viel Alkohol schaden ihnen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert ständig mit deinen Knochen?",
+      "art": "mc",
+      "optionen": [
+        "Sie werden ab- und wieder aufgebaut",
+        "Sie bleiben unverändert",
+        "Sie werden jedes Jahr komplett ausgetauscht über Nacht",
+        "Sie trocknen aus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Knochen werden laufend umgebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stärkt die Knochen?",
+      "art": "mc",
+      "optionen": [
+        "Belastung durch Bewegung",
+        "Langes Liegen",
+        "Rauchen",
+        "Viel Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Knochen passen sich an Belastung an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Astronauten verlieren in der Schwerelosigkeit Knochenmasse.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ohne Belastung baut der Knochen ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Knochen sind lebendes Gewebe und werden ständig umgebaut.",
+        "Belastung macht sie stark, Bewegungsmangel schwächt sie.",
+        "Bewegung, Kalzium und Vitamin D beugen Osteoporose vor."
+      ]
+    }
+  ]
+}

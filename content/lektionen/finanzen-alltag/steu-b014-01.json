@@ -1,0 +1,107 @@
+{
+  "id": "steu-b014-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wer zahlt die Grundsteuer?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "grundsteuer",
+    "kommunen",
+    "nebenkosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Nebenkostenabrechnung deiner Mietwohnung steht ein Posten namens Grundsteuer. Du besitzt doch gar kein Grundstück.",
+        "Warum zahlst du sie trotzdem?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Steuer für die Gemeinden",
+      "absaetze": [
+        "Die Grundsteuer wird auf Grundstücke und Gebäude erhoben. Sie fließt an die Städte und Gemeinden und ist eine ihrer wichtigsten Einnahmequellen.",
+        "Damit bezahlen Kommunen zum Beispiel Schulen, Straßen, Spielplätze und Büchereien."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eigentümer zahlen, Mieter tragen mit",
+      "absaetze": [
+        "Steuerpflichtig sind die Eigentümer. Vermieter dürfen die Grundsteuer aber über die Nebenkosten auf die Mieter umlegen.",
+        "Deshalb betrifft sie fast alle Menschen, ob sie ein Haus besitzen oder zur Miete wohnen."
+      ],
+      "merke": "Über die Nebenkosten zahlen auch Mieter die Grundsteuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Reform",
+      "absaetze": [
+        "Das Bundesverfassungsgericht erklärte die alte Berechnung 2018 für verfassungswidrig, weil sie auf sehr alten Grundstückswerten beruhte. Seit 2025 gilt eine neue Berechnung.",
+        "Einige Bundesländer nutzen dabei eigene Modelle. Die Höhe hängt außerdem vom Hebesatz ab, den jede Gemeinde selbst festlegt. Deshalb ist die Grundsteuer von Ort zu Ort verschieden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "An wen fließt die Grundsteuer?",
+      "art": "mc",
+      "optionen": [
+        "An die Städte und Gemeinden",
+        "An die EU",
+        "An die Rentenversicherung",
+        "An die Krankenkassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist eine wichtige Einnahme der Kommunen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie zahlen Mieter die Grundsteuer mit?",
+      "art": "mc",
+      "optionen": [
+        "Über die Nebenkosten",
+        "Über die Lohnsteuer",
+        "Über die Mehrwertsteuer",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vermieter dürfen sie umlegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Höhe der Grundsteuer ist in allen Gemeinden gleich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Jede Gemeinde legt einen eigenen Hebesatz fest."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Grundsteuer finanziert Städte und Gemeinden.",
+        "Mieter tragen sie über die Nebenkosten mit.",
+        "Seit 2025 gilt eine neue Berechnung, die Höhe hängt vom Ort ab."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "geld-b014-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist die betriebliche Altersvorsorge?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Betriebliche Altersversorgung",
+      "herausgeber": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Haushalt",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "betriebsrente",
+    "altersvorsorge",
+    "arbeitgeber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Personalbüro fragt man dich, ob du einen Teil deines Gehalts in eine Betriebsrente umwandeln möchtest.",
+        "Was bedeutet das, und lohnt es sich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sparen über den Arbeitgeber",
+      "absaetze": [
+        "Bei der betrieblichen Altersvorsorge spart man über den Arbeitgeber für das Alter. Oft wird ein Teil des Bruttogehalts direkt in einen Vorsorgevertrag eingezahlt. Das heißt Entgeltumwandlung.",
+        "Angestellte haben einen gesetzlichen Anspruch darauf. Viele Arbeitgeber zahlen außerdem eigene Beiträge."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile und Zuschuss",
+      "absaetze": [
+        "Auf den umgewandelten Betrag fallen in der Ansparphase bis zu bestimmten Grenzen weder Steuern noch Sozialabgaben an. Spart der Arbeitgeber dadurch Sozialabgaben, muss er bei neueren Verträgen in der Regel einen Zuschuss von 15 Prozent dazugeben.",
+        "Später, im Rentenalter, sind die Auszahlungen allerdings steuer- und meist auch beitragspflichtig."
+      ],
+      "merke": "Mit Arbeitgeberzuschuss lohnt sich eine Betriebsrente oft eher."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genau hinschauen",
+      "absaetze": [
+        "Wie gut sich eine Betriebsrente lohnt, hängt stark vom Vertrag, den Kosten und dem Arbeitgeberanteil ab. Weniger Sozialabgaben können außerdem etwas geringere gesetzliche Rentenansprüche bedeuten.",
+        "Verbraucherschützer raten, sich die Bedingungen genau erklären zu lassen und nachzufragen, was bei einem Jobwechsel mit dem Vertrag passiert."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man es, wenn ein Teil des Bruttogehalts in die Betriebsrente fließt?",
+      "art": "mc",
+      "optionen": [
+        "Entgeltumwandlung",
+        "Lohnpfändung",
+        "Kurzarbeit",
+        "Sonderzahlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist die Entgeltumwandlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Arbeitgeberzuschuss in der Regel, wenn er Sozialabgaben spart?",
+      "art": "mc",
+      "optionen": [
+        "15 Prozent",
+        "1 Prozent",
+        "50 Prozent",
+        "100 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei neueren Verträgen ist meist ein Zuschuss von 15 Prozent vorgeschrieben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auszahlungen aus der Betriebsrente sind im Alter immer steuerfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind im Alter steuer- und meist beitragspflichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei der Betriebsrente spart man über den Arbeitgeber.",
+        "In der Ansparphase sinken Steuern und Abgaben, oft gibt es einen Zuschuss.",
+        "Bedingungen und Kosten sollte man genau prüfen."
+      ]
+    }
+  ]
+}
