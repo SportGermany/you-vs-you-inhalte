@@ -1,0 +1,138 @@
+{
+  "id": "supp-b002-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Wann sind Eisentabletten sinnvoll?",
+  "minuten": 5,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "eisen",
+    "blut",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du bist ständig müde und blass. Im Internet liest du: Eisenmangel!",
+        "Sollte man da einfach Eisentabletten kaufen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu der Körper Eisen braucht",
+      "absaetze": [
+        "Eisen ist ein Baustein des roten Blutfarbstoffs Hämoglobin. Er transportiert Sauerstoff von der Lunge in den ganzen Körper.",
+        "Fehlt Eisen lange, kann eine Blutarmut entstehen, auch Anämie genannt. Typisch sind Müdigkeit, Blässe und geringe Belastbarkeit."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer häufiger betroffen ist",
+      "absaetze": [
+        "Laut WHO ist Eisenmangel weltweit der häufigste Nährstoffmangel. In Deutschland betrifft er vor allem Frauen mit starker Regelblutung, Schwangere und Menschen mit bestimmten Darmerkrankungen.",
+        "Ob ein Mangel vorliegt, zeigt nur eine Blutuntersuchung. Dabei wird oft das Speichereiweiß Ferritin gemessen."
+      ],
+      "merke": "Erst messen lassen, dann handeln.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eisen aus dem Essen",
+      "absaetze": [
+        "Gut verfügbares Eisen steckt in Fleisch und Fisch. Pflanzliche Quellen sind Hülsenfrüchte, Vollkorn und Nüsse.",
+        "Vitamin C, etwa aus Paprika oder Orangen, verbessert die Aufnahme. Kaffee und schwarzer Tee zur Mahlzeit hemmen sie."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Zu viel Eisen kann Organe schädigen. Menschen mit der Erbkrankheit Hämochromatose speichern ohnehin zu viel Eisen.",
+        "Eisenpräparate verursachen oft Magen-Darm-Beschwerden. Für Kinder sind sie gefährlich, bewahre sie unerreichbar auf.",
+        "Eisen kann die Wirkung mancher Medikamente stören, etwa von Schilddrüsenhormonen. Sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Müdigkeit bedeutet fast immer Eisenmangel.",
+      "urteil": "mythos",
+      "erklaerung": "Müdigkeit hat viele mögliche Ursachen, etwa Schlafmangel, Stress, Infekte oder Schilddrüsenprobleme. Eisenmangel ist nur eine davon und lässt sich nur per Bluttest sicher feststellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür braucht der Körper Eisen vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Für den Sauerstofftransport im Blut",
+        "Für das Haarwachstum allein",
+        "Für die Verdauung von Fett",
+        "Für die Bildung von Vitamin D"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eisen ist ein Baustein des Hämoglobins."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kaffee zur Mahlzeit verbessert die Eisenaufnahme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Kaffee und schwarzer Tee hemmen die Aufnahme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Wert wird oft gemessen, um die Eisenspeicher zu prüfen?",
+      "art": "mc",
+      "optionen": [
+        "Cholesterin",
+        "Ferritin",
+        "Blutzucker",
+        "Kalium"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ferritin zeigt, wie gut die Speicher gefüllt sind."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eisen transportiert als Teil des Hämoglobins Sauerstoff.",
+        "Ein Mangel zeigt sich sicher nur im Bluttest.",
+        "Vitamin C fördert die Aufnahme, Kaffee und Tee hemmen sie."
+      ]
+    }
+  ]
+}

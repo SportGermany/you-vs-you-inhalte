@@ -1,0 +1,122 @@
+{
+  "id": "supp-b002-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Lohnen sich Omega-3-Kapseln?",
+  "minuten": 5,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dietary Reference Values",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "omega-3",
+    "fischoel",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Drogerie stehen Fischölkapseln gleich neben der Kasse. Gut fürs Herz, steht auf der Packung.",
+        "Brauchst du die, wenn du selten Fisch isst?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Omega-3-Fettsäuren sind",
+      "absaetze": [
+        "Omega-3-Fettsäuren sind mehrfach ungesättigte Fette, die der Körper nicht ausreichend selbst herstellen kann. Wichtig sind vor allem EPA und DHA aus fettem Fisch.",
+        "Pflanzliche Quellen wie Leinöl, Rapsöl und Walnüsse liefern die Vorstufe ALA. Der Körper wandelt davon nur einen kleinen Teil in EPA und DHA um."
+      ],
+      "merke": "Fetter Fisch liefert EPA und DHA direkt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Wer regelmäßig Fisch isst, hat in Beobachtungsstudien ein geringeres Herz-Kreislauf-Risiko. Für Kapseln bei gesunden Menschen ist der Nutzen in großen Studien deutlich kleiner oder unklar.",
+        "Die DGE empfiehlt, ein- bis zweimal pro Woche Fisch zu essen, davon gern fetten Seefisch."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Omega-3-Präparate können die Blutgerinnung beeinflussen. Wer gerinnungshemmende Medikamente nimmt, sollte das ärztlich besprechen.",
+        "Studien deuten darauf hin, dass hohe Mengen das Risiko für Vorhofflimmern erhöhen können, eine Herzrhythmusstörung. Sprich vor einer Einnahme mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Omega-3-Fettsäuren stecken vor allem in fettem Fisch?",
+      "art": "mc",
+      "optionen": [
+        "EPA und DHA",
+        "Nur ALA",
+        "Transfette",
+        "Cholesterin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fetter Fisch liefert EPA und DHA."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Körper wandelt pflanzliches ALA vollständig in EPA und DHA um.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur ein kleiner Teil wird umgewandelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft empfiehlt die DGE, Fisch zu essen?",
+      "art": "mc",
+      "optionen": [
+        "Nie",
+        "Ein- bis zweimal pro Woche",
+        "Jeden Tag dreimal",
+        "Einmal im Jahr"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein- bis zweimal pro Woche ist die Empfehlung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Omega-3-Fettsäuren muss der Körper größtenteils aufnehmen.",
+        "Fisch zu essen ist gut untersucht, der Nutzen von Kapseln bei Gesunden ist unklarer.",
+        "Leinöl, Rapsöl und Walnüsse liefern pflanzliches Omega-3."
+      ]
+    }
+  ]
+}

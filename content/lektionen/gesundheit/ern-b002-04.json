@@ -1,0 +1,123 @@
+{
+  "id": "ern-b002-04",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist der Zucker im Obst ein Problem?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zucker",
+    "obst",
+    "fruchtzucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Freundin isst keine Bananen mehr. Zu viel Zucker, sagt sie.",
+        "Ist Obst wirklich so süß, dass man es meiden sollte?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Freier Zucker und Zucker im Obst",
+      "absaetze": [
+        "Die WHO unterscheidet zwischen freiem Zucker und Zucker, der natürlich in ganzem Obst steckt. Freier Zucker ist zugesetzter Zucker sowie Zucker in Honig, Sirup und Säften.",
+        "Die Empfehlung der WHO, freien Zucker zu begrenzen, gilt nicht für ganzes Obst und Gemüse."
+      ],
+      "merke": "Zucker in ganzem Obst zählt nicht zum freien Zucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum ganzes Obst anders ist",
+      "absaetze": [
+        "Im ganzen Obst ist der Zucker in Zellen und Ballaststoffe eingebunden. Er gelangt langsamer ins Blut.",
+        "Dazu liefert Obst Vitamine, Mineralstoffe und sekundäre Pflanzenstoffe. Studien verbinden reichlich Obst und Gemüse mit einem geringeren Risiko für Herz-Kreislauf-Erkrankungen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Saft ist nicht dasselbe",
+      "absaetze": [
+        "Beim Saft fehlen die meisten Ballaststoffe. Ein Glas enthält den Zucker mehrerer Früchte und macht kaum satt.",
+        "Deshalb zählt die WHO Zucker in Fruchtsäften zum freien Zucker."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Smoothies sind genauso gut wie ganzes Obst.",
+      "urteil": "teils",
+      "erklaerung": "Smoothies enthalten mehr Ballaststoffe als klarer Saft, weil das Fruchtfleisch bleibt. Sie werden aber schnell getrunken und machen weniger satt als ganzes Obst. Ab und zu sind sie in Ordnung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zählt die WHO Zucker aus ganzem Obst zum freien Zucker?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Natürlicher Zucker in ganzem Obst ist ausgenommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört laut WHO zum freien Zucker?",
+      "art": "mc",
+      "optionen": [
+        "Zucker in einem Apfel",
+        "Zucker in Fruchtsaft",
+        "Zucker in Karotten",
+        "Milchzucker in Milch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Zucker in Säften, Honig und Sirup zählt zum freien Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gelangt Zucker aus ganzem Obst langsamer ins Blut?",
+      "art": "mc",
+      "optionen": [
+        "Weil er in Zellen und Ballaststoffe eingebunden ist",
+        "Weil Obst kalt ist",
+        "Weil Obst kein Wasser enthält",
+        "Weil der Magen ihn nicht verdaut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Struktur des Obstes bremst die Aufnahme."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ganzes Obst ist kein Zuckerproblem.",
+        "Freier Zucker umfasst zugesetzten Zucker, Honig, Sirup und Säfte.",
+        "Saft ersetzt kein ganzes Obst."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ern-b002-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie viel solltest du am Tag trinken?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dietary Reference Values",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "wasser",
+    "trinken",
+    "fluessigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Überall siehst du Menschen mit großen Trinkflaschen. Manche notieren jedes Glas in einer App.",
+        "Du fragst dich: Trinke ich eigentlich genug?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Richtwert",
+      "absaetze": [
+        "Die DGE nennt für Erwachsene einen Richtwert von etwa 1,5 Litern über Getränke pro Tag. Dazu kommt Wasser aus dem Essen, vor allem aus Obst, Gemüse und Suppen.",
+        "Bei Hitze, Sport oder Fieber braucht der Körper deutlich mehr."
+      ],
+      "merke": "Etwa 1,5 Liter Getränke pro Tag ist der Richtwert der DGE für Erwachsene.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper meldet sich",
+      "absaetze": [
+        "Gesunde Erwachsene haben ein zuverlässiges Durstgefühl. Ein guter Hinweis ist auch die Farbe des Urins: hellgelb ist meist in Ordnung.",
+        "Ältere Menschen spüren Durst oft schwächer. Für sie kann es helfen, feste Trinkzeiten einzuplanen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ins Glas kommt",
+      "absaetze": [
+        "Am besten geeignet sind Wasser und ungesüßte Tees. Säfte und Limonaden liefern viel Zucker.",
+        "Auch Kaffee und Tee zählen zur Flüssigkeit. Die Vorstellung, Kaffee entziehe dem Körper Wasser, gilt bei üblichen Mengen als widerlegt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Je mehr Wasser, desto gesünder.",
+      "urteil": "mythos",
+      "erklaerung": "Gesunde Nieren scheiden Überschuss aus, ein Zusatznutzen ist nicht belegt. Sehr große Mengen in kurzer Zeit können sogar gefährlich werden, weil der Salzgehalt im Blut zu stark sinkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Richtwert für Getränke nennt die DGE für Erwachsene?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 0,5 Liter",
+        "Etwa 1,5 Liter",
+        "Etwa 4 Liter",
+        "Etwa 6 Liter"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Richtwert liegt bei etwa 1,5 Litern über Getränke."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kaffee zählt bei üblichen Mengen zur täglichen Flüssigkeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die entwässernde Wirkung ist bei üblichen Mengen gering."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer spürt Durst oft schwächer?",
+      "art": "mc",
+      "optionen": [
+        "Kinder",
+        "Ältere Menschen",
+        "Sportler",
+        "Schwangere"
+      ],
+      "richtig": 1,
+      "erklaerung": "Im Alter lässt das Durstgefühl häufig nach."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Etwa 1,5 Liter Getränke am Tag ist der Richtwert für Erwachsene.",
+        "Bei Hitze und Sport brauchst du mehr.",
+        "Wasser und ungesüßter Tee sind die beste Wahl.",
+        "Viel mehr bringt keinen Zusatznutzen."
+      ]
+    }
+  ]
+}

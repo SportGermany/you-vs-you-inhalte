@@ -1,0 +1,124 @@
+{
+  "id": "ern-b002-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Hülsenfrüchten?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "huelsenfruechte",
+    "eiweiss",
+    "linsen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Supermarktregal stehen Linsen, Bohnen und Kichererbsen. Du gehst meist daran vorbei.",
+        "Dabei gelten sie bei Ernährungsfachleuten als kleine Kraftpakete. Warum eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eiweiß aus der Pflanze",
+      "absaetze": [
+        "Hülsenfrüchte sind die Samen von Pflanzen wie Bohnen, Erbsen, Linsen und Kichererbsen. Sie enthalten für Pflanzen viel Eiweiß.",
+        "Damit sind sie eine wichtige Eiweißquelle, gerade für Menschen, die wenig Fleisch essen. Zusammen mit Getreide ergänzt sich das Eiweiß gut."
+      ],
+      "merke": "Hülsenfrüchte sind eine der besten pflanzlichen Eiweißquellen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Ballaststoff, wenig Fett",
+      "absaetze": [
+        "Hülsenfrüchte liefern reichlich Ballaststoffe, Kalium, Eisen und Folat. Folat ist ein B-Vitamin, das für die Zellteilung gebraucht wird.",
+        "Sie enthalten kaum Fett und machen lange satt. Die DGE empfiehlt, Hülsenfrüchte regelmäßig auf den Speiseplan zu setzen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und die Blähungen?",
+      "absaetze": [
+        "Bestimmte Zucker in Hülsenfrüchten werden erst im Dickdarm von Bakterien abgebaut. Dabei entstehen Gase.",
+        "Der Darm gewöhnt sich oft daran, wenn du sie regelmäßig isst. Einweichen, gutes Garen und kleine Mengen am Anfang helfen vielen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Rohe Bohnen kann man bedenkenlos essen.",
+      "urteil": "mythos",
+      "erklaerung": "Rohe Bohnen enthalten Stoffe wie Phasin, die giftig sein können. Erst gründliches Kochen macht sie unschädlich. Linsen und Bohnen sollten deshalb immer gegart werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört nicht zu den Hülsenfrüchten?",
+      "art": "mc",
+      "optionen": [
+        "Linsen",
+        "Kichererbsen",
+        "Kartoffeln",
+        "Bohnen"
+      ],
+      "richtig": 2,
+      "erklaerung": "Kartoffeln sind Knollen, keine Hülsenfrüchte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rohe Bohnen sollten vor dem Essen gründlich gekocht werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kochen macht giftige Inhaltsstoffe wie Phasin unschädlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum entstehen nach Hülsenfrüchten oft Blähungen?",
+      "art": "mc",
+      "optionen": [
+        "Wegen des hohen Fettgehalts",
+        "Weil Darmbakterien bestimmte Zucker abbauen",
+        "Wegen des Salzes",
+        "Weil sie zu wenig Wasser enthalten"
+      ],
+      "richtig": 1,
+      "erklaerung": "Bakterien im Dickdarm bauen bestimmte Zucker ab, dabei entstehen Gase."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hülsenfrüchte liefern viel pflanzliches Eiweiß.",
+        "Sie enthalten viele Ballaststoffe und kaum Fett.",
+        "Rohe Bohnen immer gründlich kochen.",
+        "Der Darm gewöhnt sich meist an regelmäßige Portionen."
+      ]
+    }
+  ]
+}

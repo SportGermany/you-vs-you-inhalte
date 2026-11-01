@@ -1,0 +1,107 @@
+{
+  "id": "welt-b002-03",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Alexander der Große?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "antike",
+    "griechenland",
+    "makedonien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein junger Mann wird mit 20 Jahren König. Zwölf Jahre später reicht sein Reich von Griechenland bis Indien.",
+        "Sein Name ist bis heute bekannt: Alexander der Große."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein König aus Makedonien",
+      "absaetze": [
+        "Alexander wurde 356 vor Christus in Makedonien geboren, einem Königreich im Norden Griechenlands. Sein Lehrer war der Philosoph Aristoteles.",
+        "Nach der Ermordung seines Vaters Philipp II. wurde er 336 vor Christus König."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Feldzug bis nach Indien",
+      "absaetze": [
+        "Alexander besiegte das riesige Perserreich in mehreren Schlachten. Er gründete viele Städte, die bekannteste ist Alexandria in Ägypten.",
+        "Sein Heer zog bis an den Indus. Dort weigerten sich die Soldaten weiterzuziehen. Alexander starb 323 vor Christus in Babylon, mit nur 32 Jahren."
+      ],
+      "merke": "In nur zwölf Jahren eroberte Alexander ein Weltreich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was blieb",
+      "absaetze": [
+        "Nach seinem Tod zerfiel das Reich unter seinen Generälen. Die griechische Sprache und Kultur verbreiteten sich aber im ganzen Osten des Mittelmeers.",
+        "Diese Epoche nennt man Hellenismus. Sie prägte später auch das Römische Reich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer war Alexanders Lehrer?",
+      "art": "mc",
+      "optionen": [
+        "Sokrates",
+        "Aristoteles",
+        "Platon",
+        "Homer"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Philosoph Aristoteles unterrichtete den jungen Alexander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Reich besiegte Alexander?",
+      "art": "mc",
+      "optionen": [
+        "Das Römische Reich",
+        "Das Perserreich",
+        "Das Reich der Inka",
+        "Das Chinesische Kaiserreich"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er eroberte das Perserreich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alexanders Reich blieb nach seinem Tod als Einheit bestehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es zerfiel unter seinen Generälen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alexander wurde 336 vor Christus König von Makedonien.",
+        "Er eroberte das Perserreich und zog bis nach Indien.",
+        "Die Verbreitung griechischer Kultur nennt man Hellenismus."
+      ]
+    }
+  ]
+}

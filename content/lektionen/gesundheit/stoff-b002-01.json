@@ -1,0 +1,124 @@
+{
+  "id": "stoff-b002-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was macht Insulin in deinem Körper?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zu Diabetes",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "insulin",
+    "blutzucker",
+    "hormone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Teller Nudeln steigt dein Blutzucker an. Kurz darauf sinkt er wieder.",
+        "Dahinter steckt ein Hormon, das ständig im Einsatz ist: Insulin."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Schlüssel für die Zellen",
+      "absaetze": [
+        "Insulin wird in der Bauchspeicheldrüse gebildet. Steigt der Blutzucker, schüttet sie Insulin ins Blut aus.",
+        "Insulin sorgt dafür, dass Zucker aus dem Blut in Muskel-, Fett- und Leberzellen gelangt. So sinkt der Blutzucker wieder."
+      ],
+      "merke": "Insulin senkt den Blutzucker, indem es Zucker in die Zellen bringt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Speicherhormon",
+      "absaetze": [
+        "Insulin fördert auch das Speichern von Energie. Die Leber legt Zuckerspeicher an, Fettzellen nehmen Fett auf.",
+        "Sinkt der Insulinspiegel, etwa zwischen den Mahlzeiten, kann der Körper wieder auf seine Speicher zugreifen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn Insulin schlechter wirkt",
+      "absaetze": [
+        "Bei einer Insulinresistenz reagieren die Zellen schwächer auf Insulin. Die Bauchspeicheldrüse muss dann mehr davon bilden.",
+        "Das kann über Jahre zu Typ-2-Diabetes führen. Bewegung verbessert die Wirkung von Insulin nachweislich, auch Gewichtsabnahme bei Übergewicht hilft."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Insulin ist ein Dickmacher, den man vermeiden muss.",
+      "urteil": "mythos",
+      "erklaerung": "Insulin ist lebenswichtig. Ohne Insulin kann der Körper Zucker nicht nutzen. Für das Körpergewicht zählt die gesamte Energiebilanz über längere Zeit, nicht einzelne Insulinspitzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird Insulin gebildet?",
+      "art": "mc",
+      "optionen": [
+        "In der Leber",
+        "In der Bauchspeicheldrüse",
+        "Im Magen",
+        "In der Schilddrüse"
+      ],
+      "richtig": 1,
+      "erklaerung": "Insulin stammt aus der Bauchspeicheldrüse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Insulin lässt den Blutzucker steigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Insulin senkt den Blutzucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbessert die Wirkung von Insulin nachweislich?",
+      "art": "mc",
+      "optionen": [
+        "Bewegung",
+        "Wenig Schlaf",
+        "Viel Limonade",
+        "Langes Sitzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aktive Muskeln nehmen Zucker leichter auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Insulin bringt Zucker aus dem Blut in die Zellen.",
+        "Es fördert das Speichern von Energie.",
+        "Bei Insulinresistenz wirkt es schwächer, Bewegung hilft dagegen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b002-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie lang sollte ein Mittagsschlaf sein?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mittagsschlaf",
+    "nickerchen",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Mittagessen wirst du schläfrig. In Spanien gibt es dafür die Siesta.",
+        "Ist ein Nickerchen eine gute Idee oder bringt es dich durcheinander?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Tief am frühen Nachmittag",
+      "absaetze": [
+        "Viele Menschen haben am frühen Nachmittag ein Leistungstief. Es gehört zum natürlichen Tagesrhythmus und tritt auch ohne Mittagessen auf.",
+        "Ein kurzes Nickerchen kann Aufmerksamkeit und Stimmung danach verbessern. Das zeigen mehrere Studien."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurz ist besser",
+      "absaetze": [
+        "Fachleute empfehlen meist etwa 10 bis 20 Minuten. Dann bleibst du im Leichtschlaf.",
+        "Schläfst du länger, rutschst du leicht in den Tiefschlaf. Beim Aufwachen bist du dann benommen. Diese Benommenheit heißt Schlafträgheit."
+      ],
+      "merke": "10 bis 20 Minuten verhindern die Benommenheit danach.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für alle",
+      "absaetze": [
+        "Wer nachts schlecht einschläft, sollte tagsüber eher nicht schlafen. Das Nickerchen verringert den Schlafdruck für die Nacht.",
+        "Auch ein spätes Nickerchen am Abend kann das Einschlafen erschweren."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Dauer empfehlen Fachleute für ein Nickerchen meist?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 10 bis 20 Minuten",
+        "Etwa 2 Stunden",
+        "Etwa 5 Sekunden",
+        "Etwa 4 Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kurze Nickerchen halten dich im Leichtschlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Benommenheit nach dem Aufwachen aus dem Tiefschlaf?",
+      "art": "mc",
+      "optionen": [
+        "Jetlag",
+        "Schlafträgheit",
+        "Schlafwandeln",
+        "Sekundenschlaf"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das ist die Schlafträgheit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer nachts schlecht einschläft, profitiert besonders von langen Nickerchen am Abend.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das senkt den Schlafdruck für die Nacht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Tief am frühen Nachmittag ist normal.",
+        "Kurze Nickerchen von 10 bis 20 Minuten sind meist am günstigsten.",
+        "Bei Einschlafproblemen lieber tagsüber wach bleiben."
+      ]
+    }
+  ]
+}

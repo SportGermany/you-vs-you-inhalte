@@ -1,0 +1,124 @@
+{
+  "id": "stoff-b002-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum macht Eiweiß so gut satt?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dietary Reference Values",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "eiweiss",
+    "saettigung",
+    "protein"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zum Frühstück gibt es einmal Toast mit Marmelade, einmal Joghurt mit Haferflocken. Nach dem Toast knurrt dein Magen früher.",
+        "Ein Grund dafür ist das Eiweiß."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Sattmacher",
+      "absaetze": [
+        "Eiweiß, auch Protein genannt, gilt unter den Hauptnährstoffen als besonders sättigend. Es beeinflusst Hormone, die dem Gehirn Sättigung melden.",
+        "Mahlzeiten mit Eiweiß und Ballaststoffen halten deshalb bei vielen Menschen länger vor als reine Zucker- oder Weißmehlmahlzeiten."
+      ],
+      "merke": "Eiweiß und Ballaststoffe zusammen machen lange satt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verdauen kostet Energie",
+      "absaetze": [
+        "Beim Verdauen verbraucht der Körper selbst Energie. Fachleute nennen das den thermischen Effekt der Nahrung.",
+        "Bei Eiweiß ist dieser Effekt deutlich höher als bei Fett oder Kohlenhydraten. Insgesamt macht er aber nur einen kleinen Teil des Tagesverbrauchs aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Muskeln erhalten",
+      "absaetze": [
+        "Wer Gewicht verliert, verliert oft auch Muskeln. Ausreichend Eiweiß und Krafttraining helfen, Muskelmasse zu erhalten.",
+        "Gute Quellen sind Hülsenfrüchte, Milchprodukte, Eier, Fisch, Fleisch und Tofu. Mehr als den Bedarf zu essen, bringt Gesunden keinen Zusatznutzen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Je mehr Eiweiß, desto besser.",
+      "urteil": "mythos",
+      "erklaerung": "Der Körper kann überschüssiges Eiweiß nicht als Muskel speichern. Die meisten Menschen in Deutschland erreichen die Empfehlung ohnehin. Bei Nierenerkrankungen kann viel Eiweiß sogar ungünstig sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man die Energie, die der Körper zum Verdauen braucht?",
+      "art": "mc",
+      "optionen": [
+        "Grundumsatz",
+        "Thermischer Effekt der Nahrung",
+        "Muskelkater",
+        "Ruhepuls"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das ist der thermische Effekt der Nahrung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Verdauen von Eiweiß verbraucht der Körper mehr Energie als beim Verdauen von Fett.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der thermische Effekt ist bei Eiweiß am höchsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft beim Abnehmen, Muskelmasse zu erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Ausreichend Eiweiß und Krafttraining",
+        "Möglichst wenig trinken",
+        "Lange Fastenperioden ohne Bewegung",
+        "Nur Obst essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eiweiß und Krafttraining schützen die Muskeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eiweiß macht lange satt.",
+        "Seine Verdauung kostet vergleichsweise viel Energie.",
+        "Mit Krafttraining hilft es, Muskeln zu erhalten.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b002-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was passiert in den Schlafphasen?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafphasen",
+    "rem",
+    "tiefschlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du schläfst ein und wachst morgens auf. Dazwischen scheint nichts zu passieren.",
+        "In Wirklichkeit durchläuft dein Gehirn jede Nacht ein festes Programm."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leichtschlaf und Tiefschlaf",
+      "absaetze": [
+        "Fachleute teilen den Schlaf in Phasen ein. Nach dem Einschlafen folgt Leichtschlaf, danach Tiefschlaf.",
+        "Im Tiefschlaf werden die Hirnwellen langsam und groß. Der Körper ist schwer zu wecken. Diese Phase gilt als besonders wichtig für die körperliche Erholung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der REM-Schlaf",
+      "absaetze": [
+        "REM steht für Rapid Eye Movement, also schnelle Augenbewegungen. In dieser Phase ist das Gehirn sehr aktiv und wir träumen besonders lebhaft.",
+        "Die Muskeln sind dabei weitgehend gelähmt. So setzt du deine Träume nicht in Bewegung um."
+      ],
+      "merke": "Im REM-Schlaf träumst du lebhaft, die Muskeln sind schlaff.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zyklen durch die Nacht",
+      "absaetze": [
+        "Ein Schlafzyklus dauert etwa 90 Minuten. In einer Nacht durchläufst du meist vier bis sechs davon.",
+        "In der ersten Nachthälfte gibt es mehr Tiefschlaf, in der zweiten mehr REM-Schlaf. Kurzes Aufwachen zwischen den Zyklen ist normal."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Wer nachts kurz aufwacht, hat einen schlechten Schlaf.",
+      "urteil": "mythos",
+      "erklaerung": "Kurze Wachphasen zwischen den Schlafzyklen sind normal. Meist erinnert man sich gar nicht daran. Erst wenn man lange wach liegt und tagsüber erschöpft ist, lohnt ein genauerer Blick."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht REM?",
+      "art": "mc",
+      "optionen": [
+        "Rapid Eye Movement",
+        "Rest and Energy Mode",
+        "Real Error Message",
+        "Rhythmic Energy Motion"
+      ],
+      "richtig": 0,
+      "erklaerung": "REM bedeutet schnelle Augenbewegungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert ein Schlafzyklus ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "10 Minuten",
+        "90 Minuten",
+        "4 Stunden",
+        "8 Stunden"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein Zyklus dauert etwa 90 Minuten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In der ersten Nachthälfte gibt es mehr Tiefschlaf als in der zweiten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gegen Morgen nimmt der REM-Schlaf zu."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlaf besteht aus Leichtschlaf, Tiefschlaf und REM-Schlaf.",
+        "Ein Zyklus dauert etwa 90 Minuten.",
+        "Tiefschlaf überwiegt am Anfang, REM-Schlaf gegen Morgen.",
+        "Kurzes Aufwachen ist normal."
+      ]
+    }
+  ]
+}
