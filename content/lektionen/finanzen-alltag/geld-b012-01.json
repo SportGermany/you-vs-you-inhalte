@@ -1,0 +1,107 @@
+{
+  "id": "geld-b012-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was speichert die Schufa über dich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld und Kredite",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schufa",
+    "bonitaet",
+    "datenauskunft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du willst eine Wohnung mieten. Der Vermieter verlangt eine Schufa-Auskunft.",
+        "Was steht da eigentlich über dich drin?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Auskunftei",
+      "absaetze": [
+        "Die Schufa ist die größte Auskunftei in Deutschland. Sie sammelt Daten darüber, wie Menschen mit Krediten und Zahlungen umgehen.",
+        "Dazu gehören Girokonten, Kreditkarten, Kredite, Handyverträge und Zahlungsausfälle. Nicht gespeichert werden etwa Einkommen, Vermögen oder Kontostand."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Score",
+      "absaetze": [
+        "Aus den Daten berechnet die Schufa einen Score. Er soll ausdrücken, wie wahrscheinlich es ist, dass jemand seine Rechnungen zahlt.",
+        "Unternehmen nutzen ihn, bevor sie einen Kredit oder Vertrag vergeben. Negative Einträge wie nicht bezahlte, angemahnte Rechnungen können den Score stark senken."
+      ],
+      "merke": "Zahlungsausfälle verschlechtern den Score am stärksten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dein Recht auf Auskunft",
+      "absaetze": [
+        "Nach der Datenschutz-Grundverordnung kannst du einmal im Jahr kostenlos eine Kopie deiner gespeicherten Daten verlangen. Achte darauf, die kostenlose Datenkopie zu wählen und nicht ein kostenpflichtiges Produkt.",
+        "Falsche Einträge musst du nicht hinnehmen. Du kannst ihre Berichtigung oder Löschung verlangen. Verbraucherzentralen helfen dabei."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was speichert die Schufa nicht?",
+      "art": "mc",
+      "optionen": [
+        "Das Einkommen",
+        "Kredite",
+        "Girokonten",
+        "Zahlungsausfälle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Einkommen und Vermögen sind nicht gespeichert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann den Schufa-Score stark senken?",
+      "art": "mc",
+      "optionen": [
+        "Nicht bezahlte, angemahnte Rechnungen",
+        "Ein neues Handy",
+        "Ein Umzug",
+        "Ein höheres Gehalt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zahlungsausfälle wirken sich besonders negativ aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du kannst einmal im Jahr kostenlos eine Kopie deiner Schufa-Daten verlangen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ergibt sich aus der Datenschutz-Grundverordnung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Schufa sammelt Daten zu Krediten, Konten und Zahlungsausfällen.",
+        "Daraus berechnet sie einen Score für die Zahlungsfähigkeit.",
+        "Eine kostenlose Datenkopie steht dir einmal im Jahr zu."
+      ]
+    }
+  ]
+}

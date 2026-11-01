@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b012-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie genau messen Schlaftracker deinen Schlaf?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlaftracker",
+    "wearables",
+    "schlafphasen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Smartwatch zeigt morgens: nur 42 Minuten Tiefschlaf. Du fühlst dich trotzdem ausgeruht.",
+        "Wem solltest du glauben?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Tracker messen",
+      "absaetze": [
+        "Fitnessarmbänder und Smartwatches messen meist Bewegungen und Herzschlag, manche auch weitere Werte. Daraus schätzen sie, wann du schläfst und in welcher Phase.",
+        "Im Schlaflabor werden dagegen Hirnströme, Augenbewegungen und Muskelspannung gemessen. Das ist die genaue Methode, mit der Schlafphasen bestimmt werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie können und was nicht",
+      "absaetze": [
+        "Die Gesamtschlafzeit schätzen viele Geräte einigermaßen gut. Bei den einzelnen Schlafphasen liegen sie im Vergleich zum Schlaflabor oft deutlich daneben.",
+        "Tracker können helfen, Muster über Wochen zu erkennen, etwa ob du am Wochenende viel später schläfst. Einzelne Nächte und genaue Phasenangaben solltest du nicht überbewerten."
+      ],
+      "merke": "Für Trends brauchbar, für Schlafphasen ungenau.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn Messen stresst",
+      "absaetze": [
+        "Manche Menschen machen sich wegen der Daten so viele Sorgen, dass sie schlechter schlafen. Fachleute sprechen von Orthosomnie.",
+        "Wie du dich tagsüber fühlst, ist oft aussagekräftiger als die Zahl auf dem Display. Bei anhaltenden Schlafproblemen ist ärztlicher Rat besser als jede App."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was messen viele Schlaftracker hauptsächlich?",
+      "art": "mc",
+      "optionen": [
+        "Bewegungen und Herzschlag",
+        "Hirnströme",
+        "Blutzucker",
+        "Träume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus schätzen sie den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei sind Schlaftracker oft ungenau?",
+      "art": "mc",
+      "optionen": [
+        "Bei den einzelnen Schlafphasen",
+        "Bei der Uhrzeit",
+        "Beim Datum",
+        "Bei der Akkuanzeige"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlafphasen werden oft deutlich falsch eingeschätzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sorgen über Schlafdaten können den Schlaf verschlechtern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das nennt man Orthosomnie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tracker schätzen Schlaf aus Bewegung und Herzschlag.",
+        "Für langfristige Trends sind sie brauchbar, für Phasen ungenau.",
+        "Dein Befinden am Tag ist oft aussagekräftiger als die Zahlen."
+      ]
+    }
+  ]
+}

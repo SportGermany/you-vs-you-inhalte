@@ -1,0 +1,129 @@
+{
+  "id": "ern-b012-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Gibt es eine gesunde Menge Alkohol?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Monographs",
+      "herausgeber": "Internationale Agentur für Krebsforschung (IARC)",
+      "url": "https://www.iarc.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "alkohol",
+    "krebsrisiko",
+    "gesundheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Glas Rotwein am Abend sei gut fürs Herz, hast du oft gehört.",
+        "Fachgesellschaften sehen das inzwischen deutlich kritischer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Alkohol im Körper macht",
+      "absaetze": [
+        "Alkohol wird in der Leber zu Acetaldehyd abgebaut. Dieser Stoff kann das Erbgut in Zellen schädigen.",
+        "Die Internationale Agentur für Krebsforschung stuft alkoholische Getränke als krebserregend ein. Alkohol erhöht unter anderem das Risiko für Krebs in Mund, Rachen, Speiseröhre, Leber, Darm und Brust."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein risikofreier Konsum",
+      "absaetze": [
+        "Die WHO betont, dass es für Krebs keine nachweislich sichere Menge Alkohol gibt. Das Risiko steigt mit der Menge, beginnt aber schon bei geringem Konsum.",
+        "Die DGE empfiehlt seit 2024, auf Alkohol möglichst zu verzichten. Wer trinkt, sollte wenig trinken und nicht täglich."
+      ],
+      "merke": "Weniger Alkohol ist besser, kein Alkohol am besten für die Gesundheit.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und das Herz?",
+      "absaetze": [
+        "Frühere Studien schienen zu zeigen, dass Menschen mit geringem Konsum seltener Herzkrankheiten haben als Abstinente. Neuere Auswertungen deuten darauf hin, dass dies zum Teil an methodischen Problemen lag.",
+        "Unter den Nichttrinkern waren zum Beispiel oft Menschen, die wegen Krankheit aufgehört hatten. Ein Schutz durch Rotwein gilt heute als nicht belegt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Ein Glas Rotwein am Tag schützt das Herz.",
+      "urteil": "mythos",
+      "erklaerung": "Neuere Auswertungen zeigen, dass frühere Hinweise auf einen Schutz durch methodische Fehler verzerrt sein könnten. Dagegen ist gut belegt, dass schon geringe Mengen Alkohol das Krebsrisiko erhöhen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stuft die IARC alkoholische Getränke ein?",
+      "art": "mc",
+      "optionen": [
+        "Als krebserregend",
+        "Als harmlos",
+        "Als Heilmittel",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alkohol ist als krebserregend eingestuft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfiehlt die DGE seit 2024?",
+      "art": "mc",
+      "optionen": [
+        "Möglichst auf Alkohol zu verzichten",
+        "Täglich ein Glas Wein",
+        "Nur am Wochenende viel zu trinken",
+        "Alkohol statt Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die DGE rät, möglichst keinen Alkohol zu trinken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laut WHO gibt es eine sichere Menge Alkohol, bei der das Krebsrisiko nicht steigt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Eine solche sichere Menge ist nicht nachgewiesen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alkohol ist krebserregend, das Risiko beginnt schon bei kleinen Mengen.",
+        "Die DGE rät, möglichst auf Alkohol zu verzichten.",
+        "Ein Herzschutz durch Rotwein ist nicht belegt."
+      ]
+    }
+  ]
+}

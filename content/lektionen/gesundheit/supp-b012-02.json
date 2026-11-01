@@ -1,0 +1,116 @@
+{
+  "id": "supp-b012-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchst du Proteinpulver?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "protein",
+    "eiweiss",
+    "sport"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Fitnessstudio trinken viele nach dem Training einen Eiweißshake. Die Dosen sind groß und teuer.",
+        "Ist das für Freizeitsportler nötig?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Bedarf ist meist gedeckt",
+      "absaetze": [
+        "Die meisten Menschen in Deutschland nehmen mit ihrer normalen Ernährung genug Eiweiß auf, viele sogar mehr als empfohlen.",
+        "Gute Eiweißquellen sind Milchprodukte, Eier, Fisch, Fleisch, Hülsenfrüchte, Tofu und Nüsse. Auch wer sich vegetarisch ernährt, kann seinen Bedarf gut decken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sport und Eiweiß",
+      "absaetze": [
+        "Wer regelmäßig intensiv Kraftsport treibt, hat einen etwas höheren Bedarf. Auch der lässt sich meist über normale Lebensmittel decken, etwa mit Quark, Joghurt oder Hülsenfrüchten.",
+        "Proteinpulver kann praktisch sein, wenn es schnell gehen soll. Es wirkt aber nicht besser als Eiweiß aus Lebensmitteln. Mehr Eiweiß als nötig baut nicht mehr Muskeln auf."
+      ],
+      "merke": "Eiweiß aus Lebensmitteln reicht für die meisten völlig aus.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Nierenerkrankungen kann zusätzliches Eiweiß schaden. Sprich vorher mit deiner Ärztin oder deinem Arzt.",
+        "Sportprodukte können mit nicht deklarierten Stoffen verunreinigt sein, im Extremfall sogar mit Dopingmitteln. Achte auf geprüfte Produkte."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nehmen die meisten Menschen in Deutschland genug Eiweiß auf?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Viele liegen sogar über der Empfehlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wirkt Eiweiß aus Pulver besser als Eiweiß aus Lebensmitteln?",
+      "art": "mc",
+      "optionen": [
+        "Nein, nicht besser",
+        "Ja, doppelt so gut",
+        "Ja, nur abends",
+        "Ja, aber nur in Kombination mit Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pulver ist nur eine praktische Form."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Eiweiß über den Bedarf hinaus?",
+      "art": "mc",
+      "optionen": [
+        "Es baut keine zusätzlichen Muskeln auf",
+        "Es wird vollständig zu Muskeln",
+        "Es wird zu Vitaminen",
+        "Es wird zu Knochen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Muskeln wachsen durch Training, nicht durch Eiweißüberschuss."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die meisten decken ihren Eiweißbedarf über die Ernährung.",
+        "Auch Kraftsportler kommen meist mit Lebensmitteln aus.",
+        "Pulver ist praktisch, aber nicht wirksamer."
+      ]
+    }
+  ]
+}

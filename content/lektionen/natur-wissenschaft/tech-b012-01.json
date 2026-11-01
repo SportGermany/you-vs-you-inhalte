@@ -1,0 +1,107 @@
+{
+  "id": "tech-b012-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert Bluetooth?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About Bluetooth Technology",
+      "herausgeber": "Bluetooth Special Interest Group",
+      "url": "https://www.bluetooth.com",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bluetooth",
+    "funk",
+    "kopfhoerer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Kopfhörer verbinden sich ohne Kabel mit dem Handy. Im Auto läuft die Musik über die Lautsprecher.",
+        "Möglich macht das eine Funktechnik mit einem merkwürdigen Namen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Funk auf kurze Distanz",
+      "absaetze": [
+        "Bluetooth überträgt Daten per Funk über kurze Entfernungen, meist einige Meter. Es nutzt dafür denselben Frequenzbereich um 2,4 Gigahertz wie viele WLAN-Netze.",
+        "Um Störungen zu vermeiden, springen Bluetooth-Geräte viele Hundert Mal pro Sekunde zwischen verschiedenen Kanälen hin und her. Dieses Verfahren heißt Frequenzsprung."
+      ],
+      "merke": "Bluetooth wechselt ständig den Kanal, um Störungen auszuweichen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Wikingerkönig als Namensgeber",
+      "absaetze": [
+        "Der Name geht auf den dänischen König Harald Blauzahn aus dem 10. Jahrhundert zurück. Er soll dänische und norwegische Stämme vereint haben.",
+        "Die Technik sollte ähnlich verschiedene Geräte verbinden. Das Logo verbindet zwei Runen, die Anfangsbuchstaben seines Namens."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sparsam und vielseitig",
+      "absaetze": [
+        "Eine besonders stromsparende Variante ermöglicht, dass Fitnessarmbänder oder Sensoren lange mit einer kleinen Batterie laufen.",
+        "Aus Sicherheitsgründen lohnt es sich, Bluetooth auszuschalten, wenn du es nicht brauchst, und Geräte nur an vertrauten Orten neu zu koppeln."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Frequenzbereich arbeitet Bluetooth?",
+      "art": "mc",
+      "optionen": [
+        "Um 2,4 Gigahertz",
+        "Um 100 Megahertz wie UKW-Radio",
+        "Im sichtbaren Licht",
+        "Im Ultraschallbereich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bluetooth nutzt den Bereich um 2,4 Gigahertz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf wen geht der Name Bluetooth zurück?",
+      "art": "mc",
+      "optionen": [
+        "Den dänischen König Harald Blauzahn",
+        "Einen Zahnarzt",
+        "Einen Erfinder namens Blue",
+        "Eine Marke für Zahnpasta"
+      ],
+      "richtig": 0,
+      "erklaerung": "Harald Blauzahn war ein dänischer König."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bluetooth überträgt Daten über viele Kilometer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Reichweite beträgt meist nur einige Meter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bluetooth verbindet Geräte per Funk auf kurze Distanz.",
+        "Es springt ständig zwischen Kanälen, um Störungen zu vermeiden.",
+        "Der Name stammt von einem dänischen König."
+      ]
+    }
+  ]
+}

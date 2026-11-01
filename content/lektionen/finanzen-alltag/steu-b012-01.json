@@ -1,0 +1,113 @@
+{
+  "id": "steu-b012-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie hängen Kindergeld und Kinderfreibetrag zusammen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Familienkasse und Kindergeld",
+      "herausgeber": "Bundesagentur für Arbeit",
+      "url": "https://www.arbeitsagentur.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kindergeld",
+    "kinderfreibetrag",
+    "familie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeden Monat überweist die Familienkasse Kindergeld. Bei der Steuererklärung taucht dann noch ein Kinderfreibetrag auf.",
+        "Bekommt man beides?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kindergeld als Vorschuss",
+      "absaetze": [
+        "Eltern bekommen für ihre Kinder in der Regel monatlich Kindergeld von der Familienkasse. Es wird unabhängig vom Einkommen gezahlt.",
+        "Es gibt das Kindergeld grundsätzlich bis zum 18. Geburtstag, bei Ausbildung oder Studium unter bestimmten Bedingungen bis zum 25. Geburtstag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Kinderfreibetrag",
+      "absaetze": [
+        "Alternativ gibt es steuerliche Freibeträge für Kinder. Sie senken das zu versteuernde Einkommen der Eltern.",
+        "Man bekommt aber nicht beides voll. Das Finanzamt prüft bei der Steuererklärung automatisch, was günstiger ist. Diese Günstigerprüfung erfolgt ohne Antrag."
+      ],
+      "merke": "Das Finanzamt wählt automatisch die günstigere Variante."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen sich was lohnt",
+      "absaetze": [
+        "Für die meisten Familien ist das Kindergeld günstiger. Bei hohen Einkommen bringen die Freibeträge mehr, weil sie mehr Steuer sparen.",
+        "In diesem Fall wird das bereits gezahlte Kindergeld bei der Berechnung verrechnet. Die genauen Beträge werden regelmäßig angepasst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt das Kindergeld aus?",
+      "art": "mc",
+      "optionen": [
+        "Die Familienkasse",
+        "Die Krankenkasse",
+        "Der Arbeitgeber allein",
+        "Die Rentenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Familienkasse zahlt das Kindergeld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was prüft das Finanzamt automatisch?",
+      "art": "mc",
+      "optionen": [
+        "Ob Kindergeld oder Kinderfreibetrag günstiger ist",
+        "Ob das Kind gute Noten hat",
+        "Wie groß die Wohnung ist",
+        "Ob die Eltern verheiratet sind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Günstigerprüfung erfolgt automatisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eltern erhalten Kindergeld und Kinderfreibetrag immer zusätzlich in voller Höhe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es wird verrechnet, die günstigere Variante zählt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kindergeld wird monatlich unabhängig vom Einkommen gezahlt.",
+        "Der Kinderfreibetrag senkt das zu versteuernde Einkommen.",
+        "Das Finanzamt prüft automatisch, was günstiger ist."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ern-b012-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie oft sollte Fisch auf den Teller?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fisch",
+    "quecksilber",
+    "nachhaltigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fisch gilt als gesund. Gleichzeitig hört man von Quecksilber im Thunfisch und leergefischten Meeren.",
+        "Wie passt das zusammen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Fisch liefert",
+      "absaetze": [
+        "Fisch liefert hochwertiges Eiweiß und Jod. Fette Seefische wie Lachs, Hering und Makrele enthalten außerdem die Omega-3-Fettsäuren EPA und DHA.",
+        "Die DGE empfiehlt, ein- bis zweimal pro Woche Fisch zu essen. Regelmäßiger Fischverzehr hängt in Studien mit einem geringeren Risiko für Herz-Kreislauf-Erkrankungen zusammen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schadstoffe im Blick",
+      "absaetze": [
+        "Große Raubfische wie Thunfisch, Schwertfisch oder Hai können mehr Quecksilber anreichern, weil sie am Ende der Nahrungskette stehen und lange leben.",
+        "Für die meisten Menschen ist das bei üblichen Mengen kein Problem. Schwangeren und Stillenden rät das BfR aber, solche großen Raubfische zu meiden. Kleinere Fische wie Hering oder Sardine sind meist gering belastet."
+      ],
+      "merke": "Kleine Fische sind meist weniger belastet als große Raubfische.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nachhaltig auswählen",
+      "absaetze": [
+        "Viele Fischbestände weltweit sind überfischt. Siegel wie MSC für Wildfang oder ASC und Bio für Zucht können bei der Auswahl helfen.",
+        "Auch heimische Fische wie Karpfen oder Forelle aus Teichwirtschaft sind eine Option. Wer keinen Fisch isst, kann Omega-3 teilweise über Raps-, Lein- und Walnussöl aufnehmen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft pro Woche empfiehlt die DGE Fisch?",
+      "art": "mc",
+      "optionen": [
+        "Ein- bis zweimal",
+        "Jeden Tag dreimal",
+        "Nie",
+        "Einmal im Monat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein- bis zweimal pro Woche ist die Empfehlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fische können mehr Quecksilber enthalten?",
+      "art": "mc",
+      "optionen": [
+        "Große Raubfische wie Thunfisch",
+        "Kleine Fische wie Sardinen",
+        "Alle gleich viel",
+        "Nur Süßwasserfische"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große Raubfische reichern mehr Quecksilber an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schwangeren rät das BfR, große Raubfische zu meiden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wegen der möglichen Quecksilberbelastung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fisch liefert Eiweiß, Jod und Omega-3.",
+        "Große Raubfische können mehr Quecksilber enthalten.",
+        "Siegel und heimische Arten helfen bei nachhaltiger Wahl."
+      ]
+    }
+  ]
+}

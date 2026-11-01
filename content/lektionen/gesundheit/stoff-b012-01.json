@@ -1,0 +1,118 @@
+{
+  "id": "stoff-b012-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was sagt der glykämische Index aus?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glykaemischer-index",
+    "blutzucker",
+    "kohlenhydrate"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Freundin isst keine Kartoffeln mehr, weil sie einen hohen glykämischen Index haben.",
+        "Ist das sinnvoll? Und was bedeutet dieser Wert eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie schnell der Blutzucker steigt",
+      "absaetze": [
+        "Der glykämische Index, kurz GI, beschreibt, wie schnell und stark ein kohlenhydrathaltiges Lebensmittel den Blutzucker ansteigen lässt. Verglichen wird mit reinem Traubenzucker.",
+        "Weißbrot und Cornflakes haben einen hohen GI, Hülsenfrüchte und die meisten Obstsorten einen niedrigen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum der Wert allein wenig sagt",
+      "absaetze": [
+        "Der GI bezieht sich auf eine feste Menge Kohlenhydrate, nicht auf eine übliche Portion. Wassermelone hat einen hohen GI, enthält aber pro Portion wenig Kohlenhydrate.",
+        "Deshalb gibt es die glykämische Last, die auch die Menge berücksichtigt. Außerdem verändert die ganze Mahlzeit den Effekt. Fett, Eiweiß und Ballaststoffe bremsen den Anstieg."
+      ],
+      "merke": "Der GI eines Lebensmittels allein sagt wenig über eine ganze Mahlzeit.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das praktisch heißt",
+      "absaetze": [
+        "Studien deuten darauf hin, dass eine Ernährung mit vielen Lebensmitteln mit niedrigem GI für Menschen mit Diabetes günstig sein kann. Für alle anderen ist der Wert eine von vielen Orientierungen.",
+        "Kartoffeln musst du deswegen nicht meiden. Mit Gemüse und etwas Eiweiß kombiniert, sind sie Teil einer ausgewogenen Ernährung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt der glykämische Index?",
+      "art": "mc",
+      "optionen": [
+        "Wie stark ein Lebensmittel den Blutzucker steigen lässt",
+        "Wie viele Kalorien es hat",
+        "Wie viel Fett es enthält",
+        "Wie lange es haltbar ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er zeigt den Blutzuckeranstieg im Vergleich zu Traubenzucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bremst den Blutzuckeranstieg einer Mahlzeit?",
+      "art": "mc",
+      "optionen": [
+        "Fett, Eiweiß und Ballaststoffe",
+        "Zucker",
+        "Weißmehl",
+        "Fruchtsaft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Bestandteile verlangsamen die Aufnahme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein hoher GI bedeutet immer, dass eine Portion den Blutzucker stark erhöht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kommt auch auf die Menge an Kohlenhydraten an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der GI zeigt, wie schnell der Blutzucker steigt.",
+        "Die Portionsgröße und die ganze Mahlzeit verändern den Effekt.",
+        "Für Menschen mit Diabetes kann der Wert hilfreich sein.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

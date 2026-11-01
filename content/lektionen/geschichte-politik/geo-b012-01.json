@@ -1,0 +1,113 @@
+{
+  "id": "geo-b012-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht der Internationale Währungsfonds?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About the IMF",
+      "herausgeber": "Internationaler Währungsfonds (IWF)",
+      "url": "https://www.imf.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "iwf",
+    "kredite",
+    "weltwirtschaft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Land steckt in einer Finanzkrise. Seine Währung stürzt ab, es kann Rechnungen im Ausland nicht mehr bezahlen.",
+        "Dann klopft es oft beim Internationalen Währungsfonds an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gegründet nach dem Krieg",
+      "absaetze": [
+        "Der Internationale Währungsfonds, kurz IWF, wurde 1944 auf einer Konferenz in Bretton Woods in den USA beschlossen. Sein Sitz ist Washington.",
+        "Er soll die Zusammenarbeit in Währungsfragen fördern und Finanzkrisen verhindern oder abmildern. Fast alle Staaten der Welt sind Mitglied."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kredite mit Bedingungen",
+      "absaetze": [
+        "Gerät ein Mitglied in Zahlungsschwierigkeiten, kann der IWF Kredite vergeben. Im Gegenzug verlangt er meist wirtschaftliche Reformen, etwa Sparmaßnahmen oder den Abbau von Subventionen.",
+        "Diese Auflagen sind umstritten. Kritiker bemängeln, dass sie oft die ärmeren Bevölkerungsteile hart treffen. Befürworter sehen sie als Voraussetzung, um das Vertrauen von Geldgebern zurückzugewinnen."
+      ],
+      "merke": "Der IWF hilft mit Krediten, verlangt aber Reformen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer das Sagen hat",
+      "absaetze": [
+        "Die Stimmrechte richten sich vor allem nach den Einzahlungen der Mitglieder, nicht nach der Zahl der Staaten. Die USA haben den größten Anteil.",
+        "Für wichtige Entscheidungen ist eine sehr große Mehrheit nötig. Dadurch können die USA solche Entscheidungen allein blockieren. Schwellenländer fordern seit Langem mehr Einfluss."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurde der IWF 1944 beschlossen?",
+      "art": "mc",
+      "optionen": [
+        "In Bretton Woods",
+        "In Genf",
+        "In Paris",
+        "In Tokio"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Konferenz von Bretton Woods begründete den IWF."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verlangt der IWF meist im Gegenzug für Kredite?",
+      "art": "mc",
+      "optionen": [
+        "Wirtschaftliche Reformen",
+        "Gebietsabtretungen",
+        "Militärhilfe",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kredite sind meist an Reformauflagen geknüpft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im IWF hat jedes Land genau gleich viel Stimmrecht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Stimmrechte richten sich vor allem nach den Einzahlungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der IWF wurde 1944 gegründet und sitzt in Washington.",
+        "Er vergibt Kredite in Krisen, meist mit Reformauflagen.",
+        "Die Stimmrechte hängen von den Einzahlungen ab, die USA haben das größte Gewicht."
+      ]
+    }
+  ]
+}

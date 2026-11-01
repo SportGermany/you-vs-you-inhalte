@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b012-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was macht eine durchwachte Nacht mit dir?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafentzug",
+    "sekundenschlaf",
+    "konzentration"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer durchgefeierten Nacht setzt du dich morgens ins Auto. Du fühlst dich eigentlich noch fit.",
+        "Dein Gehirn sieht das anders."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie betrunken",
+      "absaetze": [
+        "Studien zeigen, dass nach etwa 17 bis 19 Stunden ohne Schlaf die Leistung bei Reaktionstests ähnlich nachlässt wie bei etwa 0,5 Promille Alkohol im Blut. Nach einer ganzen Nacht ohne Schlaf ist die Beeinträchtigung noch deutlich größer.",
+        "Reaktionszeit, Aufmerksamkeit und Urteilsvermögen leiden. Viele unterschätzen dabei, wie stark sie beeinträchtigt sind."
+      ],
+      "merke": "Lange wach sein wirkt auf die Leistung ähnlich wie Alkohol.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sekundenschlaf",
+      "absaetze": [
+        "Bei starker Müdigkeit kann das Gehirn für einige Sekunden einschlafen, ohne dass man es merkt. Am Steuer bedeutet schon ein Sekundenschlaf eine Blindfahrt über viele Meter.",
+        "Müdigkeit ist eine häufige Ursache schwerer Verkehrsunfälle. Warnzeichen sind schwere Augenlider, häufiges Gähnen und Erinnerungslücken an die letzten Kilometer."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefühle und Erholung",
+      "absaetze": [
+        "Nach einer schlaflosen Nacht reagieren viele Menschen gereizter und empfindlicher auf Stress. Auch das Hungergefühl nimmt oft zu.",
+        "Eine einzelne kurze Nacht schadet gesunden Menschen nicht dauerhaft. Danach braucht der Körper aber Erholung. Wenn du sehr müde bist, fahr nicht Auto. Kaffee und offenes Fenster helfen nur kurz."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit ist die Leistung nach etwa 17 bis 19 Stunden Wachsein vergleichbar?",
+      "art": "mc",
+      "optionen": [
+        "Mit etwa 0,5 Promille Alkohol",
+        "Mit voller Ausgeschlafenheit",
+        "Mit dem Zustand nach einem Mittagsschlaf",
+        "Mit gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Studien zeigen eine ähnliche Beeinträchtigung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Sekundenschlaf?",
+      "art": "mc",
+      "optionen": [
+        "Kurzes, unbemerktes Einschlafen",
+        "Ein Mittagsschlaf von einer Minute",
+        "Ein Traum beim Einschlafen",
+        "Ein Schlafmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn schläft für Sekunden ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein offenes Fenster und laute Musik beheben starke Müdigkeit am Steuer zuverlässig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie helfen nur kurz, nur eine Pause mit Schlaf hilft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lange Wachheit beeinträchtigt die Leistung wie Alkohol.",
+        "Sekundenschlaf ist eine große Gefahr am Steuer.",
+        "Bei starker Müdigkeit hilft nur Schlaf."
+      ]
+    }
+  ]
+}
