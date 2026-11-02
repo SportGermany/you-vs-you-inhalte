@@ -1,0 +1,124 @@
+{
+  "id": "ern-b034-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Glutamat schädlich?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Food additives",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glutamat",
+    "geschmacksverstaerker",
+    "umami"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Essen im Asia-Restaurant Kopfschmerzen? Schnell wird Glutamat verdächtigt.",
+        "Was sagt die Wissenschaft?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein natürlicher Geschmacksträger",
+      "absaetze": [
+        "Glutamat ist das Salz der Aminosäure Glutaminsäure. Es sorgt für den herzhaften Geschmack umami.",
+        "Glutamat kommt natürlich in vielen Lebensmitteln vor, etwa in Tomaten, Parmesan, Pilzen und Sojasoße. Als Zusatzstoff trägt es E-Nummern wie E 621."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mythos vom China-Restaurant-Syndrom",
+      "absaetze": [
+        "In den 1960er-Jahren berichteten Menschen nach dem Essen in China-Restaurants über Kopfschmerzen und Herzklopfen. Glutamat geriet in Verdacht.",
+        "In kontrollierten Studien ließ sich ein solcher Zusammenhang bei üblichen Mengen nicht verlässlich nachweisen. Nur wenige Menschen reagieren möglicherweise empfindlich auf sehr große Mengen."
+      ],
+      "merke": "Bei üblichen Mengen gilt Glutamat als unbedenklich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die EFSA sagt",
+      "absaetze": [
+        "Die EFSA hat Glutamat neu bewertet und eine Menge festgelegt, die täglich lebenslang ohne Risiko aufgenommen werden kann. Manche Menschen mit sehr viel Fertigkost könnten diese überschreiten.",
+        "Glutamat steckt vor allem in Fertiggerichten, Chips und Würzmischungen. Frisch kochen hält die Menge ohnehin gering."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Glutamat verursacht bei allen Menschen Kopfschmerzen.",
+      "urteil": "mythos",
+      "erklaerung": "In kontrollierten Studien ließ sich das bei üblichen Mengen nicht verlässlich nachweisen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Geschmack vermittelt Glutamat?",
+      "art": "mc",
+      "optionen": [
+        "Umami",
+        "Sauer",
+        "Bitter",
+        "Süß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Umami ist der herzhafte Geschmack."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kommt Glutamat natürlich vor?",
+      "art": "mc",
+      "optionen": [
+        "In Tomaten und Parmesan",
+        "Nur im Labor",
+        "Nur in Süßigkeiten",
+        "Nur in Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch in Pilzen und Sojasoße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Zusammenhang zwischen Glutamat und Kopfschmerzen ist bei üblichen Mengen klar belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ließ sich nicht verlässlich nachweisen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glutamat sorgt für den Geschmack umami.",
+        "Es kommt natürlich in vielen Lebensmitteln vor.",
+        "Bei üblichen Mengen gilt es als unbedenklich.",
+        "Frisch kochen hält die Menge gering."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b034-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie hängen Schlafapnoe und Übergewicht zusammen?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Adipositas und Stoffwechsel",
+      "herausgeber": "Deutsche Adipositas-Gesellschaft",
+      "url": "https://adipositas-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafapnoe",
+    "uebergewicht",
+    "atmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lautes Schnarchen, Atemaussetzer in der Nacht, Müdigkeit am Tag.",
+        "Schlafapnoe und Übergewicht verstärken sich oft gegenseitig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was bei Schlafapnoe passiert",
+      "absaetze": [
+        "Bei der obstruktiven Schlafapnoe erschlaffen im Schlaf die Muskeln im Rachen. Die Atemwege verengen sich, und die Atmung setzt immer wieder kurz aus.",
+        "Der Körper reagiert mit kurzen Weckreaktionen. Der Schlaf wird dadurch zerstückelt und wenig erholsam."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Teufelskreis",
+      "absaetze": [
+        "Übergewicht ist ein wichtiger Risikofaktor. Fettgewebe am Hals und im Rachenbereich kann die Atemwege zusätzlich einengen.",
+        "Umgekehrt stört der schlechte Schlaf Hormone, die Hunger und Sättigung regeln. Müdigkeit erschwert zudem Bewegung."
+      ],
+      "merke": "Schlafapnoe und Übergewicht können sich gegenseitig verstärken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Behandlung",
+      "absaetze": [
+        "Häufig wird nachts eine Atemmaske eingesetzt, die mit leichtem Überdruck die Atemwege offen hält. Das nennt man CPAP-Therapie.",
+        "Bei Übergewicht kann eine Gewichtsabnahme die Atemaussetzer deutlich verringern. Unbehandelt erhöht Schlafapnoe das Risiko für Bluthochdruck und Herzerkrankungen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei der obstruktiven Schlafapnoe?",
+      "art": "mc",
+      "optionen": [
+        "Die Atemwege verengen sich und die Atmung setzt aus",
+        "Das Herz bleibt stehen",
+        "Man schläft zu tief",
+        "Man träumt nicht mehr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Rachenmuskeln erschlaffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält bei der CPAP-Therapie die Atemwege offen?",
+      "art": "mc",
+      "optionen": [
+        "Leichter Überdruck durch eine Maske",
+        "Eine Tablette",
+        "Ein Kissen",
+        "Kaltes Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Maske wird nachts getragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Gewichtsabnahme kann bei Übergewicht die Atemaussetzer verringern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das entlastet die Atemwege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Schlafapnoe setzt die Atmung im Schlaf immer wieder aus.",
+        "Übergewicht ist ein wichtiger Risikofaktor.",
+        "Schlechter Schlaf erschwert wiederum das Abnehmen.",
+        "CPAP-Therapie und Gewichtsabnahme helfen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b034-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum bist du nachmittags so müde?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mittagstief",
+    "innere-uhr",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Mittagessen fallen dir im Büro fast die Augen zu.",
+        "Liegt das nur am Essen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Mittagstief",
+      "absaetze": [
+        "Viele Menschen erleben am frühen Nachmittag ein Leistungstief. Fachleute sprechen vom Mittagstief.",
+        "Es entsteht zum Teil durch die innere Uhr. Der Schlafdruck steigt im Tagesverlauf an, und am frühen Nachmittag lässt das Wachsignal der inneren Uhr kurz etwas nach."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Rolle des Essens",
+      "absaetze": [
+        "Das Mittagstief tritt auch ohne Mittagessen auf. Ein üppiges, kohlenhydratreiches Essen kann die Müdigkeit aber verstärken.",
+        "Auch Schlafmangel aus der Nacht macht sich am Nachmittag besonders bemerkbar."
+      ],
+      "merke": "Das Mittagstief entsteht auch ohne Essen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Ein kurzer Spaziergang an der frischen Luft und Tageslicht machen wacher. Ein leichteres Mittagessen hilft ebenfalls.",
+        "Wer kann, macht ein kurzes Nickerchen von höchstens etwa 20 Minuten. Kaffee am späten Nachmittag kann dagegen den Nachtschlaf stören."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entsteht das Mittagstief zum Teil?",
+      "art": "mc",
+      "optionen": [
+        "Durch die innere Uhr",
+        "Nur durch Kaffee",
+        "Durch zu viel Schlaf",
+        "Durch kalte Luft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Wachsignal lässt kurz nach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann die Müdigkeit nach dem Essen verstärken?",
+      "art": "mc",
+      "optionen": [
+        "Ein üppiges, kohlenhydratreiches Mittagessen",
+        "Ein Glas Wasser",
+        "Ein Spaziergang",
+        "Tageslicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein leichteres Essen hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Mittagstief tritt nur auf, wenn man zu Mittag isst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es tritt auch ohne Essen auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Mittagstief hängt mit der inneren Uhr zusammen.",
+        "Üppiges Essen kann es verstärken.",
+        "Licht, Bewegung und ein kurzes Nickerchen helfen.",
+        "Kaffee am späten Nachmittag kann den Nachtschlaf stören."
+      ]
+    }
+  ]
+}

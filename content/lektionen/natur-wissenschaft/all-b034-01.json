@@ -1,0 +1,108 @@
+{
+  "id": "all-b034-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie entsteht ein Stern?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Star formation",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sternentstehung",
+    "nebel",
+    "kernfusion"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In riesigen Wolken aus Gas und Staub werden ständig neue Sterne geboren.",
+        "Wie kommt es dazu?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalte Wolken",
+      "absaetze": [
+        "Zwischen den Sternen gibt es gewaltige Wolken aus Gas und Staub. Sie bestehen vor allem aus Wasserstoff.",
+        "Wird ein Teil einer solchen Wolke verdichtet, etwa durch die Druckwelle einer Sternexplosion, beginnt er unter seiner eigenen Schwerkraft zusammenzufallen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Stern zündet",
+      "absaetze": [
+        "Beim Zusammenfallen wird das Gas im Inneren immer dichter und heißer. Es bildet sich ein Protostern, ein Stern im Werden.",
+        "Wenn im Kern Temperaturen von Millionen Grad erreicht werden, beginnt die Kernfusion. Wasserstoff verschmilzt zu Helium, und dabei wird enorme Energie frei. Ein neuer Stern leuchtet."
+      ],
+      "merke": "Mit Beginn der Kernfusion wird ein Stern geboren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sterne in Gruppen",
+      "absaetze": [
+        "Sterne entstehen meist in Gruppen aus derselben Wolke. Aus übrig gebliebenem Material um junge Sterne können Planeten entstehen.",
+        "Weltraumteleskope wie James Webb blicken mit Infrarotlicht durch Staubwolken und zeigen Sternentstehung in faszinierender Detailtiefe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen die Wolken, in denen Sterne entstehen, vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Wasserstoff",
+        "Eisen",
+        "Wasser",
+        "Gold"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommt Staub."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann beginnt ein Stern zu leuchten?",
+      "art": "mc",
+      "optionen": [
+        "Wenn im Kern die Kernfusion einsetzt",
+        "Wenn er Licht reflektiert",
+        "Wenn er abkühlt",
+        "Wenn er einen Planeten hat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasserstoff verschmilzt zu Helium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus Material um junge Sterne können Planeten entstehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So entstand vermutlich auch unser Sonnensystem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sterne entstehen in Wolken aus Gas und Staub.",
+        "Schwerkraft lässt die Wolke zusammenfallen.",
+        "Mit der Kernfusion beginnt der Stern zu leuchten.",
+        "Aus Resten können Planeten entstehen."
+      ]
+    }
+  ]
+}

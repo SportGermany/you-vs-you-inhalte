@@ -1,0 +1,126 @@
+{
+  "id": "supp-b034-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft Chrom beim Abnehmen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "chrom",
+    "abnehmen",
+    "blutzucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Chrom-Präparate werden mit Versprechen wie weniger Heißhunger und stabilem Blutzucker beworben.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Spurenelement",
+      "absaetze": [
+        "Chrom ist ein Spurenelement, das der Körper in sehr kleinen Mengen braucht. Es scheint an der Wirkung von Insulin beteiligt zu sein.",
+        "Chrom steckt in Vollkorn, Fleisch, Käse, Nüssen und Hülsenfrüchten. Ein Mangel ist bei gesunden Menschen mit normaler Ernährung kaum bekannt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Studien zu Chrom-Präparaten und Gewicht zeigen höchstens sehr kleine Effekte. Für einen spürbaren Gewichtsverlust reicht das nicht.",
+        "Auch eine Wirkung auf den Blutzucker bei Menschen ohne Mangel ist nicht überzeugend belegt."
+      ],
+      "merke": "Chrom-Präparate sind kein wirksames Abnehmmittel.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu beachten ist",
+      "absaetze": [
+        "Das BfR rät, nicht dauerhaft hohe Mengen Chrom über Präparate aufzunehmen. Die Langzeitwirkung hoher Mengen ist nicht ausreichend untersucht.",
+        "Wer an Diabetes erkrankt ist, sollte Präparate nur nach ärztlicher Rücksprache verwenden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Diabetes nur nach ärztlicher Rücksprache verwenden.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran scheint Chrom beteiligt zu sein?",
+      "art": "mc",
+      "optionen": [
+        "An der Wirkung von Insulin",
+        "An der Haarfarbe",
+        "Am Sehen",
+        "An der Verdauung von Fett allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Chrom ist ein Spurenelement."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Studien zu Chrom und Gewicht?",
+      "art": "mc",
+      "optionen": [
+        "Höchstens sehr kleine Effekte",
+        "Starken Gewichtsverlust",
+        "Eine Gewichtszunahme",
+        "Keine Studien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für spürbares Abnehmen reicht das nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Chrommangel ist bei gesunden Menschen häufig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist kaum bekannt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Chrom ist ein Spurenelement in Vollkorn, Nüssen und Käse.",
+        "Ein Mangel ist bei normaler Ernährung kaum bekannt.",
+        "Für das Abnehmen ist Chrom nicht wirksam.",
+        "Hohe Mengen sind nicht ausreichend untersucht."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "supp-b034-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Moringa-Pulver zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "moringa",
+    "superfood",
+    "pflanzenpulver"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Moringa wird als Wunderbaum beworben, mit angeblich mehr Vitaminen als Orangen und mehr Eisen als Spinat.",
+        "Was ist dran?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Baum aus den Tropen",
+      "absaetze": [
+        "Moringa ist ein Baum, der in tropischen Regionen wächst. Seine Blätter werden dort als Gemüse gegessen.",
+        "Bei uns gibt es Moringa meist als getrocknetes Pulver oder in Kapseln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Werbung und Wirklichkeit",
+      "absaetze": [
+        "Die beeindruckenden Vergleiche beziehen sich oft auf getrocknetes Pulver. Getrocknet sind Nährstoffe konzentrierter, aber man isst davon nur sehr wenig.",
+        "Für gesundheitliche Wirkungen beim Menschen gibt es nur wenige, kleine Studien. Nur wenig deutet darauf hin, dass Moringa-Pulver einen besonderen Nutzen hat."
+      ],
+      "merke": "Getrocknete Pulver wirken in Vergleichen nährstoffreicher, als sie im Alltag sind.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu beachten ist",
+      "absaetze": [
+        "Bei Kontrollen fielen Pflanzenpulver gelegentlich durch Verunreinigungen auf, etwa mit Keimen oder Rückständen.",
+        "Gesundheitsbezogene Werbeaussagen zu Moringa sind in der EU nicht zugelassen. Grünes Blattgemüse aus der Region liefert ähnliche Nährstoffe."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll.",
+        "Bei Medikamenteneinnahme vorher ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf beziehen sich beeindruckende Nährstoffvergleiche oft?",
+      "art": "mc",
+      "optionen": [
+        "Auf getrocknetes Pulver",
+        "Auf frische Blätter in großen Mengen",
+        "Auf Wasser",
+        "Auf Kapselhüllen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Getrocknet sind Nährstoffe konzentrierter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist die Studienlage zu Moringa beim Menschen?",
+      "art": "mc",
+      "optionen": [
+        "Es gibt nur wenige, kleine Studien",
+        "Sehr umfangreich und eindeutig",
+        "Es ist als Arzneimittel zugelassen",
+        "Es ersetzt jede Mahlzeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein besonderer Nutzen ist nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Regionales grünes Blattgemüse liefert ähnliche Nährstoffe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa Spinat oder Grünkohl."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Moringa ist ein tropischer Baum.",
+        "Nährstoffvergleiche beziehen sich oft auf Pulver.",
+        "Ein besonderer Nutzen ist nicht belegt.",
+        "Regionales Blattgemüse ist eine gute Alternative."
+      ]
+    }
+  ]
+}

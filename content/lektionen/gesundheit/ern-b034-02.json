@@ -1,0 +1,118 @@
+{
+  "id": "ern-b034-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was bedeuten die E-Nummern auf Lebensmitteln?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Food additives",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zusatzstoffe",
+    "e-nummern",
+    "etikett"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "E 300, E 330, E 471: Die Zutatenliste mancher Lebensmittel liest sich wie ein Code.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein europäisches System",
+      "absaetze": [
+        "Lebensmittelzusatzstoffe werden in der EU mit E-Nummern gekennzeichnet. Das E steht für Europa.",
+        "Ein Zusatzstoff darf nur verwendet werden, wenn er geprüft und zugelassen ist. Die EFSA bewertet die Sicherheit, die EU legt erlaubte Mengen und Verwendungen fest."
+      ],
+      "merke": "E-Nummern kennzeichnen geprüfte und zugelassene Zusatzstoffe.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alles ist künstlich",
+      "absaetze": [
+        "Viele E-Nummern stehen für natürliche Stoffe. E 300 ist zum Beispiel Vitamin C, E 330 ist Zitronensäure.",
+        "Zusatzstoffe erfüllen verschiedene Aufgaben: Sie machen Lebensmittel haltbarer, färben, süßen, verdicken oder verhindern das Verklumpen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kritisch bleiben",
+      "absaetze": [
+        "Zugelassen heißt nicht, dass ein Zusatzstoff in jeder Menge sinnvoll ist. Manche Stoffe werden neu bewertet, wenn es neue Erkenntnisse gibt. So wurde etwa Titandioxid als Lebensmittelzusatz in der EU verboten.",
+        "Viele Zusatzstoffe stecken vor allem in stark verarbeiteten Produkten. Wer überwiegend frisch kocht, nimmt automatisch weniger davon auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht das E in E-Nummern?",
+      "art": "mc",
+      "optionen": [
+        "Europa",
+        "Energie",
+        "Eiweiß",
+        "Extrakt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist ein europäisches Kennzeichnungssystem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist E 300?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Ein künstlicher Farbstoff",
+        "Ein Konservierungsgift",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele E-Nummern stehen für natürliche Stoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zusatzstoffe werden nach neuen Erkenntnissen manchmal neu bewertet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Titandioxid wurde zum Beispiel verboten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "E-Nummern kennzeichnen zugelassene Zusatzstoffe in der EU.",
+        "Viele davon sind natürliche Stoffe.",
+        "Zusatzstoffe werden bei neuen Erkenntnissen neu bewertet.",
+        "Frisch kochen verringert die Aufnahme."
+      ]
+    }
+  ]
+}

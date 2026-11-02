@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b034-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wann ist Tagesmüdigkeit ein Warnzeichen?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tagesmuedigkeit",
+    "hypersomnie",
+    "schlafstoerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein wenig müde ist jeder mal. Doch manche Menschen kämpfen ständig gegen den Schlaf, selbst nach langen Nächten.",
+        "Dann kann mehr dahinterstecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Normale Müdigkeit oder mehr?",
+      "absaetze": [
+        "Wer zu wenig schläft, ist tagsüber müde. Das ist die häufigste Ursache.",
+        "Wenn jemand aber trotz ausreichender Schlafzeit ständig müde ist, sprechen Fachleute von erhöhter Tagesschläfrigkeit. Betroffene schlafen etwa beim Lesen, im Kino oder sogar im Gespräch ein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Ursachen",
+      "absaetze": [
+        "Häufige Ursachen sind Schlafapnoe, also Atemaussetzer im Schlaf, und das Restless-Legs-Syndrom. Auch Depressionen, Schilddrüsenerkrankungen, Blutarmut oder Medikamente kommen infrage.",
+        "Seltener steckt eine Erkrankung wie Narkolepsie dahinter."
+      ],
+      "merke": "Ständige Müdigkeit trotz genug Schlaf sollte abgeklärt werden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann zum Arzt",
+      "absaetze": [
+        "Wenn Müdigkeit den Alltag stark beeinträchtigt oder du am Steuer müde wirst, solltest du ärztlichen Rat suchen.",
+        "Hilfreich ist ein Schlaftagebuch über zwei Wochen. Bei Bedarf kann eine Untersuchung im Schlaflabor die Ursache klären."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die häufigste Ursache von Tagesmüdigkeit?",
+      "art": "mc",
+      "optionen": [
+        "Zu wenig Schlaf",
+        "Zu viel Sport",
+        "Zu viel Wasser",
+        "Zu viel Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlafmangel macht tagsüber müde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Erkrankung kann Tagesschläfrigkeit auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Schlafapnoe",
+        "Kurzsichtigkeit",
+        "Heuschnupfen allein",
+        "Ein gebrochener Zeh"
+      ],
+      "richtig": 0,
+      "erklaerung": "Atemaussetzer stören den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Schlaftagebuch kann bei der Abklärung helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es zeigt Schlafzeiten und Muster."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafmangel ist die häufigste Ursache von Müdigkeit.",
+        "Müdigkeit trotz genug Schlaf ist ein Warnzeichen.",
+        "Schlafapnoe und andere Erkrankungen können dahinterstecken.",
+        "Ein Schlaftagebuch hilft bei der Abklärung."
+      ]
+    }
+  ]
+}
