@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b033-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum ist Schlaf für Sportler so wichtig?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sport",
+    "regeneration",
+    "leistung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Training, Ernährung und Ausrüstung bekommen viel Aufmerksamkeit.",
+        "Der Schlaf wird oft unterschätzt, dabei ist er ein wichtiger Teil der Regeneration."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erholung im Schlaf",
+      "absaetze": [
+        "Im Tiefschlaf schüttet der Körper Wachstumshormon aus. Es hilft, Muskeln zu reparieren und aufzubauen.",
+        "Auch das Nervensystem erholt sich. Neue Bewegungsabläufe werden im Schlaf gefestigt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Schlafmangel Reaktionszeit, Ausdauer und Genauigkeit verschlechtert. Auch das Verletzungsrisiko scheint bei zu wenig Schlaf zu steigen.",
+        "In einer Studie mit Basketballspielern verbesserten sich Sprintzeiten und Wurfquoten, als die Spieler länger schliefen."
+      ],
+      "merke": "Ausreichend Schlaf kann die sportliche Leistung verbessern.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Praktische Tipps",
+      "absaetze": [
+        "Regelmäßige Schlafzeiten helfen, auch an trainingsfreien Tagen. Ein kurzes Nickerchen kann ergänzen, ersetzt aber keinen Nachtschlaf.",
+        "Sehr intensives Training kurz vor dem Schlafengehen kann das Einschlafen erschweren. Nach Wettkämpfen am Abend hilft eine ruhige Phase vor dem Zubettgehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon schüttet der Körper im Tiefschlaf aus?",
+      "art": "mc",
+      "optionen": [
+        "Wachstumshormon",
+        "Adrenalin",
+        "Insulin",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es hilft bei der Reparatur der Muskeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbesserte sich bei Basketballspielern mit mehr Schlaf?",
+      "art": "mc",
+      "optionen": [
+        "Sprintzeiten und Wurfquoten",
+        "Nur das Gewicht",
+        "Die Körpergröße",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr Schlaf brachte bessere Leistungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Nickerchen ersetzt den Nachtschlaf vollständig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann nur ergänzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Schlaf repariert der Körper Muskeln.",
+        "Bewegungsabläufe werden im Schlaf gefestigt.",
+        "Schlafmangel verschlechtert die Leistung.",
+        "Regelmäßige Schlafzeiten helfen."
+      ]
+    }
+  ]
+}

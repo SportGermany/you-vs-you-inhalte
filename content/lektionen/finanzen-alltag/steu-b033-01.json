@@ -1,0 +1,108 @@
+{
+  "id": "steu-b033-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie funktioniert die Kirchensteuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kirchensteuer",
+    "religion",
+    "lohnsteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Lohnabrechnung steht ein Abzug für die Kirche, wenn du Mitglied bist.",
+        "Wie wird dieser Betrag berechnet?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer sie zahlt",
+      "absaetze": [
+        "Kirchensteuer zahlen Mitglieder von Religionsgemeinschaften, die sie erheben dürfen, etwa die katholische und die evangelische Kirche. Der Staat zieht sie für die Kirchen ein.",
+        "Bei Arbeitnehmern wird sie direkt mit der Lohnsteuer vom Gehalt abgezogen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie hoch sie ist",
+      "absaetze": [
+        "Die Kirchensteuer wird nicht auf das Einkommen berechnet, sondern auf die Einkommensteuer. In Bayern und Baden-Württemberg beträgt sie 8 Prozent davon, in den anderen Bundesländern 9 Prozent.",
+        "Wer keine Einkommensteuer zahlt, zahlt auch keine Kirchensteuer. Gezahlte Kirchensteuer kann als Sonderausgabe die Steuerlast senken."
+      ],
+      "merke": "Die Kirchensteuer beträgt 8 oder 9 Prozent der Einkommensteuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kirchenaustritt",
+      "absaetze": [
+        "Wer aus der Kirche austritt, zahlt keine Kirchensteuer mehr. Der Austritt wird je nach Bundesland beim Standesamt oder Amtsgericht erklärt.",
+        "Dafür fällt teilweise eine Gebühr an. Die Kirchensteuerpflicht endet je nach Land zum Ende des Austrittsmonats oder des Folgemonats."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf wird die Kirchensteuer berechnet?",
+      "art": "mc",
+      "optionen": [
+        "Auf die Einkommensteuer",
+        "Auf das Bruttogehalt direkt",
+        "Auf die Miete",
+        "Auf das Vermögen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist ein Prozentsatz der Einkommensteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Kirchensteuer in Bayern?",
+      "art": "mc",
+      "optionen": [
+        "8 Prozent der Einkommensteuer",
+        "20 Prozent des Gehalts",
+        "1 Prozent",
+        "15 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "In den meisten anderen Ländern sind es 9 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer keine Einkommensteuer zahlt, zahlt auch keine Kirchensteuer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie hängt an der Einkommensteuer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kirchensteuer zahlen Mitglieder steuerberechtigter Religionsgemeinschaften.",
+        "Sie beträgt 8 oder 9 Prozent der Einkommensteuer.",
+        "Sie ist als Sonderausgabe absetzbar.",
+        "Nach dem Kirchenaustritt entfällt sie."
+      ]
+    }
+  ]
+}

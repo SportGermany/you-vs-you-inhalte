@@ -1,0 +1,108 @@
+{
+  "id": "umw-b033-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was ist Fernwärme?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Haushalt und Energie",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fernwaerme",
+    "heizen",
+    "waermenetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Wohnungen haben keine eigene Heizung im Keller. Die Wärme kommt über Rohre von außerhalb.",
+        "Das nennt man Fernwärme."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme aus dem Netz",
+      "absaetze": [
+        "Bei Fernwärme wird Wasser zentral erhitzt und über gut isolierte Rohre zu vielen Gebäuden geleitet. Dort gibt es seine Wärme an Heizung und Warmwasser ab.",
+        "Das abgekühlte Wasser fließt zurück und wird wieder erwärmt. In vielen Städten gibt es solche Wärmenetze."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher die Wärme kommt",
+      "absaetze": [
+        "Oft stammt die Wärme aus Kraftwerken, die gleichzeitig Strom erzeugen. Das nennt man Kraft-Wärme-Kopplung. Abwärme, die sonst verloren ginge, wird so genutzt.",
+        "Früher wurden dafür vor allem Kohle und Gas verbrannt. Künftig sollen mehr erneuerbare Quellen wie große Wärmepumpen, Solarthermie, Geothermie und industrielle Abwärme genutzt werden."
+      ],
+      "merke": "Wie klimafreundlich Fernwärme ist, hängt von der Wärmequelle ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor- und Nachteile",
+      "absaetze": [
+        "Für Bewohner ist Fernwärme bequem, weil keine eigene Heizungsanlage gewartet werden muss.",
+        "Ein Nachteil ist, dass man den Anbieter meist nicht wechseln kann. Preise und Vertragsbedingungen sollten deshalb transparent sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Fernwärme?",
+      "art": "mc",
+      "optionen": [
+        "Zentral erhitztes Wasser, das über Rohre zu Gebäuden fließt",
+        "Eine Heizung mit Sonnenlicht im Zimmer",
+        "Ein Kachelofen",
+        "Ein Elektroheizer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wärme kommt über ein Netz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Kraft-Wärme-Kopplung?",
+      "art": "mc",
+      "optionen": [
+        "Gleichzeitige Erzeugung von Strom und Wärme",
+        "Heizen mit Muskelkraft",
+        "Kühlen mit Wind",
+        "Strom aus Wasser allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird Abwärme genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Fernwärme kann man den Anbieter meist frei wechseln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist ist ein Wechsel nicht möglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fernwärme verteilt zentral erhitztes Wasser über Rohre.",
+        "Kraft-Wärme-Kopplung nutzt Abwärme aus Kraftwerken.",
+        "Die Klimabilanz hängt von der Wärmequelle ab.",
+        "Ein Anbieterwechsel ist meist nicht möglich."
+      ]
+    }
+  ]
+}

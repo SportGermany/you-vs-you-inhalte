@@ -1,0 +1,108 @@
+{
+  "id": "koer-b033-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum haben wir Fingerabdrücke?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Daktyloskopie",
+      "herausgeber": "Bundeskriminalamt",
+      "url": "https://www.bka.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fingerabdruck",
+    "haut",
+    "tastsinn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kein Mensch hat dieselben Fingerabdrücke wie ein anderer, nicht einmal eineiige Zwillinge.",
+        "Wofür sind die feinen Linien eigentlich gut?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Entstanden im Mutterleib",
+      "absaetze": [
+        "Die Hautleisten an Fingern und Handflächen bilden sich schon im Mutterleib, etwa in den ersten Monaten der Schwangerschaft. Danach bleiben sie ein Leben lang gleich.",
+        "Ihr Muster hängt von den Genen, aber auch von Zufällen wie dem Druck im Mutterleib ab. Deshalb unterscheiden sich sogar eineiige Zwillinge."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu sie dienen",
+      "absaetze": [
+        "Forschende vermuten, dass die Hautleisten den Tastsinn verbessern. Beim Streichen über Oberflächen entstehen feine Schwingungen, die Nervenzellen wahrnehmen.",
+        "Lange glaubte man, sie verbesserten vor allem den Griff. Ganz geklärt ist ihre Funktion noch nicht."
+      ],
+      "merke": "Fingerabdrücke helfen vermutlich beim Tasten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einzigartig und nützlich",
+      "absaetze": [
+        "Weil Fingerabdrücke einzigartig sind, nutzt die Polizei sie seit über hundert Jahren zur Identifizierung. Das Verfahren heißt Daktyloskopie.",
+        "Heute entsperren viele Menschen damit ihr Smartphone. In Personalausweisen und Reisepässen sind Fingerabdrücke auf einem Chip gespeichert."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann bilden sich Fingerabdrücke?",
+      "art": "mc",
+      "optionen": [
+        "Schon im Mutterleib",
+        "In der Pubertät",
+        "Im Alter",
+        "Erst nach der Geburt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach bleiben sie ein Leben lang gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Identifizierung über Fingerabdrücke?",
+      "art": "mc",
+      "optionen": [
+        "Daktyloskopie",
+        "Biologie",
+        "Radiologie",
+        "Geologie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Polizei nutzt sie seit über hundert Jahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eineiige Zwillinge haben identische Fingerabdrücke.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch ihre Fingerabdrücke unterscheiden sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fingerabdrücke entstehen im Mutterleib.",
+        "Sie sind bei jedem Menschen einzigartig.",
+        "Sie verbessern vermutlich den Tastsinn.",
+        "Polizei und Smartphones nutzen sie zur Identifizierung."
+      ]
+    }
+  ]
+}

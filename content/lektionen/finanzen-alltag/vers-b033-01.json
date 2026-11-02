@@ -1,0 +1,108 @@
+{
+  "id": "vers-b033-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer ist in der Familienversicherung mitversichert?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Familienversicherung",
+      "herausgeber": "GKV-Spitzenverband",
+      "url": "https://www.gkv-spitzenverband.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "familienversicherung",
+    "krankenkasse",
+    "kinder"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der gesetzlichen Krankenversicherung können Familienangehörige ohne eigenen Beitrag mitversichert sein.",
+        "Doch dafür gelten Bedingungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Prinzip",
+      "absaetze": [
+        "Wer gesetzlich krankenversichert ist, kann Ehe- oder Lebenspartner und Kinder kostenlos mitversichern. Das nennt man Familienversicherung.",
+        "Die Mitversicherten haben denselben Anspruch auf Leistungen wie das Mitglied selbst."
+      ],
+      "merke": "Familienangehörige können ohne eigenen Beitrag mitversichert sein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Bedingungen",
+      "absaetze": [
+        "Mitversicherte dürfen nur ein geringes eigenes Einkommen haben. Die Grenze wird jedes Jahr angepasst. Für Minijobber gilt eine eigene Grenze.",
+        "Kinder sind grundsätzlich bis 18 mitversichert, ohne Erwerbstätigkeit bis 23 und während Schule, Ausbildung oder Studium bis 25. Bei Behinderung kann es keine Altersgrenze geben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen",
+      "absaetze": [
+        "Ist ein Elternteil privat versichert und verdient mehr als der andere, sind die Kinder oft nicht kostenlos über den gesetzlich versicherten Elternteil versichert. Dann gelten besondere Regeln.",
+        "Ändert sich das Einkommen eines Mitversicherten, muss das der Krankenkasse gemeldet werden. Die Kasse informiert über die aktuellen Grenzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer kann in der Familienversicherung mitversichert sein?",
+      "art": "mc",
+      "optionen": [
+        "Ehepartner und Kinder",
+        "Nachbarn",
+        "Arbeitskollegen",
+        "Freunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unter bestimmten Bedingungen kostenlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was dürfen Mitversicherte nur haben?",
+      "art": "mc",
+      "optionen": [
+        "Ein geringes eigenes Einkommen",
+        "Ein hohes Gehalt",
+        "Ein eigenes Unternehmen mit Gewinn",
+        "Eine Privatversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Grenze wird jährlich angepasst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kinder in Ausbildung oder Studium können bis 25 mitversichert sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist die übliche Altersgrenze dafür."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Familienversicherung schützt Angehörige ohne eigenen Beitrag.",
+        "Mitversicherte dürfen nur wenig verdienen.",
+        "Kinder in Ausbildung oder Studium sind bis 25 mitversichert.",
+        "Ist ein Elternteil privat versichert, gelten Sonderregeln."
+      ]
+    }
+  ]
+}

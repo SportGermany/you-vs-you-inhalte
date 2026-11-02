@@ -1,0 +1,108 @@
+{
+  "id": "haus-b033-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was tun bei einem verstopften Abfluss?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Haushalt und Energie",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "abfluss",
+    "verstopfung",
+    "hausmittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Wasser im Waschbecken läuft immer langsamer ab und riecht unangenehm.",
+        "Bevor du zum aggressiven Rohrreiniger greifst, lohnen sich einfache Mittel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mechanisch zuerst",
+      "absaetze": [
+        "Eine Saugglocke, auch Pümpel genannt, löst viele Verstopfungen. Halte dabei den Überlauf mit einem feuchten Tuch zu, damit der Druck wirkt.",
+        "Im Waschbecken hilft es oft, den Siphon abzuschrauben und zu reinigen. Das ist das gebogene Rohr unter dem Becken. Stell vorher einen Eimer darunter."
+      ],
+      "merke": "Saugglocke und Siphon-Reinigung helfen oft schon."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht mit chemischen Reinigern",
+      "absaetze": [
+        "Chemische Rohrreiniger enthalten oft stark ätzende Stoffe. Sie können Haut und Augen verletzen und alte Rohre angreifen.",
+        "Das Umweltbundesamt rät, auf solche Mittel möglichst zu verzichten. Sie belasten auch das Abwasser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Ein Sieb im Abfluss fängt Haare und Essensreste auf. Fett und Essensreste gehören nicht ins Spülbecken, sondern in den Restmüll.",
+        "Gießt du gelegentlich heißes Wasser nach, lösen sich leichte Ablagerungen. Bei hartnäckigen Problemen hilft ein Fachbetrieb."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft oft bei einem verstopften Waschbecken?",
+      "art": "mc",
+      "optionen": [
+        "Den Siphon reinigen",
+        "Mehr Wasser nachgießen",
+        "Den Wasserhahn wechseln",
+        "Salz in den Abfluss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort sammeln sich oft Haare und Reste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind chemische Rohrreiniger problematisch?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind ätzend und belasten das Abwasser",
+        "Sie sind zu langsam",
+        "Sie riechen zu gut",
+        "Sie sind zu billig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das UBA rät, möglichst darauf zu verzichten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fett gehört nicht ins Spülbecken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann Rohre verstopfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Saugglocke und Siphon-Reinigung helfen oft.",
+        "Chemische Rohrreiniger sind ätzend und belasten das Abwasser.",
+        "Ein Sieb fängt Haare und Reste auf.",
+        "Fett gehört in den Restmüll."
+      ]
+    }
+  ]
+}

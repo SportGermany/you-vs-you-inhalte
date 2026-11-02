@@ -1,0 +1,126 @@
+{
+  "id": "supp-b033-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum ist Jod in der Schwangerschaft wichtig?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Handlungsempfehlungen Schwangerschaft",
+      "herausgeber": "Netzwerk Gesund ins Leben",
+      "url": "https://www.gesund-ins-leben.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Jod und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "jod",
+    "schwangerschaft",
+    "schilddruese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Schwangerschaft braucht der Körper mehr von manchen Nährstoffen.",
+        "Jod gehört dazu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtig für das Kind",
+      "absaetze": [
+        "Jod ist ein Baustein der Schilddrüsenhormone. Diese Hormone steuern beim ungeborenen Kind die Entwicklung von Gehirn und Nervensystem.",
+        "In der Schwangerschaft und Stillzeit ist der Bedarf an Jod deshalb erhöht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Lücke in der Versorgung",
+      "absaetze": [
+        "Deutschland gilt als Jodmangelgebiet. Auch mit Jodsalz, Milchprodukten und Seefisch erreichen viele Schwangere den erhöhten Bedarf nicht.",
+        "Das Netzwerk Gesund ins Leben empfiehlt Schwangeren und Stillenden deshalb zusätzlich ein Jodpräparat, nach ärztlicher Rücksprache."
+      ],
+      "merke": "Fachleute empfehlen Schwangeren zusätzlich Jod nach ärztlicher Rücksprache.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu beachten ist",
+      "absaetze": [
+        "Bei Schilddrüsenerkrankungen muss die Jodversorgung individuell geplant werden. Darum ist die Rücksprache in der Praxis wichtig.",
+        "Algenprodukte sind keine gute Jodquelle. Sie können sehr schwankende und teils zu hohe Mengen enthalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Schilddrüsenerkrankungen die Jodversorgung ärztlich planen lassen.",
+        "Präparate in der Schwangerschaft nur nach ärztlicher Rücksprache verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür braucht das ungeborene Kind Jod?",
+      "art": "mc",
+      "optionen": [
+        "Für die Entwicklung von Gehirn und Nervensystem",
+        "Für die Haarfarbe",
+        "Für die Körpergröße allein",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jod ist Baustein der Schilddrüsenhormone."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfiehlt das Netzwerk Gesund ins Leben Schwangeren?",
+      "art": "mc",
+      "optionen": [
+        "Zusätzlich ein Jodpräparat nach ärztlicher Rücksprache",
+        "Auf Jodsalz zu verzichten",
+        "Viele Algenprodukte",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Bedarf ist erhöht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Algenprodukte sind eine gut planbare Jodquelle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ihr Jodgehalt schwankt stark."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In der Schwangerschaft ist der Jodbedarf erhöht.",
+        "Jod ist wichtig für Gehirn und Nerven des Kindes.",
+        "Fachleute empfehlen zusätzlich Jod nach ärztlicher Rücksprache.",
+        "Algenprodukte sind ungeeignet."
+      ]
+    }
+  ]
+}

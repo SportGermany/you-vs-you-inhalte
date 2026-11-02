@@ -1,0 +1,120 @@
+{
+  "id": "supp-b033-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchst du Aminosäure-Präparate fürs Training?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Geld",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bcaa",
+    "aminosaeuren",
+    "muskelaufbau"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Fitnessstudio sind Pulver mit Aminosäuren beliebt, etwa BCAA. Sie sollen Muskeln aufbauen und Muskelkater lindern.",
+        "Was bringen sie wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Aminosäuren sind",
+      "absaetze": [
+        "Aminosäuren sind die Bausteine von Eiweiß. Einige davon kann der Körper nicht selbst bilden, sie heißen unentbehrlich.",
+        "BCAA steht für verzweigtkettige Aminosäuren. Dazu gehören Leucin, Isoleucin und Valin. Sie stecken in jedem eiweißreichen Lebensmittel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Für den Muskelaufbau ist vor allem wichtig, insgesamt genug Eiweiß zu essen und regelmäßig zu trainieren. Studien deuten darauf hin, dass einzelne Aminosäuren-Präparate dann kaum zusätzlichen Nutzen bringen.",
+        "Vollwertiges Eiweiß aus Lebensmitteln enthält alle unentbehrlichen Aminosäuren in passender Mischung."
+      ],
+      "merke": "Genug Eiweiß aus Lebensmitteln reicht für die meisten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bessere Alternativen",
+      "absaetze": [
+        "Milchprodukte, Eier, Hülsenfrüchte, Fisch, Fleisch und Tofu liefern hochwertiges Eiweiß. Eine Mahlzeit mit Eiweiß nach dem Training erfüllt denselben Zweck.",
+        "Aminosäure-Präparate sind oft teuer. Für Freizeitsportler sind sie meist überflüssig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Nierenerkrankungen die Eiweißzufuhr ärztlich besprechen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht BCAA?",
+      "art": "mc",
+      "optionen": [
+        "Verzweigtkettige Aminosäuren",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Hormon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören Leucin, Isoleucin und Valin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für den Muskelaufbau vor allem wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Genug Eiweiß insgesamt und regelmäßiges Training",
+        "Nur BCAA-Pulver",
+        "Möglichst wenig essen",
+        "Nur Ruhe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Einzelne Aminosäuren bringen dann kaum mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eiweißreiche Lebensmittel enthalten auch BCAA.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie stecken in jedem eiweißreichen Lebensmittel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aminosäuren sind die Bausteine von Eiweiß.",
+        "BCAA stecken in allen eiweißreichen Lebensmitteln.",
+        "Bei genug Eiweiß bringen Präparate kaum Zusatznutzen.",
+        "Für Freizeitsportler sind sie meist überflüssig."
+      ]
+    }
+  ]
+}

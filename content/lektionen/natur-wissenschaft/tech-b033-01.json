@@ -1,0 +1,108 @@
+{
+  "id": "tech-b033-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Strichcode?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Barcodes",
+      "herausgeber": "GS1 Germany",
+      "url": "https://www.gs1-germany.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "barcode",
+    "strichcode",
+    "kasse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Supermarktkasse piept es, und der Preis erscheint auf dem Display.",
+        "Möglich machen das schwarze und weiße Striche auf der Verpackung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zahlen in Strichen",
+      "absaetze": [
+        "Ein Strichcode, auch Barcode genannt, stellt eine Zahl durch Striche und Lücken unterschiedlicher Breite dar. Auf Lebensmitteln in Europa ist meist der EAN-Code mit 13 Ziffern zu finden.",
+        "Die ersten Ziffern zeigen oft das Land, in dem der Hersteller den Code registriert hat. Das ist nicht unbedingt das Herkunftsland des Produkts."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Lesen",
+      "absaetze": [
+        "Ein Scanner beleuchtet den Code. Schwarze Striche schlucken Licht, weiße Flächen werfen es zurück.",
+        "Ein Sensor misst diese Hell-Dunkel-Folge und übersetzt sie in Zahlen. Die Kasse sucht dann in ihrer Datenbank den passenden Artikel und Preis."
+      ],
+      "merke": "Der Code enthält nur eine Nummer, den Preis kennt die Kasse."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eingebaute Prüfung",
+      "absaetze": [
+        "Die letzte Ziffer ist eine Prüfziffer. Sie wird aus den anderen Ziffern berechnet und zeigt, ob der Code richtig gelesen wurde.",
+        "Neben dem klassischen Strichcode gibt es zweidimensionale Codes wie den QR-Code. Sie können viel mehr Informationen speichern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält ein Strichcode auf Lebensmitteln?",
+      "art": "mc",
+      "optionen": [
+        "Eine Nummer",
+        "Den Preis direkt",
+        "Das Haltbarkeitsdatum",
+        "Ein Foto des Produkts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Preis sucht die Kasse in ihrer Datenbank."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür dient die letzte Ziffer?",
+      "art": "mc",
+      "optionen": [
+        "Als Prüfziffer",
+        "Als Preisangabe",
+        "Als Gewichtsangabe",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie zeigt, ob richtig gelesen wurde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die ersten Ziffern zeigen immer das Herkunftsland des Produkts.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zeigen oft nur, wo der Code registriert wurde."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Strichcodes stellen Zahlen durch Striche dar.",
+        "Ein Scanner liest die Hell-Dunkel-Folge.",
+        "Den Preis kennt die Kasse aus ihrer Datenbank.",
+        "Eine Prüfziffer erkennt Lesefehler."
+      ]
+    }
+  ]
+}
