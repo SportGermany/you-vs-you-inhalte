@@ -1,0 +1,108 @@
+{
+  "id": "geld-b036-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Warum ist eine Bürgschaft riskant?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Geld",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "buergschaft",
+    "kredit",
+    "haftung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Freund braucht einen Kredit, und die Bank verlangt eine Bürgschaft. Du sollst nur kurz unterschreiben.",
+        "Diese Unterschrift kann teuer werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was eine Bürgschaft bedeutet",
+      "absaetze": [
+        "Mit einer Bürgschaft verpflichtest du dich, für die Schulden eines anderen einzustehen, falls dieser nicht zahlt. Die Bank kann sich dann an dich wenden.",
+        "Bei der häufigen selbstschuldnerischen Bürgschaft muss die Bank nicht erst versuchen, das Geld beim Schuldner einzutreiben. Sie kann dich direkt in Anspruch nehmen."
+      ],
+      "merke": "Als Bürge haftest du für fremde Schulden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Risiken",
+      "absaetze": [
+        "Wenn der Schuldner nicht zahlen kann, musst du einspringen, möglicherweise mit hohen Beträgen. Das kann auch nach einer Trennung oder einem Streit passieren.",
+        "Eine Bürgschaft lässt sich meist nicht einfach kündigen. Sie kann dich über viele Jahre binden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bevor du unterschreibst",
+      "absaetze": [
+        "Unterschreibe nur, wenn du den gesamten Betrag im Ernstfall selbst zahlen könntest. Lies den Vertrag genau und lass dich beraten, etwa bei einer Verbraucherzentrale.",
+        "Prüfe, ob die Bürgschaft auf einen Höchstbetrag oder eine bestimmte Zeit begrenzt werden kann. Lass dich nicht unter Zeitdruck setzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür verpflichtest du dich mit einer Bürgschaft?",
+      "art": "mc",
+      "optionen": [
+        "Für die Schulden eines anderen einzustehen",
+        "Für ein Sparkonto",
+        "Für eine Versicherung",
+        "Für nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bank kann sich an dich wenden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei einer selbstschuldnerischen Bürgschaft?",
+      "art": "mc",
+      "optionen": [
+        "Die Bank kann dich direkt in Anspruch nehmen",
+        "Die Bank muss zuerst zehn Jahre warten",
+        "Du musst nie zahlen",
+        "Nur der Staat zahlt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie muss nicht erst den Schuldner verklagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du solltest nur bürgen, wenn du den Betrag im Ernstfall selbst zahlen könntest.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonst wird es existenzbedrohend."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Als Bürge haftest du für fremde Schulden.",
+        "Die Bank kann dich oft direkt in Anspruch nehmen.",
+        "Bürgschaften binden oft über Jahre.",
+        "Nur unterschreiben, wenn du den Betrag selbst tragen könntest."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "haus-b036-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bekommst du Flecken aus der Kleidung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "flecken",
+    "waesche",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rotwein auf der Bluse, Gras auf der Hose, Fett auf dem Hemd.",
+        "Mit dem richtigen Vorgehen lassen sich viele Flecken entfernen, ohne scharfe Chemie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell handeln",
+      "absaetze": [
+        "Frische Flecken lassen sich viel leichter entfernen als eingetrocknete. Tupfe Flüssigkeiten sofort mit einem Tuch ab, statt zu reiben.",
+        "Reiben drückt den Fleck tiefer ins Gewebe und kann den Stoff aufrauen."
+      ],
+      "merke": "Frische Flecken abtupfen, nicht reiben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalt oder warm",
+      "absaetze": [
+        "Eiweißhaltige Flecken wie Blut oder Ei solltest du mit kaltem Wasser behandeln. Heißes Wasser lässt Eiweiß gerinnen und fixiert den Fleck.",
+        "Fettflecken lösen sich dagegen besser mit warmem Wasser und etwas Spülmittel oder Gallseife."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hausmittel statt Chemie",
+      "absaetze": [
+        "Gallseife hilft bei vielen Flecken. Bei Obst- und Rotweinflecken kann Mineralwasser oder Zitronensaft helfen, bei hellen Stoffen auch etwas Sauerstoffbleiche.",
+        "Das Umweltbundesamt rät, auf spezielle Fleckensprays mit vielen Lösungsmitteln möglichst zu verzichten. Teste Mittel vorher an einer unauffälligen Stelle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie behandelst du einen frischen flüssigen Fleck?",
+      "art": "mc",
+      "optionen": [
+        "Abtupfen, nicht reiben",
+        "Kräftig reiben",
+        "Mit heißem Bügeleisen trocknen",
+        "Liegen lassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reiben drückt den Fleck tiefer ins Gewebe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie behandelst du Blutflecken?",
+      "art": "mc",
+      "optionen": [
+        "Mit kaltem Wasser",
+        "Mit kochendem Wasser",
+        "Mit Öl",
+        "Mit Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Heißes Wasser fixiert Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gallseife kann bei vielen Flecken helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie ist ein bewährtes Hausmittel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Frische Flecken abtupfen, nicht reiben.",
+        "Eiweißflecken kalt behandeln.",
+        "Fettflecken lösen sich besser warm.",
+        "Gallseife statt scharfer Chemie nutzen."
+      ]
+    }
+  ]
+}

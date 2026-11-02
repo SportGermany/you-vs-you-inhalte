@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b036-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft Kirschsaft beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kirschsaft",
+    "melatonin",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Internet wird Sauerkirschsaft als natürliches Schlafmittel empfohlen.",
+        "Was ist dran?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee",
+      "absaetze": [
+        "Sauerkirschen enthalten geringe Mengen Melatonin. Dieses Hormon signalisiert dem Körper, dass es Zeit zum Schlafen ist.",
+        "Deshalb vermuten manche, dass Kirschsaft den Schlaf fördern könnte."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Es gibt nur wenige und meist sehr kleine Studien. Einige deuten darauf hin, dass Sauerkirschsaft die Schlafdauer leicht verlängern könnte.",
+        "Die Ergebnisse sind aber unsicher. Die Melatoninmengen im Saft sind sehr gering, und andere Erklärungen sind möglich."
+      ],
+      "merke": "Ein Schlafeffekt von Kirschsaft ist nicht gesichert.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu bedenken ist",
+      "absaetze": [
+        "Kirschsaft enthält natürlichen Zucker und liefert Energie. Am späten Abend kann er zudem den Gang zur Toilette in der Nacht fördern.",
+        "Verlässlicher sind regelmäßige Schlafzeiten, ein ruhiger Abend und ein dunkles, kühles Schlafzimmer. Bei anhaltenden Problemen ist ärztlicher Rat sinnvoll."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Stoff enthalten Sauerkirschen in geringen Mengen?",
+      "art": "mc",
+      "optionen": [
+        "Melatonin",
+        "Koffein",
+        "Alkohol",
+        "Insulin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Hormon signalisiert Schlafenszeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist die Studienlage zu Kirschsaft und Schlaf?",
+      "art": "mc",
+      "optionen": [
+        "Dünn und unsicher",
+        "Sehr gut und eindeutig",
+        "Er macht hellwach",
+        "Es gibt Hunderte große Studien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind meist sehr klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kirschsaft enthält natürlichen Zucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er liefert damit auch Energie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sauerkirschen enthalten etwas Melatonin.",
+        "Die Studienlage ist dünn und unsicher.",
+        "Kirschsaft liefert Zucker und Energie.",
+        "Gute Schlafgewohnheiten sind verlässlicher."
+      ]
+    }
+  ]
+}

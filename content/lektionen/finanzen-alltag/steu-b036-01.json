@@ -1,0 +1,108 @@
+{
+  "id": "steu-b036-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie machst du die Steuererklärung mit ELSTER?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mein ELSTER",
+      "herausgeber": "Bayerisches Landesamt für Steuern, ELSTER",
+      "url": "https://www.elster.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "elster",
+    "steuererklaerung",
+    "online"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Papierformulare für die Steuererklärung werden immer seltener.",
+        "Die meisten erledigen sie heute online mit ELSTER."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ELSTER ist",
+      "absaetze": [
+        "ELSTER ist das offizielle Online-Portal der Finanzverwaltung. Damit kannst du deine Steuererklärung kostenlos elektronisch einreichen.",
+        "Für die Anmeldung brauchst du ein Benutzerkonto. Die Zugangsdaten werden per Post zugeschickt, deshalb solltest du dich frühzeitig registrieren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorausgefüllte Daten",
+      "absaetze": [
+        "Viele Daten liegen dem Finanzamt bereits vor, etwa vom Arbeitgeber, der Krankenkasse oder der Rentenversicherung. Über die Belegabruf-Funktion kannst du sie in deine Erklärung übernehmen.",
+        "Prüfe die übernommenen Daten trotzdem sorgfältig. Ergänzen musst du vor allem Ausgaben wie Werbungskosten oder Spenden."
+      ],
+      "merke": "Mit dem Belegabruf lassen sich viele Daten übernehmen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tipps",
+      "absaetze": [
+        "Belege musst du meist nicht mitschicken, aber auf Nachfrage vorlegen können. Speichere deine Erklärung zwischendurch.",
+        "Für einfache Fälle gibt es zusätzlich vereinfachte Angebote der Finanzverwaltung. Bei Fragen helfen die Hotlines der Finanzämter oder Lohnsteuerhilfevereine."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ELSTER?",
+      "art": "mc",
+      "optionen": [
+        "Das offizielle Online-Portal der Finanzverwaltung",
+        "Eine private Steuer-App mit hohen Gebühren",
+        "Eine Bank",
+        "Ein Vogelschutzverein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Nutzung ist kostenlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kommen die Zugangsdaten zu dir?",
+      "art": "mc",
+      "optionen": [
+        "Per Post",
+        "Per SMS sofort",
+        "Gar nicht",
+        "Über das Radio"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb frühzeitig registrieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Über den Belegabruf lassen sich Daten des Arbeitgebers übernehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sollten trotzdem geprüft werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "ELSTER ist das kostenlose Steuerportal der Finanzverwaltung.",
+        "Die Zugangsdaten kommen per Post.",
+        "Viele Daten lassen sich per Belegabruf übernehmen.",
+        "Belege nur auf Nachfrage vorlegen."
+      ]
+    }
+  ]
+}

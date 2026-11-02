@@ -1,0 +1,108 @@
+{
+  "id": "tech-b036-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Woher weiß die Ampel, dass ein Auto wartet?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verkehrstechnik",
+      "herausgeber": "Bundesanstalt für Straßenwesen (BASt)",
+      "url": "https://www.bast.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ampel",
+    "verkehr",
+    "sensor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten in der Nacht hältst du an einer Kreuzung. Kurz darauf springt die Ampel auf Grün.",
+        "Wie hat sie dich bemerkt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schleifen im Asphalt",
+      "absaetze": [
+        "Viele Ampeln nutzen Induktionsschleifen. Das sind Drahtschleifen, die vor der Haltelinie in den Asphalt eingelassen sind. Oft sieht man feine Schnittlinien in der Fahrbahn.",
+        "Durch die Schleife fließt Strom und erzeugt ein Magnetfeld. Steht ein Fahrzeug aus Metall darüber, verändert es dieses Feld. Das erkennt die Steuerung."
+      ],
+      "merke": "Induktionsschleifen erkennen Metall über der Fahrbahn."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Andere Sensoren",
+      "absaetze": [
+        "Manche Ampeln arbeiten mit Kameras oder Radar. Sie erfassen Fahrzeuge, Radfahrende und Fußgänger.",
+        "Fußgänger melden sich meist über einen Taster an. Für Radfahrende gibt es an manchen Kreuzungen eigene Markierungen, wo die Schleife sie besser erkennt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verkehr steuern",
+      "absaetze": [
+        "Moderne Ampeln passen ihre Grünphasen an den Verkehr an. So fließt er flüssiger, und es entsteht weniger Wartezeit.",
+        "In vielen Städten werden Ampeln zentral gesteuert und abgestimmt, etwa für eine grüne Welle. Busse und Rettungsfahrzeuge können teilweise bevorzugt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erkennt eine Induktionsschleife?",
+      "art": "mc",
+      "optionen": [
+        "Metall, das ihr Magnetfeld verändert",
+        "Den Lärm des Motors",
+        "Die Farbe des Autos",
+        "Die Temperatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schleife liegt im Asphalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie melden sich Fußgänger meist an?",
+      "art": "mc",
+      "optionen": [
+        "Über einen Taster",
+        "Durch Winken",
+        "Durch Klatschen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Taster meldet den Wunsch an die Steuerung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Moderne Ampeln können ihre Grünphasen an den Verkehr anpassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das verkürzt Wartezeiten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Induktionsschleifen erkennen Fahrzeuge über Magnetfelder.",
+        "Manche Ampeln nutzen Kameras oder Radar.",
+        "Fußgänger melden sich per Taster an.",
+        "Moderne Ampeln passen sich dem Verkehr an."
+      ]
+    }
+  ]
+}

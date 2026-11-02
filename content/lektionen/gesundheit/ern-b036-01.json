@@ -1,0 +1,118 @@
+{
+  "id": "ern-b036-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Worauf solltest du bei Sprossen achten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sprossen",
+    "keimlinge",
+    "hygiene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knackige Sprossen auf dem Brot oder im Salat gelten als gesund und frisch.",
+        "Doch gerade roh können sie ein Risiko bergen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein, aber nährstoffreich",
+      "absaetze": [
+        "Sprossen und Keimlinge sind gekeimte Samen, etwa von Mungbohnen, Alfalfa, Kresse oder Radieschen. Sie liefern Vitamine und sekundäre Pflanzenstoffe.",
+        "Viele mögen sie roh, weil sie dann besonders knackig sind."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Nährboden für Keime",
+      "absaetze": [
+        "Zum Keimen brauchen Samen Wärme und Feuchtigkeit. Diese Bedingungen sind auch für Bakterien ideal. Schon wenige Keime auf dem Saatgut können sich stark vermehren.",
+        "2011 kam es in Deutschland zu einem großen Ausbruch mit EHEC-Bakterien, bei dem Menschen starben. Als Quelle wurden Sprossen aus Bockshornkleesamen ermittelt."
+      ],
+      "merke": "Rohe Sprossen können krank machende Keime enthalten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher genießen",
+      "absaetze": [
+        "Das BfR rät Schwangeren, kleinen Kindern, älteren Menschen und Menschen mit geschwächtem Immunsystem, Sprossen nur gut erhitzt zu essen.",
+        "Lagere Sprossen kühl und iss sie rasch. Wer selbst Sprossen zieht, sollte auf hygienisches Arbeiten achten und sie vor dem Verzehr gut waschen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Sprossen anfällig für Keime?",
+      "art": "mc",
+      "optionen": [
+        "Wärme und Feuchtigkeit beim Keimen fördern Bakterien",
+        "Sie werden immer gekocht",
+        "Sie sind zu trocken",
+        "Sie enthalten Konservierungsstoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Bedingungen mögen auch Bakterien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte Sprossen nur gut erhitzt essen?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere und Menschen mit geschwächtem Immunsystem",
+        "Nur Sportler",
+        "Niemand",
+        "Nur Erwachsene unter 30"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch kleine Kinder und Ältere gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "2011 lösten Sprossen in Deutschland einen EHEC-Ausbruch aus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Quelle waren Bockshornkleesamen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sprossen liefern Vitamine und Pflanzenstoffe.",
+        "Beim Keimen können sich Bakterien stark vermehren.",
+        "Empfindliche Gruppen sollten sie nur erhitzt essen.",
+        "Kühl lagern und rasch verbrauchen."
+      ]
+    }
+  ]
+}

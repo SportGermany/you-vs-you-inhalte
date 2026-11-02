@@ -1,0 +1,111 @@
+{
+  "id": "lern-b036-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Hilft es, an verschiedenen Orten zu lernen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lernort",
+    "kontext",
+    "gedaechtnis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Immer am selben Schreibtisch lernen oder mal in der Bibliothek, mal im Park?",
+        "Die Umgebung beim Lernen hat einen Einfluss auf das Erinnern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erinnerung hängt am Kontext",
+      "absaetze": [
+        "Das Gedächtnis speichert nicht nur den Lernstoff, sondern auch etwas von der Umgebung. Fachleute sprechen von kontextabhängigem Erinnern.",
+        "In einem bekannten Experiment lernten Taucher Wörter an Land oder unter Wasser. Sie erinnerten sich besser, wenn sie am selben Ort abgefragt wurden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wechselnde Orte",
+      "absaetze": [
+        "Einige Studien deuten darauf hin, dass Lernen an verschiedenen Orten das Wissen weniger an einen Ort bindet. So lässt es sich später auch in einer fremden Umgebung, etwa im Prüfungsraum, leichter abrufen.",
+        "Die Ergebnisse sind aber gemischt, und der Effekt scheint eher klein zu sein."
+      ],
+      "merke": "Wechselnde Lernorte können Wissen unabhängiger vom Ort machen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wichtiger ist",
+      "absaetze": [
+        "Deutlich stärker wirken bewährte Methoden wie Selbstabfragen und verteiltes Wiederholen.",
+        "Ein Ortswechsel kann aber gegen Langeweile helfen und neue Energie geben. Wichtig ist eine Umgebung mit wenig Ablenkung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte das Taucher-Experiment?",
+      "art": "mc",
+      "optionen": [
+        "Erinnerung war am Lernort besser",
+        "Unter Wasser lernt man nichts",
+        "Der Ort spielt keine Rolle",
+        "An Land vergisst man alles"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gedächtnis speichert auch den Kontext."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stark ist der Effekt wechselnder Lernorte?",
+      "art": "mc",
+      "optionen": [
+        "Eher klein und gemischt belegt",
+        "Stärker als alle anderen Methoden",
+        "Sehr groß und eindeutig",
+        "Es gibt keinen Effekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Andere Methoden wirken deutlich stärker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Selbstabfragen und verteiltes Wiederholen wirken stärker als ein Ortswechsel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind gut belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Gedächtnis speichert auch die Umgebung.",
+        "Wechselnde Orte können Wissen vom Ort lösen.",
+        "Der Effekt ist eher klein.",
+        "Selbstabfragen und Wiederholen sind wichtiger."
+      ]
+    }
+  ]
+}

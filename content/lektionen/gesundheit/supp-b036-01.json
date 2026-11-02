@@ -1,0 +1,120 @@
+{
+  "id": "supp-b036-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum sind Kalium-Präparate nicht harmlos?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kalium",
+    "mineralstoffe",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kalium ist wichtig für Herz und Muskeln. Deshalb greifen manche zu Kalium-Präparaten.",
+        "Doch hier kann zu viel gefährlich werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiger Mineralstoff",
+      "absaetze": [
+        "Kalium wird für die Funktion von Nerven, Muskeln und Herz gebraucht. Es hilft auch, den Blutdruck zu regulieren.",
+        "Gute Kaliumquellen sind Gemüse, Obst, Kartoffeln, Hülsenfrüchte und Nüsse. Mit einer ausgewogenen Ernährung sind die meisten Menschen gut versorgt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Risiko",
+      "absaetze": [
+        "Normalerweise scheiden gesunde Nieren überschüssiges Kalium aus. Bei Nierenerkrankungen oder bestimmten Medikamenten funktioniert das schlechter.",
+        "Dann kann der Kaliumspiegel im Blut gefährlich ansteigen und Herzrhythmusstörungen auslösen. Betroffen sein können etwa Menschen mit manchen Blutdruckmitteln."
+      ],
+      "merke": "Zu viel Kalium kann Herzrhythmusstörungen auslösen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das BfR empfiehlt",
+      "absaetze": [
+        "Das BfR rät, Kalium in Nahrungsergänzungsmitteln nur in geringen Mengen einzusetzen. Wer Medikamente nimmt oder nierenkrank ist, sollte Präparate nur nach ärztlicher Rücksprache verwenden.",
+        "Kaliumreiches Gemüse und Obst sind für die meisten der bessere Weg."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Nierenerkrankungen oder Einnahme von Blutdruckmitteln Präparate nur nach ärztlicher Rücksprache verwenden.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist Kalium wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Für Nerven, Muskeln und Herz",
+        "Für die Haarfarbe",
+        "Für das Sehen im Dunkeln",
+        "Für die Zähne allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es hilft auch bei der Blutdruckregulation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kann zu viel Kalium gefährlich werden?",
+      "art": "mc",
+      "optionen": [
+        "Bei Nierenerkrankungen oder bestimmten Medikamenten",
+        "Bei viel Sport",
+        "Bei kaltem Wetter",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wird überschüssiges Kalium schlechter ausgeschieden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gemüse und Obst sind gute Kaliumquellen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Kartoffeln und Hülsenfrüchte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kalium ist wichtig für Herz und Muskeln.",
+        "Die meisten sind über die Ernährung gut versorgt.",
+        "Zu viel kann Herzrhythmusstörungen auslösen.",
+        "Bei Nierenerkrankungen oder Medikamenten nur nach Rücksprache."
+      ]
+    }
+  ]
+}

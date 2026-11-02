@@ -1,0 +1,108 @@
+{
+  "id": "koer-b036-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum riechen Füße manchmal unangenehm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Dermatologische Gesellschaft",
+      "url": "https://derma.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fussgeruch",
+    "schweiss",
+    "bakterien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem langen Tag in Turnschuhen ist der Geruch kaum zu ignorieren.",
+        "Woher kommt er?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Schweißdrüsen",
+      "absaetze": [
+        "An den Fußsohlen sitzen besonders viele Schweißdrüsen. Füße können an einem Tag eine beachtliche Menge Schweiß abgeben.",
+        "Frischer Schweiß riecht kaum. In geschlossenen Schuhen entsteht aber ein warmes, feuchtes Klima."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bakterien sind die Ursache",
+      "absaetze": [
+        "Auf der Haut leben Bakterien. Im feuchten Schuhklima vermehren sie sich und zersetzen Schweiß und abgestorbene Hautschüppchen.",
+        "Dabei entstehen Stoffe mit unangenehmem Geruch. Ein Teil davon riecht ähnlich wie Käse."
+      ],
+      "merke": "Bakterien, nicht der Schweiß selbst, verursachen den Geruch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Füße täglich waschen und gut abtrocknen, auch zwischen den Zehen. Socken aus Baumwolle oder Wolle täglich wechseln.",
+        "Schuhe sollten zwischendurch auslüften können. Wer abwechselnd verschiedene Paare trägt, gibt ihnen Zeit zum Trocknen. Bei sehr starkem Schwitzen kann ärztlicher Rat helfen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verursacht den Fußgeruch?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien, die Schweiß zersetzen",
+        "Der Schweiß selbst",
+        "Die Socken allein",
+        "Das Blut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Frischer Schweiß riecht kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Fußgeruch?",
+      "art": "mc",
+      "optionen": [
+        "Schuhe auslüften und Socken täglich wechseln",
+        "Immer dieselben Schuhe tragen",
+        "Füße selten waschen",
+        "Nasse Socken tragen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trockene Bedingungen bremsen Bakterien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "An den Fußsohlen gibt es besonders viele Schweißdrüsen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb schwitzen Füße stark."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Füße haben besonders viele Schweißdrüsen.",
+        "Bakterien zersetzen Schweiß und verursachen Geruch.",
+        "Täglich waschen und Socken wechseln hilft.",
+        "Schuhe auslüften lassen."
+      ]
+    }
+  ]
+}
