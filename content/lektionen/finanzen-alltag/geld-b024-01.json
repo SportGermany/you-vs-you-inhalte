@@ -1,0 +1,108 @@
+{
+  "id": "geld-b024-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist ein Robo-Advisor?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "robo-advisor",
+    "geldanlage",
+    "etf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Geld anlegen, ohne sich selbst um Aktien und Fonds zu kümmern. Das versprechen Robo-Advisor.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Digitale Vermögensverwaltung",
+      "absaetze": [
+        "Ein Robo-Advisor ist ein Online-Dienst, der dein Geld nach festen Regeln anlegt. Robo kommt von Roboter, Advisor heißt Berater.",
+        "Zu Beginn beantwortest du Fragen zu Zielen, Anlagedauer und Risikobereitschaft. Daraus ergibt sich eine Mischung, meist aus ETFs für Aktien und Anleihen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was der Dienst übernimmt",
+      "absaetze": [
+        "Der Robo-Advisor kauft die Anteile und sorgt dafür, dass die Mischung erhalten bleibt. Steigen etwa Aktien stark, wird umgeschichtet.",
+        "Dieses Zurückführen auf die Zielmischung heißt Rebalancing. Du musst dich dann kaum um Einzelheiten kümmern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kosten und Grenzen",
+      "absaetze": [
+        "Für den Service zahlst du eine jährliche Gebühr, zusätzlich zu den Kosten der ETFs. Über viele Jahre macht das einen spürbaren Unterschied.",
+        "Wer sich etwas einarbeitet, kann einen ETF-Sparplan oft günstiger selbst anlegen. Ein Robo-Advisor schützt außerdem nicht vor Kursverlusten."
+      ],
+      "merke": "Bequemlichkeit kostet eine laufende Gebühr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Robo-Advisor?",
+      "art": "mc",
+      "optionen": [
+        "Er legt Geld online nach festen Regeln an",
+        "Er vergibt Kredite",
+        "Er verwaltet dein Girokonto",
+        "Er berechnet deine Steuern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist werden ETFs für Aktien und Anleihen gemischt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Rebalancing?",
+      "art": "mc",
+      "optionen": [
+        "Zurückführen auf die Zielmischung",
+        "Verkauf aller Anteile",
+        "Wechsel der Bank",
+        "Auszahlung der Gewinne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Aufteilung wird wiederhergestellt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Robo-Advisor schützt vor Kursverlusten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Anlagen schwanken trotzdem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Robo-Advisor legen Geld nach festen Regeln an.",
+        "Meist kommen ETFs für Aktien und Anleihen zum Einsatz.",
+        "Für den Service fällt eine jährliche Gebühr an.",
+        "Vor Kursverlusten schützt er nicht."
+      ]
+    }
+  ]
+}

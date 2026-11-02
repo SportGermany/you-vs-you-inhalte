@@ -1,0 +1,114 @@
+{
+  "id": "umw-b024-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was steckt hinter Ökostrom?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lärm und Energie",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "oekostrom",
+    "herkunftsnachweis",
+    "energiewende"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Aus der Steckdose kommt bei allen derselbe Strom. Trotzdem kann man Ökostrom kaufen.",
+        "Wie passt das zusammen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein gemeinsamer Stromsee",
+      "absaetze": [
+        "Alle Kraftwerke speisen ins selbe Netz ein. Man kann sich das wie einen See vorstellen, in den viele Zuflüsse münden.",
+        "Wer Ökostrom bezieht, bekommt physikalisch denselben Strom wie die Nachbarn. Entscheidend ist, was der Anbieter in den See einspeisen lässt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Herkunftsnachweise",
+      "absaetze": [
+        "Für Strom aus erneuerbaren Quellen werden Herkunftsnachweise ausgestellt. Das Umweltbundesamt führt dafür in Deutschland ein Register.",
+        "Ein Anbieter, der Ökostrom verkauft, muss entsprechende Nachweise vorlegen. So wird sichergestellt, dass die Menge nicht doppelt verkauft wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf es ankommt",
+      "absaetze": [
+        "Manche Ökostrom-Tarife bringen der Energiewende wenig, wenn nur Nachweise aus alten Wasserkraftwerken eingekauft werden.",
+        "Gütesiegel wie ok-power oder Grüner Strom achten zusätzlich darauf, dass der Anbieter den Ausbau neuer Anlagen fördert. Ein Blick auf solche Siegel lohnt sich."
+      ],
+      "merke": "Gute Siegel fördern den Ausbau neuer Anlagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bekommst du mit einem Ökostrom-Tarif physikalisch anderen Strom?",
+      "art": "mc",
+      "optionen": [
+        "Nein, alle beziehen Strom aus demselben Netz",
+        "Ja, über eigene Leitungen",
+        "Ja, aus einer eigenen Steckdose",
+        "Nur nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Entscheidend ist, was eingespeist wird."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer führt in Deutschland das Register für Herkunftsnachweise?",
+      "art": "mc",
+      "optionen": [
+        "Das Umweltbundesamt",
+        "Die Polizei",
+        "Die Post",
+        "Der Bundestag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das UBA führt das Herkunftsnachweisregister."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gütesiegel können zeigen, ob ein Anbieter neue Anlagen fördert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Darauf achten zum Beispiel ok-power und Grüner Strom."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alle beziehen Strom aus demselben Netz.",
+        "Herkunftsnachweise belegen erneuerbaren Strom.",
+        "Manche Tarife bringen der Energiewende wenig.",
+        "Gute Siegel fördern neue Anlagen."
+      ]
+    }
+  ]
+}

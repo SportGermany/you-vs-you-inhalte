@@ -1,0 +1,114 @@
+{
+  "id": "all-b024-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist der Mars rot?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mars",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Mars Express",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mars",
+    "eisenoxid",
+    "planeten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schon mit bloßem Auge leuchtet der Mars am Nachthimmel rötlich.",
+        "Die Farbe hat einen ganz irdischen Grund: Rost."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rostiger Staub",
+      "absaetze": [
+        "Die Oberfläche des Mars ist mit feinem Staub bedeckt, der viel Eisenoxid enthält. Eisenoxid kennst du als Rost.",
+        "Dieser Staub färbt den Boden rötlich-braun. Der Wind wirbelt ihn auch in die Atmosphäre, sodass sogar der Himmel rötlich wirken kann."
+      ],
+      "merke": "Die rote Farbe stammt von eisenhaltigem Staub."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein kalter, trockener Planet",
+      "absaetze": [
+        "Der Mars ist etwa halb so groß wie die Erde. Seine Atmosphäre ist sehr dünn und besteht überwiegend aus Kohlendioxid.",
+        "Es ist dort meist eisig kalt. Wasser gibt es heute vor allem als Eis, etwa an den Polkappen und im Boden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spuren einer feuchteren Vergangenheit",
+      "absaetze": [
+        "Raumsonden und Rover haben ausgetrocknete Flusstäler und Ablagerungen entdeckt. Sie deuten darauf hin, dass auf dem Mars einst Wasser floss.",
+        "Ob es dort jemals Leben gab, ist eine der spannenden offenen Fragen der Raumfahrt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt die rote Farbe des Mars?",
+      "art": "mc",
+      "optionen": [
+        "Von eisenhaltigem Staub",
+        "Von roten Pflanzen",
+        "Von Lava",
+        "Vom Sonnenlicht allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eisenoxid, also Rost, färbt den Staub."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht die dünne Marsatmosphäre überwiegend?",
+      "art": "mc",
+      "optionen": [
+        "Kohlendioxid",
+        "Sauerstoff",
+        "Wasserdampf",
+        "Helium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie besteht überwiegend aus Kohlendioxid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf dem Mars gibt es heute Wasser vor allem als Eis.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa an den Polkappen und im Boden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eisenoxid im Staub färbt den Mars rot.",
+        "Der Mars ist etwa halb so groß wie die Erde.",
+        "Seine Atmosphäre ist dünn und besteht vor allem aus Kohlendioxid.",
+        "Ausgetrocknete Flusstäler zeigen eine feuchtere Vergangenheit."
+      ]
+    }
+  ]
+}

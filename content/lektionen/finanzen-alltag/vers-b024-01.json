@@ -1,0 +1,108 @@
+{
+  "id": "vers-b024-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Ist dein Fahrrad gegen Diebstahl versichert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fahrrad",
+    "diebstahl",
+    "hausrat"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jedes Jahr werden in Deutschland sehr viele Fahrräder gestohlen. Besonders ärgerlich ist das bei einem teuren E-Bike.",
+        "Ob die Versicherung zahlt, hängt vom Vertrag ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hausrat ist nicht gleich Hausrat",
+      "absaetze": [
+        "Die Hausratversicherung zahlt bei Einbruchdiebstahl, etwa wenn ein Rad aus einem abgeschlossenen Keller gestohlen wird.",
+        "Wird das Rad dagegen draußen abgeschlossen gestohlen, zahlt sie meist nur mit einer Zusatzklausel für Fahrräder. Ohne diesen Baustein gehst du oft leer aus."
+      ],
+      "merke": "Für Diebstahl unterwegs braucht es meist eine Fahrradklausel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen beachten",
+      "absaetze": [
+        "Die Fahrradklausel ist oft auf einen Prozentsatz der Versicherungssumme begrenzt. Für teure Räder reicht das manchmal nicht.",
+        "Dann kann eine eigene Fahrradversicherung sinnvoll sein. Vergleiche Leistungen, Selbstbeteiligung und Bedingungen genau."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Ernstfall wichtig ist",
+      "absaetze": [
+        "Fast alle Verträge verlangen, dass das Rad mit einem Schloss gesichert war. Bewahre den Kaufbeleg auf und notiere die Rahmennummer.",
+        "Nach einem Diebstahl zeigst du ihn sofort bei der Polizei an und meldest ihn der Versicherung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann zahlt die Hausratversicherung ohne Zusatz meist?",
+      "art": "mc",
+      "optionen": [
+        "Bei Einbruch in einen abgeschlossenen Raum",
+        "Bei jedem Diebstahl auf der Straße",
+        "Nie",
+        "Nur bei Unfällen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Diebstahl draußen braucht es meist eine Fahrradklausel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du für den Ernstfall aufbewahren?",
+      "art": "mc",
+      "optionen": [
+        "Kaufbeleg und Rahmennummer",
+        "Den Reifendruck",
+        "Die Farbe des Sattels",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Angaben helfen bei Anzeige und Schadensmeldung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Fahrradklausel deckt immer den vollen Neupreis jedes Rades.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist oft begrenzt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hausrat zahlt ohne Zusatz meist nur bei Einbruch in Räume.",
+        "Für Diebstahl draußen braucht es oft eine Fahrradklausel.",
+        "Bei teuren Rädern kann eine eigene Versicherung sinnvoll sein.",
+        "Kaufbeleg, Rahmennummer und Anzeige sind wichtig."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ern-b024-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum gelten Haferflocken als gesund?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hafer",
+    "beta-glucan",
+    "ballaststoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Haferflocken sind günstig, schnell zubereitet und lange haltbar.",
+        "Sie haben auch gesundheitlich einiges zu bieten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Vollkornprodukt",
+      "absaetze": [
+        "Haferflocken werden meist aus dem ganzen Korn hergestellt. Sie sind also ein Vollkornprodukt.",
+        "Sie liefern Ballaststoffe, pflanzliches Eiweiß und Mineralstoffe wie Magnesium und Eisen. Dazu sättigen sie lange."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der besondere Ballaststoff",
+      "absaetze": [
+        "Hafer enthält Beta-Glucan. Dieser lösliche Ballaststoff bildet im Darm eine zähe Masse.",
+        "Die EFSA hat bestätigt, dass Beta-Glucan aus Hafer dazu beiträgt, den Cholesterinspiegel im Blut zu senken. Ein hoher Cholesterinspiegel ist ein Risikofaktor für Herzkrankheiten."
+      ],
+      "merke": "Beta-Glucan aus Hafer kann den Cholesterinspiegel senken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Alltag",
+      "absaetze": [
+        "Haferflocken passen ins Müsli, in Suppen oder zum Backen. Fertigmüslis enthalten dagegen oft viel zugesetzten Zucker.",
+        "Reine Haferflocken mit Obst und Joghurt sind eine einfache Alternative. Ein Blick auf die Zutatenliste hilft bei der Auswahl."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Ballaststoff aus Hafer kann den Cholesterinspiegel senken?",
+      "art": "mc",
+      "optionen": [
+        "Beta-Glucan",
+        "Laktose",
+        "Gluten",
+        "Fruktose"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die EFSA hat diese Wirkung bestätigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten viele Fertigmüslis?",
+      "art": "mc",
+      "optionen": [
+        "Viel zugesetzten Zucker",
+        "Gar keine Kohlenhydrate",
+        "Nur Eiweiß",
+        "Medikamente"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reine Haferflocken sind oft die bessere Wahl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Haferflocken sind meist ein Vollkornprodukt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie werden meist aus dem ganzen Korn hergestellt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Haferflocken sind meist Vollkorn.",
+        "Sie liefern Ballaststoffe, Eiweiß und Mineralstoffe.",
+        "Beta-Glucan aus Hafer kann den Cholesterinspiegel senken.",
+        "Fertigmüslis enthalten oft viel Zucker."
+      ]
+    }
+  ]
+}

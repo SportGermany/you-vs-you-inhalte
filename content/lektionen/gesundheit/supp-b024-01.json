@@ -1,0 +1,126 @@
+{
+  "id": "supp-b024-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Wie riskant sind Nahrungsergänzungsmittel aus dem Internet?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Online-Handel mit Lebensmitteln",
+      "herausgeber": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)",
+      "url": "https://www.bvl.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "onlinehandel",
+    "nahrungsergaenzung",
+    "risiko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Klick, und die Pillen aus Übersee sind unterwegs. Die Versprechen sind groß: schneller abnehmen, mehr Muskeln, mehr Potenz.",
+        "Behörden warnen vor solchen Angeboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Versteckte Wirkstoffe",
+      "absaetze": [
+        "Bei Kontrollen finden Behörden immer wieder Präparate mit nicht angegebenen Arzneistoffen. Darunter sind etwa Mittel gegen Erektionsstörungen oder verbotene Appetitzügler.",
+        "Solche Stoffe können starke Nebenwirkungen haben und mit Medikamenten gefährlich zusammenwirken. Wer sie unwissentlich einnimmt, kann sich nicht schützen."
+      ],
+      "merke": "Manche Online-Präparate enthalten versteckte Arzneistoffe.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Andere Regeln im Ausland",
+      "absaetze": [
+        "In der EU gelten Regeln für Kennzeichnung und erlaubte Zutaten. Produkte aus anderen Ländern halten diese oft nicht ein.",
+        "Manche enthalten Pflanzen oder Stoffe, die in der EU nicht als Lebensmittel zugelassen sind. Auch die angegebenen Mengen stimmen nicht immer."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woran du unseriöse Angebote erkennst",
+      "absaetze": [
+        "Warnzeichen sind Heilversprechen, sehr schnelle Erfolge und fehlende Angaben zum Hersteller. Auch Begriffe wie rein natürlich schützen nicht vor Risiken.",
+        "Das BVL betreibt mit den Ländern eine Kontrolle des Online-Handels. Bei Fragen helfen Apotheken und Verbraucherzentralen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Medikamenteneinnahme Präparate nur nach ärztlicher oder pharmazeutischer Beratung verwenden.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was finden Behörden in manchen Online-Präparaten?",
+      "art": "mc",
+      "optionen": [
+        "Nicht angegebene Arzneistoffe",
+        "Nur Wasser",
+        "Immer genau die angegebene Menge",
+        "Gold"
+      ],
+      "richtig": 0,
+      "erklaerung": "Versteckte Arzneistoffe sind ein bekanntes Problem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Warnzeichen deutet auf ein unseriöses Angebot hin?",
+      "art": "mc",
+      "optionen": [
+        "Heilversprechen und sehr schnelle Erfolge",
+        "Ein vollständiges Impressum",
+        "Eine Zutatenliste auf Deutsch",
+        "Ein Hinweis auf Risiken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große Versprechen sind ein Warnsignal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rein natürliche Produkte sind immer ungefährlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch Pflanzenstoffe können Risiken haben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Online-Präparate enthalten manchmal versteckte Arzneistoffe.",
+        "Produkte aus dem Ausland halten EU-Regeln oft nicht ein.",
+        "Heilversprechen sind ein Warnzeichen.",
+        "Apotheken und Verbraucherzentralen helfen bei Fragen."
+      ]
+    }
+  ]
+}

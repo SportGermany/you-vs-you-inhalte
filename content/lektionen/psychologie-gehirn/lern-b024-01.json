@@ -1,0 +1,111 @@
+{
+  "id": "lern-b024-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Hilft Musik beim Lernen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "musik",
+    "konzentration",
+    "lernen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele lernen mit Kopfhörern auf den Ohren. Die Musik soll motivieren und Geräusche ausblenden.",
+        "Doch hilft sie auch beim Behalten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Texte stören beim Lesen",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Musik mit Gesang das Lesen und Verstehen von Texten erschweren kann. Das Gehirn verarbeitet die gesungenen Wörter mit.",
+        "Sprache aus der Musik konkurriert dann mit der Sprache im Lerntext. Das kostet Aufmerksamkeit im Arbeitsgedächtnis."
+      ],
+      "merke": "Musik mit Gesang kann beim Lesen ablenken.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Es kommt darauf an",
+      "absaetze": [
+        "Ruhige Instrumentalmusik stört weniger. Manchen hilft sie, in Stimmung zu kommen oder Lärm von außen zu überdecken.",
+        "Wie stark Musik ablenkt, unterscheidet sich zwischen Menschen und Aufgaben. Bei einfachen Routineaufgaben stört sie meist weniger als bei schwierigem Stoff."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein guter Kompromiss",
+      "absaetze": [
+        "Musik vor dem Lernen kann die Stimmung heben und Energie geben. Während schwieriger Lernphasen ist Stille oft die bessere Wahl.",
+        "Probier es aus: Lerne einmal mit und einmal ohne Musik und frag dich danach selbst ab."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Musik kann beim Lesen besonders stören?",
+      "art": "mc",
+      "optionen": [
+        "Musik mit Gesang",
+        "Völlige Stille",
+        "Leises Rauschen",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gesungene Wörter konkurrieren mit dem Lerntext."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann stört Musik meist weniger?",
+      "art": "mc",
+      "optionen": [
+        "Bei einfachen Routineaufgaben",
+        "Bei schwierigem neuen Stoff",
+        "Beim Lesen komplizierter Texte",
+        "Beim Auswendiglernen von Vokabeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei einfachen Aufgaben bleibt mehr Aufmerksamkeit übrig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Musik vor dem Lernen kann die Stimmung heben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Danach ist Stille oft besser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Musik mit Gesang kann beim Lesen ablenken.",
+        "Ruhige Instrumentalmusik stört weniger.",
+        "Bei schwierigem Stoff ist Stille oft besser.",
+        "Musik vor dem Lernen kann motivieren."
+      ]
+    }
+  ]
+}

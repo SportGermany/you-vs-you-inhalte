@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b024-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie stört Lärm in der Nacht den Schlaf?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Environmental Noise Guidelines",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lärm und Energie",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "laerm",
+    "verkehr",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Lastwagen fährt vorbei, du wachst nicht einmal richtig auf.",
+        "Trotzdem reagiert dein Körper darauf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper hört mit",
+      "absaetze": [
+        "Auch im Schlaf verarbeitet das Gehirn Geräusche. Lärm kann den Schlaf flacher machen oder zu kurzen Wachphasen führen, an die du dich morgens nicht erinnerst.",
+        "Dabei steigen kurzzeitig Puls und Blutdruck. Der Körper schüttet Stresshormone aus."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Langzeitfolgen",
+      "absaetze": [
+        "Die WHO stuft Verkehrslärm als wichtiges Umweltrisiko für die Gesundheit ein. Studien deuten darauf hin, dass dauerhafter nächtlicher Lärm das Risiko für Herz-Kreislauf-Erkrankungen erhöhen kann.",
+        "Besonders betroffen sind Menschen an stark befahrenen Straßen, Bahnstrecken oder in Einflugschneisen."
+      ],
+      "merke": "Dauerlärm in der Nacht ist ein Gesundheitsrisiko.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Wenn möglich, schlaf im ruhigsten Raum der Wohnung, etwa zur Hofseite. Schallschutzfenster können viel bewirken.",
+        "Ohrstöpsel helfen vielen Menschen. Bei starker Lärmbelastung lohnt es sich, bei der Gemeinde nach Lärmaktionsplänen und Schallschutzprogrammen zu fragen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Schlaf bei Lärm, auch ohne Aufwachen?",
+      "art": "mc",
+      "optionen": [
+        "Puls und Blutdruck steigen kurzzeitig",
+        "Der Körper schaltet das Gehör ab",
+        "Nichts",
+        "Der Schlaf wird tiefer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn verarbeitet Geräusche weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stuft die WHO Verkehrslärm ein?",
+      "art": "mc",
+      "optionen": [
+        "Als wichtiges Umweltrisiko",
+        "Als harmlos",
+        "Als gesundheitsfördernd",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dauerlärm kann der Gesundheit schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lärm stört den Schlaf nur, wenn du davon aufwachst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch ohne bewusstes Aufwachen reagiert der Körper."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Gehirn verarbeitet Geräusche auch im Schlaf.",
+        "Lärm lässt Puls und Blutdruck kurzzeitig steigen.",
+        "Dauerlärm in der Nacht ist ein Gesundheitsrisiko.",
+        "Ruhige Schlafräume, Fenster und Ohrstöpsel helfen."
+      ]
+    }
+  ]
+}

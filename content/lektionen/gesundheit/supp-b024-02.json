@@ -1,0 +1,126 @@
+{
+  "id": "supp-b024-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was sind Präbiotika?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "praebiotika",
+    "darmflora",
+    "inulin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Probiotika kennen viele. Präbiotika klingen ähnlich, sind aber etwas anderes.",
+        "Sie sollen die Darmbakterien füttern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Futter für Bakterien",
+      "absaetze": [
+        "Präbiotika sind Ballaststoffe, die der Mensch nicht verdauen kann. Sie gelangen in den Dickdarm und dienen dort bestimmten Bakterien als Nahrung.",
+        "Bekannte Beispiele sind Inulin und Oligofruktose. Probiotika sind dagegen lebende Bakterien selbst."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Natürlich im Essen",
+      "absaetze": [
+        "Präbiotische Ballaststoffe stecken in vielen Lebensmitteln. Beispiele sind Chicorée, Topinambur, Zwiebeln, Lauch, Knoblauch, Spargel und Hülsenfrüchte.",
+        "Auch etwas abgekühlte Kartoffeln oder Nudeln enthalten Stärke, die im Darm ähnlich wirkt."
+      ],
+      "merke": "Eine ballaststoffreiche Ernährung liefert natürliche Präbiotika.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Präparate bringen",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Präbiotika die Zusammensetzung der Darmbakterien verändern können. Ob das gesunden Menschen spürbar nützt, ist weniger klar.",
+        "Zu Beginn können sie Blähungen verursachen. Für die meisten ist eine abwechslungsreiche, ballaststoffreiche Ernährung der einfachere Weg."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Darmerkrankungen vor der Verwendung ärztlich beraten lassen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Präbiotika?",
+      "art": "mc",
+      "optionen": [
+        "Unverdauliche Ballaststoffe als Futter für Darmbakterien",
+        "Lebende Bakterien",
+        "Antibiotika",
+        "Vitamine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Probiotika sind die Bakterien selbst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Lebensmittel stecken präbiotische Ballaststoffe?",
+      "art": "mc",
+      "optionen": [
+        "Zwiebeln",
+        "Zucker",
+        "Öl",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Lauch, Knoblauch und Chicorée gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Präbiotika können zu Beginn Blähungen verursachen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Darm muss sich erst daran gewöhnen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Präbiotika füttern Darmbakterien.",
+        "Probiotika sind die Bakterien selbst.",
+        "Viele Gemüse und Hülsenfrüchte liefern Präbiotika.",
+        "Der Nutzen von Präparaten für Gesunde ist weniger klar."
+      ]
+    }
+  ]
+}

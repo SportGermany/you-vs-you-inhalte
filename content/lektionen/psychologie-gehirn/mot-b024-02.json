@@ -1,0 +1,111 @@
+{
+  "id": "mot-b024-02",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "motivation-emotionen",
+  "titel": "Was passiert bei einer Panikattacke?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychische Erkrankungen",
+      "herausgeber": "Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN)",
+      "url": "https://www.dgppn.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "panikattacke",
+    "angst",
+    "koerper"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich rast das Herz, die Luft wird knapp, die Hände zittern. Viele denken in diesem Moment an einen Herzinfarkt.",
+        "Häufig steckt eine Panikattacke dahinter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Alarm ohne Gefahr",
+      "absaetze": [
+        "Bei einer Panikattacke schaltet der Körper plötzlich in den Alarmzustand, obwohl keine echte Gefahr besteht. Herzrasen, Atemnot, Schwindel und Zittern sind typisch.",
+        "Dazu kommt oft die Angst, die Kontrolle zu verlieren oder zu sterben. Die Attacke erreicht meist innerhalb weniger Minuten ihren Höhepunkt und klingt dann wieder ab."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Teufelskreis",
+      "absaetze": [
+        "Viele deuten die Körpersignale als Zeichen einer Katastrophe. Diese Angst verstärkt die Körperreaktionen weiter.",
+        "Wer wiederholt Attacken hat und aus Angst davor Orte meidet, kann eine Panikstörung entwickeln. Panikstörungen gehören zu den häufigen Angsterkrankungen."
+      ],
+      "merke": "Die Angst vor den Symptomen kann die Panik verstärken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut behandelbar",
+      "absaetze": [
+        "Panikstörungen lassen sich gut behandeln. Leitlinien empfehlen vor allem die kognitive Verhaltenstherapie.",
+        "Wichtig ist, beim ersten Auftreten körperliche Ursachen ärztlich abklären zu lassen. Bei Brustschmerzen oder Atemnot gilt: im Zweifel den Notruf 112 wählen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für eine Panikattacke?",
+      "art": "mc",
+      "optionen": [
+        "Herzrasen, Atemnot und Schwindel ohne echte Gefahr",
+        "Langsamer Puls und Müdigkeit",
+        "Starker Hunger",
+        "Juckreiz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper schaltet in den Alarmzustand."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Behandlung empfehlen Leitlinien bei Panikstörung vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Kognitive Verhaltenstherapie",
+        "Strikte Bettruhe",
+        "Vermeiden aller Orte",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verhaltenstherapie wirkt gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Brustschmerzen oder Atemnot sollte man im Zweifel den Notruf wählen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Körperliche Ursachen müssen abgeklärt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Panikattacke schlägt der Körper ohne echte Gefahr Alarm.",
+        "Sie erreicht meist in Minuten ihren Höhepunkt.",
+        "Die Angst vor den Symptomen kann die Panik verstärken.",
+        "Panikstörungen sind gut behandelbar."
+      ]
+    }
+  ]
+}

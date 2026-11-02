@@ -1,0 +1,113 @@
+{
+  "id": "stoff-b024-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Prädiabetes?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes verstehen",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "praediabetes",
+    "blutzucker",
+    "vorbeugung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Blutzucker ist etwas zu hoch, aber noch kein Diabetes. Das betrifft sehr viele Menschen, oft ohne dass sie es wissen.",
+        "Die gute Nachricht: In diesem Stadium lässt sich viel tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Vorstufe",
+      "absaetze": [
+        "Prädiabetes bedeutet, dass der Blutzucker über dem Normalbereich liegt, aber noch unter der Grenze für Diabetes. Die Vorsilbe prä heißt vor.",
+        "Häufig steckt eine Insulinresistenz dahinter. Die Körperzellen reagieren dann schwächer auf Insulin, das den Zucker aus dem Blut in die Zellen bringt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Warnsignal",
+      "absaetze": [
+        "Prädiabetes macht meist keine Beschwerden. Er erhöht aber das Risiko, später einen Typ-2-Diabetes zu entwickeln.",
+        "Auch das Risiko für Herz-Kreislauf-Erkrankungen ist bereits erhöht. Bei Gesundheits-Checks in der Hausarztpraxis kann der Blutzucker bestimmt werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Große Studien zeigen: Mehr Bewegung, eine ausgewogene Ernährung und bei Übergewicht eine moderate Gewichtsabnahme senken das Risiko für Typ-2-Diabetes deutlich.",
+        "Diese Veränderungen wirken oft besser als Medikamente. Ärztliche Begleitung hilft, die Werte im Blick zu behalten."
+      ],
+      "merke": "Lebensstil-Änderungen können Typ-2-Diabetes oft verhindern oder verzögern.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Prädiabetes?",
+      "art": "mc",
+      "optionen": [
+        "Blutzucker über normal, aber unter der Diabetes-Grenze",
+        "Ein Diabetes bei Kindern",
+        "Ein zu niedriger Blutzucker",
+        "Eine Allergie gegen Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist eine Vorstufe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was senkt das Risiko für Typ-2-Diabetes bei Prädiabetes deutlich?",
+      "art": "mc",
+      "optionen": [
+        "Mehr Bewegung und ausgewogene Ernährung",
+        "Mehr Süßigkeiten",
+        "Weniger Schlaf",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große Studien belegen den Nutzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Prädiabetes macht meist deutliche Beschwerden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er bleibt oft unbemerkt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Prädiabetes ist eine Vorstufe des Typ-2-Diabetes.",
+        "Er macht meist keine Beschwerden.",
+        "Bewegung, Ernährung und moderates Abnehmen senken das Risiko deutlich.",
+        "Ein Blutzuckertest beim Gesundheits-Check schafft Klarheit.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "steu-b024-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was bringt die Homeoffice-Pauschale?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2023-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "homeoffice",
+    "werbungskosten",
+    "pauschale"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele arbeiten einen Teil der Woche von zu Hause. Das kann sich in der Steuererklärung bemerkbar machen.",
+        "Allerdings nicht immer so stark, wie man denkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So funktioniert die Pauschale",
+      "absaetze": [
+        "Seit 2023 kannst du für jeden Tag, an dem du überwiegend zu Hause arbeitest, sechs Euro ansetzen. Das gilt für höchstens 210 Tage im Jahr.",
+        "Daraus ergeben sich höchstens 1.260 Euro im Jahr. Ein eigenes Arbeitszimmer brauchst du dafür nicht, der Küchentisch genügt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Haken",
+      "absaetze": [
+        "Die Pauschale zählt zu den Werbungskosten. Jeder Arbeitnehmer bekommt ohnehin automatisch den Arbeitnehmer-Pauschbetrag angerechnet.",
+        "Nur wenn deine Werbungskosten insgesamt höher sind, bringt die Homeoffice-Pauschale einen Steuervorteil. Dazu zählen etwa Fahrtkosten, Arbeitsmittel und Fortbildungen."
+      ],
+      "merke": "Die Pauschale lohnt sich erst zusammen mit anderen Werbungskosten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tage im Büro",
+      "absaetze": [
+        "An Tagen, an denen du ins Büro fährst, kannst du die Pendlerpauschale für den Weg geltend machen. Für einen Tag kannst du in der Regel nicht beides voll ansetzen. Die genauen Regeln stehen in den Hinweisen des Finanzamts.",
+        "Notiere dir deine Homeoffice-Tage. So hast du bei Nachfragen des Finanzamts einen Überblick."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel kannst du pro Homeoffice-Tag ansetzen?",
+      "art": "mc",
+      "optionen": [
+        "Sechs Euro",
+        "50 Euro",
+        "Einen Euro",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seit 2023 sind es sechs Euro pro Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Art von Kosten zählt die Homeoffice-Pauschale?",
+      "art": "mc",
+      "optionen": [
+        "Werbungskosten",
+        "Sonderausgaben",
+        "Außergewöhnliche Belastungen",
+        "Einnahmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gehört zu den Werbungskosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für die Homeoffice-Pauschale brauchst du ein eigenes Arbeitszimmer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Arbeitsplatz am Küchentisch genügt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pro Homeoffice-Tag kannst du sechs Euro ansetzen.",
+        "Höchstens 210 Tage, also 1.260 Euro im Jahr.",
+        "Ein Arbeitszimmer ist nicht nötig.",
+        "Ein Vorteil entsteht erst über dem Arbeitnehmer-Pauschbetrag."
+      ]
+    }
+  ]
+}
