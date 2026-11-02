@@ -1,0 +1,112 @@
+{
+  "id": "stoff-b018-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert bei einer Unterzuckerung?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zu Diabetes",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "unterzuckerung",
+    "blutzucker",
+    "diabetes"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Kollege mit Diabetes wird plötzlich blass, zittert und schwitzt. Er greift hastig nach Traubenzucker.",
+        "Er hat eine Unterzuckerung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu wenig Zucker im Blut",
+      "absaetze": [
+        "Bei einer Unterzuckerung sinkt der Blutzucker unter einen kritischen Wert. Das Gehirn braucht Zucker als Energie und reagiert empfindlich auf Mangel.",
+        "Typische Anzeichen sind Zittern, Schwitzen, Herzklopfen, Heißhunger, Unruhe und Konzentrationsprobleme. Bei schwerer Unterzuckerung kann es zu Verwirrtheit und Bewusstlosigkeit kommen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer betroffen ist",
+      "absaetze": [
+        "Eine ernsthafte Unterzuckerung betrifft vor allem Menschen mit Diabetes, die Insulin oder bestimmte blutzuckersenkende Tabletten nehmen. Auslöser können eine zu hohe Dosis, eine ausgelassene Mahlzeit, viel Bewegung oder Alkohol sein.",
+        "Bei gesunden Menschen regelt der Körper den Blutzucker zuverlässig. Wer sich nach längerem Hunger zittrig fühlt, hat meist keine gefährliche Unterzuckerung."
+      ],
+      "merke": "Gefährliche Unterzuckerungen betreffen vor allem Menschen mit Diabetes-Medikamenten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig helfen",
+      "absaetze": [
+        "Ist die Person bei Bewusstsein, helfen schnell wirksame Kohlenhydrate, etwa Traubenzucker oder ein Glas Saft. Nach einigen Minuten sollte es besser werden.",
+        "Ist sie bewusstlos, darf man ihr nichts in den Mund geben. Dann sofort den Notruf 112 wählen und sie in die stabile Seitenlage bringen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein typisches Anzeichen einer Unterzuckerung?",
+      "art": "mc",
+      "optionen": [
+        "Zittern und Schwitzen",
+        "Bessere Konzentration",
+        "Gute Laune ohne Grund",
+        "Durstlosigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zittern, Schwitzen und Herzklopfen sind typisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Bewusstsein schnell?",
+      "art": "mc",
+      "optionen": [
+        "Traubenzucker oder ein Glas Saft",
+        "Ein Glas Wasser",
+        "Ein Salat",
+        "Ein Stück Käse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schnell wirksame Kohlenhydrate heben den Blutzucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einer bewusstlosen Person sollte man Saft einflößen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nichts in den Mund geben, sondern 112 rufen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Unterzuckerung fehlt dem Gehirn Zucker.",
+        "Gefährdet sind vor allem Menschen mit Diabetes-Medikamenten.",
+        "Bei Bewusstsein Traubenzucker geben, bei Bewusstlosigkeit 112 rufen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

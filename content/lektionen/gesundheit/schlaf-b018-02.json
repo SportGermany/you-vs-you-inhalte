@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b018-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie kommst du schneller über einen Jetlag?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "jetlag",
+    "reisen",
+    "zeitzonen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du landest in Tokio. Es ist Mittag, aber dein Körper ist mitten in der Nacht.",
+        "Die nächsten Tage fühlst du dich wie in Watte gepackt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die innere Uhr hinkt hinterher",
+      "absaetze": [
+        "Bei einem Flug über mehrere Zeitzonen passt die äußere Zeit nicht mehr zur inneren Uhr. Schlaf, Hunger und Leistungsfähigkeit kommen aus dem Takt.",
+        "Die innere Uhr stellt sich nur langsam um, grob etwa eine Stunde pro Tag. Nach einem Flug über sechs Zeitzonen kann die Anpassung deshalb fast eine Woche dauern."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach Osten ist es schwerer",
+      "absaetze": [
+        "Viele Menschen finden Flüge nach Osten anstrengender. Dann muss die innere Uhr vorgestellt werden, man soll also früher schlafen gehen, als einem danach ist.",
+        "Bei Flügen nach Westen bleibt man einfach länger wach. Das fällt den meisten leichter, weil die innere Uhr ohnehin dazu neigt, etwas länger als 24 Stunden zu laufen."
+      ],
+      "merke": "Flüge nach Osten sind für die innere Uhr meist schwieriger.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht ist der Schlüssel",
+      "absaetze": [
+        "Tageslicht zur richtigen Zeit hilft der inneren Uhr am meisten. Am Zielort solltest du dich tagsüber viel draußen aufhalten und dich gleich an die neuen Essens- und Schlafzeiten halten.",
+        "Kurze Nickerchen am Tag sind in Ordnung, lange Schläfchen verzögern die Anpassung. Alkohol und viel Koffein erschweren den Übergang."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell stellt sich die innere Uhr ungefähr um?",
+      "art": "mc",
+      "optionen": [
+        "Etwa eine Stunde pro Tag",
+        "Sofort nach der Landung",
+        "Etwa zwölf Stunden pro Tag",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Anpassung dauert etwa eine Stunde pro Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Flugrichtung fällt den meisten schwerer?",
+      "art": "mc",
+      "optionen": [
+        "Nach Osten",
+        "Nach Westen",
+        "Nach Norden",
+        "Nach Süden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann muss die innere Uhr vorgestellt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tageslicht am Zielort hilft der inneren Uhr bei der Anpassung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Licht ist der wichtigste Taktgeber."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Jetlag passt die innere Uhr nicht zur Ortszeit.",
+        "Flüge nach Osten sind meist schwieriger.",
+        "Tageslicht und neue Essens- und Schlafzeiten beschleunigen die Anpassung."
+      ]
+    }
+  ]
+}

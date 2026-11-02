@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b018-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum wachst du nachts oft zur gleichen Zeit auf?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nachts-aufwachen",
+    "schlafzyklus",
+    "gruebeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es ist wieder drei Uhr. Du liegst wach, und die Gedanken beginnen zu kreisen.",
+        "Warum gerade jetzt, und ist das ein Problem?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurzes Aufwachen ist normal",
+      "absaetze": [
+        "Im Laufe der Nacht durchläuft der Schlaf mehrere Zyklen. Zwischen den Zyklen wachen wir oft kurz auf, meist ohne uns daran zu erinnern.",
+        "In der zweiten Nachthälfte ist der Schlaf leichter, weil der Tiefschlaf abnimmt. Deshalb wacht man gegen Morgen leichter auf und bemerkt es eher."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Wachbleiben fördert",
+      "absaetze": [
+        "Problematisch wird es, wenn man nicht wieder einschläft. Häufige Ursachen sind Stress und Grübeln, Alkohol am Abend, ein voller Blase, Lärm oder ein zu warmes Zimmer.",
+        "Auch der Blick auf die Uhr kann Druck erzeugen. Wer sich ärgert, wie spät es schon ist, wird wacher."
+      ],
+      "merke": "Grübeln und Uhrkontrolle halten wach.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Hilfreich ist, die Uhr wegzudrehen und das Aufwachen als normal zu betrachten. Wer nach längerer Zeit nicht einschläft, kann kurz aufstehen und etwas Ruhiges bei gedämpftem Licht tun.",
+        "Gedanken, die einen beschäftigen, kann man am Abend vorher aufschreiben. Halten Durchschlafprobleme über Wochen an und belasten den Tag, ist ärztlicher Rat sinnvoll."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wacht man gegen Morgen leichter auf?",
+      "art": "mc",
+      "optionen": [
+        "Weil der Schlaf in der zweiten Nachthälfte leichter ist",
+        "Weil es dann kälter ist",
+        "Weil das Herz stehen bleibt",
+        "Weil man dann am meisten Tiefschlaf hat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Tiefschlaf nimmt im Lauf der Nacht ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann das Wiedereinschlafen erschweren?",
+      "art": "mc",
+      "optionen": [
+        "Grübeln und häufiger Blick auf die Uhr",
+        "Ein dunkles Zimmer",
+        "Ruhiges Atmen",
+        "Ein kühles Zimmer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Druck und Gedankenkreisen halten wach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kurzes Aufwachen zwischen Schlafzyklen ist normal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Meist erinnert man sich gar nicht daran."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kurzes nächtliches Aufwachen ist normal.",
+        "Stress, Alkohol und Uhrkontrolle erschweren das Wiedereinschlafen.",
+        "Uhr wegdrehen und bei längerem Wachliegen kurz aufstehen hilft."
+      ]
+    }
+  ]
+}

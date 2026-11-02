@@ -1,0 +1,113 @@
+{
+  "id": "geo-b018-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Weltgesundheitsorganisation?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "who",
+    "gesundheit",
+    "pandemie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Corona-Pandemie war die Weltgesundheitsorganisation täglich in den Nachrichten. Mal wurde sie gelobt, mal heftig kritisiert.",
+        "Was kann sie tatsächlich tun?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine UN-Organisation",
+      "absaetze": [
+        "Die Weltgesundheitsorganisation, kurz WHO, wurde 1948 gegründet und hat ihren Sitz in Genf. Sie ist eine Sonderorganisation der Vereinten Nationen.",
+        "Fast alle Staaten der Welt sind Mitglied. Sie setzt Standards, gibt Empfehlungen, unterstützt ärmere Länder und koordiniert die Reaktion auf Krankheitsausbrüche."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erfolge und Grenzen",
+      "absaetze": [
+        "Ein großer Erfolg war die Ausrottung der Pocken, die die WHO 1980 offiziell verkündete. Auch bei der Bekämpfung von Kinderlähmung, Malaria und Tuberkulose spielt sie eine wichtige Rolle.",
+        "Die WHO kann Staaten aber nicht zwingen, ihren Empfehlungen zu folgen. Sie ist auf Informationen und Zusammenarbeit der Mitglieder angewiesen. Ihr Budget hängt stark von freiwilligen Beiträgen ab."
+      ],
+      "merke": "Die WHO empfiehlt und koordiniert, zwingen kann sie nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach der Pandemie",
+      "absaetze": [
+        "Nach Covid-19 verhandelten die Mitgliedsstaaten über ein Abkommen, um besser auf künftige Pandemien vorbereitet zu sein. 2025 wurde ein solches Pandemieabkommen beschlossen.",
+        "Die USA, lange einer der größten Geldgeber, kündigten 2025 ihren Austritt an. Das stellt die Finanzierung der Organisation vor Herausforderungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hat die WHO ihren Sitz?",
+      "art": "mc",
+      "optionen": [
+        "In Genf",
+        "In New York",
+        "In Paris",
+        "In Washington"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Sitz der WHO ist in Genf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Krankheit wurde mit Hilfe der WHO ausgerottet?",
+      "art": "mc",
+      "optionen": [
+        "Die Pocken",
+        "Die Grippe",
+        "Die Erkältung",
+        "Malaria"
+      ],
+      "richtig": 0,
+      "erklaerung": "1980 wurden die Pocken offiziell für ausgerottet erklärt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die WHO kann Staaten zwingen, ihre Empfehlungen umzusetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist auf Zusammenarbeit angewiesen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die WHO ist eine UN-Organisation mit Sitz in Genf.",
+        "Sie setzt Standards und koordiniert, kann aber nicht zwingen.",
+        "Nach Covid-19 wurde 2025 ein Pandemieabkommen beschlossen."
+      ]
+    }
+  ]
+}

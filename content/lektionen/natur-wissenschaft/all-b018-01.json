@@ -1,0 +1,113 @@
+{
+  "id": "all-b018-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie findet man Planeten bei anderen Sternen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Exoplanets",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Exoplanets",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "exoplaneten",
+    "teleskop",
+    "leben"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lange war unklar, ob andere Sterne überhaupt Planeten haben. Heute kennt man Tausende.",
+        "Wie entdeckt man Welten, die viel zu weit weg sind, um sie direkt zu sehen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Nobelpreis-Fund",
+      "absaetze": [
+        "1995 entdeckten die Schweizer Astronomen Michel Mayor und Didier Queloz den ersten Planeten um einen sonnenähnlichen Stern. Dafür erhielten sie 2019 den Nobelpreis für Physik.",
+        "Planeten außerhalb unseres Sonnensystems heißen Exoplaneten. Inzwischen sind mehrere Tausend bekannt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Indirekte Methoden",
+      "absaetze": [
+        "Die meisten Exoplaneten werden indirekt gefunden. Zieht ein Planet vor seinem Stern vorbei, wird dieser ein winziges bisschen dunkler. Weltraumteleskope messen diese Helligkeitsschwankungen.",
+        "Eine andere Methode misst, wie der Stern durch die Schwerkraft des Planeten leicht hin und her wackelt. So entdeckten Mayor und Queloz den ersten Exoplaneten."
+      ],
+      "merke": "Planeten verraten sich, weil sie ihren Stern verdunkeln oder wackeln lassen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Suche nach Leben",
+      "absaetze": [
+        "Besonders spannend sind Planeten in der bewohnbaren Zone. Dort ist es weder zu heiß noch zu kalt für flüssiges Wasser.",
+        "Moderne Teleskope wie das James-Webb-Weltraumteleskop können die Atmosphären mancher Exoplaneten untersuchen. Spuren von Leben wurden bisher nicht eindeutig nachgewiesen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde der erste Planet um einen sonnenähnlichen Stern entdeckt?",
+      "art": "mc",
+      "optionen": [
+        "1995",
+        "1969",
+        "2019",
+        "1610"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mayor und Queloz entdeckten ihn 1995."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn ein Planet vor seinem Stern vorbeizieht?",
+      "art": "mc",
+      "optionen": [
+        "Der Stern wird ein wenig dunkler",
+        "Der Stern explodiert",
+        "Der Planet leuchtet hell",
+        "Nichts Messbares"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die winzige Verdunkelung verrät den Planeten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf Exoplaneten wurde bereits eindeutig Leben nachgewiesen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein eindeutiger Nachweis fehlt bisher."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Seit 1995 werden Planeten bei anderen Sternen entdeckt.",
+        "Man findet sie meist indirekt über Verdunkelung oder Wackeln des Sterns.",
+        "Die Suche nach Leben läuft, ein Nachweis fehlt bisher."
+      ]
+    }
+  ]
+}

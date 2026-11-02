@@ -1,0 +1,111 @@
+{
+  "id": "ern-b018-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was empfiehlt die DGE für eine gesunde Ernährung?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gut essen und trinken: DGE-Empfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "dge",
+    "ernaehrungsempfehlungen",
+    "pflanzlich"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Low Carb, Paleo, Clean Eating. Ständig hörst du von neuen Ernährungsregeln.",
+        "Was empfehlen eigentlich die Fachleute der Deutschen Gesellschaft für Ernährung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überwiegend pflanzlich",
+      "absaetze": [
+        "Die DGE hat ihre Empfehlungen 2024 grundlegend überarbeitet. Erstmals flossen neben der Gesundheit auch Umweltaspekte ein.",
+        "Der wichtigste Grundsatz: Mehr als drei Viertel der Lebensmittel sollten pflanzlich sein. Gemüse, Obst, Hülsenfrüchte, Vollkorn und Nüsse bilden die Basis. Tierische Lebensmittel ergänzen den Speiseplan in kleineren Mengen."
+      ],
+      "merke": "Mehr als drei Viertel pflanzlich, der Rest ergänzt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was weniger auf den Teller soll",
+      "absaetze": [
+        "Fleisch und Wurst sollen deutlich seltener gegessen werden als heute üblich. Auch Zucker, Salz und stark verarbeitete Lebensmittel sollten begrenzt werden.",
+        "Getränke sollten vor allem Wasser und ungesüßter Tee sein. Auf Alkohol rät die DGE möglichst zu verzichten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genießen und achtsam essen",
+      "absaetze": [
+        "Zu den Empfehlungen gehört auch, sich Zeit zum Essen zu nehmen und bewusst zu genießen. Wer langsam isst, merkt eher, wann er satt ist.",
+        "Bewegung im Alltag und ein gesundes Körpergewicht runden die Empfehlungen ab. Es geht nicht um Verbote, sondern um eine überwiegend gute Auswahl."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Anteil der Lebensmittel soll laut DGE pflanzlich sein?",
+      "art": "mc",
+      "optionen": [
+        "Mehr als drei Viertel",
+        "Höchstens die Hälfte",
+        "Ein Viertel",
+        "Gar keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr als drei Viertel sollen pflanzlich sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was floss 2024 erstmals in die DGE-Empfehlungen ein?",
+      "art": "mc",
+      "optionen": [
+        "Umweltaspekte",
+        "Die Lieblingsfarbe",
+        "Das Horoskop",
+        "Werbung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Neben Gesundheit wurde auch die Umwelt berücksichtigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die DGE empfiehlt, möglichst auf Alkohol zu verzichten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist Teil der Empfehlungen seit 2024."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die DGE empfiehlt eine überwiegend pflanzliche Ernährung.",
+        "Fleisch, Zucker, Salz und Alkohol sollen deutlich begrenzt werden.",
+        "Bewusstes Essen und Bewegung gehören dazu."
+      ]
+    }
+  ]
+}

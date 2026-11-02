@@ -1,0 +1,110 @@
+{
+  "id": "supp-b018-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Spirulina und Chlorella zu halten?",
+  "minuten": 4,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Algen",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "algen",
+    "spirulina",
+    "superfood"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grünes Pulver im Smoothie, Presslinge aus Algen: Spirulina und Chlorella werden als Superfood beworben.",
+        "Sie sollen entgiften und Vitamin B12 liefern. Stimmt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hinter den Algen steckt",
+      "absaetze": [
+        "Spirulina ist genau genommen ein Cyanobakterium, Chlorella eine Grünalge. Beide enthalten Eiweiß, Eisen und andere Nährstoffe.",
+        "In den üblichen kleinen Mengen tragen sie aber kaum zur Versorgung bei. Für die versprochenen Wirkungen wie Entgiftung gibt es keine guten Belege."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein verlässliches Vitamin B12",
+      "absaetze": [
+        "Algenprodukte werden oft als B12-Quelle für Veganer beworben. Ein großer Teil des darin enthaltenen B12 ist aber eine Form, die der Körper nicht nutzen kann.",
+        "Sie können sogar Blutwerte verfälschen, sodass ein Mangel übersehen wird. Fachgesellschaften raten deshalb, sich bei veganer Ernährung nicht auf Algen als B12-Quelle zu verlassen."
+      ],
+      "merke": "Algen sind keine verlässliche B12-Quelle.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Algenprodukte können mit Schwermetallen oder Giftstoffen anderer Algen verunreinigt sein. Das BfR hat auf solche Risiken hingewiesen.",
+        "Manche Algenprodukte enthalten sehr viel Jod, was bei Schilddrüsenerkrankungen problematisch sein kann. Sprich vor einer Einnahme mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Spirulina genau genommen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Cyanobakterium",
+        "Eine Pilzart",
+        "Ein Fisch",
+        "Ein Getreide"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spirulina zählt zu den Cyanobakterien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sind Algenprodukte eine verlässliche B12-Quelle für Veganer?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein großer Teil ist für den Körper nicht nutzbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür gibt es bei Algenpulvern keine guten Belege?",
+      "art": "mc",
+      "optionen": [
+        "Für eine entgiftende Wirkung",
+        "Dafür, dass sie grün sind",
+        "Dafür, dass sie Eiweiß enthalten",
+        "Dafür, dass sie im Wasser wachsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Entgiftungsversprechen sind nicht belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Spirulina und Chlorella enthalten Nährstoffe, aber in kleinen Mengen.",
+        "Für Entgiftung gibt es keine Belege.",
+        "Als B12-Quelle sind sie nicht verlässlich."
+      ]
+    }
+  ]
+}

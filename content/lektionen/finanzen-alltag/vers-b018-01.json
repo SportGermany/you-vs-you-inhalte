@@ -1,0 +1,113 @@
+{
+  "id": "vers-b018-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was zahlt die Pflegeversicherung, und was nicht?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflegeversicherung",
+      "herausgeber": "Bundesministerium für Gesundheit",
+      "url": "https://www.bundesgesundheitsministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Wohnen und Pflege",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pflege",
+    "pflegegrad",
+    "pflegeversicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Mutter kann nach einem Schlaganfall nicht mehr allein leben. Die Familie fragt sich: Wer bezahlt die Pflege?",
+        "Die Pflegeversicherung hilft, aber nicht vollständig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Pflichtversicherung",
+      "absaetze": [
+        "Seit 1995 gibt es in Deutschland die gesetzliche Pflegeversicherung. Wer gesetzlich krankenversichert ist, ist automatisch auch pflegeversichert, Privatversicherte brauchen eine private Pflegeversicherung.",
+        "Leistungen gibt es, wenn ein Pflegegrad festgestellt wurde. Es gibt fünf Pflegegrade, je nachdem, wie stark die Selbstständigkeit eingeschränkt ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teilkasko statt Vollkasko",
+      "absaetze": [
+        "Die Pflegeversicherung zahlt je nach Pflegegrad Geld für Pflege zu Hause oder einen Zuschuss für ein Pflegeheim. Sie deckt aber nur einen Teil der Kosten.",
+        "Im Pflegeheim müssen Bewohner einen erheblichen Eigenanteil selbst tragen, oft mehrere Tausend Euro im Monat. Reichen Einkommen und Vermögen nicht, kann das Sozialamt einspringen, unter bestimmten Bedingungen wird dann auch auf Kinder mit hohem Einkommen zurückgegriffen."
+      ],
+      "merke": "Die Pflegeversicherung ist eine Teilabsicherung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsorgen und informieren",
+      "absaetze": [
+        "Wer Angehörige pflegt, kann sich bei Pflegestützpunkten und den Pflegekassen kostenlos beraten lassen. Auch pflegende Angehörige haben Ansprüche, etwa auf Pflegezeit oder Unterstützung bei der Rente.",
+        "Eine private Pflegezusatzversicherung kann Lücken verkleinern. Ob sie sich lohnt, hängt von Alter, Gesundheit und Kosten ab und sollte gut geprüft werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Pflegegrade gibt es?",
+      "art": "mc",
+      "optionen": [
+        "Fünf",
+        "Zwei",
+        "Zehn",
+        "Einen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt die Pflegegrade 1 bis 5."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt die Pflegeversicherung am besten?",
+      "art": "mc",
+      "optionen": [
+        "Eine Teilabsicherung der Pflegekosten",
+        "Eine Vollabsicherung aller Kosten",
+        "Eine Sparanlage",
+        "Eine Unfallversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein großer Teil der Kosten bleibt bei den Pflegebedürftigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pflegende Angehörige können sich bei Pflegestützpunkten kostenlos beraten lassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch die Pflegekassen beraten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die gesetzliche Pflegeversicherung zahlt nach fünf Pflegegraden.",
+        "Sie deckt nur einen Teil der Kosten, im Heim bleibt ein hoher Eigenanteil.",
+        "Pflegestützpunkte beraten kostenlos."
+      ]
+    }
+  ]
+}

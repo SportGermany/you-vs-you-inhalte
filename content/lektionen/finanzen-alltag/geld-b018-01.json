@@ -1,0 +1,107 @@
+{
+  "id": "geld-b018-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was solltest du vor einem Immobilienkredit wissen?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Wohnen und Pflege",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "baufinanzierung",
+    "immobilie",
+    "kredit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Paar träumt vom eigenen Haus. Die Bank bietet einen Kredit an, die Rate scheint machbar.",
+        "Doch eine Baufinanzierung bindet oft für Jahrzehnte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eigenkapital und Nebenkosten",
+      "absaetze": [
+        "Beim Kauf einer Immobilie fallen neben dem Kaufpreis Nebenkosten an, etwa Grunderwerbsteuer, Notar, Grundbuch und gegebenenfalls Makler. Sie können zusammen grob zehn Prozent oder mehr des Kaufpreises ausmachen.",
+        "Verbraucherschützer raten, mindestens die Nebenkosten und möglichst einen Teil des Kaufpreises aus eigenem Geld zu bezahlen. Mehr Eigenkapital bedeutet meist günstigere Zinsen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zinsbindung und Tilgung",
+      "absaetze": [
+        "Die Zinsbindung legt fest, wie lange der Zinssatz gleich bleibt, etwa zehn oder fünfzehn Jahre. Danach wird neu verhandelt, und der Zins kann deutlich höher sein.",
+        "Die Tilgung ist der Teil der Rate, der den Kredit tatsächlich abbaut. Eine niedrige Tilgung senkt die Rate, verlängert aber die Laufzeit stark und erhöht die Zinskosten."
+      ],
+      "merke": "Lange Zinsbindung und ausreichende Tilgung schaffen Planungssicherheit."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit Reserve rechnen",
+      "absaetze": [
+        "Die Rate sollte auch dann noch tragbar sein, wenn Einkommen sinkt, ein Kind kommt oder Reparaturen anfallen. Für Instandhaltung sollte man von Anfang an Geld zurücklegen.",
+        "Es lohnt sich, mehrere Angebote zu vergleichen und eine unabhängige Beratung zu nutzen, etwa bei der Verbraucherzentrale."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was legt die Zinsbindung fest?",
+      "art": "mc",
+      "optionen": [
+        "Wie lange der Zinssatz gleich bleibt",
+        "Wie groß das Haus sein darf",
+        "Wer im Haus wohnen darf",
+        "Wie hoch die Grundsteuer ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach Ablauf wird der Zins neu verhandelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt eine niedrige Tilgung?",
+      "art": "mc",
+      "optionen": [
+        "Niedrigere Rate, aber längere Laufzeit und mehr Zinskosten",
+        "Schnellere Entschuldung",
+        "Gar keine Zinsen",
+        "Einen sofortigen Erlass"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schulden werden langsamer abgebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Nebenkosten eines Immobilienkaufs sind meist vernachlässigbar.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie machen oft rund zehn Prozent oder mehr aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nebenkosten beim Immobilienkauf sind erheblich, Eigenkapital hilft.",
+        "Zinsbindung und Tilgung bestimmen Sicherheit und Gesamtkosten.",
+        "Mit Reserve planen und Angebote vergleichen."
+      ]
+    }
+  ]
+}

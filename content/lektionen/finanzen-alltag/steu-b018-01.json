@@ -1,0 +1,107 @@
+{
+  "id": "steu-b018-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du schon im Laufe des Jahres weniger Lohnsteuer zahlen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lohnsteuer",
+    "freibetrag",
+    "lohnsteuerermaessigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast jeden Tag einen langen Arbeitsweg und bekommst jedes Jahr eine hohe Steuererstattung.",
+        "Schön, aber das Geld hättest du lieber gleich jeden Monat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Freibetrag beim Lohnsteuerabzug",
+      "absaetze": [
+        "Wer hohe Werbungskosten oder andere absetzbare Ausgaben erwartet, kann beim Finanzamt einen Lohnsteuerermäßigungsantrag stellen. Das Finanzamt trägt dann einen Freibetrag ein.",
+        "Der Arbeitgeber zieht daraufhin jeden Monat weniger Lohnsteuer ab. Das Geld kommt also schon im Laufe des Jahres an, nicht erst mit der Erstattung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann das geht",
+      "absaetze": [
+        "Ein Freibetrag kommt infrage, wenn bestimmte Ausgaben über einer Grenze liegen, etwa hohe Fahrtkosten, Kosten für doppelte Haushaltsführung oder Unterhalt. Auch für Kinderbetreuung oder Handwerkerleistungen kann man Freibeträge beantragen.",
+        "Der Antrag gilt oft für bis zu zwei Jahre. Er lässt sich über das Onlineportal ELSTER stellen."
+      ],
+      "merke": "Mit einem Freibetrag kommt Geld monatlich statt einmal jährlich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Pflicht danach",
+      "absaetze": [
+        "Wer einen Freibetrag eingetragen hat, muss in der Regel eine Steuererklärung abgeben. So wird geprüft, ob die Ausgaben tatsächlich so hoch waren.",
+        "Waren sie niedriger als angenommen, kann eine Nachzahlung fällig werden. Man sollte die Ausgaben deshalb realistisch schätzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt ein Lohnsteuerermäßigungsantrag?",
+      "art": "mc",
+      "optionen": [
+        "Weniger monatlicher Lohnsteuerabzug durch einen Freibetrag",
+        "Ein höheres Bruttogehalt",
+        "Eine Steuerbefreiung für immer",
+        "Eine Gehaltserhöhung durch den Arbeitgeber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Freibetrag senkt den monatlichen Abzug."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Über welches Portal kann man den Antrag stellen?",
+      "art": "mc",
+      "optionen": [
+        "ELSTER",
+        "Das Einwohnermeldeamt",
+        "Die Krankenkasse",
+        "Die Rentenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "ELSTER ist das Onlineportal der Steuerverwaltung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer einen Freibetrag eingetragen hat, muss in der Regel eine Steuererklärung abgeben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So werden die tatsächlichen Ausgaben geprüft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mit einem Freibetrag zahlst du schon monatlich weniger Lohnsteuer.",
+        "Er kommt bei hohen Werbungskosten und bestimmten Ausgaben infrage.",
+        "Danach ist meist eine Steuererklärung Pflicht."
+      ]
+    }
+  ]
+}

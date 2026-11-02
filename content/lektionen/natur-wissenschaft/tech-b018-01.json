@@ -1,0 +1,107 @@
+{
+  "id": "tech-b018-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein 3D-Drucker?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Additive Fertigung",
+      "herausgeber": "Fraunhofer-Gesellschaft",
+      "url": "https://www.fraunhofer.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "3d-druck",
+    "fertigung",
+    "kunststoff"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Gerät summt leise, eine Düse fährt hin und her. Schicht für Schicht wächst eine kleine Figur.",
+        "Ein 3D-Drucker baut Gegenstände auf statt sie herauszuschneiden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schicht für Schicht",
+      "absaetze": [
+        "Ein 3D-Drucker baut ein Objekt aus vielen dünnen Schichten auf. Grundlage ist ein digitales Modell, das eine Software in Schichten zerlegt.",
+        "Beim verbreitetsten Verfahren wird ein Kunststofffaden geschmolzen und durch eine Düse aufgetragen. Er härtet sofort aus, dann folgt die nächste Schicht. Fachleute sprechen von additiver Fertigung, weil Material hinzugefügt wird."
+      ],
+      "merke": "3D-Druck baut Gegenstände Schicht für Schicht auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Materialien",
+      "absaetze": [
+        "Neben Kunststoff lassen sich auch Metall, Keramik, Beton und sogar lebende Zellen drucken. In der Industrie entstehen so Ersatzteile, Prototypen und leichte Bauteile für Flugzeuge.",
+        "In der Medizin werden etwa passgenaue Implantate, Zahnersatz und Hörgerätegehäuse gedruckt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stärken und Grenzen",
+      "absaetze": [
+        "3D-Druck eignet sich besonders für Einzelstücke und komplizierte Formen, die mit anderen Verfahren schwer herzustellen wären.",
+        "Für große Stückzahlen ist er oft langsamer und teurer als klassische Verfahren wie Spritzguss. Beim Drucken mit Kunststoffen sollte man für gute Lüftung sorgen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie baut ein 3D-Drucker Objekte auf?",
+      "art": "mc",
+      "optionen": [
+        "Schicht für Schicht",
+        "Durch Herausschneiden aus einem Block",
+        "Durch Gießen in eine Form",
+        "Durch Falten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Material wird Schicht für Schicht hinzugefügt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennen Fachleute 3D-Druck auch?",
+      "art": "mc",
+      "optionen": [
+        "Additive Fertigung",
+        "Spanende Fertigung",
+        "Massenfertigung",
+        "Handarbeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Additiv, weil Material hinzugefügt wird."
+    },
+    {
+      "typ": "quiz",
+      "frage": "3D-Druck ist für sehr große Stückzahlen meist günstiger als Spritzguss.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er eignet sich eher für Einzelstücke."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "3D-Drucker bauen Objekte Schicht für Schicht auf.",
+        "Gedruckt werden Kunststoff, Metall und mehr, auch in der Medizin.",
+        "Stark bei Einzelstücken, weniger bei Massenfertigung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ern-b018-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist dunkle Schokolade gesund?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nutrition and health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gut essen und trinken: DGE-Empfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schokolade",
+    "kakao",
+    "flavanole"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Stück Zartbitterschokolade am Abend, und das auch noch gesund? Das wäre zu schön.",
+        "Was ist dran an der Schokoladen-Hoffnung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kakao enthält Flavanole",
+      "absaetze": [
+        "Kakaobohnen enthalten sekundäre Pflanzenstoffe, die Flavanole. Studien deuten darauf hin, dass sie die Elastizität der Blutgefäße und damit die Durchblutung unterstützen können.",
+        "Die EFSA hat dazu eine Gesundheitsaussage zugelassen. Sie gilt aber nur für Produkte mit einer bestimmten, recht hohen Menge an Kakaoflavanolen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schokolade ist trotzdem eine Süßigkeit",
+      "absaetze": [
+        "Viele Flavanole gehen bei der Verarbeitung verloren. Normale Schokolade enthält oft nur noch wenig davon, Milchschokolade noch weniger als dunkle.",
+        "Gleichzeitig enthält Schokolade viel Zucker und Fett und damit viel Energie. Die möglichen Vorteile wiegen das bei größeren Mengen nicht auf."
+      ],
+      "merke": "Schokolade bleibt ein Genussmittel, kein Gesundheitsprodukt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewusst genießen",
+      "absaetze": [
+        "Wer gern Schokolade isst, greift am besten zu dunkler Sorte mit hohem Kakaoanteil. Sie enthält meist weniger Zucker und schmeckt intensiver, sodass ein kleines Stück oft reicht.",
+        "Ein Stück bewusst genossen ist etwas anderes als eine ganze Tafel nebenbei. Auf die Menge kommt es an."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Schokolade ist gesund und kann ohne Bedenken in großen Mengen gegessen werden.",
+      "urteil": "mythos",
+      "erklaerung": "Kakao enthält Flavanole mit möglichen Vorteilen für die Gefäße. Schokolade liefert aber viel Zucker, Fett und Energie. In großen Mengen überwiegen die Nachteile."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Pflanzenstoffe im Kakao werden mit den Blutgefäßen in Verbindung gebracht?",
+      "art": "mc",
+      "optionen": [
+        "Flavanole",
+        "Transfette",
+        "Koffein allein",
+        "Vitamin B12"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kakaoflavanole können die Gefäßelastizität unterstützen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schokolade enthält meist mehr Flavanole?",
+      "art": "mc",
+      "optionen": [
+        "Dunkle Schokolade",
+        "Milchschokolade",
+        "Weiße Schokolade",
+        "Alle gleich viel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dunkle Schokolade hat mehr Kakaoanteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die EFSA-Gesundheitsaussage gilt für jede beliebige Schokolade.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gilt nur für Produkte mit hohem Flavanolgehalt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kakaoflavanole können die Gefäße unterstützen.",
+        "Schokolade enthält aber viel Zucker, Fett und Energie.",
+        "Ein kleines Stück dunkle Schokolade bewusst genießen."
+      ]
+    }
+  ]
+}

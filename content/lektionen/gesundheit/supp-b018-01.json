@@ -1,0 +1,125 @@
+{
+  "id": "supp-b018-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Werden Nahrungsergänzungsmittel geprüft wie Medikamente?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)",
+      "url": "https://www.bvl.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel und Algen",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nahrungsergaenzung",
+    "zulassung",
+    "verbraucherschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Dose Kapseln aus der Drogerie sieht aus wie ein Medikament. Die Verpackung verspricht viel.",
+        "Viele denken, sie seien ähnlich streng geprüft. Das stimmt nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lebensmittel, keine Arzneimittel",
+      "absaetze": [
+        "Nahrungsergänzungsmittel gelten rechtlich als Lebensmittel. Sie müssen keine Zulassung durchlaufen wie Arzneimittel, bei denen Wirksamkeit und Sicherheit in Studien belegt werden müssen.",
+        "Hersteller müssen ihre Produkte nur beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit anzeigen. Für die Sicherheit sind sie selbst verantwortlich."
+      ],
+      "merke": "Nahrungsergänzungsmittel brauchen keine Zulassung wie Medikamente.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was erlaubt ist",
+      "absaetze": [
+        "Nahrungsergänzungsmittel dürfen keine Krankheiten heilen, lindern oder verhüten sollen. Gesundheitsbezogene Aussagen müssen von der EU zugelassen sein.",
+        "Für viele Vitamine und Mineralstoffe gibt es in Deutschland noch keine verbindlichen Höchstmengen. Das BfR hat aber Empfehlungen für Höchstmengen veröffentlicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Qualität sehr unterschiedlich",
+      "absaetze": [
+        "Untersuchungen finden immer wieder Produkte mit falschen Mengenangaben, Verunreinigungen oder nicht erlaubten Stoffen. Besonders riskant sind Produkte aus dem Internet von unbekannten Anbietern.",
+        "Verbraucherzentralen raten, Präparate nur bei nachgewiesenem Bedarf und nach ärztlicher Rücksprache zu nehmen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll. Mehrere Produkte zugleich können zu Überdosierungen führen.",
+        "Sprich vor der Einnahme mit deiner Ärztin oder deinem Arzt, besonders wenn du Medikamente nimmst, schwanger bist oder eine Erkrankung hast."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelten Nahrungsergänzungsmittel rechtlich?",
+      "art": "mc",
+      "optionen": [
+        "Als Lebensmittel",
+        "Als Arzneimittel",
+        "Als Medizinprodukte",
+        "Als Kosmetik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie fallen unter das Lebensmittelrecht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was müssen Hersteller vor dem Verkauf tun?",
+      "art": "mc",
+      "optionen": [
+        "Das Produkt beim BVL anzeigen",
+        "Große Wirksamkeitsstudien vorlegen",
+        "Eine Zulassung wie für Medikamente erhalten",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Anzeige genügt, eine Zulassung ist nicht nötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nahrungsergänzungsmittel dürfen damit werben, Krankheiten zu heilen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Krankheitsbezogene Werbung ist verboten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nahrungsergänzungsmittel sind Lebensmittel und brauchen keine Zulassung.",
+        "Gesundheitsaussagen müssen zugelassen sein, Heilversprechen sind verboten.",
+        "Die Qualität schwankt stark, Vorsicht bei Internetkäufen."
+      ]
+    }
+  ]
+}
