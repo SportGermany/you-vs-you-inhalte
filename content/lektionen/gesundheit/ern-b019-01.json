@@ -1,0 +1,111 @@
+{
+  "id": "ern-b019-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist das Frühstück die wichtigste Mahlzeit des Tages?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fruehstueck",
+    "mahlzeiten",
+    "essrhythmus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frühstücken wie ein Kaiser, heißt es. Aber dir ist morgens noch gar nicht nach Essen.",
+        "Schadet es, das Frühstück auszulassen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine alte Regel",
+      "absaetze": [
+        "Lange galt das Frühstück als wichtigste Mahlzeit. Beobachtungsstudien zeigten, dass Menschen, die frühstücken, im Schnitt schlanker und gesünder waren.",
+        "Solche Studien zeigen aber nur Zusammenhänge. Frühstücker unterscheiden sich oft auch in anderen Gewohnheiten, etwa beim Sport oder beim Rauchen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was kontrollierte Studien zeigen",
+      "absaetze": [
+        "In Studien, in denen Menschen zufällig frühstückten oder nicht, zeigte sich beim Gewicht meist kein deutlicher Vorteil des Frühstücks. Manche, die frühstückten, aßen insgesamt sogar etwas mehr.",
+        "Für gesunde Erwachsene scheint es also weniger darauf anzukommen, ob sie frühstücken, sondern was und wie viel sie über den Tag essen."
+      ],
+      "merke": "Für gesunde Erwachsene ist nicht das Frühstück, sondern die Gesamternährung entscheidend.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf den eigenen Körper hören",
+      "absaetze": [
+        "Wer morgens Hunger hat, sollte frühstücken. Gut geeignet sind Vollkorn, Milchprodukte, Obst oder Nüsse statt süßer Backwaren.",
+        "Für Kinder und Jugendliche empfehlen Fachleute ein Frühstück, weil es die Konzentration in der Schule unterstützen kann. Auch Menschen mit Diabetes sollten ihre Mahlzeiten ärztlich abstimmen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten kontrollierte Studien zum Frühstück und Gewicht?",
+      "art": "mc",
+      "optionen": [
+        "Meist keinen deutlichen Vorteil des Frühstücks",
+        "Eine starke Gewichtsabnahme durch Frühstück",
+        "Eine starke Zunahme durch Frühstück",
+        "Dass Frühstück verboten sein sollte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Gewicht zeigte sich meist kein klarer Unterschied."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen empfehlen Fachleute ein Frühstück besonders?",
+      "art": "mc",
+      "optionen": [
+        "Für Kinder und Jugendliche",
+        "Für niemanden",
+        "Nur für Sportler",
+        "Nur für Rentner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kann die Konzentration in der Schule unterstützen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beobachtungsstudien beweisen, dass Frühstück schlank macht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zeigen nur Zusammenhänge."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ob Erwachsene frühstücken, ist weniger wichtig als die Gesamternährung.",
+        "Wer morgens Hunger hat, wählt am besten Vollkorn, Obst und Milchprodukte.",
+        "Für Kinder wird ein Frühstück empfohlen."
+      ]
+    }
+  ]
+}

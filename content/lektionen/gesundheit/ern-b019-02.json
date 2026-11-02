@@ -1,0 +1,111 @@
+{
+  "id": "ern-b019-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was unterscheidet eine Allergie von einer Unverträglichkeit?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelallergien",
+      "herausgeber": "Deutscher Allergie- und Asthmabund",
+      "url": "https://www.daab.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "allergie",
+    "unvertraeglichkeit",
+    "allergene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Stück Nusskuchen schwellen bei deinem Kollegen die Lippen an. Deine Freundin dagegen bekommt nach Milch nur Bauchgrummeln.",
+        "Beides wird oft Allergie genannt, ist aber etwas ganz anderes."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Allergie: das Immunsystem reagiert",
+      "absaetze": [
+        "Bei einer Lebensmittelallergie reagiert das Immunsystem auf eigentlich harmlose Eiweiße im Essen, als wären sie gefährlich. Schon kleinste Mengen können Beschwerden auslösen.",
+        "Typisch sind Juckreiz, Schwellungen, Hautausschlag oder Atemnot. Im schlimmsten Fall kommt es zu einem allergischen Schock, der lebensbedrohlich sein kann."
+      ],
+      "merke": "Bei einer Allergie reagiert das Immunsystem, schon Spuren können gefährlich sein.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Unverträglichkeit: die Verdauung hakt",
+      "absaetze": [
+        "Bei einer Unverträglichkeit ist meist nicht das Immunsystem beteiligt. Häufig fehlt ein Enzym, etwa bei der Laktoseintoleranz.",
+        "Die Beschwerden betreffen meist den Darm, etwa Blähungen oder Durchfall, und hängen oft von der Menge ab. Gefährlich wie ein allergischer Schock ist eine Unverträglichkeit in der Regel nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kennzeichnung und Diagnose",
+      "absaetze": [
+        "In der EU müssen 14 Hauptallergene auf verpackten Lebensmitteln hervorgehoben werden, darunter Erdnüsse, Schalenfrüchte, Milch, Eier, Fisch, Weizen und Soja.",
+        "Ob eine Allergie oder Unverträglichkeit vorliegt, klärt man am besten ärztlich. Selbsttests aus dem Internet sind oft unzuverlässig. Menschen mit schwerer Allergie haben meist ein Notfallset bei sich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was reagiert bei einer Lebensmittelallergie?",
+      "art": "mc",
+      "optionen": [
+        "Das Immunsystem",
+        "Nur die Zähne",
+        "Die Leber allein",
+        "Die Haare"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Immunsystem reagiert auf harmlose Eiweiße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Hauptallergene müssen in der EU hervorgehoben werden?",
+      "art": "mc",
+      "optionen": [
+        "14",
+        "3",
+        "50",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die 14 Hauptallergene müssen gekennzeichnet sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Laktoseintoleranz ist eine Allergie.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist eine Unverträglichkeit durch Enzymmangel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Allergie reagiert das Immunsystem, das kann gefährlich sein.",
+        "Bei einer Unverträglichkeit hakt meist die Verdauung.",
+        "14 Hauptallergene müssen gekennzeichnet sein, die Diagnose gehört in ärztliche Hand."
+      ]
+    }
+  ]
+}

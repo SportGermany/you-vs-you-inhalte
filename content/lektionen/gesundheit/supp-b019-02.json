@@ -1,0 +1,125 @@
+{
+  "id": "supp-b019-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Helfen Biotin-Präparate bei Haaren und Nägeln?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Vitamine in Nahrungsergänzungsmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Tolerable upper intake levels",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "biotin",
+    "haare",
+    "laborwerte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Brüchige Nägel, dünnes Haar. In der Werbung verspricht Biotin schnelle Abhilfe.",
+        "Was kann das Vitamin wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein B-Vitamin",
+      "absaetze": [
+        "Biotin gehört zu den B-Vitaminen und wird auch Vitamin B7 oder Vitamin H genannt. Es ist an vielen Stoffwechselvorgängen beteiligt.",
+        "Es steckt etwa in Eiern, Nüssen, Haferflocken und Hülsenfrüchten. Auch Darmbakterien bilden etwas Biotin. Ein echter Mangel ist sehr selten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur bei Mangel wirksam",
+      "absaetze": [
+        "Ein Biotinmangel kann zu Haarausfall und Hautproblemen führen. Bei nachgewiesenem Mangel helfen Präparate.",
+        "Für Menschen ohne Mangel fehlen gute Belege, dass Biotin Haare oder Nägel verbessert. Haarausfall hat meist andere Ursachen, etwa erbliche Veranlagung, Hormone, Eisenmangel oder Schilddrüsenprobleme."
+      ],
+      "merke": "Ohne Mangel ist ein Nutzen für Haare und Nägel nicht belegt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Störung von Laborwerten",
+      "absaetze": [
+        "Hohe Biotinmengen können bestimmte Bluttests verfälschen, etwa Schilddrüsenwerte oder Tests auf einen Herzinfarkt. Das kann zu falschen Diagnosen führen.",
+        "Behörden haben deshalb vor diesem Effekt gewarnt. Wer Biotin nimmt, sollte das vor einer Blutuntersuchung unbedingt angeben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Biotin kann Laborwerte stark verfälschen. Teile vor jeder Blutuntersuchung mit, dass du Biotin einnimmst.",
+        "Bei Haarausfall sollte die Ursache ärztlich abgeklärt werden, statt ihn auf Verdacht mit Präparaten zu behandeln."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann helfen Biotin-Präparate nachweislich?",
+      "art": "mc",
+      "optionen": [
+        "Bei einem nachgewiesenen Mangel",
+        "Immer bei jedem Haarausfall",
+        "Gegen erblichen Haarausfall",
+        "Gegen graue Haare"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Mangel ist ein Nutzen nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was können hohe Biotinmengen verfälschen?",
+      "art": "mc",
+      "optionen": [
+        "Bestimmte Bluttests",
+        "Die Körpergröße",
+        "Die Augenfarbe",
+        "Den Blutdruck dauerhaft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Schilddrüsenwerte oder Herzinfarkt-Tests."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Biotinmangel ist bei uns sehr häufig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein echter Mangel ist sehr selten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Biotin ist ein B-Vitamin, ein Mangel ist selten.",
+        "Ohne Mangel ist ein Nutzen für Haare und Nägel nicht belegt.",
+        "Hohe Mengen können Bluttests verfälschen."
+      ]
+    }
+  ]
+}

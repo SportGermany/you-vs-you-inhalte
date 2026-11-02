@@ -1,0 +1,107 @@
+{
+  "id": "haus-b019-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wo bleiben Lebensmittel im Kühlschrank am längsten frisch?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel richtig lagern",
+      "herausgeber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+      "url": "https://www.zugutfuerdietonne.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuehlschrank",
+    "lagerung",
+    "frische"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Butter steht oben, das Fleisch in der Tür, das Gemüse ganz unten. Ist das richtig so?",
+        "Im Kühlschrank ist es nicht überall gleich kalt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschiedlich kalte Zonen",
+      "absaetze": [
+        "In den meisten Kühlschränken ist es direkt über der Glasplatte über dem Gemüsefach am kältesten. Dort gehören leicht verderbliche Lebensmittel wie Fleisch und Fisch hin.",
+        "In der Mitte ist ein guter Platz für Milchprodukte und Käse. Oben, wo es etwas wärmer ist, passen Reste und geöffnete Lebensmittel. In der Tür ist es am wärmsten, dort stehen Getränke, Eier und Butter gut."
+      ],
+      "merke": "Fleisch und Fisch unten über der Glasplatte, Getränke in die Tür."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alles gehört hinein",
+      "absaetze": [
+        "Manche Lebensmittel mögen keine Kälte. Tomaten verlieren im Kühlschrank Aroma. Kartoffeln lagert man besser kühl, dunkel und trocken außerhalb.",
+        "Brot wird im Kühlschrank schneller altbacken. Bananen und viele exotische Früchte vertragen Kälte schlecht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sonst hilft",
+      "absaetze": [
+        "Eine Temperatur von etwa 7 Grad reicht im mittleren Bereich meist aus. Warme Speisen erst abkühlen lassen, bevor sie hineinkommen.",
+        "Lebensmittel abgedeckt aufbewahren, damit sie nicht austrocknen und keine Gerüche annehmen. Neues nach hinten, Älteres nach vorn, so wird weniger vergessen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist es in den meisten Kühlschränken am kältesten?",
+      "art": "mc",
+      "optionen": [
+        "Direkt über dem Gemüsefach",
+        "In der Tür",
+        "Ganz oben",
+        "Überall gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort gehören Fleisch und Fisch hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Lebensmittel lagert man besser nicht im Kühlschrank?",
+      "art": "mc",
+      "optionen": [
+        "Tomaten",
+        "Joghurt",
+        "Hackfleisch",
+        "Fisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tomaten verlieren in der Kälte ihr Aroma."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In der Kühlschranktür ist es am wärmsten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort stehen Getränke und Butter gut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Kühlschrank gibt es unterschiedlich kalte Zonen.",
+        "Fleisch und Fisch gehören unten über das Gemüsefach.",
+        "Tomaten, Kartoffeln und Brot lagern besser außerhalb."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "supp-b019-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Kann zu viel Vitamin B6 schaden?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Tolerable upper intake levels",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Vitamine in Nahrungsergänzungsmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-b6",
+    "nerven",
+    "ueberdosierung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Energie-Präparat, ein Magnesiumprodukt mit Vitaminzusatz und ein Haar-Vitamin. Auf allen steht Vitamin B6.",
+        "Wasserlösliche Vitamine gelten als harmlos. Bei B6 stimmt das nicht ganz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiges Vitamin",
+      "absaetze": [
+        "Vitamin B6 ist am Eiweißstoffwechsel und an der Funktion des Nervensystems beteiligt. Es steckt in vielen Lebensmitteln wie Fleisch, Fisch, Vollkorn, Kartoffeln, Hülsenfrüchten und Bananen.",
+        "Ein Mangel ist bei abwechslungsreicher Ernährung selten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nervenschäden bei zu viel",
+      "absaetze": [
+        "Wird über längere Zeit zu viel Vitamin B6 aufgenommen, können Nerven geschädigt werden. Typisch sind Kribbeln, Taubheitsgefühle oder Schmerzen in Händen und Füßen.",
+        "Die EFSA hat die tolerierbare Höchstmenge für Erwachsene 2023 auf 12 Milligramm pro Tag gesenkt. Manche Präparate enthalten deutlich mehr. Gefahr entsteht vor allem, wenn mehrere Produkte gleichzeitig eingenommen werden."
+      ],
+      "merke": "Auch wasserlösliches Vitamin B6 kann in hoher Menge Nerven schädigen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Prüfe die Zutatenlisten, wenn du mehrere Nahrungsergänzungsmittel verwendest. Vitamin B6 steckt in vielen Kombipräparaten.",
+        "Bei Kribbeln oder Taubheitsgefühlen in Händen oder Füßen sprich mit deiner Ärztin oder deinem Arzt und erwähne alle Präparate, die du einnimmst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Folge kann zu viel Vitamin B6 haben?",
+      "art": "mc",
+      "optionen": [
+        "Nervenschäden mit Kribbeln und Taubheit",
+        "Bessere Sehkraft",
+        "Stärkere Knochen",
+        "Mehr Haarwachstum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Überdosierung kann periphere Nerven schädigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welchen Wert hat die EFSA die Höchstmenge für Erwachsene 2023 festgelegt?",
+      "art": "mc",
+      "optionen": [
+        "12 Milligramm pro Tag",
+        "120 Milligramm pro Tag",
+        "1 Gramm pro Tag",
+        "Es gibt keine Höchstmenge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die tolerierbare Höchstmenge liegt bei 12 Milligramm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wasserlösliche Vitamine sind in jeder Menge harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Vitamin B6 ist ein Gegenbeispiel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin B6 ist wichtig, ein Mangel ist selten.",
+        "Zu viel kann über längere Zeit Nerven schädigen.",
+        "Vorsicht, wenn mehrere Präparate B6 enthalten."
+      ]
+    }
+  ]
+}

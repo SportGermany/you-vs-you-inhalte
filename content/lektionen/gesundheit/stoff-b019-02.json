@@ -1,0 +1,118 @@
+{
+  "id": "stoff-b019-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was bringt eine ketogene Diät?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "keto",
+    "low-carb",
+    "ketose"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast keine Kohlenhydrate, dafür viel Fett: Die Keto-Diät ist bei vielen beliebt.",
+        "Was passiert dabei im Körper, und ist das sinnvoll?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fett statt Zucker",
+      "absaetze": [
+        "Bei einer ketogenen Diät werden Kohlenhydrate stark reduziert, meist auf sehr kleine Mengen. Stattdessen stammt der größte Teil der Energie aus Fett.",
+        "Der Körper bildet dann Ketonkörper aus Fett und nutzt sie als Energiequelle. Man spricht von Ketose. Ursprünglich wurde die ketogene Ernährung in der Medizin bei bestimmten Formen von Epilepsie eingesetzt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Am Anfang verlieren viele schnell Gewicht, ein Teil davon ist Wasser. Langfristig zeigen Studien beim Gewicht meist ähnliche Ergebnisse wie andere Diäten mit gleicher Energiezufuhr.",
+        "Bei manchen Menschen steigt unter sehr fettreicher Kost das LDL-Cholesterin deutlich an. Außerdem fehlen oft Ballaststoffe, weil Vollkorn, Hülsenfrüchte und viel Obst wegfallen."
+      ],
+      "merke": "Keto wirkt beim Abnehmen langfristig ähnlich wie andere Diäten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwer durchzuhalten",
+      "absaetze": [
+        "Die strengen Regeln sind im Alltag schwer einzuhalten. Viele brechen die Diät nach einiger Zeit ab.",
+        "Für Menschen mit Diabetes, Nierenerkrankungen oder in der Schwangerschaft ist eine ketogene Ernährung ohne ärztliche Begleitung nicht geeignet. Fachgesellschaften empfehlen eher eine ausgewogene, überwiegend pflanzliche Ernährung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird bei einer ketogenen Diät stark reduziert?",
+      "art": "mc",
+      "optionen": [
+        "Kohlenhydrate",
+        "Fett",
+        "Wasser",
+        "Vitamine allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kohlenhydrate werden stark eingeschränkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wurde die ketogene Ernährung ursprünglich medizinisch eingesetzt?",
+      "art": "mc",
+      "optionen": [
+        "Bei bestimmten Formen von Epilepsie",
+        "Bei Knochenbrüchen",
+        "Bei Kurzsichtigkeit",
+        "Bei Sonnenbrand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird bei manchen Epilepsieformen genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Langfristig führt Keto zu deutlich mehr Gewichtsverlust als alle anderen Diäten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Langfristig sind die Ergebnisse meist ähnlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Keto ersetzt Kohlenhydrate weitgehend durch Fett.",
+        "Langfristig wirkt sie ähnlich wie andere Diäten.",
+        "Sie ist schwer durchzuhalten und nicht für alle geeignet.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

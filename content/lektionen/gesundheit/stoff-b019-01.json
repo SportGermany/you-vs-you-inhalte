@@ -1,0 +1,112 @@
+{
+  "id": "stoff-b019-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Gicht?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gicht",
+      "herausgeber": "Deutsche Gesellschaft für Rheumatologie",
+      "url": "https://dgrh.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gicht",
+    "harnsaeure",
+    "gelenke"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten in der Nacht wacht ein Mann mit höllischen Schmerzen im großen Zeh auf. Selbst die Bettdecke tut weh.",
+        "Der Arzt stellt fest: ein Gichtanfall."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kristalle im Gelenk",
+      "absaetze": [
+        "Gicht ist eine Stoffwechselerkrankung. Der Harnsäurespiegel im Blut ist erhöht. Harnsäure entsteht beim Abbau von Purinen, die der Körper selbst bildet und die mit der Nahrung aufgenommen werden.",
+        "Ist zu viel Harnsäure im Blut, kann sie sich als Kristalle in Gelenken ablagern. Das löst heftige Entzündungen aus. Typisch betroffen ist das Grundgelenk des großen Zehs."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie begünstigt",
+      "absaetze": [
+        "Eine Veranlagung spielt eine große Rolle. Begünstigt wird Gicht durch Übergewicht, viel Fleisch und Innereien, Alkohol, besonders Bier, und zuckerhaltige Getränke mit Fruchtzucker.",
+        "Männer sind deutlich häufiger betroffen als Frauen. Auch bestimmte Medikamente und eine eingeschränkte Nierenfunktion erhöhen das Risiko."
+      ],
+      "merke": "Bier, viel Fleisch und süße Getränke können Gichtanfälle begünstigen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Behandlung",
+      "absaetze": [
+        "Ein akuter Anfall wird mit entzündungshemmenden Medikamenten behandelt. Bei häufigen Anfällen senken Medikamente dauerhaft die Harnsäure.",
+        "Eine Umstellung der Ernährung, weniger Alkohol und ein gesundes Gewicht helfen zusätzlich. Unbehandelt kann Gicht Gelenke und Nieren schädigen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was lagert sich bei Gicht in den Gelenken ab?",
+      "art": "mc",
+      "optionen": [
+        "Harnsäurekristalle",
+        "Kalkstaub",
+        "Fett",
+        "Eisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Harnsäure bildet bei hohem Spiegel Kristalle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gelenk ist typischerweise betroffen?",
+      "art": "mc",
+      "optionen": [
+        "Das Grundgelenk des großen Zehs",
+        "Das Knie eines Kindes",
+        "Die Schulter",
+        "Der Kiefer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der große Zeh ist besonders häufig betroffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bier kann das Risiko für Gichtanfälle erhöhen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Alkohol, besonders Bier, begünstigt Gicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Gicht lagern sich Harnsäurekristalle in Gelenken ab.",
+        "Veranlagung, Übergewicht, Fleisch, Alkohol und süße Getränke begünstigen sie.",
+        "Medikamente und Lebensstiländerungen helfen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

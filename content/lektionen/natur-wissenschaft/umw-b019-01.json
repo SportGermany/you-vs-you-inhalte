@@ -1,0 +1,107 @@
+{
+  "id": "umw-b019-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie groß ist dein CO2-Fußabdruck?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "CO2-Rechner und Klimaschutz",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "co2-fussabdruck",
+    "klimaschutz",
+    "konsum"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Flug nach Mallorca, das tägliche Pendeln mit dem Auto, das Steak am Wochenende.",
+        "Alles hinterlässt Spuren im Klima. Wie groß ist deine?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was gemessen wird",
+      "absaetze": [
+        "Der CO2-Fußabdruck gibt an, wie viele Treibhausgase durch die Lebensweise eines Menschen entstehen. Neben Kohlendioxid werden auch andere Gase wie Methan einberechnet und in CO2-Mengen umgerechnet.",
+        "In Deutschland liegt der Durchschnitt nach Angaben des Umweltbundesamts bei rund zehn Tonnen pro Person und Jahr. Klimaverträglich wären langfristig deutlich weniger als eine Tonne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo das meiste entsteht",
+      "absaetze": [
+        "Die großen Bereiche sind Wohnen und Heizen, Mobilität, Ernährung und sonstiger Konsum, also etwa Kleidung, Elektronik und Freizeit. Dazu kommt ein Anteil für öffentliche Infrastruktur, den jeder trägt.",
+        "Einzelne Entscheidungen haben sehr unterschiedliches Gewicht. Ein Langstreckenflug kann so viel ausmachen wie viele Monate Autofahren."
+      ],
+      "merke": "Heizen, Mobilität, Ernährung und Konsum bestimmen den Fußabdruck."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was am meisten bringt",
+      "absaetze": [
+        "Besonders wirksam sind meist wenige große Entscheidungen: seltener fliegen, das Heizsystem und die Dämmung, Ökostrom, weniger tierische Produkte und weniger, dafür langlebigere Anschaffungen.",
+        "Mit dem kostenlosen CO2-Rechner des Umweltbundesamts kannst du deinen eigenen Fußabdruck abschätzen. Neben eigenem Verhalten zählen auch politische Rahmenbedingungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der durchschnittliche CO2-Fußabdruck in Deutschland pro Person und Jahr etwa?",
+      "art": "mc",
+      "optionen": [
+        "Rund zehn Tonnen",
+        "Rund zehn Kilogramm",
+        "Rund hundert Tonnen",
+        "Rund eine Tonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut Umweltbundesamt sind es rund zehn Tonnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Entscheidung hat oft besonders großes Gewicht?",
+      "art": "mc",
+      "optionen": [
+        "Ein Langstreckenflug",
+        "Eine Plastiktüte",
+        "Ein Strohhalm",
+        "Ein Blatt Papier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Langstreckenflug verursacht sehr viele Emissionen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der CO2-Fußabdruck berücksichtigt nur Kohlendioxid.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch andere Treibhausgase wie Methan werden einberechnet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der CO2-Fußabdruck misst Treibhausgase durch die eigene Lebensweise.",
+        "In Deutschland liegt er bei rund zehn Tonnen pro Person und Jahr.",
+        "Große Entscheidungen wie Fliegen, Heizen und Ernährung zählen am meisten."
+      ]
+    }
+  ]
+}

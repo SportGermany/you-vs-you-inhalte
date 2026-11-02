@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b019-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schlafen ältere Menschen anders?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "alter",
+    "schlafqualitaet",
+    "senioren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Großvater ist abends um neun müde und um fünf Uhr morgens hellwach. Nachts wacht er mehrmals auf.",
+        "Ist das ein Schlafproblem oder einfach das Alter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Schlaf verändert sich",
+      "absaetze": [
+        "Mit dem Alter wird der Schlaf leichter. Der Anteil an Tiefschlaf nimmt ab, und man wacht nachts häufiger auf.",
+        "Die innere Uhr verschiebt sich bei vielen nach vorn. Ältere Menschen werden abends früher müde und wachen morgens früher auf. Das ist eine normale Veränderung."
+      ],
+      "merke": "Leichterer Schlaf und frühes Aufwachen sind im Alter häufig normal.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Braucht man weniger Schlaf?",
+      "absaetze": [
+        "Der Schlafbedarf sinkt im Alter nicht so stark, wie oft angenommen. Fachgesellschaften nennen für ältere Erwachsene meist etwa sieben bis acht Stunden.",
+        "Viele schlafen nachts weniger, machen dafür aber tagsüber Nickerchen. Lange Mittagsschläfe können den Nachtschlaf allerdings zusätzlich verkürzen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es mehr als das Alter ist",
+      "absaetze": [
+        "Schmerzen, häufiger Harndrang, Medikamente, Schlafapnoe oder das Restless-Legs-Syndrom stören den Schlaf im Alter häufiger. Auch Einsamkeit und wenig Tageslicht spielen eine Rolle.",
+        "Viel Bewegung und Licht am Tag, regelmäßige Zeiten und kurze Nickerchen helfen. Bei anhaltenden Problemen ist ärztlicher Rat sinnvoll, Schlafmittel sind im Alter wegen Sturzgefahr besonders kritisch."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was nimmt mit dem Alter meist ab?",
+      "art": "mc",
+      "optionen": [
+        "Der Anteil an Tiefschlaf",
+        "Das Bedürfnis nach Licht",
+        "Die Zahl der Haare im Gesicht",
+        "Die Körpergröße der Füße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Tiefschlaf wird weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie verschiebt sich die innere Uhr im Alter bei vielen?",
+      "art": "mc",
+      "optionen": [
+        "Nach vorn, früher müde und früher wach",
+        "Nach hinten, später müde",
+        "Gar nicht",
+        "Zufällig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Ältere werden früher müde und wachen früher auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlafmittel sind im Alter wegen der Sturzgefahr besonders kritisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie können Benommenheit verursachen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Alter wird der Schlaf leichter und die innere Uhr früher.",
+        "Der Schlafbedarf sinkt nicht so stark wie oft gedacht.",
+        "Bewegung, Licht und regelmäßige Zeiten helfen."
+      ]
+    }
+  ]
+}
