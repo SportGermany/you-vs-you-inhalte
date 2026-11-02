@@ -1,0 +1,113 @@
+{
+  "id": "stoff-b029-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was verrät der HbA1c-Wert?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes verstehen",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hba1c",
+    "langzeitblutzucker",
+    "diabetes"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein einzelner Blutzuckerwert ist nur eine Momentaufnahme. Er hängt davon ab, was du gerade gegessen hast.",
+        "Der HbA1c-Wert zeigt dagegen ein längeres Bild."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Blutzucker-Gedächtnis",
+      "absaetze": [
+        "Zucker im Blut lagert sich an den roten Blutfarbstoff Hämoglobin an. Der Anteil dieses verzuckerten Hämoglobins heißt HbA1c.",
+        "Rote Blutkörperchen leben etwa drei Monate. Deshalb spiegelt der HbA1c den durchschnittlichen Blutzucker der letzten acht bis zwölf Wochen wider."
+      ],
+      "merke": "Der HbA1c zeigt den Blutzucker der letzten Wochen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür er genutzt wird",
+      "absaetze": [
+        "Der Wert hilft, Diabetes zu erkennen. Nach den Leitlinien spricht ein HbA1c ab 6,5 Prozent für einen Diabetes.",
+        "Bei Menschen mit Diabetes zeigt er, wie gut die Behandlung wirkt. Welcher Zielwert sinnvoll ist, legt die Ärztin oder der Arzt individuell fest."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen des Werts",
+      "absaetze": [
+        "Bestimmte Erkrankungen des Blutes, etwa manche Formen von Blutarmut, können den Wert verfälschen. Dann sind andere Messungen nötig.",
+        "Starke Schwankungen im Tagesverlauf sieht man am HbA1c nicht. Er ist ein Durchschnitt und ersetzt nicht jede andere Messung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Zeitraum spiegelt der HbA1c etwa wider?",
+      "art": "mc",
+      "optionen": [
+        "Die letzten acht bis zwölf Wochen",
+        "Die letzte Stunde",
+        "Das letzte Jahrzehnt",
+        "Nur den heutigen Tag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rote Blutkörperchen leben etwa drei Monate."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem HbA1c spricht man nach den Leitlinien von Diabetes?",
+      "art": "mc",
+      "optionen": [
+        "Ab 6,5 Prozent",
+        "Ab 1 Prozent",
+        "Ab 20 Prozent",
+        "Ab 50 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ab 6,5 Prozent spricht der Wert für einen Diabetes."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der HbA1c zeigt starke Blutzuckerschwankungen im Tagesverlauf genau an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist ein Durchschnittswert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der HbA1c misst verzuckertes Hämoglobin.",
+        "Er zeigt den Durchschnitt der letzten acht bis zwölf Wochen.",
+        "Ab 6,5 Prozent spricht er für einen Diabetes.",
+        "Tagesschwankungen bildet er nicht ab.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

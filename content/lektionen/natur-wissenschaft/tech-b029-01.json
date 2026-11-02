@@ -1,0 +1,108 @@
+{
+  "id": "tech-b029-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert kontaktloses Bezahlen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kontaktlos bezahlen und NFC",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nfc",
+    "kontaktlos",
+    "bezahlen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Karte oder Handy kurz ans Terminal halten, ein Piepton, fertig.",
+        "Dahinter steckt eine Funktechnik mit sehr kurzer Reichweite."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Funk auf wenige Zentimeter",
+      "absaetze": [
+        "Kontaktloses Bezahlen nutzt meist NFC. Das steht für Near Field Communication, auf Deutsch Nahfeldkommunikation.",
+        "Die Technik funktioniert nur auf wenige Zentimeter. In der Karte steckt ein Chip mit einer kleinen Antenne. Das Terminal versorgt ihn über ein Funkfeld mit Energie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit",
+      "absaetze": [
+        "Bei jeder Zahlung wird ein einmaliger Code erzeugt. Selbst wenn jemand die Daten abfängt, lassen sie sich nicht einfach für weitere Zahlungen nutzen.",
+        "Bei kleinen Beträgen ist oft keine PIN nötig. Nach einigen Zahlungen ohne PIN fragt das System aus Sicherheitsgründen wieder danach."
+      ],
+      "merke": "Jede kontaktlose Zahlung nutzt einen einmaligen Code."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit dem Handy",
+      "absaetze": [
+        "Beim Bezahlen mit dem Smartphone wird die echte Kartennummer meist durch eine Ersatznummer ersetzt. Die Freigabe erfolgt oft per Fingerabdruck oder Gesichtserkennung.",
+        "Geht die Karte verloren, solltest du sie sofort sperren lassen. Die Sperr-Notrufnummer ist 116 116."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht NFC?",
+      "art": "mc",
+      "optionen": [
+        "Near Field Communication",
+        "New Financial Card",
+        "No Fee Card",
+        "National Funk Center"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf Deutsch Nahfeldkommunikation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie weit reicht NFC ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Wenige Zentimeter",
+        "Mehrere Kilometer",
+        "Hunderte Meter",
+        "Durch ganze Häuser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die kurze Reichweite schützt vor Missbrauch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Bezahlen mit dem Handy wird oft eine Ersatznummer statt der echten Kartennummer verwendet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das erhöht die Sicherheit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kontaktloses Bezahlen nutzt meist NFC.",
+        "Die Reichweite beträgt nur wenige Zentimeter.",
+        "Jede Zahlung nutzt einen einmaligen Code.",
+        "Verlorene Karten sofort unter 116 116 sperren."
+      ]
+    }
+  ]
+}

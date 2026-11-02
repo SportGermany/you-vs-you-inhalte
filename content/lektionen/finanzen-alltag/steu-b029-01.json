@@ -1,0 +1,108 @@
+{
+  "id": "steu-b029-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was tust du, wenn dein Steuerbescheid falsch ist?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2028-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuerbescheid",
+    "einspruch",
+    "frist"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Steuerbescheid ist da, doch eine Ausgabe wurde nicht berücksichtigt.",
+        "Du kannst dich dagegen wehren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bescheid prüfen",
+      "absaetze": [
+        "Vergleiche den Bescheid mit deiner Steuererklärung. Auf den Erläuterungen am Ende steht oft, wo das Finanzamt abgewichen ist.",
+        "Fehler passieren auf beiden Seiten. Manchmal wurde ein Beleg übersehen oder eine Angabe anders bewertet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einspruch einlegen",
+      "absaetze": [
+        "Gegen einen fehlerhaften Bescheid kannst du Einspruch einlegen. Die Frist beträgt einen Monat ab Bekanntgabe des Bescheids.",
+        "Der Einspruch kostet nichts. Du kannst ihn schriftlich oder elektronisch, etwa über ELSTER, einreichen. Eine kurze Begründung und fehlende Belege helfen dem Finanzamt."
+      ],
+      "merke": "Die Einspruchsfrist beträgt einen Monat."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie es weitergeht",
+      "absaetze": [
+        "Das Finanzamt prüft den ganzen Bescheid noch einmal. Es kann dabei auch zu deinen Ungunsten ändern, muss dich darauf aber vorher hinweisen. Dann kannst du den Einspruch zurücknehmen.",
+        "Wird der Einspruch abgelehnt, bleibt der Weg zum Finanzgericht. Bei komplizierten Fällen helfen Steuerberatung oder Lohnsteuerhilfevereine."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hast du für einen Einspruch Zeit?",
+      "art": "mc",
+      "optionen": [
+        "Einen Monat ab Bekanntgabe",
+        "Eine Woche",
+        "Zehn Jahre",
+        "Es gibt keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Frist beträgt einen Monat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kostet ein Einspruch?",
+      "art": "mc",
+      "optionen": [
+        "Nichts",
+        "100 Euro",
+        "Einen Prozentsatz der Steuer",
+        "Eine Gebühr pro Seite"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Einspruch ist kostenlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Finanzamt darf den Bescheid im Einspruch ohne Hinweis zu deinen Ungunsten ändern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es muss dich vorher darauf hinweisen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Den Bescheid mit der Steuererklärung vergleichen.",
+        "Der Einspruch ist innerhalb eines Monats möglich und kostenlos.",
+        "Vor einer Verschlechterung muss das Finanzamt warnen.",
+        "Danach bleibt der Weg zum Finanzgericht."
+      ]
+    }
+  ]
+}

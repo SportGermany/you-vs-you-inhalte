@@ -1,0 +1,108 @@
+{
+  "id": "koer-b029-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum schwitzen wir?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Dermatologische Gesellschaft",
+      "url": "https://derma.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schwitzen",
+    "temperatur",
+    "haut"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Sport, in der Sauna oder vor einer Prüfung wird die Haut feucht.",
+        "Schwitzen ist ein cleveres Kühlsystem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühlung durch Verdunsten",
+      "absaetze": [
+        "Wenn der Körper zu warm wird, geben Schweißdrüsen Flüssigkeit auf die Haut ab. Verdunstet der Schweiß, nimmt er Wärme mit und kühlt die Haut.",
+        "Der Mensch hat Millionen Schweißdrüsen, besonders viele an Händen, Füßen und Stirn. Deshalb kann er auch bei Hitze lange ausdauernd laufen."
+      ],
+      "merke": "Verdunstender Schweiß kühlt den Körper."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwitzen vor Aufregung",
+      "absaetze": [
+        "Auch Stress und Angst lassen uns schwitzen, oft an Händen und Achseln. Das steuert das vegetative Nervensystem, das ohne unseren Willen arbeitet.",
+        "Schweiß selbst ist fast geruchlos. Der typische Geruch entsteht erst, wenn Bakterien auf der Haut ihn zersetzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtig: trinken",
+      "absaetze": [
+        "Bei starkem Schwitzen verliert der Körper Wasser und Salze. Das muss durch Trinken wieder ausgeglichen werden.",
+        "Wer ohne Anlass sehr stark schwitzt, etwa an Händen oder Füßen, kann eine Hyperhidrose haben. Das ist behandelbar und kann ärztlich abgeklärt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kühlt Schweiß den Körper?",
+      "art": "mc",
+      "optionen": [
+        "Durch Verdunsten auf der Haut",
+        "Durch Gefrieren",
+        "Durch Abfließen in die Erde",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verdunstung nimmt Wärme mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt der typische Schweißgeruch?",
+      "art": "mc",
+      "optionen": [
+        "Von Bakterien, die den Schweiß zersetzen",
+        "Vom Schweiß selbst",
+        "Vom Blut",
+        "Von der Kleidung allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Frischer Schweiß ist fast geruchlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Stress kann Schwitzen auslösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das steuert das vegetative Nervensystem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwitzen ist ein Kühlsystem des Körpers.",
+        "Verdunstender Schweiß nimmt Wärme mit.",
+        "Der Geruch entsteht durch Bakterien.",
+        "Nach starkem Schwitzen genug trinken."
+      ]
+    }
+  ]
+}

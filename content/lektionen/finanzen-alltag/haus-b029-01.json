@@ -1,0 +1,108 @@
+{
+  "id": "haus-b029-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wohin mit alten Elektrogeräten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2028-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Elektroschrott und Kompost",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "elektroschrott",
+    "recycling",
+    "akkus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein altes Handy in der Schublade, ein kaputter Toaster im Keller.",
+        "Elektroschrott gehört nicht in den Hausmüll."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es wichtig ist",
+      "absaetze": [
+        "Elektrogeräte enthalten wertvolle Rohstoffe wie Kupfer, Gold und seltene Metalle. Sie lassen sich zurückgewinnen.",
+        "Gleichzeitig können Schadstoffe enthalten sein. Akkus können in Müllfahrzeugen oder Sortieranlagen Brände auslösen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo du sie abgeben kannst",
+      "absaetze": [
+        "Kommunale Wertstoffhöfe nehmen Elektrogeräte kostenlos an. Auch viele Händler müssen alte Geräte zurücknehmen, darunter größere Elektromärkte und Supermärkte, die Elektrogeräte verkaufen.",
+        "Kleine Geräte kannst du dort meist auch ohne Neukauf abgeben. Das durchgestrichene Mülltonnen-Symbol zeigt, dass ein Gerät nicht in den Hausmüll darf."
+      ],
+      "merke": "Das durchgestrichene Mülltonnen-Symbol bedeutet: nicht in den Hausmüll."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor der Abgabe",
+      "absaetze": [
+        "Lösche persönliche Daten auf Handys, Laptops und Tablets. Setze sie auf Werkseinstellungen zurück.",
+        "Entnimm Batterien und Akkus, wenn das möglich ist, und gib sie getrennt ab. Funktionierende Geräte kannst du auch verschenken oder verkaufen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet das durchgestrichene Mülltonnen-Symbol?",
+      "art": "mc",
+      "optionen": [
+        "Das Gerät darf nicht in den Hausmüll",
+        "Das Gerät ist kaputt",
+        "Das Gerät ist wasserdicht",
+        "Das Gerät ist neu"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es muss getrennt entsorgt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Akkus im Hausmüll gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Sie können Brände auslösen",
+        "Sie verschwinden einfach",
+        "Sie werden zu Wasser",
+        "Sie sind ungefährlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Müllfahrzeugen können sie sich entzünden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor der Abgabe von Handys solltest du persönliche Daten löschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Am besten auf Werkseinstellungen zurücksetzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Elektrogeräte enthalten wertvolle Rohstoffe und Schadstoffe.",
+        "Wertstoffhöfe und viele Händler nehmen sie zurück.",
+        "Akkus getrennt abgeben, sie können Brände auslösen.",
+        "Vorher persönliche Daten löschen."
+      ]
+    }
+  ]
+}

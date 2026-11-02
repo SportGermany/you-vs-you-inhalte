@@ -1,0 +1,108 @@
+{
+  "id": "geld-b029-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie wechselst du dein Girokonto?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2028-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Konto und Verbraucherrechte",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kontowechsel",
+    "girokonto",
+    "gebuehren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Kontogebühren steigen, aber der Wechsel scheint mühsam. Daueraufträge, Lastschriften, Gehalt: alles muss umgestellt werden.",
+        "Dafür gibt es eine gesetzliche Hilfe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Kontowechselhilfe",
+      "absaetze": [
+        "Banken in Deutschland sind gesetzlich verpflichtet, beim Kontowechsel zu helfen. Du beauftragst die neue Bank, und die alte muss die nötigen Informationen liefern.",
+        "Die neue Bank richtet Daueraufträge ein und informiert Zahlungspartner wie Arbeitgeber oder Vermieter über die neue Kontoverbindung."
+      ],
+      "merke": "Banken müssen beim Kontowechsel helfen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So gehst du vor",
+      "absaetze": [
+        "Eröffne zuerst das neue Konto. Beauftrage dann die Kontowechselhilfe, meist mit einem Formular oder online.",
+        "Lass das alte Konto noch einige Wochen laufen. So fängst du Zahlungen ab, die noch auf das alte Konto gehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Vergleiche Kontoführungsgebühren, Kosten für Karten und Dispozinsen. Ein kostenloses Konto passt nicht immer, wenn etwa Bargeld schwer zu bekommen ist.",
+        "Kontrolliere nach dem Wechsel, ob alle Zahlungen richtig ankommen. Löse das alte Konto erst auf, wenn alles reibungslos läuft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu sind Banken beim Kontowechsel verpflichtet?",
+      "art": "mc",
+      "optionen": [
+        "Zur Hilfe beim Umzug der Zahlungen",
+        "Zu einer Strafgebühr",
+        "Zur Verweigerung",
+        "Zu nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist gesetzlich geregelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du das alte Konto auflösen?",
+      "art": "mc",
+      "optionen": [
+        "Wenn alle Zahlungen reibungslos aufs neue Konto laufen",
+        "Sofort am ersten Tag",
+        "Vor der Eröffnung des neuen Kontos",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "So gehen keine Zahlungen verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein kostenloses Konto ist automatisch immer die richtige Wahl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch andere Kosten und Leistungen zählen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Banken müssen beim Kontowechsel helfen.",
+        "Erst neues Konto eröffnen, dann Wechselhilfe beauftragen.",
+        "Altes Konto noch einige Wochen laufen lassen.",
+        "Gebühren, Karten und Dispozinsen vergleichen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b029-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was unterscheidet Hunger von Appetit?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Adipositas und Stoffwechsel",
+      "herausgeber": "Deutsche Adipositas-Gesellschaft",
+      "url": "https://adipositas-gesellschaft.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hunger",
+    "appetit",
+    "essverhalten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eben warst du noch satt. Dann riechst du frisch gebackene Waffeln und hast plötzlich Lust darauf.",
+        "Das ist kein Hunger, sondern Appetit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunger",
+      "absaetze": [
+        "Hunger ist ein körperliches Signal. Er entsteht, wenn der Körper Energie braucht, und baut sich langsam auf.",
+        "Typisch sind ein leerer Magen, Magenknurren oder nachlassende Konzentration. Hunger lässt sich mit vielen verschiedenen Lebensmitteln stillen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Appetit",
+      "absaetze": [
+        "Appetit ist die Lust auf ein bestimmtes Essen. Er wird oft von außen ausgelöst, etwa durch Gerüche, Bilder, Werbung oder Gewohnheiten.",
+        "Auch Gefühle wie Stress, Langeweile oder Traurigkeit können Appetit wecken. Er kommt oft plötzlich und richtet sich auf etwas Bestimmtes, häufig Süßes oder Fettiges."
+      ],
+      "merke": "Appetit wird oft von außen oder durch Gefühle ausgelöst.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Den Unterschied erkennen",
+      "absaetze": [
+        "Eine Frage hilft: Würde ich jetzt auch einen Apfel oder ein Butterbrot essen? Wenn nicht, ist es vermutlich eher Appetit.",
+        "Appetit ist nichts Schlechtes, Genuss gehört zum Essen dazu. Es hilft aber, ihn bewusst wahrzunehmen, statt automatisch zuzugreifen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Hunger?",
+      "art": "mc",
+      "optionen": [
+        "Ein körperliches Signal für Energiebedarf",
+        "Die Lust auf Schokolade",
+        "Eine Reaktion auf Werbung",
+        "Ein Gefühl der Langeweile"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hunger baut sich langsam auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Appetit auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Gerüche, Bilder und Gefühle",
+        "Nur ein leerer Magen",
+        "Nur Schlafmangel",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Appetit kommt oft von außen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Appetit richtet sich oft auf ein bestimmtes Essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Häufig auf Süßes oder Fettiges."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hunger ist ein körperliches Signal für Energiebedarf.",
+        "Appetit ist die Lust auf ein bestimmtes Essen.",
+        "Gefühle und Reize von außen wecken Appetit.",
+        "Die Apfel-Frage hilft, beides zu unterscheiden.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

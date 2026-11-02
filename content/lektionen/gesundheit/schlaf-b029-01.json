@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b029-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist sozialer Jetlag?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sozialer-jetlag",
+    "wochenende",
+    "innere-uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Unter der Woche klingelt der Wecker um sechs. Am Wochenende schläfst du bis zehn.",
+        "Am Montag fühlst du dich, als wärst du um die halbe Welt geflogen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Zeitzonen in einer Woche",
+      "absaetze": [
+        "Der Chronobiologe Till Roenneberg prägte den Begriff sozialer Jetlag. Gemeint ist der Unterschied zwischen den Schlafzeiten an Arbeitstagen und an freien Tagen.",
+        "Wer am Wochenende deutlich später schläft und aufsteht, verschiebt seine innere Uhr. Am Montag muss sie sich wieder umstellen, wie nach einer Reise."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Folgen",
+      "absaetze": [
+        "Besonders betroffen sind Spättypen, die abends lange wach sind. Sie müssen sich unter der Woche besonders stark an frühe Termine anpassen.",
+        "Studien deuten darauf hin, dass ein großer sozialer Jetlag mit Müdigkeit, schlechterer Stimmung und Stoffwechselproblemen zusammenhängt."
+      ],
+      "merke": "Große Unterschiede zwischen Werktagen und Wochenende belasten die innere Uhr.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Versuche, auch am Wochenende ungefähr zu ähnlichen Zeiten aufzustehen. Eine Stunde Unterschied ist meist unproblematisch.",
+        "Tageslicht am Morgen hilft der inneren Uhr, früher zu ticken. Helles Licht am späten Abend schiebt sie dagegen nach hinten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt sozialer Jetlag?",
+      "art": "mc",
+      "optionen": [
+        "Unterschiedliche Schlafzeiten an Werktagen und freien Tagen",
+        "Müdigkeit nach Fernreisen",
+        "Schlafprobleme durch Lärm",
+        "Zu viel Mittagsschlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die innere Uhr muss sich ständig umstellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist vom sozialen Jetlag besonders betroffen?",
+      "art": "mc",
+      "optionen": [
+        "Spättypen",
+        "Frühaufsteher",
+        "Babys",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie müssen sich unter der Woche stark anpassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tageslicht am Morgen hilft der inneren Uhr, früher zu ticken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Licht ist ihr wichtigster Taktgeber."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sozialer Jetlag entsteht durch unterschiedliche Schlafzeiten.",
+        "Spättypen sind besonders betroffen.",
+        "Er hängt mit Müdigkeit und schlechterer Stimmung zusammen.",
+        "Ähnliche Aufstehzeiten und Morgenlicht helfen."
+      ]
+    }
+  ]
+}

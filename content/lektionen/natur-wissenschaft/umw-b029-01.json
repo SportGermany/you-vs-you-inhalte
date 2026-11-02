@@ -1,0 +1,108 @@
+{
+  "id": "umw-b029-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist Kompost so wertvoll?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Elektroschrott und Kompost",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kompost",
+    "bioabfall",
+    "humus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kartoffelschalen, Kaffeesatz, Laub: Fast die Hälfte des Hausmülls kann organisch sein.",
+        "Im Kompost wird daraus wertvolle Erde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Abfall zur Erde",
+      "absaetze": [
+        "Im Kompost zersetzen Bakterien, Pilze, Würmer und Insekten organische Abfälle. Dabei entsteht nährstoffreicher Humus.",
+        "Dieser Humus verbessert den Boden. Er speichert Wasser, liefert Nährstoffe und fördert das Bodenleben."
+      ],
+      "merke": "Kompost macht aus Abfall nährstoffreichen Humus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ersatz für Dünger und Torf",
+      "absaetze": [
+        "Mit Kompost brauchst du weniger Kunstdünger. Er kann auch Torf in Blumenerde ersetzen.",
+        "Torf wird in Mooren abgebaut. Dabei werden große Mengen Kohlendioxid frei. Torffreie Erde schont deshalb das Klima."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in den Kompost darf",
+      "absaetze": [
+        "Gut geeignet sind Obst- und Gemüsereste, Kaffeesatz, Laub und Rasenschnitt. Fleisch, Fisch und gekochte Essensreste locken dagegen Ratten an und gehören nicht in den offenen Gartenkompost.",
+        "Ohne Garten ist die Biotonne die richtige Wahl. Aus ihrem Inhalt entstehen in Anlagen Kompost und oft auch Biogas."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht im Kompost?",
+      "art": "mc",
+      "optionen": [
+        "Humus",
+        "Plastik",
+        "Glas",
+        "Metall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lebewesen zersetzen die Abfälle zu Humus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist torffreie Erde besser fürs Klima?",
+      "art": "mc",
+      "optionen": [
+        "Beim Torfabbau wird viel Kohlendioxid frei",
+        "Torf ist zu teuer",
+        "Torf riecht schlecht",
+        "Torf ist giftig für Pflanzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Moore speichern viel Kohlenstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fleischreste gehören in den offenen Gartenkompost.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie locken Ratten an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kompost macht aus Abfall nährstoffreichen Humus.",
+        "Er ersetzt Kunstdünger und Torf.",
+        "Torfabbau setzt viel Kohlendioxid frei.",
+        "Ohne Garten ist die Biotonne die richtige Wahl."
+      ]
+    }
+  ]
+}

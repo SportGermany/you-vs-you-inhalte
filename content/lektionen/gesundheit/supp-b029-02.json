@@ -1,0 +1,126 @@
+{
+  "id": "supp-b029-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Wie riskant sind Energydrinks?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energydrinks und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Caffeine",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "energydrinks",
+    "koffein",
+    "jugendliche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bunte Dosen, die Wachheit und Power versprechen. Besonders bei Jugendlichen sind Energydrinks beliebt.",
+        "Fachleute sehen das kritisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Energydrinks enthalten vor allem Koffein und Zucker. Dazu kommen oft Taurin, Vitamine und Pflanzenextrakte wie Guarana, das ebenfalls Koffein liefert.",
+        "Eine große Dose kann so viel Koffein enthalten wie mehrere Tassen Kaffee. Zuckerhaltige Varianten liefern zusätzlich viel Energie."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Risiken",
+      "absaetze": [
+        "Viel Koffein kann Herzrasen, Unruhe, Schlafprobleme und Kopfschmerzen auslösen. Kinder und Jugendliche reagieren empfindlicher.",
+        "Das BfR warnt besonders vor großen Mengen in kurzer Zeit, etwa bei Partys, beim Sport oder zusammen mit Alkohol. Alkohol kann die Müdigkeit überdecken, sodass man sich wacher fühlt, als man ist."
+      ],
+      "merke": "Energydrinks und Alkohol sind eine riskante Kombination.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was gilt",
+      "absaetze": [
+        "Energydrinks müssen in der EU einen Hinweis auf den hohen Koffeingehalt tragen. Sie sind nicht für Kinder, Schwangere und Stillende empfohlen.",
+        "Gegen Müdigkeit helfen Schlaf, Bewegung und Pausen dauerhaft besser. Als Durstlöscher eignen sich Energydrinks nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Kinder, Schwangere und Stillende sollten Energydrinks meiden.",
+        "Bei Herzerkrankungen oder Bluthochdruck ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten Energydrinks vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Koffein und Zucker",
+        "Eiweiß und Fett",
+        "Nur Vitamine",
+        "Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen oft Taurin und Guarana."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist die Kombination mit Alkohol riskant?",
+      "art": "mc",
+      "optionen": [
+        "Man fühlt sich wacher, als man ist",
+        "Alkohol wird dadurch neutralisiert",
+        "Der Zucker verschwindet",
+        "Sie ist völlig harmlos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Müdigkeit wird überdeckt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Energydrinks sind ein guter Durstlöscher beim Sport.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür eignen sie sich nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Energydrinks enthalten viel Koffein und oft viel Zucker.",
+        "Kinder und Jugendliche reagieren empfindlicher.",
+        "Zusammen mit Alkohol sind sie riskant.",
+        "Gegen Müdigkeit hilft dauerhaft vor allem Schlaf."
+      ]
+    }
+  ]
+}

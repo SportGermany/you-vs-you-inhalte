@@ -1,0 +1,114 @@
+{
+  "id": "all-b029-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Neutronenstern?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Neutron stars",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Neutron Stars",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "neutronenstern",
+    "supernova",
+    "pulsar"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Teelöffel seines Materials würde auf der Erde so viel wiegen wie ein Gebirge.",
+        "Neutronensterne gehören zu den extremsten Objekten im All."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überrest einer Explosion",
+      "absaetze": [
+        "Wenn ein sehr massereicher Stern am Ende seines Lebens explodiert, spricht man von einer Supernova. Übrig bleibt oft ein extrem dichter Kern.",
+        "Dieser Kern besteht größtenteils aus Neutronen, also Teilchen aus dem Atomkern. Daher kommt der Name Neutronenstern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein und unvorstellbar dicht",
+      "absaetze": [
+        "Ein Neutronenstern hat etwa die Masse der Sonne oder mehr. Sein Durchmesser beträgt aber nur rund 20 Kilometer, etwa so groß wie eine Stadt.",
+        "Seine Materie ist so dicht gepackt wie Atomkerne. Nur Schwarze Löcher sind noch dichter."
+      ],
+      "merke": "Ein Neutronenstern hat die Masse der Sonne auf Stadtgröße."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kosmische Leuchttürme",
+      "absaetze": [
+        "Manche Neutronensterne drehen sich sehr schnell und senden Strahlung in Bündeln aus. Wenn ein Bündel die Erde trifft, messen wir regelmäßige Pulse. Man nennt sie Pulsare.",
+        "Wenn zwei Neutronensterne verschmelzen, entstehen Gravitationswellen und schwere Elemente wie Gold."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht ein Neutronenstern?",
+      "art": "mc",
+      "optionen": [
+        "Als Überrest einer Supernova",
+        "Aus einem Kometen",
+        "Aus einem Planeten",
+        "Aus Mondstaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist der Kern eines explodierten Sterns."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie groß ist ein Neutronenstern ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 20 Kilometer Durchmesser",
+        "So groß wie die Sonne",
+        "So groß wie die Erde",
+        "Wenige Meter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa so groß wie eine Stadt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pulsare sind schnell rotierende Neutronensterne.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ihre Strahlung erreicht uns in Pulsen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Neutronensterne entstehen bei Supernovae.",
+        "Sie haben die Masse der Sonne auf Stadtgröße.",
+        "Ihre Materie ist so dicht wie Atomkerne.",
+        "Pulsare sind schnell rotierende Neutronensterne."
+      ]
+    }
+  ]
+}
