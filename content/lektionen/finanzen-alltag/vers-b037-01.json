@@ -1,0 +1,108 @@
+{
+  "id": "vers-b037-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann lohnt sich eine private Unfallversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "private-unfallversicherung",
+    "invaliditaet",
+    "freizeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die gesetzliche Unfallversicherung schützt nur bei der Arbeit und auf dem Arbeitsweg.",
+        "Für Freizeitunfälle gibt es private Unfallversicherungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie zahlt",
+      "absaetze": [
+        "Die private Unfallversicherung zahlt vor allem, wenn ein Unfall zu bleibenden Schäden führt. Fachleute sprechen von Invalidität.",
+        "Wie viel gezahlt wird, hängt vom Grad der Beeinträchtigung ab. Eine Tabelle, die Gliedertaxe, legt fest, welcher Anteil zum Beispiel beim Verlust eines Fingers gilt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Grenzen",
+      "absaetze": [
+        "Die Versicherung zahlt nur bei Unfällen, nicht bei Krankheiten. Doch die meisten Fälle von Berufsunfähigkeit oder Erwerbsunfähigkeit entstehen durch Krankheiten wie Rückenleiden oder psychische Erkrankungen.",
+        "Verbraucherschützer halten eine Berufsunfähigkeitsversicherung deshalb meist für wichtiger. Eine Unfallversicherung kann sie nicht ersetzen."
+      ],
+      "merke": "Unfallversicherungen zahlen nicht bei Krankheit."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen sie sinnvoll sein kann",
+      "absaetze": [
+        "Für Menschen, die keine Berufsunfähigkeitsversicherung bekommen, etwa wegen Vorerkrankungen, kann sie eine Ergänzung sein. Auch für Kinder wird sie oft erwogen.",
+        "Achte auf eine ausreichende Versicherungssumme für den Invaliditätsfall. Zusatzleistungen wie Tagegeld sind oft weniger wichtig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann zahlt die private Unfallversicherung vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Bei bleibenden Schäden nach einem Unfall",
+        "Bei jeder Erkältung",
+        "Bei Arbeitslosigkeit",
+        "Bei Diebstahl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fachleute sprechen von Invalidität."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was legt die Gliedertaxe fest?",
+      "art": "mc",
+      "optionen": [
+        "Welcher Anteil bei Verlust bestimmter Körperteile gilt",
+        "Die Höhe der Beiträge",
+        "Die Kündigungsfrist",
+        "Die Steuerklasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist eine Tabelle im Vertrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Unfallversicherung ersetzt eine Berufsunfähigkeitsversicherung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zahlt nicht bei Krankheit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die private Unfallversicherung schützt in der Freizeit.",
+        "Sie zahlt vor allem bei bleibender Invalidität.",
+        "Bei Krankheit zahlt sie nicht.",
+        "Eine Berufsunfähigkeitsversicherung ist meist wichtiger."
+      ]
+    }
+  ]
+}

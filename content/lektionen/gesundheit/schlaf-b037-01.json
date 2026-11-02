@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b037-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie lange dauert normales Einschlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "einschlafzeit",
+    "schlafdruck",
+    "schlafmangel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche schlafen ein, sobald der Kopf das Kissen berührt. Andere liegen eine halbe Stunde wach.",
+        "Was ist normal?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein paar Minuten bis eine Viertelstunde",
+      "absaetze": [
+        "Bei gesunden Erwachsenen dauert das Einschlafen meist einige Minuten bis etwa eine Viertelstunde. Gelegentlich länger wach zu liegen ist normal.",
+        "Fachleute sprechen von Einschlaflatenz. Gemeint ist die Zeit zwischen dem Licht-Ausmachen und dem Einschlafen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu schnell kann ein Zeichen sein",
+      "absaetze": [
+        "Wer immer sofort einschläft, ist nicht unbedingt ein besonders guter Schläfer. Sehr schnelles Einschlafen kann darauf hindeuten, dass man zu wenig schläft.",
+        "Der Schlafdruck ist dann so hoch, dass der Körper jede Gelegenheit nutzt."
+      ],
+      "merke": "Sofortiges Einschlafen kann auf Schlafmangel hinweisen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es regelmäßig lange dauert",
+      "absaetze": [
+        "Liegt jemand über Wochen regelmäßig sehr lange wach und fühlt sich tagsüber beeinträchtigt, kann eine Ein- oder Durchschlafstörung vorliegen.",
+        "Hilfreich ist, nicht auf die Uhr zu schauen. Wer lange wach liegt, kann kurz aufstehen und erst bei Müdigkeit zurückkehren. Bei anhaltenden Problemen ist ärztlicher Rat sinnvoll."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Zeit bis zum Einschlafen in der Fachsprache?",
+      "art": "mc",
+      "optionen": [
+        "Einschlaflatenz",
+        "Tiefschlaf",
+        "REM-Phase",
+        "Schlafapnoe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie beginnt beim Licht-Ausmachen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann sehr schnelles Einschlafen bedeuten?",
+      "art": "mc",
+      "optionen": [
+        "Man schläft insgesamt zu wenig",
+        "Man ist besonders ausgeruht",
+        "Man hat zu viel Energie",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schlafdruck ist dann sehr hoch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gelegentlich länger wach zu liegen ist normal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Erst ein anhaltendes Muster ist auffällig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einschlafen dauert meist einige Minuten bis eine Viertelstunde.",
+        "Sofortiges Einschlafen kann auf Schlafmangel hinweisen.",
+        "Nicht auf die Uhr schauen hilft.",
+        "Anhaltende Probleme ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

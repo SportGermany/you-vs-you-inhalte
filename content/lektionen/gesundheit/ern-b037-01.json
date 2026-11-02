@@ -1,0 +1,112 @@
+{
+  "id": "ern-b037-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Trockenobst?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "trockenobst",
+    "zucker",
+    "snack"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Datteln, Rosinen, getrocknete Aprikosen: Trockenobst gilt als gesunder Snack.",
+        "Doch es hat auch eine Kehrseite."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Konzentrierte Nährstoffe",
+      "absaetze": [
+        "Beim Trocknen wird dem Obst Wasser entzogen. Ballaststoffe, Mineralstoffe wie Kalium und viele sekundäre Pflanzenstoffe bleiben erhalten.",
+        "Einige Vitamine, vor allem Vitamin C, gehen beim Trocknen teilweise verloren."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Konzentrierter Zucker",
+      "absaetze": [
+        "Weil das Wasser fehlt, ist auch der Zucker stark konzentriert. Eine kleine Handvoll Trockenobst enthält so viel Zucker wie eine deutlich größere Menge frisches Obst.",
+        "Trockenobst klebt zudem an den Zähnen. Das kann Karies begünstigen, wenn man danach nicht die Zähne putzt oder Wasser trinkt."
+      ],
+      "merke": "Trockenobst ist süß und energiereich, deshalb in kleinen Mengen genießen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Manche Produkte sind zusätzlich gezuckert oder mit Schwefel behandelt. Ein Blick auf die Zutatenliste zeigt das.",
+        "Als Ergänzung oder zum Süßen von Müsli ist Trockenobst gut geeignet. Frisches Obst sollte aber der Hauptanteil bleiben."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bleibt beim Trocknen von Obst gut erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Ballaststoffe und Mineralstoffe",
+        "Das Wasser",
+        "Vor allem Vitamin C",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vitamin C geht teilweise verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Trockenobst so süß?",
+      "art": "mc",
+      "optionen": [
+        "Der Zucker ist durch den Wasserentzug konzentriert",
+        "Es wird immer gezuckert",
+        "Es enthält Süßstoff",
+        "Es ist überreif"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine kleine Menge enthält viel Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Trockenobst kann an den Zähnen kleben und Karies begünstigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wasser trinken oder Zähne putzen hilft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Trockenobst liefert Ballaststoffe und Mineralstoffe.",
+        "Der Zucker ist stark konzentriert.",
+        "Auf zugesetzten Zucker und Schwefel achten.",
+        "Frisches Obst bleibt der Hauptanteil."
+      ]
+    }
+  ]
+}

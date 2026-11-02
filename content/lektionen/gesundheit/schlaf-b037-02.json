@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b037-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Spielt die Schlafposition eine Rolle?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafposition",
+    "seitenlage",
+    "schnarchen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Rücken, auf der Seite oder auf dem Bauch: Jeder hat seine Lieblingsposition.",
+        "Hat sie Folgen für die Gesundheit?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die meisten schlafen auf der Seite",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Erwachsene die meiste Zeit der Nacht auf der Seite liegen. Wir wechseln die Position aber viele Male pro Nacht, ohne es zu merken.",
+        "Für gesunde Menschen gibt es keine einzig richtige Schlafposition. Wichtig ist, dass man sich wohlfühlt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann die Position wichtig ist",
+      "absaetze": [
+        "Wer schnarcht oder an leichter Schlafapnoe leidet, atmet in Rückenlage oft schlechter. Dann rutscht die Zunge leichter nach hinten. Die Seitenlage kann helfen.",
+        "Bei Sodbrennen kann es helfen, auf der linken Seite zu liegen oder den Oberkörper etwas hochzulagern."
+      ],
+      "merke": "Bei Schnarchen kann die Seitenlage helfen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besondere Situationen",
+      "absaetze": [
+        "Babys sollen zum Schlafen immer auf den Rücken gelegt werden. Das senkt das Risiko des plötzlichen Kindstods.",
+        "Bei Nacken- oder Rückenschmerzen kann ein passendes Kissen und eine geeignete Matratze helfen. Bei anhaltenden Beschwerden ist ärztlicher Rat sinnvoll."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Position verbringen Erwachsene die meiste Zeit der Nacht?",
+      "art": "mc",
+      "optionen": [
+        "Auf der Seite",
+        "Auf dem Bauch",
+        "Im Sitzen",
+        "Im Stehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wir wechseln aber oft die Position."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei Schnarchen helfen?",
+      "art": "mc",
+      "optionen": [
+        "Die Seitenlage",
+        "Die Rückenlage",
+        "Ein besonders hohes Kissen allein",
+        "Mehr Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Rückenlage rutscht die Zunge leichter nach hinten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Babys sollen zum Schlafen auf den Rücken gelegt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das senkt das Risiko des plötzlichen Kindstods."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erwachsene schlafen meist auf der Seite.",
+        "Für Gesunde gibt es keine einzig richtige Position.",
+        "Bei Schnarchen hilft oft die Seitenlage.",
+        "Babys immer in Rückenlage schlafen legen."
+      ]
+    }
+  ]
+}

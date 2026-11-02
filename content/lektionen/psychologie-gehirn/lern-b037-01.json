@@ -1,0 +1,111 @@
+{
+  "id": "lern-b037-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Warum vergisst du beim Betreten eines Raums, was du wolltest?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tuereffekt",
+    "vergessen",
+    "kontext"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du gehst in die Küche, um etwas zu holen. Dort angekommen weißt du nicht mehr, was es war.",
+        "Das passiert fast jedem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Türeffekt",
+      "absaetze": [
+        "Forschende haben dieses Phänomen untersucht. In Experimenten vergaßen Menschen häufiger Informationen, nachdem sie durch eine Tür gegangen waren, als wenn sie im selben Raum blieben.",
+        "Man spricht vom Türeffekt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Erklärung",
+      "absaetze": [
+        "Das Gehirn gliedert Erlebnisse in Abschnitte, ähnlich wie Szenen in einem Film. Eine Tür markiert für das Gehirn den Beginn einer neuen Szene.",
+        "Studien deuten darauf hin, dass Informationen aus der vorherigen Szene dann schwerer abrufbar sind. Sie werden gewissermaßen abgelegt."
+      ],
+      "merke": "Eine Tür kann für das Gehirn eine neue Szene beginnen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Geh zurück an den Ausgangsort. Dort fällt dir oft wieder ein, was du wolltest, weil der Kontext die Erinnerung weckt.",
+        "Sag dir dein Ziel kurz laut vor, bevor du losgehst. Wer abgelenkt ist oder viel im Kopf hat, vergisst solche Kleinigkeiten leichter. Das ist normal."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das Phänomen, nach dem Durchgehen einer Tür etwas zu vergessen?",
+      "art": "mc",
+      "optionen": [
+        "Türeffekt",
+        "Placeboeffekt",
+        "Dominoeffekt",
+        "Halo-Effekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Forschende haben ihn in Experimenten untersucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft oft, sich wieder zu erinnern?",
+      "art": "mc",
+      "optionen": [
+        "Zum Ausgangsort zurückgehen",
+        "Schneller laufen",
+        "Die Augen schließen und warten",
+        "Das Licht ausschalten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Kontext weckt die Erinnerung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Solche Vergesslichkeit ist normal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie passiert fast jedem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach dem Durchgehen einer Tür vergisst man leichter.",
+        "Das Gehirn gliedert Erlebnisse in Szenen.",
+        "Zurückgehen hilft oft beim Erinnern.",
+        "Das Ziel vorher kurz laut sagen hilft."
+      ]
+    }
+  ]
+}

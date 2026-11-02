@@ -1,0 +1,124 @@
+{
+  "id": "ern-b037-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Muss der Körper entgiftet werden?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "detox",
+    "entgiften",
+    "saftkur"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Detox-Tees, Saftkuren und Entgiftungspflaster versprechen, den Körper von Schlacken zu befreien.",
+        "Brauchen wir das wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper entgiftet selbst",
+      "absaetze": [
+        "Leber und Nieren filtern und bauen Stoffe ab, die der Körper nicht braucht. Auch Darm, Lunge und Haut helfen beim Ausscheiden.",
+        "Bei gesunden Menschen arbeiten diese Organe ständig. Den Begriff Schlacken gibt es in der Medizin in diesem Sinn nicht."
+      ],
+      "merke": "Leber und Nieren entgiften den Körper ganz ohne Kur.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Detox-Produkte leisten",
+      "absaetze": [
+        "Für die meisten Detox-Produkte gibt es keine überzeugenden Belege. Eine Studie, die messbar zeigt, welche Gifte sie entfernen sollen, fehlt meist.",
+        "Reine Saftkuren liefern zudem wenig Eiweiß und viel Zucker. Manche Detox-Tees enthalten abführende Kräuter, die bei häufiger Anwendung schaden können."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was den Organen hilft",
+      "absaetze": [
+        "Wenig Alkohol, ausreichend Wasser, Gemüse, Vollkorn und Bewegung unterstützen Leber und Nieren am besten.",
+        "Wer sich nach einer Detox-Kur besser fühlt, hat oft einfach weniger Alkohol, Zucker und Fertigessen zu sich genommen. Das geht auch ohne teure Produkte."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Im Körper sammeln sich Schlacken, die man ausleiten muss.",
+      "urteil": "mythos",
+      "erklaerung": "Den Begriff Schlacken in diesem Sinn gibt es in der Medizin nicht. Leber und Nieren entgiften laufend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Organe entgiften den Körper vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Leber und Nieren",
+        "Haare und Nägel",
+        "Ohren und Augen",
+        "Knochen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Darm, Lunge und Haut helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten manche Detox-Tees?",
+      "art": "mc",
+      "optionen": [
+        "Abführende Kräuter",
+        "Antibiotika",
+        "Vitamin B12",
+        "Eisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Häufig angewendet können sie schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für die meisten Detox-Produkte gibt es überzeugende Belege.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Belege fehlen meist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Leber und Nieren entgiften laufend.",
+        "Schlacken im medizinischen Sinn gibt es nicht.",
+        "Detox-Produkte sind meist unbelegt.",
+        "Wenig Alkohol und ausgewogene Ernährung helfen den Organen."
+      ]
+    }
+  ]
+}

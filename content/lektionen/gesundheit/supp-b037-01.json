@@ -1,0 +1,126 @@
+{
+  "id": "supp-b037-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Arginin-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "arginin",
+    "aminosaeure",
+    "blutgefaesse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Arginin wird für bessere Durchblutung, mehr Leistung und ein gesundes Herz beworben.",
+        "Was weiß man über die Aminosäure?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Arginin ist",
+      "absaetze": [
+        "Arginin ist eine Aminosäure, also ein Baustein von Eiweiß. Der Körper kann sie selbst bilden.",
+        "Aus Arginin entsteht Stickstoffmonoxid, ein Stoff, der Blutgefäße weitet. Darauf beruhen die Werbeversprechen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Gesunde Menschen nehmen über eiweißreiche Lebensmittel wie Nüsse, Hülsenfrüchte, Fisch und Fleisch genug Arginin auf.",
+        "Für eine bessere Leistung oder einen Schutz des Herzens durch Präparate bei Gesunden gibt es keine überzeugenden Belege. Nur wenige kleine Studien deuten auf mögliche Effekte bei bestimmten Erkrankungen hin."
+      ],
+      "merke": "Für Gesunde sind Arginin-Präparate meist überflüssig.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Medikamenten",
+      "absaetze": [
+        "Arginin kann den Blutdruck senken und mit blutdrucksenkenden Mitteln oder Potenzmitteln zusammenwirken.",
+        "Wer Herz-Kreislauf-Medikamente nutzt, sollte Präparate nur nach ärztlicher Rücksprache verwenden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Einnahme von Blutdruck- oder Herzmedikamenten nur nach ärztlicher Rücksprache verwenden.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Arginin?",
+      "art": "mc",
+      "optionen": [
+        "Eine Aminosäure",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Hormon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper kann sie selbst bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff entsteht aus Arginin?",
+      "art": "mc",
+      "optionen": [
+        "Stickstoffmonoxid",
+        "Zucker",
+        "Koffein",
+        "Cholesterin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er weitet Blutgefäße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Arginin kann mit blutdrucksenkenden Mitteln zusammenwirken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb ärztlich nachfragen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Arginin ist eine Aminosäure, die der Körper selbst bildet.",
+        "Eiweißreiche Lebensmittel liefern genug davon.",
+        "Für Gesunde fehlen Belege für einen Nutzen.",
+        "Wechselwirkungen mit Herzmedikamenten sind möglich."
+      ]
+    }
+  ]
+}
