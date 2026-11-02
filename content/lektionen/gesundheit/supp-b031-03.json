@@ -1,0 +1,126 @@
+{
+  "id": "supp-b031-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bedeuten die Prozentangaben auf Vitaminpackungen?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pflanzenstoffe und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nrv",
+    "naehrstoffbezugswert",
+    "etikett"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Packung steht: 500 Prozent des Tagesbedarfs. Das klingt nach besonders viel Wirkung.",
+        "Was sagen solche Zahlen eigentlich aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Nährstoffbezugswert",
+      "absaetze": [
+        "Die Prozentangaben beziehen sich auf den Nährstoffbezugswert, abgekürzt NRV. Das ist ein in der EU festgelegter Referenzwert für die Kennzeichnung.",
+        "Er soll den Vergleich zwischen Produkten erleichtern. Er ist nicht dasselbe wie dein persönlicher Bedarf, der von Alter, Geschlecht und Lebenssituation abhängt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr ist nicht besser",
+      "absaetze": [
+        "Hohe Prozentwerte bedeuten nicht mehr Gesundheit. Überschüssige wasserlösliche Vitamine scheidet der Körper meist aus.",
+        "Fettlösliche Vitamine wie A und D sowie manche Mineralstoffe können sich anreichern und in hohen Mengen schaden. Das BfR hat Empfehlungen für Höchstmengen in Nahrungsergänzungsmitteln veröffentlicht."
+      ],
+      "merke": "Hohe Prozentwerte bedeuten nicht mehr Nutzen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Etikett lesen",
+      "absaetze": [
+        "Achte darauf, wie viele Tabletten eine Tagesportion sind. Rechne auch angereicherte Lebensmittel und andere Präparate mit ein.",
+        "Wer mehrere Produkte gleichzeitig nutzt, nimmt leicht mehr auf als gedacht. Im Zweifel hilft eine Beratung in der Apotheke oder Arztpraxis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Mehrere Präparate nicht ohne Beratung kombinieren.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf beziehen sich die Prozentangaben auf Vitaminpackungen?",
+      "art": "mc",
+      "optionen": [
+        "Auf den Nährstoffbezugswert",
+        "Auf den persönlichen Bedarf jedes Menschen",
+        "Auf den Preis",
+        "Auf die Haltbarkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der NRV ist ein Referenzwert für die Kennzeichnung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vitamine können sich im Körper anreichern?",
+      "art": "mc",
+      "optionen": [
+        "Fettlösliche wie A und D",
+        "Nur Vitamin C",
+        "Keine",
+        "Nur B-Vitamine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fettlösliche Vitamine werden gespeichert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "500 Prozent des Nährstoffbezugswerts bedeuten fünfmal so viel Gesundheit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Mehr ist nicht automatisch besser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Prozentangaben beziehen sich auf den Nährstoffbezugswert.",
+        "Er ist nicht dein persönlicher Bedarf.",
+        "Hohe Werte bedeuten nicht mehr Nutzen.",
+        "Mehrere Produkte zusammen können zu viel liefern."
+      ]
+    }
+  ]
+}

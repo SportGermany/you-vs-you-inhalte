@@ -1,0 +1,124 @@
+{
+  "id": "ern-b031-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Nachtschattengewächse schädlich?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pflanzenstoffe und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nachtschattengewaechse",
+    "solanin",
+    "kartoffeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tomaten, Kartoffeln, Paprika und Auberginen gehören zu den Nachtschattengewächsen.",
+        "Im Internet liest man, sie würden Entzündungen fördern. Stimmt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine große Pflanzenfamilie",
+      "absaetze": [
+        "Zur Familie der Nachtschattengewächse gehören viele Gemüse, aber auch giftige Pflanzen wie die Tollkirsche. Daher stammt ihr zweifelhafter Ruf.",
+        "Unsere Gemüsesorten sind über Jahrhunderte gezüchtet worden und als Nahrungsmittel gut verträglich."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was es mit Solanin auf sich hat",
+      "absaetze": [
+        "Kartoffeln enthalten den natürlichen Stoff Solanin. Er steckt vor allem in grünen Stellen, Keimen und in der Schale.",
+        "Grüne Stellen und Keime solltest du großzügig wegschneiden. Stark grüne Kartoffeln gehören nicht auf den Teller. Auch grüne, unreife Tomaten enthalten mehr davon."
+      ],
+      "merke": "Grüne Stellen und Keime bei Kartoffeln wegschneiden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Entzündungen?",
+      "absaetze": [
+        "Für die Behauptung, Nachtschattengewächse förderten bei gesunden Menschen Entzündungen oder Gelenkschmerzen, gibt es keine überzeugenden Belege.",
+        "Tomaten, Paprika und Co. liefern Vitamine, Ballaststoffe und sekundäre Pflanzenstoffe. Wer sie gut verträgt, hat keinen Grund, darauf zu verzichten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Tomaten und Paprika fördern Entzündungen im Körper.",
+      "urteil": "mythos",
+      "erklaerung": "Für gesunde Menschen gibt es dafür keine überzeugenden Belege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gemüse gehört zu den Nachtschattengewächsen?",
+      "art": "mc",
+      "optionen": [
+        "Tomaten",
+        "Karotten",
+        "Brokkoli",
+        "Spinat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Kartoffeln, Paprika und Auberginen gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steckt in Kartoffeln besonders viel Solanin?",
+      "art": "mc",
+      "optionen": [
+        "In grünen Stellen und Keimen",
+        "Im gelben Inneren",
+        "Im Kochwasser von Nudeln",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Stellen großzügig wegschneiden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Stark grüne Kartoffeln solltest du nicht essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie enthalten viel Solanin."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tomaten, Kartoffeln und Paprika sind Nachtschattengewächse.",
+        "Grüne Stellen und Keime bei Kartoffeln wegschneiden.",
+        "Entzündungsfördernde Wirkungen sind nicht belegt.",
+        "Wer sie verträgt, muss nicht verzichten."
+      ]
+    }
+  ]
+}

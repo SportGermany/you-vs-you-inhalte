@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b031-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum bist du direkt nach dem Aufwachen benommen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlaftraegheit",
+    "aufwachen",
+    "wecker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Wecker klingelt, und du brauchst eine Weile, bis du klar denken kannst.",
+        "Dieser Zustand hat einen Namen: Schlafträgheit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gehirn fährt langsam hoch",
+      "absaetze": [
+        "Nach dem Aufwachen arbeitet das Gehirn noch nicht mit voller Kraft. Reaktionszeit und Gedächtnis sind für eine Weile eingeschränkt.",
+        "Fachleute nennen das Schlafträgheit. Sie dauert meist einige Minuten, kann aber auch länger anhalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann sie besonders stark ist",
+      "absaetze": [
+        "Wer aus dem Tiefschlaf gerissen wird, fühlt sich besonders benommen. Auch nach Schlafmangel oder einem langen Mittagsschlaf ist die Trägheit stärker.",
+        "Deshalb wird für ein Nickerchen eine Dauer von höchstens etwa 20 Minuten empfohlen. Dann erreicht man den Tiefschlaf meist noch nicht."
+      ],
+      "merke": "Aus dem Tiefschlaf geweckt zu werden, verstärkt die Benommenheit.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Helles Licht nach dem Aufstehen, etwas Bewegung und ein Glas Wasser unterstützen das Wachwerden.",
+        "Wichtige Entscheidungen oder Autofahren direkt nach dem Aufwachen sind keine gute Idee. Regelmäßige Schlafzeiten machen das Aufwachen insgesamt leichter."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Benommenheit nach dem Aufwachen?",
+      "art": "mc",
+      "optionen": [
+        "Schlafträgheit",
+        "Schlafapnoe",
+        "Narkolepsie",
+        "Insomnie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn fährt langsam hoch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist die Benommenheit besonders stark?",
+      "art": "mc",
+      "optionen": [
+        "Nach dem Wecken aus dem Tiefschlaf",
+        "Nach acht Stunden ruhigem Schlaf",
+        "Nach einem 10-Minuten-Nickerchen",
+        "Nach dem Frühstück"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Schlafmangel verstärkt sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Helles Licht kann beim Wachwerden helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Licht signalisiert dem Körper den Tag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach dem Aufwachen ist das Gehirn kurz eingeschränkt.",
+        "Aus dem Tiefschlaf geweckt, ist man besonders benommen.",
+        "Kurze Nickerchen vermeiden den Tiefschlaf.",
+        "Licht, Bewegung und Wasser helfen beim Wachwerden."
+      ]
+    }
+  ]
+}

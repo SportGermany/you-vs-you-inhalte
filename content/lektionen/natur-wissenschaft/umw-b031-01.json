@@ -1,0 +1,114 @@
+{
+  "id": "umw-b031-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wann spricht man von einer Dürre?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dürremonitor Deutschland",
+      "herausgeber": "Helmholtz-Zentrum für Umweltforschung (UFZ)",
+      "url": "https://www.ufz.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Hitze und Dürre",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "duerre",
+    "trockenheit",
+    "boden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rissige Felder, trockene Flussbetten, braune Wiesen. In den letzten Jahren gab es auch in Deutschland mehrere Dürresommer.",
+        "Doch was genau ist eine Dürre?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als ein trockener Sommer",
+      "absaetze": [
+        "Eine Dürre ist eine längere Phase, in der deutlich weniger Wasser verfügbar ist als üblich. Fachleute unterscheiden mehrere Arten.",
+        "Bei einer meteorologischen Dürre fällt zu wenig Regen. Bei einer landwirtschaftlichen Dürre fehlt den Pflanzen Wasser im Boden. Bei einer hydrologischen Dürre sinken Flüsse, Seen und Grundwasser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Dürremonitor",
+      "absaetze": [
+        "Das Helmholtz-Zentrum für Umweltforschung veröffentlicht den Dürremonitor Deutschland. Er zeigt auf Karten, wie trocken der Boden in verschiedenen Tiefen ist.",
+        "In den Jahren 2018 bis 2020 waren auch tiefere Bodenschichten in weiten Teilen Deutschlands sehr trocken. Wälder und Landwirtschaft litten stark darunter."
+      ],
+      "merke": "Der Dürremonitor zeigt die Trockenheit im Boden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Dürren häufiger werden",
+      "absaetze": [
+        "Mit dem Klimawandel steigen die Temperaturen. Dadurch verdunstet mehr Wasser, und Böden trocknen schneller aus.",
+        "Gegenmaßnahmen sind etwa Wasser in der Landschaft zu halten, Moore wiederzuvernässen und Flächen zu entsiegeln. Auch sparsamer Umgang mit Wasser hilft in Trockenzeiten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fehlt bei einer landwirtschaftlichen Dürre?",
+      "art": "mc",
+      "optionen": [
+        "Wasser im Boden für die Pflanzen",
+        "Sonnenlicht",
+        "Dünger",
+        "Wind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflanzen leiden unter Wassermangel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer veröffentlicht den Dürremonitor Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "Das Helmholtz-Zentrum für Umweltforschung",
+        "Die Bundesbank",
+        "Die Polizei",
+        "Der Bundestag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er zeigt die Bodentrockenheit auf Karten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit dem Klimawandel trocknen Böden schneller aus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Höhere Temperaturen erhöhen die Verdunstung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Dürre ist eine lange Phase mit zu wenig Wasser.",
+        "Fachleute unterscheiden meteorologische, landwirtschaftliche und hydrologische Dürre.",
+        "Der Dürremonitor zeigt die Bodentrockenheit.",
+        "Der Klimawandel macht Dürren wahrscheinlicher."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "all-b031-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist der Kuipergürtel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kuiper Belt",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuiperguertel",
+    "pluto",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jenseits von Neptun ist das Sonnensystem nicht leer.",
+        "Dort kreisen unzählige eisige Körper in einer riesigen Zone."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Zone aus Eis",
+      "absaetze": [
+        "Der Kuipergürtel ist eine ringförmige Region jenseits der Bahn des Neptun. Er ist nach dem Astronomen Gerard Kuiper benannt.",
+        "Dort kreisen viele Körper aus Eis und Gestein um die Sonne. Sie sind Überreste aus der Entstehungszeit des Sonnensystems."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pluto und seine Nachbarn",
+      "absaetze": [
+        "Der bekannteste Bewohner des Kuipergürtels ist Pluto. Er gilt seit 2006 als Zwergplanet.",
+        "2015 flog die NASA-Sonde New Horizons an Pluto vorbei und lieferte erstmals scharfe Bilder. Später besuchte sie ein weiteres, noch weiter entferntes Objekt im Kuipergürtel."
+      ],
+      "merke": "Pluto ist der bekannteste Körper im Kuipergürtel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Herkunft mancher Kometen",
+      "absaetze": [
+        "Aus dem Kuipergürtel stammen vermutlich viele Kometen mit kurzen Umlaufzeiten. Werden sie aus ihrer Bahn gelenkt, können sie ins innere Sonnensystem gelangen.",
+        "Noch weiter draußen vermuten Astronomen die Oortsche Wolke. Sie gilt als Ursprung von Kometen mit sehr langen Umlaufzeiten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt der Kuipergürtel?",
+      "art": "mc",
+      "optionen": [
+        "Jenseits der Bahn des Neptun",
+        "Zwischen Erde und Mars",
+        "In der Sonne",
+        "Rund um den Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er liegt am Rand des Planetensystems."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Zwergplanet gehört zum Kuipergürtel?",
+      "art": "mc",
+      "optionen": [
+        "Pluto",
+        "Mars",
+        "Venus",
+        "Merkur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pluto ist sein bekanntester Bewohner."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Sonde New Horizons flog 2015 an Pluto vorbei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie lieferte erstmals scharfe Bilder."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Kuipergürtel liegt jenseits des Neptun.",
+        "Dort kreisen eisige Körper aus der Frühzeit des Sonnensystems.",
+        "Pluto ist sein bekanntester Bewohner.",
+        "Viele kurzperiodische Kometen stammen von dort."
+      ]
+    }
+  ]
+}

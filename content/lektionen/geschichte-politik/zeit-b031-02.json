@@ -1,0 +1,114 @@
+{
+  "id": "zeit-b031-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was war die Eurokrise?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Die EZB und die Eurokrise",
+      "herausgeber": "Europäische Zentralbank",
+      "url": "https://www.ecb.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "eurokrise",
+    "griechenland",
+    "staatsschulden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ab 2010 stand die gemeinsame Währung Europas unter Druck. Manche fürchteten sogar das Ende des Euro.",
+        "Was war geschehen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schuldenprobleme",
+      "absaetze": [
+        "Nach der weltweiten Finanzkrise 2008 stiegen in vielen Ländern die Staatsschulden stark. Besonders Griechenland hatte jahrelang mehr Schulden gemacht als offiziell angegeben.",
+        "Als das bekannt wurde, verloren Anleger das Vertrauen. Die Zinsen für griechische Staatsanleihen stiegen so stark, dass sich das Land kaum noch Geld leihen konnte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rettungsschirme",
+      "absaetze": [
+        "Die Euro-Staaten und der Internationale Währungsfonds gewährten Griechenland und weiteren Ländern wie Irland und Portugal Kredite. Dafür wurde ein dauerhafter Rettungsschirm geschaffen, der Europäische Stabilitätsmechanismus.",
+        "Im Gegenzug mussten die Länder sparen und Reformen umsetzen. Das führte zu hoher Arbeitslosigkeit und heftigen Protesten."
+      ],
+      "merke": "Hilfskredite waren an harte Sparauflagen gebunden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Rolle der EZB",
+      "absaetze": [
+        "2012 erklärte EZB-Präsident Mario Draghi, die Zentralbank werde alles Nötige tun, um den Euro zu erhalten. Danach beruhigten sich die Märkte deutlich.",
+        "Die Krise zeigte, dass eine gemeinsame Währung auch gemeinsame Regeln und Notfallinstrumente braucht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land stand im Mittelpunkt der Eurokrise?",
+      "art": "mc",
+      "optionen": [
+        "Griechenland",
+        "Deutschland",
+        "Finnland",
+        "Luxemburg"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seine Schulden waren höher als angegeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sagte 2012, die EZB werde alles Nötige tun?",
+      "art": "mc",
+      "optionen": [
+        "Mario Draghi",
+        "Angela Merkel",
+        "Christine Lagarde",
+        "Jean-Claude Juncker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach beruhigten sich die Märkte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Hilfskredite waren an Spar- und Reformauflagen gebunden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das führte zu Protesten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach 2008 stiegen in vielen Ländern die Staatsschulden.",
+        "Griechenland verlor das Vertrauen der Anleger.",
+        "Rettungsschirme halfen gegen harte Auflagen.",
+        "Draghis Zusage 2012 beruhigte die Märkte."
+      ]
+    }
+  ]
+}

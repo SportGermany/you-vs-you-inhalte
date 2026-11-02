@@ -1,0 +1,108 @@
+{
+  "id": "geo-b031-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Warum ist Taiwan für Computerchips so wichtig?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Länder und Regionen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "taiwan",
+    "halbleiter",
+    "lieferketten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob Smartphone, Auto oder Waschmaschine: Fast jedes Gerät braucht Computerchips.",
+        "Ein großer Teil der modernsten Chips stammt von einer Insel in Ostasien."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Zentrum der Chipfertigung",
+      "absaetze": [
+        "Taiwan ist einer der wichtigsten Standorte für die Herstellung von Halbleitern, also Computerchips. Besonders bei den modernsten und kleinsten Chips ist die Insel führend.",
+        "Viele große Technologiekonzerne lassen ihre Chips dort fertigen. Die Produktion ist extrem aufwendig und braucht spezialisiertes Wissen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Risiko für Lieferketten",
+      "absaetze": [
+        "Die Abhängigkeit von wenigen Standorten macht die Weltwirtschaft verwundbar. Das zeigte sich während der Corona-Pandemie, als Chips knapp wurden und Autofabriken stillstanden.",
+        "Hinzu kommen die politischen Spannungen zwischen China und Taiwan. Ein Konflikt in der Region hätte weltweite wirtschaftliche Folgen."
+      ],
+      "merke": "Die Konzentration der Chipfertigung macht die Weltwirtschaft verwundbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neue Fabriken",
+      "absaetze": [
+        "Die USA, Europa und Japan fördern deshalb den Bau neuer Chipfabriken im eigenen Land. Die EU hat dafür ein eigenes Chip-Gesetz beschlossen.",
+        "Auch in Deutschland sind Fabriken geplant oder entstanden. Der Aufbau braucht aber Jahre und sehr viel Geld."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worin ist Taiwan besonders führend?",
+      "art": "mc",
+      "optionen": [
+        "Bei der Fertigung moderner Computerchips",
+        "Beim Ölexport",
+        "Beim Weizenanbau",
+        "Beim Autobau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders bei den modernsten Chips."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte sich während der Corona-Pandemie?",
+      "art": "mc",
+      "optionen": [
+        "Chips wurden knapp und Fabriken standen still",
+        "Chips wurden plötzlich überflüssig",
+        "Taiwan stellte die Produktion ein",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Abhängigkeit wurde sichtbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die EU hat ein eigenes Gesetz zur Förderung der Chipproduktion beschlossen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ziel ist mehr Fertigung in Europa."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Taiwan ist führend bei modernen Computerchips.",
+        "Die Abhängigkeit macht die Weltwirtschaft verwundbar.",
+        "Politische Spannungen erhöhen das Risiko.",
+        "USA, Europa und Japan fördern eigene Fabriken."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b031-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du besser bei Hitze?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hitze und Dürre",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hitze",
+    "tropennacht",
+    "schlafzimmer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn es nachts nicht unter 20 Grad abkühlt, spricht man von einer Tropennacht.",
+        "Viele wälzen sich dann stundenlang im Bett."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Hitze stört",
+      "absaetze": [
+        "Zum Einschlafen muss die Körpertemperatur leicht sinken. Bei Hitze fällt es dem Körper schwer, Wärme abzugeben.",
+        "Studien deuten darauf hin, dass Menschen in heißen Nächten kürzer und unruhiger schlafen. Mit dem Klimawandel werden solche Nächte häufiger."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Schlafzimmer kühl halten",
+      "absaetze": [
+        "Halte tagsüber Fenster und Rollläden geschlossen, wenn es draußen heißer ist als drinnen. Lüfte in den frühen Morgenstunden oder spät abends.",
+        "Ein Ventilator kann helfen, wenn er die Luft bewegt. Ein feuchtes Tuch vor dem Ventilator kühlt zusätzlich ein wenig."
+      ],
+      "merke": "Tagsüber abdunkeln, nachts lüften.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Den Körper unterstützen",
+      "absaetze": [
+        "Eine lauwarme Dusche vor dem Schlafen hilft, Wärme abzugeben. Eiskalt ist weniger geeignet, weil der Körper danach gegensteuert.",
+        "Leichte Bettwäsche aus Baumwolle oder Leinen ist angenehm. Trink über den Tag verteilt genug. Ältere Menschen und Kleinkinder sind bei Hitze besonders gefährdet."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Tropennacht?",
+      "art": "mc",
+      "optionen": [
+        "Eine Nacht, in der es nicht unter 20 Grad abkühlt",
+        "Eine Nacht ohne Mond",
+        "Eine Nacht mit Gewitter",
+        "Eine besonders lange Nacht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Solche Nächte werden häufiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du bei Hitze lüften?",
+      "art": "mc",
+      "optionen": [
+        "Früh morgens oder spät abends",
+        "Mittags",
+        "Nachmittags in der größten Hitze",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist die Luft draußen kühler."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine lauwarme Dusche vor dem Schlafen kann helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie hilft dem Körper, Wärme abzugeben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hitze erschwert die Wärmeabgabe des Körpers.",
+        "Tagsüber abdunkeln, nachts lüften.",
+        "Lauwarm duschen und leichte Bettwäsche helfen.",
+        "Ältere und Kleinkinder sind besonders gefährdet."
+      ]
+    }
+  ]
+}

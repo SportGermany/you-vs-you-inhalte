@@ -1,0 +1,113 @@
+{
+  "id": "stoff-b031-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert beim Sport mit dem Blutzucker?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes und Bewegung",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bewegung",
+    "blutzucker",
+    "muskeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Spaziergang nach dem Essen, eine Runde Radfahren am Abend.",
+        "Bewegung wirkt direkt auf den Blutzucker."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Muskeln als Zuckerverbraucher",
+      "absaetze": [
+        "Arbeitende Muskeln brauchen Energie. Sie nehmen dafür Zucker aus dem Blut auf.",
+        "Das Besondere: Bei Bewegung können Muskeln Zucker auch ohne viel Insulin aufnehmen. Deshalb sinkt der Blutzucker oft schon während der Aktivität."
+      ],
+      "merke": "Arbeitende Muskeln holen sich Zucker aus dem Blut.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wirkung über den Tag hinaus",
+      "absaetze": [
+        "Nach dem Sport bleiben die Muskeln für einige Zeit empfindlicher für Insulin. Der Körper kommt dann mit weniger Insulin aus.",
+        "Regelmäßige Bewegung verbessert die Insulinwirkung dauerhaft. Das ist einer der Gründe, warum Bewegung Typ-2-Diabetes vorbeugt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Einheiten zählen",
+      "absaetze": [
+        "Schon ein kurzer Spaziergang nach dem Essen kann den Blutzuckeranstieg dämpfen. Auch Treppensteigen oder Gartenarbeit zählen.",
+        "Wer Diabetes hat und Insulin oder bestimmte Tabletten nutzt, sollte den Blutzucker bei Sport im Blick behalten. Dann kann es zu Unterzuckerungen kommen. Die ärztliche Praxis berät dazu."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was nehmen arbeitende Muskeln aus dem Blut auf?",
+      "art": "mc",
+      "optionen": [
+        "Zucker",
+        "Salz",
+        "Wasser allein",
+        "Cholesterin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie brauchen Energie für die Arbeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert nach dem Sport mit der Insulinwirkung?",
+      "art": "mc",
+      "optionen": [
+        "Muskeln reagieren eine Zeit lang empfindlicher auf Insulin",
+        "Insulin wirkt gar nicht mehr",
+        "Der Körper bildet kein Insulin",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper kommt mit weniger Insulin aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schon ein kurzer Spaziergang nach dem Essen kann den Blutzuckeranstieg dämpfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch kleine Einheiten zählen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Arbeitende Muskeln nehmen Zucker aus dem Blut auf.",
+        "Nach dem Sport wirkt Insulin besser.",
+        "Regelmäßige Bewegung beugt Typ-2-Diabetes vor.",
+        "Bei Diabetesmedikamenten auf Unterzuckerung achten.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
