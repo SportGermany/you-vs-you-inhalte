@@ -1,0 +1,108 @@
+{
+  "id": "vers-b035-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Makler oder Vertreter, wer berät dich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "versicherungsmakler",
+    "vertreter",
+    "beratung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer eine Versicherung abschließen will, trifft oft auf Vermittler. Doch nicht alle arbeiten gleich.",
+        "Der Unterschied zwischen Vertreter und Makler ist wichtig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Versicherungsvertreter",
+      "absaetze": [
+        "Ein Vertreter arbeitet im Auftrag einer oder weniger Versicherungsgesellschaften. Er verkauft vor allem deren Produkte.",
+        "Bezahlt wird er meist über Provisionen. Er bekommt also Geld, wenn du einen Vertrag abschließt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Versicherungsmakler",
+      "absaetze": [
+        "Ein Makler arbeitet rechtlich im Auftrag der Kundin oder des Kunden. Er soll aus vielen Angeboten am Markt ein passendes auswählen.",
+        "Auch Makler erhalten meist eine Provision von der Versicherung. Sie haften aber für Fehler in der Beratung."
+      ],
+      "merke": "Ein Makler soll den Markt im Auftrag der Kunden vergleichen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unabhängige Alternativen",
+      "absaetze": [
+        "Versicherungsberater und Verbraucherzentralen beraten gegen ein Honorar, ohne Provision. Dadurch fällt der Anreiz weg, möglichst viel zu verkaufen.",
+        "Egal, wer berät: Frag nach, wie die Person bezahlt wird. Lass dir die Beratung schriftlich dokumentieren und unterschreibe nichts übereilt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In wessen Auftrag arbeitet ein Versicherungsvertreter?",
+      "art": "mc",
+      "optionen": [
+        "Im Auftrag einer oder weniger Versicherungen",
+        "Im Auftrag der Kunden",
+        "Im Auftrag des Staates",
+        "Ohne Auftrag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verkauft vor allem deren Produkte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden Honorarberater bezahlt?",
+      "art": "mc",
+      "optionen": [
+        "Durch ein Honorar ohne Provision",
+        "Nur durch Provisionen",
+        "Gar nicht",
+        "Durch den Staat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch fällt der Verkaufsanreiz weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist sinnvoll zu fragen, wie ein Berater bezahlt wird.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das zeigt mögliche Interessenkonflikte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vertreter arbeiten für eine oder wenige Versicherungen.",
+        "Makler arbeiten im Auftrag der Kunden.",
+        "Beide erhalten meist Provisionen.",
+        "Honorarberatung kommt ohne Provision aus."
+      ]
+    }
+  ]
+}

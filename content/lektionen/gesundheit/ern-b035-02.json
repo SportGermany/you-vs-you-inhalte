@@ -1,0 +1,112 @@
+{
+  "id": "ern-b035-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Haferdrinks und Co. ein guter Milchersatz?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pflanzendrinks",
+    "hafer",
+    "calcium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hafer, Soja, Mandel oder Erbse: Im Kühlregal stehen immer mehr Pflanzendrinks.",
+        "Können sie Kuhmilch ersetzen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Milch auf dem Etikett",
+      "absaetze": [
+        "Pflanzendrinks dürfen in der EU nicht Milch heißen. Dieser Begriff ist für Produkte von Tieren geschützt. Deshalb steht auf der Packung Drink.",
+        "Sie werden aus Getreide, Hülsenfrüchten oder Nüssen und Wasser hergestellt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschiedliche Nährwerte",
+      "absaetze": [
+        "Sojadrinks liefern ähnlich viel Eiweiß wie Kuhmilch. Hafer- und Mandeldrinks enthalten dagegen deutlich weniger Eiweiß.",
+        "Von Natur aus enthalten Pflanzendrinks kaum Calcium. Viele Produkte sind deshalb mit Calcium angereichert. Bio-Produkte dürfen in der EU nicht mit isolierten Mineralstoffen angereichert werden, manche nutzen stattdessen Algenkalk."
+      ],
+      "merke": "Auf zugesetztes Calcium und den Eiweißgehalt achten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen sie passen",
+      "absaetze": [
+        "Für Menschen mit Laktoseintoleranz, Milcheiweißallergie oder veganer Ernährung sind Pflanzendrinks eine gute Alternative. Ungesüßte Varianten sind meist die bessere Wahl.",
+        "Für Säuglinge sind sie kein Ersatz für Muttermilch oder Säuglingsnahrung. Bei Kleinkindern sollte die Auswahl mit dem Kinderarzt abgestimmt werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum heißen Pflanzendrinks nicht Milch?",
+      "art": "mc",
+      "optionen": [
+        "Der Begriff ist für tierische Produkte geschützt",
+        "Sie sind nicht weiß",
+        "Sie enthalten Alkohol",
+        "Das ist Zufall"
+      ],
+      "richtig": 0,
+      "erklaerung": "In der EU ist Milch geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Pflanzendrink liefert ähnlich viel Eiweiß wie Kuhmilch?",
+      "art": "mc",
+      "optionen": [
+        "Sojadrink",
+        "Mandeldrink",
+        "Reisdrink",
+        "Kokosdrink"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hafer- und Mandeldrinks enthalten weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pflanzendrinks sind ein geeigneter Ersatz für Säuglingsnahrung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Für Säuglinge sind sie nicht geeignet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflanzendrinks dürfen nicht Milch heißen.",
+        "Sojadrink liefert ähnlich viel Eiweiß wie Kuhmilch.",
+        "Auf zugesetztes Calcium achten.",
+        "Für Säuglinge sind sie kein Ersatz."
+      ]
+    }
+  ]
+}

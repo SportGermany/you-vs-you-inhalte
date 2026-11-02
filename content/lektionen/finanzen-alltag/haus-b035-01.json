@@ -1,0 +1,114 @@
+{
+  "id": "haus-b035-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Spart die Spülmaschine Wasser?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spuelmaschine",
+    "abwasch",
+    "wasser"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Von Hand spülen oder die Maschine einschalten? Viele glauben, das Spülen von Hand sei sparsamer.",
+        "Meist ist es umgekehrt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Maschine liegt vorn",
+      "absaetze": [
+        "Moderne Spülmaschinen brauchen für eine volle Ladung oft weniger Wasser als Spülen von Hand unter fließendem Wasser.",
+        "Auch beim Energieverbrauch schneiden sie meist gut ab, vor allem im Eco-Programm."
+      ],
+      "merke": "Eine voll beladene, moderne Spülmaschine spart meist Wasser."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Eco-Programm",
+      "absaetze": [
+        "Das Eco-Programm dauert länger als andere Programme. Trotzdem braucht es weniger Energie, weil es mit niedrigeren Temperaturen arbeitet und das Geschirr länger einweicht.",
+        "Starte die Maschine nur, wenn sie voll ist. Vorspülen unter fließendem Wasser ist bei modernen Geräten meist nicht nötig, grobe Reste kannst du abkratzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn von Hand",
+      "absaetze": [
+        "Wer von Hand spült, sollte das Wasser nicht laufen lassen. Ein Becken mit Spülwasser und eines zum Klarspülen sparen viel.",
+        "Spüle in der Reihenfolge Gläser, Besteck, Teller und zum Schluss Töpfe. So bleibt das Wasser länger sauber."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was spart meist mehr Wasser?",
+      "art": "mc",
+      "optionen": [
+        "Eine voll beladene, moderne Spülmaschine",
+        "Spülen von Hand unter fließendem Wasser",
+        "Beides gleich",
+        "Spülen mit heißem Wasser aus dem Wasserkocher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Maschine ist effizienter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum braucht das Eco-Programm trotz längerer Dauer weniger Energie?",
+      "art": "mc",
+      "optionen": [
+        "Es arbeitet mit niedrigeren Temperaturen",
+        "Es benutzt kein Wasser",
+        "Es heizt besonders stark",
+        "Es läuft ohne Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Längeres Einweichen ersetzt Hitze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vorspülen unter fließendem Wasser ist bei modernen Spülmaschinen meist nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Grobe Reste abkratzen genügt meist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Moderne Spülmaschinen sparen meist Wasser.",
+        "Das Eco-Programm spart Energie trotz längerer Dauer.",
+        "Nur voll beladen starten, nicht vorspülen.",
+        "Beim Handspülen das Wasser nicht laufen lassen."
+      ]
+    }
+  ]
+}

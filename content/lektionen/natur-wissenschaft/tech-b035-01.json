@@ -1,0 +1,108 @@
+{
+  "id": "tech-b035-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert Internet über Satellit?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Satellitengestützter Internetzugang",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "satelliteninternet",
+    "funk",
+    "laendlicher-raum"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In abgelegenen Gegenden gibt es oft kein schnelles Kabelinternet.",
+        "Eine Lösung kommt aus dem All."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Signale aus dem Orbit",
+      "absaetze": [
+        "Beim Satelliteninternet sendet eine Antenne am Haus Daten zu einem Satelliten. Der leitet sie zu einer Bodenstation weiter, die mit dem Internet verbunden ist.",
+        "Die Antwort nimmt denselben Weg zurück. So funktioniert Internet auch dort, wo keine Kabel liegen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hoch oder niedrig",
+      "absaetze": [
+        "Ältere Systeme nutzen Satelliten in etwa 36.000 Kilometern Höhe. Weil die Signale so weit reisen, gibt es eine spürbare Verzögerung, etwa bei Videotelefonaten.",
+        "Neuere Systeme setzen auf Tausende Satelliten in wenigen Hundert Kilometern Höhe. Die Verzögerung ist dadurch viel kleiner."
+      ],
+      "merke": "Niedrig fliegende Satelliten verringern die Verzögerung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile und Probleme",
+      "absaetze": [
+        "Satelliteninternet kann Lücken in ländlichen Regionen, auf Schiffen oder in Krisengebieten schließen.",
+        "Kritiker warnen vor zu viel Weltraumschrott und vor Lichtspuren, die astronomische Beobachtungen stören. Auch die Abhängigkeit von wenigen Anbietern wird diskutiert."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin sendet die Antenne am Haus beim Satelliteninternet?",
+      "art": "mc",
+      "optionen": [
+        "Zu einem Satelliten",
+        "Zu einem Mobilfunkmast",
+        "Direkt zum Nachbarn",
+        "Zum Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Satellit leitet die Daten zur Bodenstation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum haben ältere Systeme eine spürbare Verzögerung?",
+      "art": "mc",
+      "optionen": [
+        "Die Satelliten fliegen sehr hoch",
+        "Die Kabel sind zu kurz",
+        "Es regnet oft",
+        "Die Antennen sind zu klein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Signale reisen sehr weit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele niedrig fliegende Satelliten können astronomische Beobachtungen stören.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ihre Lichtspuren sind ein Problem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Satelliteninternet funktioniert ohne Kabel.",
+        "Hoch fliegende Satelliten verursachen Verzögerungen.",
+        "Niedrige Satelliten verringern die Verzögerung.",
+        "Weltraumschrott und Lichtspuren sind Kritikpunkte."
+      ]
+    }
+  ]
+}

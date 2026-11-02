@@ -1,0 +1,114 @@
+{
+  "id": "all-b035-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist die Venus so heiß?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Venus",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Venus",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "venus",
+    "treibhauseffekt",
+    "planeten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Venus ist fast so groß wie die Erde und wird oft ihre Schwester genannt.",
+        "Doch auf ihrer Oberfläche ist es heißer als in einem Pizzaofen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der heißeste Planet",
+      "absaetze": [
+        "Auf der Venus herrschen Temperaturen von rund 460 Grad Celsius. Das ist heiß genug, um Blei zu schmelzen.",
+        "Damit ist die Venus heißer als der Merkur, obwohl der Merkur näher an der Sonne liegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein extremer Treibhauseffekt",
+      "absaetze": [
+        "Die Atmosphäre der Venus besteht fast nur aus Kohlendioxid und ist extrem dicht. Der Druck am Boden ist etwa 90-mal so hoch wie auf der Erde.",
+        "Diese Atmosphäre hält die Wärme fest. Es ist ein außer Kontrolle geratener Treibhauseffekt. Dazu kommen Wolken aus Schwefelsäure."
+      ],
+      "merke": "Eine dichte Kohlendioxid-Atmosphäre heizt die Venus extrem auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wir lernen können",
+      "absaetze": [
+        "Forschende untersuchen die Venus, um zu verstehen, wie sich Planeten und ihr Klima entwickeln. Vielleicht hatte sie früher sogar Wasser.",
+        "Mehrere neue Raumsonden zur Venus sind geplant. Am Morgen- oder Abendhimmel ist sie nach dem Mond das hellste Objekt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heiß ist es auf der Venus ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Rund 460 Grad Celsius",
+        "Etwa 20 Grad",
+        "Minus 100 Grad",
+        "Etwa 1000 Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Heiß genug, um Blei zu schmelzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht die Venusatmosphäre fast nur?",
+      "art": "mc",
+      "optionen": [
+        "Kohlendioxid",
+        "Sauerstoff",
+        "Wasserdampf",
+        "Helium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist extrem dicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Venus ist heißer als der Merkur, obwohl sie weiter von der Sonne entfernt ist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ihr Treibhauseffekt macht den Unterschied."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Venus ist der heißeste Planet im Sonnensystem.",
+        "Ihre dichte Kohlendioxid-Atmosphäre hält die Wärme fest.",
+        "Der Druck am Boden ist etwa 90-mal so hoch wie auf der Erde.",
+        "Sie hilft, Klimaentwicklung zu verstehen."
+      ]
+    }
+  ]
+}

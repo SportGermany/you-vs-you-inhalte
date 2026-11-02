@@ -1,0 +1,118 @@
+{
+  "id": "ern-b035-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Fleischersatzprodukte gesund?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fleischersatz",
+    "vegan",
+    "verarbeitung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Veggie-Burger, Erbsenprotein-Nuggets, vegane Wurst: Das Angebot an Fleischersatz wächst rasant.",
+        "Sind diese Produkte automatisch gesünder als Fleisch?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus Pflanzen, aber verarbeitet",
+      "absaetze": [
+        "Fleischersatzprodukte bestehen meist aus Soja, Erbsen, Weizen oder Pilzeiweiß. Damit sie wie Fleisch schmecken und aussehen, werden sie stark verarbeitet.",
+        "Oft enthalten sie Salz, Fett, Aromen und Zusatzstoffe. Die Zusammensetzung unterscheidet sich je nach Produkt stark."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Untersuchungen zeigen",
+      "absaetze": [
+        "Untersuchungen von Verbraucherzentralen fanden in manchen Produkten viel Salz. Andere lieferten reichlich Eiweiß und wenig gesättigte Fettsäuren.",
+        "Im Vergleich zu Wurst und verarbeitetem Fleisch schneiden viele Ersatzprodukte bei gesättigten Fettsäuren besser ab. Studien zu langfristigen gesundheitlichen Effekten sind aber noch rar."
+      ],
+      "merke": "Ein Blick auf Nährwerte und Zutatenliste lohnt sich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine gute Grundlage",
+      "absaetze": [
+        "Unverarbeitete pflanzliche Eiweißquellen wie Linsen, Bohnen, Kichererbsen, Tofu und Nüsse sind meist die bessere Wahl. Sie liefern zusätzlich Ballaststoffe.",
+        "Fleischersatz kann den Umstieg erleichtern und ist für viele ein praktischer Baustein. Als täglicher Hauptbestandteil ist er weniger geeignet."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen Fleischersatzprodukte meist?",
+      "art": "mc",
+      "optionen": [
+        "Aus Soja, Erbsen, Weizen oder Pilzeiweiß",
+        "Aus Zucker",
+        "Aus Fischmehl",
+        "Aus Kartoffeln allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden stark verarbeitet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fanden Verbraucherzentralen in manchen Produkten?",
+      "art": "mc",
+      "optionen": [
+        "Viel Salz",
+        "Gar kein Eiweiß",
+        "Nur Wasser",
+        "Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Zusammensetzung schwankt stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Linsen und Bohnen sind meist die bessere Eiweißquelle als stark verarbeiteter Ersatz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie liefern zusätzlich Ballaststoffe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fleischersatz ist meist stark verarbeitet.",
+        "Manche Produkte enthalten viel Salz.",
+        "Gegenüber Wurst schneiden viele bei Fett besser ab.",
+        "Hülsenfrüchte und Tofu sind oft die bessere Wahl."
+      ]
+    }
+  ]
+}

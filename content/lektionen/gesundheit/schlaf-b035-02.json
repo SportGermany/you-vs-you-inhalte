@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b035-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft Musik beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "musik",
+    "einschlafen",
+    "entspannung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche schlafen nur mit leiser Musik ein. Andere brauchen absolute Stille.",
+        "Kann Musik wirklich beim Schlafen helfen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Eine Auswertung mehrerer Studien deutet darauf hin, dass ruhige Musik vor dem Schlafen die empfundene Schlafqualität bei Menschen mit Schlafproblemen verbessern kann.",
+        "Die Studien waren aber oft klein. Wie genau Musik wirkt, ist noch nicht vollständig geklärt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Welche Musik passt",
+      "absaetze": [
+        "Hilfreich scheint ruhige Musik mit langsamem Tempo, ohne starke Schwankungen in der Lautstärke. Viele nutzen Instrumentalmusik.",
+        "Wichtig ist, dass dir die Musik gefällt und dich nicht aufwühlt. Lieblingslieder, zu denen man gern mitsingt, können eher wach halten."
+      ],
+      "merke": "Ruhige Musik mit langsamem Tempo kann beim Abschalten helfen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Praktische Tipps",
+      "absaetze": [
+        "Stell einen Timer ein, damit die Musik nach einiger Zeit ausgeht. Achte auf eine leise Lautstärke.",
+        "Kopfhörer im Bett können drücken und die Ohren belasten. Ein Lautsprecher in der Nähe ist oft angenehmer."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deutet eine Auswertung von Studien an?",
+      "art": "mc",
+      "optionen": [
+        "Ruhige Musik kann die empfundene Schlafqualität verbessern",
+        "Musik verhindert den Schlaf immer",
+        "Nur laute Musik hilft",
+        "Musik hat nie einen Einfluss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien waren oft klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Musik scheint beim Einschlafen hilfreich?",
+      "art": "mc",
+      "optionen": [
+        "Ruhige Musik mit langsamem Tempo",
+        "Laute Partymusik",
+        "Wechselnde Lautstärke",
+        "Musik mit vielen Überraschungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sollte nicht aufwühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Timer kann die Musik nach einiger Zeit automatisch ausschalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So läuft sie nicht die ganze Nacht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ruhige Musik kann die Schlafqualität verbessern.",
+        "Langsames Tempo und gleichmäßige Lautstärke helfen.",
+        "Die Musik sollte dir gefallen, aber nicht aufwühlen.",
+        "Timer und leise Lautstärke nutzen."
+      ]
+    }
+  ]
+}

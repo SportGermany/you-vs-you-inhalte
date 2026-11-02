@@ -1,0 +1,120 @@
+{
+  "id": "supp-b035-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Ist Aloe-vera-Saft gesund?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Pflanzenstoffe",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "aloe-vera",
+    "saft",
+    "abfuehrend"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Aloe-vera-Saft wird als Gesundheitsgetränk für Verdauung und Immunsystem beworben.",
+        "Was weiß man über ihn?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gel und Blattsaft",
+      "absaetze": [
+        "Die Aloe-vera-Pflanze hat dicke Blätter. Innen befindet sich ein klares Gel, in der Blatthaut ein gelblicher Saft.",
+        "Dieser gelbliche Saft enthält Stoffe namens Hydroxyanthracene. Sie wirken stark abführend."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnung vor bestimmten Stoffen",
+      "absaetze": [
+        "Die EU hat 2021 die Verwendung bestimmter Hydroxyanthracene in Lebensmitteln verboten. Grund waren Bedenken, dass sie das Erbgut schädigen und möglicherweise Krebs fördern könnten.",
+        "Aloe-vera-Produkte als Lebensmittel müssen daher weitgehend frei von diesen Stoffen sein. Das BfR rät, bei Produkten auf seriöse Herkunft zu achten."
+      ],
+      "merke": "Bestimmte Stoffe aus der Aloe-Blatthaut sind in Lebensmitteln verboten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was bleibt",
+      "absaetze": [
+        "Für gesundheitliche Wirkungen von Aloe-vera-Getränken bei gesunden Menschen gibt es keine überzeugenden Belege. Auf der Haut wird das Gel bei leichten Reizungen genutzt.",
+        "Bei Verdauungsproblemen ist ärztlicher Rat besser als ein Gesundheitsgetränk."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll.",
+        "Bei Schwangerschaft und Darmerkrankungen vorher ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Stoffe aus der Aloe-Blatthaut wirken stark abführend?",
+      "art": "mc",
+      "optionen": [
+        "Hydroxyanthracene",
+        "Vitamine",
+        "Eiweiße",
+        "Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stecken im gelblichen Blattsaft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hat die EU 2021 entschieden?",
+      "art": "mc",
+      "optionen": [
+        "Bestimmte Hydroxyanthracene in Lebensmitteln zu verbieten",
+        "Aloe vera komplett zu verbieten",
+        "Aloe vera als Arzneimittel zuzulassen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grund waren Bedenken zur Sicherheit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aloe-vera-Saft stärkt nachweislich das Immunsystem gesunder Menschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es keine überzeugenden Belege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aloe vera enthält Gel und einen abführenden Blattsaft.",
+        "Bestimmte Stoffe daraus sind in Lebensmitteln verboten.",
+        "Gesundheitliche Wirkungen von Getränken sind nicht belegt.",
+        "Bei Verdauungsproblemen ärztlichen Rat suchen."
+      ]
+    }
+  ]
+}

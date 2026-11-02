@@ -1,0 +1,108 @@
+{
+  "id": "steu-b035-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Umzugskosten von der Steuer absetzen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "umzug",
+    "werbungskosten",
+    "haushaltsnahe-dienstleistungen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Umzug kostet schnell viel Geld: Umzugsfirma, Transporter, Renovierung.",
+        "Ein Teil davon kann sich in der Steuererklärung auszahlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beruflicher Umzug",
+      "absaetze": [
+        "Ziehst du aus beruflichen Gründen um, etwa für eine neue Stelle oder einen deutlich kürzeren Arbeitsweg, kannst du die Kosten als Werbungskosten absetzen.",
+        "Dazu zählen Transportkosten, Fahrtkosten und unter Umständen doppelte Miete. Für sonstige Kosten gibt es eine Umzugskostenpauschale."
+      ],
+      "merke": "Berufliche Umzüge sind als Werbungskosten absetzbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Privater Umzug",
+      "absaetze": [
+        "Auch bei einem privaten Umzug lässt sich etwas absetzen. Kosten für eine Umzugsfirma zählen zu den haushaltsnahen Dienstleistungen.",
+        "Handwerkerarbeiten in der Wohnung, etwa Malerarbeiten, können als Handwerkerleistungen berücksichtigt werden. Dabei zählen nur die Arbeitskosten, nicht das Material."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wichtig ist",
+      "absaetze": [
+        "Bezahle per Überweisung und bewahre die Rechnung auf. Barzahlungen erkennt das Finanzamt bei haushaltsnahen Dienstleistungen nicht an.",
+        "Die Regeln sind im Detail kompliziert. Lohnsteuerhilfevereine und Steuerberatung können helfen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du einen beruflichen Umzug absetzen?",
+      "art": "mc",
+      "optionen": [
+        "Als Werbungskosten",
+        "Als Spende",
+        "Gar nicht",
+        "Als Einnahme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa für eine neue Stelle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu zählen Kosten einer Umzugsfirma bei einem privaten Umzug?",
+      "art": "mc",
+      "optionen": [
+        "Zu den haushaltsnahen Dienstleistungen",
+        "Zu den Sonderausgaben für Kirche",
+        "Zu den Werbungskosten",
+        "Zu nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Teil lässt sich so absetzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Barzahlungen werden bei haushaltsnahen Dienstleistungen anerkannt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nötig ist eine Überweisung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Berufliche Umzüge sind als Werbungskosten absetzbar.",
+        "Bei privaten Umzügen zählen Umzugsfirma und Handwerker.",
+        "Nur Arbeitskosten, nicht Material, zählen bei Handwerkern.",
+        "Per Überweisung zahlen und Rechnung aufbewahren."
+      ]
+    }
+  ]
+}

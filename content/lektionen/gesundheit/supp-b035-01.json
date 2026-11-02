@@ -1,0 +1,126 @@
+{
+  "id": "supp-b035-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bringen Vitamin-B-Komplex-Präparate?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Pflanzenstoffe",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-b",
+    "energie",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vitamin-B-Komplex-Präparate versprechen mehr Energie und starke Nerven.",
+        "Brauchen gesunde Menschen sie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Gruppe von Vitaminen",
+      "absaetze": [
+        "Zum Vitamin-B-Komplex gehören acht verschiedene Vitamine, etwa B1, B2, B6, B12 und Folat. Sie sind wichtig für den Energiestoffwechsel und das Nervensystem.",
+        "Sie stecken in vielen Lebensmitteln wie Vollkorn, Hülsenfrüchten, Milchprodukten, Eiern, Fleisch und grünem Gemüse."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Energieschub für Gesunde",
+      "absaetze": [
+        "Die Werbung suggeriert mehr Energie. Bei gesunden Menschen ohne Mangel gibt es dafür aber keine überzeugenden Belege.",
+        "Bestimmte Gruppen können einen erhöhten Bedarf haben, etwa Menschen mit veganer Ernährung bei Vitamin B12, Schwangere bei Folat oder Menschen mit hohem Alkoholkonsum."
+      ],
+      "merke": "Ohne Mangel bringen B-Vitamin-Präparate keinen Energieschub.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu viel des Guten",
+      "absaetze": [
+        "Manche Präparate enthalten sehr hohe Mengen. Vitamin B6 kann in hohen Mengen über längere Zeit Nervenschäden verursachen.",
+        "Wer an Müdigkeit leidet, sollte die Ursache ärztlich abklären lassen, statt auf Verdacht Präparate zu verwenden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Anhaltende Müdigkeit ärztlich abklären lassen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Vitamine gehören zum B-Komplex?",
+      "art": "mc",
+      "optionen": [
+        "Acht",
+        "Zwei",
+        "Zwanzig",
+        "Eines"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören B1, B2, B6, B12 und Folat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches B-Vitamin kann in hohen Mengen Nervenschäden verursachen?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin B6",
+        "Vitamin B1",
+        "Folat",
+        "Vitamin B2"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb sind hohe Mengen riskant."
+    },
+    {
+      "typ": "quiz",
+      "frage": "B-Vitamin-Präparate geben gesunden Menschen nachweislich mehr Energie.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ohne Mangel gibt es dafür keine Belege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der B-Komplex umfasst acht Vitamine.",
+        "Sie stecken in vielen Lebensmitteln.",
+        "Ohne Mangel bringen Präparate keinen Energieschub.",
+        "Hohe Mengen Vitamin B6 können schaden."
+      ]
+    }
+  ]
+}

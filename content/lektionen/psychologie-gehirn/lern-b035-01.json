@@ -1,0 +1,117 @@
+{
+  "id": "lern-b035-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Kann man im Schlaf lernen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schlaflernen",
+    "mythos",
+    "gedaechtnis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vokabeln vom Band hören, während man schläft, und am Morgen kann man sie. Das wäre praktisch.",
+        "Leider funktioniert es so nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mythos vom Schlaflernen",
+      "absaetze": [
+        "Die Idee, im Schlaf neues Wissen aufzunehmen, ist alt. Mitte des 20. Jahrhunderts wurden sogar Geräte dafür verkauft.",
+        "Sorgfältige Studien zeigten aber: Neue Fakten lernt man im Tiefschlaf praktisch nicht. Oft wachten die Versuchspersonen kurz auf, und nur dann blieb etwas hängen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Schlaf wirklich tut",
+      "absaetze": [
+        "Schlaf hilft dabei, das am Tag Gelernte zu festigen. Das Gehirn spielt neue Erinnerungen im Schlaf erneut ab und speichert sie stabiler.",
+        "Einige Studien deuten darauf hin, dass Töne oder Gerüche, die man beim Lernen erlebt hat, im Schlaf diese Festigung leicht verstärken können. Das ist aber Wiederholen, nicht neu Lernen."
+      ],
+      "merke": "Schlaf festigt Gelerntes, er ersetzt das Lernen nicht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was daraus folgt",
+      "absaetze": [
+        "Lerne am Tag und schlafe danach ausreichend. Eine durchgemachte Nacht vor der Prüfung schadet eher.",
+        "Kurz vor dem Schlafen etwas zu wiederholen, kann sinnvoll sein. Dann hat das Gehirn in der Nacht frisches Material zum Festigen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Im Schlaf kann man neue Vokabeln vom Band lernen.",
+      "urteil": "mythos",
+      "erklaerung": "Neue Fakten lernt man im Tiefschlaf praktisch nicht. Schlaf festigt aber bereits Gelerntes."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten sorgfältige Studien zum Schlaflernen?",
+      "art": "mc",
+      "optionen": [
+        "Neue Fakten lernt man im Tiefschlaf praktisch nicht",
+        "Man lernt im Schlaf doppelt so schnell",
+        "Nur Musik wird im Schlaf gelernt",
+        "Schlaf löscht alle Erinnerungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur beim kurzen Aufwachen blieb etwas hängen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tut Schlaf für das Gedächtnis?",
+      "art": "mc",
+      "optionen": [
+        "Er festigt das am Tag Gelernte",
+        "Er ersetzt das Lernen",
+        "Er löscht Gelerntes",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn spielt Erinnerungen erneut ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine durchgemachte Nacht vor der Prüfung hilft beim Behalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie schadet eher."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Tiefschlaf lernt man kaum neue Fakten.",
+        "Schlaf festigt das am Tag Gelernte.",
+        "Wiederholen vor dem Schlafen kann sinnvoll sein.",
+        "Durchgemachte Nächte schaden dem Lernen."
+      ]
+    }
+  ]
+}
