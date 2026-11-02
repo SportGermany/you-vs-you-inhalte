@@ -1,0 +1,108 @@
+{
+  "id": "umw-b032-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist Ozon im Sommer ein Problem?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ozon",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ozon",
+    "sommersmog",
+    "luftqualitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hoch oben in der Atmosphäre schützt Ozon uns vor UV-Strahlung.",
+        "In Bodennähe kann dasselbe Gas aber schädlich sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie bodennahes Ozon entsteht",
+      "absaetze": [
+        "Bodennahes Ozon wird nicht direkt ausgestoßen. Es entsteht bei starker Sonneneinstrahlung aus anderen Stoffen, vor allem aus Stickstoffoxiden und flüchtigen organischen Verbindungen.",
+        "Diese Vorläuferstoffe stammen etwa aus Verkehr, Industrie und Lösemitteln. Deshalb sind die Ozonwerte an heißen, sonnigen Sommertagen am höchsten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wirkung auf die Gesundheit",
+      "absaetze": [
+        "Ozon reizt die Atemwege und kann Husten, Augenreizungen und Kopfschmerzen verursachen. Bei hohen Werten kann die Lungenfunktion vorübergehend sinken.",
+        "Besonders empfindlich sind Kinder, ältere Menschen, Menschen mit Asthma und Menschen, die im Freien Sport treiben."
+      ],
+      "merke": "Hohe Ozonwerte belasten besonders die Atemwege."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Das Umweltbundesamt informiert über aktuelle Ozonwerte. Bei hohen Werten ist es sinnvoll, anstrengenden Sport im Freien auf den Morgen zu verlegen.",
+        "Am Nachmittag sind die Werte meist am höchsten. Langfristig hilft nur, die Vorläuferstoffe zu verringern, etwa durch weniger Autoverkehr."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht bodennahes Ozon vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Bei starker Sonneneinstrahlung",
+        "Bei Schnee",
+        "Nachts",
+        "Bei Nebel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es bildet sich aus Vorläuferstoffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sind die Ozonwerte meist am höchsten?",
+      "art": "mc",
+      "optionen": [
+        "Am Nachmittag",
+        "Früh am Morgen",
+        "Um Mitternacht",
+        "Im Winter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sport im Freien besser auf den Morgen legen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ozon in Bodennähe kann die Atemwege reizen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Besonders empfindliche Gruppen sind betroffen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bodennahes Ozon entsteht bei Sonne aus Vorläuferstoffen.",
+        "Es reizt Atemwege und Augen.",
+        "Kinder, Ältere und Menschen mit Asthma sind besonders empfindlich.",
+        "Bei hohen Werten Sport auf den Morgen verlegen."
+      ]
+    }
+  ]
+}

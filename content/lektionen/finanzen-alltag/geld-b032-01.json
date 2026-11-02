@@ -1,0 +1,108 @@
+{
+  "id": "geld-b032-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Warum gehören Rendite und Risiko zusammen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld, Wohnen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rendite",
+    "risiko",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hohe Zinsen und kein Risiko, so klingt manches Angebot. Leider gibt es das kaum.",
+        "Rendite, Risiko und Verfügbarkeit hängen eng zusammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das magische Dreieck",
+      "absaetze": [
+        "Bei der Geldanlage spricht man vom magischen Dreieck aus Rendite, Sicherheit und Verfügbarkeit. Rendite ist der Ertrag einer Anlage, etwa Zinsen oder Kursgewinne.",
+        "Keine Anlage erfüllt alle drei Ziele gleichzeitig perfekt. Tagesgeld ist sicher und verfügbar, bringt aber meist wenig Rendite."
+      ],
+      "merke": "Keine Anlage ist gleichzeitig sehr sicher, sehr rentabel und jederzeit verfügbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Chance, mehr Schwankung",
+      "absaetze": [
+        "Aktien bieten langfristig höhere Ertragschancen als Sparkonten. Dafür schwanken ihre Kurse stark, auch über mehrere Jahre.",
+        "Wer eine hohe Rendite ohne Risiko verspricht, ist mit großer Vorsicht zu genießen. Die Verbraucherzentralen warnen regelmäßig vor solchen Angeboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die passende Mischung",
+      "absaetze": [
+        "Geld, das du bald brauchst, gehört auf ein sicheres Konto. Für langfristige Ziele kann ein Teil in breit gestreute Aktienfonds fließen.",
+        "Wie viel Risiko passt, hängt von deinem Anlagezeitraum und deinen Nerven ab. Frag dich, ob du einen Kursverlust ruhig aushalten könntest."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche drei Ziele bilden das magische Dreieck der Geldanlage?",
+      "art": "mc",
+      "optionen": [
+        "Rendite, Sicherheit und Verfügbarkeit",
+        "Preis, Farbe und Größe",
+        "Zinsen, Steuern und Gebühren",
+        "Bank, Börse und Bargeld"
+      ],
+      "richtig": 0,
+      "erklaerung": "Keine Anlage erfüllt alle perfekt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für Aktien im Vergleich zum Sparkonto?",
+      "art": "mc",
+      "optionen": [
+        "Höhere Chancen, aber stärkere Schwankungen",
+        "Kein Risiko",
+        "Garantierte Zinsen",
+        "Tägliche Auszahlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kurse können lange schwanken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Angebot mit hoher Rendite ohne Risiko ist ein Warnsignal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Verbraucherzentralen warnen davor."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rendite, Sicherheit und Verfügbarkeit hängen zusammen.",
+        "Mehr Ertragschance bedeutet meist mehr Schwankung.",
+        "Hohe Rendite ohne Risiko ist ein Warnsignal.",
+        "Kurzfristiges Geld sicher, langfristiges breit gestreut anlegen."
+      ]
+    }
+  ]
+}

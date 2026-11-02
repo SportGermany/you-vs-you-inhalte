@@ -1,0 +1,118 @@
+{
+  "id": "ern-b032-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Kokosöl gesund?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fette und Öle",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kokosoel",
+    "fette",
+    "gesaettigte-fettsaeuren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kokosöl wird als gesundes Wunderfett gefeiert, zum Braten, Backen und sogar im Kaffee.",
+        "Fachgesellschaften sehen das deutlich nüchterner."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reich an gesättigten Fettsäuren",
+      "absaetze": [
+        "Kokosöl besteht zu einem sehr großen Teil aus gesättigten Fettsäuren. Das ist mehr als bei Butter.",
+        "Gesättigte Fettsäuren können den LDL-Cholesterinspiegel erhöhen. Ein hoher LDL-Wert ist ein Risikofaktor für Herz-Kreislauf-Erkrankungen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hinter dem Hype steckt",
+      "absaetze": [
+        "Befürworter verweisen auf mittelkettige Fettsäuren im Kokosöl, die der Körper schneller verwertet. Ihr Anteil ist aber geringer als oft dargestellt.",
+        "Studien deuten darauf hin, dass Kokosöl den LDL-Cholesterinspiegel stärker erhöht als pflanzliche Öle wie Raps- oder Olivenöl. Für gesundheitliche Vorteile gibt es keine überzeugenden Belege."
+      ],
+      "merke": "Kokosöl ist kein besonders gesundes Fett.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie du es einsetzen kannst",
+      "absaetze": [
+        "Für die tägliche Küche empfiehlt die DGE vor allem Rapsöl, ergänzt durch Oliven-, Walnuss- oder Leinöl.",
+        "Kokosöl kann gelegentlich für den Geschmack verwendet werden, etwa in asiatischen Gerichten. Als Standardfett eignet es sich weniger."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Kokosöl zu einem großen Teil?",
+      "art": "mc",
+      "optionen": [
+        "Gesättigten Fettsäuren",
+        "Omega-3-Fettsäuren",
+        "Eiweiß",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Anteil ist höher als bei Butter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Öl empfiehlt die DGE für die tägliche Küche vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Rapsöl",
+        "Kokosöl",
+        "Palmöl",
+        "Frittierfett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rapsöl hat ein günstiges Fettsäuremuster."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kokosöl senkt nachweislich den Cholesterinspiegel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann den LDL-Wert eher erhöhen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kokosöl enthält sehr viele gesättigte Fettsäuren.",
+        "Es kann den LDL-Cholesterinspiegel erhöhen.",
+        "Gesundheitliche Vorteile sind nicht belegt.",
+        "Rapsöl ist für den Alltag die bessere Wahl."
+      ]
+    }
+  ]
+}

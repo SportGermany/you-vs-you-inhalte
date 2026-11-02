@@ -1,0 +1,114 @@
+{
+  "id": "haus-b032-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie lagerst du Kartoffeln, Zwiebeln und Obst richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld, Wohnen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lagerung",
+    "lebensmittel",
+    "verschwendung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kartoffeln keimen, Zwiebeln werden weich, Bananen bekommen braune Flecken.",
+        "Mit der richtigen Lagerung hält vieles länger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kartoffeln und Zwiebeln",
+      "absaetze": [
+        "Kartoffeln mögen es kühl, dunkel und trocken, aber nicht im Kühlschrank. Bei Licht werden sie grün, im Kühlschrank wird Stärke zu Zucker.",
+        "Zwiebeln lagerst du am besten luftig und trocken. Bewahre sie nicht direkt neben Kartoffeln auf, sonst verderben beide schneller."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Obst, das reifen lässt",
+      "absaetze": [
+        "Äpfel, Bananen und Tomaten geben das Reifegas Ethylen ab. Es lässt anderes Obst und Gemüse in der Nähe schneller reifen oder welken.",
+        "Lagere diese Früchte deshalb getrennt. Willst du eine harte Avocado nachreifen lassen, leg sie neben einen Apfel."
+      ],
+      "merke": "Äpfel und Bananen lassen anderes Obst schneller reifen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühlschrank oder nicht",
+      "absaetze": [
+        "Viele Gemüse wie Möhren, Salat oder Beeren halten im Gemüsefach länger. Tomaten, Gurken und Bananen sind dagegen kälteempfindlich und verlieren dort Geschmack.",
+        "Ein Blick auf das Mindesthaltbarkeitsdatum und deine Sinne helfen, Lebensmittel nicht zu früh wegzuwerfen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo lagern Kartoffeln am besten?",
+      "art": "mc",
+      "optionen": [
+        "Kühl, dunkel und trocken, aber nicht im Kühlschrank",
+        "Im Kühlschrank",
+        "Auf der Fensterbank in der Sonne",
+        "Neben der Heizung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Kühlschrank wird Stärke zu Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Reifegas geben Äpfel ab?",
+      "art": "mc",
+      "optionen": [
+        "Ethylen",
+        "Sauerstoff",
+        "Stickstoff",
+        "Helium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es lässt anderes Obst schneller reifen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tomaten verlieren im Kühlschrank Geschmack.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind kälteempfindlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kartoffeln kühl und dunkel, aber nicht im Kühlschrank lagern.",
+        "Zwiebeln getrennt von Kartoffeln aufbewahren.",
+        "Äpfel und Bananen geben das Reifegas Ethylen ab.",
+        "Tomaten und Bananen gehören nicht in den Kühlschrank."
+      ]
+    }
+  ]
+}

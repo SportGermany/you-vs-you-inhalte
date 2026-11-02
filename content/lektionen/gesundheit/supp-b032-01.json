@@ -1,0 +1,126 @@
+{
+  "id": "supp-b032-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchst du einen Vitamin-D-Test?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "IGeL-Monitor",
+      "herausgeber": "Medizinischer Dienst Bund",
+      "url": "https://www.igel-monitor.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Vitamin D",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-d",
+    "bluttest",
+    "igel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In vielen Arztpraxen wird ein Vitamin-D-Test angeboten, oft als Selbstzahlerleistung.",
+        "Ist er für gesunde Menschen sinnvoll?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Selbstzahlerleistung",
+      "absaetze": [
+        "Für Menschen ohne Beschwerden und ohne besondere Risiken übernehmen die gesetzlichen Krankenkassen den Test meist nicht. Er wird dann als individuelle Gesundheitsleistung angeboten, kurz IGeL.",
+        "Bei begründetem Verdacht auf einen Mangel oder bestimmten Erkrankungen zahlt die Kasse den Test."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Fachleute sagen",
+      "absaetze": [
+        "Der IGeL-Monitor bewertet den Vitamin-D-Test für Menschen ohne Beschwerden kritisch. Ein Nutzen für die Gesundheit ist nicht belegt.",
+        "Der Vitamin-D-Spiegel schwankt stark mit den Jahreszeiten. Ein einzelner Messwert im Winter sagt wenig über die langfristige Versorgung aus."
+      ],
+      "merke": "Für Gesunde ohne Risiken ist ein Routinetest meist nicht sinnvoll.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer profitieren kann",
+      "absaetze": [
+        "Sinnvoll kann ein Test bei erhöhtem Risiko sein. Das gilt etwa bei Erkrankungen von Darm oder Nieren, bei Osteoporose oder wenn jemand kaum ins Freie kommt.",
+        "Im Sommer bildet die Haut bei Aufenthalt im Freien ausreichend Vitamin D. Ob ein Präparat sinnvoll ist, solltest du ärztlich besprechen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Risiken für einen Mangel ärztlich beraten lassen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird der Vitamin-D-Test bei Gesunden ohne Risiken meist angeboten?",
+      "art": "mc",
+      "optionen": [
+        "Als Selbstzahlerleistung",
+        "Als Pflichtuntersuchung",
+        "Kostenlos bei jedem Arztbesuch",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kasse zahlt ihn dann meist nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sagt ein einzelner Wert im Winter wenig aus?",
+      "art": "mc",
+      "optionen": [
+        "Der Spiegel schwankt stark mit den Jahreszeiten",
+        "Im Winter gibt es kein Vitamin D",
+        "Die Labore schließen",
+        "Der Test funktioniert nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Versorgung ändert sich über das Jahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Darmerkrankungen kann ein Vitamin-D-Test sinnvoll sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann besteht ein erhöhtes Risiko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Für Gesunde ohne Risiken ist der Test meist Selbstzahlerleistung.",
+        "Ein Nutzen von Routinetests ist nicht belegt.",
+        "Der Spiegel schwankt mit den Jahreszeiten.",
+        "Bei Risikogruppen kann ein Test sinnvoll sein."
+      ]
+    }
+  ]
+}

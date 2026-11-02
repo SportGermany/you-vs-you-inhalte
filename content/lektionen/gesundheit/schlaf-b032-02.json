@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b032-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was solltest du über rezeptfreie Schlafmittel wissen?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arzneimittelsicherheit",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafmittel",
+    "antihistaminika",
+    "rezeptfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Apotheke gibt es Schlaftabletten ohne Rezept. Viele greifen bei schlechten Nächten dazu.",
+        "Harmlos sind diese Mittel aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in ihnen steckt",
+      "absaetze": [
+        "Viele rezeptfreie Schlafmittel enthalten Wirkstoffe aus der Gruppe der Antihistaminika. Diese wurden ursprünglich gegen Allergien entwickelt und machen müde.",
+        "Sie sind nur für kurze Zeit bei gelegentlichen Schlafstörungen gedacht. Das steht auch im Beipackzettel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Nebenwirkungen",
+      "absaetze": [
+        "Häufig fühlt man sich am nächsten Morgen benommen. Das kann die Fahrtüchtigkeit beeinträchtigen.",
+        "Bei älteren Menschen können solche Mittel Verwirrtheit, Stürze und Probleme beim Wasserlassen auslösen. Nach einigen Tagen lässt die Wirkung oft nach, weil sich der Körper gewöhnt."
+      ],
+      "merke": "Rezeptfreie Schlafmittel sind nur für kurze Zeit gedacht.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besser an die Ursache",
+      "absaetze": [
+        "Anhaltende Schlafprobleme sollten ärztlich abgeklärt werden. Dahinter können Stress, Schmerzen, Schlafapnoe oder andere Erkrankungen stecken.",
+        "Bei chronischer Insomnie empfehlen Leitlinien die kognitive Verhaltenstherapie als erste Behandlung. Sie wirkt langfristig besser als Schlafmittel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Wirkstoffgruppe steckt oft in rezeptfreien Schlafmitteln?",
+      "art": "mc",
+      "optionen": [
+        "Antihistaminika",
+        "Antibiotika",
+        "Vitamine",
+        "Hormone"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wurden ursprünglich gegen Allergien entwickelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Nebenwirkung ist häufig?",
+      "art": "mc",
+      "optionen": [
+        "Benommenheit am nächsten Morgen",
+        "Bessere Konzentration",
+        "Stärkere Muskeln",
+        "Schnelleres Laufen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann die Fahrtüchtigkeit beeinträchtigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rezeptfreie Schlafmittel eignen sich für die Dauereinnahme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind nur für kurze Zeit gedacht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rezeptfreie Schlafmittel enthalten oft Antihistaminika.",
+        "Sie können am Morgen benommen machen.",
+        "Ältere Menschen sind besonders gefährdet.",
+        "Anhaltende Schlafprobleme ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

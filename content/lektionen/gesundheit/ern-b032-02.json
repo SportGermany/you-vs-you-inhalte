@@ -1,0 +1,112 @@
+{
+  "id": "ern-b032-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was bringt es, saisonal zu essen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "saisonal",
+    "regional",
+    "gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Erdbeeren im Dezember, Spargel im Herbst: Im Supermarkt gibt es fast alles das ganze Jahr.",
+        "Lohnt es sich trotzdem, nach Saison einzukaufen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was saisonal bedeutet",
+      "absaetze": [
+        "Saisonal heißt, Obst und Gemüse dann zu essen, wenn es in der eigenen Region reif wird und ohne beheiztes Gewächshaus wächst.",
+        "Ein Saisonkalender zeigt, wann was Saison hat. Im Winter sind das etwa Kohl, Lauch, Wurzelgemüse und Lageräpfel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile für Umwelt und Geschmack",
+      "absaetze": [
+        "Saisonales Gemüse aus dem Freiland braucht meist weniger Energie als Ware aus beheizten Gewächshäusern. Auch lange Transportwege, besonders per Flugzeug, entfallen.",
+        "Reif geerntetes Obst und Gemüse schmeckt oft besser. Saisonware ist zudem häufig günstiger, weil das Angebot groß ist."
+      ],
+      "merke": "Saisonal einkaufen spart oft Energie und Geld.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Dogma",
+      "absaetze": [
+        "Regional ist nicht immer klimafreundlicher. Ein Apfel, der monatelang im Kühllager lag, kann eine schlechtere Bilanz haben als ein importierter.",
+        "Ein guter Kompromiss ist, überwiegend saisonal zu kaufen und auf Flugware zu verzichten. Tiefkühlgemüse ist im Winter eine gute Ergänzung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet saisonal essen?",
+      "art": "mc",
+      "optionen": [
+        "Obst und Gemüse essen, wenn es in der Region reif wird",
+        "Nur im Sommer essen",
+        "Nur importierte Ware kaufen",
+        "Nur Konserven essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Saisonkalender hilft dabei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gemüse hat im Winter Saison?",
+      "art": "mc",
+      "optionen": [
+        "Kohl und Wurzelgemüse",
+        "Frische Erdbeeren",
+        "Spargel",
+        "Freiland-Tomaten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Lauch und Lageräpfel gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Regional ist immer klimafreundlicher als importiert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Lange Lagerung kann die Bilanz verschlechtern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Saisonal heißt, reif aus der Region zu essen.",
+        "Das spart oft Energie, Transport und Geld.",
+        "Regional ist nicht automatisch klimafreundlicher.",
+        "Auf Flugware zu verzichten hilft besonders."
+      ]
+    }
+  ]
+}

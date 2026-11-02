@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b032-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläft man im Zug so leicht ein?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schaukeln",
+    "einschlafen",
+    "reisen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kaum rollt der Zug los, fallen vielen die Augen zu. Babys schlafen im fahrenden Kinderwagen wie von selbst.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanftes Schaukeln",
+      "absaetze": [
+        "Gleichmäßige, sanfte Bewegungen scheinen das Einschlafen zu erleichtern. Eltern nutzen das seit jeher, wenn sie ihre Babys wiegen.",
+        "Eine kleine Studie deutete darauf hin, dass Erwachsene in einem langsam schaukelnden Bett schneller einschliefen und tiefer schliefen."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Gründe",
+      "absaetze": [
+        "Im Zug kommen gleichmäßige Geräusche hinzu. Sie überdecken andere Störgeräusche.",
+        "Oft sind Reisende auch einfach müde, weil sie früh aufgestanden sind. Und wer nichts zu tun hat, gibt der Müdigkeit leichter nach."
+      ],
+      "merke": "Monotone Reize und Müdigkeit wirken zusammen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Am Steuer gefährlich",
+      "absaetze": [
+        "Was im Zug angenehm ist, wird beim Autofahren zur Gefahr. Monotone Autobahnfahrten fördern Müdigkeit und Sekundenschlaf.",
+        "Wer selbst fährt, sollte bei Müdigkeit eine Pause einlegen. Im Zug kannst du dich dagegen entspannt zurücklehnen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was scheint das Einschlafen zu erleichtern?",
+      "art": "mc",
+      "optionen": [
+        "Sanftes, gleichmäßiges Schaukeln",
+        "Laute, wechselnde Geräusche",
+        "Helles Licht",
+        "Kaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eltern wiegen ihre Babys deshalb."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist monotones Fahren am Steuer gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Es fördert Müdigkeit und Sekundenschlaf",
+        "Es macht hellwach",
+        "Es verbraucht mehr Benzin",
+        "Es ist nicht gefährlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Müdigkeit hilft nur eine Pause."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Studienlage zum Schaukeln ist umfangreich und eindeutig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt nur wenige kleine Studien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sanftes Schaukeln scheint das Einschlafen zu erleichtern.",
+        "Gleichmäßige Geräusche überdecken Störungen.",
+        "Oft sind Reisende auch einfach müde.",
+        "Am Steuer ist Monotonie gefährlich."
+      ]
+    }
+  ]
+}

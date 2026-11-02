@@ -1,0 +1,111 @@
+{
+  "id": "gew-b032-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Warum ist Rauchen so schwer aufzugeben?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rauchfrei werden",
+      "herausgeber": "Deutsches Krebsforschungszentrum (DKFZ)",
+      "url": "https://www.dkfz.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rauchen",
+    "nikotin",
+    "rauchstopp"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Rauchende möchten aufhören. Trotzdem gelingt es beim ersten Versuch oft nicht.",
+        "Das liegt an zwei Kräften: Sucht und Gewohnheit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Körperliche Abhängigkeit",
+      "absaetze": [
+        "Nikotin macht stark abhängig. Es erreicht das Gehirn innerhalb von Sekunden und setzt dort Botenstoffe frei, die angenehm wirken.",
+        "Sinkt der Nikotinspiegel, entstehen Unruhe, Reizbarkeit und starkes Verlangen. Die nächste Zigarette lindert diese Beschwerden, so entsteht ein Kreislauf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewohnheiten im Alltag",
+      "absaetze": [
+        "Rauchen ist eng mit Situationen verknüpft: der Kaffee am Morgen, die Pause bei der Arbeit, das Bier am Abend. Diese Auslöser wecken das Verlangen.",
+        "Deshalb reicht es nicht, nur die körperliche Abhängigkeit zu überwinden. Auch die Gewohnheiten müssen sich ändern."
+      ],
+      "merke": "Sucht und Gewohnheit wirken beim Rauchen zusammen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was beim Aufhören hilft",
+      "absaetze": [
+        "Professionelle Unterstützung verbessert die Erfolgschancen deutlich. Dazu gehören Beratung, Kurse und ärztlich begleitete Hilfen.",
+        "Hilfreich ist ein fester Rauchstopp-Tag und ein Plan für typische Auslösesituationen. Rückfälle sind häufig und kein Grund aufzugeben. Viele schaffen es erst nach mehreren Versuchen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht beim Rauchen körperlich abhängig?",
+      "art": "mc",
+      "optionen": [
+        "Nikotin",
+        "Papier",
+        "Rauchgeruch",
+        "Feuerzeuge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nikotin wirkt innerhalb von Sekunden im Gehirn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbessert die Erfolgschancen beim Rauchstopp deutlich?",
+      "art": "mc",
+      "optionen": [
+        "Professionelle Unterstützung",
+        "Nur Willenskraft",
+        "Weniger Schlaf",
+        "Mehr Kaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beratung und Kurse helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Rückfall bedeutet, dass der Rauchstopp nie gelingen kann.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Viele schaffen es erst nach mehreren Versuchen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nikotin macht stark abhängig.",
+        "Rauchen ist eng mit Alltagssituationen verknüpft.",
+        "Sucht und Gewohnheit müssen beide angegangen werden.",
+        "Professionelle Hilfe verbessert die Chancen deutlich."
+      ]
+    }
+  ]
+}

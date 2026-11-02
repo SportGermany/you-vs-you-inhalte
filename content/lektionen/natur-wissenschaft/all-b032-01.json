@@ -1,0 +1,108 @@
+{
+  "id": "all-b032-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum funkeln Sterne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sterne",
+    "atmosphaere",
+    "funkeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Twinkle, twinkle, little star heißt es in einem Kinderlied. Sterne scheinen am Himmel zu flackern.",
+        "Dabei leuchten sie eigentlich ganz gleichmäßig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Luft ist schuld",
+      "absaetze": [
+        "Das Licht der Sterne muss durch unsere Atmosphäre. Die Luft darin ist ständig in Bewegung und unterschiedlich warm.",
+        "Dadurch wird das Licht immer wieder ein wenig abgelenkt. Der Stern scheint zu flackern und manchmal sogar die Farbe zu wechseln. Fachleute nennen das Szintillation."
+      ],
+      "merke": "Bewegte Luft lässt das Sternenlicht flackern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Planeten funkeln weniger",
+      "absaetze": [
+        "Planeten erscheinen uns nicht als einzelne Lichtpunkte, sondern als winzige Scheiben. Die Störungen gleichen sich über die Fläche aus.",
+        "Deshalb leuchten Planeten wie Jupiter oder Venus meist ruhiger als Sterne. Das ist ein einfacher Trick, um sie am Himmel zu erkennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Problem für Teleskope",
+      "absaetze": [
+        "Was romantisch aussieht, stört Astronomen. Das Flackern macht Bilder unscharf.",
+        "Deshalb stehen große Teleskope auf hohen Bergen mit ruhiger Luft. Weltraumteleskope umgehen das Problem ganz, weil sie über der Atmosphäre kreisen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum funkeln Sterne?",
+      "art": "mc",
+      "optionen": [
+        "Bewegte Luft lenkt ihr Licht ab",
+        "Sie gehen ständig an und aus",
+        "Sie drehen sich schnell",
+        "Wegen Wolken im All"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man Szintillation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum funkeln Planeten weniger?",
+      "art": "mc",
+      "optionen": [
+        "Sie erscheinen als winzige Scheiben",
+        "Sie sind heißer",
+        "Sie haben keine Atmosphäre",
+        "Sie sind weiter weg"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Störungen gleichen sich aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Weltraumteleskope sind vom Funkeln nicht betroffen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie kreisen über der Atmosphäre."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sterne funkeln, weil die Luft ihr Licht ablenkt.",
+        "Das Phänomen heißt Szintillation.",
+        "Planeten leuchten meist ruhiger.",
+        "Teleskope stehen deshalb auf Bergen oder im All."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "koer-b032-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Bekommt man von Kälte eine Erkältung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Erkältung und Atemwegsinfektionen",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "erkaeltung",
+    "viren",
+    "kaelte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zieh dir eine Jacke an, sonst erkältest du dich. Diesen Satz kennen viele aus der Kindheit.",
+        "Doch was löst eine Erkältung wirklich aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viren sind die Ursache",
+      "absaetze": [
+        "Erkältungen werden von Viren verursacht. Es gibt Hunderte verschiedene Erkältungsviren, besonders häufig sind Rhinoviren.",
+        "Ohne Viren keine Erkältung, egal wie kalt es ist. Die Viren werden über Tröpfchen und Hände von Mensch zu Mensch übertragen."
+      ],
+      "merke": "Erkältungen werden von Viren ausgelöst, nicht von Kälte allein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum der Winter trotzdem eine Rolle spielt",
+      "absaetze": [
+        "Im Winter halten sich Menschen mehr in geschlossenen Räumen auf. Dort verbreiten sich Viren leichter.",
+        "Trockene Heizungsluft kann die Schleimhäute austrocknen. Einige Studien deuten darauf hin, dass Kälte die Abwehr in der Nase etwas schwächen könnte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was schützt",
+      "absaetze": [
+        "Regelmäßiges Händewaschen mit Seife ist eine der wirksamsten Maßnahmen. Auch Abstand zu Erkrankten und gutes Lüften helfen.",
+        "Eine Erkältung klingt meist nach etwa einer Woche von selbst ab. Bei hohem Fieber oder Atemnot ist ärztlicher Rat wichtig."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Kalte Füße allein verursachen eine Erkältung.",
+      "urteil": "mythos",
+      "erklaerung": "Erkältungen werden von Viren ausgelöst. Kälte kann höchstens die Abwehr etwas schwächen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verursacht eine Erkältung?",
+      "art": "mc",
+      "optionen": [
+        "Viren",
+        "Kälte allein",
+        "Nasse Haare allein",
+        "Zugluft allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders häufig sind Rhinoviren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gibt es im Winter mehr Erkältungen?",
+      "art": "mc",
+      "optionen": [
+        "Menschen sind mehr in geschlossenen Räumen",
+        "Viren entstehen aus Schnee",
+        "Im Sommer gibt es keine Viren",
+        "Wegen kürzerer Tage allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort verbreiten sich Viren leichter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Händewaschen mit Seife schützt vor Erkältungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es ist eine der wirksamsten Maßnahmen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erkältungen werden von Viren verursacht.",
+        "Im Winter verbreiten sich Viren drinnen leichter.",
+        "Kälte kann die Abwehr höchstens etwas schwächen.",
+        "Händewaschen und Lüften schützen."
+      ]
+    }
+  ]
+}

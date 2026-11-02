@@ -1,0 +1,108 @@
+{
+  "id": "vers-b032-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was unterscheidet Neuwert und Zeitwert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld, Wohnen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "neuwert",
+    "zeitwert",
+    "hausrat"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein fünf Jahre alter Fernseher wird bei einem Brand zerstört. Wie viel Geld bekommst du?",
+        "Das hängt davon ab, ob die Versicherung den Neuwert oder den Zeitwert erstattet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neuwert",
+      "absaetze": [
+        "Beim Neuwert bekommst du so viel, wie ein gleichwertiges neues Gerät heute kostet. Das Alter spielt dann keine Rolle.",
+        "Die Hausratversicherung erstattet in der Regel den Neuwert. Das ist ein wichtiger Vorteil."
+      ],
+      "merke": "Hausratversicherungen erstatten meist den Neuwert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zeitwert",
+      "absaetze": [
+        "Beim Zeitwert wird berücksichtigt, wie alt und abgenutzt ein Gegenstand war. Ein fünf Jahre alter Fernseher ist dann deutlich weniger wert.",
+        "Viele Haftpflichtversicherungen zahlen nur den Zeitwert. Wenn jemand dein altes Handy beschädigt, bekommst du also meist nicht den Preis eines neuen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterversicherung vermeiden",
+      "absaetze": [
+        "Damit die Hausratversicherung den vollen Neuwert zahlt, muss die Versicherungssumme hoch genug sein. Ist sie zu niedrig, droht eine Unterversicherung, und es wird nur anteilig gezahlt.",
+        "Viele Versicherer bieten einen Unterversicherungsverzicht an, wenn die Summe pauschal nach Wohnfläche berechnet wird. Prüfe die Summe nach größeren Anschaffungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erstattet die Hausratversicherung in der Regel?",
+      "art": "mc",
+      "optionen": [
+        "Den Neuwert",
+        "Nur den Zeitwert",
+        "Nur die Hälfte",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Alter des Gegenstands spielt dann keine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was berücksichtigt der Zeitwert?",
+      "art": "mc",
+      "optionen": [
+        "Alter und Abnutzung",
+        "Nur die Farbe",
+        "Den Neupreis allein",
+        "Die Größe der Wohnung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ältere Dinge sind weniger wert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine zu niedrige Versicherungssumme kann zu einer Unterversicherung führen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann wird nur anteilig gezahlt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Neuwert bedeutet Erstattung zum heutigen Neupreis.",
+        "Hausratversicherungen zahlen meist den Neuwert.",
+        "Haftpflichtversicherungen zahlen oft nur den Zeitwert.",
+        "Eine zu niedrige Summe führt zur Unterversicherung."
+      ]
+    }
+  ]
+}
