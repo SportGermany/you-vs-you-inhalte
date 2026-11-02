@@ -1,0 +1,107 @@
+{
+  "id": "vers-b021-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie meldest du einen Versicherungsschaden richtig?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schadensmeldung",
+    "versicherung",
+    "obliegenheiten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Sturm ist das Fenster kaputt, der Teppich nass. Du willst sofort aufräumen und alles wegwerfen.",
+        "Halt, das kann teuer werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell melden",
+      "absaetze": [
+        "Einen Schaden solltest du deiner Versicherung so schnell wie möglich melden. Viele Verträge verlangen eine unverzügliche Meldung. Bei Einbruch oder Diebstahl gehört auch eine Anzeige bei der Polizei dazu.",
+        "Wer zu lange wartet, riskiert, dass die Versicherung weniger oder gar nicht zahlt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schaden dokumentieren",
+      "absaetze": [
+        "Fotografiere den Schaden, bevor du etwas veränderst. Bewahre beschädigte Gegenstände auf, bis die Versicherung sie freigegeben hat. Sie möchte den Schaden eventuell selbst begutachten.",
+        "Sammle Kaufbelege, Rechnungen und Fotos von Wertgegenständen. Eine Liste deines Hausrats mit Fotos, die du vorab anlegst, erleichtert die Abwicklung erheblich."
+      ],
+      "merke": "Erst fotografieren, dann aufräumen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schaden begrenzen",
+      "absaetze": [
+        "Du bist verpflichtet, den Schaden möglichst gering zu halten. Dazu gehört etwa, bei einem Wasserschaden das Wasser abzustellen oder ein kaputtes Fenster notdürftig abzudichten.",
+        "Diese Kosten werden in der Regel von der Versicherung übernommen. Lass dir bei größeren Reparaturen vorher die Zustimmung geben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du tun, bevor du nach einem Schaden aufräumst?",
+      "art": "mc",
+      "optionen": [
+        "Den Schaden fotografieren",
+        "Alles sofort wegwerfen",
+        "Gar nichts",
+        "Die Versicherung kündigen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fotos dokumentieren den Schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört bei einem Einbruch zusätzlich zur Meldung?",
+      "art": "mc",
+      "optionen": [
+        "Eine Anzeige bei der Polizei",
+        "Ein Anruf beim Bürgermeister",
+        "Ein Brief an die Nachbarn",
+        "Nichts weiter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Polizei muss informiert werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Versicherte müssen versuchen, den Schaden möglichst gering zu halten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist eine wichtige Pflicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schäden schnell melden, bei Einbruch auch die Polizei informieren.",
+        "Erst dokumentieren, beschädigte Dinge aufbewahren.",
+        "Den Schaden begrenzen und größere Reparaturen absprechen."
+      ]
+    }
+  ]
+}

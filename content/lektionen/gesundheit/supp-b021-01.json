@@ -1,0 +1,125 @@
+{
+  "id": "supp-b021-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchen Kinder Nahrungsergänzungsmittel?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Referenzwerte für die Nährstoffzufuhr",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kinder",
+    "vitamin-d",
+    "fluorid"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Drogeriemarkt gibt es bunte Vitamin-Gummibärchen für Kinder. Sie sollen das Immunsystem stärken.",
+        "Brauchen Kinder so etwas?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Meist nicht nötig",
+      "absaetze": [
+        "Kinder, die abwechslungsreich essen, sind in der Regel gut mit Vitaminen und Mineralstoffen versorgt. Zusätzliche Präparate bringen gesunden Kindern meist keinen Vorteil.",
+        "Vitamin-Gummis sehen aus wie Süßigkeiten. Das verleitet dazu, zu viele davon zu essen. Manche fettlöslichen Vitamine können in hohen Mengen schaden."
+      ],
+      "merke": "Gesunde Kinder mit ausgewogener Ernährung brauchen meist keine Präparate.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen im ersten Lebensjahr",
+      "absaetze": [
+        "Für Säuglinge gibt es eine wichtige Ausnahme. Fachgesellschaften empfehlen im ersten Lebensjahr, in der Regel auch bis in den zweiten Frühsommer, eine Vitamin-D-Gabe, oft kombiniert mit Fluorid zur Kariesvorbeugung.",
+        "Die genaue Empfehlung besprechen Eltern bei den Vorsorgeuntersuchungen mit der Kinderarztpraxis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besondere Situationen",
+      "absaetze": [
+        "Bei veganer Ernährung, bestimmten Erkrankungen oder sehr einseitigem Essen kann eine gezielte Ergänzung nötig sein, etwa von Vitamin B12. Das sollte ärztlich begleitet werden.",
+        "Wichtiger als Präparate sind regelmäßige Mahlzeiten mit Gemüse, Obst, Vollkorn und Milchprodukten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bewahre Präparate für Kinder unerreichbar auf. Vitamin-Gummis werden leicht mit Süßigkeiten verwechselt.",
+        "Gib Kindern Nahrungsergänzungsmittel nur nach Rücksprache mit der Kinderärztin oder dem Kinderarzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brauchen gesunde Kinder mit ausgewogener Ernährung meist Vitaminpräparate?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind in der Regel gut versorgt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Ergänzung wird Säuglingen im ersten Lebensjahr empfohlen?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin D, oft mit Fluorid",
+        "Eisen in hohen Mengen",
+        "Proteinpulver",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vitamin D wird im ersten Lebensjahr empfohlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Vitamin-Gummis riskant?",
+      "art": "mc",
+      "optionen": [
+        "Sie sehen aus wie Süßigkeiten und verleiten zu großen Mengen",
+        "Sie sind immer verdorben",
+        "Sie enthalten keine Vitamine",
+        "Sie sind verboten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu viele können zu einer Überdosierung führen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gesunde Kinder brauchen meist keine Nahrungsergänzungsmittel.",
+        "Säuglinge erhalten im ersten Lebensjahr Vitamin D, oft mit Fluorid.",
+        "Besondere Situationen gehören in ärztliche Begleitung."
+      ]
+    }
+  ]
+}

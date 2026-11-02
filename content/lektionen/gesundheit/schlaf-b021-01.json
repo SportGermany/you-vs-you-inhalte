@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b021-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schlafen Babys sicher?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Babyschlaf und plötzlicher Kindstod",
+      "herausgeber": "Kindergesundheit-info.de des Bundesinstituts für Öffentliche Gesundheit",
+      "url": "https://www.kindergesundheit-info.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "babyschlaf",
+    "saeugling",
+    "kindstod"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Neugeborenes schläft viel, aber nie lange am Stück. Die Eltern sind erschöpft.",
+        "Gleichzeitig fragen sie sich: Wie schläft unser Baby am sichersten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Anders als Erwachsene",
+      "absaetze": [
+        "Neugeborene schlafen insgesamt sehr viel, aber verteilt über Tag und Nacht. Ihre innere Uhr entwickelt sich erst in den ersten Lebensmonaten.",
+        "Ihre Schlafzyklen sind kürzer als bei Erwachsenen, und sie verbringen viel Zeit im aktiven Schlaf. Häufiges Aufwachen ist in den ersten Monaten normal."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher schlafen",
+      "absaetze": [
+        "Fachleute geben klare Regeln gegen den plötzlichen Kindstod. Babys schlafen in Rückenlage im eigenen Bettchen. Das Bettchen steht im Schlafzimmer der Eltern. Statt einer Decke dient ein Schlafsack.",
+        "Kissen, Kuscheltiere und Nestchen gehören nicht ins Bett. Das Zimmer sollte eher kühl sein, und das Baby sollte rauchfrei aufwachsen."
+      ],
+      "merke": "Rückenlage, eigenes Bett, Schlafsack und rauchfreie Umgebung schützen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geduld mit dem Rhythmus",
+      "absaetze": [
+        "Viele Babys schlafen erst nach Monaten länger am Stück. Ein regelmäßiger Tagesablauf und Tageslicht helfen, den Rhythmus zu finden.",
+        "Erschöpfung der Eltern ist normal. Hilfe von Familie, Hebamme oder Kinderarztpraxis anzunehmen, ist kein Zeichen von Schwäche."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Lage sollten Babys schlafen?",
+      "art": "mc",
+      "optionen": [
+        "Auf dem Rücken",
+        "Auf dem Bauch",
+        "Auf der Seite mit Kissen",
+        "Sitzend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Rückenlage senkt das Risiko des plötzlichen Kindstods."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört nicht ins Babybett?",
+      "art": "mc",
+      "optionen": [
+        "Kissen und Kuscheltiere",
+        "Ein Schlafsack",
+        "Eine feste Matratze",
+        "Das Baby"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lose Gegenstände erhöhen das Risiko."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Häufiges nächtliches Aufwachen ist in den ersten Monaten normal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die innere Uhr entwickelt sich erst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Babys schlafen viel, aber in kurzen Abschnitten.",
+        "Rückenlage, eigenes Bett, Schlafsack und Rauchfreiheit schützen.",
+        "Ein Rhythmus entwickelt sich erst nach Monaten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b021-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Kann man Schlaf auf Vorrat tanken?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafvorrat",
+    "schlafmangel",
+    "vorbereitung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nächste Woche steht eine Nachtschicht an, oder eine lange Reise. Kann man vorher Schlaf auf Vorrat tanken?",
+        "Die Idee klingt verlockend."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien andeuten",
+      "absaetze": [
+        "Einige kleinere Studien deuten darauf hin, dass mehr Schlaf in den Nächten vor einer Phase mit Schlafmangel helfen kann. Teilnehmende, die vorher länger schliefen, schnitten während des Schlafentzugs bei Aufmerksamkeitstests etwas besser ab.",
+        "Die Studienlage ist allerdings dünn. Wie gut das im Alltag funktioniert, ist nicht ausreichend geklärt."
+      ],
+      "merke": "Vorher mehr zu schlafen, könnte etwas helfen, ist aber kaum erforscht.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Speicher wie ein Akku",
+      "absaetze": [
+        "Schlaf lässt sich nicht beliebig speichern. Wer ausgeschlafen ist, kann nicht einfach mehrere Stunden zusätzlich schlafen.",
+        "Wer dagegen ohnehin zu wenig schläft, profitiert von einigen längeren Nächten. Oft baut man dabei vor allem ein bestehendes Schlafdefizit ab."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besser: regelmäßig genug",
+      "absaetze": [
+        "Am besten ist es, dauerhaft ausreichend zu schlafen. Dann ist der Körper auch für kurze Ausnahmephasen gut gerüstet.",
+        "Vor einer bekannten Belastung kann es sinnvoll sein, sich bewusst Zeit für ausreichend Schlaf zu nehmen. Ein kurzes Nickerchen vor einer Nachtschicht kann ebenfalls helfen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deuten kleinere Studien zum Vorschlafen an?",
+      "art": "mc",
+      "optionen": [
+        "Es könnte während späterem Schlafmangel etwas helfen",
+        "Es schadet immer",
+        "Es ersetzt dauerhaft Schlaf",
+        "Es verdoppelt die Leistung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ergebnisse sind vorsichtig positiv, aber dünn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kann man Schlaf beliebig speichern?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Schlaf lässt sich nicht wie ein Akku aufladen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft dir am meisten vor kurzen Phasen mit wenig Schlaf?",
+      "art": "mc",
+      "optionen": [
+        "Dauerhaft ausreichend zu schlafen",
+        "Wochenlang wenig zu schlafen",
+        "Viel Kaffee am Abend",
+        "Keine Pausen zu machen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ausgeschlafene Menschen sind besser gerüstet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mehr Schlaf vor einer Belastung könnte etwas helfen.",
+        "Schlaf lässt sich aber nicht beliebig speichern.",
+        "Dauerhaft genug Schlaf bereitet dich am besten vor."
+      ]
+    }
+  ]
+}

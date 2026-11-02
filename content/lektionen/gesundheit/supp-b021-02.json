@@ -1,0 +1,116 @@
+{
+  "id": "supp-b021-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft L-Carnitin beim Abnehmen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nutrition and health claims",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "l-carnitin",
+    "fettverbrennung",
+    "abnehmen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "L-Carnitin wird als Fettverbrenner beworben. Es soll Fett in die Zellkraftwerke transportieren.",
+        "Hilft es also beim Abnehmen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was L-Carnitin ist",
+      "absaetze": [
+        "L-Carnitin ist ein Stoff, den der Körper selbst in Leber und Nieren herstellt. Zusätzlich nehmen wir ihn vor allem über Fleisch auf.",
+        "Er hilft tatsächlich, Fettsäuren in die Mitochondrien zu transportieren, wo sie verbrannt werden. Gesunde Menschen haben aber genug davon."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Fettverbrenner",
+      "absaetze": [
+        "Mehr L-Carnitin führt nicht dazu, dass mehr Fett verbrannt wird. Wie viel Fett der Körper abbaut, hängt von der Energiebilanz ab, nicht von der Menge an Transportern.",
+        "Die EFSA hat Gesundheitsaussagen zu L-Carnitin und Gewichtsabnahme abgelehnt. Studien bei gesunden Menschen zeigen keinen überzeugenden Effekt."
+      ],
+      "merke": "Mehr L-Carnitin verbrennt nicht mehr Fett.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "L-Carnitin-Präparate können Magen-Darm-Beschwerden und einen fischigen Körpergeruch verursachen.",
+        "Bei Nierenerkrankungen, Schilddrüsenerkrankungen oder Einnahme von Medikamenten sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo stellt der Körper L-Carnitin selbst her?",
+      "art": "mc",
+      "optionen": [
+        "In Leber und Nieren",
+        "In der Haut",
+        "In den Knochen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leber und Nieren bilden L-Carnitin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt ab, wie viel Fett der Körper abbaut?",
+      "art": "mc",
+      "optionen": [
+        "Von der Energiebilanz",
+        "Von der Menge an L-Carnitin",
+        "Von der Haarfarbe",
+        "Vom Wetter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Entscheidend ist die Energiebilanz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die EFSA hat L-Carnitin als Mittel zum Abnehmen anerkannt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Entsprechende Aussagen wurden abgelehnt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "L-Carnitin stellt der Körper selbst her.",
+        "Mehr davon verbrennt nicht mehr Fett.",
+        "Ein Nutzen zum Abnehmen ist nicht belegt."
+      ]
+    }
+  ]
+}

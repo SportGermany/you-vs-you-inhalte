@@ -1,0 +1,113 @@
+{
+  "id": "all-b021-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum gibt es Ebbe und Flut?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gezeiten",
+      "herausgeber": "Bundesamt für Seeschifffahrt und Hydrographie (BSH)",
+      "url": "https://www.bsh.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Tides",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gezeiten",
+    "mond",
+    "nordsee"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Morgens stehst du im Watt, wo sonst Wasser ist. Sechs Stunden später ist das Meer zurück.",
+        "Den Takt gibt ein Himmelskörper vor, der Hunderttausende Kilometer entfernt ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mond zieht am Wasser",
+      "absaetze": [
+        "Die Anziehungskraft des Mondes wirkt auf die ganze Erde, auf der ihm zugewandten Seite aber etwas stärker als auf der abgewandten. Dadurch entstehen zwei Flutberge im Ozean, einer auf der Mondseite und einer auf der gegenüberliegenden Seite.",
+        "Die Erde dreht sich unter diesen Flutbergen hindurch. An den meisten Küsten gibt es deshalb etwa zweimal am Tag Flut und zweimal Ebbe."
+      ],
+      "merke": "Zwei Flutberge entstehen durch die unterschiedlich starke Anziehung des Mondes."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Sonne hilft mit",
+      "absaetze": [
+        "Auch die Sonne erzeugt Gezeiten, aber schwächer als der Mond. Stehen Sonne, Mond und Erde in einer Linie, bei Neumond und Vollmond, addieren sich die Kräfte. Es gibt eine besonders hohe Springflut.",
+        "Stehen Sonne und Mond im rechten Winkel zur Erde, schwächen sie sich gegenseitig. Dann ist der Unterschied geringer, man spricht von Nippflut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschiede an den Küsten",
+      "absaetze": [
+        "Wie stark Ebbe und Flut ausfallen, hängt von der Form der Küste und des Meeresbodens ab. An der deutschen Nordseeküste beträgt der Unterschied meist einige Meter. In der Ostsee ist er dagegen kaum spürbar.",
+        "Das Bundesamt für Seeschifffahrt und Hydrographie veröffentlicht Gezeitenkalender. Wer im Watt wandert, sollte sie kennen oder mit einer Führung gehen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Himmelskörper verursacht vor allem die Gezeiten?",
+      "art": "mc",
+      "optionen": [
+        "Der Mond",
+        "Der Mars",
+        "Die Venus",
+        "Der Polarstern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Mond hat den größten Einfluss."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gibt es eine Springflut?",
+      "art": "mc",
+      "optionen": [
+        "Bei Neumond und Vollmond",
+        "Nur im Winter",
+        "Bei starkem Regen",
+        "Bei Halbmond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wirken Sonne und Mond zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In der Ostsee sind Ebbe und Flut genauso stark wie an der Nordsee.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. In der Ostsee sind sie kaum spürbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Anziehung des Mondes erzeugt zwei Flutberge.",
+        "Bei Neumond und Vollmond verstärkt die Sonne die Gezeiten.",
+        "Die Stärke hängt von der Küste ab, an der Nordsee sind es einige Meter."
+      ]
+    }
+  ]
+}

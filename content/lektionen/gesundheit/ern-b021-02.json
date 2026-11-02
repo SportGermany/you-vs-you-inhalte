@@ -1,0 +1,117 @@
+{
+  "id": "ern-b021-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Agavendicksaft und Kokosblütenzucker gesünder als Zucker?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Referenzwerte für die Nährstoffzufuhr",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zuckeralternativen",
+    "agave",
+    "suessen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Bioladen stehen Agavendicksaft, Kokosblütenzucker und Reissirup. Sie wirken natürlicher als weißer Haushaltszucker.",
+        "Sind sie auch besser für die Gesundheit?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zucker bleibt Zucker",
+      "absaetze": [
+        "Agavendicksaft, Kokosblütenzucker, Reissirup, Ahornsirup und brauner Zucker bestehen alle überwiegend aus Zuckerarten wie Saccharose, Fruchtzucker oder Traubenzucker.",
+        "Sie liefern ähnlich viel Energie wie Haushaltszucker. Die enthaltenen Mineralstoffe sind so gering, dass sie bei üblichen Mengen kaum eine Rolle spielen."
+      ],
+      "merke": "Alternative Süßungsmittel sind vor allem Zucker in anderer Form.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besonderheit Agavendicksaft",
+      "absaetze": [
+        "Agavendicksaft enthält besonders viel Fruchtzucker. Er lässt den Blutzucker zwar langsamer steigen, wird aber vor allem in der Leber verarbeitet.",
+        "Größere Mengen Fruchtzucker aus zugesetztem Zucker können die Leber belasten und die Blutfette ungünstig beeinflussen. Ein Vorteil gegenüber Haushaltszucker ist daher nicht belegt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich hilft",
+      "absaetze": [
+        "Die Verbraucherzentrale weist darauf hin, dass Begriffe wie natürlich oder ohne Zuckerzusatz oft trügen, wenn andere süßende Zutaten enthalten sind.",
+        "Am meisten bringt es, insgesamt weniger zu süßen. Der Geschmack gewöhnt sich nach einigen Wochen an weniger Süße."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen alternative Süßungsmittel wie Kokosblütenzucker überwiegend?",
+      "art": "mc",
+      "optionen": [
+        "Aus Zuckerarten",
+        "Aus Ballaststoffen",
+        "Aus Eiweiß",
+        "Aus Vitaminen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind vor allem Zucker in anderer Form."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält Agavendicksaft besonders viel?",
+      "art": "mc",
+      "optionen": [
+        "Fruchtzucker",
+        "Kalzium",
+        "Eiweiß",
+        "Vitamin D"
+      ],
+      "richtig": 0,
+      "erklaerung": "Agavendicksaft ist besonders fruchtzuckerreich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kokosblütenzucker liefert deutlich weniger Energie als Haushaltszucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Energiegehalt ist ähnlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Agave, Kokosblüte und Co. sind vor allem Zucker.",
+        "Ein gesundheitlicher Vorteil ist nicht belegt.",
+        "Am meisten hilft es, insgesamt weniger zu süßen."
+      ]
+    }
+  ]
+}

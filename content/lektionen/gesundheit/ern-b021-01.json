@@ -1,0 +1,111 @@
+{
+  "id": "ern-b021-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie viel Eiweiß braucht der Mensch?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Referenzwerte für die Nährstoffzufuhr",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "eiweiss",
+    "protein",
+    "bedarf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Proteinriegel, Proteinjoghurt, Proteinpudding. Überall wird mit Eiweiß geworben.",
+        "Wie viel braucht der Körper eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiger Baustein",
+      "absaetze": [
+        "Eiweiß, auch Protein genannt, besteht aus Aminosäuren. Der Körper braucht es für Muskeln, Organe, Enzyme, Hormone und das Immunsystem.",
+        "Einige Aminosäuren kann der Körper nicht selbst bilden. Sie müssen mit der Nahrung aufgenommen werden und heißen deshalb unentbehrlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Referenzwert",
+      "absaetze": [
+        "Die DGE gibt für Erwachsene bis 65 Jahre einen Referenzwert von 0,8 Gramm Eiweiß pro Kilogramm Körpergewicht und Tag an. Für Menschen ab 65 Jahren liegt der Schätzwert bei 1,0 Gramm pro Kilogramm.",
+        "Die meisten Menschen in Deutschland erreichen diese Mengen mit ihrer normalen Ernährung, viele liegen sogar deutlich darüber."
+      ],
+      "merke": "Die meisten nehmen mit normaler Ernährung genug Eiweiß auf.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Quellen",
+      "absaetze": [
+        "Gute Eiweißquellen sind Hülsenfrüchte, Vollkorn, Nüsse, Milchprodukte, Eier, Fisch und Fleisch. Pflanzliche Quellen ergänzen sich gut, etwa Bohnen mit Getreide.",
+        "Spezielle Proteinprodukte sind für die meisten Menschen nicht nötig. Ältere Menschen sollten dagegen besonders darauf achten, genug Eiweiß aufzunehmen, um Muskeln zu erhalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Referenzwert für Eiweiß nennt die DGE für Erwachsene bis 65?",
+      "art": "mc",
+      "optionen": [
+        "0,8 Gramm pro Kilogramm Körpergewicht",
+        "5 Gramm pro Kilogramm",
+        "0,1 Gramm pro Kilogramm",
+        "Es gibt keinen Wert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Referenzwert liegt bei 0,8 Gramm pro Kilogramm und Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte besonders auf genug Eiweiß achten?",
+      "art": "mc",
+      "optionen": [
+        "Ältere Menschen",
+        "Nur Kinder unter drei",
+        "Niemand",
+        "Nur Bodybuilder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Alter hilft Eiweiß, Muskeln zu erhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die meisten Menschen in Deutschland nehmen zu wenig Eiweiß auf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die meisten erreichen den Referenzwert oder liegen darüber."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eiweiß ist ein wichtiger Baustein für den Körper.",
+        "Die DGE nennt 0,8 Gramm pro Kilogramm, ab 65 Jahren 1,0 Gramm.",
+        "Die meisten sind ausreichend versorgt, Ältere sollten darauf achten."
+      ]
+    }
+  ]
+}

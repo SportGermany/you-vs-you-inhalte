@@ -1,0 +1,107 @@
+{
+  "id": "tech-b021-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Warum ist Glasfaser so schnell?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Breitband und Glasfaser",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "glasfaser",
+    "internet",
+    "licht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Straße wird aufgerissen, bunte Rohre werden verlegt. Bald gibt es hier Glasfaserinternet.",
+        "Was macht die dünnen Glasfäden so leistungsfähig?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht im Glas",
+      "absaetze": [
+        "Eine Glasfaser ist ein hauchdünner Faden aus sehr reinem Glas. Daten werden darin als Lichtimpulse übertragen.",
+        "Das Licht wird an der Grenze zwischen dem Kern der Faser und dem umgebenden Mantel immer wieder reflektiert. So bleibt es im Faden gefangen und kann viele Kilometer zurücklegen, auch um Kurven herum."
+      ],
+      "merke": "In der Glasfaser wird Licht immer wieder reflektiert und so weitergeleitet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Daten, weniger Verluste",
+      "absaetze": [
+        "Licht kann sehr schnell an- und ausgeschaltet werden und in unterschiedlichen Farben gleichzeitig durch eine Faser laufen. Dadurch lassen sich riesige Datenmengen übertragen.",
+        "Anders als Kupferkabel verlieren Glasfasern über lange Strecken kaum Signalstärke. Sie sind außerdem unempfindlich gegen elektrische Störungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bis ins Haus",
+      "absaetze": [
+        "Viele Internetanschlüsse nutzen bisher Glasfaser nur bis zum Verteilerkasten auf der Straße. Das letzte Stück läuft über alte Kupferleitungen, was die Geschwindigkeit begrenzt.",
+        "Beim Ausbau bis ins Haus wird diese Engstelle beseitigt. Glasfaser gilt deshalb als Grundlage für schnelles Internet der Zukunft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden Daten in einer Glasfaser übertragen?",
+      "art": "mc",
+      "optionen": [
+        "Als Lichtimpulse",
+        "Als Schallwellen",
+        "Als Wasserdruck",
+        "Als Magnetfelder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht trägt die Daten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bleibt das Licht in der Faser?",
+      "art": "mc",
+      "optionen": [
+        "Es wird an der Grenze zum Mantel immer wieder reflektiert",
+        "Die Faser ist schwarz angemalt",
+        "Es ist zu langsam zum Entkommen",
+        "Durch einen Magneten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Reflexion hält das Licht im Kern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Glasfasern sind empfindlich gegen elektrische Störungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind unempfindlich dagegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glasfasern übertragen Daten als Lichtimpulse.",
+        "Sie transportieren riesige Datenmengen mit wenig Verlust.",
+        "Erst Glasfaser bis ins Haus beseitigt die Kupfer-Engstelle."
+      ]
+    }
+  ]
+}

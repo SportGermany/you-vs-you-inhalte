@@ -1,0 +1,107 @@
+{
+  "id": "koer-b021-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Woher kommt der Schluckauf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schluckauf",
+    "zwerchfell",
+    "reflex"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hick! Mitten im Gespräch geht es los, und du kannst es nicht stoppen.",
+        "Was passiert da in deinem Körper?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Zucken des Zwerchfells",
+      "absaetze": [
+        "Das Zwerchfell ist ein großer Muskel unter der Lunge, der beim Atmen hilft. Beim Schluckauf zieht es sich plötzlich und unwillkürlich zusammen.",
+        "Dadurch wird blitzschnell Luft eingesogen. Gleichzeitig schließt sich die Stimmritze im Kehlkopf. Die einströmende Luft trifft auf die geschlossene Stimmritze, und es entsteht das typische Hick."
+      ],
+      "merke": "Beim Schluckauf zuckt das Zwerchfell, und die Stimmritze schließt sich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Auslöser",
+      "absaetze": [
+        "Schluckauf entsteht oft nach hastigem Essen, kohlensäurehaltigen Getränken, Alkohol oder plötzlichen Temperaturwechseln. Auch Aufregung kann ihn auslösen.",
+        "Warum es Schluckauf überhaupt gibt, ist nicht abschließend geklärt. Schon Ungeborene im Mutterleib haben Schluckauf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Meist verschwindet Schluckauf nach wenigen Minuten von selbst. Viele Hausmittel wie Luft anhalten, langsam Wasser trinken oder sich erschrecken lassen, sind wissenschaftlich kaum untersucht, helfen manchen aber.",
+        "Hält Schluckauf länger als zwei Tage an oder kehrt er häufig wieder, sollte er ärztlich abgeklärt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Muskel zieht sich beim Schluckauf zusammen?",
+      "art": "mc",
+      "optionen": [
+        "Das Zwerchfell",
+        "Der Bizeps",
+        "Der Herzmuskel",
+        "Die Wadenmuskulatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Zwerchfell zuckt unwillkürlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erzeugt das typische Hick?",
+      "art": "mc",
+      "optionen": [
+        "Luft, die auf die geschlossene Stimmritze trifft",
+        "Der Magen",
+        "Die Zähne",
+        "Die Ohren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Stimmritze schließt sich beim Einatmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schluckauf, der länger als zwei Tage anhält, sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Normaler Schluckauf vergeht nach Minuten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Schluckauf zuckt das Zwerchfell unwillkürlich.",
+        "Hastiges Essen und Kohlensäure können ihn auslösen.",
+        "Meist vergeht er von selbst, anhaltender Schluckauf gehört abgeklärt."
+      ]
+    }
+  ]
+}
