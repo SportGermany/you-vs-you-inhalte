@@ -1,0 +1,112 @@
+{
+  "id": "stoff-b017-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wann ist Cholesterin zu hoch?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Cholesterin",
+      "herausgeber": "Deutsche Herzstiftung",
+      "url": "https://www.herzstiftung.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "cholesterin",
+    "ldl",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Check-up steht auf dem Laborbefund: LDL erhöht. Die Ärztin wirkt besorgt.",
+        "Was bedeuten die Cholesterinwerte?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiger Stoff",
+      "absaetze": [
+        "Cholesterin ist ein fettähnlicher Stoff, den der Körper selbst bildet. Er braucht es für Zellwände, Hormone und Vitamin D.",
+        "Im Blut wird Cholesterin in Transportteilchen befördert. Das LDL-Cholesterin bringt es zu den Geweben, das HDL-Cholesterin transportiert überschüssiges zurück zur Leber."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum LDL zählt",
+      "absaetze": [
+        "Ist zu viel LDL-Cholesterin im Blut, kann es sich in den Gefäßwänden ablagern. Über Jahre entstehen Verengungen, die zu Herzinfarkt und Schlaganfall führen können.",
+        "Welcher Wert zu hoch ist, hängt vom persönlichen Risiko ab. Wer schon einen Herzinfarkt hatte oder Diabetes hat, sollte niedrigere Werte erreichen als jemand ohne Risikofaktoren."
+      ],
+      "merke": "Ein hohes LDL-Cholesterin fördert Ablagerungen in den Gefäßen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Weniger gesättigte Fette, mehr Ballaststoffe, Bewegung, ein gesundes Gewicht und Nichtrauchen verbessern die Werte. Manche Menschen haben aber eine erbliche Form mit sehr hohen Werten, die man allein mit Lebensstil kaum senken kann.",
+        "Dann und bei hohem Risiko verordnen Ärztinnen und Ärzte oft Medikamente wie Statine. Sie senken das LDL zuverlässig und das Risiko für Herzinfarkte nachweislich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Cholesterin kann sich in den Gefäßwänden ablagern?",
+      "art": "mc",
+      "optionen": [
+        "Vor allem LDL-Cholesterin",
+        "Nur HDL-Cholesterin",
+        "Gar keins",
+        "Nur Cholesterin aus Obst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein hohes LDL fördert Ablagerungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt ab, welcher Cholesterinwert zu hoch ist?",
+      "art": "mc",
+      "optionen": [
+        "Vom persönlichen Herz-Kreislauf-Risiko",
+        "Nur vom Alter",
+        "Von der Haarfarbe",
+        "Vom Wochentag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei höherem Risiko gelten strengere Zielwerte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Menschen haben erblich sehr hohe Cholesterinwerte.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann reicht Lebensstil allein oft nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cholesterin ist lebenswichtig, zu viel LDL schadet den Gefäßen.",
+        "Der Zielwert hängt vom persönlichen Risiko ab.",
+        "Lebensstil hilft, bei hohem Risiko oft zusätzlich Medikamente.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

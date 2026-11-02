@@ -1,0 +1,113 @@
+{
+  "id": "geld-b017-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind Anleihen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Anleihen und Geldanlage",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Wohnen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "anleihen",
+    "zinsen",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Staat braucht Geld für Schulen und Straßen. Ein Unternehmen will eine neue Fabrik bauen.",
+        "Beide können sich Geld bei Anlegern leihen, indem sie Anleihen ausgeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kredit in Wertpapierform",
+      "absaetze": [
+        "Wer eine Anleihe kauft, leiht dem Herausgeber Geld für eine bestimmte Zeit. Dafür erhält man meist regelmäßig Zinsen. Am Ende der Laufzeit bekommt man den Betrag zurück.",
+        "Herausgeber können Staaten, Bundesländer oder Unternehmen sein. Deutsche Staatsanleihen gelten als besonders sicher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Risiko und Zins",
+      "absaetze": [
+        "Je unsicherer es ist, ob der Herausgeber zurückzahlen kann, desto höher ist meist der Zins. Ratingagenturen bewerten die Zahlungsfähigkeit mit Noten.",
+        "Fällt ein Herausgeber aus, kann man einen Teil oder alles verlieren. Hohe Zinsen sind deshalb immer ein Hinweis auf ein höheres Risiko."
+      ],
+      "merke": "Hoher Zins bedeutet höheres Ausfallrisiko."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurse schwanken mit dem Zins",
+      "absaetze": [
+        "Anleihen werden an der Börse gehandelt. Steigen die allgemeinen Zinsen, sinkt der Kurs älterer Anleihen mit niedrigerem Zins, weil neue Anleihen attraktiver sind. Fallen die Zinsen, steigen die Kurse.",
+        "Wer eine Anleihe bis zum Ende hält, bekommt bei sicheren Herausgebern trotzdem den vollen Betrag zurück. Viele Anleger nutzen Anleihen, um ein Aktiendepot stabiler zu machen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tut man, wenn man eine Anleihe kauft?",
+      "art": "mc",
+      "optionen": [
+        "Man leiht dem Herausgeber Geld",
+        "Man wird Miteigentümer einer Firma",
+        "Man kauft Gold",
+        "Man schließt eine Versicherung ab"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Anleihe ist ein Kredit in Wertpapierform."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet ein besonders hoher Zins bei einer Anleihe meist?",
+      "art": "mc",
+      "optionen": [
+        "Ein höheres Ausfallrisiko",
+        "Völlige Sicherheit",
+        "Eine staatliche Garantie",
+        "Keine Schwankungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Höherer Zins gleicht ein höheres Risiko aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Steigen die allgemeinen Zinsen, steigen auch die Kurse älterer Anleihen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ihre Kurse sinken dann meist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mit einer Anleihe leihst du Staat oder Unternehmen Geld gegen Zinsen.",
+        "Hohe Zinsen bedeuten meist hohes Risiko.",
+        "Kurse von Anleihen bewegen sich gegenläufig zu den Zinsen."
+      ]
+    }
+  ]
+}

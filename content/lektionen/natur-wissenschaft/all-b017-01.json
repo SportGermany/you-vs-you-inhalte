@@ -1,0 +1,113 @@
+{
+  "id": "all-b017-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist Dunkle Materie?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Planck und Euclid",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dark Matter",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dunkle-materie",
+    "galaxien",
+    "kosmologie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Alles, was du siehst, von deinem Frühstück bis zu den Sternen, besteht aus gewöhnlicher Materie.",
+        "Doch diese macht nur einen kleinen Teil des Universums aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Galaxien drehen sich zu schnell",
+      "absaetze": [
+        "In den 1970er Jahren maß die Astronomin Vera Rubin, wie schnell Sterne in Galaxien um deren Zentrum kreisen. Die äußeren Sterne waren viel zu schnell.",
+        "Nach der sichtbaren Masse hätten sie aus der Galaxie fliegen müssen. Es muss also zusätzliche, unsichtbare Masse geben, deren Schwerkraft sie festhält. Man nennt sie Dunkle Materie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unsichtbar, aber spürbar",
+      "absaetze": [
+        "Dunkle Materie sendet kein Licht aus und reflektiert keins. Man erkennt sie nur an ihrer Schwerkraft, etwa daran, wie sie das Licht ferner Galaxien ablenkt.",
+        "Nach Messungen des ESA-Satelliten Planck besteht das Universum nur zu etwa fünf Prozent aus gewöhnlicher Materie. Rund ein Viertel ist Dunkle Materie, der Rest eine noch rätselhaftere Dunkle Energie."
+      ],
+      "merke": "Gewöhnliche Materie macht nur etwa fünf Prozent des Universums aus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein offenes Rätsel",
+      "absaetze": [
+        "Woraus Dunkle Materie besteht, weiß bisher niemand. Viele Fachleute vermuten bisher unbekannte Teilchen. Empfindliche Detektoren tief unter der Erde suchen nach ihnen, bislang ohne eindeutigen Erfolg.",
+        "Das ESA-Weltraumteleskop Euclid kartiert seit 2023 Milliarden Galaxien, um mehr über Dunkle Materie und Dunkle Energie herauszufinden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer fand Hinweise auf Dunkle Materie über die Drehung von Galaxien?",
+      "art": "mc",
+      "optionen": [
+        "Vera Rubin",
+        "Marie Curie",
+        "Albert Einstein",
+        "Galileo Galilei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vera Rubin maß die Geschwindigkeiten von Sternen in Galaxien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel des Universums besteht etwa aus gewöhnlicher Materie?",
+      "art": "mc",
+      "optionen": [
+        "Etwa fünf Prozent",
+        "Etwa 95 Prozent",
+        "Etwa die Hälfte",
+        "Alles"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur etwa fünf Prozent sind gewöhnliche Materie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Dunkle Materie wurde bereits direkt mit Detektoren nachgewiesen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein direkter Nachweis steht noch aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sterne in Galaxien kreisen zu schnell für die sichtbare Masse.",
+        "Dunkle Materie ist unsichtbar, wirkt aber durch Schwerkraft.",
+        "Woraus sie besteht, ist noch unbekannt."
+      ]
+    }
+  ]
+}

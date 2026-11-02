@@ -1,0 +1,107 @@
+{
+  "id": "tech-b017-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wo liegen deine Daten in der Cloud?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Cloud-Dienste sicher nutzen",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "cloud",
+    "rechenzentrum",
+    "datensicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Fotos sind auf dem Handy und gleichzeitig auf dem Laptop. Sie liegen in der Cloud, sagt man.",
+        "Aber wo ist diese Wolke eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fremde Computer",
+      "absaetze": [
+        "Die Cloud ist keine Wolke, sondern ein Netz aus Rechenzentren. In großen Hallen stehen Tausende Server, auf denen Anbieter Daten speichern und Programme laufen lassen.",
+        "Wenn du etwas in die Cloud lädst, liegt es also auf den Computern eines Unternehmens, oft an mehreren Orten gleichzeitig. Du greifst über das Internet darauf zu."
+      ],
+      "merke": "Die Cloud ist der Computer von jemand anderem."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile",
+      "absaetze": [
+        "Daten in der Cloud sind von verschiedenen Geräten aus erreichbar. Geht das Handy verloren, sind die Fotos nicht weg.",
+        "Anbieter kümmern sich um Technik, Speicherplatz und Sicherungskopien. Auch viele Programme, etwa für E-Mail oder Textverarbeitung, laufen heute in der Cloud."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Du gibst die Kontrolle über deine Daten teilweise ab. Wichtig ist, wo die Rechenzentren stehen, welche Datenschutzregeln gelten und ob Daten verschlüsselt werden.",
+        "Das BSI rät, Cloud-Konten mit einem starken Passwort und einem zweiten Faktor zu schützen. Besonders sensible Daten kann man vor dem Hochladen selbst verschlüsseln. Eine zusätzliche Sicherung an anderem Ort schadet nie."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Cloud technisch gesehen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Netz aus Rechenzentren mit Servern",
+        "Eine echte Wolke",
+        "Ein Satellit",
+        "Ein USB-Stick"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daten liegen auf Servern in Rechenzentren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was rät das BSI für Cloud-Konten?",
+      "art": "mc",
+      "optionen": [
+        "Starkes Passwort und zweiter Faktor",
+        "Kein Passwort",
+        "Passwort mit dem eigenen Namen",
+        "Zugang für alle Freunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sind die Konten besser geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer Daten in die Cloud lädt, behält die volle alleinige Kontrolle darüber.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Man gibt die Kontrolle teilweise an den Anbieter ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Cloud besteht aus Rechenzentren von Anbietern.",
+        "Sie macht Daten überall verfügbar und sichert sie.",
+        "Starke Passwörter, zweiter Faktor und eigene Sicherungen schützen."
+      ]
+    }
+  ]
+}

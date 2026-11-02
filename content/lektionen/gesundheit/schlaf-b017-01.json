@@ -1,0 +1,133 @@
+{
+  "id": "schlaf-b017-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Kann Meditation beim Schlafen helfen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "meditation",
+    "achtsamkeit",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Abends im Bett rasen die Gedanken. Morgen das Meeting, die Rechnung, der Streit von gestern.",
+        "Könnte eine kurze Meditation helfen, zur Ruhe zu kommen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gedanken loslassen",
+      "absaetze": [
+        "Viele Schlafprobleme hängen mit Grübeln und Anspannung zusammen. Achtsamkeitsmeditation übt, Gedanken zu bemerken, ohne ihnen zu folgen oder sie zu bewerten.",
+        "Dabei richtet man die Aufmerksamkeit etwa auf den Atem oder auf Körperempfindungen. Kehren die Gedanken zurück, lenkt man den Fokus freundlich wieder zum Atem."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Auswertungen mehrerer Studien deuten darauf hin, dass Achtsamkeitsprogramme die Schlafqualität verbessern können. Die Effekte sind meist moderat.",
+        "Bei einer echten Schlafstörung gilt die kognitive Verhaltenstherapie für Schlaf als wirksamste Behandlung. Entspannungsverfahren wie Meditation sind dort oft ein Baustein."
+      ],
+      "merke": "Meditation kann helfen, ersetzt aber keine Behandlung von Schlafstörungen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausprobieren",
+      "absaetze": [
+        "Schon wenige Minuten am Abend können ein ruhiges Ritual sein. Auch Atemübungen oder progressive Muskelentspannung, bei der man Muskeln nacheinander an- und entspannt, helfen manchen beim Einschlafen.",
+        "Wichtig ist, nicht krampfhaft einschlafen zu wollen. Meditation dient dem Entspannen, Schlaf kommt dann oft von selbst."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "schritte",
+      "titel": "Eine kurze Abendübung",
+      "schritte": [
+        {
+          "titel": "Bequem liegen",
+          "text": "Leg dich hin und schließe die Augen."
+        },
+        {
+          "titel": "Atem beobachten",
+          "text": "Spür, wie der Atem ein- und ausströmt, ohne ihn zu verändern."
+        },
+        {
+          "titel": "Gedanken bemerken",
+          "text": "Wenn Gedanken auftauchen, benenne sie kurz und kehre zum Atem zurück."
+        },
+        {
+          "titel": "Länger ausatmen",
+          "text": "Atme einige Male länger aus als ein."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was übt Achtsamkeitsmeditation?",
+      "art": "mc",
+      "optionen": [
+        "Gedanken zu bemerken, ohne ihnen zu folgen",
+        "Möglichst viel zu grübeln",
+        "Sofort einzuschlafen",
+        "Den Atem anzuhalten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man nimmt Gedanken wahr, ohne sich in ihnen zu verlieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie groß sind die Effekte von Achtsamkeitsprogrammen auf den Schlaf meist?",
+      "art": "mc",
+      "optionen": [
+        "Moderat",
+        "Riesig",
+        "Gar keine",
+        "Sie verschlechtern den Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Effekte sind meist moderat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Meditation ersetzt bei Schlafstörungen die kognitive Verhaltenstherapie.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie kann ein Baustein sein, aber kein Ersatz."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Meditation hilft, Gedanken loszulassen und zu entspannen.",
+        "Sie kann die Schlafqualität moderat verbessern.",
+        "Bei Schlafstörungen bleibt die Verhaltenstherapie die erste Wahl."
+      ]
+    }
+  ]
+}

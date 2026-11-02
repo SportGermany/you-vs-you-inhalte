@@ -1,0 +1,117 @@
+{
+  "id": "ern-b017-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Honig gesünder als Zucker?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Honig und Säuglinge",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "honig",
+    "zucker",
+    "saeuglinge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Statt Zucker kommt in den Tee jetzt Honig. Das fühlt sich gesünder an.",
+        "Ist es das auch?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Honig ist vor allem Zucker",
+      "absaetze": [
+        "Honig besteht zum größten Teil aus Fruchtzucker und Traubenzucker sowie Wasser. Daneben enthält er kleine Mengen Mineralstoffe, Enzyme und Pflanzenstoffe.",
+        "Diese Mengen sind so gering, dass sie für die Ernährung kaum ins Gewicht fallen. Die WHO zählt Honig deshalb wie Haushaltszucker zum freien Zucker, der begrenzt werden sollte."
+      ],
+      "merke": "Für den Körper ist Honig vor allem Zucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was für Honig spricht",
+      "absaetze": [
+        "Honig schmeckt intensiv, deshalb reicht oft eine kleinere Menge. Bei Husten deuten Studien darauf hin, dass Honig Kindern ab einem Jahr etwas Linderung verschaffen kann.",
+        "Ein Ersatz für Zahnpflege ist er nicht. Wie jeder Zucker kann Honig Karies fördern."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für Säuglinge",
+      "absaetze": [
+        "Honig kann Sporen eines Bakteriums enthalten, das Säuglingsbotulismus auslöst, eine seltene, aber gefährliche Erkrankung. Der Darm von Babys kann sich noch nicht dagegen wehren.",
+        "Das BfR rät deshalb, Kindern im ersten Lebensjahr keinen Honig zu geben, auch nicht am Schnuller."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stuft die WHO Honig ein?",
+      "art": "mc",
+      "optionen": [
+        "Als freien Zucker",
+        "Als Vitaminpräparat",
+        "Als Ballaststoff",
+        "Als Eiweißquelle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Honig zählt wie Haushaltszucker zum freien Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem Alter darf man Kindern laut BfR Honig geben?",
+      "art": "mc",
+      "optionen": [
+        "Nach dem ersten Lebensjahr",
+        "Ab der Geburt",
+        "Ab drei Monaten",
+        "Erst ab zehn Jahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im ersten Lebensjahr wird von Honig abgeraten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Honig enthält so viele Vitamine, dass er die Ernährung deutlich verbessert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Mengen sind dafür viel zu gering."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Honig besteht überwiegend aus Zucker.",
+        "Die WHO zählt ihn zum freien Zucker.",
+        "Säuglinge im ersten Lebensjahr sollten keinen Honig bekommen."
+      ]
+    }
+  ]
+}

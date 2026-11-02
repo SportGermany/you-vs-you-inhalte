@@ -1,0 +1,107 @@
+{
+  "id": "koer-b017-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie entsteht ein Bild in deinem Kopf?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Das Auge",
+      "herausgeber": "Berufsverband der Augenärzte Deutschlands",
+      "url": "https://www.augeninfo.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sehen",
+    "auge",
+    "netzhaut"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du öffnest morgens die Augen, und sofort siehst du dein Zimmer in Farbe und Tiefe.",
+        "Dahinter steckt eine erstaunliche Zusammenarbeit von Auge und Gehirn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Auge als Kamera",
+      "absaetze": [
+        "Licht fällt durch die Hornhaut und die Pupille ins Auge. Die Linse bündelt es und wirft ein Bild auf die Netzhaut an der Rückseite des Auges. Das Bild steht dort auf dem Kopf.",
+        "Damit nahe und ferne Dinge scharf erscheinen, verändert die Linse ihre Form. Mit dem Alter wird sie weniger elastisch, deshalb brauchen viele ab etwa 45 eine Lesebrille."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stäbchen und Zapfen",
+      "absaetze": [
+        "In der Netzhaut sitzen Lichtsinneszellen. Stäbchen sind sehr lichtempfindlich und helfen beim Sehen in der Dämmerung, unterscheiden aber keine Farben.",
+        "Zapfen brauchen mehr Licht und ermöglichen das Farbsehen. Es gibt drei Arten, die besonders auf rotes, grünes oder blaues Licht reagieren. Fehlt eine Art oder arbeitet sie anders, entsteht eine Farbsehschwäche."
+      ],
+      "merke": "Stäbchen sehen im Dunkeln, Zapfen sehen Farben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gehirn sieht mit",
+      "absaetze": [
+        "Der Sehnerv leitet die Signale ins Gehirn. Erst dort entsteht das Bild, das wir wahrnehmen. Das Gehirn dreht es richtig herum und fügt die Eindrücke beider Augen zusammen.",
+        "Wo der Sehnerv das Auge verlässt, gibt es keine Sinneszellen, den blinden Fleck. Wir bemerken ihn nicht, weil das Gehirn die Lücke ergänzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sinneszellen ermöglichen das Farbsehen?",
+      "art": "mc",
+      "optionen": [
+        "Die Zapfen",
+        "Die Stäbchen",
+        "Die Haarzellen",
+        "Die Geschmacksknospen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zapfen reagieren auf unterschiedliche Farben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum brauchen viele ab etwa 45 eine Lesebrille?",
+      "art": "mc",
+      "optionen": [
+        "Weil die Linse weniger elastisch wird",
+        "Weil die Netzhaut wächst",
+        "Weil die Pupille verschwindet",
+        "Weil die Augen kleiner werden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Linse kann sich schlechter auf Nähe einstellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wir bemerken den blinden Fleck normalerweise nicht, weil das Gehirn die Lücke ergänzt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Gehirn füllt fehlende Informationen auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Linse wirft ein Bild auf die Netzhaut.",
+        "Stäbchen sehen im Dunkeln, Zapfen sehen Farben.",
+        "Erst das Gehirn macht aus den Signalen ein Bild."
+      ]
+    }
+  ]
+}

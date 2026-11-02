@@ -1,0 +1,107 @@
+{
+  "id": "haus-b017-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie prüfst du deine Nebenkostenabrechnung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Wohnen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nebenkosten",
+    "miete",
+    "abrechnung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Briefkasten liegt die Nebenkostenabrechnung. Unten steht eine Nachzahlung von mehreren Hundert Euro.",
+        "Musst du einfach zahlen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fristen beachten",
+      "absaetze": [
+        "Der Vermieter muss über die Nebenkosten jährlich abrechnen. Die Abrechnung muss spätestens zwölf Monate nach Ende des Abrechnungszeitraums bei dir sein.",
+        "Kommt sie zu spät, darf der Vermieter in der Regel keine Nachzahlung mehr verlangen. Ein Guthaben muss er trotzdem auszahlen."
+      ],
+      "merke": "Abrechnung zu spät: keine Nachzahlung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur bestimmte Kosten",
+      "absaetze": [
+        "Umlegen darf der Vermieter nur Betriebskosten, die im Mietvertrag vereinbart sind und gesetzlich erlaubt sind. Dazu zählen etwa Grundsteuer, Wasser, Müllabfuhr, Hausreinigung und Heizung.",
+        "Reparaturen, Instandhaltung und Verwaltungskosten gehören nicht dazu. Diese muss der Vermieter selbst tragen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genau hinschauen",
+      "absaetze": [
+        "Prüfe, ob die Wohnfläche stimmt, der Verteilerschlüssel nachvollziehbar ist und keine fremden Kosten auftauchen. Vergleiche auch mit dem Vorjahr.",
+        "Du hast das Recht, die Belege beim Vermieter einzusehen. Einwände musst du grundsätzlich innerhalb von zwölf Monaten nach Erhalt erheben. Mietervereine und Verbraucherzentralen helfen bei der Prüfung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis wann muss die Nebenkostenabrechnung spätestens beim Mieter sein?",
+      "art": "mc",
+      "optionen": [
+        "Zwölf Monate nach Ende des Abrechnungszeitraums",
+        "Eine Woche danach",
+        "Drei Jahre danach",
+        "Es gibt keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Frist beträgt zwölf Monate."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kosten darf der Vermieter nicht umlegen?",
+      "art": "mc",
+      "optionen": [
+        "Reparaturen und Verwaltung",
+        "Müllabfuhr",
+        "Wasser",
+        "Grundsteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Instandhaltung und Verwaltung trägt der Vermieter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mieter dürfen die Belege zur Abrechnung einsehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie haben ein Recht auf Belegeinsicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Abrechnung muss spätestens zwölf Monate nach Ende des Zeitraums da sein.",
+        "Nur vereinbarte Betriebskosten dürfen umgelegt werden.",
+        "Belege einsehen und Einwände rechtzeitig erheben."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "zeit-b017-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Wie kam der Euro in unsere Geldbörsen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Der Euro",
+      "herausgeber": "Europäische Zentralbank",
+      "url": "https://www.ecb.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "euro",
+    "waehrung",
+    "europa"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Silvester 2001. Kurz nach Mitternacht ziehen Menschen an Geldautomaten neue, bunte Scheine.",
+        "In zwölf Ländern gibt es plötzlich dasselbe Geld."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee einer gemeinsamen Währung",
+      "absaetze": [
+        "Mit dem Vertrag von Maastricht beschlossen die EU-Staaten 1992 eine Wirtschafts- und Währungsunion. Wer mitmachen wollte, musste Bedingungen erfüllen, etwa bei Staatsschulden und Inflation.",
+        "1999 wurde der Euro zunächst als Buchgeld eingeführt, also für Überweisungen und an den Börsen. Die Wechselkurse der alten Währungen wurden fest verknüpft, eine D-Mark entsprach etwa 51 Cent."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bargeld ab 2002",
+      "absaetze": [
+        "Am 1. Januar 2002 kamen Euro-Münzen und -Scheine in Umlauf. Die D-Mark verschwand nach einer kurzen Übergangszeit aus dem Alltag.",
+        "Seitdem ist der Kreis gewachsen. Heute nutzen mehr als 20 EU-Staaten den Euro. Über die Geldpolitik entscheidet die Europäische Zentralbank in Frankfurt am Main."
+      ],
+      "merke": "Seit 2002 bezahlen Menschen in vielen EU-Staaten mit Euro-Bargeld."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefühlt teurer?",
+      "absaetze": [
+        "Viele Menschen hatten nach der Einführung das Gefühl, alles sei teurer geworden. Bei einigen Dienstleistungen wie in Restaurants stiegen die Preise tatsächlich spürbar.",
+        "Die gemessene allgemeine Inflation stieg durch die Umstellung aber nur wenig. Der Euro erleichtert Reisen und Handel in Europa erheblich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kam das Euro-Bargeld in Umlauf?",
+      "art": "mc",
+      "optionen": [
+        "Am 1. Januar 2002",
+        "Am 1. Januar 1999",
+        "Am 3. Oktober 1990",
+        "Am 1. Januar 1992"
+      ],
+      "richtig": 0,
+      "erklaerung": "Münzen und Scheine kamen 2002."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entscheidet über die Geldpolitik für den Euro?",
+      "art": "mc",
+      "optionen": [
+        "Die Europäische Zentralbank",
+        "Die Bundesregierung allein",
+        "Der Internationale Währungsfonds",
+        "Die Weltbank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die EZB in Frankfurt ist zuständig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Euro wurde 1999 zunächst nur als Buchgeld eingeführt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bargeld folgte drei Jahre später."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Vertrag von Maastricht 1992 bereitete den Euro vor.",
+        "1999 kam der Euro als Buchgeld, 2002 als Bargeld.",
+        "Die Europäische Zentralbank steuert die Geldpolitik."
+      ]
+    }
+  ]
+}

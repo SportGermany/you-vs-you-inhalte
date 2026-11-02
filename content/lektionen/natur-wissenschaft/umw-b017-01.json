@@ -1,0 +1,113 @@
+{
+  "id": "umw-b017-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie entsteht ein Gewitter?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetter- und Klimalexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gewitter",
+    "blitz",
+    "wetter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein schwüler Sommernachmittag. Im Westen türmen sich riesige Wolken auf, es wird plötzlich dunkel.",
+        "Dann zuckt der erste Blitz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warme, feuchte Luft steigt auf",
+      "absaetze": [
+        "Gewitter entstehen, wenn feuchtwarme Luft schnell aufsteigt. Dabei kühlt sie ab, der Wasserdampf kondensiert, und es bilden sich hoch aufragende Wolken, sogenannte Gewitterwolken.",
+        "Ihre Obergrenze kann über zehn Kilometer hoch liegen. Im Inneren gibt es starke Auf- und Abwinde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie der Blitz entsteht",
+      "absaetze": [
+        "In der Wolke stoßen Eiskristalle, Graupel und Wassertropfen zusammen. Dabei werden elektrische Ladungen getrennt. Oben sammelt sich meist positive, unten negative Ladung.",
+        "Wird die Spannung zu groß, entlädt sie sich als Blitz. Die Luft erhitzt sich dabei schlagartig auf Zehntausende Grad und dehnt sich explosionsartig aus. Das hören wir als Donner."
+      ],
+      "merke": "Donner ist die explosionsartige Ausdehnung der vom Blitz erhitzten Luft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher bei Gewitter",
+      "absaetze": [
+        "Den Abstand eines Gewitters kann man grob schätzen: Sekunden zwischen Blitz und Donner geteilt durch drei ergibt ungefähr die Entfernung in Kilometern.",
+        "Gebäude und Autos mit Metallkarosserie bieten guten Schutz. Im Freien sollte man einzeln stehende Bäume, Anhöhen und Wasser meiden und sich mit geschlossenen Füßen in eine Mulde hocken."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Vor Eichen sollst du weichen, Buchen sollst du suchen.",
+      "urteil": "mythos",
+      "erklaerung": "Der Blitz unterscheidet nicht zwischen Baumarten. Er schlägt bevorzugt in hohe, einzeln stehende Objekte ein. Unter keinem Baum ist man bei Gewitter sicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht Donner?",
+      "art": "mc",
+      "optionen": [
+        "Durch die explosionsartige Ausdehnung erhitzter Luft",
+        "Durch zusammenstoßende Wolken",
+        "Durch fallenden Regen",
+        "Durch Wind in den Bäumen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Blitz erhitzt die Luft schlagartig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schätzt man grob die Entfernung eines Gewitters?",
+      "art": "mc",
+      "optionen": [
+        "Sekunden zwischen Blitz und Donner geteilt durch drei",
+        "Sekunden mal zehn",
+        "Anzahl der Blitze pro Minute",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ergibt ungefähr die Entfernung in Kilometern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Unter einer Buche ist man bei Gewitter sicher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Unter keinem Baum ist man sicher."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gewitter entstehen durch schnell aufsteigende feuchtwarme Luft.",
+        "Ladungstrennung in der Wolke führt zu Blitzen, die erhitzte Luft knallt als Donner.",
+        "Gebäude und Autos schützen, einzelne Bäume nicht."
+      ]
+    }
+  ]
+}
