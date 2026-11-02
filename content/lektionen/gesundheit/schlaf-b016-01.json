@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b016-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was hilft gegen Schnarchen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schnarchen",
+    "partnerschaft",
+    "atemwege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Partner schnarcht so laut, dass du ins Wohnzimmer flüchtest.",
+        "Muss das so bleiben?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Schnarchen entsteht",
+      "absaetze": [
+        "Im Schlaf entspannt sich die Muskulatur im Rachen. Die Atemwege werden enger, und Gewebe wie Gaumensegel und Zäpfchen beginnt beim Atmen zu flattern. Das erzeugt das Geräusch.",
+        "Schnarchen ist sehr verbreitet, besonders bei Männern und im Alter. Es kann harmlos sein, aber auch ein Hinweis auf nächtliche Atemaussetzer."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was es begünstigt",
+      "absaetze": [
+        "Rückenlage, Übergewicht, Alkohol am Abend, Schlafmittel und eine verstopfte Nase verstärken das Schnarchen. Auch Rauchen reizt die Schleimhäute.",
+        "Viele schnarchen deutlich weniger, wenn sie auf der Seite schlafen. Gewichtsabnahme und abends kein Alkohol helfen ebenfalls oft."
+      ],
+      "merke": "Seitenlage und kein Alkohol am Abend helfen vielen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann zum Arzt",
+      "absaetze": [
+        "Wenn Schnarchen von Atempausen, starker Tagesmüdigkeit oder morgendlichen Kopfschmerzen begleitet wird, sollte eine Schlafapnoe ausgeschlossen werden.",
+        "Für harmloses Schnarchen gibt es Hilfsmittel wie spezielle Zahnschienen, die den Unterkiefer leicht nach vorn schieben. Sie sollten zahnärztlich angepasst werden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verursacht das Schnarchgeräusch?",
+      "art": "mc",
+      "optionen": [
+        "Flatterndes Gewebe in verengten Atemwegen",
+        "Die Lunge",
+        "Der Magen",
+        "Die Ohren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gaumensegel und Zäpfchen flattern beim Atmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft vielen gegen Schnarchen?",
+      "art": "mc",
+      "optionen": [
+        "Auf der Seite schlafen",
+        "Abends viel Alkohol",
+        "Schlafmittel",
+        "Nur auf dem Rücken liegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Seitenlage bleiben die Atemwege oft offener."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schnarchen mit Atempausen und Tagesmüdigkeit sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann eine Schlafapnoe dahinterstecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schnarchen entsteht durch flatterndes Gewebe in verengten Atemwegen.",
+        "Seitenlage, weniger Gewicht und kein Alkohol am Abend helfen oft.",
+        "Atempausen und Tagesmüdigkeit gehören ärztlich abgeklärt."
+      ]
+    }
+  ]
+}

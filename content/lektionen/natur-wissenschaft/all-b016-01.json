@@ -1,0 +1,113 @@
+{
+  "id": "all-b016-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Komet?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rosetta",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Comets",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "komet",
+    "rosetta",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hin und wieder erscheint am Himmel ein Lichtfleck mit einem langen, leuchtenden Schweif.",
+        "Früher galten Kometen als Unglücksboten. Heute weiß man, was sie sind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schmutzige Schneebälle",
+      "absaetze": [
+        "Kometen sind Brocken aus Eis, Staub und Gestein, oft nur wenige Kilometer groß. Sie stammen aus den äußeren, kalten Bereichen des Sonnensystems.",
+        "Manche umkreisen die Sonne auf lang gestreckten Bahnen. Der bekannte Halleysche Komet kehrt etwa alle 76 Jahre zurück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Schweif",
+      "absaetze": [
+        "Kommt ein Komet der Sonne näher, verdampft ein Teil des Eises. Gas und Staub bilden eine Hülle um den Kern, die Koma.",
+        "Sonnenwind und Strahlung drücken das Material weg. So entsteht der Schweif, der immer von der Sonne weg zeigt, egal in welche Richtung der Komet fliegt."
+      ],
+      "merke": "Der Schweif eines Kometen zeigt immer von der Sonne weg."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Landung auf einem Kometen",
+      "absaetze": [
+        "Die europäische Raumsonde Rosetta begleitete ab 2014 den Kometen Tschurjumow-Gerassimenko. Im November 2014 landete das Landegerät Philae auf seiner Oberfläche, eine Premiere.",
+        "Kometen gelten als Überreste aus der Entstehungszeit des Sonnensystems. Sie verraten, woraus die Planeten einst entstanden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen Kometen vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Aus Eis, Staub und Gestein",
+        "Aus flüssigem Metall",
+        "Aus reinem Gas",
+        "Aus Glas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kometen sind schmutzige Schneebälle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welche Richtung zeigt der Schweif eines Kometen?",
+      "art": "mc",
+      "optionen": [
+        "Immer von der Sonne weg",
+        "Immer zur Erde",
+        "Immer in Flugrichtung",
+        "Zufällig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonnenwind und Strahlung drücken ihn weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "2014 landete erstmals ein Landegerät auf einem Kometen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Philae landete auf dem Kometen Tschurjumow-Gerassimenko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kometen sind Brocken aus Eis, Staub und Gestein.",
+        "In Sonnennähe bilden sie eine Koma und einen Schweif.",
+        "Die Rosetta-Mission landete 2014 erstmals auf einem Kometen."
+      ]
+    }
+  ]
+}

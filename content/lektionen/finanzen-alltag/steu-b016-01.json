@@ -1,0 +1,113 @@
+{
+  "id": "steu-b016-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was sind Sonderausgaben?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Energie und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonderausgaben",
+    "spenden",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du spendest an eine Hilfsorganisation und zahlst Kirchensteuer. Beides kannst du in der Steuererklärung angeben.",
+        "Diese Kosten heißen Sonderausgaben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kosten des privaten Lebens",
+      "absaetze": [
+        "Sonderausgaben sind bestimmte private Ausgaben, die der Staat steuerlich fördert. Sie haben nichts mit dem Beruf zu tun, im Gegensatz zu den Werbungskosten.",
+        "Sie senken das zu versteuernde Einkommen. Für einige gibt es Höchstbeträge, für andere nur eine kleine Pauschale, wenn man nichts angibt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Beispiele",
+      "absaetze": [
+        "Dazu gehören Beiträge zur Kranken-, Pflege- und Rentenversicherung, gezahlte Kirchensteuer, Spenden an gemeinnützige Organisationen und ein Teil der Kinderbetreuungskosten.",
+        "Auch Kosten für eine erste Ausbildung oder ein Erststudium können als Sonderausgaben gelten, bis zu einem Höchstbetrag."
+      ],
+      "merke": "Versicherungsbeiträge, Spenden und Kirchensteuer sind typische Sonderausgaben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Belege sammeln",
+      "absaetze": [
+        "Spenden bis zu einer bestimmten Höhe kann man mit dem Kontoauszug nachweisen, darüber braucht man eine Zuwendungsbestätigung. Viele Versicherungsbeiträge meldet die Versicherung direkt ans Finanzamt.",
+        "Es lohnt sich, über das Jahr Belege zu sammeln. So vergisst man bei der Steuererklärung nichts."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was unterscheidet Sonderausgaben von Werbungskosten?",
+      "art": "mc",
+      "optionen": [
+        "Sie betreffen das Privatleben, nicht den Beruf",
+        "Sie sind immer höher",
+        "Sie zählen nur für Rentner",
+        "Es gibt keinen Unterschied"
+      ],
+      "richtig": 0,
+      "erklaerung": "Werbungskosten hängen mit dem Beruf zusammen, Sonderausgaben nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört zu den Sonderausgaben?",
+      "art": "mc",
+      "optionen": [
+        "Spenden an gemeinnützige Organisationen",
+        "Fahrten zur Arbeit",
+        "Arbeitskleidung",
+        "Fachbücher für den Job"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spenden sind typische Sonderausgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sonderausgaben senken das zu versteuernde Einkommen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dadurch sinkt die Steuer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sonderausgaben sind steuerlich geförderte private Ausgaben.",
+        "Typisch sind Versicherungsbeiträge, Spenden und Kirchensteuer.",
+        "Belege übers Jahr sammeln lohnt sich."
+      ]
+    }
+  ]
+}

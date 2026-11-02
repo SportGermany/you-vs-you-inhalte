@@ -1,0 +1,107 @@
+{
+  "id": "koer-b016-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie bringt deine Lunge Sauerstoff ins Blut?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Die Lunge",
+      "herausgeber": "Deutsche Lungenstiftung",
+      "url": "https://www.lungenstiftung.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lunge",
+    "atmung",
+    "sauerstoff"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du atmest gerade, ohne darüber nachzudenken. Etwa 12- bis 20-mal pro Minute in Ruhe.",
+        "Jeder Atemzug bringt Sauerstoff tief in deinen Körper."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Weg der Luft",
+      "absaetze": [
+        "Die Luft strömt durch Nase oder Mund in die Luftröhre. Diese teilt sich in zwei Bronchien, die sich immer weiter verästeln wie die Zweige eines Baumes.",
+        "Am Ende sitzen winzige Lungenbläschen, die Alveolen. Ein Erwachsener hat davon Hunderte Millionen. Zusammen ergeben sie eine riesige Fläche von grob 100 Quadratmetern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Gasaustausch",
+      "absaetze": [
+        "Die Lungenbläschen sind von feinsten Blutgefäßen umgeben. Ihre Wände sind hauchdünn. Sauerstoff wandert aus der Luft ins Blut, Kohlendioxid aus dem Blut in die Luft.",
+        "Das sauerstoffreiche Blut fließt zum Herzen und wird von dort in den ganzen Körper gepumpt. Das Kohlendioxid atmen wir aus."
+      ],
+      "merke": "In den Lungenbläschen tauschen Blut und Luft ihre Gase."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lunge schützen",
+      "absaetze": [
+        "Die Atemwege haben eigene Reinigungssysteme. Feine Härchen und Schleim transportieren Staub und Keime nach oben.",
+        "Rauchen schädigt diese Systeme und die Lungenbläschen dauerhaft. Es ist die wichtigste vermeidbare Ursache für Lungenkrebs und chronische Lungenerkrankungen. Bewegung trainiert dagegen die Atemmuskulatur."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die winzigen Lungenbläschen?",
+      "art": "mc",
+      "optionen": [
+        "Alveolen",
+        "Bronchien",
+        "Kapillaren",
+        "Neuronen"
+      ],
+      "richtig": 0,
+      "erklaerung": "In den Alveolen findet der Gasaustausch statt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gas wandert aus dem Blut in die Atemluft?",
+      "art": "mc",
+      "optionen": [
+        "Kohlendioxid",
+        "Sauerstoff",
+        "Stickstoff",
+        "Helium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kohlendioxid wird ausgeatmet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rauchen ist die wichtigste vermeidbare Ursache für Lungenkrebs.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es schädigt die Lunge dauerhaft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Luft gelangt über verzweigte Atemwege in die Lungenbläschen.",
+        "Dort wandert Sauerstoff ins Blut und Kohlendioxid hinaus.",
+        "Nicht rauchen und Bewegung schützen die Lunge."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "umw-b016-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was passiert mit Plastik in der Gelben Tonne?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kunststoffe und Recycling",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "plastik",
+    "recycling",
+    "verpackung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du trennst deinen Müll sorgfältig. Der Joghurtbecher landet in der Gelben Tonne.",
+        "Aber wird daraus wirklich etwas Neues?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sortieren ist schwierig",
+      "absaetze": [
+        "In Sortieranlagen werden Verpackungen mit Magneten, Luftströmen und Infrarotsensoren nach Materialien getrennt. Es gibt sehr viele verschiedene Kunststoffarten.",
+        "Verbundverpackungen aus mehreren Materialien, etwa beschichtete Folien, lassen sich schwer trennen. Auch schwarze Kunststoffe erkennen manche Sensoren schlecht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Recycling oder Verbrennung",
+      "absaetze": [
+        "Gut sortierte, sortenreine Kunststoffe können zu Granulat verarbeitet und wiederverwendet werden. Ein großer Teil der Kunststoffabfälle wird in Deutschland aber energetisch verwertet, also verbrannt, um Strom und Wärme zu erzeugen.",
+        "Aus recyceltem Plastik entstehen oft Produkte geringerer Qualität, etwa Rohre oder Parkbänke statt neuer Lebensmittelverpackungen."
+      ],
+      "merke": "Nur ein Teil des Plastiks wird zu neuem Plastik."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was am meisten hilft",
+      "absaetze": [
+        "Eine Ausnahme sind PET-Pfandflaschen. Sie werden sortenrein gesammelt und häufig zu neuen Flaschen recycelt.",
+        "Am wirksamsten ist es, Verpackungen zu vermeiden, etwa durch Mehrweg, unverpackte Ware oder Nachfüllpacks. Richtig trennen bleibt trotzdem wichtig, weil es Recycling überhaupt erst ermöglicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit einem großen Teil der Kunststoffabfälle in Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "Er wird verbrannt, um Energie zu gewinnen",
+        "Er wird ins Meer gekippt",
+        "Er wird vergraben",
+        "Er wird gegessen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viel Kunststoff wird energetisch verwertet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Verpackungen lassen sich besonders schwer recyceln?",
+      "art": "mc",
+      "optionen": [
+        "Verbundverpackungen aus mehreren Materialien",
+        "Glasflaschen",
+        "Papierkartons",
+        "Konservendosen aus Metall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehrere fest verbundene Materialien sind schwer zu trennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "PET-Pfandflaschen werden häufig zu neuen Flaschen recycelt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie werden sortenrein gesammelt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Plastik zu sortieren ist schwierig, viele Arten und Verbunde stören.",
+        "Ein großer Teil wird verbrannt, nur ein Teil wird zu neuem Plastik.",
+        "Vermeiden und Mehrweg helfen am meisten, Trennen bleibt wichtig."
+      ]
+    }
+  ]
+}

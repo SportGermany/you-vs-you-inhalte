@@ -1,0 +1,113 @@
+{
+  "id": "vers-b016-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Brauchst du eine Rechtsschutzversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Energie und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Konten und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rechtsschutz",
+    "anwalt",
+    "versicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Vermieter will die Kaution nicht zurückzahlen. Der Arbeitgeber kündigt. Ein Streit vor Gericht kann teuer werden.",
+        "Eine Rechtsschutzversicherung verspricht Hilfe. Lohnt sie sich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie übernimmt",
+      "absaetze": [
+        "Eine Rechtsschutzversicherung zahlt im Streitfall Anwalts- und Gerichtskosten sowie Kosten für Gutachter. Meist wählt man Bausteine aus, etwa für Arbeit, Wohnen, Verkehr oder Privates.",
+        "Viele Verträge enthalten auch eine telefonische Erstberatung durch Anwälte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen und Haken",
+      "absaetze": [
+        "Für viele Bereiche gibt es eine Wartezeit, oft drei Monate. Streitigkeiten, die vor oder kurz nach Vertragsbeginn entstanden sind, sind nicht versichert. Wichtige Bereiche wie Scheidung oder Bauvorhaben sind oft ausgeschlossen.",
+        "Viele Verträge haben eine Selbstbeteiligung. Wer häufig Schäden meldet, riskiert eine Kündigung durch den Versicherer."
+      ],
+      "merke": "Was schon schwelt, ist nicht versichert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen sie sinnvoll sein kann",
+      "absaetze": [
+        "Verbraucherschützer zählen die Rechtsschutzversicherung nicht zu den unverzichtbaren Versicherungen. Sinnvoll kann sie sein, wenn man ein erhöhtes Streitrisiko hat, etwa als Vielfahrer oder bei einem unsicheren Arbeitsverhältnis.",
+        "Wer wenig Geld hat, kann im Streitfall Beratungshilfe oder Prozesskostenhilfe vom Staat beantragen. Gewerkschaften und Mietervereine bieten Mitgliedern oft Rechtsberatung an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zahlt eine Rechtsschutzversicherung im Streitfall?",
+      "art": "mc",
+      "optionen": [
+        "Anwalts- und Gerichtskosten",
+        "Schäden am eigenen Auto",
+        "Arztkosten",
+        "Die Miete"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie übernimmt Kosten eines Rechtsstreits."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Wartezeit?",
+      "art": "mc",
+      "optionen": [
+        "Eine Zeit nach Vertragsbeginn, in der noch kein Schutz besteht",
+        "Die Dauer eines Gerichtsverfahrens",
+        "Die Zeit bis zur Kündigung",
+        "Die Öffnungszeit der Kanzlei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft besteht in den ersten Monaten noch kein Schutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Verbraucherschützer zählen die Rechtsschutzversicherung zu den unverzichtbaren Versicherungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gilt als sinnvoll nur bei erhöhtem Streitrisiko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Rechtsschutzversicherung zahlt Anwalts- und Gerichtskosten.",
+        "Wartezeiten und Ausschlüsse begrenzen den Schutz.",
+        "Alternativen sind Beratungshilfe, Gewerkschaften und Mietervereine."
+      ]
+    }
+  ]
+}

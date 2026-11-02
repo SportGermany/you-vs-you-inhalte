@@ -1,0 +1,111 @@
+{
+  "id": "ern-b016-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was bringen fermentierte Lebensmittel?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fermentiert",
+    "sauerkraut",
+    "darmflora"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sauerkraut, Joghurt, Kefir, Kimchi. Fermentierte Lebensmittel erleben ein Comeback.",
+        "Sind sie wirklich so gut für den Darm?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Fermentation ist",
+      "absaetze": [
+        "Bei der Fermentation verändern Mikroorganismen wie Milchsäurebakterien oder Hefen ein Lebensmittel. Sie bauen Zucker ab und bilden etwa Milchsäure.",
+        "Das macht Lebensmittel haltbarer und verändert ihren Geschmack. So entstehen Sauerkraut aus Weißkohl, Joghurt aus Milch und Sauerteigbrot."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In einer kleinen Studie aus den USA aßen Teilnehmende über zehn Wochen viele fermentierte Lebensmittel. Danach war die Vielfalt ihrer Darmbakterien größer, und bestimmte Entzündungswerte sanken.",
+        "Das deutet auf einen möglichen Nutzen hin. Die Studienlage ist aber noch begrenzt. Klar ist: Fermentierte Lebensmittel wie Joghurt passen gut in eine ausgewogene Ernährung."
+      ],
+      "merke": "Fermentierte Lebensmittel könnten die Darmflora vielfältiger machen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten kannst",
+      "absaetze": [
+        "Viele Produkte im Supermarkt sind wärmebehandelt, etwa Sauerkraut aus der Dose. Dabei werden die lebenden Bakterien abgetötet. Frisches Sauerkraut aus dem Kühlregal enthält sie noch.",
+        "Manche fermentierten Lebensmittel enthalten viel Salz. Wer empfindlich reagiert, sollte langsam beginnen, da Blähungen auftreten können."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei der Fermentation?",
+      "art": "mc",
+      "optionen": [
+        "Mikroorganismen verändern ein Lebensmittel",
+        "Das Lebensmittel wird eingefroren",
+        "Das Lebensmittel wird gebraten",
+        "Das Lebensmittel wird getrocknet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bakterien oder Hefen bauen Zucker ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte eine kleine US-Studie mit viel fermentiertem Essen?",
+      "art": "mc",
+      "optionen": [
+        "Mehr Vielfalt der Darmbakterien",
+        "Weniger Darmbakterien",
+        "Gar keine Veränderung",
+        "Eine starke Gewichtszunahme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Vielfalt der Darmbakterien nahm zu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sauerkraut aus der Dose enthält meist noch viele lebende Bakterien.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Wärmebehandlung tötet sie meist ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fermentation durch Mikroorganismen macht Lebensmittel haltbar.",
+        "Studien deuten auf mögliche Vorteile für die Darmflora hin.",
+        "In wärmebehandelten Konserven stecken meist keine lebenden Kulturen mehr."
+      ]
+    }
+  ]
+}

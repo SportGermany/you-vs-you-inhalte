@@ -1,0 +1,113 @@
+{
+  "id": "zeit-b016-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was geschah in Tschernobyl 1986?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Tschernobyl",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tschernobyl",
+    "atomunfall",
+    "strahlung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ende April 1986 messen Forschende in Schweden plötzlich erhöhte Strahlung. Die Quelle liegt weit entfernt in der Sowjetunion.",
+        "Erst Tage später räumt Moskau einen schweren Unfall ein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Unfall",
+      "absaetze": [
+        "In der Nacht zum 26. April 1986 explodierte bei einem Test Reaktor 4 des Kernkraftwerks Tschernobyl in der heutigen Ukraine. Der Reaktor brannte tagelang.",
+        "Große Mengen radioaktiver Stoffe gelangten in die Atmosphäre. Die Stadt Prypjat wurde evakuiert, später auch eine weite Zone um das Kraftwerk."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Wolke über Europa",
+      "absaetze": [
+        "Winde trugen radioaktive Teilchen über große Teile Europas. In Deutschland wurde vor allem der Süden belastet, weil es dort beim Durchzug der Wolke regnete.",
+        "Eltern ließen Kinder nicht im Sandkasten spielen, frische Milch und Salat wurden gemieden. Bis heute sind in Teilen Bayerns manche Wildpilze und Wildschweine erhöht mit radioaktivem Cäsium belastet."
+      ],
+      "merke": "Die Folgen von Tschernobyl sind in Teilen Deutschlands bis heute messbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was folgte",
+      "absaetze": [
+        "Rettungskräfte und Aufräumarbeiter waren hohen Strahlendosen ausgesetzt, viele erkrankten. In den betroffenen Gebieten stieg später die Zahl von Schilddrüsenkrebs bei Kindern deutlich an.",
+        "Der Unfall veränderte die Debatte über Kernenergie in vielen Ländern nachhaltig. In Deutschland wurde kurz danach ein Bundesumweltministerium gegründet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann explodierte der Reaktor in Tschernobyl?",
+      "art": "mc",
+      "optionen": [
+        "Am 26. April 1986",
+        "Am 11. März 2011",
+        "Am 9. November 1989",
+        "Am 1. Januar 2000"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Unfall geschah in der Nacht zum 26. April 1986."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wurde Süddeutschland stärker belastet?",
+      "art": "mc",
+      "optionen": [
+        "Weil es beim Durchzug der Wolke regnete",
+        "Weil dort ein Kraftwerk stand",
+        "Weil die Sonne schien",
+        "Weil es dort keine Wälder gibt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Regen wusch die radioaktiven Teilchen aus der Luft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Wildpilze in Bayern sind bis heute erhöht belastet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das langlebige Cäsium baut sich nur langsam ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "1986 explodierte in Tschernobyl ein Reaktor.",
+        "Eine radioaktive Wolke zog über Europa, auch über Deutschland.",
+        "Die Folgen sind teils bis heute messbar."
+      ]
+    }
+  ]
+}

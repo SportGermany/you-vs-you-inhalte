@@ -1,0 +1,113 @@
+{
+  "id": "haus-b016-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Lohnt sich ein Balkonkraftwerk?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steckersolargeräte",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Energie und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "balkonkraftwerk",
+    "solar",
+    "strom-sparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Nachbarbalkon hängen zwei Solarmodule. Ein Kabel führt direkt in die Steckdose.",
+        "Kann man so wirklich Strom sparen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Solarstrom aus der Steckdose",
+      "absaetze": [
+        "Ein Balkonkraftwerk, auch Steckersolargerät genannt, besteht aus einem oder wenigen Solarmodulen und einem kleinen Wechselrichter. Es speist den erzeugten Strom direkt in das Hausnetz ein.",
+        "Geräte im Haushalt, die gerade laufen, nutzen diesen Strom zuerst, etwa Kühlschrank oder Router. So sinkt der Strombezug aus dem Netz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einfacher als früher",
+      "absaetze": [
+        "Seit 2024 sind die Regeln deutlich einfacher geworden. Eine Wechselrichterleistung von bis zu 800 Watt ist zulässig. Die Anmeldung erfolgt vereinfacht im Marktstammdatenregister der Bundesnetzagentur.",
+        "Mieterinnen und Mieter sowie Wohnungseigentümer haben inzwischen grundsätzlich einen Anspruch darauf, dass ihnen der Betrieb erlaubt wird. Über die Art der Anbringung darf der Vermieter aber mitreden."
+      ],
+      "merke": "Balkonkraftwerke sind seit 2024 einfacher erlaubt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ob es sich rechnet",
+      "absaetze": [
+        "Wie viel man spart, hängt von Ausrichtung, Verschattung und dem eigenen Verbrauch ab. Am meisten lohnt es sich, wenn tagsüber viel Strom direkt verbraucht wird.",
+        "Bei einer gut ausgerichteten Anlage hat sich der Kaufpreis oft nach einigen Jahren amortisiert, also durch die Ersparnis bezahlt gemacht. Verbraucherzentralen bieten Rechner und Beratung an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Wechselrichterleistung ist für Balkonkraftwerke seit 2024 zulässig?",
+      "art": "mc",
+      "optionen": [
+        "Bis zu 800 Watt",
+        "Bis zu 80 Watt",
+        "Bis zu 8.000 Watt",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Grenze wurde auf 800 Watt angehoben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird ein Balkonkraftwerk angemeldet?",
+      "art": "mc",
+      "optionen": [
+        "Im Marktstammdatenregister",
+        "Beim Einwohnermeldeamt",
+        "Beim Finanzamt als Gewerbe",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die vereinfachte Anmeldung erfolgt im Marktstammdatenregister."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Balkonkraftwerk lohnt sich am meisten, wenn tagsüber viel Strom direkt verbraucht wird.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der eigene Verbrauch des Solarstroms spart am meisten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Balkonkraftwerk speist Solarstrom direkt ins Hausnetz.",
+        "Seit 2024 sind bis zu 800 Watt mit vereinfachter Anmeldung erlaubt.",
+        "Die Ersparnis hängt von Lage und eigenem Verbrauch ab."
+      ]
+    }
+  ]
+}

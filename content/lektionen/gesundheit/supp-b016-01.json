@@ -1,0 +1,125 @@
+{
+  "id": "supp-b016-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchst du beim Sport Elektrolytgetränke?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sportlernahrung",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "elektrolyte",
+    "sport",
+    "trinken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer Stunde Joggen greifen viele zum bunten Sportgetränk. Elektrolyte sollen den Verlust durch Schweiß ausgleichen.",
+        "Braucht es das wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Elektrolyte sind",
+      "absaetze": [
+        "Elektrolyte sind Mineralstoffe wie Natrium, Kalium und Magnesium, die im Körper als geladene Teilchen gelöst sind. Sie sind wichtig für den Wasserhaushalt, Nerven und Muskeln.",
+        "Mit dem Schweiß verliert der Körper vor allem Wasser und Natrium."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für die meisten reicht Wasser",
+      "absaetze": [
+        "Bei normalem Training von etwa einer Stunde reicht Wasser in der Regel völlig aus. Verlorene Mineralstoffe werden mit der nächsten Mahlzeit ersetzt.",
+        "Viele Sportgetränke enthalten außerdem viel Zucker. Für Freizeitsportler sind sie deshalb eher eine zusätzliche Energiequelle als eine Notwendigkeit."
+      ],
+      "merke": "Bei normalem Sport genügt Wasser.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann es anders ist",
+      "absaetze": [
+        "Bei sehr langen Belastungen, etwa einem Marathon, oder bei großer Hitze kann es sinnvoll sein, zusätzlich Natrium und Kohlenhydrate aufzunehmen. Wer bei langen Läufen nur sehr viel Wasser trinkt, riskiert im Extremfall einen gefährlich niedrigen Natriumspiegel.",
+        "Bei Durchfall und Erbrechen empfiehlt die WHO spezielle Trinklösungen, um Flüssigkeit und Salze zu ersetzen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Viele Sportgetränke enthalten viel Zucker.",
+        "Bei Herz- oder Nierenerkrankungen und Bluthochdruck kann zusätzliches Natrium oder Kalium ungünstig sein. Kläre das mit deiner Ärztin oder deinem Arzt. Bei Säuglingen und Kleinkindern mit Durchfall ärztlichen Rat einholen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verliert der Körper mit dem Schweiß vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Wasser und Natrium",
+        "Eisen und Zink",
+        "Vitamin C",
+        "Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schweiß enthält vor allem Wasser und Natrium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was reicht bei normalem Training von etwa einer Stunde meist?",
+      "art": "mc",
+      "optionen": [
+        "Wasser",
+        "Nur Energydrinks",
+        "Nichts trinken",
+        "Nur Salztabletten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser genügt in der Regel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei sehr langen Belastungen kann zusätzliches Natrium sinnvoll sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa bei einem Marathon oder großer Hitze."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Elektrolyte sind Mineralstoffe für Wasserhaushalt, Nerven und Muskeln.",
+        "Bei normalem Sport reicht Wasser.",
+        "Bei sehr langen Belastungen oder Durchfall können Salze sinnvoll sein."
+      ]
+    }
+  ]
+}

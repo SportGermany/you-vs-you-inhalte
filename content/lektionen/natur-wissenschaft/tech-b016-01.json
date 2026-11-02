@@ -1,0 +1,107 @@
+{
+  "id": "tech-b016-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie findet eine Nachricht ihren Weg durchs Internet?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wie funktioniert das Internet?",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "internet",
+    "datenpakete",
+    "ip-adresse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du schickst ein Foto an eine Freundin in Australien. Eine Sekunde später ist es da.",
+        "Dabei reist es nicht am Stück, sondern in vielen kleinen Teilen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Daten in Paketen",
+      "absaetze": [
+        "Im Internet werden Daten in kleine Pakete zerlegt. Jedes Paket enthält einen Teil der Daten und die Adresse des Ziels.",
+        "Die Pakete können unterschiedliche Wege nehmen und werden am Ziel wieder zusammengesetzt. Fehlt ein Paket, wird es neu angefordert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Adressen und Wegweiser",
+      "absaetze": [
+        "Jedes Gerät im Internet hat eine IP-Adresse, ähnlich einer Postanschrift. Router sind die Wegweiser. Sie leiten jedes Paket Schritt für Schritt in Richtung Ziel weiter.",
+        "Damit du nicht Zahlenfolgen eintippen musst, gibt es das Domain Name System, kurz DNS. Es übersetzt Namen wie eine Webadresse in die passende IP-Adresse, ähnlich wie ein Telefonbuch."
+      ],
+      "merke": "Das DNS ist das Telefonbuch des Internets."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kabel unter dem Meer",
+      "absaetze": [
+        "Der größte Teil des internationalen Datenverkehrs läuft nicht über Satelliten, sondern über Glasfaserkabel am Meeresboden. Sie verbinden die Kontinente.",
+        "In den Glasfasern werden die Daten als Lichtsignale übertragen. Deshalb kommen Nachrichten auch über Tausende Kilometer in Sekundenbruchteilen an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden Daten im Internet übertragen?",
+      "art": "mc",
+      "optionen": [
+        "In kleinen Paketen",
+        "Immer am Stück",
+        "Per Post",
+        "Nur per Satellit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daten werden in Pakete zerlegt und am Ziel zusammengesetzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht das DNS?",
+      "art": "mc",
+      "optionen": [
+        "Es übersetzt Namen in IP-Adressen",
+        "Es lädt Akkus",
+        "Es verschlüsselt Fotos",
+        "Es baut Kabel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es funktioniert wie ein Telefonbuch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der größte Teil des internationalen Datenverkehrs läuft über Satelliten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er läuft vor allem über Unterseekabel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Daten reisen in kleinen Paketen durchs Netz.",
+        "IP-Adressen und Router bringen sie ans Ziel, das DNS übersetzt Namen.",
+        "Glasfaserkabel am Meeresboden verbinden die Kontinente."
+      ]
+    }
+  ]
+}

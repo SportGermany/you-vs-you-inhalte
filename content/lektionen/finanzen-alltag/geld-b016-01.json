@@ -1,0 +1,113 @@
+{
+  "id": "geld-b016-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Worauf solltest du beim Girokonto achten?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Energie und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Konten und Versicherungen",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "girokonto",
+    "kontogebuehren",
+    "basiskonto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher war das Girokonto bei vielen Banken kostenlos. Heute kostet es oft jeden Monat Gebühren.",
+        "Lohnt sich ein Vergleich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ein Girokonto kostet",
+      "absaetze": [
+        "Viele Banken verlangen einen monatlichen Grundpreis. Dazu kommen manchmal Gebühren für die Girocard, für Überweisungen auf Papier oder für Abhebungen an fremden Automaten.",
+        "Über ein Jahr können so leicht mehrere Dutzend bis über hundert Euro zusammenkommen. Die Stiftung Warentest und Verbraucherzentralen vergleichen regelmäßig die Angebote."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Konto für alle",
+      "absaetze": [
+        "Ohne Girokonto ist der Alltag kaum möglich: Lohn, Miete und viele Rechnungen laufen darüber. In Deutschland hat deshalb jeder Mensch mit rechtmäßigem Aufenthalt in der EU Anspruch auf ein Basiskonto.",
+        "Banken dürfen es nur in Ausnahmefällen ablehnen, auch nicht wegen eines schlechten Schufa-Eintrags. Die Gebühren müssen angemessen sein."
+      ],
+      "merke": "Jeder hat Anspruch auf ein Basiskonto."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wechseln ist einfach",
+      "absaetze": [
+        "Banken sind gesetzlich verpflichtet, beim Kontowechsel zu helfen. Die neue Bank informiert auf Wunsch Arbeitgeber und Zahlungspartner über die neue Kontoverbindung.",
+        "Achte beim Vergleich auf alle Kosten, nicht nur auf den Grundpreis. Auch der Zinssatz für den Dispo ist wichtig, falls du das Konto einmal überziehst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf hat in Deutschland jeder mit rechtmäßigem Aufenthalt in der EU Anspruch?",
+      "art": "mc",
+      "optionen": [
+        "Auf ein Basiskonto",
+        "Auf einen Kredit",
+        "Auf eine Kreditkarte mit Gold",
+        "Auf kostenlose Aktien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Basiskonto sichert den Zugang zum Zahlungsverkehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was müssen Banken beim Kontowechsel tun?",
+      "art": "mc",
+      "optionen": [
+        "Beim Wechsel helfen",
+        "Den Wechsel verbieten",
+        "Eine hohe Strafe verlangen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kontowechselhilfe ist gesetzlich vorgeschrieben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Bank darf ein Basiskonto wegen eines schlechten Schufa-Eintrags ablehnen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ist kein zulässiger Ablehnungsgrund."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Girokonten kosten oft Gebühren, ein Vergleich lohnt sich.",
+        "Jeder hat Anspruch auf ein Basiskonto.",
+        "Banken müssen beim Kontowechsel helfen."
+      ]
+    }
+  ]
+}
