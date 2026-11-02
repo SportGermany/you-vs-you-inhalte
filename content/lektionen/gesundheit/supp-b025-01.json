@@ -1,0 +1,120 @@
+{
+  "id": "supp-b025-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum sind Betacarotin-Präparate für Rauchende riskant?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "betacarotin",
+    "rauchen",
+    "lungenkrebs"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Betacarotin klingt harmlos. Es steckt in Möhren und macht sie orange.",
+        "Als hoch dosiertes Präparat kann es für Rauchende jedoch gefährlich sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Vorstufe von Vitamin A",
+      "absaetze": [
+        "Betacarotin ist ein Farbstoff aus Pflanzen. Der Körper kann daraus Vitamin A bilden.",
+        "Aus Lebensmitteln wie Möhren, Kürbis oder Spinat ist Betacarotin unbedenklich. Der Körper bildet nur so viel Vitamin A, wie er braucht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überraschende Studienergebnisse",
+      "absaetze": [
+        "In den 1990er-Jahren sollten große Studien zeigen, dass Betacarotin vor Lungenkrebs schützt. Das Gegenteil trat ein.",
+        "Bei Rauchenden und Menschen, die mit Asbest gearbeitet hatten, traten mit hoch dosierten Präparaten mehr Lungenkrebsfälle auf. Mehrere Studien wurden deshalb vorzeitig abgebrochen."
+      ],
+      "merke": "Hoch dosiertes Betacarotin erhöhte bei Rauchenden das Lungenkrebsrisiko.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was daraus folgt",
+      "absaetze": [
+        "Das BfR rät Rauchenden von Präparaten mit Betacarotin ab. In der EU müssen solche Produkte einen Warnhinweis tragen.",
+        "Auch Multivitaminpräparate können Betacarotin enthalten. Ein Blick auf die Zutatenliste lohnt sich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Rauchende und ehemals Rauchende sollten Betacarotin-Präparate nur nach ärztlicher Rücksprache verwenden.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann der Körper aus Betacarotin bilden?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin A",
+        "Vitamin C",
+        "Eisen",
+        "Kalzium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Betacarotin ist eine Vorstufe von Vitamin A."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten große Studien bei Rauchenden?",
+      "art": "mc",
+      "optionen": [
+        "Mehr Lungenkrebsfälle mit hoch dosierten Präparaten",
+        "Vollständigen Schutz vor Krebs",
+        "Keinerlei Wirkung",
+        "Bessere Lungenfunktion"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehrere Studien wurden vorzeitig abgebrochen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Betacarotin aus Möhren ist für Rauchende ebenso riskant wie Präparate.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Aus Lebensmitteln gilt es als unbedenklich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Betacarotin ist eine Vorstufe von Vitamin A.",
+        "Aus Lebensmitteln ist es unbedenklich.",
+        "Hoch dosierte Präparate erhöhten bei Rauchenden das Lungenkrebsrisiko.",
+        "Auch Multivitaminpräparate können es enthalten."
+      ]
+    }
+  ]
+}

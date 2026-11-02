@@ -1,0 +1,114 @@
+{
+  "id": "zeit-b025-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Wie kam es zum deutschen Atomausstieg?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Atomausstieg",
+      "herausgeber": "Bundesamt für die Sicherheit der nuklearen Entsorgung (BASE)",
+      "url": "https://www.base.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "atomausstieg",
+    "fukushima",
+    "energiepolitik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jahrzehntelang lieferten Atomkraftwerke einen großen Teil des Stroms in Deutschland.",
+        "Im April 2023 gingen die letzten drei vom Netz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein langer Streit",
+      "absaetze": [
+        "Seit den 1970er-Jahren protestierten viele Menschen gegen Atomkraft. Der Unfall von Tschernobyl 1986 verstärkte die Sorgen.",
+        "2002 beschloss die rot-grüne Bundesregierung einen schrittweisen Ausstieg. 2010 verlängerte die schwarz-gelbe Regierung die Laufzeiten wieder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Wende nach Fukushima",
+      "absaetze": [
+        "Im März 2011 kam es im japanischen Kraftwerk Fukushima nach einem Erdbeben und Tsunami zu Kernschmelzen.",
+        "Wenige Monate später beschloss der Bundestag mit großer Mehrheit den Ausstieg bis Ende 2022. Mehrere ältere Kraftwerke wurden sofort stillgelegt."
+      ],
+      "merke": "Fukushima führte 2011 zum endgültigen Ausstiegsbeschluss."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Ende 2023",
+      "absaetze": [
+        "Wegen der Energiekrise nach dem russischen Angriff auf die Ukraine liefen die letzten drei Kraftwerke einige Monate länger. Am 15. April 2023 wurden sie abgeschaltet.",
+        "Offen ist noch die Frage nach einem Endlager für den hoch radioaktiven Abfall. Die Suche nach einem Standort läuft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Ereignis führte 2011 zum endgültigen Ausstiegsbeschluss?",
+      "art": "mc",
+      "optionen": [
+        "Die Katastrophe von Fukushima",
+        "Die Mondlandung",
+        "Der Mauerfall",
+        "Die Einführung des Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach Fukushima beschloss der Bundestag den Ausstieg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gingen die letzten drei Atomkraftwerke vom Netz?",
+      "art": "mc",
+      "optionen": [
+        "Am 15. April 2023",
+        "Am 1. Januar 2000",
+        "Im März 2011",
+        "Sie laufen noch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie liefen wegen der Energiekrise einige Monate länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Endlager für hoch radioaktiven Abfall ist in Deutschland bereits in Betrieb.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Standortsuche läuft noch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Atomkraft war in Deutschland lange umstritten.",
+        "2002 Ausstieg, 2010 Laufzeitverlängerung.",
+        "Nach Fukushima beschloss der Bundestag 2011 den Ausstieg.",
+        "Am 15. April 2023 gingen die letzten Kraftwerke vom Netz."
+      ]
+    }
+  ]
+}

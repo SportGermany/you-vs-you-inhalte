@@ -1,0 +1,108 @@
+{
+  "id": "tech-b025-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was macht ein VPN?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherinnen und Verbraucher",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vpn",
+    "verschluesselung",
+    "datenschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Werbung verspricht: Mit einem VPN bist du im Internet unsichtbar.",
+        "Was kann ein VPN wirklich, und was nicht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein verschlüsselter Tunnel",
+      "absaetze": [
+        "VPN steht für Virtual Private Network, auf Deutsch virtuelles privates Netzwerk. Es baut eine verschlüsselte Verbindung zwischen deinem Gerät und einem Server des VPN-Anbieters auf.",
+        "Von dort geht deine Verbindung weiter ins Internet. Webseiten sehen dann die Adresse des VPN-Servers statt deiner eigenen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür es nützt",
+      "absaetze": [
+        "Im offenen WLAN, etwa im Café, schützt ein VPN deine Daten vor neugierigen Mitlesern im selben Netz. Firmen nutzen VPNs, damit Beschäftigte sicher auf das Firmennetz zugreifen.",
+        "Viele Webseiten sind heute aber ohnehin verschlüsselt. Das erkennst du an https in der Adresse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was es nicht kann",
+      "absaetze": [
+        "Ein VPN macht dich nicht anonym. Der Anbieter kann deinen Datenverkehr sehen, du verlagerst also dein Vertrauen zu ihm.",
+        "Vor Schadsoftware, Phishing oder Tracking durch Cookies schützt ein VPN nicht. Wähle einen vertrauenswürdigen Anbieter und sei bei kostenlosen Diensten vorsichtig."
+      ],
+      "merke": "Ein VPN verschiebt das Vertrauen, es macht nicht unsichtbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was baut ein VPN auf?",
+      "art": "mc",
+      "optionen": [
+        "Eine verschlüsselte Verbindung zu einem Server",
+        "Ein neues WLAN-Netz",
+        "Eine Firewall im Router",
+        "Einen Virenscanner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Datenverkehr läuft durch einen verschlüsselten Tunnel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer kann deinen Datenverkehr bei einem VPN sehen?",
+      "art": "mc",
+      "optionen": [
+        "Der VPN-Anbieter",
+        "Niemand auf der Welt",
+        "Nur deine Nachbarn",
+        "Nur dein Drucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du verlagerst dein Vertrauen zum Anbieter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein VPN schützt zuverlässig vor Phishing-Mails.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dagegen hilft ein VPN nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein VPN baut eine verschlüsselte Verbindung zu einem Server auf.",
+        "Im offenen WLAN schützt es vor Mitlesern.",
+        "Anonym macht es nicht, der Anbieter sieht den Verkehr.",
+        "Vor Phishing und Schadsoftware schützt es nicht."
+      ]
+    }
+  ]
+}

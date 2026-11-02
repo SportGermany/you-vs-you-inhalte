@@ -1,0 +1,113 @@
+{
+  "id": "stoff-b025-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was unterscheidet Typ-1- von Typ-2-Diabetes?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes verstehen",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "diabetes",
+    "insulin",
+    "autoimmun"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beide heißen Diabetes, beide betreffen den Blutzucker.",
+        "Trotzdem sind es zwei sehr verschiedene Erkrankungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typ 1: Insulin fehlt",
+      "absaetze": [
+        "Bei Typ-1-Diabetes zerstört das Immunsystem die Zellen der Bauchspeicheldrüse, die Insulin bilden. Es ist also eine Autoimmunerkrankung.",
+        "Der Körper hat dann kaum noch eigenes Insulin. Betroffene müssen ihr Leben lang Insulin zuführen. Typ 1 beginnt oft im Kindes- oder Jugendalter."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typ 2: Insulin wirkt schlechter",
+      "absaetze": [
+        "Typ-2-Diabetes ist viel häufiger. Hier reagieren die Körperzellen schwächer auf Insulin, und mit der Zeit lässt auch die Insulinbildung nach.",
+        "Erbliche Veranlagung, Übergewicht und Bewegungsmangel erhöhen das Risiko. Typ 2 tritt meist im Erwachsenenalter auf, zunehmend aber auch bei Jüngeren."
+      ],
+      "merke": "Typ 1 ist eine Autoimmunerkrankung, Typ 2 hängt stark mit dem Lebensstil zusammen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschiedliche Behandlung",
+      "absaetze": [
+        "Bei Typ 1 ist Insulin immer nötig. Lebensstil kann Typ 1 weder verhindern noch heilen.",
+        "Bei Typ 2 helfen Bewegung, Ernährung und gegebenenfalls Gewichtsabnahme oft deutlich. Bei Bedarf kommen Tabletten oder Insulin dazu. Die Behandlung gehört in ärztliche Hand."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei Typ-1-Diabetes?",
+      "art": "mc",
+      "optionen": [
+        "Das Immunsystem zerstört insulinbildende Zellen",
+        "Man isst zu viel Zucker",
+        "Die Leber bildet zu viel Insulin",
+        "Die Nieren versagen zuerst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Typ 1 ist eine Autoimmunerkrankung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Diabetes-Typ ist viel häufiger?",
+      "art": "mc",
+      "optionen": [
+        "Typ 2",
+        "Typ 1",
+        "Beide gleich häufig",
+        "Keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Typ 2 ist die häufigste Form."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Typ-1-Diabetes lässt sich durch gesunde Ernährung verhindern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Lebensstil kann Typ 1 nicht verhindern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Typ 1 zerstört das Immunsystem insulinbildende Zellen.",
+        "Bei Typ 2 wirkt Insulin schlechter.",
+        "Typ 1 braucht immer Insulin.",
+        "Bei Typ 2 hilft der Lebensstil oft deutlich.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "koer-b025-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum blinzeln wir?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Augeninfo",
+      "herausgeber": "Berufsverband der Augenärzte Deutschlands",
+      "url": "https://www.augeninfo.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blinzeln",
+    "augen",
+    "traenenfilm"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du blinzelst ständig, ohne es zu merken. Viele tausend Mal am Tag.",
+        "Jeder Lidschlag erfüllt eine wichtige Aufgabe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Scheibenwischer fürs Auge",
+      "absaetze": [
+        "Beim Blinzeln verteilt das Lid den Tränenfilm gleichmäßig über das Auge. Dieser dünne Film hält die Hornhaut feucht und glatt.",
+        "Er spült Staub und kleine Fremdkörper weg und enthält Stoffe gegen Keime. Ohne Tränenfilm würde die Oberfläche schnell austrocknen."
+      ],
+      "merke": "Blinzeln verteilt den schützenden Tränenfilm."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Schutzreflex",
+      "absaetze": [
+        "Nähert sich etwas schnell dem Auge, schließt sich das Lid blitzschnell. Dieser Reflex schützt vor Verletzungen.",
+        "Ein Lidschlag dauert nur einen Bruchteil einer Sekunde. Das Gehirn blendet die kurze Dunkelheit aus, deshalb bemerkst du sie nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bildschirme und trockene Augen",
+      "absaetze": [
+        "Wer konzentriert auf einen Bildschirm schaut, blinzelt deutlich seltener. Dadurch können die Augen trocken, gerötet und müde werden.",
+        "Augenärzte raten zu regelmäßigen Pausen und bewusstem Blinzeln. Auch ein Blick in die Ferne entspannt die Augen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verteilt das Blinzeln über das Auge?",
+      "art": "mc",
+      "optionen": [
+        "Den Tränenfilm",
+        "Blut",
+        "Staub",
+        "Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Tränenfilm hält die Hornhaut feucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei konzentrierter Bildschirmarbeit?",
+      "art": "mc",
+      "optionen": [
+        "Man blinzelt seltener",
+        "Man blinzelt ständig doppelt so oft",
+        "Die Augen werden feuchter",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann zu trockenen Augen führen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Gehirn blendet die kurze Dunkelheit beim Blinzeln aus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb bemerkst du sie nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Blinzeln verteilt den Tränenfilm.",
+        "Der Tränenfilm schützt und befeuchtet die Hornhaut.",
+        "Der Lidreflex schützt vor Verletzungen.",
+        "Am Bildschirm blinzeln wir seltener."
+      ]
+    }
+  ]
+}

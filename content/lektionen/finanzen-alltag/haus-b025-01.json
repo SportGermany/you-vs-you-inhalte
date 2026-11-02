@@ -1,0 +1,140 @@
+{
+  "id": "haus-b025-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie erkennst du einen Fake-Shop?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fakeshop-Finder und Einkaufen im Internet",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherinnen und Verbraucher",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fakeshop",
+    "online-shopping",
+    "betrug"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Markenjacke kostet nur die Hälfte, die Seite sieht professionell aus. Du bezahlst, aber die Ware kommt nie an.",
+        "Fake-Shops sind ein verbreitetes Problem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Warnzeichen",
+      "absaetze": [
+        "Auffällig günstige Preise sind ein erstes Warnzeichen. Oft fehlt ein vollständiges Impressum, oder es enthält falsche Angaben.",
+        "Weitere Hinweise sind seltsame Internetadressen, holprige Texte und gefälschte Gütesiegel. Manche Shops bieten am Ende nur Vorkasse an, obwohl vorher andere Zahlungsarten angezeigt wurden."
+      ],
+      "merke": "Nur Vorkasse bei sehr günstigen Preisen ist ein deutliches Warnzeichen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Prüfen vor dem Kauf",
+      "absaetze": [
+        "Die Verbraucherzentrale bietet einen Fakeshop-Finder an. Dort gibst du die Adresse eines Shops ein und erhältst eine Einschätzung.",
+        "Hilfreich ist auch, nach dem Namen des Shops und dem Wort Erfahrungen zu suchen. Echte Bewertungen auf unabhängigen Seiten geben Hinweise."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher bezahlen",
+      "absaetze": [
+        "Wähle Zahlungsarten mit Käuferschutz, etwa Kauf auf Rechnung oder Lastschrift. Bei Lastschrift kannst du die Abbuchung in der Regel zurückholen.",
+        "Bist du doch hereingefallen, informiere sofort deine Bank und erstatte Anzeige bei der Polizei. Sichere Screenshots und Bestellbestätigungen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Fünf schnelle Checks",
+      "schritte": [
+        {
+          "titel": "Preis",
+          "text": "Ist das Angebot unrealistisch günstig?"
+        },
+        {
+          "titel": "Impressum",
+          "text": "Gibt es eine vollständige Anschrift und Kontaktdaten?"
+        },
+        {
+          "titel": "Bezahlung",
+          "text": "Wird am Ende nur Vorkasse angeboten?"
+        },
+        {
+          "titel": "Fakeshop-Finder",
+          "text": "Die Adresse beim Fakeshop-Finder der Verbraucherzentrale prüfen."
+        },
+        {
+          "titel": "Erfahrungen",
+          "text": "Nach unabhängigen Bewertungen suchen."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein deutliches Warnzeichen für einen Fake-Shop?",
+      "art": "mc",
+      "optionen": [
+        "Nur Vorkasse bei sehr günstigen Preisen",
+        "Ein vollständiges Impressum",
+        "Kauf auf Rechnung",
+        "Lange Lieferzeiten bei Möbeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorkasse ist für Betrüger besonders praktisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Werkzeug bietet die Verbraucherzentrale an?",
+      "art": "mc",
+      "optionen": [
+        "Einen Fakeshop-Finder",
+        "Einen Preisrechner für Benzin",
+        "Eine Steuer-App",
+        "Ein Kochbuch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort lassen sich Shop-Adressen prüfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einer Lastschrift kannst du die Abbuchung in der Regel zurückholen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das bietet einen gewissen Schutz."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sehr günstige Preise und nur Vorkasse sind Warnzeichen.",
+        "Impressum und Internetadresse genau ansehen.",
+        "Der Fakeshop-Finder der Verbraucherzentrale hilft.",
+        "Zahlungsarten mit Käuferschutz wählen."
+      ]
+    }
+  ]
+}

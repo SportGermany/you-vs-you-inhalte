@@ -1,0 +1,111 @@
+{
+  "id": "lern-b025-02",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie wirkt akuter Stress auf das Erinnern?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stress",
+    "cortisol",
+    "abruf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Prüfung ist der Kopf plötzlich leer. Später, in Ruhe, fällt dir alles wieder ein.",
+        "Dahinter steckt ein bekanntes Muster."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stresshormone im Gehirn",
+      "absaetze": [
+        "Bei Stress schüttet der Körper Hormone wie Cortisol aus. Sie wirken auch auf Gehirnbereiche, die für das Gedächtnis wichtig sind.",
+        "Studien deuten darauf hin, dass akuter Stress das Abrufen gelernter Inhalte erschweren kann. Das Wissen ist nicht weg, es ist nur schwerer zugänglich."
+      ],
+      "merke": "Unter Stress ist Wissen oft schwerer abrufbar.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefühle prägen sich ein",
+      "absaetze": [
+        "Gleichzeitig kann Stress das Einprägen von emotionalen Erlebnissen verstärken. Deshalb erinnern wir uns an aufregende Momente oft lange.",
+        "Für ruhiges Lernen von Fakten ist starker Stress dagegen eher ungünstig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Abfrage-Übungen beim Lernen machen das Wissen robuster. Studien deuten darauf hin, dass gut geübtes Wissen auch unter Stress besser abrufbar bleibt.",
+        "In der Prüfung helfen ruhiges Atmen und das Überspringen schwieriger Aufgaben. Oft kommt die Antwort später von selbst."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon wird bei Stress ausgeschüttet?",
+      "art": "mc",
+      "optionen": [
+        "Cortisol",
+        "Insulin",
+        "Melatonin",
+        "Östrogen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Cortisol wirkt auch auf das Gedächtnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht Wissen nach Studien robuster gegen Stress?",
+      "art": "mc",
+      "optionen": [
+        "Regelmäßiges Abfragen beim Lernen",
+        "Nur einmal lesen",
+        "Lernen in der Nacht vor der Prüfung",
+        "Gar nicht lernen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gut geübtes Wissen bleibt besser abrufbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Unter akutem Stress ist gelerntes Wissen endgültig gelöscht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist nur schwerer zugänglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stresshormone können das Abrufen erschweren.",
+        "Das Wissen ist nicht weg, nur schwerer zugänglich.",
+        "Emotionale Erlebnisse prägen sich unter Stress stark ein.",
+        "Abfrage-Übungen machen Wissen robuster."
+      ]
+    }
+  ]
+}

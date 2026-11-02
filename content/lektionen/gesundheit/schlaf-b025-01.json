@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b025-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft ein warmes Bad am Abend beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bad",
+    "koerpertemperatur",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein warmes Bad oder eine Dusche am Abend fühlt sich entspannend an.",
+        "Es könnte auch dem Schlaf helfen, aber anders, als man denkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Körpertemperatur sinkt zum Schlafen",
+      "absaetze": [
+        "Am Abend sinkt die Kerntemperatur des Körpers leicht. Das ist ein Signal für das Einschlafen.",
+        "Dafür muss der Körper Wärme abgeben, vor allem über Hände und Füße. Deshalb fällt das Einschlafen mit kalten Füßen oft schwer."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Bad bewirkt",
+      "absaetze": [
+        "Ein warmes Bad weitet die Blutgefäße in der Haut. Danach gibt der Körper Wärme besonders gut ab, und die Kerntemperatur sinkt schneller.",
+        "Eine Auswertung mehrerer Studien deutet darauf hin, dass ein warmes Bad oder Duschen das Einschlafen beschleunigen kann. Günstig scheinen etwa ein bis zwei Stunden vor dem Schlafen."
+      ],
+      "merke": "Der Abkühleffekt nach dem Bad kann beim Einschlafen helfen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Direkt vor dem Zubettgehen ist ein sehr heißes Bad weniger günstig. Der Körper braucht Zeit, um wieder abzukühlen.",
+        "Wer Kreislaufprobleme hat, sollte mit sehr warmem Wasser vorsichtig sein. Warme Socken im Bett helfen übrigens auch, Wärme über die Füße abzugeben."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit der Kerntemperatur vor dem Einschlafen?",
+      "art": "mc",
+      "optionen": [
+        "Sie sinkt leicht",
+        "Sie steigt stark",
+        "Sie bleibt immer gleich",
+        "Sie schwankt wild"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Absinken ist ein Signal für den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollte ein warmes Bad laut Studien ungefähr stattfinden?",
+      "art": "mc",
+      "optionen": [
+        "Etwa ein bis zwei Stunden vor dem Schlafen",
+        "Mitten in der Nacht",
+        "Direkt nach dem Aufwachen",
+        "Unmittelbar vor dem Hinlegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper braucht Zeit zum Abkühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warme Füße können beim Einschlafen helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Über sie gibt der Körper Wärme ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zum Einschlafen sinkt die Kerntemperatur.",
+        "Ein warmes Bad hilft dem Körper, danach Wärme abzugeben.",
+        "Ein bis zwei Stunden vor dem Schlafen scheint günstig.",
+        "Warme Füße erleichtern das Einschlafen."
+      ]
+    }
+  ]
+}

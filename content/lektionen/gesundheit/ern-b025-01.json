@@ -1,0 +1,118 @@
+{
+  "id": "ern-b025-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wer sollte auf Gluten verzichten?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zöliakie",
+      "herausgeber": "Deutsche Zöliakie-Gesellschaft",
+      "url": "https://www.dzg-online.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gluten",
+    "zoeliakie",
+    "glutenfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Glutenfreie Produkte füllen inzwischen ganze Regale. Viele kaufen sie, weil sie sie für gesünder halten.",
+        "Für wen ist glutenfrei wirklich nötig?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Gluten ist",
+      "absaetze": [
+        "Gluten ist ein Eiweiß in Weizen, Roggen, Gerste und verwandten Getreiden wie Dinkel. Es sorgt dafür, dass Teig elastisch wird.",
+        "Für die meisten Menschen ist Gluten völlig unproblematisch. Es kommt in vielen Grundnahrungsmitteln vor."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zöliakie",
+      "absaetze": [
+        "Bei Zöliakie löst Gluten eine Entzündung der Dünndarmschleimhaut aus. Dabei handelt es sich um eine Autoimmunerkrankung, bei der sich das Immunsystem gegen den eigenen Körper richtet.",
+        "Betroffen ist etwa ein Prozent der Bevölkerung, viele ohne Diagnose. Die einzige Behandlung ist eine lebenslange, strikt glutenfreie Ernährung."
+      ],
+      "merke": "Bei Zöliakie ist strikt glutenfreie Ernährung nötig.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohne Diagnose kein Verzicht",
+      "absaetze": [
+        "Wichtig: Die Diagnose sollte gestellt werden, bevor man auf Gluten verzichtet. Sonst können Tests falsch ausfallen.",
+        "Für Gesunde bringt glutenfreies Essen keinen nachgewiesenen Vorteil. Manche Ersatzprodukte enthalten sogar mehr Zucker oder Fett und weniger Ballaststoffe."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Getreide steckt Gluten?",
+      "art": "mc",
+      "optionen": [
+        "Weizen",
+        "Reis",
+        "Mais",
+        "Hirse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Roggen, Gerste und Dinkel enthalten Gluten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Behandlung bei Zöliakie?",
+      "art": "mc",
+      "optionen": [
+        "Lebenslang strikt glutenfreie Ernährung",
+        "Ein Antibiotikum",
+        "Mehr Gluten",
+        "Eine Impfung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur der Verzicht hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Glutenfreie Ernährung ist für alle Menschen gesünder.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Für Gesunde ist kein Vorteil nachgewiesen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gluten steckt in Weizen, Roggen, Gerste und Dinkel.",
+        "Bei Zöliakie schädigt Gluten den Dünndarm.",
+        "Die Diagnose sollte vor dem Verzicht gestellt werden.",
+        "Für Gesunde bringt glutenfrei keinen Vorteil."
+      ]
+    }
+  ]
+}

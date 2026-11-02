@@ -1,0 +1,120 @@
+{
+  "id": "supp-b025-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum kann Johanniskraut andere Medikamente schwächen?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arzneimittel und Wechselwirkungen",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "johanniskraut",
+    "wechselwirkungen",
+    "pille"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Johanniskraut gilt als sanftes Mittel aus der Natur. Es gibt es in Apotheken und Drogerien.",
+        "Doch es kann die Wirkung anderer Medikamente stark verändern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein pflanzliches Arzneimittel",
+      "absaetze": [
+        "Johanniskraut-Extrakte sind als Arzneimittel bei leichten bis mittelschweren depressiven Verstimmungen zugelassen. Daneben gibt es Tees und Nahrungsergänzungsmittel mit geringerem Gehalt.",
+        "Eine Depression sollte immer ärztlich abgeklärt werden. Bei schweren Formen reicht Johanniskraut nicht aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Abbau in der Leber",
+      "absaetze": [
+        "Johanniskraut regt bestimmte Enzyme in der Leber an. Diese bauen auch viele andere Medikamente ab.",
+        "Die anderen Wirkstoffe werden dann schneller abgebaut und wirken schwächer. Betroffen sind etwa die Antibabypille, Blutverdünner, manche Herzmittel und Medikamente nach Organtransplantationen."
+      ],
+      "merke": "Johanniskraut kann die Antibabypille unsicher machen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher damit umgehen",
+      "absaetze": [
+        "Wer andere Medikamente nutzt, sollte vor Johanniskraut ärztlich oder in der Apotheke nachfragen. Auch beim Absetzen können sich Wirkspiegel anderer Mittel verändern.",
+        "Johanniskraut kann außerdem die Haut lichtempfindlicher machen. Natürlich heißt also nicht automatisch harmlos."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Vor der Verwendung neben anderen Medikamenten ärztlich oder in der Apotheke beraten lassen.",
+        "Bei depressiven Beschwerden ärztliche Abklärung suchen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Johanniskraut auf andere Medikamente?",
+      "art": "mc",
+      "optionen": [
+        "Es kann ihren Abbau beschleunigen",
+        "Es verstärkt immer ihre Wirkung",
+        "Es hat keinen Einfluss",
+        "Es ersetzt sie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leberenzyme bauen die Wirkstoffe schneller ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Medikament kann durch Johanniskraut unsicher werden?",
+      "art": "mc",
+      "optionen": [
+        "Die Antibabypille",
+        "Ein Pflaster gegen Blasen",
+        "Lutschbonbons",
+        "Augentropfen mit Kochsalz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Verhütung kann unzuverlässig werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pflanzliche Mittel sind grundsätzlich frei von Wechselwirkungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Johanniskraut ist ein bekanntes Gegenbeispiel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Johanniskraut ist bei leichten depressiven Verstimmungen zugelassen.",
+        "Es beschleunigt den Abbau vieler anderer Medikamente.",
+        "Die Antibabypille kann unsicher werden.",
+        "Vorher ärztlich oder in der Apotheke nachfragen."
+      ]
+    }
+  ]
+}
