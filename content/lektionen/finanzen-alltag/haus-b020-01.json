@@ -1,0 +1,113 @@
+{
+  "id": "haus-b020-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was kostet ein Haustier wirklich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Heimtiere",
+      "herausgeber": "Deutscher Tierschutzbund",
+      "url": "https://www.tierschutzbund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haustier",
+    "hund",
+    "kosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Welpe zieht ein. Die Kinder sind begeistert, die Anschaffung war schnell bezahlt.",
+        "Die laufenden Kosten zeigen sich erst später."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als die Anschaffung",
+      "absaetze": [
+        "Der Kaufpreis oder die Schutzgebühr im Tierheim ist oft nur ein kleiner Teil der Kosten. Dazu kommen Futter, Zubehör, Tierarzt, Impfungen und Versicherungen.",
+        "Ein Hund kann über sein Leben von zehn Jahren oder mehr leicht viele Tausend Euro kosten. Auch Katzen, Kaninchen und Vögel verursachen laufende Kosten."
+      ],
+      "merke": "Die laufenden Kosten übersteigen den Kaufpreis meist bei Weitem."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflichten bei Hunden",
+      "absaetze": [
+        "Für Hunde verlangen die meisten Gemeinden Hundesteuer. In einigen Bundesländern ist eine Hundehaftpflichtversicherung Pflicht. Sie ist aber überall sinnvoll, weil Hundehalter für Schäden haften.",
+        "Tierarztkosten können bei Operationen schnell hoch werden. Manche schließen dafür eine Tierkrankenversicherung ab oder legen regelmäßig Geld zurück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut überlegen",
+      "absaetze": [
+        "Ein Tier braucht nicht nur Geld, sondern auch Zeit, Platz und Betreuung im Urlaub. Der Tierschutzbund rät, die Entscheidung gut zu überlegen.",
+        "Viele Tiere landen im Tierheim, weil Halter die Kosten oder den Aufwand unterschätzt haben. Eine einfache Kostenaufstellung vor der Anschaffung hilft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist meist nur ein kleiner Teil der Kosten eines Haustiers?",
+      "art": "mc",
+      "optionen": [
+        "Der Kaufpreis",
+        "Futter über viele Jahre",
+        "Tierarztkosten",
+        "Versicherungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die laufenden Kosten sind viel höher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Abgabe verlangen die meisten Gemeinden für Hunde?",
+      "art": "mc",
+      "optionen": [
+        "Hundesteuer",
+        "Katzensteuer",
+        "Vogelgebühr",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hundesteuer ist in den meisten Gemeinden üblich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Hundehaftpflichtversicherung ist auch dort sinnvoll, wo sie nicht Pflicht ist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Halter haften für Schäden durch ihren Hund."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Haustiere kosten vor allem laufend, nicht beim Kauf.",
+        "Für Hunde fallen Steuer und oft Versicherungspflichten an.",
+        "Vor der Anschaffung Kosten, Zeit und Betreuung planen."
+      ]
+    }
+  ]
+}

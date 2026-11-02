@@ -1,0 +1,107 @@
+{
+  "id": "koer-b020-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wozu brauchen wir Schmerz?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Schmerz verstehen",
+      "herausgeber": "Deutsche Schmerzgesellschaft",
+      "url": "https://www.schmerzgesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schmerz",
+    "nerven",
+    "chronisch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du fasst an eine heiße Herdplatte und ziehst die Hand blitzschnell zurück, noch bevor du richtig nachgedacht hast.",
+        "Schmerz ist unangenehm, aber er schützt dich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Warnsystem",
+      "absaetze": [
+        "In Haut, Muskeln und Organen sitzen spezielle Nervenenden, die auf Hitze, Druck oder Verletzungen reagieren. Sie senden Signale über das Rückenmark ins Gehirn.",
+        "Bei Gefahr reagiert das Rückenmark manchmal schon per Reflex, bevor das Gehirn den Schmerz bewusst wahrnimmt. So wird die Hand schnell zurückgezogen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leben ohne Schmerz",
+      "absaetze": [
+        "Es gibt sehr seltene angeborene Störungen, bei denen Menschen keinen Schmerz empfinden. Was nach einem Vorteil klingt, ist gefährlich.",
+        "Betroffene verletzen sich oft schwer, ohne es zu merken, etwa durch Verbrennungen oder Knochenbrüche. Das zeigt, wie wichtig Schmerz als Warnsignal ist."
+      ],
+      "merke": "Ohne Schmerz würden wir Verletzungen oft nicht bemerken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn Schmerz bleibt",
+      "absaetze": [
+        "Akuter Schmerz verschwindet meist, wenn die Ursache abklingt. Hält Schmerz über Monate an, spricht man von chronischem Schmerz. Dann hat er oft seine Warnfunktion verloren.",
+        "Das Nervensystem kann dabei überempfindlich werden. Chronische Schmerzen werden von Gefühlen, Stress und Schlaf mit beeinflusst und lassen sich oft am besten mit einer Kombination aus Bewegung, psychologischer Unterstützung und Medikamenten behandeln."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Aufgabe hat Schmerz?",
+      "art": "mc",
+      "optionen": [
+        "Er warnt vor Verletzungen",
+        "Er verbessert das Sehen",
+        "Er macht stärker",
+        "Er hat keine Funktion"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schmerz ist ein Warnsignal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist ein Leben ohne Schmerzempfinden gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Verletzungen werden oft nicht bemerkt",
+        "Man schläft schlechter",
+        "Man wird schneller müde",
+        "Es ist nicht gefährlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Betroffene verletzen sich, ohne es zu merken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Chronischer Schmerz hat oft seine Warnfunktion verloren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Nervensystem kann überempfindlich werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schmerz ist ein Warnsystem des Körpers.",
+        "Ohne Schmerz würden Verletzungen oft übersehen.",
+        "Chronischer Schmerz braucht oft eine kombinierte Behandlung."
+      ]
+    }
+  ]
+}

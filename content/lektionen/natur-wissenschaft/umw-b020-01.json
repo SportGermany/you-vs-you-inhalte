@@ -1,0 +1,107 @@
+{
+  "id": "umw-b020-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist zu viel Licht in der Nacht ein Problem?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lichtverschmutzung",
+      "herausgeber": "Bundesamt für Naturschutz",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lichtverschmutzung",
+    "insekten",
+    "sternenhimmel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Stadt siehst du nachts nur eine Handvoll Sterne. Auf dem Land ist der Himmel übersät.",
+        "Der Unterschied heißt Lichtverschmutzung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Nacht wird heller",
+      "absaetze": [
+        "Straßenlaternen, beleuchtete Werbung, Schaufenster und Gebäude strahlen viel Licht in den Himmel ab. Dadurch wird der Nachthimmel in vielen Regionen deutlich heller als natürlich.",
+        "Für viele Menschen in Europa ist die Milchstraße deshalb von zu Hause aus nicht mehr zu sehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für Tiere",
+      "absaetze": [
+        "Viele Insekten werden von künstlichem Licht angezogen und umkreisen Lampen bis zur Erschöpfung. Lichtverschmutzung gilt als ein Faktor beim Insektenrückgang.",
+        "Zugvögel orientieren sich nachts an den Sternen und können durch beleuchtete Gebäude abgelenkt werden. Auch Fledermäuse und Pflanzen reagieren auf künstliches Licht."
+      ],
+      "merke": "Künstliches Licht stört nachtaktive Tiere und Insekten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Licht nur dort und dann einsetzen, wo es gebraucht wird, hilft am meisten. Lampen, die nur nach unten strahlen, warmweißes Licht und Bewegungsmelder verringern die Wirkung.",
+        "Manche Regionen haben sich als Sternenparks ausgezeichnet und schützen bewusst die Dunkelheit. Auch im eigenen Garten kann man nachts auf Dauerbeleuchtung verzichten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt Lichtverschmutzung am Himmel?",
+      "art": "mc",
+      "optionen": [
+        "Der Nachthimmel wird heller und Sterne verschwinden",
+        "Die Sonne geht später unter",
+        "Der Mond wird größer",
+        "Die Luft wird sauberer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Künstliches Licht überstrahlt die Sterne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Lampen schonen Insekten eher?",
+      "art": "mc",
+      "optionen": [
+        "Nach unten strahlende, warmweiße Lampen",
+        "Grelle, nach oben strahlende Lampen",
+        "Blinkende Leuchtreklame",
+        "Dauerbeleuchtung die ganze Nacht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gerichtetes, warmes Licht stört weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zugvögel können durch beleuchtete Gebäude abgelenkt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie orientieren sich nachts unter anderem an den Sternen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Künstliches Licht macht den Nachthimmel heller.",
+        "Es stört Insekten, Zugvögel und andere Tiere.",
+        "Gezieltes, warmes Licht und Bewegungsmelder helfen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "steu-b020-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was bewirkt das Ehegattensplitting?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ehegattensplitting",
+    "ehe",
+    "steuern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach der Hochzeit zahlt ein Paar plötzlich deutlich weniger Steuern. Ein anderes Paar merkt kaum einen Unterschied.",
+        "Der Grund ist das Ehegattensplitting."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie es funktioniert",
+      "absaetze": [
+        "Ehepaare und eingetragene Lebenspartnerschaften können sich gemeinsam veranlagen lassen. Dann werden ihre Einkommen zusammengerechnet und halbiert.",
+        "Auf diese Hälfte wird die Steuer berechnet und dann verdoppelt. Weil der Steuersatz mit dem Einkommen steigt, kann das die Gesamtsteuer senken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer profitiert",
+      "absaetze": [
+        "Den größten Vorteil haben Paare mit sehr unterschiedlichen Einkommen, etwa wenn einer viel und der andere wenig oder nichts verdient. Verdienen beide etwa gleich viel, bringt das Splitting kaum etwas.",
+        "Ob das Paar Kinder hat, spielt für den Splittingvorteil keine Rolle."
+      ],
+      "merke": "Das Splitting nützt vor allem Paaren mit sehr unterschiedlichen Einkommen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine umstrittene Regel",
+      "absaetze": [
+        "Befürworter sehen im Splitting den Schutz der Ehe als Wirtschaftsgemeinschaft. Kritiker bemängeln, dass es das Modell eines Hauptverdieners begünstigt und für den geringer verdienenden Partner, oft Frauen, wenig Anreiz zur Arbeit setzt.",
+        "Über eine Reform wird seit Langem diskutiert. Bisher gilt das Splitting weiter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Ehegattensplitting mit den Einkommen?",
+      "art": "mc",
+      "optionen": [
+        "Sie werden zusammengerechnet und halbiert",
+        "Sie werden verdoppelt",
+        "Nur das höhere zählt",
+        "Sie bleiben getrennt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Steuer wird auf das halbierte gemeinsame Einkommen berechnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer profitiert am meisten?",
+      "art": "mc",
+      "optionen": [
+        "Paare mit sehr unterschiedlichen Einkommen",
+        "Paare mit gleich hohen Einkommen",
+        "Alleinstehende",
+        "Nur Paare mit drei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Vorteil ist bei großen Unterschieden am größten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Splittingvorteil hängt davon ab, ob das Paar Kinder hat.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Kinder spielen dafür keine Rolle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Splitting werden Einkommen zusammengerechnet und halbiert.",
+        "Es nützt vor allem Paaren mit sehr unterschiedlichen Einkommen.",
+        "Die Regel ist politisch umstritten."
+      ]
+    }
+  ]
+}

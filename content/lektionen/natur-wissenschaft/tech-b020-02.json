@@ -1,0 +1,107 @@
+{
+  "id": "tech-b020-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie macht dein Handy so gute Fotos?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Bildsensoren",
+      "herausgeber": "Fraunhofer-Gesellschaft",
+      "url": "https://www.fraunhofer.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kamera",
+    "bildsensor",
+    "fotografie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Foto bei Kerzenlicht, und trotzdem ist alles scharf und hell. Mit einer winzigen Linse im Handy.",
+        "Hinter dem Bild steckt viel mehr als nur eine Kamera."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht wird zu Zahlen",
+      "absaetze": [
+        "In der Handykamera sitzt ein Bildsensor mit Millionen lichtempfindlicher Punkte, den Pixeln. Trifft Licht auf ein Pixel, entsteht eine kleine elektrische Ladung.",
+        "Je mehr Licht, desto stärker die Ladung. Winzige Farbfilter über den Pixeln sorgen dafür, dass das Gerät auch Farben erkennt. So entsteht aus Licht eine Sammlung von Zahlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechnen statt nur Knipsen",
+      "absaetze": [
+        "Weil Handys nur kleine Sensoren und Linsen haben, gleichen sie das mit Rechenleistung aus. Beim Auslösen nimmt die Kamera oft mehrere Bilder in schneller Folge auf und verrechnet sie zu einem.",
+        "So werden dunkle Bereiche aufgehellt, helle nicht überstrahlt und Bildrauschen verringert. Fachleute sprechen von rechnergestützter Fotografie."
+      ],
+      "merke": "Moderne Handyfotos entstehen zu einem großen Teil durch Software."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen und Folgen",
+      "absaetze": [
+        "Bei sehr wenig Licht oder schnellen Bewegungen stoßen auch moderne Handys an Grenzen. Große Kameras mit großen Sensoren fangen mehr Licht ein.",
+        "Weil Software Bilder stark bearbeitet, zeigen Fotos nicht immer exakt die Wirklichkeit. Das gilt besonders für Filter und künstlich erzeugte Effekte."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die lichtempfindlichen Punkte auf dem Bildsensor?",
+      "art": "mc",
+      "optionen": [
+        "Pixel",
+        "Atome",
+        "Linsen",
+        "Sterne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Millionen Pixel messen das Licht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machen Handykameras oft beim Auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Mehrere Bilder aufnehmen und verrechnen",
+        "Nur ein Bild ohne Bearbeitung",
+        "Den Blitz immer auslösen",
+        "Das Bild ausdrucken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bilder werden zu einem besseren Foto verrechnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Handyfotos zeigen immer exakt die Wirklichkeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Software bearbeitet die Bilder teils stark."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Bildsensor wandelt Licht in elektrische Signale um.",
+        "Software verrechnet mehrere Aufnahmen zu einem Foto.",
+        "Handyfotos sind stark bearbeitet und nicht immer naturgetreu."
+      ]
+    }
+  ]
+}

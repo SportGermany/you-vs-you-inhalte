@@ -1,0 +1,113 @@
+{
+  "id": "steu-b020-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie funktioniert die Pendlerpauschale?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2026-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pendlerpauschale",
+    "arbeitsweg",
+    "werbungskosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeden Tag 25 Kilometer zur Arbeit, mal mit dem Auto, mal mit dem Rad.",
+        "Ein Teil dieser Wege kann sich bei der Steuer auszahlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Pauschale pro Kilometer",
+      "absaetze": [
+        "Die Entfernungspauschale, oft Pendlerpauschale genannt, gilt für Wege zwischen Wohnung und erster Arbeitsstätte. Pro Arbeitstag wird ein fester Betrag je Entfernungskilometer angesetzt.",
+        "Gezählt wird nur die einfache Strecke, nicht Hin- und Rückweg. Die Höhe pro Kilometer legt der Gesetzgeber fest, sie wurde in den letzten Jahren mehrfach geändert."
+      ],
+      "merke": "Gezählt wird nur die einfache Entfernung pro Arbeitstag."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Egal wie du fährst",
+      "absaetze": [
+        "Die Pauschale gilt unabhängig vom Verkehrsmittel. Auch wer mit dem Rad, zu Fuß oder in einer Fahrgemeinschaft zur Arbeit kommt, kann sie ansetzen.",
+        "Maßgeblich ist die kürzeste Straßenverbindung. Eine längere Strecke wird nur anerkannt, wenn sie offensichtlich verkehrsgünstiger ist und regelmäßig genutzt wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teil der Werbungskosten",
+      "absaetze": [
+        "Die Pendlerpauschale zählt zu den Werbungskosten. Sie wirkt sich erst aus, wenn alle Werbungskosten zusammen über dem Arbeitnehmer-Pauschbetrag liegen.",
+        "Bei einem längeren Arbeitsweg wird diese Grenze aber oft schnell überschritten. Dann lohnt sich die Steuererklärung meist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Strecke wird bei der Pendlerpauschale gezählt?",
+      "art": "mc",
+      "optionen": [
+        "Nur die einfache Entfernung",
+        "Hin- und Rückweg",
+        "Die doppelte Strecke",
+        "Nur Wochenendfahrten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es zählt die einfache Entfernung pro Arbeitstag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gilt die Pendlerpauschale auch für Radfahrer?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie gilt unabhängig vom Verkehrsmittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wirkt sich die Pendlerpauschale auf die Steuer aus?",
+      "art": "mc",
+      "optionen": [
+        "Wenn die Werbungskosten über dem Pauschbetrag liegen",
+        "Immer sofort",
+        "Nur bei Autofahrern",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst darüber senken sie die Steuer zusätzlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Pendlerpauschale gilt für die einfache Strecke zur Arbeit.",
+        "Sie gilt für jedes Verkehrsmittel.",
+        "Sie zählt zu den Werbungskosten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "geld-b020-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie funktioniert ein Bausparvertrag?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bausparen",
+    "immobilie",
+    "darlehen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Oma hat dir einen Bausparvertrag eingerichtet. Du willst aber gar nicht bauen.",
+        "Was bringt so ein Vertrag eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Phasen",
+      "absaetze": [
+        "Ein Bausparvertrag besteht aus zwei Phasen. In der Sparphase zahlt man regelmäßig ein und bekommt meist nur geringe Zinsen.",
+        "Ist ein bestimmter Teil der Bausparsumme angespart, kann man ein Darlehen zu einem vorher festgelegten Zins bekommen. Das ist die Darlehensphase. Das Geld ist für wohnwirtschaftliche Zwecke gedacht, etwa Kauf, Bau oder Modernisierung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile",
+      "absaetze": [
+        "Der große Vorteil ist die Zinssicherheit. Man weiß schon Jahre vorher, welchen Zins das spätere Darlehen hat.",
+        "Unter bestimmten Einkommensgrenzen fördert der Staat das Bausparen, etwa mit der Wohnungsbauprämie oder der Arbeitnehmer-Sparzulage. Auch für Modernisierungen kann ein Bausparvertrag sinnvoll sein."
+      ],
+      "merke": "Bausparen bringt vor allem Zinssicherheit für ein späteres Darlehen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nachteile",
+      "absaetze": [
+        "Beim Abschluss fällt meist eine Gebühr an, oft rund ein Prozent der Bausparsumme. Die Sparzinsen sind niedrig.",
+        "Wer gar nicht vorhat, eine Immobilie zu kaufen oder zu modernisieren, fährt mit anderen Sparformen oft besser. Verbraucherschützer raten, Verträge vor Abschluss genau durchzurechnen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus welchen Phasen besteht ein Bausparvertrag?",
+      "art": "mc",
+      "optionen": [
+        "Spar- und Darlehensphase",
+        "Kauf- und Verkaufsphase",
+        "Mietphase und Rentenphase",
+        "Nur einer Phase"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst wird gespart, dann gibt es ein Darlehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der wichtigste Vorteil eines Bausparvertrags?",
+      "art": "mc",
+      "optionen": [
+        "Zinssicherheit für das spätere Darlehen",
+        "Sehr hohe Sparzinsen",
+        "Keine Gebühren",
+        "Garantierte Wertsteigerung der Immobilie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Darlehenszins steht vorher fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Abschluss eines Bausparvertrags fällt meist eine Gebühr an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft rund ein Prozent der Bausparsumme."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Bausparvertrag hat eine Spar- und eine Darlehensphase.",
+        "Er sichert einen festen Darlehenszins für später.",
+        "Ohne Immobilienpläne sind andere Sparformen oft besser."
+      ]
+    }
+  ]
+}

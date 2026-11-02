@@ -1,0 +1,107 @@
+{
+  "id": "lern-b020-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Warum überschätzen sich Anfänger oft?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dunning-kruger",
+    "selbsteinschaetzung",
+    "lernen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach drei Gitarrenstunden glaubst du, fast alles zu können. Nach drei Jahren merkst du, wie viel dir noch fehlt.",
+        "Woran liegt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Dunning-Kruger-Effekt",
+      "absaetze": [
+        "Die Psychologen David Dunning und Justin Kruger veröffentlichten 1999 eine Studie. Teilnehmende mit den schwächsten Ergebnissen in Tests zu Logik und Grammatik schätzten ihre Leistung deutlich zu hoch ein.",
+        "Eine Erklärung: Um Fehler zu erkennen, braucht man genau das Wissen, das einem fehlt. Wer wenig weiß, sieht seine Lücken schlechter."
+      ],
+      "merke": "Wer wenig weiß, erkennt seine Wissenslücken schlechter."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei der Deutung",
+      "absaetze": [
+        "Der Effekt wird oft übertrieben dargestellt, etwa als Kurve, bei der Anfänger sich für Experten halten. So stark ist er in den Daten nicht.",
+        "Einige Forschende weisen darauf hin, dass ein Teil des Effekts auch statistisch erklärbar ist. Dass Selbsteinschätzungen oft ungenau sind, gilt aber als gut belegt, und zwar bei Menschen jeden Könnens."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Ehrliche Rückmeldungen von anderen und objektive Tests helfen, die eigene Leistung realistischer einzuschätzen.",
+        "Wer sich selbst abfragt, statt nur zu lesen, merkt schneller, was er wirklich kann. Und mit wachsendem Wissen wächst meist auch die Einsicht, wie viel man noch nicht weiß."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer schätzte sich in der Studie von 1999 besonders zu hoch ein?",
+      "art": "mc",
+      "optionen": [
+        "Teilnehmende mit den schwächsten Ergebnissen",
+        "Die besten Teilnehmenden",
+        "Alle gleich",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schwächsten überschätzten sich deutlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, die eigene Leistung realistischer einzuschätzen?",
+      "art": "mc",
+      "optionen": [
+        "Ehrliche Rückmeldungen und objektive Tests",
+        "Nur die eigene Meinung",
+        "Mehr Selbstbewusstsein",
+        "Weniger Übung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rückmeldungen von außen korrigieren Fehleinschätzungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Dunning-Kruger-Effekt wird in den Medien oft übertrieben dargestellt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In den Daten ist er weniger dramatisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Anfänger überschätzen ihr Können oft, weil sie Lücken nicht erkennen.",
+        "Der Effekt wird oft übertrieben dargestellt.",
+        "Rückmeldungen und Selbstabfragen verbessern die Einschätzung."
+      ]
+    }
+  ]
+}

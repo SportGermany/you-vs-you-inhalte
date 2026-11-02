@@ -1,0 +1,113 @@
+{
+  "id": "geo-b020-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Europäische Zentralbank?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Unsere Aufgaben",
+      "herausgeber": "Europäische Zentralbank",
+      "url": "https://www.ecb.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ezb",
+    "leitzins",
+    "inflation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten heißt es: Die EZB erhöht die Leitzinsen. Kurz darauf werden Kredite teurer, Tagesgeld bringt mehr Zinsen.",
+        "Was macht diese Bank in Frankfurt eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Bank für den Euro",
+      "absaetze": [
+        "Die Europäische Zentralbank sitzt in Frankfurt am Main. Sie ist für die Geldpolitik in allen Ländern zuständig, die den Euro nutzen.",
+        "Ihr wichtigstes Ziel ist ein stabiles Preisniveau. Sie strebt mittelfristig eine Inflationsrate von zwei Prozent an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Leitzins",
+      "absaetze": [
+        "Ihr wichtigstes Werkzeug sind die Leitzinsen. Sie bestimmen, zu welchen Bedingungen sich Banken bei der Zentralbank Geld leihen oder dort anlegen können.",
+        "Steigen die Leitzinsen, werden Kredite meist teurer und Sparen lohnt sich mehr. Das bremst die Nachfrage und damit die Inflation. Sinken sie, wird Geld billiger, was die Wirtschaft ankurbeln soll."
+      ],
+      "merke": "Höhere Leitzinsen bremsen die Inflation, niedrigere kurbeln die Wirtschaft an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unabhängig, aber umstritten",
+      "absaetze": [
+        "Die EZB ist unabhängig. Regierungen dürfen ihr keine Weisungen erteilen. Das soll verhindern, dass Politik Geld einfach druckt.",
+        "Ihre Entscheidungen sind trotzdem oft umstritten. In Phasen niedriger Zinsen klagten Sparer, in Phasen hoher Zinsen Kreditnehmer und Häuslebauer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Inflationsrate strebt die EZB mittelfristig an?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Prozent",
+        "Null Prozent",
+        "Zehn Prozent",
+        "Fünf Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Ziel liegt bei zwei Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert meist, wenn die Leitzinsen steigen?",
+      "art": "mc",
+      "optionen": [
+        "Kredite werden teurer",
+        "Kredite werden billiger",
+        "Die Inflation steigt sofort",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Höhere Zinsen verteuern Kredite und bremsen die Nachfrage."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Regierungen dürfen der EZB Weisungen erteilen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die EZB ist unabhängig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die EZB macht die Geldpolitik für den Euroraum.",
+        "Ihr Ziel ist eine Inflation von zwei Prozent, ihr Werkzeug der Leitzins.",
+        "Sie ist unabhängig, ihre Entscheidungen sind oft umstritten."
+      ]
+    }
+  ]
+}

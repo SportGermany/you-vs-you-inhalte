@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b020-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Helfen Baldrian und Lavendel beim Einschlafen?",
+  "minuten": 4,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "baldrian",
+    "pflanzlich",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Apotheke stehen viele pflanzliche Schlafhilfen: Baldrian, Hopfen, Melisse, Lavendel.",
+        "Sie gelten als sanft. Aber wirken sie auch?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Baldrian",
+      "absaetze": [
+        "Baldrian ist eines der bekanntesten pflanzlichen Mittel bei Schlafproblemen. Studien kommen zu uneinheitlichen Ergebnissen. Einige deuten auf eine leichte Verbesserung hin, andere finden keinen Unterschied zu einem Scheinmedikament.",
+        "Wenn eine Wirkung eintritt, dann oft erst nach mehreren Wochen regelmäßiger Anwendung. Fachgesellschaften sehen die Belege insgesamt als schwach an."
+      ],
+      "merke": "Die Wirkung pflanzlicher Schlafmittel ist schwach belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lavendel und andere",
+      "absaetze": [
+        "Ein bestimmtes Lavendelöl-Präparat ist als Arzneimittel bei Unruhe mit ängstlicher Verstimmung zugelassen. Manche Menschen berichten auch von besserem Schlaf.",
+        "Für Hopfen, Melisse und Passionsblume ist die Studienlage noch dünner, einzelne Studien deuten höchstens auf kleine Effekte hin. Viele Präparate kombinieren mehrere Pflanzen, was die Bewertung zusätzlich erschwert."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirksamer ist",
+      "absaetze": [
+        "Pflanzliche Mittel gelten als vergleichsweise gut verträglich und machen nicht abhängig. Auch sie können aber Nebenwirkungen und Wechselwirkungen haben.",
+        "Bei anhaltenden Schlafproblemen ist die kognitive Verhaltenstherapie für Schlaf am besten belegt. Ein regelmäßiger Rhythmus und ein ruhiges Abendritual helfen oft mehr als ein Präparat."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bewerten Fachgesellschaften die Belege für Baldrian?",
+      "art": "mc",
+      "optionen": [
+        "Als insgesamt schwach",
+        "Als hervorragend",
+        "Als abschließend widerlegt",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind uneinheitlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann tritt eine mögliche Wirkung von Baldrian oft ein?",
+      "art": "mc",
+      "optionen": [
+        "Nach mehreren Wochen regelmäßiger Anwendung",
+        "Nach fünf Minuten",
+        "Nie",
+        "Nur bei Vollmond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wenn überhaupt, dann oft verzögert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pflanzliche Schlafmittel können keine Nebenwirkungen haben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch sie können Nebenwirkungen und Wechselwirkungen haben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Baldrian und andere Pflanzen haben eine schwach belegte Wirkung.",
+        "Sie gelten als gut verträglich, sind aber nicht frei von Nebenwirkungen.",
+        "Verhaltenstherapie und gute Schlafgewohnheiten sind wirksamer."
+      ]
+    }
+  ]
+}

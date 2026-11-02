@@ -1,0 +1,113 @@
+{
+  "id": "geld-b020-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Aktiver Fonds oder ETF, was ist der Unterschied?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fonds und ETF",
+      "herausgeber": "Stiftung Warentest",
+      "url": "https://www.test.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fonds",
+    "etf",
+    "kosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Bank empfiehlt einen Fonds mit einem erfahrenen Fondsmanager. Ein Freund schwört auf einen günstigen ETF.",
+        "Was unterscheidet die beiden?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aktiv gegen passiv",
+      "absaetze": [
+        "Bei einem aktiven Fonds wählt ein Fondsmanagement gezielt Aktien aus. Ziel ist, besser abzuschneiden als der Markt.",
+        "Ein ETF bildet dagegen meist einfach einen Index nach, etwa einen Weltaktienindex. Er versucht nicht, den Markt zu schlagen, sondern ihn möglichst genau abzubilden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Kosten machen den Unterschied",
+      "absaetze": [
+        "Aktive Fonds kosten deutlich mehr, oft ein bis zwei Prozent pro Jahr, dazu manchmal ein Ausgabeaufschlag. Breit streuende ETFs kosten häufig nur einen Bruchteil davon.",
+        "Über viele Jahre machen diese Kosten durch den Zinseszinseffekt einen großen Unterschied beim Ergebnis."
+      ],
+      "merke": "Niedrige Kosten sind einer der wichtigsten Vorteile von ETFs."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlagen Profis den Markt?",
+      "absaetze": [
+        "Langfristige Auswertungen zeigen, dass die meisten aktiven Fonds nach Kosten über viele Jahre schlechter abschneiden als ihr Vergleichsindex. Welche Fonds in Zukunft besser sein werden, lässt sich kaum vorhersagen.",
+        "Verbraucherschützer empfehlen für den langfristigen Vermögensaufbau deshalb meist breit gestreute, kostengünstige ETFs. Beratungen, die aktive Fonds empfehlen, sind oft von Provisionen beeinflusst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was versucht ein aktiver Fonds?",
+      "art": "mc",
+      "optionen": [
+        "Den Markt durch gezielte Auswahl zu schlagen",
+        "Einen Index genau nachzubilden",
+        "Nur in Gold zu investieren",
+        "Kostenlos zu sein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Fondsmanagement wählt Aktien gezielt aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein wichtiger Vorteil von ETFs?",
+      "art": "mc",
+      "optionen": [
+        "Niedrige Kosten",
+        "Garantierte Gewinne",
+        "Kein Risiko",
+        "Persönliche Beratung"
+      ],
+      "richtig": 0,
+      "erklaerung": "ETFs sind meist deutlich günstiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die meisten aktiven Fonds schlagen langfristig nach Kosten ihren Vergleichsindex.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die meisten schneiden schlechter ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aktive Fonds wählen Aktien gezielt aus, ETFs bilden einen Index nach.",
+        "ETFs sind meist deutlich günstiger.",
+        "Die meisten aktiven Fonds schlagen langfristig nicht den Markt."
+      ]
+    }
+  ]
+}

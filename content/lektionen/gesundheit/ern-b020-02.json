@@ -1,0 +1,111 @@
+{
+  "id": "ern-b020-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum lohnt es sich, langsam zu essen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "langsam-essen",
+    "saettigung",
+    "achtsamkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mittagspause, zehn Minuten. Du schlingst dein Essen herunter und hast eine halbe Stunde später ein unangenehmes Völlegefühl.",
+        "Das Tempo beim Essen spielt eine größere Rolle, als man denkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sättigung braucht Zeit",
+      "absaetze": [
+        "Wenn wir essen, senden Magen und Darm Signale an das Gehirn, dass wir satt werden. Diese Signale brauchen einige Zeit, oft wird von etwa 20 Minuten gesprochen.",
+        "Wer schnell isst, hat oft schon zu viel gegessen, bevor das Sättigungsgefühl ankommt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige Studien deuten darauf hin, dass Menschen weniger essen, wenn sie langsamer essen und gründlicher kauen. Beobachtungsstudien verbinden schnelles Essen mit einem höheren Risiko für Übergewicht.",
+        "Die Effekte sind nicht riesig, aber langsames Essen ist eine einfache Gewohnheit ohne Nachteile."
+      ],
+      "merke": "Langsamer essen gibt dem Sättigungsgefühl Zeit.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genießen statt nebenbei",
+      "absaetze": [
+        "Wer beim Essen fernsieht oder aufs Handy schaut, isst oft mehr und nimmt den Geschmack weniger wahr. Die DGE empfiehlt, sich Zeit zum Essen zu nehmen und bewusst zu genießen.",
+        "Hilfreich ist, zwischen den Bissen das Besteck abzulegen und gründlich zu kauen. Auch gemeinsames Essen am Tisch verlangsamt oft das Tempo."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange brauchen Sättigungssignale oft ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 20 Minuten",
+        "Etwa 20 Sekunden",
+        "Etwa 2 Stunden",
+        "Sie kommen sofort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft wird von etwa 20 Minuten gesprochen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann dazu führen, dass man mehr isst?",
+      "art": "mc",
+      "optionen": [
+        "Essen vor dem Fernseher",
+        "Langsames Kauen",
+        "Besteck zwischendurch ablegen",
+        "Gemeinsames Essen am Tisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ablenkung beim Essen führt oft zu mehr Essen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Langsames Essen hat in Studien große Nachteile gezeigt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist eine einfache Gewohnheit ohne Nachteile."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sättigungssignale brauchen etwas Zeit.",
+        "Langsam essen kann helfen, weniger zu essen.",
+        "Bewusst und ohne Ablenkung essen."
+      ]
+    }
+  ]
+}

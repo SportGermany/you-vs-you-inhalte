@@ -1,0 +1,107 @@
+{
+  "id": "koer-b020-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie hält dein Körper das Gleichgewicht?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gleichgewicht und Schwindel",
+      "herausgeber": "Deutsche Gesellschaft für Hals-Nasen-Ohren-Heilkunde",
+      "url": "https://www.hno.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gleichgewicht",
+    "innenohr",
+    "reisekrankheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du stehst auf einem Bein und schließt die Augen. Plötzlich wird es viel schwieriger.",
+        "Dein Gleichgewicht hängt von mehreren Sinnen gleichzeitig ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Organ im Innenohr",
+      "absaetze": [
+        "Im Innenohr sitzt das Gleichgewichtsorgan. Drei mit Flüssigkeit gefüllte Bogengänge registrieren Drehbewegungen des Kopfes in alle Richtungen.",
+        "Zwei kleine Säckchen enthalten winzige Kristalle. Sie melden, ob der Kopf geneigt ist oder sich geradeaus bewegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teamarbeit der Sinne",
+      "absaetze": [
+        "Das Gehirn verbindet die Signale aus dem Innenohr mit dem, was die Augen sehen, und mit Rückmeldungen aus Muskeln und Gelenken. Nur zusammen ergeben sie ein stabiles Gleichgewicht.",
+        "Fällt ein Sinn weg, etwa die Augen im Dunkeln, müssen die anderen mehr leisten. Deshalb fällt das Stehen auf einem Bein mit geschlossenen Augen schwerer."
+      ],
+      "merke": "Gleichgewicht entsteht aus Innenohr, Augen und Körpergefühl zusammen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn die Signale nicht passen",
+      "absaetze": [
+        "Reisekrankheit entsteht, wenn sich die Signale widersprechen. Auf einem Schiff spürt das Innenohr Bewegung, die Augen sehen aber eine ruhige Kabine.",
+        "Hilfreich ist, auf den Horizont zu schauen oder im Auto vorn zu sitzen. Plötzlicher starker Schwindel kann auf eine Störung im Innenohr hinweisen und sollte ärztlich abgeklärt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt das Gleichgewichtsorgan?",
+      "art": "mc",
+      "optionen": [
+        "Im Innenohr",
+        "Im Magen",
+        "In der Nase",
+        "Im Knie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sitzt im Innenohr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was registrieren die Bogengänge?",
+      "art": "mc",
+      "optionen": [
+        "Drehbewegungen des Kopfes",
+        "Töne",
+        "Gerüche",
+        "Temperatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie messen Drehbewegungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reisekrankheit entsteht, wenn Innenohr und Augen widersprüchliche Signale melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Blick zum Horizont kann helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Gleichgewichtsorgan im Innenohr misst Drehung und Neigung.",
+        "Augen und Körpergefühl arbeiten mit ihm zusammen.",
+        "Widersprüchliche Signale lösen Reisekrankheit aus."
+      ]
+    }
+  ]
+}

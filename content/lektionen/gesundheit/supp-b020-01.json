@@ -1,0 +1,110 @@
+{
+  "id": "supp-b020-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Schützen Lutein-Präparate die Augen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Altersabhängige Makuladegeneration",
+      "herausgeber": "Berufsverband der Augenärzte Deutschlands",
+      "url": "https://www.augeninfo.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lutein",
+    "augen",
+    "makuladegeneration"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ab 50 werden in der Apotheke Präparate für die Augen angeboten. Lutein soll vor Sehverlust im Alter schützen.",
+        "Für wen kann das sinnvoll sein?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Farbstoff in der Netzhaut",
+      "absaetze": [
+        "Lutein und Zeaxanthin sind gelbe Pflanzenfarbstoffe. Sie reichern sich in der Makula an, der Stelle des schärfsten Sehens in der Netzhaut.",
+        "Man nimmt an, dass sie dort vor schädlichem Licht schützen. Gute Quellen sind grünes Blattgemüse wie Grünkohl und Spinat sowie Eier."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Bei der altersabhängigen Makuladegeneration, einer häufigen Ursache für Sehverlust im Alter, wurde eine bestimmte Nährstoffkombination in großen Studien untersucht. Bei Menschen mit einem bestimmten mittleren Stadium konnte sie das Fortschreiten etwas verlangsamen.",
+        "Für gesunde Menschen ohne diese Erkrankung ist ein vorbeugender Nutzen nicht belegt."
+      ],
+      "merke": "Nutzen nur bei bestimmten Stadien der Makuladegeneration, nicht bei Gesunden.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Präparate für die Augen sollten nur nach augenärztlicher Untersuchung und Empfehlung verwendet werden.",
+        "Manche Kombinationspräparate enthalten Zink oder Beta-Carotin. Beta-Carotin ist für Raucher riskant. Sprich mit deiner Ärztin oder deinem Arzt, bevor du solche Präparate nimmst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo reichern sich Lutein und Zeaxanthin an?",
+      "art": "mc",
+      "optionen": [
+        "In der Makula der Netzhaut",
+        "Im Magen",
+        "In der Haut",
+        "In den Knochen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sitzen an der Stelle des schärfsten Sehens."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei wem konnte eine bestimmte Nährstoffkombination das Fortschreiten verlangsamen?",
+      "art": "mc",
+      "optionen": [
+        "Bei Menschen mit einem mittleren Stadium der Makuladegeneration",
+        "Bei allen gesunden Menschen",
+        "Bei Kindern",
+        "Bei Kurzsichtigen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Nutzen beschränkt sich auf bestimmte Stadien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Grünkohl und Spinat enthalten Lutein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Grünes Blattgemüse ist eine gute Quelle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lutein schützt vermutlich die Makula vor Licht.",
+        "Bei bestimmten Stadien der Makuladegeneration kann eine Ergänzung helfen.",
+        "Für Gesunde ist ein vorbeugender Nutzen nicht belegt."
+      ]
+    }
+  ]
+}

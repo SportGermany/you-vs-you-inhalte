@@ -1,0 +1,117 @@
+{
+  "id": "ern-b020-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was verrät der Nutri-Score?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nutri-Score",
+      "herausgeber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+      "url": "https://www.bmleh.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nutri-score",
+    "einkaufen",
+    "kennzeichnung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Müslipackung prangt ein grünes A, auf der Pizza ein gelbes C.",
+        "Was sagt diese Farbskala, und was nicht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Ampel mit fünf Stufen",
+      "absaetze": [
+        "Der Nutri-Score bewertet die Nährwertqualität eines Lebensmittels mit fünf Stufen von A in Dunkelgrün bis E in Rot. Günstig wirken sich etwa Ballaststoffe, Eiweiß, Obst und Gemüse aus, ungünstig Zucker, Salz, gesättigte Fette und Energie.",
+        "In Deutschland ist das Logo seit 2020 freiwillig nutzbar. Viele Hersteller verwenden es, manche aber nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zum Vergleichen",
+      "absaetze": [
+        "Der Nutri-Score ist besonders nützlich, um ähnliche Produkte zu vergleichen, etwa verschiedene Müslis oder Tiefkühlpizzen. So findet man schnell die günstigere Variante.",
+        "Studien deuten darauf hin, dass solche Kennzeichnungen die Auswahl gesünderer Produkte erleichtern können."
+      ],
+      "merke": "Am besten vergleicht man mit dem Nutri-Score ähnliche Produkte.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Seine Grenzen",
+      "absaetze": [
+        "Der Nutri-Score sagt nichts über Zusatzstoffe, Verarbeitungsgrad oder Vitamine aus. Ein A heißt nicht, dass man unbegrenzt davon essen sollte.",
+        "Für Produkte wie Olivenöl oder Käse wurde die Berechnung kritisiert. Der Algorithmus wurde deshalb überarbeitet. Er ersetzt nicht den Blick auf die Zutatenliste und eine insgesamt ausgewogene Ernährung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Stufen hat der Nutri-Score?",
+      "art": "mc",
+      "optionen": [
+        "Fünf",
+        "Drei",
+        "Zehn",
+        "Zwei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er reicht von A bis E."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist der Nutri-Score besonders nützlich?",
+      "art": "mc",
+      "optionen": [
+        "Um ähnliche Produkte zu vergleichen",
+        "Um Obst mit Fleisch zu vergleichen",
+        "Um die Haltbarkeit zu prüfen",
+        "Um den Preis zu sehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er hilft beim Vergleich innerhalb einer Produktgruppe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Produkt mit A kann man unbegrenzt essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch die Menge zählt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Nutri-Score bewertet Nährwerte von A bis E.",
+        "Er hilft beim Vergleich ähnlicher Produkte.",
+        "Er ersetzt nicht Zutatenliste und ausgewogene Ernährung."
+      ]
+    }
+  ]
+}

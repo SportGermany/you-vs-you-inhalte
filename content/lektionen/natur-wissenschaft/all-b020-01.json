@@ -1,0 +1,113 @@
+{
+  "id": "all-b020-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was wissen wir über den Urknall?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Planck und der Urknall",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Big Bang",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "urknall",
+    "universum",
+    "kosmologie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Universum ist rund 13,8 Milliarden Jahre alt. Wie kann man das wissen?",
+        "Die Antwort steckt in Licht, das seit fast so langer Zeit unterwegs ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Universum, das sich ausdehnt",
+      "absaetze": [
+        "In den 1920er Jahren entdeckten Astronomen, dass sich fast alle Galaxien von uns entfernen. Je weiter weg sie sind, desto schneller. Das Universum dehnt sich aus.",
+        "Rechnet man diese Ausdehnung zurück, war alles einmal auf engstem Raum zusammen, extrem heiß und dicht. Diesen Anfangszustand und die darauffolgende Ausdehnung nennt man Urknall."
+      ],
+      "merke": "Weil sich das Universum ausdehnt, muss es einmal sehr dicht gewesen sein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Echo im Weltall",
+      "absaetze": [
+        "1965 fanden zwei Forscher in den USA zufällig ein schwaches Rauschen, das aus allen Richtungen des Himmels kam. Es war die kosmische Hintergrundstrahlung, das Nachleuchten des frühen, heißen Universums.",
+        "Raumsonden wie der ESA-Satellit Planck haben diese Strahlung genau vermessen. Aus den Daten lässt sich das Alter des Universums auf rund 13,8 Milliarden Jahre bestimmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Explosion im Raum",
+      "absaetze": [
+        "Der Urknall war keine Explosion an einem Ort in einem leeren Raum. Raum und Zeit selbst entstanden nach heutigem Verständnis mit ihm.",
+        "Was davor war oder ob es ein Davor überhaupt gibt, kann die Physik bisher nicht beantworten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie alt ist das Universum nach heutigem Wissen?",
+      "art": "mc",
+      "optionen": [
+        "Rund 13,8 Milliarden Jahre",
+        "Rund 6.000 Jahre",
+        "Rund 4,6 Milliarden Jahre",
+        "Unendlich alt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Messungen ergeben rund 13,8 Milliarden Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die kosmische Hintergrundstrahlung?",
+      "art": "mc",
+      "optionen": [
+        "Das Nachleuchten des frühen Universums",
+        "Das Licht der Sonne",
+        "Radiowellen von Handys",
+        "Strahlung von Atomkraftwerken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stammt aus der frühen, heißen Phase des Universums."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Urknall war eine Explosion an einem Ort in einem leeren Raum.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Raum und Zeit entstanden nach heutigem Verständnis mit ihm."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Universum dehnt sich aus, früher war es extrem dicht und heiß.",
+        "Die kosmische Hintergrundstrahlung ist ein Nachleuchten des Urknalls.",
+        "Das Universum ist rund 13,8 Milliarden Jahre alt."
+      ]
+    }
+  ]
+}

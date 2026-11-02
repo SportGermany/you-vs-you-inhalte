@@ -1,0 +1,113 @@
+{
+  "id": "vers-b020-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Lohnt sich eine Zahnzusatzversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zahnersatz",
+      "herausgeber": "GKV-Spitzenverband",
+      "url": "https://www.gkv-spitzenverband.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ratgeber Geld, Versicherungen und Steuern",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zahnersatz",
+    "zusatzversicherung",
+    "bonusheft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Zahn muss durch eine Krone ersetzt werden. Der Heil- und Kostenplan zeigt einen hohen Eigenanteil.",
+        "Hätte eine Zusatzversicherung geholfen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Kasse zahlt",
+      "absaetze": [
+        "Bei Zahnersatz zahlt die gesetzliche Krankenversicherung einen Festzuschuss. Er beträgt 60 Prozent der Kosten für die sogenannte Regelversorgung, also eine einfache, ausreichende Lösung.",
+        "Wer regelmäßig zur Kontrolle geht und das im Bonusheft nachweisen kann, bekommt nach fünf Jahren 70 Prozent, nach zehn Jahren 75 Prozent. Höherwertige Lösungen wie Implantate kosten oft deutlich mehr."
+      ],
+      "merke": "Ein gepflegtes Bonusheft erhöht den Zuschuss der Kasse."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was eine Zusatzversicherung bietet",
+      "absaetze": [
+        "Eine Zahnzusatzversicherung übernimmt einen Teil des Eigenanteils. Gute Tarife zahlen auch bei Implantaten und hochwertigen Füllungen.",
+        "Viele Tarife haben aber Wartezeiten und begrenzen die Leistungen in den ersten Jahren. Bereits geplante oder laufende Behandlungen sind meist nicht versichert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut abwägen",
+      "absaetze": [
+        "Verbraucherschützer zählen sie nicht zu den unverzichtbaren Versicherungen. Sie kann sinnvoll sein, wenn man hochwertigen Zahnersatz möchte und früh abschließt.",
+        "Alternativ kann man regelmäßig Geld für Zahnbehandlungen zurücklegen. Das Bonusheft zu pflegen, ist in jedem Fall lohnend."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Festzuschuss der Kasse bei Zahnersatz ohne Bonus?",
+      "art": "mc",
+      "optionen": [
+        "60 Prozent der Regelversorgung",
+        "100 Prozent aller Kosten",
+        "10 Prozent",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Bonus sind es 60 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erhöht den Zuschuss der Kasse?",
+      "art": "mc",
+      "optionen": [
+        "Ein lückenlos geführtes Bonusheft",
+        "Ein teurer Zahnarzt",
+        "Eine Zahnbürste mit Akku",
+        "Ein Umzug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach fünf Jahren 70, nach zehn Jahren 75 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laufende Behandlungen sind bei neuen Zahnzusatzversicherungen meist mitversichert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind in der Regel ausgeschlossen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kasse zahlt bei Zahnersatz einen Festzuschuss.",
+        "Ein gepflegtes Bonusheft erhöht ihn.",
+        "Eine Zusatzversicherung kann sich lohnen, ist aber nicht unverzichtbar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "tech-b020-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Warum ersetzen Passkeys das Passwort?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Passkeys",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "passkey",
+    "passwort",
+    "phishing"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einer Website steht plötzlich: Mit Passkey anmelden. Du drückst den Finger auf das Handy, und du bist drin.",
+        "Kein Passwort, kein Code. Ist das sicher?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Schlüsselpaar statt Passwort",
+      "absaetze": [
+        "Ein Passkey besteht aus zwei zusammengehörigen digitalen Schlüsseln. Der öffentliche Schlüssel liegt bei der Website, der geheime Schlüssel bleibt auf deinem Gerät.",
+        "Beim Anmelden beweist dein Gerät mit dem geheimen Schlüssel, dass du es bist. Den Schlüssel selbst schickt es nie an die Website. Freigeben musst du die Anmeldung mit Fingerabdruck, Gesichtserkennung oder PIN."
+      ],
+      "merke": "Der geheime Schlüssel verlässt nie dein Gerät."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz vor Phishing",
+      "absaetze": [
+        "Ein großer Vorteil: Passkeys sind fest an die echte Website gebunden. Auf einer gefälschten Seite funktionieren sie nicht.",
+        "Betrüger können also nicht wie bei Passwörtern einfach Zugangsdaten abfischen. Und weil die Website keinen geheimen Schlüssel speichert, kann er dort auch nicht gestohlen werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Passkeys werden oft über das Konto deines Handy- oder Computerherstellers synchronisiert. Dieses Konto solltest du besonders gut schützen.",
+        "Wichtig ist auch, für den Verlust des Geräts vorzusorgen, etwa mit einem zweiten Gerät oder Wiederherstellungsoptionen. Das BSI sieht Passkeys als sichere Alternative zu Passwörtern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo bleibt der geheime Schlüssel eines Passkeys?",
+      "art": "mc",
+      "optionen": [
+        "Auf deinem Gerät",
+        "Bei der Website",
+        "In einer E-Mail",
+        "Auf einem Zettel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verlässt dein Gerät nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schützen Passkeys vor Phishing?",
+      "art": "mc",
+      "optionen": [
+        "Sie funktionieren nur auf der echten Website",
+        "Sie sind besonders lang",
+        "Sie ändern sich täglich",
+        "Sie werden per SMS geschickt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf gefälschten Seiten funktionieren sie nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einem Passkey schickt dein Gerät den geheimen Schlüssel an die Website.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es beweist nur, dass es den Schlüssel besitzt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Passkeys nutzen ein Schlüsselpaar statt eines Passworts.",
+        "Sie sind an die echte Website gebunden und schützen vor Phishing.",
+        "Das Herstellerkonto gut sichern und für Geräteverlust vorsorgen."
+      ]
+    }
+  ]
+}
