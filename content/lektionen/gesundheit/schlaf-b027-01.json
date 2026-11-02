@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b027-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Solltest du im Dunkeln schlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "licht",
+    "dunkelheit",
+    "schlafzimmer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Fernseher läuft noch, durch die Vorhänge scheint die Straßenlaterne, das Ladegerät blinkt.",
+        "Stört das den Schlaf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht als Taktgeber",
+      "absaetze": [
+        "Licht ist der wichtigste Taktgeber der inneren Uhr. Dunkelheit am Abend fördert die Bildung von Melatonin, einem Hormon, das den Körper auf Schlaf einstellt.",
+        "Schon schwaches Licht kann diese Bildung etwas dämpfen, besonders blaues Licht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien andeuten",
+      "absaetze": [
+        "In einer kleinen Laborstudie schliefen junge Erwachsene eine Nacht bei gedämpftem Licht. Am nächsten Morgen zeigten sie im Schnitt eine schlechtere Insulinwirkung als nach einer dunklen Nacht.",
+        "Größere Beobachtungsstudien deuten darauf hin, dass Licht in der Nacht mit Übergewicht und Stoffwechselproblemen zusammenhängt. Ob es die Ursache ist, ist noch nicht geklärt."
+      ],
+      "merke": "Licht in der Nacht kann den Stoffwechsel beeinflussen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "So wird es dunkler",
+      "absaetze": [
+        "Verdunkelnde Vorhänge oder Rollos halten Straßenlicht draußen. Eine Schlafmaske ist eine günstige Alternative.",
+        "Leuchtende Geräte kannst du abdecken oder aus dem Schlafzimmer verbannen. Wer nachts aufstehen muss, nutzt am besten ein schwaches, warmes Licht in Bodennähe."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon wird bei Dunkelheit am Abend gebildet?",
+      "art": "mc",
+      "optionen": [
+        "Melatonin",
+        "Adrenalin",
+        "Insulin",
+        "Cortisol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Melatonin stellt den Körper auf Schlaf ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte eine kleine Laborstudie nach einer Nacht mit Licht?",
+      "art": "mc",
+      "optionen": [
+        "Eine schlechtere Insulinwirkung am Morgen",
+        "Bessere Laune",
+        "Mehr Muskeln",
+        "Keine Unterschiede bei irgendetwas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Stoffwechsel reagierte auf das Licht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Schlafmaske kann eine günstige Alternative zu Verdunklungsvorhängen sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie hält Licht von den Augen fern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Dunkelheit fördert die Melatoninbildung.",
+        "Schon schwaches Licht kann sie dämpfen.",
+        "Licht in der Nacht hängt mit Stoffwechselproblemen zusammen.",
+        "Vorhänge, Maske und abgedeckte Geräte helfen."
+      ]
+    }
+  ]
+}

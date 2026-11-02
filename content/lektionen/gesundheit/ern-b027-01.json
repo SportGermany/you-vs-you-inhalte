@@ -1,0 +1,118 @@
+{
+  "id": "ern-b027-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Pilze?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Strahlenschutz im Alltag",
+      "herausgeber": "Bundesamt für Strahlenschutz (BfS)",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pilze",
+    "vitamin-d",
+    "wildpilze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Champignons, Pfifferlinge oder Steinpilze: Pilze sind beliebt und vielseitig.",
+        "Was steckt eigentlich in ihnen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weder Pflanze noch Tier",
+      "absaetze": [
+        "Pilze bilden ein eigenes Reich der Lebewesen. In der Küche zählen sie meist zum Gemüse.",
+        "Sie bestehen größtenteils aus Wasser und liefern wenig Energie. Dafür enthalten sie Ballaststoffe, B-Vitamine und Mineralstoffe wie Kalium."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vitamin D aus Pilzen",
+      "absaetze": [
+        "Pilze können Vitamin D bilden, wenn sie UV-Licht abbekommen. Manche Zuchtpilze werden gezielt mit UV-Licht behandelt, um den Gehalt zu erhöhen.",
+        "Normale Zuchtchampignons aus dem Dunkeln enthalten dagegen nur wenig Vitamin D."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Wildpilzen",
+      "absaetze": [
+        "Sammle nur Pilze, die du sicher erkennst. Verwechslungen mit Giftpilzen können lebensgefährlich sein. Pilzberatungsstellen helfen bei der Bestimmung.",
+        "In manchen Regionen Süddeutschlands sind bestimmte Wildpilze noch mit radioaktivem Cäsium aus dem Unfall von Tschernobyl belastet. Das Bundesamt für Strahlenschutz rät dort zu maßvollem Verzehr."
+      ],
+      "merke": "Wildpilze nur sammeln, wenn du sie sicher kennst.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefern Pilze nur wenig?",
+      "art": "mc",
+      "optionen": [
+        "Energie",
+        "Wasser",
+        "Ballaststoffe",
+        "Kalium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pilze bestehen größtenteils aus Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch können Pilze Vitamin D bilden?",
+      "art": "mc",
+      "optionen": [
+        "Durch UV-Licht",
+        "Durch Kochen",
+        "Durch Einfrieren",
+        "Durch Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "UV-Licht regt die Bildung an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Wildpilze in Süddeutschland sind noch mit Cäsium aus Tschernobyl belastet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort wird maßvoller Verzehr empfohlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pilze liefern wenig Energie, aber Ballaststoffe und Mineralstoffe.",
+        "Mit UV-Licht bilden sie Vitamin D.",
+        "Wildpilze nur sammeln, wenn du sie sicher kennst.",
+        "Manche Wildpilze sind noch radioaktiv belastet."
+      ]
+    }
+  ]
+}

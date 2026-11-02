@@ -1,0 +1,114 @@
+{
+  "id": "vers-b027-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Brauchst du eine Tierhalterhaftpflicht?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2028-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Tierhalterhaftpflicht",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geld, Konto und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hund",
+    "tierhalterhaftpflicht",
+    "haftung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Hund reißt sich los und läuft auf die Straße. Ein Radfahrer stürzt und verletzt sich schwer.",
+        "Für den Schaden haftet die Halterin oder der Halter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haftung ohne Verschulden",
+      "absaetze": [
+        "Halter von Hunden und Pferden haften für Schäden, die das Tier verursacht. Das gilt in vielen Fällen auch dann, wenn sie selbst nichts falsch gemacht haben.",
+        "Die Schäden können sehr hoch werden, etwa bei Verletzungen von Menschen. Ohne Versicherung kann das existenzbedrohend sein."
+      ],
+      "merke": "Tierhalter haften oft auch ohne eigenes Verschulden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunde und Pferde",
+      "absaetze": [
+        "Für Hunde und Pferde braucht es meist eine eigene Tierhalterhaftpflicht. Die private Haftpflicht deckt diese Tiere in der Regel nicht ab.",
+        "In einigen Bundesländern ist eine Hundehaftpflicht gesetzlich vorgeschrieben. Die Regeln unterscheiden sich je nach Land."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Haustiere",
+      "absaetze": [
+        "Schäden durch Katzen, Kaninchen oder Wellensittiche sind meist über die private Haftpflichtversicherung abgedeckt. Ein Blick in die Bedingungen schafft Klarheit.",
+        "Achte bei der Tierhalterhaftpflicht auf eine ausreichende Deckungssumme und darauf, ob auch Mietschäden abgedeckt sind."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welche Tiere braucht es meist eine eigene Tierhalterhaftpflicht?",
+      "art": "mc",
+      "optionen": [
+        "Hunde und Pferde",
+        "Goldfische",
+        "Wellensittiche",
+        "Hamster"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kleine Tiere deckt meist die private Haftpflicht ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist die Hundehaftpflicht teils vorgeschrieben?",
+      "art": "mc",
+      "optionen": [
+        "In einigen Bundesländern",
+        "Nirgends",
+        "In ganz Europa einheitlich",
+        "Nur auf Bauernhöfen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Regeln unterscheiden sich je nach Land."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tierhalter haften nur, wenn sie selbst einen Fehler gemacht haben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft haften sie auch ohne eigenes Verschulden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tierhalter haften oft auch ohne Verschulden.",
+        "Hunde und Pferde brauchen eine eigene Haftpflicht.",
+        "In einigen Bundesländern ist die Hundehaftpflicht Pflicht.",
+        "Kleine Haustiere deckt meist die private Haftpflicht."
+      ]
+    }
+  ]
+}

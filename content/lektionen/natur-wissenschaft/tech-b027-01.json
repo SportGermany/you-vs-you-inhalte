@@ -1,0 +1,108 @@
+{
+  "id": "tech-b027-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie erkennt ein Rauchmelder Feuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rauchmelder retten Leben",
+      "herausgeber": "Deutscher Feuerwehrverband",
+      "url": "https://www.feuerwehrverband.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rauchmelder",
+    "brandschutz",
+    "sensor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die meisten Brandopfer sterben nicht durch Flammen, sondern durch giftigen Rauch. Oft im Schlaf.",
+        "Ein kleines Gerät an der Decke kann Leben retten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht und Rauch",
+      "absaetze": [
+        "Die meisten Rauchmelder für Wohnungen arbeiten mit Licht. In einer kleinen Kammer sendet eine Leuchtdiode einen Lichtstrahl, der normalerweise nicht auf einen Sensor trifft.",
+        "Dringt Rauch ein, streuen die Rauchteilchen das Licht. Ein Teil trifft nun den Sensor, und der Melder schlägt laut Alarm."
+      ],
+      "merke": "Rauchteilchen streuen Licht auf einen Sensor."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflicht in Deutschland",
+      "absaetze": [
+        "In allen Bundesländern sind Rauchmelder in Wohnungen vorgeschrieben. Meist gilt das für Schlafräume, Kinderzimmer und Flure, die als Fluchtweg dienen.",
+        "Die Details, etwa wer für Einbau und Wartung zuständig ist, regelt jedes Land selbst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig anbringen und pflegen",
+      "absaetze": [
+        "Rauch steigt nach oben. Rauchmelder gehören deshalb an die Decke, möglichst in die Raummitte.",
+        "Drücke regelmäßig den Prüfknopf. Viele Geräte haben fest eingebaute Batterien, die zehn Jahre halten. Danach sollte der Melder ersetzt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie erkennen die meisten Rauchmelder Rauch?",
+      "art": "mc",
+      "optionen": [
+        "Rauchteilchen streuen Licht auf einen Sensor",
+        "Sie messen die Raumtemperatur",
+        "Sie riechen den Rauch",
+        "Sie hören das Knistern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Streulicht löst den Alarm aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sollte ein Rauchmelder angebracht werden?",
+      "art": "mc",
+      "optionen": [
+        "An der Decke, möglichst in der Raummitte",
+        "Auf dem Boden",
+        "Hinter dem Schrank",
+        "Im Kühlschrank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rauch steigt nach oben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rauchmelder sind in allen Bundesländern in Wohnungen vorgeschrieben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Details regelt jedes Land."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rauchmelder erkennen Rauch meist über Streulicht.",
+        "Sie sind in allen Bundesländern Pflicht.",
+        "Sie gehören an die Decke.",
+        "Regelmäßig prüfen und nach etwa zehn Jahren ersetzen."
+      ]
+    }
+  ]
+}

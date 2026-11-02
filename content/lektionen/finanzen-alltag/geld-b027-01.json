@@ -1,0 +1,108 @@
+{
+  "id": "geld-b027-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was unterscheidet Debitkarte und Kreditkarte?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld, Konto und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "debitkarte",
+    "kreditkarte",
+    "bezahlen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Kasse hältst du eine Karte ans Terminal. Ob Debit- oder Kreditkarte, sieht man kaum.",
+        "Doch dahinter stecken unterschiedliche Wege, das Geld abzubuchen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Debitkarte",
+      "absaetze": [
+        "Bei einer Debitkarte wird der Betrag direkt oder sehr zeitnah vom Girokonto abgebucht. Die Girocard ist ein bekanntes Beispiel.",
+        "Inzwischen geben viele Banken auch Debitkarten von Visa oder Mastercard aus. Sie sehen aus wie Kreditkarten, buchen aber sofort ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kreditkarte",
+      "absaetze": [
+        "Bei einer echten Kreditkarte werden die Umsätze gesammelt und meist einmal im Monat abgerechnet. Bis dahin streckt die Bank das Geld vor.",
+        "Bei einigen Karten kannst du die Rechnung in Raten zahlen. Dafür werden oft hohe Zinsen fällig."
+      ],
+      "merke": "Teilzahlung bei Kreditkarten ist oft teuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was passt zu dir",
+      "absaetze": [
+        "Die Debitkarte hilft, den Überblick zu behalten, weil du sofort siehst, was weg ist. Für Mietwagen und Hotels wird manchmal eine echte Kreditkarte verlangt.",
+        "Achte auf Gebühren, etwa für Bargeld im Ausland. Sperre eine verlorene Karte sofort über den Sperr-Notruf 116 116."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird bei einer Debitkarte abgebucht?",
+      "art": "mc",
+      "optionen": [
+        "Direkt oder sehr zeitnah vom Girokonto",
+        "Einmal im Jahr",
+        "Nie",
+        "Nur bei Bargeld"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Geld geht sofort vom Konto."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Kreditkarten mit Teilzahlung zu beachten?",
+      "art": "mc",
+      "optionen": [
+        "Es fallen oft hohe Zinsen an",
+        "Sie ist immer kostenlos",
+        "Sie bringt Zinsen aufs Konto",
+        "Sie ist verboten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ratenzahlung kann teuer werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Sperrnummer für verlorene Karten lautet 116 116.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie gilt für viele Karten in Deutschland."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Debitkarten buchen direkt vom Girokonto ab.",
+        "Kreditkarten rechnen meist monatlich ab.",
+        "Teilzahlung bei Kreditkarten ist oft teuer.",
+        "Verlorene Karten sofort unter 116 116 sperren."
+      ]
+    }
+  ]
+}

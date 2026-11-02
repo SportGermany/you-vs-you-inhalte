@@ -1,0 +1,120 @@
+{
+  "id": "supp-b027-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Schützen Vitamin-E-Präparate das Herz?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Acrylamid und Vitamine",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-e",
+    "antioxidantien",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vitamin E gilt als Antioxidans, das Zellen vor Schäden schützt. Deshalb hoffte man, Präparate könnten Herzkrankheiten und Krebs verhindern.",
+        "Große Studien brachten Ernüchterung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Vitamin E macht",
+      "absaetze": [
+        "Vitamin E schützt Zellwände vor Schäden durch reaktive Sauerstoffverbindungen. Man nennt solche Stoffe Antioxidantien.",
+        "Es steckt vor allem in Pflanzenölen wie Weizenkeim- und Sonnenblumenöl, in Nüssen und Samen. Ein Mangel ist bei gesunden Menschen selten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was große Studien zeigten",
+      "absaetze": [
+        "Mehrere große Studien fanden keinen Schutz vor Herzinfarkt oder Schlaganfall durch Vitamin-E-Präparate.",
+        "In einer großen amerikanischen Studie mit Männern trat in der Gruppe mit Vitamin E sogar etwas häufiger Prostatakrebs auf. Mehr ist hier also nicht besser."
+      ],
+      "merke": "Vitamin-E-Präparate schützen nicht vor Herzkrankheiten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das bedeutet",
+      "absaetze": [
+        "Das BfR sieht für gesunde Menschen keinen Bedarf an zusätzlichem Vitamin E. Mit Ölen, Nüssen und Vollkorn ist die Versorgung meist gut.",
+        "Hoch dosierte Präparate können außerdem die Blutgerinnung beeinflussen. Das ist bei Blutverdünnern wichtig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Einnahme von Blutverdünnern vorher ärztlich beraten lassen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steckt viel Vitamin E?",
+      "art": "mc",
+      "optionen": [
+        "In Pflanzenölen und Nüssen",
+        "In Zucker",
+        "In Wasser",
+        "In Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weizenkeimöl und Sonnenblumenöl sind gute Quellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten große Studien zu Vitamin-E-Präparaten und Herz?",
+      "art": "mc",
+      "optionen": [
+        "Keinen Schutz vor Herzinfarkt",
+        "Vollständigen Schutz",
+        "Eine Halbierung der Infarkte",
+        "Bessere Sehkraft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der erhoffte Schutz blieb aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Vitamin-E-Mangel ist bei gesunden Menschen häufig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Mangel ist selten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin E ist ein Antioxidans aus Ölen und Nüssen.",
+        "Präparate schützen nicht vor Herzinfarkt.",
+        "Eine Studie fand mehr Prostatakrebs mit Vitamin E.",
+        "Gesunde brauchen meist kein zusätzliches Vitamin E."
+      ]
+    }
+  ]
+}

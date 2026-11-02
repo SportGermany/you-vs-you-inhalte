@@ -1,0 +1,113 @@
+{
+  "id": "stoff-b027-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum verliert man am Anfang einer Diät so schnell Gewicht?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Adipositas und Stoffwechsel",
+      "herausgeber": "Deutsche Adipositas-Gesellschaft",
+      "url": "https://adipositas-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glykogen",
+    "wasser",
+    "gewichtsverlust"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der ersten Woche zeigt die Waage plötzlich zwei Kilo weniger. Danach geht es viel langsamer.",
+        "Der Grund ist vor allem Wasser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Glykogen, der Zuckerspeicher",
+      "absaetze": [
+        "Der Körper speichert Kohlenhydrate als Glykogen in Leber und Muskeln. Glykogen bindet dabei viel Wasser.",
+        "Isst du weniger, vor allem weniger Kohlenhydrate, greift der Körper zuerst auf diesen Speicher zurück. Mit dem Glykogen verschwindet auch das gebundene Wasser."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fett schmilzt langsamer",
+      "absaetze": [
+        "Der schnelle Verlust am Anfang ist deshalb größtenteils Wasser, nicht Fett. Fettabbau geht deutlich langsamer.",
+        "Sobald du wieder normal isst, füllen sich die Speicher und das Wasser kehrt zurück. Das erklärt manche schnelle Gewichtszunahme nach einer Diät."
+      ],
+      "merke": "Der schnelle Verlust am Anfang ist vor allem Wasser.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Waage richtig lesen",
+      "absaetze": [
+        "Das Körpergewicht schwankt auch sonst von Tag zu Tag um bis zu ein oder zwei Kilo. Salz, Hormone und Verdauung spielen eine Rolle.",
+        "Aussagekräftiger ist der Verlauf über mehrere Wochen. Ein langsamer, stetiger Weg ist meist nachhaltiger als ein schneller Start."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie speichert der Körper Kohlenhydrate?",
+      "art": "mc",
+      "optionen": [
+        "Als Glykogen",
+        "Als Eiweiß",
+        "Als Knochen",
+        "Als Vitamin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Glykogen liegt in Leber und Muskeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der schnelle Gewichtsverlust am Anfang einer Diät vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Wasser",
+        "Reines Fett",
+        "Muskeln allein",
+        "Knochenmasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Glykogen bindet viel Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Körpergewicht kann von Tag zu Tag schwanken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb zählt der Verlauf über Wochen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glykogen ist der Kohlenhydratspeicher und bindet viel Wasser.",
+        "Am Anfang einer Diät geht vor allem Wasser verloren.",
+        "Fettabbau geht langsamer.",
+        "Der Verlauf über Wochen ist aussagekräftiger als ein Tag.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

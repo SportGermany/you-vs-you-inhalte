@@ -1,0 +1,108 @@
+{
+  "id": "steu-b027-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wozu dient die Steuer-Identifikationsnummer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuerliche Identifikationsnummer",
+      "herausgeber": "Bundeszentralamt für Steuern",
+      "url": "https://www.bzst.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuer-id",
+    "identifikationsnummer",
+    "finanzamt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Arbeitgeber fragt danach, die Bank auch, und auf jedem Steuerbescheid steht sie.",
+        "Die Rede ist von der Steuer-Identifikationsnummer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Nummer fürs Leben",
+      "absaetze": [
+        "Die Steuer-Identifikationsnummer, kurz Steuer-ID, ist eine elfstellige Nummer. Jeder Mensch mit Wohnsitz in Deutschland bekommt sie vom Bundeszentralamt für Steuern.",
+        "Babys erhalten sie kurz nach der Geburt per Post. Sie bleibt ein Leben lang gleich, auch nach Umzug oder Heirat."
+      ],
+      "merke": "Die Steuer-ID bleibt ein Leben lang gleich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür sie gebraucht wird",
+      "absaetze": [
+        "Arbeitgeber brauchen die Steuer-ID für die Lohnsteuer. Banken brauchen sie zum Beispiel für den Freistellungsauftrag.",
+        "Auch Familienkasse und Rentenversicherung nutzen sie. Mit ihr ordnet das Finanzamt Daten eindeutig der richtigen Person zu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht verwechseln",
+      "absaetze": [
+        "Die Steuernummer ist etwas anderes. Sie vergibt das örtliche Finanzamt, etwa für die Einkommensteuererklärung oder für Selbstständige. Sie kann sich bei einem Umzug ändern.",
+        "Die Steuer-ID findest du etwa auf dem Steuerbescheid oder der Lohnsteuerbescheinigung. Gib sie nur an vertrauenswürdige Stellen weiter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Stellen hat die Steuer-ID?",
+      "art": "mc",
+      "optionen": [
+        "Elf",
+        "Drei",
+        "Zwanzig",
+        "Fünf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist elfstellig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer vergibt die Steuer-ID?",
+      "art": "mc",
+      "optionen": [
+        "Das Bundeszentralamt für Steuern",
+        "Der Arbeitgeber",
+        "Die Bank",
+        "Die Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kommt vom Bundeszentralamt für Steuern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Steuer-ID ändert sich nach jedem Umzug.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das kann bei der Steuernummer passieren, nicht bei der Steuer-ID."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Steuer-ID ist elfstellig und bleibt lebenslang gleich.",
+        "Sie wird schon kurz nach der Geburt vergeben.",
+        "Arbeitgeber, Banken und Behörden nutzen sie.",
+        "Die Steuernummer ist etwas anderes."
+      ]
+    }
+  ]
+}

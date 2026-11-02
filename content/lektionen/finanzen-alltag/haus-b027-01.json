@@ -1,0 +1,114 @@
+{
+  "id": "haus-b027-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie trocknest du Wäsche sparsam?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geld, Konto und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waesche",
+    "trockner",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Wäschetrockner ist bequem, braucht aber viel Strom.",
+        "Mit ein paar Tipps sparst du Energie und Geld."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "An der Luft ist am günstigsten",
+      "absaetze": [
+        "Wäsche an der Leine oder auf dem Wäscheständer zu trocknen kostet keinen Strom. Draußen oder auf dem Balkon geht es besonders gut.",
+        "Wer in der Wohnung trocknet, sollte gut lüften. Die Feuchtigkeit muss hinaus, sonst steigt das Schimmelrisiko."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut schleudern",
+      "absaetze": [
+        "Je besser die Waschmaschine schleudert, desto weniger Wasser bleibt in der Wäsche. Das verkürzt die Trockenzeit, egal ob an der Luft oder im Trockner.",
+        "Schleudern braucht deutlich weniger Energie als das Verdunsten des Wassers im Trockner."
+      ],
+      "merke": "Gutes Schleudern spart Trockenzeit und Strom."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn ein Trockner sein muss",
+      "absaetze": [
+        "Wärmepumpentrockner verbrauchen deutlich weniger Strom als ältere Ablufttrockner. Beim Neukauf lohnt ein Blick auf das Energielabel.",
+        "Reinige das Flusensieb nach jedem Durchgang. Und fülle die Trommel passend, weder zu voll noch zu leer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Trocknungsart kostet keinen Strom?",
+      "art": "mc",
+      "optionen": [
+        "Trocknen an der Luft",
+        "Ablufttrockner",
+        "Wärmepumpentrockner",
+        "Föhn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leine und Wäscheständer sind kostenlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Trocknertyp verbraucht deutlich weniger Strom?",
+      "art": "mc",
+      "optionen": [
+        "Wärmepumpentrockner",
+        "Alter Ablufttrockner",
+        "Beide gleich",
+        "Keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wärmepumpentrockner sind sparsamer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Trocknen in der Wohnung solltest du gut lüften.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonst steigt das Schimmelrisiko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lufttrocknen ist am günstigsten.",
+        "In der Wohnung gut lüften.",
+        "Gutes Schleudern verkürzt die Trockenzeit.",
+        "Wärmepumpentrockner sparen Strom."
+      ]
+    }
+  ]
+}

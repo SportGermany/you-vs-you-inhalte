@@ -1,0 +1,108 @@
+{
+  "id": "all-b027-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was sind Gravitationswellen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gravitationswellen",
+      "herausgeber": "Max-Planck-Gesellschaft",
+      "url": "https://www.mpg.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gravitationswellen",
+    "einstein",
+    "schwarze-loecher"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn zwei Schwarze Löcher miteinander verschmelzen, erzittert der Raum selbst.",
+        "Diese Erschütterungen nennt man Gravitationswellen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wellen in der Raumzeit",
+      "absaetze": [
+        "Albert Einstein sagte Gravitationswellen 1916 mit seiner Allgemeinen Relativitätstheorie voraus. Danach sind Raum und Zeit eine Art Gewebe, das sich verformen kann.",
+        "Sehr große Massen, die sich schnell bewegen, erzeugen darin Wellen. Sie breiten sich mit Lichtgeschwindigkeit aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der erste Nachweis",
+      "absaetze": [
+        "Erst 2015 gelang der direkte Nachweis mit den LIGO-Detektoren in den USA. Das Signal stammte von zwei verschmelzenden Schwarzen Löchern in über einer Milliarde Lichtjahren Entfernung.",
+        "2017 erhielten drei Forscher dafür den Physik-Nobelpreis. Auch Forschende aus Deutschland, etwa vom Max-Planck-Institut für Gravitationsphysik, waren beteiligt."
+      ],
+      "merke": "Gravitationswellen wurden 2015 erstmals direkt gemessen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein neues Fenster ins All",
+      "absaetze": [
+        "Die Wellen verändern Abstände nur winzig, viel weniger als die Breite eines Atomkerns. Die Detektoren nutzen Laserstrahlen in kilometerlangen Röhren, um das zu messen.",
+        "Mit Gravitationswellen können Forschende Ereignisse beobachten, die kein Licht aussenden. Das eröffnet ganz neue Einblicke ins Universum."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sagte Gravitationswellen voraus?",
+      "art": "mc",
+      "optionen": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Marie Curie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er sagte sie 1916 voraus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gelang der erste direkte Nachweis?",
+      "art": "mc",
+      "optionen": [
+        "2015",
+        "1916",
+        "1969",
+        "1990"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die LIGO-Detektoren maßen das Signal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gravitationswellen verändern Abstände so stark, dass man sie mit bloßem Auge sieht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Veränderungen sind winzig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gravitationswellen sind Wellen in der Raumzeit.",
+        "Einstein sagte sie 1916 voraus.",
+        "2015 wurden sie erstmals direkt gemessen.",
+        "Sie öffnen ein neues Fenster ins All."
+      ]
+    }
+  ]
+}

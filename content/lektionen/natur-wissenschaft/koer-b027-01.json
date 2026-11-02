@@ -1,0 +1,108 @@
+{
+  "id": "koer-b027-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was passiert bei einem Sonnenbrand?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Strahlenschutz im Alltag",
+      "herausgeber": "Bundesamt für Strahlenschutz (BfS)",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnenbrand",
+    "uv-strahlung",
+    "haut"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rot, heiß, schmerzhaft: Ein Sonnenbrand ist mehr als ein unangenehmes Andenken an den Sommer.",
+        "Er zeigt, dass die Haut Schaden genommen hat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "UV-Strahlen schädigen die Zellen",
+      "absaetze": [
+        "Sonnenlicht enthält ultraviolette Strahlung, kurz UV-Strahlung. Sie kann das Erbgut in den Hautzellen schädigen.",
+        "Der Körper reagiert mit einer Entzündung. Die Blutgefäße erweitern sich, die Haut wird rot und schmerzt. Das beginnt oft erst einige Stunden nach dem Sonnenbad."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Haut vergisst nicht",
+      "absaetze": [
+        "Viele Schäden kann die Haut reparieren, aber nicht alle. Häufige Sonnenbrände, besonders in der Kindheit, erhöhen das Risiko für Hautkrebs.",
+        "Auch ohne Sonnenbrand lässt UV-Strahlung die Haut schneller altern."
+      ],
+      "merke": "Sonnenbrände erhöhen das Hautkrebsrisiko."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut geschützt",
+      "absaetze": [
+        "Das Bundesamt für Strahlenschutz rät, die Mittagssonne zu meiden und Schatten zu suchen. Kleidung, Hut und Sonnenbrille schützen gut.",
+        "Sonnencreme ergänzt den Schutz für Hautstellen, die frei bleiben. Den UV-Index zeigt dir der Deutsche Wetterdienst an. Babys gehören nicht in die direkte Sonne."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schädigt die Haut beim Sonnenbrand?",
+      "art": "mc",
+      "optionen": [
+        "UV-Strahlung",
+        "Infrarotlicht allein",
+        "Wind",
+        "Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "UV-Strahlung kann das Erbgut der Zellen schädigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erhöhen häufige Sonnenbrände?",
+      "art": "mc",
+      "optionen": [
+        "Das Hautkrebsrisiko",
+        "Die Körpergröße",
+        "Die Sehkraft",
+        "Den Appetit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders Sonnenbrände in der Kindheit sind riskant."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sonnenbrand zeigt sich oft erst einige Stunden später.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb wird er oft unterschätzt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "UV-Strahlung schädigt das Erbgut der Hautzellen.",
+        "Sonnenbrand ist eine Entzündungsreaktion.",
+        "Häufige Sonnenbrände erhöhen das Hautkrebsrisiko.",
+        "Schatten, Kleidung und Sonnencreme schützen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ern-b027-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Acrylamid?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Acrylamid und Vitamine",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Acrylamide",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "acrylamid",
+    "braten",
+    "pommes"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Goldbraune Pommes, knuspriger Toast, Kartoffelchips. Beim starken Erhitzen entsteht ein Stoff, der Fachleuten Sorgen macht.",
+        "Er heißt Acrylamid."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Acrylamid entsteht",
+      "absaetze": [
+        "Acrylamid bildet sich beim Backen, Braten, Rösten und Frittieren von stärkehaltigen Lebensmitteln. Das passiert vor allem bei hohen Temperaturen und wenig Feuchtigkeit.",
+        "Typische Quellen sind Pommes, Chips, Kekse, Toast und Kaffee. Beim Kochen in Wasser entsteht dagegen kaum Acrylamid."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es bedenklich ist",
+      "absaetze": [
+        "In Tierversuchen erwies sich Acrylamid als krebserregend. Die EFSA kam 2015 zu dem Schluss, dass es auch beim Menschen das Krebsrisiko erhöhen könnte.",
+        "Eine sichere Höchstmenge lässt sich deshalb nicht festlegen. Ziel ist, die Aufnahme so gering wie vernünftigerweise möglich zu halten."
+      ],
+      "merke": "Acrylamid sollte so gering wie möglich gehalten werden.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vergolden statt verkohlen",
+      "absaetze": [
+        "Backe und frittiere nicht zu heiß und nicht zu lange. Pommes und Toast sollten goldgelb sein, nicht dunkelbraun.",
+        "Kartoffeln nicht im Kühlschrank lagern, weil dort mehr Zucker entsteht. Das fördert beim Erhitzen die Bildung von Acrylamid."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht Acrylamid vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Beim starken Erhitzen stärkehaltiger Lebensmittel",
+        "Beim Einfrieren",
+        "Beim Kochen in Wasser",
+        "Beim Waschen von Gemüse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hohe Temperaturen und wenig Feuchtigkeit fördern es."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Regel hilft, Acrylamid zu verringern?",
+      "art": "mc",
+      "optionen": [
+        "Vergolden statt verkohlen",
+        "Möglichst dunkel braten",
+        "Kartoffeln im Kühlschrank lagern",
+        "Länger frittieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Goldgelb statt dunkelbraun."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Kochen in Wasser entsteht viel Acrylamid.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dabei entsteht kaum Acrylamid."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Acrylamid entsteht beim starken Erhitzen stärkehaltiger Lebensmittel.",
+        "Es könnte das Krebsrisiko erhöhen.",
+        "Vergolden statt verkohlen.",
+        "Kartoffeln nicht im Kühlschrank lagern."
+      ]
+    }
+  ]
+}

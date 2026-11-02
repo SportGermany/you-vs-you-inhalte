@@ -1,0 +1,111 @@
+{
+  "id": "lern-b027-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie lernst du Vokabeln am besten?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vokabeln",
+    "karteikarten",
+    "wiederholung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Liste mit 50 Wörtern, und am nächsten Tag sind die Hälfte vergessen.",
+        "Mit den richtigen Methoden bleiben Vokabeln besser hängen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abfragen statt Anschauen",
+      "absaetze": [
+        "Wer Vokabeln nur liest, erkennt sie wieder, kann sie aber oft nicht aktiv abrufen. Besser ist es, sich selbst abzufragen.",
+        "Studien deuten darauf hin, dass jedes aktive Erinnern das Gedächtnis stärkt. Karteikarten oder Apps mit Abfragefunktion eignen sich gut."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wiederholen mit wachsenden Abständen",
+      "absaetze": [
+        "Wiederhole schwierige Wörter häufiger und bekannte seltener. Die Abstände zwischen den Wiederholungen werden mit der Zeit größer.",
+        "Ein bewährtes Hilfsmittel ist ein Karteikasten mit mehreren Fächern. Gewusste Karten wandern ins nächste Fach, falsche zurück an den Anfang."
+      ],
+      "merke": "Wachsende Wiederholungsabstände helfen beim Behalten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wörter mit Leben füllen",
+      "absaetze": [
+        "Lerne Wörter in Beispielsätzen statt einzeln. Ein Bild im Kopf oder eine lustige Eselsbrücke macht sie einprägsamer.",
+        "Nutze neue Wörter bald selbst, im Gespräch oder in einem kurzen Text. Kleine tägliche Portionen bringen mehr als stundenlanges Pauken am Wochenende."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist wirksamer beim Vokabellernen?",
+      "art": "mc",
+      "optionen": [
+        "Sich selbst abfragen",
+        "Die Liste nur durchlesen",
+        "Wörter abschreiben ohne Nachdenken",
+        "Wörter nur hören"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aktives Erinnern stärkt das Gedächtnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Karteikasten mit gewussten Karten?",
+      "art": "mc",
+      "optionen": [
+        "Sie wandern ins nächste Fach",
+        "Sie werden weggeworfen",
+        "Sie kommen an den Anfang",
+        "Sie werden doppelt geübt"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden sie seltener wiederholt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleine tägliche Portionen bringen mehr als stundenlanges Pauken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Verteiltes Lernen wirkt besser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Abfragen ist wirksamer als Anschauen.",
+        "Wiederholungsabstände sollten wachsen.",
+        "Beispielsätze und Bilder machen Wörter einprägsam.",
+        "Kleine tägliche Portionen sind besser als Pauken."
+      ]
+    }
+  ]
+}

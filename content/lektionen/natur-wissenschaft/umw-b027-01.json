@@ -1,0 +1,114 @@
+{
+  "id": "umw-b027-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum bleichen Korallenriffe aus?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Coral reef ecosystems",
+      "herausgeber": "National Oceanic and Atmospheric Administration (NOAA)",
+      "url": "https://www.noaa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "korallen",
+    "meer",
+    "klimawandel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Korallenriffe gehören zu den artenreichsten Lebensräumen der Erde. Taucher kennen sie als bunte Unterwasserwelten.",
+        "Doch immer häufiger werden sie weiß."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine enge Partnerschaft",
+      "absaetze": [
+        "Korallen sind Tiere. In ihrem Gewebe leben winzige Algen, die durch Fotosynthese Nahrung liefern und den Korallen ihre Farbe geben.",
+        "Diese Partnerschaft ist für beide Seiten wichtig. Ohne die Algen fehlt den Korallen ein großer Teil ihrer Nahrung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn das Wasser zu warm wird",
+      "absaetze": [
+        "Bei zu warmem Wasser geraten die Korallen unter Stress und stoßen die Algen ab. Zurück bleibt das weiße Kalkskelett. Das nennt man Korallenbleiche.",
+        "Kühlt das Wasser rechtzeitig ab, können sich Korallen erholen. Dauert die Hitze zu lange, sterben sie ab."
+      ],
+      "merke": "Zu warmes Wasser lässt Korallen ihre Algen abstoßen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Belastungen",
+      "absaetze": [
+        "Mit dem Klimawandel werden Hitzewellen im Meer häufiger. Seit Ende der 1990er-Jahre gab es mehrere weltweite Massenbleichen.",
+        "Zusätzlich schaden Verschmutzung, Überfischung und die Versauerung der Meere durch aufgenommenes Kohlendioxid. Riffe sind wichtig für Fischerei, Küstenschutz und Tourismus."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was leben im Gewebe von Korallen?",
+      "art": "mc",
+      "optionen": [
+        "Winzige Algen",
+        "Bakterien, die Gift bilden",
+        "Kleine Fische",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Algen liefern Nahrung und Farbe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst eine Korallenbleiche vor allem aus?",
+      "art": "mc",
+      "optionen": [
+        "Zu warmes Wasser",
+        "Zu kaltes Wasser",
+        "Vollmond",
+        "Zu viele Taucher allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hitze lässt Korallen die Algen abstoßen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ausgebleichte Korallen können sich manchmal erholen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wenn das Wasser rechtzeitig abkühlt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Korallen leben in Partnerschaft mit Algen.",
+        "Bei Hitze stoßen sie die Algen ab und bleichen aus.",
+        "Dauert die Hitze an, sterben sie.",
+        "Klimawandel, Verschmutzung und Versauerung bedrohen Riffe."
+      ]
+    }
+  ]
+}
