@@ -1,0 +1,126 @@
+{
+  "id": "supp-b026-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Machen Nootropika schlauer?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Vitamine",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Arzneimittelsicherheit",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nootropika",
+    "gehirn",
+    "konzentration"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Internet werden Kapseln als Gehirn-Booster angeboten. Sie sollen Konzentration und Gedächtnis steigern.",
+        "Was ist davon zu halten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Sammelbegriff",
+      "absaetze": [
+        "Nootropika ist ein Sammelbegriff für Stoffe, die die geistige Leistung verbessern sollen. Das Wort ist kein geschützter Fachbegriff.",
+        "Darunter fallen Pflanzenextrakte, Aminosäuren und Vitamine in Nahrungsergänzungsmitteln. Manche Menschen missbrauchen auch verschreibungspflichtige Medikamente."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung zeigt",
+      "absaetze": [
+        "Für die meisten frei verkäuflichen Präparate gibt es bei gesunden Menschen keine überzeugenden Belege. Studien deuten höchstens auf kleine Effekte hin.",
+        "Verschreibungspflichtige Mittel gegen ADHS oder Schlafkrankheit wirken bei Gesunden meist schwächer als erhofft. Sie können aber Nebenwirkungen wie Herzrasen, Schlafstörungen und Abhängigkeit haben."
+      ],
+      "merke": "Bei Gesunden fehlen überzeugende Belege für Gehirn-Booster.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich hilft",
+      "absaetze": [
+        "Ausreichend Schlaf, Bewegung und Pausen haben einen gut belegten Einfluss auf Konzentration und Gedächtnis.",
+        "Wer dauerhaft Konzentrationsprobleme hat, sollte die Ursache ärztlich abklären lassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Verschreibungspflichtige Medikamente nie ohne ärztliche Verordnung verwenden.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Nootropika?",
+      "art": "mc",
+      "optionen": [
+        "Ein Sammelbegriff für Stoffe, die die geistige Leistung verbessern sollen",
+        "Eine zugelassene Medikamentengruppe",
+        "Ein Lernprogramm",
+        "Eine Schlafphase"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Wort ist kein geschützter Fachbegriff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die Forschung bei gesunden Menschen?",
+      "art": "mc",
+      "optionen": [
+        "Meist keine überzeugenden Belege",
+        "Eine Verdopplung der Intelligenz",
+        "Immer starke Effekte",
+        "Gar keine Studien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Höchstens kleine Effekte sind beschrieben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlaf und Bewegung haben einen gut belegten Einfluss auf die Konzentration.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie wirken nachweislich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nootropika ist ein ungeschützter Sammelbegriff.",
+        "Bei Gesunden fehlen überzeugende Belege.",
+        "Missbrauchte Medikamente bergen Risiken.",
+        "Schlaf, Bewegung und Pausen helfen nachweislich."
+      ]
+    }
+  ]
+}

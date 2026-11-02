@@ -1,0 +1,108 @@
+{
+  "id": "geld-b026-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was schützt ein Pfändungsschutzkonto?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2028-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld, Konto und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "p-konto",
+    "pfaendung",
+    "schulden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn Schulden zu einer Kontopfändung führen, ist plötzlich das ganze Konto gesperrt. Miete und Einkäufe können nicht mehr bezahlt werden.",
+        "Davor schützt das Pfändungsschutzkonto."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ein P-Konto ist",
+      "absaetze": [
+        "Ein Pfändungsschutzkonto, kurz P-Konto, ist ein normales Girokonto mit besonderem Schutz. Ein Grundfreibetrag bleibt auch bei einer Pfändung verfügbar.",
+        "Jede Bank muss ein bestehendes Girokonto auf Wunsch in ein P-Konto umwandeln. Jeder Mensch darf aber nur ein einziges P-Konto haben."
+      ],
+      "merke": "Ein Grundfreibetrag bleibt auf dem P-Konto geschützt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Höhere Freibeträge",
+      "absaetze": [
+        "Der Grundfreibetrag wird regelmäßig angepasst. Wer Unterhalt zahlt oder Kinder hat, kann einen höheren Freibetrag bekommen.",
+        "Dafür braucht die Bank eine Bescheinigung, etwa von einer Schuldnerberatung, dem Arbeitgeber oder der Familienkasse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechtzeitig handeln",
+      "absaetze": [
+        "Die Umwandlung ist auch nach einer Pfändung noch möglich. Der Schutz gilt dann rückwirkend für den laufenden Monat, wenn du schnell handelst.",
+        "Ein P-Konto löst das Schuldenproblem nicht. Kostenlose Schuldnerberatungen helfen, einen Weg aus den Schulden zu finden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bleibt auf einem P-Konto bei einer Pfändung geschützt?",
+      "art": "mc",
+      "optionen": [
+        "Ein Grundfreibetrag",
+        "Gar nichts",
+        "Das gesamte Guthaben ohne Grenze",
+        "Nur Münzgeld"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Grundfreibetrag bleibt verfügbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele P-Konten darf ein Mensch haben?",
+      "art": "mc",
+      "optionen": [
+        "Nur eines",
+        "Beliebig viele",
+        "Drei",
+        "Eines pro Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder darf nur ein P-Konto führen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein P-Konto beseitigt die Schulden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es schützt nur das Existenzminimum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das P-Konto schützt einen Grundfreibetrag vor Pfändung.",
+        "Jede Bank muss ein Girokonto auf Wunsch umwandeln.",
+        "Mit Bescheinigung sind höhere Freibeträge möglich.",
+        "Schuldnerberatungen helfen beim Weg aus den Schulden."
+      ]
+    }
+  ]
+}

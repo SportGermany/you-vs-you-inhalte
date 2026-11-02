@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b026-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläfst du in der ersten Nacht im Hotel schlecht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "erste-nacht-effekt",
+    "reisen",
+    "gehirn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Neues Hotel, gemütliches Bett, trotzdem wachst du ständig auf.",
+        "Dieses Phänomen kennen Schlafforscher gut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Erste-Nacht-Effekt",
+      "absaetze": [
+        "Im Schlaflabor schlafen Menschen in der ersten Nacht oft schlechter als in den folgenden. Fachleute nennen das Erste-Nacht-Effekt.",
+        "Deshalb werten Schlaflabore die erste Nacht häufig mit Vorsicht aus oder planen mehrere Nächte ein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Gehirnhälfte bleibt wachsam",
+      "absaetze": [
+        "Eine Studie aus den USA deutet darauf hin, dass in fremder Umgebung eine Gehirnhälfte im Tiefschlaf wachsamer bleibt. Sie reagiert stärker auf ungewohnte Geräusche.",
+        "Das ähnelt dem Verhalten mancher Vögel und Meeressäuger, die mit einer Hirnhälfte schlafen. Es könnte ein alter Schutzmechanismus sein."
+      ],
+      "merke": "In fremder Umgebung bleibt das Gehirn etwas wachsamer.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Vertraute Dinge wie das eigene Kissen oder gewohnte Abendrituale können ein Gefühl von Zuhause geben.",
+        "Ohrstöpsel und eine Schlafmaske dämpfen ungewohnte Reize. Wer oft im selben Hotel übernachtet, schläft dort meist besser."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das Phänomen, in fremder Umgebung schlechter zu schlafen?",
+      "art": "mc",
+      "optionen": [
+        "Erste-Nacht-Effekt",
+        "Jetlag",
+        "Schlafwandeln",
+        "Narkolepsie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlaflabore kennen ihn gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deutet eine Studie zum Gehirn an?",
+      "art": "mc",
+      "optionen": [
+        "Eine Hirnhälfte bleibt wachsamer",
+        "Das Gehirn schaltet ganz ab",
+        "Beide Hälften sind hellwach",
+        "Das Gehirn schläft tiefer als zu Hause"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie reagiert stärker auf ungewohnte Geräusche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vertraute Dinge wie das eigene Kissen können helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie geben ein Gefühl von Zuhause."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In der ersten Nacht an einem fremden Ort schläft man oft schlechter.",
+        "Eine Hirnhälfte bleibt dabei womöglich wachsamer.",
+        "Vertraute Dinge und Rituale können helfen.",
+        "Ohrstöpsel und Schlafmaske dämpfen Reize."
+      ]
+    }
+  ]
+}

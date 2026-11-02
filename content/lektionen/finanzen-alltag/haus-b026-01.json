@@ -1,0 +1,130 @@
+{
+  "id": "haus-b026-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bereitest du dich auf einen Stromausfall vor?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Vorsorge für den Stromausfall",
+      "herausgeber": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+      "url": "https://www.bbk.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stromausfall",
+    "vorsorge",
+    "bevoelkerungsschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich ist alles dunkel. Kein Licht, kein Herd, kein Internet, vielleicht keine Heizung.",
+        "Kurze Stromausfälle sind selten, längere noch seltener. Ein wenig Vorsorge hilft trotzdem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht und Information",
+      "absaetze": [
+        "Das BBK empfiehlt, Taschenlampen und Ersatzbatterien griffbereit zu haben. Kerzen sind wegen der Brandgefahr nur mit Vorsicht zu nutzen.",
+        "Ein batteriebetriebenes oder Kurbelradio hält dich über Nachrichten informiert. Eine geladene Powerbank hält das Handy länger am Laufen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Essen und Wärme",
+      "absaetze": [
+        "Ein Vorrat an Lebensmitteln, die nicht gekühlt oder gekocht werden müssen, ist hilfreich. Auch Trinkwasser sollte vorrätig sein.",
+        "Halte den Kühlschrank geschlossen, dann bleibt er länger kalt. Im Winter helfen warme Kleidung und Decken. Grills oder Gasheizer gehören nie in geschlossene Räume, wegen der Kohlenmonoxid-Gefahr."
+      ],
+      "merke": "Grills und Gasgeräte nie in Innenräumen benutzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach dem Ausfall",
+      "absaetze": [
+        "Schalte empfindliche Geräte aus, damit beim Wiederkehren des Stroms keine Spannungsspitzen schaden. Lass eine Lampe an, dann merkst du, wann der Strom zurück ist.",
+        "Prüfe danach Lebensmittel im Gefrierschrank. Was aufgetaut ist, solltest du nicht wieder einfrieren."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Vorsorge-Check",
+      "schritte": [
+        {
+          "titel": "Licht",
+          "text": "Taschenlampe und Ersatzbatterien bereitlegen."
+        },
+        {
+          "titel": "Radio",
+          "text": "Ein Batterie- oder Kurbelradio für Nachrichten."
+        },
+        {
+          "titel": "Vorrat",
+          "text": "Trinkwasser und Lebensmittel, die ohne Kochen gehen."
+        },
+        {
+          "titel": "Strom fürs Handy",
+          "text": "Eine Powerbank geladen halten."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfiehlt das BBK für Informationen bei Stromausfall?",
+      "art": "mc",
+      "optionen": [
+        "Ein Batterie- oder Kurbelradio",
+        "Den Fernseher",
+        "Den WLAN-Router",
+        "Das Festnetztelefon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es funktioniert ohne Strom aus der Steckdose."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gehören Grills nicht in Innenräume?",
+      "art": "mc",
+      "optionen": [
+        "Wegen der Kohlenmonoxid-Gefahr",
+        "Weil sie zu leise sind",
+        "Weil sie zu wenig Licht geben",
+        "Weil sie zu kalt sind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kohlenmonoxid ist geruchlos und lebensgefährlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein geschlossener Kühlschrank bleibt bei Stromausfall länger kalt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Jedes Öffnen lässt Kälte entweichen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Taschenlampe, Batterien und Radio bereithalten.",
+        "Vorrat an Wasser und Lebensmitteln ohne Kochen anlegen.",
+        "Grills und Gasgeräte nie drinnen nutzen.",
+        "Nach dem Ausfall Gefriergut prüfen."
+      ]
+    }
+  ]
+}

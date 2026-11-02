@@ -1,0 +1,118 @@
+{
+  "id": "ern-b026-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Butter oder Margarine, was ist besser?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fette und Getränke",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "butter",
+    "margarine",
+    "fettsaeuren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seit Jahrzehnten streiten Fans von Butter und Margarine.",
+        "Was sagt die Ernährungswissenschaft dazu?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschiedliche Fette",
+      "absaetze": [
+        "Butter besteht aus Milchfett und enthält viele gesättigte Fettsäuren. Viele gesättigte Fettsäuren können den LDL-Cholesterinspiegel erhöhen.",
+        "Margarine wird aus Pflanzenölen hergestellt. Sie enthält meist mehr ungesättigte Fettsäuren, die für Herz und Gefäße günstiger sind."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Margarine hat sich verändert",
+      "absaetze": [
+        "Früher enthielt Margarine durch die Herstellung oft Transfette. Diese gelten als besonders ungünstig für das Herz.",
+        "Heute sind die Herstellungsverfahren anders. Margarine in Deutschland enthält meist nur noch sehr wenig Transfette. Ein Blick auf die Zutatenliste zeigt, welche Öle enthalten sind."
+      ],
+      "merke": "Moderne Margarine enthält meist kaum noch Transfette.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Menge zählt",
+      "absaetze": [
+        "Die DGE empfiehlt, vor allem pflanzliche Öle wie Rapsöl zu verwenden. Butter und Margarine sollten sparsam eingesetzt werden.",
+        "Ob Butter oder Margarine: Wichtiger als die Wahl ist das gesamte Ernährungsmuster mit viel Gemüse, Vollkorn und Hülsenfrüchten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäuren enthält Butter besonders viele?",
+      "art": "mc",
+      "optionen": [
+        "Gesättigte Fettsäuren",
+        "Omega-3-Fettsäuren aus Fisch",
+        "Gar keine",
+        "Transfette aus Pflanzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Milchfett ist reich an gesättigten Fettsäuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hat sich bei Margarine verändert?",
+      "art": "mc",
+      "optionen": [
+        "Sie enthält heute meist kaum noch Transfette",
+        "Sie besteht heute aus Milch",
+        "Sie enthält jetzt Zucker",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Herstellung hat sich verändert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die DGE empfiehlt vor allem pflanzliche Öle wie Rapsöl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Streichfette sollen sparsam verwendet werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Butter enthält viele gesättigte Fettsäuren.",
+        "Margarine enthält meist mehr ungesättigte Fettsäuren.",
+        "Moderne Margarine hat kaum noch Transfette.",
+        "Beide sparsam verwenden, pflanzliche Öle bevorzugen."
+      ]
+    }
+  ]
+}

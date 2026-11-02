@@ -1,0 +1,114 @@
+{
+  "id": "geo-b026-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht Interpol?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "What is Interpol",
+      "herausgeber": "Interpol",
+      "url": "https://www.interpol.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Internationale Zusammenarbeit",
+      "herausgeber": "Bundeskriminalamt",
+      "url": "https://www.bka.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "interpol",
+    "polizei",
+    "zusammenarbeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Filmen jagen Interpol-Agenten Verbrecher um die ganze Welt.",
+        "In Wirklichkeit funktioniert die Organisation ganz anders."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Plattform, keine Weltpolizei",
+      "absaetze": [
+        "Interpol ist die Internationale Kriminalpolizeiliche Organisation. Ihr Generalsekretariat sitzt in Lyon in Frankreich. Fast alle Staaten der Welt sind Mitglied.",
+        "Interpol hat keine eigenen Polizisten, die Menschen festnehmen. Sie hilft nationalen Polizeibehörden, Informationen auszutauschen."
+      ],
+      "merke": "Interpol verbindet Polizeien, sie verhaftet niemanden selbst."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fahndungen und Datenbanken",
+      "absaetze": [
+        "Bekannt sind die farbigen Ausschreibungen. Eine Red Notice ist eine Bitte an alle Staaten, eine gesuchte Person ausfindig zu machen und vorläufig festzunehmen.",
+        "Interpol betreibt auch Datenbanken, etwa zu gestohlenen Pässen, Fingerabdrücken und gestohlenen Kunstwerken. In Deutschland ist das Bundeskriminalamt die Verbindungsstelle."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Politisch neutral",
+      "absaetze": [
+        "Laut ihren Regeln darf Interpol sich nicht in politische, militärische, religiöse oder rassistisch motivierte Fälle einmischen.",
+        "Trotzdem gibt es Kritik, dass einzelne Staaten Ausschreibungen nutzen, um politische Gegner im Ausland zu verfolgen. Interpol prüft solche Fälle und kann Ausschreibungen löschen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt das Generalsekretariat von Interpol?",
+      "art": "mc",
+      "optionen": [
+        "Lyon",
+        "Washington",
+        "Den Haag",
+        "Genf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sitzt in Lyon in Frankreich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Red Notice?",
+      "art": "mc",
+      "optionen": [
+        "Eine Bitte, eine gesuchte Person ausfindig zu machen",
+        "Ein Strafzettel",
+        "Ein Haftbefehl eines Weltgerichts",
+        "Eine Reisewarnung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie richtet sich an alle Mitgliedsstaaten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Interpol-Agenten nehmen weltweit selbst Verdächtige fest.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Festnahmen machen die nationalen Polizeien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Interpol hilft Polizeien beim Austausch von Informationen.",
+        "Sie hat keine eigenen Ermittler, die festnehmen.",
+        "Red Notices bitten um Fahndung nach gesuchten Personen.",
+        "In Deutschland ist das BKA die Verbindungsstelle."
+      ]
+    }
+  ]
+}

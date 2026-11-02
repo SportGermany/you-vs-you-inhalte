@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b026-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft Schäfchenzählen beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "einschlafen",
+    "gedanken",
+    "ablenkung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eins, zwei, drei, vier Schafe springen über den Zaun. Der Klassiker unter den Einschlaftipps.",
+        "Funktioniert er wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Problem ist das Grübeln",
+      "absaetze": [
+        "Viele liegen wach, weil sich ihre Gedanken drehen. Sorgen und Pläne halten das Gehirn aktiv.",
+        "Eine Ablenkung soll die Gedanken in ruhigere Bahnen lenken. Wenig deutet darauf hin, dass Schäfchenzählen dafür reicht, weil es für viele zu langweilig ist."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ein Versuch zeigte",
+      "absaetze": [
+        "In einer kleinen Studie der Universität Oxford sollten Menschen mit Einschlafproblemen sich eine entspannende Szene vorstellen, etwa einen Wasserfall. Sie schliefen etwas schneller ein.",
+        "Schäfchenzählen brachte keinen Vorteil. Das deutet darauf hin, dass fesselnde, ruhige Bilder besser ablenken als monotones Zählen."
+      ],
+      "merke": "Entspannende Bilder lenken besser ab als Zählen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Ideen",
+      "absaetze": [
+        "Manchen hilft es, Sorgen vor dem Schlafen auf einen Zettel zu schreiben. So müssen sie im Bett nicht im Kopf behalten werden.",
+        "Wer lange wach liegt, kann kurz aufstehen und etwas Ruhiges tun, bis die Müdigkeit kommt. Bei anhaltenden Problemen ist ärztlicher Rat sinnvoll."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hilft Schäfchenzählen vielen nicht?",
+      "art": "mc",
+      "optionen": [
+        "Es ist zu langweilig, um Sorgen zu verdrängen",
+        "Es macht zu wach",
+        "Es ist verboten",
+        "Schafe sind zu laut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Monotones Zählen lenkt kaum ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was half in der Oxford-Studie eher?",
+      "art": "mc",
+      "optionen": [
+        "Sich eine entspannende Szene vorstellen",
+        "Laut zählen",
+        "Fernsehen im Bett",
+        "Kaffee trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ruhige Bilder lenkten besser ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sorgen auf einen Zettel zu schreiben kann beim Abschalten helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann müssen sie nicht im Kopf bleiben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grübeln hält viele Menschen wach.",
+        "Schäfchenzählen lenkt meist zu wenig ab.",
+        "Entspannende Bilder scheinen besser zu helfen.",
+        "Sorgen aufschreiben kann den Kopf freimachen."
+      ]
+    }
+  ]
+}

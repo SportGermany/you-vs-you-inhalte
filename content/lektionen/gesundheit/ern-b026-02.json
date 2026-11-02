@@ -1,0 +1,118 @@
+{
+  "id": "ern-b026-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Mineralwasser gesünder als Leitungswasser?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Trinkwasser, Textilien und Umwelttipps",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mineralwasser",
+    "leitungswasser",
+    "trinken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wasserkisten schleppen oder einfach den Hahn aufdrehen?",
+        "Viele glauben, Mineralwasser sei die gesündere Wahl."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beides ist gutes Wasser",
+      "absaetze": [
+        "Leitungswasser ist in Deutschland streng kontrolliert und von sehr guter Qualität. Es darf bedenkenlos getrunken werden.",
+        "Mineralwasser stammt aus geschützten unterirdischen Quellen. Es muss amtlich anerkannt sein und darf nur wenig behandelt werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mineralstoffe",
+      "absaetze": [
+        "Mineralwasser enthält je nach Quelle unterschiedlich viele Mineralstoffe wie Calcium und Magnesium. Manche Sorten sind aber sogar mineralstoffarm.",
+        "Auch Leitungswasser enthält Mineralstoffe, je nach Region unterschiedlich viele. Den größten Teil der Mineralstoffe nehmen wir ohnehin über das Essen auf."
+      ],
+      "merke": "Den Großteil der Mineralstoffe liefert das Essen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Umwelt und Geldbeutel",
+      "absaetze": [
+        "Leitungswasser ist deutlich günstiger und kommt ohne Transport und Verpackung aus. Das Umweltbundesamt sieht darin einen klaren Vorteil für die Umwelt.",
+        "Wer Sprudel mag, kann Leitungswasser auch selbst aufsprudeln. Bei sehr alten Hausleitungen kann ein Test der Wasserqualität sinnvoll sein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist die Qualität des Leitungswassers in Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "Sehr gut und streng kontrolliert",
+        "Meist ungenießbar",
+        "Nur zum Duschen geeignet",
+        "Nie geprüft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es darf bedenkenlos getrunken werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt der Großteil unserer Mineralstoffe?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Essen",
+        "Nur aus Mineralwasser",
+        "Aus der Luft",
+        "Aus Tabletten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser liefert nur einen kleinen Teil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Leitungswasser ist umweltfreundlicher als Flaschenwasser.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Transport und Verpackung entfallen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Leitungswasser ist in Deutschland sehr gut kontrolliert.",
+        "Mineralwasser enthält je nach Quelle unterschiedlich viele Mineralstoffe.",
+        "Die meisten Mineralstoffe kommen aus dem Essen.",
+        "Leitungswasser ist günstiger und umweltfreundlicher."
+      ]
+    }
+  ]
+}

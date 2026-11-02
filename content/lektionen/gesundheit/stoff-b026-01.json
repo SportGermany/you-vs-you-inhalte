@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b026-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert bei einer Laktoseintoleranz?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "laktose",
+    "milchzucker",
+    "verdauung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Glas Milch grummelt der Bauch. Blähungen und Durchfall folgen.",
+        "Dahinter kann eine Laktoseintoleranz stecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein fehlendes Enzym",
+      "absaetze": [
+        "Laktose ist Milchzucker. Damit der Darm ihn aufnehmen kann, muss ein Enzym namens Laktase ihn spalten. Enzyme sind Eiweiße, die Stoffwechselvorgänge beschleunigen.",
+        "Bei vielen Menschen bildet der Körper nach der Kindheit weniger Laktase. Dann gelangt Milchzucker unverdaut in den Dickdarm."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Darm passiert",
+      "absaetze": [
+        "Im Dickdarm vergären Bakterien den Milchzucker. Dabei entstehen Gase und Stoffe, die Wasser in den Darm ziehen.",
+        "Die Folgen sind Blähungen, Bauchschmerzen und Durchfall. Weltweit vertragen viele Erwachsene Laktose nur eingeschränkt, in Nordeuropa sind es weniger."
+      ],
+      "merke": "Laktoseintoleranz ist unangenehm, aber nicht gefährlich.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit Laktoseintoleranz leben",
+      "absaetze": [
+        "Die meisten Betroffenen vertragen kleine Mengen Laktose gut. Hartkäse wie Parmesan enthält kaum Laktose, Joghurt wird oft besser vertragen als Milch.",
+        "Ein kompletter Verzicht auf Milchprodukte ist meist nicht nötig. Die Diagnose stellt eine Ärztin oder ein Arzt, etwa mit einem Atemtest."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Enzym spaltet Milchzucker?",
+      "art": "mc",
+      "optionen": [
+        "Laktase",
+        "Insulin",
+        "Pepsin",
+        "Amylase"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laktase spaltet Laktose."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Käse enthält kaum Laktose?",
+      "art": "mc",
+      "optionen": [
+        "Hartkäse wie Parmesan",
+        "Frischkäse",
+        "Quark",
+        "Schmand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Reifen wird die Laktose abgebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Laktoseintoleranz muss man immer komplett auf Milchprodukte verzichten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Kleine Mengen werden meist gut vertragen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Laktoseintoleranz fehlt Laktase.",
+        "Unverdauter Milchzucker wird im Dickdarm vergoren.",
+        "Kleine Mengen werden meist vertragen.",
+        "Hartkäse enthält kaum Laktose.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "vers-b026-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bedeutet die Schadenfreiheitsklasse beim Auto?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld, Konto und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schadenfreiheitsklasse",
+    "kfz-versicherung",
+    "rabatt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Menschen fahren das gleiche Auto, zahlen aber sehr unterschiedliche Versicherungsbeiträge.",
+        "Ein Grund ist die Schadenfreiheitsklasse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Belohnung für unfallfreies Fahren",
+      "absaetze": [
+        "Die Schadenfreiheitsklasse, kurz SF-Klasse, zeigt, wie viele Jahre du ohne gemeldeten Schaden gefahren bist. Je höher die Klasse, desto größer der Rabatt.",
+        "Fahranfänger starten meist in einer niedrigen Klasse und zahlen deshalb viel. Mit jedem schadenfreien Jahr steigt die Klasse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach einem Unfall",
+      "absaetze": [
+        "Meldest du einen Schaden, wirst du zurückgestuft. Der Beitrag steigt dann in den Folgejahren.",
+        "Bei kleinen Schäden kann es sich lohnen, sie selbst zu bezahlen. Viele Versicherer erlauben, den Schaden innerhalb einer Frist zurückzukaufen, um die Rückstufung zu vermeiden."
+      ],
+      "merke": "Kleine Schäden selbst zu zahlen, kann günstiger sein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klassen übertragen",
+      "absaetze": [
+        "Die SF-Klasse ist an die Person gebunden, nicht an das Auto. Bei einem Versicherungswechsel nimmst du sie mit.",
+        "Unter bestimmten Bedingungen kann sie innerhalb der Familie übertragen werden, etwa von Eltern auf Kinder. Dafür gelten die Regeln des jeweiligen Versicherers."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die Schadenfreiheitsklasse?",
+      "art": "mc",
+      "optionen": [
+        "Wie lange du ohne gemeldeten Schaden gefahren bist",
+        "Wie schnell dein Auto ist",
+        "Wie alt dein Auto ist",
+        "Wie viele Kilometer du fährst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je mehr schadenfreie Jahre, desto höher die Klasse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert nach einem gemeldeten Schaden?",
+      "art": "mc",
+      "optionen": [
+        "Du wirst zurückgestuft",
+        "Du steigst auf",
+        "Nichts",
+        "Der Vertrag endet automatisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Beitrag steigt danach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die SF-Klasse gehört zum Auto und bleibt beim Verkauf beim Fahrzeug.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist an die Person gebunden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die SF-Klasse belohnt schadenfreies Fahren.",
+        "Nach einem gemeldeten Schaden folgt eine Rückstufung.",
+        "Kleine Schäden selbst zu zahlen, kann sich lohnen.",
+        "Die Klasse gehört zur Person, nicht zum Auto."
+      ]
+    }
+  ]
+}

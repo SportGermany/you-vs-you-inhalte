@@ -1,0 +1,120 @@
+{
+  "id": "supp-b026-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum ist Vitamin B12 im Alter ein Thema?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Vitamine",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-b12",
+    "alter",
+    "aufnahme"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vitamin B12 ist vor allem als Thema für Veganer bekannt.",
+        "Doch auch ältere Menschen sind häufiger unterversorgt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür B12 gebraucht wird",
+      "absaetze": [
+        "Vitamin B12 ist wichtig für die Blutbildung und das Nervensystem. Es kommt fast nur in tierischen Lebensmitteln vor.",
+        "Ein Mangel kann zu Blutarmut, Müdigkeit, Taubheitsgefühlen und Gedächtnisproblemen führen. Er entwickelt sich oft langsam über Jahre."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum ältere Menschen betroffen sind",
+      "absaetze": [
+        "Für die Aufnahme braucht der Körper Magensäure und einen Stoff aus dem Magen, den sogenannten Intrinsic Factor. Im Alter bildet der Magen davon oft weniger.",
+        "Auch manche Medikamente können die Aufnahme verringern, etwa Säureblocker oder das Diabetesmittel Metformin bei längerer Anwendung."
+      ],
+      "merke": "Im Alter nimmt der Körper B12 oft schlechter auf.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sinnvoll ist",
+      "absaetze": [
+        "Bei Verdacht kann der Vitamin-B12-Status im Blut bestimmt werden. Ob und wie ein Mangel behandelt wird, entscheidet die Ärztin oder der Arzt.",
+        "Typische Beschwerden werden im Alter leicht als normales Altern abgetan. Deshalb lohnt es sich, bei Müdigkeit oder Gedächtnisproblemen auch an B12 zu denken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Verdacht auf einen Mangel ärztlich abklären lassen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist Vitamin B12 wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Blutbildung und Nervensystem",
+        "Sehen im Dunkeln",
+        "Bräunung der Haut",
+        "Haarwachstum allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "B12 wird für Blut und Nerven gebraucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann die B12-Aufnahme verringern?",
+      "art": "mc",
+      "optionen": [
+        "Säureblocker über längere Zeit",
+        "Viel Wasser trinken",
+        "Spazierengehen",
+        "Gutes Schlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Metformin kann die Aufnahme senken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein B12-Mangel entwickelt sich oft langsam über Jahre.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Speicher reichen lange."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "B12 ist wichtig für Blut und Nerven.",
+        "Im Alter wird es oft schlechter aufgenommen.",
+        "Auch manche Medikamente verringern die Aufnahme.",
+        "Bei Beschwerden den B12-Status prüfen lassen."
+      ]
+    }
+  ]
+}

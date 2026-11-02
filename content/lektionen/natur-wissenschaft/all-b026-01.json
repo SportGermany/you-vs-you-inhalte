@@ -1,0 +1,114 @@
+{
+  "id": "all-b026-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie entstehen Sonnen- und Mondfinsternisse?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Eclipses",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Eclipses",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "finsternis",
+    "sonne",
+    "mond"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten am Tag wird es dunkel, oder der Vollmond färbt sich kupferrot.",
+        "Finsternisse faszinieren Menschen seit Jahrtausenden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sonnenfinsternis",
+      "absaetze": [
+        "Bei einer Sonnenfinsternis schiebt sich der Mond zwischen Sonne und Erde. Sein Schatten fällt auf einen Teil der Erde.",
+        "Die Sonne ist etwa 400-mal größer als der Mond, aber auch etwa 400-mal weiter entfernt. Deshalb können beide am Himmel fast gleich groß erscheinen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mondfinsternis",
+      "absaetze": [
+        "Bei einer Mondfinsternis steht die Erde zwischen Sonne und Mond. Der Mond wandert durch den Erdschatten.",
+        "Er wird dabei oft rötlich. Grund ist Licht, das durch die Erdatmosphäre gebrochen und in den Schatten gelenkt wird. Mondfinsternisse kannst du gefahrlos mit bloßem Auge beobachten."
+      ],
+      "merke": "Bei der Mondfinsternis steht die Erde zwischen Sonne und Mond."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum nicht jeden Monat",
+      "absaetze": [
+        "Die Mondbahn ist gegenüber der Erdbahn leicht geneigt. Meist zieht der Mond deshalb knapp über oder unter der Linie zwischen Sonne und Erde vorbei.",
+        "Für eine Sonnenfinsternis brauchst du eine spezielle Schutzbrille. Ein Blick in die Sonne ohne Schutz kann die Augen dauerhaft schädigen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steht bei einer Sonnenfinsternis zwischen Sonne und Erde?",
+      "art": "mc",
+      "optionen": [
+        "Der Mond",
+        "Die Erde selbst",
+        "Der Mars",
+        "Eine Wolke"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Mondschatten fällt auf die Erde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gibt es nicht jeden Monat eine Finsternis?",
+      "art": "mc",
+      "optionen": [
+        "Die Mondbahn ist leicht geneigt",
+        "Der Mond ist zu klein",
+        "Die Sonne wandert",
+        "Die Erde steht still"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist zieht der Mond knapp vorbei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Sonnenfinsternis darfst du ohne Schutzbrille beobachten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das kann die Augen dauerhaft schädigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei der Sonnenfinsternis steht der Mond zwischen Sonne und Erde.",
+        "Bei der Mondfinsternis wandert der Mond durch den Erdschatten.",
+        "Die geneigte Mondbahn verhindert monatliche Finsternisse.",
+        "Sonnenfinsternisse nur mit Schutzbrille beobachten."
+      ]
+    }
+  ]
+}
