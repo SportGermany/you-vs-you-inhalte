@@ -1,0 +1,107 @@
+{
+  "id": "tech-b022-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie macht ein Kühlschrank Kälte?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuehlschrank",
+    "kaeltemittel",
+    "kompressor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Kühlschrank macht nicht Kälte, sondern schafft Wärme fort.",
+        "Das klingt seltsam, erklärt aber, warum er hinten warm ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kreislauf",
+      "absaetze": [
+        "Im Kühlschrank zirkuliert ein Kältemittel in Rohren. Es verdampft bei sehr niedrigen Temperaturen.",
+        "Beim Verdampfen nimmt es Wärme aus dem Innenraum auf. Das kennst du vom Schwitzen: Verdunstender Schweiß kühlt die Haut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme nach draußen",
+      "absaetze": [
+        "Ein Kompressor verdichtet das gasförmige Kältemittel. Dabei wird es heiß. In einem Gitter an der Rückseite gibt es die Wärme an die Küche ab und wird wieder flüssig.",
+        "Dann beginnt der Kreislauf von vorn. Deshalb fühlt sich die Rückseite warm an und braucht Platz zur Wand."
+      ],
+      "merke": "Ein Kühlschrank transportiert Wärme von innen nach außen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie sparen",
+      "absaetze": [
+        "Wenn warme Luft herumsteht, muss das Gerät mehr arbeiten. Stell den Kühlschrank deshalb nicht direkt neben Herd oder Heizung.",
+        "Für den Kühlraum werden meist etwa sieben Grad empfohlen. Jedes Grad kälter erhöht den Stromverbrauch. Auch eine dicke Eisschicht im Gefrierfach kostet Energie."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn das Kältemittel im Innenraum verdampft?",
+      "art": "mc",
+      "optionen": [
+        "Es nimmt Wärme auf",
+        "Es gibt Wärme ab",
+        "Es wird zu Eis",
+        "Es erzeugt Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verdampfen entzieht der Umgebung Wärme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist die Rückseite des Kühlschranks warm?",
+      "art": "mc",
+      "optionen": [
+        "Dort wird die Wärme aus dem Innenraum abgegeben",
+        "Dort ist eine Heizung eingebaut",
+        "Weil die Lampe dort sitzt",
+        "Das ist ein Defekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wärme wird nach außen abgegeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kühlschrank neben der Heizung verbraucht mehr Strom.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er muss dann mehr Wärme abführen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Kühlschrank transportiert Wärme nach außen.",
+        "Das Kältemittel verdampft innen und verflüssigt sich hinten.",
+        "Ein kühler Standort und rund sieben Grad sparen Strom."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "steu-b022-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Spenden von der Steuer absetzen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spenden",
+    "sonderausgaben",
+    "zuwendungsbestaetigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du spendest an einen Tierschutzverein oder eine Hilfsorganisation. Das Finanzamt kann sich daran beteiligen.",
+        "Wie das funktioniert, erfährst du hier."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spenden als Sonderausgaben",
+      "absaetze": [
+        "Spenden an gemeinnützige Organisationen kannst du in der Steuererklärung als Sonderausgaben angeben. Das senkt dein zu versteuerndes Einkommen.",
+        "Gemeinnützig sind zum Beispiel viele Vereine, Hilfswerke, Kirchen und Stiftungen. Spenden an Privatpersonen zählen dagegen nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der richtige Nachweis",
+      "absaetze": [
+        "Normalerweise brauchst du eine Zuwendungsbestätigung der Organisation. Diese Spendenquittung folgt einem amtlichen Muster.",
+        "Bei Spenden bis 300 Euro reicht in vielen Fällen ein vereinfachter Nachweis, etwa der Kontoauszug. Das gilt zum Beispiel bei Spenden an anerkannte gemeinnützige Organisationen."
+      ],
+      "merke": "Bewahre Spendennachweise gut auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du noch wissen solltest",
+      "absaetze": [
+        "Abziehbar sind Spenden bis zu einer Grenze, die vom Einkommen abhängt. Für die meisten Menschen spielt diese Grenze keine Rolle.",
+        "Für Spenden an politische Parteien gelten eigene Regeln mit einer direkten Steuerermäßigung. Auch Mitgliedsbeiträge können absetzbar sein, aber nicht bei allen Vereinen, etwa Sportvereinen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden Spenden in der Steuererklärung erfasst?",
+      "art": "mc",
+      "optionen": [
+        "Als Sonderausgaben",
+        "Als Werbungskosten",
+        "Als Einnahmen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spenden zählen zu den Sonderausgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was reicht bei Spenden bis 300 Euro oft als Nachweis?",
+      "art": "mc",
+      "optionen": [
+        "Der Kontoauszug",
+        "Ein mündlicher Hinweis",
+        "Ein Foto der Organisation",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei kleineren Spenden reicht oft der vereinfachte Nachweis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Spenden an Privatpersonen kannst du ebenfalls absetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Absetzbar sind Spenden an gemeinnützige Organisationen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Spenden an gemeinnützige Organisationen sind Sonderausgaben.",
+        "Normalerweise brauchst du eine Zuwendungsbestätigung.",
+        "Bis 300 Euro reicht oft der Kontoauszug.",
+        "Für Parteispenden gelten eigene Regeln."
+      ]
+    }
+  ]
+}

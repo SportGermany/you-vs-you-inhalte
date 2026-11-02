@@ -1,0 +1,118 @@
+{
+  "id": "ern-b022-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Tiefkühlgemüse schlechter als frisches Gemüse?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tiefkuehlgemuese",
+    "vitamine",
+    "konserven"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frisch vom Markt klingt immer besser als aus der Gefriertruhe.",
+        "Aber stimmt das auch, wenn es um Vitamine geht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell eingefroren",
+      "absaetze": [
+        "Tiefkühlgemüse wird meist kurz nach der Ernte gewaschen, kurz erhitzt und dann sehr schnell eingefroren. Das kurze Erhitzen heißt Blanchieren.",
+        "Durch das schnelle Einfrieren bleiben viele Vitamine gut erhalten. Frisches Gemüse verliert dagegen bei langer Lagerung und langen Transportwegen nach und nach Vitamine."
+      ],
+      "merke": "Tiefkühlgemüse kann es mit frischem Gemüse gut aufnehmen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und Konserven?",
+      "absaetze": [
+        "Gemüse in Dosen oder Gläsern wird stärker erhitzt. Dabei geht ein Teil der hitzeempfindlichen Vitamine verloren, etwa Vitamin C.",
+        "Ballaststoffe und viele Mineralstoffe bleiben aber erhalten. Ein Blick auf die Zutatenliste lohnt sich, weil manchmal Salz oder Zucker zugesetzt sind."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Alltag",
+      "absaetze": [
+        "Tiefkühlgemüse ist praktisch, lange haltbar und hilft, weniger wegzuwerfen. Am besten greifst du zu Sorten ohne fertige Soßen.",
+        "Wichtig ist vor allem, dass überhaupt genug Gemüse auf den Teller kommt. Frisch, tiefgekühlt und aus dem Glas dürfen sich dabei ergänzen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Tiefkühlgemüse hat kaum noch Vitamine.",
+      "urteil": "mythos",
+      "erklaerung": "Durch das schnelle Einfrieren nach der Ernte bleiben viele Vitamine gut erhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bleiben in Tiefkühlgemüse viele Vitamine erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Es wird kurz nach der Ernte schnell eingefroren",
+        "Es werden Vitamine zugesetzt",
+        "Es wird lange gekocht",
+        "Es wird getrocknet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schnelles Einfrieren nach der Ernte schont viele Vitamine."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Blanchieren?",
+      "art": "mc",
+      "optionen": [
+        "Kurzes Erhitzen vor dem Einfrieren",
+        "Langes Kochen",
+        "Bleichen mit Chemikalien",
+        "Trocknen in der Sonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gemüse wird vor dem Einfrieren kurz erhitzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Konserven lohnt sich ein Blick auf zugesetztes Salz und Zucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Manche Konserven enthalten Zusätze."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tiefkühlgemüse wird kurz nach der Ernte schnell eingefroren.",
+        "Viele Vitamine bleiben dabei gut erhalten.",
+        "Konserven verlieren mehr Vitamine, liefern aber noch Ballaststoffe.",
+        "Hauptsache, es kommt genug Gemüse auf den Teller."
+      ]
+    }
+  ]
+}

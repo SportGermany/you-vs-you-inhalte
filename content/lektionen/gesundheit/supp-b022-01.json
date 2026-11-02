@@ -1,0 +1,126 @@
+{
+  "id": "supp-b022-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Helfen Grüntee-Extrakte beim Abnehmen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Green tea catechins",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gruentee",
+    "epigallocatechingallat",
+    "leber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grüntee-Kapseln werden als natürliche Fettverbrenner beworben.",
+        "Doch konzentrierte Extrakte sind etwas anderes als eine Tasse Tee."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drin steckt",
+      "absaetze": [
+        "Grüner Tee enthält Catechine, vor allem einen Stoff mit dem Kürzel EGCG. Ausgeschrieben heißt er Epigallocatechingallat.",
+        "In Extrakten und Kapseln ist dieser Stoff viel stärker konzentriert als im Getränk. Dadurch können sehr viel höhere Mengen auf einmal in den Körper gelangen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig Wirkung aufs Gewicht",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Grüntee-Präparate das Gewicht höchstens sehr wenig beeinflussen. Für eine spürbare Gewichtsabnahme reicht das nicht.",
+        "Ein dauerhafter Erfolg hängt weiter vor allem von Ernährung, Bewegung und Schlaf ab."
+      ],
+      "merke": "Grüntee-Kapseln sind kein Abnehmmittel.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Risiko für die Leber",
+      "absaetze": [
+        "Die EFSA hat 2018 berichtet, dass hohe Mengen EGCG aus Präparaten mit Leberschäden in Verbindung gebracht wurden.",
+        "Die EU hat daraufhin 2022 die Verwendung von EGCG in Lebensmitteln eingeschränkt. Grüner Tee als normales Getränk gilt dagegen als unbedenklich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Lebererkrankungen und vor der Einnahme von Präparaten neben Medikamenten ärztlich beraten lassen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht das Kürzel EGCG?",
+      "art": "mc",
+      "optionen": [
+        "Einen Catechin-Stoff aus grünem Tee",
+        "Ein Vitamin",
+        "Ein Hormon",
+        "Einen Zuckerersatz"
+      ],
+      "richtig": 0,
+      "erklaerung": "EGCG steht für Epigallocatechingallat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Risiko sah die EFSA bei hohen Mengen EGCG aus Präparaten?",
+      "art": "mc",
+      "optionen": [
+        "Leberschäden",
+        "Haarausfall",
+        "Kurzsichtigkeit",
+        "Zahnverfärbung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hohe Mengen wurden mit Leberschäden in Verbindung gebracht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Grüntee-Kapseln führen zuverlässig zu deutlichem Gewichtsverlust.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Wirkung aufs Gewicht ist höchstens sehr gering."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Extrakte enthalten EGCG viel konzentrierter als Tee.",
+        "Die Wirkung aufs Gewicht ist höchstens sehr gering.",
+        "Hohe Mengen EGCG wurden mit Leberschäden in Verbindung gebracht.",
+        "Grüner Tee als Getränk gilt als unbedenklich."
+      ]
+    }
+  ]
+}

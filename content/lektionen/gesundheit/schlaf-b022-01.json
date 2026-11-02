@@ -1,0 +1,113 @@
+{
+  "id": "schlaf-b022-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist eine Insomnie?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "insomnie",
+    "schlafstoerung",
+    "kvt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeder schläft mal schlecht, etwa vor einer Prüfung. Bei manchen Menschen hört das aber nicht mehr auf.",
+        "Dann sprechen Fachleute von einer Insomnie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als eine schlechte Nacht",
+      "absaetze": [
+        "Insomnie ist der Fachbegriff für eine Ein- oder Durchschlafstörung. Betroffene liegen lange wach, wachen nachts oft auf oder viel zu früh am Morgen.",
+        "Als chronisch gilt sie, wenn die Probleme mindestens dreimal pro Woche über mindestens drei Monate auftreten. Dazu kommen Beschwerden am Tag, etwa Erschöpfung oder Reizbarkeit."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Teufelskreis",
+      "absaetze": [
+        "Wer schlecht schläft, macht sich oft Sorgen um den Schlaf. Diese Sorgen halten wach und verschlimmern das Problem.",
+        "Manche gehen früher ins Bett oder bleiben morgens länger liegen, um Schlaf nachzuholen. Das schwächt aber den Schlafdruck und kann die Störung festigen."
+      ],
+      "merke": "Sorgen um den Schlaf können den Schlaf selbst verschlechtern.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Die Leitlinien empfehlen als erste Behandlung die kognitive Verhaltenstherapie bei Insomnie, kurz KVT-I. Sie wirkt nach Studien gut und langfristig.",
+        "Dazu gehören feste Aufstehzeiten, das Bett nur zum Schlafen nutzen und Grübeln entgegenwirken. Schlafmittel gelten nur kurzfristig als Lösung und gehören in ärztliche Hand."
+      ],
+      "merke": "KVT-I ist die empfohlene erste Behandlung.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Insomnie?",
+      "art": "mc",
+      "optionen": [
+        "Eine Ein- oder Durchschlafstörung",
+        "Eine Form von Schlafwandeln",
+        "Ein Traum mit Bewusstsein",
+        "Ein Atemaussetzer im Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Insomnie bedeutet Ein- oder Durchschlafstörung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Behandlung empfehlen Leitlinien zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Kognitive Verhaltenstherapie bei Insomnie",
+        "Dauerhaft Schlaftabletten",
+        "Mehr Zeit im Bett",
+        "Mittagsschlaf über drei Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "KVT-I ist die erste Wahl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Länger im Bett liegen hilft bei Insomnie meistens.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das schwächt den Schlafdruck und kann die Störung festigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Insomnie ist eine anhaltende Ein- oder Durchschlafstörung.",
+        "Sorgen um den Schlaf können einen Teufelskreis auslösen.",
+        "KVT-I ist die empfohlene erste Behandlung.",
+        "Bei anhaltenden Problemen lohnt sich ärztlicher Rat."
+      ]
+    }
+  ]
+}

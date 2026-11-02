@@ -1,0 +1,120 @@
+{
+  "id": "all-b022-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Lichtjahr?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Universe",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lichtjahr",
+    "entfernung",
+    "lichtgeschwindigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Stern ist vier Lichtjahre entfernt. Das klingt nach einer Zeitangabe.",
+        "Tatsächlich ist ein Lichtjahr eine Strecke."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Längeneinheit",
+      "absaetze": [
+        "Licht bewegt sich mit fast 300.000 Kilometern pro Sekunde. Ein Lichtjahr ist die Strecke, die Licht in einem Jahr zurücklegt.",
+        "Das sind rund 9,5 Billionen Kilometer. Im Weltall sind Kilometer für Entfernungen einfach zu klein."
+      ],
+      "merke": "Ein Lichtjahr misst Entfernung, nicht Zeit."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beispiele",
+      "absaetze": [
+        "Das Licht der Sonne braucht etwa acht Minuten bis zur Erde. Zum Mond ist es gut eine Sekunde unterwegs.",
+        "Der nächste Stern nach der Sonne heißt Proxima Centauri. Er ist rund 4,2 Lichtjahre entfernt. Unsere Milchstraße misst etwa 100.000 Lichtjahre im Durchmesser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Blick in die Vergangenheit",
+      "absaetze": [
+        "Weil Licht Zeit braucht, siehst du Himmelskörper so, wie sie früher waren. Die Sonne siehst du so, wie sie vor acht Minuten aussah.",
+        "Bei weit entfernten Galaxien ist das Licht Millionen oder Milliarden Jahre alt. Teleskope sind deshalb auch Zeitmaschinen für den Blick zurück."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Ein Lichtjahr ist eine Zeiteinheit.",
+      "urteil": "mythos",
+      "erklaerung": "Ein Lichtjahr ist eine Strecke, nämlich der Weg des Lichts in einem Jahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was misst ein Lichtjahr?",
+      "art": "mc",
+      "optionen": [
+        "Eine Entfernung",
+        "Eine Zeitdauer",
+        "Eine Helligkeit",
+        "Eine Temperatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist die Strecke, die Licht in einem Jahr zurücklegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht das Sonnenlicht ungefähr bis zur Erde?",
+      "art": "mc",
+      "optionen": [
+        "Etwa acht Minuten",
+        "Etwa ein Jahr",
+        "Etwa eine Stunde",
+        "Es kommt sofort an"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rund acht Minuten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn du einen fernen Stern ansiehst, siehst du ihn, wie er früher war.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sein Licht war lange unterwegs."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Lichtjahr ist eine Strecke, rund 9,5 Billionen Kilometer.",
+        "Sonnenlicht braucht etwa acht Minuten bis zur Erde.",
+        "Der nächste Stern ist rund 4,2 Lichtjahre entfernt.",
+        "Ein Blick ins All ist ein Blick in die Vergangenheit."
+      ]
+    }
+  ]
+}

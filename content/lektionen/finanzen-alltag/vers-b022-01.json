@@ -1,0 +1,108 @@
+{
+  "id": "vers-b022-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was zahlt eine Wohngebäudeversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld, Versicherungen und Wohnen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wohngebaeude",
+    "elementarschaden",
+    "eigentum"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Rohr platzt in der Wand, oder ein Sturm deckt das Dach ab. Die Reparatur kann sehr teuer werden.",
+        "Für Hausbesitzer ist die Wohngebäudeversicherung deshalb besonders wichtig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was versichert ist",
+      "absaetze": [
+        "Die Wohngebäudeversicherung zahlt Schäden am Gebäude selbst. Dazu gehören Mauern, Dach, fest eingebaute Leitungen und zum Beispiel die Heizung.",
+        "Üblich ist der Schutz gegen Feuer, Leitungswasser, Sturm und Hagel. Als Sturm gilt in den Bedingungen meist Wind ab Windstärke acht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lücke: Naturgefahren",
+      "absaetze": [
+        "Hochwasser, Starkregen, Erdrutsch oder Schneedruck sind im Grundschutz meist nicht enthalten. Dafür gibt es den Zusatzbaustein Elementarschadenversicherung.",
+        "Starkregen kann überall auftreten, nicht nur am Fluss. Verbraucherschützer raten deshalb vielen Eigentümern, den Elementarschutz zu prüfen."
+      ],
+      "merke": "Elementarschäden brauchen meist einen extra Baustein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gebäude oder Hausrat?",
+      "absaetze": [
+        "Die Hausratversicherung zahlt für deine bewegliche Einrichtung, etwa Möbel, Kleidung und Geräte. Die Wohngebäudeversicherung zahlt für das Haus selbst.",
+        "Mieterinnen und Mieter brauchen keine eigene Wohngebäudeversicherung. Vermieter dürfen die Kosten aber oft über die Nebenkosten umlegen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür zahlt die Wohngebäudeversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Für Schäden am Gebäude selbst",
+        "Für gestohlene Fahrräder",
+        "Für Arztkosten",
+        "Für kaputte Handys"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie schützt das Gebäude, nicht den Hausrat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schäden sind im Grundschutz meist nicht enthalten?",
+      "art": "mc",
+      "optionen": [
+        "Hochwasser und Starkregen",
+        "Feuer",
+        "Leitungswasser",
+        "Sturm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür braucht es meist den Elementarschutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mieter müssen selbst eine Wohngebäudeversicherung abschließen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das macht der Eigentümer, die Kosten können aber umgelegt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Wohngebäudeversicherung schützt das Haus selbst.",
+        "Üblich sind Feuer, Leitungswasser, Sturm und Hagel.",
+        "Hochwasser und Starkregen brauchen meist einen Zusatzbaustein.",
+        "Möbel und Geräte deckt die Hausratversicherung."
+      ]
+    }
+  ]
+}

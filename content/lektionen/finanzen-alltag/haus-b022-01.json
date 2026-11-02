@@ -1,0 +1,129 @@
+{
+  "id": "haus-b022-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie lüftest du richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lueften",
+    "stosslueften",
+    "luftfeuchtigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Kochen, Duschen und sogar beim Atmen entsteht Feuchtigkeit in der Wohnung.",
+        "Richtiges Lüften schützt vor Schimmel und spart Heizkosten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stoßlüften statt Kippen",
+      "absaetze": [
+        "Beim Stoßlüften öffnest du das Fenster ganz für einige Minuten. Die Luft wird schnell ausgetauscht, Wände und Möbel kühlen kaum aus.",
+        "Ein dauerhaft gekipptes Fenster tauscht wenig Luft aus. Gleichzeitig kühlen die Wände rund ums Fenster aus, und es geht viel Heizenergie verloren."
+      ],
+      "merke": "Fenster kurz ganz öffnen ist besser als lange kippen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie oft und wie lange",
+      "absaetze": [
+        "Das Umweltbundesamt rät, mehrmals am Tag zu lüften. Im Winter reichen wenige Minuten, im Sommer darf es länger sein.",
+        "Noch schneller geht Querlüften. Dabei öffnest du gegenüberliegende Fenster, damit ein Durchzug entsteht. Nach dem Duschen und Kochen solltest du sofort lüften."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Luftfeuchtigkeit im Blick",
+      "absaetze": [
+        "In Wohnräumen gilt eine relative Luftfeuchtigkeit von etwa 40 bis 60 Prozent als angenehm. Ein günstiges Hygrometer zeigt dir den Wert an.",
+        "Liegt die Feuchte dauerhaft höher, steigt das Risiko für Schimmel. Dann lohnt es sich, öfter zu lüften und Möbel etwas von Außenwänden abzurücken."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Lüften im Alltag",
+      "schritte": [
+        {
+          "titel": "Morgens",
+          "text": "Nach dem Aufstehen das Schlafzimmer einige Minuten stoßlüften."
+        },
+        {
+          "titel": "Nach Kochen und Duschen",
+          "text": "Sofort lüften, damit die Feuchtigkeit hinausgeht."
+        },
+        {
+          "titel": "Heizung aus",
+          "text": "Während des Lüftens das Thermostat herunterdrehen."
+        },
+        {
+          "titel": "Messen",
+          "text": "Mit einem Hygrometer die Luftfeuchte im Blick behalten."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist beim Lüften meist besser?",
+      "art": "mc",
+      "optionen": [
+        "Einige Minuten Fenster ganz öffnen",
+        "Fenster den ganzen Tag kippen",
+        "Nie lüften",
+        "Nur nachts lüften"
+      ],
+      "richtig": 0,
+      "erklaerung": "Stoßlüften tauscht die Luft schnell aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Luftfeuchtigkeit gilt in Wohnräumen als angenehm?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 40 bis 60 Prozent",
+        "Etwa 5 bis 10 Prozent",
+        "Etwa 90 bis 100 Prozent",
+        "Genau 0 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "40 bis 60 Prozent gilt als guter Bereich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein dauerhaft gekipptes Fenster spart Heizenergie.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es verschwendet Energie und kühlt die Wände aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stoßlüften ist besser als ein dauerhaft gekipptes Fenster.",
+        "Mehrmals täglich kurz lüften, nach Duschen und Kochen sofort.",
+        "40 bis 60 Prozent Luftfeuchte gelten als angenehm."
+      ]
+    }
+  ]
+}
