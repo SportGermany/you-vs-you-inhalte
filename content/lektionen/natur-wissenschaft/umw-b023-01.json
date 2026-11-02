@@ -1,0 +1,108 @@
+{
+  "id": "umw-b023-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Woher kommt unser Trinkwasser?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Trinkwasser und Umwelttipps",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "trinkwasser",
+    "grundwasser",
+    "wasserversorgung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du drehst den Wasserhahn auf, und sauberes Wasser kommt heraus. Das ist weltweit keineswegs selbstverständlich.",
+        "Doch woher stammt es?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor allem aus dem Boden",
+      "absaetze": [
+        "In Deutschland stammt der größte Teil des Trinkwassers aus Grundwasser und Quellwasser. Der Rest kommt aus Seen, Talsperren und Flüssen.",
+        "Grundwasser entsteht, wenn Regen durch den Boden sickert. Die Bodenschichten filtern das Wasser dabei auf natürliche Weise."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Streng kontrolliert",
+      "absaetze": [
+        "Die Trinkwasserverordnung legt fest, welche Stoffe in welcher Menge enthalten sein dürfen. Wasserversorger prüfen regelmäßig die Qualität.",
+        "Das Umweltbundesamt bewertet die Qualität des Trinkwassers in Deutschland insgesamt als sehr gut. Leitungswasser kannst du in der Regel bedenkenlos trinken."
+      ],
+      "merke": "Leitungswasser ist in Deutschland meist sehr gut."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was es gefährdet",
+      "absaetze": [
+        "Nitrat aus Dünger, Rückstände von Pflanzenschutzmitteln und Arzneimitteln können ins Grundwasser gelangen. Die Aufbereitung wird dann aufwändiger.",
+        "Auch alte Bleileitungen in Häusern können ein Problem sein. Lass Wasser, das lange in der Leitung stand, kurz ablaufen, bis es kühl kommt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt der größte Teil des Trinkwassers in Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "Aus Grund- und Quellwasser",
+        "Aus Meerwasser",
+        "Aus Regentonnen",
+        "Aus Gletschern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grund- und Quellwasser sind die Hauptquelle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was regelt die Trinkwasserverordnung?",
+      "art": "mc",
+      "optionen": [
+        "Welche Stoffe in welcher Menge enthalten sein dürfen",
+        "Den Wasserpreis",
+        "Die Farbe der Wasserhähne",
+        "Wie oft du duschen darfst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie legt Grenzwerte für Trinkwasser fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Leitungswasser kannst du in Deutschland in der Regel bedenkenlos trinken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es wird streng kontrolliert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das meiste Trinkwasser stammt aus Grund- und Quellwasser.",
+        "Die Trinkwasserverordnung legt strenge Grenzwerte fest.",
+        "Nitrat und Rückstände können das Grundwasser belasten.",
+        "Abgestandenes Wasser kurz ablaufen lassen."
+      ]
+    }
+  ]
+}

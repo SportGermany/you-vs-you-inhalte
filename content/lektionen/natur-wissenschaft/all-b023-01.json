@@ -1,0 +1,114 @@
+{
+  "id": "all-b023-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie entstehen Polarlichter?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Aurora",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "polarlichter",
+    "sonnenwind",
+    "magnetfeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grüne und rote Schleier tanzen über den Nachthimmel. In manchen Jahren sind Polarlichter sogar in Deutschland zu sehen.",
+        "Ihr Ursprung liegt 150 Millionen Kilometer entfernt, bei der Sonne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teilchen von der Sonne",
+      "absaetze": [
+        "Die Sonne schleudert ständig geladene Teilchen ins All. Diesen Strom nennt man Sonnenwind.",
+        "Das Magnetfeld der Erde lenkt die meisten Teilchen ab. In der Nähe der Pole können sie aber in die obere Atmosphäre eindringen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leuchtende Gase",
+      "absaetze": [
+        "Die Teilchen stoßen in großer Höhe mit Sauerstoff und Stickstoff zusammen. Diese Gase geben die Energie als Licht wieder ab.",
+        "Sauerstoff leuchtet meist grün, in größerer Höhe auch rot. Stickstoff sorgt für bläuliche und violette Töne."
+      ],
+      "merke": "Polarlichter sind leuchtende Gase in der hohen Atmosphäre."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch in Deutschland",
+      "absaetze": [
+        "Bei starken Sonnenstürmen reichen Polarlichter weit nach Süden. Dann können sie auch über Deutschland erscheinen.",
+        "Die Sonne hat einen Aktivitätszyklus von etwa elf Jahren. In Phasen hoher Aktivität sind Polarlichter häufiger. Am besten siehst du sie fern von Stadtlicht mit freiem Blick nach Norden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen die Teilchen, die Polarlichter auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Von der Sonne",
+        "Vom Mond",
+        "Aus Vulkanen",
+        "Aus Flugzeugen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Sonnenwind bringt geladene Teilchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Farbe erzeugt Sauerstoff meist?",
+      "art": "mc",
+      "optionen": [
+        "Grün",
+        "Schwarz",
+        "Braun",
+        "Weiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sauerstoff leuchtet meist grün."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Polarlichter sind in Deutschland nie zu sehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei starken Sonnenstürmen sind sie auch hier sichtbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Polarlichter entstehen durch Teilchen von der Sonne.",
+        "Sie bringen Sauerstoff und Stickstoff zum Leuchten.",
+        "Sauerstoff leuchtet grün oder rot.",
+        "Bei starken Sonnenstürmen sind sie auch in Deutschland sichtbar."
+      ]
+    }
+  ]
+}

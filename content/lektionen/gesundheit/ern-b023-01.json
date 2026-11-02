@@ -1,0 +1,118 @@
+{
+  "id": "ern-b023-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Smoothies und Säfte so gesund wie ganzes Obst?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gut essen und trinken",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "smoothies",
+    "saft",
+    "obst"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Glas Orangensaft am Morgen wirkt wie ein gesunder Start. Smoothies werben mit mehreren Portionen Obst pro Flasche.",
+        "Können sie ganzes Obst ersetzen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was beim Saft fehlt",
+      "absaetze": [
+        "Beim Pressen bleiben viele Ballaststoffe im Trester zurück. Trester sind die festen Reste von Schale und Fruchtfleisch.",
+        "Saft enthält deshalb vor allem Wasser, Zucker und einen Teil der Vitamine. Der Zucker im Saft gelangt schnell ins Blut, weil die Ballaststoffe als Bremse fehlen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Smoothies liegen dazwischen",
+      "absaetze": [
+        "In Smoothies wird oft die ganze Frucht püriert. Dadurch bleiben mehr Ballaststoffe erhalten als im Saft.",
+        "Trotzdem trinkst du sie schnell und in großen Mengen. Ganzes Obst kaust du dagegen langsam, und es macht besser satt."
+      ],
+      "merke": "Kauen macht satter als Trinken.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie die DGE es sieht",
+      "absaetze": [
+        "Die DGE zählt Säfte und Smoothies nicht als Durstlöscher. Als Getränk empfiehlt sie vor allem Wasser und ungesüßten Tee.",
+        "Ab und zu kann ein Glas Saft oder ein Smoothie eine Portion Obst ersetzen. Ganzes Obst bleibt aber die bessere Wahl."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fehlt im Saft im Vergleich zum ganzen Obst vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Ein Großteil der Ballaststoffe",
+        "Das Wasser",
+        "Der Zucker",
+        "Der Geschmack"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Ballaststoffe bleiben beim Pressen zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfiehlt die DGE vor allem als Getränk?",
+      "art": "mc",
+      "optionen": [
+        "Wasser und ungesüßten Tee",
+        "Saft",
+        "Smoothies",
+        "Limonade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Säfte gelten nicht als Durstlöscher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ganzes Obst macht in der Regel besser satt als die gleiche Menge als Saft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kauen und Ballaststoffe sättigen besser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Saft enthält kaum noch Ballaststoffe.",
+        "Smoothies liefern mehr, werden aber schnell getrunken.",
+        "Ab und zu kann ein Glas eine Portion Obst ersetzen.",
+        "Ganzes Obst bleibt die bessere Wahl."
+      ]
+    }
+  ]
+}

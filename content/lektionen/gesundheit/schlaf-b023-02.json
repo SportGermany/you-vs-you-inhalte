@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b023-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum zuckst du manchmal beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "einschlafzuckung",
+    "muskeln",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du döst gerade weg, plötzlich fühlt es sich an, als würdest du fallen. Dein Körper zuckt, du bist wieder wach.",
+        "Das passiert sehr vielen Menschen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein häufiges Erlebnis",
+      "absaetze": [
+        "Fachleute nennen das Einschlafzuckungen oder Einschlafmyoklonien. Myoklonie bedeutet kurzes, unwillkürliches Zucken eines Muskels.",
+        "Sie treten beim Übergang vom Wachsein in den Schlaf auf. Manchmal begleitet sie ein Gefühl zu fallen oder ein kurzes Bild im Kopf."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher sie kommen",
+      "absaetze": [
+        "Warum das passiert, ist nicht genau geklärt. Beobachtungen deuten darauf hin, dass beim Einschlafen Systeme im Gehirn nicht ganz gleichzeitig herunterfahren.",
+        "Häufiger scheinen sie nach Koffein, bei Stress, Schlafmangel oder nach spätem Sport aufzutreten."
+      ],
+      "merke": "Einschlafzuckungen sind in aller Regel harmlos.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann zum Arzt",
+      "absaetze": [
+        "Gelegentliche Zuckungen sind normal und kein Grund zur Sorge. Sie brauchen keine Behandlung.",
+        "Wenn sie sehr häufig sind, den Schlaf stark stören oder andere Beschwerden dazukommen, ist ärztlicher Rat sinnvoll. Dann lässt sich prüfen, ob eine andere Ursache dahintersteckt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann treten Einschlafzuckungen auf?",
+      "art": "mc",
+      "optionen": [
+        "Beim Übergang vom Wachsein in den Schlaf",
+        "Nur im Tiefschlaf am Morgen",
+        "Nur beim Sport",
+        "Nur bei Fieber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie passieren beim Wegdösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann sie häufiger machen?",
+      "art": "mc",
+      "optionen": [
+        "Koffein, Stress und Schlafmangel",
+        "Ein ruhiger Abend",
+        "Ausreichend Schlaf",
+        "Ein dunkles Zimmer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Faktoren scheinen sie zu begünstigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gelegentliche Einschlafzuckungen sind meist harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind sehr verbreitet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einschlafzuckungen sind sehr verbreitet.",
+        "Die genaue Ursache ist nicht geklärt.",
+        "Koffein, Stress und Schlafmangel scheinen sie zu begünstigen.",
+        "Nur bei starken Beschwerden ist ärztlicher Rat sinnvoll."
+      ]
+    }
+  ]
+}

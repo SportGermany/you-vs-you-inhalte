@@ -1,0 +1,108 @@
+{
+  "id": "steu-b023-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die Kleinunternehmerregelung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2025-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kleinunternehmer",
+    "umsatzsteuer",
+    "selbststaendig"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du verkaufst selbstgemachten Schmuck oder gibst Nachhilfe auf Rechnung.",
+        "Musst du dann gleich Umsatzsteuer berechnen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Grundidee",
+      "absaetze": [
+        "Wer nur geringe Umsätze macht, kann die Kleinunternehmerregelung nutzen. Dann berechnest du deinen Kundinnen und Kunden keine Umsatzsteuer.",
+        "Umsatz ist die Summe aller Einnahmen aus Verkäufen, nicht der Gewinn. Seit 2025 gelten neue Grenzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Grenzen seit 2025",
+      "absaetze": [
+        "Der Umsatz im Vorjahr darf höchstens 25.000 Euro betragen haben. Im laufenden Jahr darf er 100.000 Euro nicht übersteigen.",
+        "Wird die Grenze im laufenden Jahr überschritten, gilt die Regelung ab diesem Umsatz nicht mehr. Dann wird Umsatzsteuer fällig."
+      ],
+      "merke": "Entscheidend ist der Umsatz, nicht der Gewinn."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile und Nachteile",
+      "absaetze": [
+        "Der Vorteil: weniger Bürokratie und Preise ohne Umsatzsteuer, was für Privatkunden attraktiv ist.",
+        "Der Nachteil: Du kannst dir die Umsatzsteuer aus eigenen Einkäufen nicht vom Finanzamt erstatten lassen. Einkommensteuer bleibt ohnehin ein eigenes Thema. Bei Unsicherheit hilft eine Steuerberatung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet die Kleinunternehmerregelung?",
+      "art": "mc",
+      "optionen": [
+        "Keine Umsatzsteuer auf Rechnungen bei geringen Umsätzen",
+        "Keine Einkommensteuer",
+        "Keine Steuererklärung",
+        "Doppelte Umsatzsteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kleinunternehmer weisen keine Umsatzsteuer aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vorjahresgrenze gilt seit 2025?",
+      "art": "mc",
+      "optionen": [
+        "25.000 Euro Umsatz",
+        "1.000 Euro Gewinn",
+        "500.000 Euro Umsatz",
+        "Es gibt keine Grenze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Vorjahr höchstens 25.000 Euro Umsatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleinunternehmer können sich die Umsatzsteuer aus eigenen Einkäufen erstatten lassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Vorsteuerabzug entfällt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kleinunternehmer berechnen keine Umsatzsteuer.",
+        "Seit 2025: Vorjahr höchstens 25.000 Euro, laufendes Jahr höchstens 100.000 Euro Umsatz.",
+        "Die Umsatzsteuer aus Einkäufen gibt es nicht zurück.",
+        "Die Einkommensteuer ist davon unabhängig."
+      ]
+    }
+  ]
+}

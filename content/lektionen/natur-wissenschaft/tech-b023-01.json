@@ -1,0 +1,108 @@
+{
+  "id": "tech-b023-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Induktionsherd?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Wohnen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "induktion",
+    "herd",
+    "magnetfeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Induktionsherd kocht das Wasser schnell, aber die Platte daneben bleibt fast kalt.",
+        "Wie kann das sein?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Magnetfeld statt einer heißen Platte",
+      "absaetze": [
+        "Unter der Glaskeramik liegt eine Spule. Durch sie fließt Wechselstrom, also Strom, der sehr schnell seine Richtung ändert. So entsteht ein wechselndes Magnetfeld.",
+        "Dieses Feld erzeugt im Topfboden elektrische Ströme. Sie heißen Wirbelströme und machen den Topfboden selbst heiß."
+      ],
+      "merke": "Beim Induktionsherd wird der Topf selbst zur Heizquelle."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der richtige Topf",
+      "absaetze": [
+        "Das funktioniert nur mit Töpfen, deren Boden magnetisch ist. Ein einfacher Test: Bleibt ein Magnet am Topfboden haften, ist er geeignet.",
+        "Töpfe aus reinem Aluminium, Kupfer oder Glas funktionieren ohne speziellen Boden nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor- und Nachteile",
+      "absaetze": [
+        "Induktion reagiert sehr schnell und verschwendet wenig Wärme. Das spart Zeit und meist auch Energie im Vergleich zu älteren Herdplatten.",
+        "Die Glasfläche wird nur durch den heißen Topf warm. Nach dem Kochen ist sie trotzdem eine Weile heiß, Vorsicht also beim Anfassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo entsteht beim Induktionsherd die Wärme?",
+      "art": "mc",
+      "optionen": [
+        "Im Topfboden selbst",
+        "In der Glasplatte",
+        "In der Luft",
+        "Im Stecker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wirbelströme erhitzen den Topfboden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie testest du, ob ein Topf geeignet ist?",
+      "art": "mc",
+      "optionen": [
+        "Ein Magnet muss am Boden haften",
+        "Er muss leicht sein",
+        "Er muss rot sein",
+        "Er muss aus Glas sein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Boden muss magnetisch sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Töpfe aus reinem Aluminium funktionieren ohne speziellen Boden nicht auf Induktion.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Aluminium ist nicht magnetisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Spule erzeugt ein wechselndes Magnetfeld.",
+        "Wirbelströme machen den Topfboden heiß.",
+        "Der Topfboden muss magnetisch sein.",
+        "Induktion ist schnell und verschwendet wenig Wärme."
+      ]
+    }
+  ]
+}

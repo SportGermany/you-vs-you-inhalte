@@ -1,0 +1,112 @@
+{
+  "id": "ern-b023-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist rohes Gemüse gesünder als gekochtes?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rohkost",
+    "kochen",
+    "vitamine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rohkost gilt als besonders gesund, weil beim Kochen Vitamine verloren gehen.",
+        "Doch manche Stoffe nimmt der Körper aus gekochtem Gemüse sogar besser auf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was beim Kochen verloren geht",
+      "absaetze": [
+        "Einige Vitamine sind empfindlich gegenüber Hitze, Licht oder Wasser. Dazu gehören Vitamin C und Folat.",
+        "Beim Kochen in viel Wasser lösen sie sich teilweise heraus. Dämpfen oder kurzes Dünsten in wenig Wasser schont sie besser."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was durch Kochen gewinnt",
+      "absaetze": [
+        "Andere Stoffe werden durch Erhitzen leichter verfügbar. Ein Beispiel ist Lycopin, der rote Farbstoff der Tomate. Aus gekochten Tomaten nimmt der Körper es besser auf.",
+        "Auch Betacarotin aus Möhren wird gekocht und mit etwas Fett besser aufgenommen. Das Fett hilft, weil diese Stoffe fettlöslich sind."
+      ],
+      "merke": "Kochen kann manche Inhaltsstoffe besser verfügbar machen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Mischung macht es",
+      "absaetze": [
+        "Manche Gemüse wie Hülsenfrüchte oder Kartoffeln musst du sogar erhitzen. Roh enthalten sie Stoffe, die Beschwerden auslösen können.",
+        "Am sinnvollsten ist eine Mischung aus roh und schonend gegart. So profitierst du von beiden Seiten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff wird aus gekochten Tomaten besser aufgenommen?",
+      "art": "mc",
+      "optionen": [
+        "Lycopin",
+        "Vitamin C",
+        "Kochsalz",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lycopin wird durch Erhitzen besser verfügbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zubereitung schont empfindliche Vitamine eher?",
+      "art": "mc",
+      "optionen": [
+        "Dämpfen in wenig Wasser",
+        "Langes Kochen in viel Wasser",
+        "Stundenlanges Warmhalten",
+        "Frittieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wenig Wasser und kurze Garzeiten schonen Vitamine."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hülsenfrüchte sollten vor dem Essen erhitzt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Roh enthalten sie unverträgliche Stoffe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hitze und Wasser zerstören einen Teil der Vitamine.",
+        "Lycopin und Betacarotin werden gekocht besser aufgenommen.",
+        "Manche Lebensmittel müssen erhitzt werden.",
+        "Eine Mischung aus roh und gegart ist sinnvoll."
+      ]
+    }
+  ]
+}

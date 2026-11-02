@@ -1,0 +1,108 @@
+{
+  "id": "vers-b023-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann zahlt die gesetzliche Unfallversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesetzliche Unfallversicherung",
+      "herausgeber": "Deutsche Gesetzliche Unfallversicherung (DGUV)",
+      "url": "https://www.dguv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "unfallversicherung",
+    "arbeitsunfall",
+    "wegeunfall"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du stürzt auf dem Weg zur Arbeit mit dem Fahrrad. Wer zahlt?",
+        "In vielen Fällen die gesetzliche Unfallversicherung, ganz ohne eigenen Vertrag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer versichert ist",
+      "absaetze": [
+        "Beschäftigte sind automatisch gesetzlich unfallversichert. Die Beiträge zahlt allein der Arbeitgeber.",
+        "Versichert sind auch Kinder in Kitas, Schülerinnen und Schüler sowie Studierende. Träger sind die Berufsgenossenschaften und Unfallkassen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was versichert ist",
+      "absaetze": [
+        "Geschützt sind Arbeitsunfälle, Berufskrankheiten und Wegeunfälle. Ein Wegeunfall ist ein Unfall auf dem direkten Weg zur Arbeit oder zurück.",
+        "Die Versicherung zahlt etwa Behandlung, Reha und bei bleibenden Schäden eine Rente. Wichtig: Sag beim Arzt, dass es ein Arbeits- oder Wegeunfall war."
+      ],
+      "merke": "Der direkte Arbeitsweg ist mitversichert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lücke in der Freizeit",
+      "absaetze": [
+        "Unfälle in der Freizeit, im Haushalt oder beim Hobbysport sind nicht abgedeckt. Dann zahlt die Krankenkasse die Behandlung, aber keine Unfallrente.",
+        "Eine private Unfallversicherung kann diese Lücke schließen. Ob sie für dich sinnvoll ist, hängt von deiner sonstigen Absicherung ab."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt die Beiträge zur gesetzlichen Unfallversicherung bei Beschäftigten?",
+      "art": "mc",
+      "optionen": [
+        "Der Arbeitgeber allein",
+        "Die Beschäftigten allein",
+        "Beide je zur Hälfte",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Beiträge zahlt der Arbeitgeber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Wegeunfall?",
+      "art": "mc",
+      "optionen": [
+        "Ein Unfall auf dem direkten Weg zur Arbeit oder zurück",
+        "Ein Unfall im Urlaub",
+        "Ein Unfall beim Hobbysport",
+        "Ein Unfall im eigenen Garten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der direkte Arbeitsweg ist versichert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die gesetzliche Unfallversicherung zahlt auch bei Unfällen in der Freizeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Freizeitunfälle sind nicht abgedeckt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beschäftigte, Kita-Kinder, Schüler und Studierende sind gesetzlich unfallversichert.",
+        "Abgedeckt sind Arbeitsunfälle, Wegeunfälle und Berufskrankheiten.",
+        "Freizeitunfälle sind nicht versichert.",
+        "Beim Arzt den Arbeits- oder Wegeunfall angeben."
+      ]
+    }
+  ]
+}

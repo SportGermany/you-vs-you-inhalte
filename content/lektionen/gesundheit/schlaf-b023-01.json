@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b023-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie wirkt sich Rauchen auf den Schlaf aus?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rauchen und Gesundheit",
+      "herausgeber": "Deutsches Krebsforschungszentrum (DKFZ)",
+      "url": "https://www.dkfz.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rauchen",
+    "nikotin",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele rauchen abends eine Zigarette, um runterzukommen.",
+        "Für den Schlaf ist das allerdings keine gute Idee."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nikotin macht wach",
+      "absaetze": [
+        "Nikotin ist ein anregender Stoff. Es erhöht Puls und Blutdruck und macht wacher, ähnlich wie Koffein.",
+        "Eine Zigarette kurz vor dem Schlafen kann deshalb das Einschlafen erschweren. Das Gefühl der Entspannung kommt vor allem daher, dass ein Verlangen gestillt wird."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unruhige Nächte",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Rauchende im Schnitt leichter und unruhiger schlafen. Nachts sinkt der Nikotinspiegel, und das Verlangen kann den Schlaf stören.",
+        "Zudem reizt Rauch die Atemwege. Das kann Schnarchen und nächtliche Atemprobleme verstärken."
+      ],
+      "merke": "Rauchen kann den Schlaf leichter und unruhiger machen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach dem Rauchstopp",
+      "absaetze": [
+        "In den ersten Tagen nach dem Aufhören schlafen manche schlechter. Das gehört zu den Entzugserscheinungen und geht meist nach einigen Wochen vorbei.",
+        "Langfristig profitieren Schlaf und Gesundheit vom Rauchstopp. Hilfe bieten etwa das Rauchfrei-Telefon und ärztliche Beratung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Nikotin auf den Körper?",
+      "art": "mc",
+      "optionen": [
+        "Anregend",
+        "Einschläfernd",
+        "Gar nicht",
+        "Wie ein Schlafmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nikotin erhöht Puls und Wachheit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann der Schlaf nach einem Rauchstopp anfangs schlechter sein?",
+      "art": "mc",
+      "optionen": [
+        "Wegen Entzugserscheinungen",
+        "Weil Nichtrauchen schadet",
+        "Weil die Lunge wächst",
+        "Das kommt nie vor"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geht meist nach einigen Wochen vorbei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Zigarette vor dem Schlafen hilft beim Einschlafen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nikotin wirkt anregend."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nikotin wirkt anregend, nicht beruhigend.",
+        "Rauchende schlafen im Schnitt leichter und unruhiger.",
+        "Nach dem Rauchstopp bessert sich der Schlaf meist nach einigen Wochen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "haus-b023-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entkalkst du Wasserkocher und Kaffeemaschine richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Wohnen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "entkalken",
+    "kalk",
+    "zitronensaeure"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weiße Krusten im Wasserkocher sind ein bekannter Anblick, besonders in Gegenden mit hartem Wasser.",
+        "Kalk kostet Strom und kann Geräte schädigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Kalk entsteht",
+      "absaetze": [
+        "Leitungswasser enthält gelöste Mineralstoffe wie Calcium und Magnesium. Je mehr davon, desto härter ist das Wasser.",
+        "Beim Erhitzen lagern sich diese Stoffe als Kalk ab. Eine Kalkschicht auf dem Heizelement leitet Wärme schlecht. Das Gerät braucht dann mehr Energie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die passenden Mittel",
+      "absaetze": [
+        "Zitronensäure aus der Drogerie wirkt gut und ist günstig. Wichtig ist, sie nicht zu stark zu erhitzen, sonst können sich neue, schwer lösliche Ablagerungen bilden.",
+        "Essig entkalkt ebenfalls, kann aber Gummidichtungen in Kaffeemaschinen angreifen. Beachte immer die Anleitung des Herstellers."
+      ],
+      "merke": "Hersteller-Anleitung zuerst lesen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie oft",
+      "absaetze": [
+        "Wie oft du entkalken musst, hängt von der Wasserhärte ab. Die Härte findest du meist auf der Internetseite deines Wasserversorgers.",
+        "Nach dem Entkalken spülst du das Gerät mehrmals mit klarem Wasser durch. So schmeckt der nächste Kaffee nicht sauer."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Wasserkocher entkalken",
+      "schritte": [
+        {
+          "titel": "Lösung ansetzen",
+          "text": "Zitronensäure nach Packungsangabe in lauwarmem Wasser lösen."
+        },
+        {
+          "titel": "Einwirken lassen",
+          "text": "Die Lösung einige Zeit im Gerät stehen lassen."
+        },
+        {
+          "titel": "Ausgießen",
+          "text": "Lösung weggießen und Reste vorsichtig lösen."
+        },
+        {
+          "titel": "Nachspülen",
+          "text": "Mehrmals mit klarem Wasser aufkochen und ausgießen."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kostet Kalk im Gerät Strom?",
+      "art": "mc",
+      "optionen": [
+        "Er leitet Wärme schlecht",
+        "Er erzeugt Strom",
+        "Er kühlt das Wasser",
+        "Er macht das Gerät leichter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wärme kommt schlechter beim Wasser an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo findest du die Härte deines Leitungswassers?",
+      "art": "mc",
+      "optionen": [
+        "Meist beim Wasserversorger",
+        "Auf der Stromrechnung",
+        "Im Kühlschrank",
+        "Auf dem Kassenbon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasserversorger veröffentlichen die Wasserhärte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Essig kann Gummidichtungen in Kaffeemaschinen angreifen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb lohnt der Blick in die Anleitung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kalk entsteht aus Mineralstoffen im Wasser.",
+        "Kalk auf dem Heizelement kostet Strom.",
+        "Zitronensäure wirkt gut, nicht zu stark erhitzen.",
+        "Nach dem Entkalken gründlich nachspülen."
+      ]
+    }
+  ]
+}
