@@ -1,0 +1,108 @@
+{
+  "id": "geld-b028-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie nutzt du Online-Banking sicher?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Online-Banking",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "online-banking",
+    "phishing",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Überweisungen vom Sofa aus sind bequem.",
+        "Betrüger versuchen aber, genau dort an dein Geld zu kommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die häufigste Masche",
+      "absaetze": [
+        "Beim Phishing verschicken Betrüger täuschend echte E-Mails, SMS oder Nachrichten im Namen deiner Bank. Sie fordern dich auf, einen Link anzuklicken und Daten einzugeben.",
+        "Deine Bank fragt dich nie per E-Mail oder Telefon nach PIN, TAN oder Passwort. Solche Anfragen sind immer verdächtig."
+      ],
+      "merke": "Die Bank fragt nie per E-Mail oder Telefon nach PIN oder TAN."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher einloggen",
+      "absaetze": [
+        "Rufe die Seite deiner Bank selbst auf, etwa über ein Lesezeichen oder die offizielle App. Klicke nicht auf Links in Nachrichten.",
+        "Nutze ein starkes, eigenes Passwort und halte Betriebssystem und App aktuell. Freigaben per App zeigen dir an, was du bestätigst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genau hinsehen",
+      "absaetze": [
+        "Prüfe bei jeder Freigabe, ob Betrag und Empfänger stimmen. Betrüger versuchen manchmal, dich am Telefon zu einer Freigabe zu überreden.",
+        "Schau regelmäßig auf deine Kontobewegungen. Bei Verdacht sperrst du den Zugang sofort über deine Bank oder den Sperr-Notruf 116 116."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Phishing?",
+      "art": "mc",
+      "optionen": [
+        "Betrügerische Nachrichten, die Zugangsdaten erbeuten sollen",
+        "Ein Sparplan",
+        "Eine Überweisungsart",
+        "Ein Virenscanner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Nachrichten wirken oft täuschend echt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du dein Online-Banking aufrufen?",
+      "art": "mc",
+      "optionen": [
+        "Über ein Lesezeichen oder die offizielle App",
+        "Über einen Link in einer E-Mail",
+        "Über eine Suchanzeige",
+        "Über einen Link in einer SMS"
+      ],
+      "richtig": 0,
+      "erklaerung": "So landest du sicher auf der echten Seite."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Deine Bank kann dich per Telefon nach deiner TAN fragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das tut sie nie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Phishing ist die häufigste Masche.",
+        "Die Bank fragt nie per E-Mail oder Telefon nach PIN oder TAN.",
+        "Die Bankseite immer selbst aufrufen.",
+        "Bei jeder Freigabe Betrag und Empfänger prüfen."
+      ]
+    }
+  ]
+}

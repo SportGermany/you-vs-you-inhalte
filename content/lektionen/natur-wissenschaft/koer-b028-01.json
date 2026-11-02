@@ -1,0 +1,114 @@
+{
+  "id": "koer-b028-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum knacken Gelenke?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Orthopädie und Unfallchirurgie",
+      "url": "https://dgou.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gelenke",
+    "knacken",
+    "arthrose"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche lassen genüsslich ihre Finger knacken, andere zucken dabei zusammen.",
+        "Woher kommt das Geräusch, und schadet es?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gasbläschen in der Gelenkflüssigkeit",
+      "absaetze": [
+        "Gelenke sind von einer Kapsel umgeben, die mit Gelenkflüssigkeit gefüllt ist. In dieser Flüssigkeit sind Gase gelöst.",
+        "Wird das Gelenk schnell gedehnt, sinkt der Druck in der Kapsel. Dabei bildet sich eine Gasblase, und es knackt. Danach dauert es eine Weile, bis es wieder knacken kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schadet Fingerknacken?",
+      "absaetze": [
+        "Viele haben gehört, Fingerknacken führe zu Arthrose. Arthrose ist ein Verschleiß des Gelenkknorpels.",
+        "Bisherige Untersuchungen fanden dafür keinen Beleg. Ein Arzt knackte sogar jahrzehntelang nur die Finger einer Hand, ohne Unterschied zur anderen Hand."
+      ],
+      "merke": "Fingerknacken führt nach bisherigem Wissen nicht zu Arthrose."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann zum Arzt",
+      "absaetze": [
+        "Knacken ohne Schmerzen ist in der Regel harmlos. Auch Sehnen, die über Knochen gleiten, können Geräusche machen.",
+        "Wenn Geräusche mit Schmerzen, Schwellungen oder Bewegungseinschränkungen einhergehen, sollte das ärztlich abgeklärt werden."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Fingerknacken verursacht Arthrose.",
+      "urteil": "mythos",
+      "erklaerung": "Bisherige Untersuchungen fanden keinen Zusammenhang zwischen Fingerknacken und Arthrose."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt das Knacken in den Fingergelenken?",
+      "art": "mc",
+      "optionen": [
+        "Von Gasblasen in der Gelenkflüssigkeit",
+        "Von brechenden Knochen",
+        "Von reißenden Muskeln",
+        "Von Luft in den Adern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Durch den sinkenden Druck bildet sich eine Gasblase."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollte Gelenkknacken ärztlich abgeklärt werden?",
+      "art": "mc",
+      "optionen": [
+        "Wenn Schmerzen oder Schwellungen dazukommen",
+        "Immer sofort",
+        "Nie",
+        "Nur bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Knacken ohne Schmerzen ist meist harmlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Studien zeigen, dass Fingerknacken Arthrose verursacht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür fand sich kein Beleg."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gasblasen in der Gelenkflüssigkeit verursachen das Knacken.",
+        "Danach braucht das Gelenk eine Pause, bevor es wieder knackt.",
+        "Fingerknacken führt nach bisherigem Wissen nicht zu Arthrose.",
+        "Bei Schmerzen oder Schwellungen zum Arzt."
+      ]
+    }
+  ]
+}

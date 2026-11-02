@@ -1,0 +1,118 @@
+{
+  "id": "ern-b028-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Tee?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pflanzenstoffe und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tee",
+    "gruentee",
+    "kraeutertee"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tee ist nach Wasser eines der beliebtesten Getränke der Welt.",
+        "Doch wie gesund ist er eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwarzer und grüner Tee",
+      "absaetze": [
+        "Schwarzer und grüner Tee stammen von derselben Pflanze. Beim schwarzen Tee werden die Blätter fermentiert, also durch Sauerstoff verändert.",
+        "Beide enthalten Koffein und sekundäre Pflanzenstoffe wie Flavonoide. Beobachtungsstudien deuten darauf hin, dass regelmäßiger Teekonsum mit einem etwas geringeren Risiko für Herz-Kreislauf-Erkrankungen einhergeht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kräuter- und Früchtetee",
+      "absaetze": [
+        "Kräuter- und Früchtetees sind kalorienfrei und eine gute Alternative zu süßen Getränken. Sie zählen zu den empfohlenen Durstlöschern.",
+        "In manchen Kräutertees wurden Pflanzengifte gefunden, sogenannte Pyrrolizidinalkaloide. Sie stammen meist von Wildkräutern, die versehentlich mitgeerntet wurden. Das BfR rät deshalb zu Abwechslung bei Kräutertees."
+      ],
+      "merke": "Bei Kräutertees ist Abwechslung sinnvoll.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten kannst",
+      "absaetze": [
+        "Ungesüßter Tee ist eine gute Wahl. Zucker und Sirup machen aus ihm schnell ein süßes Getränk.",
+        "Sehr heiße Getränke können die Speiseröhre reizen. Lass deinen Tee lieber etwas abkühlen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was unterscheidet schwarzen von grünem Tee?",
+      "art": "mc",
+      "optionen": [
+        "Schwarzer Tee wird fermentiert",
+        "Sie stammen von verschiedenen Pflanzen",
+        "Grüner Tee enthält kein Wasser",
+        "Schwarzer Tee ist immer gesüßt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beide stammen von derselben Pflanze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was rät das BfR bei Kräutertees?",
+      "art": "mc",
+      "optionen": [
+        "Abwechslung",
+        "Nur eine Sorte trinken",
+        "Nur kalt trinken",
+        "Ganz darauf verzichten"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sinkt das Risiko durch einzelne belastete Sorten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ungesüßter Tee ist eine gute Alternative zu süßen Getränken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist kalorienfrei."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwarzer und grüner Tee stammen von derselben Pflanze.",
+        "Beobachtungsstudien deuten auf Vorteile fürs Herz hin.",
+        "Bei Kräutertees ist Abwechslung sinnvoll.",
+        "Ungesüßt und nicht zu heiß trinken."
+      ]
+    }
+  ]
+}

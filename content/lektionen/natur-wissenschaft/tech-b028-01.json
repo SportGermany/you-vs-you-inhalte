@@ -1,0 +1,108 @@
+{
+  "id": "tech-b028-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Brennstoffzelle?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasserstoff",
+      "herausgeber": "Bundesministerium für Wirtschaft und Energie",
+      "url": "https://www.bundeswirtschaftsministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "brennstoffzelle",
+    "wasserstoff",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Auto fährt elektrisch, aus dem Auspuff kommt nur Wasserdampf.",
+        "Möglich macht das eine Brennstoffzelle."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Strom ohne Flamme",
+      "absaetze": [
+        "In einer Brennstoffzelle reagieren Wasserstoff und Sauerstoff miteinander. Anders als bei einer Verbrennung entsteht dabei keine Flamme, sondern direkt elektrischer Strom.",
+        "Als Abfallprodukt entstehen nur Wasser und Wärme. Eine Membran in der Zelle trennt die beiden Gase und lässt nur bestimmte Teilchen hindurch."
+      ],
+      "merke": "Eine Brennstoffzelle wandelt Wasserstoff direkt in Strom um."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher der Wasserstoff kommt",
+      "absaetze": [
+        "Wasserstoff kommt in der Natur kaum frei vor. Er muss hergestellt werden, zum Beispiel durch Elektrolyse, also das Aufspalten von Wasser mit Strom.",
+        "Klimafreundlich ist das nur, wenn der Strom dafür aus erneuerbaren Quellen stammt. Man spricht dann von grünem Wasserstoff."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einsatz und Grenzen",
+      "absaetze": [
+        "Brennstoffzellen werden in Bussen, Lastwagen, Zügen und für Notstromversorgungen eingesetzt. Auch in der Raumfahrt lieferten sie früh Strom.",
+        "Bei der Herstellung, Speicherung und Umwandlung von Wasserstoff geht viel Energie verloren. Für Autos gelten Batterien deshalb meist als effizienter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht in einer Brennstoffzelle als Abfallprodukt?",
+      "art": "mc",
+      "optionen": [
+        "Wasser und Wärme",
+        "Ruß",
+        "Kohlendioxid in großen Mengen",
+        "Plastik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasserstoff und Sauerstoff werden zu Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gilt Wasserstoff als grün?",
+      "art": "mc",
+      "optionen": [
+        "Wenn er mit Strom aus erneuerbaren Quellen hergestellt wird",
+        "Wenn er grün gefärbt ist",
+        "Wenn er aus Kohle stammt",
+        "Immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur dann ist er klimafreundlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In einer Brennstoffzelle brennt eine Flamme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Reaktion läuft ohne Flamme ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Brennstoffzellen erzeugen aus Wasserstoff und Sauerstoff Strom.",
+        "Als Abfall entstehen nur Wasser und Wärme.",
+        "Grüner Wasserstoff stammt aus erneuerbarem Strom.",
+        "Bei der Umwandlung geht viel Energie verloren."
+      ]
+    }
+  ]
+}

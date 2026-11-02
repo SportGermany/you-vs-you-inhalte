@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b028-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was leistet die Bauchspeicheldrüse?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes und Bauchspeicheldrüse",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bauchspeicheldruese",
+    "pankreas",
+    "insulin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sie liegt versteckt hinter dem Magen und ist etwa so lang wie eine Hand.",
+        "Trotzdem ist die Bauchspeicheldrüse für Verdauung und Blutzucker unverzichtbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Aufgaben in einem Organ",
+      "absaetze": [
+        "Die Bauchspeicheldrüse, medizinisch Pankreas, bildet Verdauungssäfte. Sie enthalten Enzyme, die Fette, Eiweiße und Kohlenhydrate im Darm zerlegen.",
+        "Gleichzeitig bildet sie Hormone, die den Blutzucker steuern. Diese Zellen liegen in kleinen Gruppen, den Langerhans-Inseln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Insulin und Glukagon",
+      "absaetze": [
+        "Insulin senkt den Blutzucker, indem es Zucker in die Zellen bringt. Glukagon wirkt als Gegenspieler und hebt den Blutzucker, wenn er zu niedrig ist.",
+        "So hält der Körper den Blutzucker in einem engen Bereich. Bei Diabetes ist dieses Gleichgewicht gestört."
+      ],
+      "merke": "Insulin und Glukagon regeln gemeinsam den Blutzucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn sie krank wird",
+      "absaetze": [
+        "Eine Entzündung der Bauchspeicheldrüse verursacht oft starke Oberbauchschmerzen. Häufige Ursachen sind Gallensteine und Alkohol.",
+        "Bei solchen Beschwerden ist schnelle ärztliche Hilfe wichtig. Wenig Alkohol schützt die Bauchspeicheldrüse."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon senkt den Blutzucker?",
+      "art": "mc",
+      "optionen": [
+        "Insulin",
+        "Glukagon",
+        "Adrenalin",
+        "Melatonin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Insulin bringt Zucker in die Zellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bildet die Bauchspeicheldrüse außer Hormonen?",
+      "art": "mc",
+      "optionen": [
+        "Verdauungssäfte mit Enzymen",
+        "Blutzellen",
+        "Galle",
+        "Speichel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Enzyme zerlegen Nährstoffe im Darm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alkohol ist eine häufige Ursache für Entzündungen der Bauchspeicheldrüse.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Gallensteine sind häufig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Bauchspeicheldrüse bildet Verdauungsenzyme.",
+        "Sie bildet auch Insulin und Glukagon.",
+        "Beide Hormone regeln den Blutzucker.",
+        "Entzündungen verursachen oft starke Bauchschmerzen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

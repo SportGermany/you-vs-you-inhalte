@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b028-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist Sekundenschlaf?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Müdigkeit am Steuer",
+      "herausgeber": "Deutscher Verkehrssicherheitsrat (DVR)",
+      "url": "https://www.dvr.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sekundenschlaf",
+    "autofahren",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Autobahn fallen dir für einen Moment die Augen zu. Bei 100 Kilometern pro Stunde fährt das Auto in drei Sekunden über 80 Meter blind.",
+        "Sekundenschlaf ist eine unterschätzte Unfallursache."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dabei passiert",
+      "absaetze": [
+        "Beim Sekundenschlaf schaltet das Gehirn für einige Sekunden in den Schlaf. Betroffene bemerken das oft nicht.",
+        "Er tritt auf, wenn der Schlafdruck sehr hoch ist, etwa nach zu wenig Schlaf, langen Fahrten oder in der Nacht. Der Wille allein kann ihn nicht verhindern."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen",
+      "absaetze": [
+        "Häufiges Gähnen, schwere Augenlider und Frösteln sind Warnsignale. Auch Konzentrationsprobleme und das Gefühl, kurze Strecken nicht bewusst erlebt zu haben, gehören dazu.",
+        "Spätestens dann solltest du eine Pause machen. Lautes Radio oder ein offenes Fenster helfen nur sehr kurz."
+      ],
+      "merke": "Bei Warnzeichen hilft nur eine Pause.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich hilft",
+      "absaetze": [
+        "Der Deutsche Verkehrssicherheitsrat empfiehlt, ausgeschlafen loszufahren und regelmäßig Pausen einzulegen. Bei Müdigkeit hilft ein kurzer Schlaf von 10 bis 20 Minuten auf dem Parkplatz.",
+        "Wer häufig tagsüber müde ist, sollte ärztlich abklären lassen, ob eine Schlafstörung wie Schlafapnoe dahintersteckt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Warnsignal für drohenden Sekundenschlaf?",
+      "art": "mc",
+      "optionen": [
+        "Häufiges Gähnen und schwere Lider",
+        "Hunger",
+        "Gute Laune",
+        "Kalte Hände allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann solltest du eine Pause machen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Müdigkeit am Steuer wirklich?",
+      "art": "mc",
+      "optionen": [
+        "Eine Pause mit kurzem Schlaf",
+        "Lautes Radio",
+        "Schneller fahren",
+        "Ein offenes Fenster für Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Radio und Fenster helfen nur sehr kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit genug Willenskraft lässt sich Sekundenschlaf verhindern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei hohem Schlafdruck hilft nur Schlaf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Sekundenschlaf schläft das Gehirn für Sekunden ein.",
+        "Gähnen und schwere Lider sind Warnzeichen.",
+        "Radio und Fenster helfen nur kurz.",
+        "Eine Pause mit kurzem Schlaf hilft wirklich."
+      ]
+    }
+  ]
+}

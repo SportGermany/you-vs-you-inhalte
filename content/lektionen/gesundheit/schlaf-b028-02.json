@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b028-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum träumen wir?",
+  "minuten": 4,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "traeume",
+    "rem-schlaf",
+    "gehirn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jede Nacht erlebst du Geschichten, die oft seltsam und manchmal verstörend sind.",
+        "Warum macht das Gehirn so etwas?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Träume im Schlaf",
+      "absaetze": [
+        "Wir träumen in allen Schlafphasen, besonders lebhaft aber im REM-Schlaf. REM steht für schnelle Augenbewegungen, die in dieser Phase auftreten.",
+        "Die meisten Träume vergessen wir. An Träume, aus denen wir aufwachen, erinnern wir uns am ehesten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Erklärungen",
+      "absaetze": [
+        "Warum wir träumen, ist nicht abschließend geklärt. Eine Annahme lautet, dass Träume helfen, Erlebtes zu verarbeiten und Erinnerungen zu ordnen.",
+        "Eine andere Idee: Im Traum spielt das Gehirn bedrohliche Situationen durch, ähnlich wie ein Training. Studien deuten darauf hin, dass Träume auch bei der Verarbeitung von Gefühlen eine Rolle spielen."
+      ],
+      "merke": "Die Funktion von Träumen ist noch nicht abschließend geklärt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Traumdeutung",
+      "absaetze": [
+        "Bücher zur Traumdeutung versprechen, Symbole zu entschlüsseln. Dafür gibt es keine wissenschaftliche Grundlage.",
+        "Trotzdem können Träume Themen widerspiegeln, die dich gerade beschäftigen. Wiederkehrende Albträume, die den Schlaf stark stören, lassen sich behandeln."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Schlafphase träumen wir besonders lebhaft?",
+      "art": "mc",
+      "optionen": [
+        "Im REM-Schlaf",
+        "Nur im Wachzustand",
+        "Nie im Schlaf",
+        "Nur beim Einschlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "REM steht für schnelle Augenbewegungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Annahme zur Funktion von Träumen?",
+      "art": "mc",
+      "optionen": [
+        "Sie helfen beim Verarbeiten von Erlebtem",
+        "Sie sagen die Zukunft voraus",
+        "Sie verbrennen Fett",
+        "Sie haben keinen Bezug zum Leben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Funktion ist noch nicht abschließend geklärt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Traumdeutungsbücher haben eine solide wissenschaftliche Grundlage.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es keine Grundlage."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wir träumen besonders lebhaft im REM-Schlaf.",
+        "Die meisten Träume vergessen wir.",
+        "Träume helfen womöglich, Gefühle zu verarbeiten.",
+        "Traumdeutung nach Symbolen ist nicht belegt."
+      ]
+    }
+  ]
+}

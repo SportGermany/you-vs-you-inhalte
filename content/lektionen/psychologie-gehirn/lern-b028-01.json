@@ -1,0 +1,111 @@
+{
+  "id": "lern-b028-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Warum merkst du dir Anfang und Ende einer Liste besser?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "positionseffekt",
+    "gedaechtnis",
+    "listen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jemand liest dir eine Einkaufsliste mit 15 Dingen vor. Später erinnerst du dich vor allem an die ersten und die letzten.",
+        "Dieser Effekt ist gut erforscht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Positionseffekt",
+      "absaetze": [
+        "Fachleute nennen das den seriellen Positionseffekt. Seriell bedeutet in einer Reihe. Dinge am Anfang und am Ende einer Liste werden besser behalten als die in der Mitte.",
+        "Der Vorteil am Anfang heißt Primacy-Effekt, der am Ende Recency-Effekt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das so ist",
+      "absaetze": [
+        "Die ersten Begriffe bekommen mehr Aufmerksamkeit und werden öfter im Kopf wiederholt. So gelangen sie besser ins Langzeitgedächtnis.",
+        "Die letzten Begriffe sind dagegen noch frisch im Arbeitsgedächtnis. Die Mitte bekommt weder das eine noch das andere."
+      ],
+      "merke": "Die Mitte einer Liste geht am leichtesten verloren.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für das Lernen nutzen",
+      "absaetze": [
+        "Wechsle beim Lernen die Reihenfolge der Inhalte. So landet nicht immer derselbe Stoff in der schwachen Mitte.",
+        "Mache außerdem mehrere kurze Lerneinheiten statt einer langen. Jede Einheit hat dann einen eigenen Anfang und ein eigenes Ende."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Teile einer Liste werden besser behalten?",
+      "art": "mc",
+      "optionen": [
+        "Anfang und Ende",
+        "Nur die Mitte",
+        "Alle gleich gut",
+        "Nur das dritte Wort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist der serielle Positionseffekt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Vorteil am Anfang einer Liste?",
+      "art": "mc",
+      "optionen": [
+        "Primacy-Effekt",
+        "Recency-Effekt",
+        "Placebo-Effekt",
+        "Dominoeffekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Recency bezeichnet den Vorteil am Ende."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Reihenfolge des Lernstoffs zu wechseln, kann helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So landet nicht immer derselbe Stoff in der Mitte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Anfang und Ende einer Liste werden besser behalten.",
+        "Am Anfang hilft mehr Aufmerksamkeit, am Ende das Arbeitsgedächtnis.",
+        "Die Mitte geht am leichtesten verloren.",
+        "Reihenfolge wechseln und kurze Einheiten helfen."
+      ]
+    }
+  ]
+}

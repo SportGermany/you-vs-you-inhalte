@@ -1,0 +1,114 @@
+{
+  "id": "haus-b028-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie sparst du beim Kochen Energie?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energie sparen und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kochen",
+    "energie",
+    "strom"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Herd und Backofen gehören zu den größeren Stromverbrauchern im Haushalt.",
+        "Mit ein paar Kniffen kochst du genauso gut und sparsamer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Deckel drauf",
+      "absaetze": [
+        "Ein Topf ohne Deckel braucht deutlich mehr Energie, weil viel Wärme entweicht. Mit Deckel kocht das Wasser schneller.",
+        "Der Topf sollte zur Größe der Herdplatte passen. Ist er kleiner, geht Wärme ungenutzt verloren."
+      ],
+      "merke": "Ein Deckel spart viel Energie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser clever erhitzen",
+      "absaetze": [
+        "Ein Wasserkocher erhitzt Wasser meist schneller und sparsamer als ein Elektroherd. Bring vorgewärmtes Wasser aus dem Wasserkocher in den Topf.",
+        "Nutze nur so viel Wasser wie nötig. Kartoffeln und Gemüse garen auch mit wenig Wasser gut, wenn der Deckel drauf ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Backofen und Restwärme",
+      "absaetze": [
+        "Beim Backofen kannst du oft auf das Vorheizen verzichten. Umluft arbeitet meist mit niedrigerer Temperatur als Ober- und Unterhitze.",
+        "Schalte Herd und Ofen einige Minuten vor Ende der Garzeit aus. Die Restwärme reicht oft zum Fertiggaren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was spart beim Kochen auf dem Herd viel Energie?",
+      "art": "mc",
+      "optionen": [
+        "Ein Deckel auf dem Topf",
+        "Ein möglichst großer Topf auf kleiner Platte",
+        "Viel Wasser",
+        "Den Herd länger anlassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit Deckel entweicht weniger Wärme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit lässt sich Wasser meist sparsamer erhitzen?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Wasserkocher",
+        "Mit dem Backofen",
+        "Mit dem Föhn",
+        "Mit dem Toaster"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er erhitzt schneller und sparsamer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Backofen ist Vorheizen fast immer nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft kannst du darauf verzichten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Deckel auf den Topf spart viel Energie.",
+        "Topf und Platte sollten zusammenpassen.",
+        "Der Wasserkocher erhitzt sparsamer.",
+        "Restwärme nutzen und aufs Vorheizen oft verzichten."
+      ]
+    }
+  ]
+}

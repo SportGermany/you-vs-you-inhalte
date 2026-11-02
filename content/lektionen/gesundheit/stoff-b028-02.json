@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b028-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist eine Fruktoseunverträglichkeit?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fruktose",
+    "fruchtzucker",
+    "verdauung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Apfel oder einem Glas Saft rumort der Bauch. Manche vermuten dann eine Fruktoseunverträglichkeit.",
+        "Dahinter können zwei ganz verschiedene Dinge stecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die häufige Form",
+      "absaetze": [
+        "Bei der Fruktosemalabsorption nimmt der Dünndarm Fruchtzucker nur eingeschränkt auf. Der Rest gelangt in den Dickdarm und wird dort von Bakterien vergoren.",
+        "Das kann Blähungen, Bauchschmerzen und Durchfall auslösen. Die Form ist relativ häufig und nicht gefährlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die seltene Form",
+      "absaetze": [
+        "Die hereditäre Fruktoseintoleranz ist eine seltene angeborene Stoffwechselstörung. Hereditär heißt erblich.",
+        "Dabei kann der Körper Fruchtzucker nicht abbauen. Schon kleine Mengen können zu schweren Unterzuckerungen und Leberschäden führen. Sie wird meist im Säuglingsalter erkannt."
+      ],
+      "merke": "Die erbliche Form ist selten, aber ernst.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Bei der häufigen Form reicht oft eine Ernährungsumstellung mit weniger Fruchtzucker. Viele vertragen kleine Mengen gut, besonders zu einer Mahlzeit.",
+        "Die Diagnose sollte ärztlich gestellt werden, meist mit einem Atemtest. Eine Ernährungsberatung hilft, die eigene Verträglichkeit herauszufinden, ohne unnötig zu verzichten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei der Fruktosemalabsorption?",
+      "art": "mc",
+      "optionen": [
+        "Der Dünndarm nimmt Fruchtzucker nur eingeschränkt auf",
+        "Die Leber bildet zu viel Fruchtzucker",
+        "Fruchtzucker wird zu Eiweiß",
+        "Die Zähne zerfallen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Rest wird im Dickdarm vergoren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird die Diagnose meist gestellt?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Atemtest",
+        "Mit einem Röntgenbild",
+        "Mit einem Sehtest",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Atemtest zeigt Gärgase."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die erbliche Fruktoseintoleranz ist harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie kann schwere Folgen haben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Fruktosemalabsorption ist häufig und ungefährlich.",
+        "Die erbliche Fruktoseintoleranz ist selten und ernst.",
+        "Kleine Mengen werden oft vertragen.",
+        "Die Diagnose stellt eine Ärztin oder ein Arzt.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
