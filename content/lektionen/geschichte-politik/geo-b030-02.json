@@ -1,0 +1,114 @@
+{
+  "id": "geo-b030-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Wem gehört die Antarktis?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Antarktis",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Länder und Regionen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "antarktis",
+    "antarktisvertrag",
+    "forschung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Antarktis ist größer als Europa und fast vollständig von Eis bedeckt.",
+        "Kein Staat darf dort einfach Grenzen ziehen oder Rohstoffe abbauen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Antarktis-Vertrag",
+      "absaetze": [
+        "1959 unterzeichneten zwölf Staaten den Antarktis-Vertrag. Er trat 1961 in Kraft. Inzwischen sind über 50 Staaten beigetreten, darunter Deutschland.",
+        "Der Vertrag legt fest, dass die Antarktis nur friedlich genutzt werden darf. Militärische Stützpunkte, Waffentests und Atommüll sind verboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eingefrorene Ansprüche",
+      "absaetze": [
+        "Sieben Staaten erheben Gebietsansprüche, etwa Norwegen, Australien und Argentinien. Manche dieser Ansprüche überschneiden sich.",
+        "Der Vertrag friert diese Ansprüche ein. Sie werden weder anerkannt noch aufgegeben. So wurde ein möglicher Konflikt entschärft."
+      ],
+      "merke": "Der Antarktis-Vertrag friert Gebietsansprüche ein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kontinent für die Wissenschaft",
+      "absaetze": [
+        "Forschung steht im Mittelpunkt. Staaten betreiben dort Stationen, Deutschland etwa die Neumayer-Station III.",
+        "Ein Umweltschutzprotokoll von 1991 verbietet den Abbau von Bodenschätzen. Mit dem Klimawandel und dem wachsenden Rohstoffhunger könnte das Interesse an der Antarktis aber zunehmen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde der Antarktis-Vertrag unterzeichnet?",
+      "art": "mc",
+      "optionen": [
+        "1959",
+        "1918",
+        "1990",
+        "2015"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er trat 1961 in Kraft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbietet der Antarktis-Vertrag?",
+      "art": "mc",
+      "optionen": [
+        "Militärische Stützpunkte und Waffentests",
+        "Wissenschaftliche Forschung",
+        "Tourismus vollständig",
+        "Den Bau von Forschungsstationen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Antarktis darf nur friedlich genutzt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Abbau von Bodenschätzen ist in der Antarktis derzeit erlaubt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Umweltschutzprotokoll verbietet ihn."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Antarktis-Vertrag von 1959 sichert friedliche Nutzung.",
+        "Gebietsansprüche von sieben Staaten sind eingefroren.",
+        "Forschung steht im Mittelpunkt.",
+        "Der Abbau von Bodenschätzen ist verboten."
+      ]
+    }
+  ]
+}

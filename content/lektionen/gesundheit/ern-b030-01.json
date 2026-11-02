@@ -1,0 +1,118 @@
+{
+  "id": "ern-b030-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Himalaya-Salz gesünder als normales Speisesalz?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Jod, Salz und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "salz",
+    "jodsalz",
+    "himalaya"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rosa Kristalle aus den Bergen, grobes Meersalz, Fleur de Sel. Spezialsalze sind teuer und gelten als besonders gesund.",
+        "Stimmt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Salz bleibt Salz",
+      "absaetze": [
+        "Alle Speisesalze bestehen zum allergrößten Teil aus Natriumchlorid. Die zusätzlichen Mineralstoffe in Spezialsalzen sind so gering, dass sie bei üblichen Mengen kaum eine Rolle spielen.",
+        "Das sogenannte Himalaya-Salz stammt übrigens meist aus Pakistan, nicht aus dem Hochgebirge. Die rosa Farbe kommt von Spuren von Eisenoxid."
+      ],
+      "merke": "Spezialsalze bringen keinen gesundheitlichen Vorteil.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Vorteil von Jodsalz",
+      "absaetze": [
+        "Deutschland ist ein Jodmangelgebiet. Jod ist wichtig für die Schilddrüse.",
+        "Jodsalz hilft, die Versorgung zu verbessern. Viele Spezialsalze enthalten dagegen kein zugesetztes Jod. Deshalb empfehlen Fachleute Jodsalz, am besten mit Fluorid."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger ist mehr",
+      "absaetze": [
+        "Wichtiger als die Sorte ist die Menge. Die meisten Menschen in Deutschland essen mehr Salz als empfohlen.",
+        "Viel Salz steckt in Brot, Wurst, Käse und Fertiggerichten. Kräuter und Gewürze helfen, beim Kochen weniger zu salzen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Speisesalz zum allergrößten Teil?",
+      "art": "mc",
+      "optionen": [
+        "Natriumchlorid",
+        "Zucker",
+        "Eisen",
+        "Kalzium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt für alle Salzsorten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Salz empfehlen Fachleute?",
+      "art": "mc",
+      "optionen": [
+        "Jodsalz",
+        "Nur Himalaya-Salz",
+        "Gar kein Salz",
+        "Nur Meersalz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jodsalz verbessert die Jodversorgung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Himalaya-Salz liefert wichtige Mengen an Mineralstoffen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Mengen sind bei üblichem Gebrauch zu gering."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alle Speisesalze bestehen fast nur aus Natriumchlorid.",
+        "Spezialsalze bringen keinen gesundheitlichen Vorteil.",
+        "Jodsalz verbessert die Jodversorgung.",
+        "Wichtiger als die Sorte ist eine geringere Menge."
+      ]
+    }
+  ]
+}

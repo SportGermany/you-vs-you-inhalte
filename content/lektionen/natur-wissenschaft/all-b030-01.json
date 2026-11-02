@@ -1,0 +1,114 @@
+{
+  "id": "all-b030-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was sind Asteroiden?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Planetary Defence",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Asteroids",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "asteroiden",
+    "planetenabwehr",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwischen Mars und Jupiter kreisen unzählige Gesteinsbrocken um die Sonne.",
+        "Manche kommen der Erde gefährlich nahe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bausteine aus der Frühzeit",
+      "absaetze": [
+        "Asteroiden sind Gesteins- oder Metallkörper, die um die Sonne kreisen. Sie sind Überreste aus der Entstehungszeit des Sonnensystems vor rund 4,6 Milliarden Jahren.",
+        "Die meisten befinden sich im Asteroidengürtel zwischen Mars und Jupiter. Ihre Größe reicht von wenigen Metern bis zu Hunderten Kilometern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr aus dem All",
+      "absaetze": [
+        "Einige Asteroiden kreuzen die Erdbahn. Vor rund 66 Millionen Jahren schlug ein großer Asteroid auf der Erde ein. Er trug vermutlich zum Aussterben der Dinosaurier bei.",
+        "Raumfahrtagenturen beobachten deshalb erdnahe Objekte genau. Für die bekannten großen Asteroiden besteht in den nächsten Jahrzehnten keine ernste Gefahr."
+      ],
+      "merke": "Erdnahe Asteroiden werden genau beobachtet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Test zur Abwehr",
+      "absaetze": [
+        "2022 lenkte die NASA-Sonde DART den kleinen Asteroiden Dimorphos ab, indem sie gezielt auf ihn prallte. Dabei änderte sich seine Umlaufbahn messbar.",
+        "Die ESA-Mission Hera soll die Folgen genauer untersuchen. Ziel ist, im Ernstfall einen gefährlichen Asteroiden ablenken zu können."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo befinden sich die meisten Asteroiden?",
+      "art": "mc",
+      "optionen": [
+        "Zwischen Mars und Jupiter",
+        "Zwischen Erde und Mond",
+        "Hinter Neptun",
+        "In der Sonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort liegt der Asteroidengürtel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was testete die Mission DART 2022?",
+      "art": "mc",
+      "optionen": [
+        "Die Ablenkung eines Asteroiden",
+        "Eine Landung auf dem Mars",
+        "Den Bau einer Raumstation",
+        "Die Sprengung eines Kometen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Sonde prallte gezielt auf Dimorphos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Asteroiden sind Überreste aus der Entstehungszeit des Sonnensystems.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind rund 4,6 Milliarden Jahre alt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Asteroiden sind Gesteins- und Metallkörper.",
+        "Die meisten kreisen zwischen Mars und Jupiter.",
+        "Erdnahe Asteroiden werden genau beobachtet.",
+        "DART zeigte 2022, dass Ablenkung möglich ist."
+      ]
+    }
+  ]
+}

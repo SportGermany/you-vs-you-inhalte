@@ -1,0 +1,108 @@
+{
+  "id": "tech-b030-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie macht ein Lautsprecher Töne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Akustik",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lautsprecher",
+    "schall",
+    "magnet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob Smartphone, Kopfhörer oder Konzertanlage: Überall verwandeln Lautsprecher elektrische Signale in Klang.",
+        "Das Prinzip ist erstaunlich einfach."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schall ist Bewegung",
+      "absaetze": [
+        "Schall entsteht, wenn etwas die Luft in Schwingung versetzt. Die Luftteilchen werden abwechselnd zusammengedrückt und auseinandergezogen. Diese Druckwellen erreichen unser Ohr.",
+        "Je schneller die Schwingung, desto höher der Ton. Je stärker sie ist, desto lauter klingt er."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Magnet und Spule",
+      "absaetze": [
+        "In einem Lautsprecher sitzt eine Drahtspule an einer Membran, oft einer Art Trichter aus Papier oder Kunststoff. Die Spule befindet sich im Feld eines Dauermagneten.",
+        "Fließt das elektrische Audiosignal durch die Spule, wird sie mal angezogen, mal abgestoßen. Die Membran bewegt sich mit und erzeugt so Schallwellen."
+      ],
+      "merke": "Spule und Magnet bringen die Membran zum Schwingen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Groß und klein",
+      "absaetze": [
+        "Tiefe Töne brauchen große Membranen, die viel Luft bewegen. Deshalb sind Basslautsprecher groß.",
+        "Hohe Töne gelingen besser mit kleinen, leichten Membranen. Viele Boxen kombinieren daher mehrere Lautsprecher für verschiedene Tonbereiche."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht Schall?",
+      "art": "mc",
+      "optionen": [
+        "Durch Schwingungen, die Druckwellen in der Luft erzeugen",
+        "Durch Licht",
+        "Durch Wärme allein",
+        "Durch Magnetismus ohne Bewegung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Druckwellen erreichen unser Ohr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewegt die Membran im Lautsprecher?",
+      "art": "mc",
+      "optionen": [
+        "Eine Spule im Feld eines Magneten",
+        "Ein kleiner Motor mit Zahnrädern",
+        "Luftdruck aus einer Pumpe",
+        "Ein Ventilator"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Audiosignal lässt die Spule schwingen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tiefe Töne gelingen besser mit großen Membranen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie bewegen viel Luft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schall ist Schwingung der Luft.",
+        "Eine Spule an einer Membran schwingt im Magnetfeld.",
+        "Die Membran erzeugt so Schallwellen.",
+        "Große Membranen für Bass, kleine für Höhen."
+      ]
+    }
+  ]
+}

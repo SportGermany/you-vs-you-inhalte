@@ -1,0 +1,108 @@
+{
+  "id": "geld-b030-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist der Durchschnittskosteneffekt?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sparplan",
+    "durchschnittskosten",
+    "etf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit einem Sparplan kaufst du jeden Monat für den gleichen Betrag Fondsanteile. Oft wird dabei ein besonderer Vorteil versprochen.",
+        "Was ist dran?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee",
+      "absaetze": [
+        "Wenn die Kurse niedrig sind, bekommst du für deinen festen Betrag mehr Anteile. Sind sie hoch, bekommst du weniger.",
+        "Im Durchschnitt zahlst du dadurch pro Anteil etwas weniger als der durchschnittliche Kurs. Das nennt man Durchschnittskosteneffekt, englisch Cost-Average-Effekt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Zaubertrick",
+      "absaetze": [
+        "Der Effekt wird oft überschätzt. Er sichert keinen Gewinn und schützt nicht vor Verlusten, wenn die Kurse dauerhaft fallen.",
+        "Wer einen größeren Betrag auf einmal hat, liegt bei steigenden Märkten statistisch oft besser, wenn er ihn direkt anlegt. Der Sparplan verteilt dafür das Risiko eines ungünstigen Einstiegszeitpunkts."
+      ],
+      "merke": "Ein Sparplan glättet den Einstieg, sichert aber keinen Gewinn."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der eigentliche Vorteil",
+      "absaetze": [
+        "Der größte Nutzen eines Sparplans ist praktisch. Du sparst regelmäßig, ohne über den richtigen Zeitpunkt nachzudenken.",
+        "Das verhindert, dass Gefühle wie Angst oder Gier die Entscheidung bestimmen. Wichtig sind niedrige Kosten und ein langer Anlagehorizont."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei niedrigen Kursen mit einem festen Sparbetrag?",
+      "art": "mc",
+      "optionen": [
+        "Du bekommst mehr Anteile",
+        "Du bekommst weniger Anteile",
+        "Du bekommst gar keine Anteile",
+        "Der Betrag wird erstattet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der feste Betrag kauft dann mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der größte praktische Vorteil eines Sparplans?",
+      "art": "mc",
+      "optionen": [
+        "Regelmäßiges Sparen ohne Zeitpunkt-Grübeln",
+        "Ein garantierter Gewinn",
+        "Kein Risiko",
+        "Steuerfreiheit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gefühle bestimmen weniger die Entscheidung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Durchschnittskosteneffekt schützt vor Verlusten bei dauerhaft fallenden Kursen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Davor schützt er nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein fester Betrag kauft bei niedrigen Kursen mehr Anteile.",
+        "Der Effekt wird oft überschätzt.",
+        "Er sichert keinen Gewinn.",
+        "Der Hauptvorteil ist regelmäßiges, gelassenes Sparen."
+      ]
+    }
+  ]
+}

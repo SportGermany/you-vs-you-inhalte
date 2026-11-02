@@ -1,0 +1,112 @@
+{
+  "id": "ern-b030-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Avocados?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "avocado",
+    "fette",
+    "umwelt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Avocado-Toast, Guacamole, Bowls: Die grüne Frucht ist zum Trendlebensmittel geworden.",
+        "Was steckt drin, und wie sieht ihre Umweltbilanz aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fett, aber das gute",
+      "absaetze": [
+        "Avocados enthalten viel Fett, vor allem einfach ungesättigte Fettsäuren. Diese gelten als günstig für die Blutfettwerte.",
+        "Dazu kommen Ballaststoffe, Kalium und Vitamin E. Wegen des hohen Fettgehalts liefern Avocados aber auch viel Energie."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Platz in der Ernährung",
+      "absaetze": [
+        "Studien deuten darauf hin, dass der Ersatz von Butter oder Wurst durch Avocado die Blutfette verbessern kann. Ein Allheilmittel ist sie trotzdem nicht.",
+        "Rapsöl, Nüsse und Leinsamen liefern ebenfalls wertvolle Fette und stammen oft aus der Region."
+      ],
+      "merke": "Avocado kann andere Fette sinnvoll ersetzen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Umweltseite",
+      "absaetze": [
+        "Avocados wachsen oft in trockenen Regionen und brauchen viel Wasser. In manchen Anbaugebieten führt das zu Konflikten um Wasser.",
+        "Dazu kommen lange Transportwege. Gelegentlich genossen ist die Avocado eine Bereicherung, als täglicher Fettlieferant gibt es regionale Alternativen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäuren enthalten Avocados vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Einfach ungesättigte Fettsäuren",
+        "Transfette",
+        "Gar keine Fette",
+        "Nur gesättigte Fettsäuren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese gelten als günstig für die Blutfette."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Umweltproblem beim Avocado-Anbau?",
+      "art": "mc",
+      "optionen": [
+        "Hoher Wasserbedarf in trockenen Regionen",
+        "Zu viel Regen",
+        "Kein Transport nötig",
+        "Avocados wachsen nur in Deutschland"
+      ],
+      "richtig": 0,
+      "erklaerung": "In manchen Regionen gibt es Konflikte um Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rapsöl und Nüsse liefern ebenfalls wertvolle Fette.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind oft regionale Alternativen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Avocados enthalten viele einfach ungesättigte Fettsäuren.",
+        "Sie können ungünstige Fette ersetzen.",
+        "Ihr Anbau braucht oft viel Wasser.",
+        "Rapsöl und Nüsse sind regionale Alternativen."
+      ]
+    }
+  ]
+}
