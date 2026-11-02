@@ -1,0 +1,116 @@
+{
+  "id": "supp-b015-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bringt Coenzym Q10?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Food additives and supplements",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "q10",
+    "energie",
+    "statine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Q10 steckt in Cremes gegen Falten und in Kapseln für mehr Energie.",
+        "Was ist das für ein Stoff, und braucht der Körper ihn von außen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein körpereigener Stoff",
+      "absaetze": [
+        "Coenzym Q10 ist ein Stoff, den der Körper selbst herstellt. Er spielt in den Kraftwerken der Zellen eine Rolle bei der Energiegewinnung.",
+        "Kleinere Mengen nehmen wir auch über die Nahrung auf, etwa über Fleisch, Fisch und Nüsse. Ein Mangel ist bei gesunden Menschen nicht bekannt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Für gesunde Menschen ist ein Nutzen von Q10-Präparaten nicht belegt. Die EFSA hat gesundheitsbezogene Aussagen, etwa zu Energie, abgelehnt.",
+        "Manche Menschen, die cholesterinsenkende Statine nehmen, haben Muskelbeschwerden. Statine senken auch den Q10-Spiegel. Ob Q10 diese Beschwerden lindert, ist in Studien uneinheitlich."
+      ],
+      "merke": "Bei Gesunden ist ein Nutzen von Q10-Präparaten nicht belegt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Q10 kann die Wirkung gerinnungshemmender Medikamente wie Warfarin abschwächen.",
+        "Wer Medikamente nimmt, etwa Statine oder Blutverdünner, sollte eine Einnahme vorher mit der Ärztin oder dem Arzt besprechen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kann der Körper Coenzym Q10 selbst herstellen?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er stellt es selbst her."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei spielt Q10 in den Zellen eine Rolle?",
+      "art": "mc",
+      "optionen": [
+        "Bei der Energiegewinnung",
+        "Bei der Bildung von Haaren",
+        "Bei der Verdauung von Ballaststoffen",
+        "Beim Sehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Q10 ist an der Energiegewinnung beteiligt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hat die EFSA Gesundheitsaussagen zu Q10 bewertet?",
+      "art": "mc",
+      "optionen": [
+        "Sie hat sie abgelehnt",
+        "Sie hat alle zugelassen",
+        "Sie hat Q10 verboten",
+        "Sie hat sich nie geäußert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Belege reichten nicht aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Coenzym Q10 stellt der Körper selbst her.",
+        "Für Gesunde ist ein Nutzen von Präparaten nicht belegt.",
+        "Bei Statin-Beschwerden sind die Studien uneinheitlich."
+      ]
+    }
+  ]
+}

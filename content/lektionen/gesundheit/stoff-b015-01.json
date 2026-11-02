@@ -1,0 +1,118 @@
+{
+  "id": "stoff-b015-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert im Körper beim Fasten?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fact sheets",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fasten",
+    "ketose",
+    "glykogen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seit dem Frühstück gestern hast du nichts gegessen. Dein Magen knurrt, aber dein Körper hat längst umgeschaltet.",
+        "Was passiert, wenn längere Zeit keine Nahrung kommt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zuerst die Zuckerspeicher",
+      "absaetze": [
+        "Nach einer Mahlzeit nutzt der Körper zunächst die Energie aus dem Essen. Danach greift er auf seine Zuckerspeicher in Leber und Muskeln zurück, das Glykogen.",
+        "Die Speicher in der Leber reichen etwa einen Tag. Gleichzeitig steigt der Anteil an Energie, der aus Fett gewonnen wird."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Umstellung auf Fett",
+      "absaetze": [
+        "Wenn die Zuckerspeicher weitgehend leer sind, baut der Körper verstärkt Fett ab. Die Leber bildet dann Ketonkörper, die auch das Gehirn als Energie nutzen kann. Dieser Zustand heißt Ketose.",
+        "Der Körper kann so längere Zeit ohne Nahrung auskommen. Ein Teil der Energie stammt bei längerem Fasten aber auch aus dem Abbau von Eiweiß, also Muskeln."
+      ],
+      "merke": "Nach etwa einem Tag ohne Essen stellt sich der Körper stärker auf Fett um.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was über Vorteile bekannt ist",
+      "absaetze": [
+        "Beim Fasten wird oft die Autophagie erwähnt, eine Art Selbstreinigung der Zellen. Sie ist gut erforscht, die meisten Daten zum Fasten stammen aber aus Tierversuchen.",
+        "Ob längeres Fasten beim Menschen über die Gewichtsabnahme hinaus besondere gesundheitliche Vorteile bringt, ist noch nicht ausreichend belegt. Längeres Fasten sollte nur gesund und am besten ärztlich begleitet erfolgen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die Zuckerspeicher in Leber und Muskeln?",
+      "art": "mc",
+      "optionen": [
+        "Glykogen",
+        "Cholesterin",
+        "Insulin",
+        "Kollagen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Glykogen ist die Speicherform von Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man den Zustand, in dem die Leber Ketonkörper bildet?",
+      "art": "mc",
+      "optionen": [
+        "Ketose",
+        "Diabetes",
+        "Fieber",
+        "Dehydrierung"
+      ],
+      "richtig": 0,
+      "erklaerung": "In der Ketose nutzt der Körper vermehrt Fett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Vorteile längeren Fastens für Menschen sind abschließend belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Viele Daten stammen aus Tierversuchen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Fasten leert der Körper zuerst seine Zuckerspeicher.",
+        "Danach stellt er sich stärker auf Fett und Ketonkörper um.",
+        "Besondere Vorteile über die Gewichtsabnahme hinaus sind beim Menschen nicht ausreichend belegt.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

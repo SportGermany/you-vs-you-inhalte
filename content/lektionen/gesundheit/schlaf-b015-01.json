@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b015-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist eine Schlafparalyse?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafparalyse",
+    "rem",
+    "traeume"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du wachst nachts auf und kannst dich nicht bewegen. Im Zimmer scheint jemand zu stehen.",
+        "Nach einigen Sekunden ist alles vorbei. Was war das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wach, aber gelähmt",
+      "absaetze": [
+        "Im REM-Schlaf, der Traumphase, ist die Muskulatur weitgehend gelähmt. So setzt der Körper Träume nicht in Bewegung um.",
+        "Bei einer Schlafparalyse wird das Bewusstsein wach, bevor diese Lähmung endet. Man ist wach, kann sich aber für Sekunden bis wenige Minuten nicht bewegen und nicht sprechen."
+      ],
+      "merke": "Bei einer Schlafparalyse ist der Geist wach, der Körper noch im Traummodus.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unheimliche Eindrücke",
+      "absaetze": [
+        "Viele erleben dabei Sinnestäuschungen. Sie sehen Gestalten, hören Geräusche oder spüren einen Druck auf der Brust. Das kommt von Traumbildern, die in den Wachzustand hineinreichen.",
+        "Solche Erlebnisse haben wohl zu vielen Sagen über nächtliche Geister und Dämonen beigetragen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Harmlos, aber beängstigend",
+      "absaetze": [
+        "Eine gelegentliche Schlafparalyse ist harmlos und kommt bei vielen Menschen irgendwann vor. Schlafmangel, Stress und ein unregelmäßiger Schlafrhythmus machen sie wahrscheinlicher.",
+        "Ruhig zu bleiben und zu wissen, dass es gleich vorbei ist, hilft vielen. Bei häufigen Episoden oder starker Tagesmüdigkeit ist ärztlicher Rat sinnvoll, da selten eine Erkrankung wie Narkolepsie dahinterstecken kann."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann man sich bei einer Schlafparalyse nicht bewegen?",
+      "art": "mc",
+      "optionen": [
+        "Weil die Muskellähmung des REM-Schlafs noch anhält",
+        "Weil die Beine eingeschlafen sind",
+        "Weil man zu kalt ist",
+        "Weil man zu viel gegessen hat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Bewusstsein ist wach, der Körper noch im REM-Modus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was begünstigt eine Schlafparalyse?",
+      "art": "mc",
+      "optionen": [
+        "Schlafmangel und Stress",
+        "Regelmäßige Schlafzeiten",
+        "Ein ruhiges Zimmer",
+        "Viel Tageslicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unregelmäßiger, zu kurzer Schlaf erhöht die Wahrscheinlichkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine gelegentliche Schlafparalyse ist gefährlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist beängstigend, aber harmlos."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Schlafparalyse ist der Geist wach, der Körper noch gelähmt.",
+        "Sinnestäuschungen sind häufig und kommen aus dem Traum.",
+        "Gelegentlich ist sie harmlos, bei Häufung ärztlich abklären."
+      ]
+    }
+  ]
+}

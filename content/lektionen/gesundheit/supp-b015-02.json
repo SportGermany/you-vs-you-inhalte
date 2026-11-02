@@ -1,0 +1,116 @@
+{
+  "id": "supp-b015-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft Kurkuma gegen Entzündungen?",
+  "minuten": 4,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Food additives and supplements",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kurkuma",
+    "curcumin",
+    "entzuendung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Goldene Milch, Kurkuma-Shots, Kapseln mit Curcumin. Das gelbe Gewürz gilt als natürliches Mittel gegen Entzündungen.",
+        "Was ist davon zu halten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewürz und Wirkstoff",
+      "absaetze": [
+        "Kurkuma ist ein Gewürz aus der Wurzel einer Ingwerpflanze. Es gibt Currys ihre gelbe Farbe. Ein wichtiger Inhaltsstoff ist Curcumin.",
+        "Im Labor zeigt Curcumin entzündungshemmende Eigenschaften. Der Körper nimmt es aber nur in sehr geringen Mengen auf und baut es schnell ab."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien beim Menschen zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten auf eine leichte Linderung von Gelenkbeschwerden hin. Viele Studien sind aber klein, kurz und von unterschiedlicher Qualität.",
+        "Für einen klaren gesundheitlichen Nutzen von Curcumin-Präparaten fehlen aussagekräftige Belege. Als Gewürz in üblichen Mengen ist Kurkuma unbedenklich."
+      ],
+      "merke": "Als Gewürz unbedenklich, als hochdosiertes Präparat unklar.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei hochdosierten Curcumin-Präparaten, vor allem in Kombination mit Piperin aus Pfeffer zur besseren Aufnahme, wurden Fälle von Leberschäden berichtet.",
+        "Curcumin kann mit Blutverdünnern und anderen Medikamenten wechselwirken. Bei Gallensteinen, in Schwangerschaft und Stillzeit ist Vorsicht geboten. Sprich vorher mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Inhaltsstoff von Kurkuma wird oft untersucht?",
+      "art": "mc",
+      "optionen": [
+        "Curcumin",
+        "Koffein",
+        "Kalzium",
+        "Capsaicin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Curcumin ist der bekannteste Inhaltsstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist die Wirkung von Curcumin im Körper schwierig?",
+      "art": "mc",
+      "optionen": [
+        "Es wird nur schlecht aufgenommen und schnell abgebaut",
+        "Es ist zu salzig",
+        "Es löst sich nicht in Wasser und Fett auf",
+        "Es verdampft beim Essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Aufnahme ist sehr gering."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kurkuma als Gewürz in üblichen Mengen gilt als unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Fragen betreffen vor allem hochdosierte Präparate."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kurkuma ist ein Gewürz mit dem Inhaltsstoff Curcumin.",
+        "Ein klarer Nutzen von Präparaten ist nicht belegt.",
+        "Hochdosierte Präparate können Risiken haben."
+      ]
+    }
+  ]
+}

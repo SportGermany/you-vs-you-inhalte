@@ -1,0 +1,111 @@
+{
+  "id": "ern-b015-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist vegetarische und vegane Ernährung?",
+  "minuten": 5,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vegetarisch",
+    "vegan",
+    "pflanzlich"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Immer mehr Menschen in Deutschland essen wenig oder gar kein Fleisch. Manche verzichten auf alle tierischen Produkte.",
+        "Ist das gesund, oder fehlt dann etwas?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Pflanzen, gute Bilanz",
+      "absaetze": [
+        "Die DGE empfiehlt seit 2024 eine Ernährung, die zu mehr als drei Vierteln aus pflanzlichen Lebensmitteln besteht. Eine gut geplante vegetarische Ernährung gilt für Erwachsene als gesundheitsfördernd.",
+        "Studien verbinden pflanzenbetonte Ernährung mit einem geringeren Risiko für Herz-Kreislauf-Erkrankungen, Typ-2-Diabetes und Übergewicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vegan braucht Planung",
+      "absaetze": [
+        "Bei veganer Ernährung fehlt Vitamin B12 praktisch vollständig. Ein B12-Präparat ist hier unverzichtbar. Auch Jod, Eisen, Zink, Kalzium, Omega-3-Fettsäuren und Eiweiß verdienen Aufmerksamkeit.",
+        "Die DGE hält eine vegane Ernährung für gesunde Erwachsene für möglich, wenn sie gut geplant ist und B12 ergänzt wird."
+      ],
+      "merke": "Wer vegan lebt, braucht ein Vitamin-B12-Präparat.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besondere Lebensphasen",
+      "absaetze": [
+        "Für Schwangere, Stillende, Kinder und Jugendliche ist eine vegane Ernährung anspruchsvoller. Hier ist eine fachkundige Beratung wichtig, damit keine Nährstoffe fehlen.",
+        "Vegetarisch oder vegan heißt nicht automatisch gesund. Auch Pommes und Gummibärchen sind pflanzlich. Entscheidend ist die Auswahl."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin muss bei veganer Ernährung ergänzt werden?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin E",
+        "Vitamin K1"
+      ],
+      "richtig": 0,
+      "erklaerung": "B12 kommt praktisch nur in tierischen Lebensmitteln vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Anteil pflanzlicher Lebensmittel empfiehlt die DGE seit 2024?",
+      "art": "mc",
+      "optionen": [
+        "Mehr als drei Viertel",
+        "Höchstens ein Viertel",
+        "Genau die Hälfte",
+        "Gar keinen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr als drei Viertel sollen pflanzlich sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pflanzlich bedeutet automatisch gesund.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch Pommes und Süßigkeiten sind pflanzlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflanzenbetonte Ernährung gilt als gesundheitsfördernd.",
+        "Bei veganer Ernährung ist ein B12-Präparat Pflicht.",
+        "Für Kinder, Schwangere und Stillende ist Beratung wichtig."
+      ]
+    }
+  ]
+}

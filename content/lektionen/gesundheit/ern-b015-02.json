@@ -1,0 +1,117 @@
+{
+  "id": "ern-b015-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Bio-Lebensmittel gesünder?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Bio",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bio",
+    "pestizide",
+    "einkaufen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Bio-Apfel kostet deutlich mehr als der konventionelle. Ist er auch gesünder?",
+        "Die Antwort ist nicht so einfach, wie das Siegel suggeriert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Bio bedeutet",
+      "absaetze": [
+        "Das EU-Bio-Siegel zeigt an, dass ein Produkt nach den Regeln des ökologischen Landbaus hergestellt wurde. Chemisch-synthetische Pflanzenschutzmittel und Mineraldünger sind dort nicht erlaubt.",
+        "In der Tierhaltung gelten strengere Regeln, etwa mehr Platz und Auslauf. Viele Zusatzstoffe sind in Bio-Lebensmitteln nicht zugelassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sich im Essen unterscheidet",
+      "absaetze": [
+        "Bio-Obst und Gemüse enthalten in Untersuchungen meist deutlich weniger Rückstände von Pflanzenschutzmitteln. Auch konventionelle Ware liegt aber in aller Regel unter den gesetzlichen Höchstgehalten.",
+        "Bei Vitaminen und Mineralstoffen sind die Unterschiede meist gering. Ob Bio-Lebensmittel die Gesundheit messbar verbessern, ist durch Studien nicht eindeutig belegt."
+      ],
+      "merke": "Bio bedeutet vor allem weniger Rückstände, nicht unbedingt mehr Nährstoffe.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Gründe für Bio",
+      "absaetze": [
+        "Viele kaufen Bio auch wegen der Umwelt und des Tierwohls. Ökologischer Landbau schont Böden, Gewässer und die Artenvielfalt.",
+        "Für die eigene Gesundheit ist aber am wichtigsten, viel Gemüse und Obst zu essen, egal ob bio oder konventionell."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist im ökologischen Landbau nicht erlaubt?",
+      "art": "mc",
+      "optionen": [
+        "Chemisch-synthetische Pflanzenschutzmittel",
+        "Wasser",
+        "Sonnenlicht",
+        "Kompost"
+      ],
+      "richtig": 0,
+      "erklaerung": "Chemisch-synthetische Mittel und Mineraldünger sind verboten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten Bio-Obst und Gemüse in Untersuchungen meist weniger?",
+      "art": "mc",
+      "optionen": [
+        "Rückstände von Pflanzenschutzmitteln",
+        "Vitamine",
+        "Wasser",
+        "Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Rückstände sind meist deutlich geringer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist eindeutig belegt, dass Bio-Lebensmittel die Gesundheit messbar verbessern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Studien zeigen das nicht eindeutig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bio bedeutet weniger Pflanzenschutzrückstände und strengere Regeln.",
+        "Bei Nährstoffen sind die Unterschiede meist gering.",
+        "Am wichtigsten ist viel Obst und Gemüse, egal ob bio."
+      ]
+    }
+  ]
+}

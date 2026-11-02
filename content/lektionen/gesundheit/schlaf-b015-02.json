@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b015-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie viel Schlaf brauchen Kinder und Jugendliche?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kinder",
+    "jugendliche",
+    "schlafdauer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Kind will abends noch nicht ins Bett. Morgens ist es schwer zu wecken und quengelig.",
+        "Bekommt es genug Schlaf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als Erwachsene",
+      "absaetze": [
+        "Kinder brauchen deutlich mehr Schlaf als Erwachsene. Im Schlaf wird Wachstumshormon ausgeschüttet, und das Gehirn verarbeitet das Gelernte.",
+        "Fachgesellschaften empfehlen als Orientierung für Kinder von 6 bis 12 Jahren etwa 9 bis 12 Stunden pro Nacht, für Jugendliche von 13 bis 18 Jahren etwa 8 bis 10 Stunden. Jüngere Kinder brauchen noch mehr."
+      ],
+      "merke": "Schulkinder brauchen etwa 9 bis 12 Stunden, Jugendliche 8 bis 10.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woran man Schlafmangel erkennt",
+      "absaetze": [
+        "Bei Kindern zeigt sich Müdigkeit oft nicht als Gähnen, sondern als Unruhe, Gereiztheit oder Konzentrationsprobleme. Manchmal wirkt ein übermüdetes Kind sogar besonders aufgedreht.",
+        "Dauerhafter Schlafmangel kann Lernen, Stimmung und das Verhalten in der Schule beeinträchtigen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Voraussetzungen schaffen",
+      "absaetze": [
+        "Feste Schlafenszeiten und ein ruhiges Abendritual helfen Kindern, abzuschalten. Bildschirme im Kinderzimmer verschieben die Schlafenszeit oft nach hinten.",
+        "Bei Jugendlichen verschiebt sich die innere Uhr nach hinten. Viel Tageslicht am Morgen und ein gleichmäßiger Rhythmus helfen ihnen besonders."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Schlaf brauchen Kinder von 6 bis 12 Jahren etwa?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 9 bis 12 Stunden",
+        "Etwa 5 bis 6 Stunden",
+        "Etwa 14 bis 16 Stunden",
+        "Etwa 3 Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist die übliche Orientierung für Schulkinder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie zeigt sich Müdigkeit bei Kindern oft?",
+      "art": "mc",
+      "optionen": [
+        "Als Unruhe und Gereiztheit",
+        "Nur durch Gähnen",
+        "Gar nicht",
+        "Durch Fieber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Übermüdete Kinder wirken oft aufgedreht oder gereizt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jugendliche brauchen weniger Schlaf als Erwachsene.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie brauchen mit etwa 8 bis 10 Stunden eher mehr."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kinder brauchen deutlich mehr Schlaf als Erwachsene.",
+        "Schlafmangel zeigt sich oft als Unruhe und Konzentrationsprobleme.",
+        "Feste Zeiten, Rituale und wenig Bildschirm helfen."
+      ]
+    }
+  ]
+}

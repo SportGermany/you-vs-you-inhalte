@@ -1,0 +1,116 @@
+{
+  "id": "supp-b015-03",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Sind Kalziumtabletten gut für die Knochen?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kalzium",
+    "knochen",
+    "osteoporose"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Bekannte nimmt jeden Tag Kalziumtabletten, damit ihre Knochen stark bleiben.",
+        "Ist das sinnvoll, oder reicht das Essen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalzium aus dem Essen",
+      "absaetze": [
+        "Kalzium ist der wichtigste Mineralstoff für Knochen und Zähne. Gute Quellen sind Milchprodukte, grünes Gemüse wie Grünkohl und Brokkoli, Nüsse sowie kalziumreiches Mineralwasser.",
+        "Wer regelmäßig solche Lebensmittel isst, erreicht die empfohlene Zufuhr meist ohne Präparate."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Präparate mit Bedacht",
+      "absaetze": [
+        "Bei nachgewiesenem Mangel oder bei Osteoporose kann eine Ergänzung ärztlich sinnvoll sein, oft zusammen mit Vitamin D. Für gut versorgte Menschen bringt zusätzliches Kalzium keinen belegten Nutzen.",
+        "Studien deuten darauf hin, dass hochdosierte Präparate das Risiko für Nierensteine erhöhen können. Ob sie das Herz-Kreislauf-Risiko beeinflussen, wird diskutiert. Kalzium aus Lebensmitteln gilt als unproblematisch."
+      ],
+      "merke": "Kalzium aus Lebensmitteln ist die bessere Wahl.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Kalziumpräparate können die Aufnahme mancher Medikamente stören, etwa bestimmter Antibiotika und Schilddrüsenhormone.",
+        "Bei Nierenerkrankungen oder Neigung zu Nierensteinen ist besondere Vorsicht nötig. Sprich vor einer Einnahme mit deiner Ärztin oder deinem Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Lebensmittel ist eine gute Kalziumquelle?",
+      "art": "mc",
+      "optionen": [
+        "Grünkohl",
+        "Weißbrot",
+        "Zucker",
+        "Apfelsaft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grünes Gemüse wie Grünkohl liefert Kalzium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Risiko können hochdosierte Kalziumpräparate erhöhen?",
+      "art": "mc",
+      "optionen": [
+        "Nierensteine",
+        "Kurzsichtigkeit",
+        "Haarausfall",
+        "Sonnenbrand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Studien deuten auf ein höheres Nierensteinrisiko hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für gut versorgte Menschen bringt zusätzliches Kalzium einen belegten Nutzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Nutzen ist nicht belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kalzium ist wichtig für Knochen und Zähne.",
+        "Die meisten erreichen den Bedarf über die Ernährung.",
+        "Präparate nur bei Bedarf und ärztlicher Empfehlung."
+      ]
+    }
+  ]
+}
