@@ -1,0 +1,127 @@
+{
+  "id": "geld-b060-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was kostet Geld abheben am Automaten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Bargeld",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "geldautomat",
+    "gebuehren",
+    "bargeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bargeld abheben ist meist kostenlos, manchmal aber überraschend teuer.",
+        "Es kommt darauf an, wo und wie du abhebst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eigene Bank und Verbünde",
+      "absaetze": [
+        "An den Automaten deiner eigenen Bank ist das Abheben meist kostenlos. Viele Banken haben sich außerdem zu Verbünden zusammengeschlossen. Dort kannst du oft ebenfalls ohne Gebühr abheben.",
+        "An fremden Automaten kann eine Gebühr anfallen. Sie muss vor dem Abheben auf dem Bildschirm angezeigt werden. Du kannst dann noch abbrechen."
+      ],
+      "merke": "Die Gebühr an fremden Automaten wird vorher angezeigt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bargeld an der Supermarktkasse",
+      "absaetze": [
+        "In vielen Supermärkten und Drogerien kannst du beim Bezahlen mit Karte Bargeld abheben. Das kostet meist nichts.",
+        "Oft ist dafür ein Mindesteinkauf nötig. Das ist praktisch, wenn kein kostenloser Automat in der Nähe ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Ausland",
+      "absaetze": [
+        "In Ländern mit Euro gelten für Abhebungen oft ähnliche Bedingungen wie zu Hause. Der Automatenbetreiber kann aber eigene Gebühren verlangen.",
+        "Außerhalb des Euroraums fragt der Automat manchmal, ob er gleich in Euro umrechnen soll. Wähle besser die Landeswährung. Die Umrechnung am Automaten ist oft teurer als die deiner Bank."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist Geldabheben meist kostenlos?",
+      "art": "mc",
+      "optionen": [
+        "Am Automaten der eigenen Bank",
+        "An jedem fremden Automaten",
+        "Nur im Ausland",
+        "Nur nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft auch im Verbund der Bank."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für Gebühren an fremden Automaten?",
+      "art": "mc",
+      "optionen": [
+        "Sie müssen vorher angezeigt werden",
+        "Sie sind immer geheim",
+        "Sie werden erst im nächsten Jahr berechnet",
+        "Es gibt sie nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du kannst dann noch abbrechen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du außerhalb des Euroraums am Automaten wählen?",
+      "art": "mc",
+      "optionen": [
+        "Die Landeswährung",
+        "Die Umrechnung in Euro",
+        "Immer den höchsten Betrag",
+        "Den Abbruch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Umrechnung des Automaten ist oft teurer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "An vielen Supermarktkassen kannst du Bargeld abheben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft mit Mindesteinkauf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "An eigenen Automaten ist Abheben meist kostenlos.",
+        "Gebühren an fremden Automaten werden vorher angezeigt.",
+        "Supermarktkassen sind eine günstige Alternative.",
+        "Im Ausland die Landeswährung wählen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tech-b060-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Wärmebildkamera?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fließgewässer",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waermebildkamera",
+    "infrarot",
+    "sensor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Bild leuchten Menschen gelb und rot, kalte Fenster dagegen blau.",
+        "Eine Wärmebildkamera macht sichtbar, was unsere Augen nicht sehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alles strahlt Wärme ab",
+      "absaetze": [
+        "Jeder Gegenstand sendet Wärmestrahlung aus, auch Eis. Diese Strahlung heißt Infrarotstrahlung. Sie liegt jenseits des roten Lichts, das wir sehen können.",
+        "Je wärmer ein Gegenstand ist, desto mehr Infrarotstrahlung sendet er aus. Menschen und Tiere strahlen deshalb deutlich stärker als ihre kühle Umgebung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Sensor zum Farbbild",
+      "absaetze": [
+        "Die Kamera hat einen Sensor, der auf Infrarotstrahlung reagiert. Er misst für jeden Bildpunkt, wie viel Wärme ankommt.",
+        "Daraus berechnet die Kamera ein Bild. Die Farben werden künstlich zugeordnet, etwa warm gleich rot und kalt gleich blau. Man spricht von Falschfarben."
+      ],
+      "merke": "Die Farben im Wärmebild sind künstlich zugeordnet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür man sie nutzt",
+      "absaetze": [
+        "Feuerwehren finden damit Menschen in verrauchten Räumen. Energieberater entdecken undichte Fenster und schlecht gedämmte Wände. Auch Tiere lassen sich nachts aufspüren.",
+        "Durch Wände kann eine Wärmebildkamera nicht schauen. Sie zeigt nur, wie warm die Oberfläche ist. Auch normales Glas blockiert die Strahlung weitgehend."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Strahlung misst eine Wärmebildkamera?",
+      "art": "mc",
+      "optionen": [
+        "Infrarotstrahlung",
+        "Röntgenstrahlung",
+        "Radiowellen",
+        "Ultraschall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie liegt jenseits des sichtbaren roten Lichts."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeuten die Farben im Wärmebild?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind künstlich zugeordnet und zeigen Temperaturen",
+        "Sie zeigen die echte Farbe",
+        "Sie zeigen die Entfernung",
+        "Sie sind zufällig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man spricht von Falschfarben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kann eine Wärmebildkamera durch Wände schauen?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie zeigt nur Oberflächentemperaturen",
+        "Ja, durch jede Wand",
+        "Ja, aber nur durch Beton",
+        "Nur bei Nacht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Glas blockiert die Strahlung weitgehend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Eis sendet Wärmestrahlung aus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Nur eben weniger als warme Dinge."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alle Gegenstände senden Infrarotstrahlung aus.",
+        "Wärmere Dinge strahlen stärker.",
+        "Die Farben im Bild sind künstlich zugeordnet.",
+        "Durch Wände sieht die Kamera nicht."
+      ]
+    }
+  ]
+}

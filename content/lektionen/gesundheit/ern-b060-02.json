@@ -1,0 +1,131 @@
+{
+  "id": "ern-b060-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Schadet Sprudelwasser den Zähnen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zahnpflege",
+      "herausgeber": "Bundeszahnärztekammer",
+      "url": "https://www.bzaek.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sprudelwasser",
+    "zahnschmelz",
+    "saeure"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kohlensäure klingt nach Säure, und Säure greift die Zähne an.",
+        "Ist Sprudel also schlecht für das Gebiss?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein bisschen sauer",
+      "absaetze": [
+        "Kohlendioxid löst sich im Wasser und bildet dabei etwas Kohlensäure. Sprudelwasser ist deshalb leicht sauer.",
+        "Säure kann den Zahnschmelz aufweichen. Fachleute sprechen von Zahnerosion. Anders als Karies entsteht sie ohne Bakterien, direkt durch Säure."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kaum ein Problem bei reinem Wasser",
+      "absaetze": [
+        "Untersuchungen deuten darauf hin, dass reines Sprudelwasser den Zahnschmelz nur sehr wenig angreift. Limonaden, Säfte und Energydrinks sind deutlich saurer und schädlicher.",
+        "Vorsicht ist bei aromatisiertem Sprudel geboten. Zusätze wie Zitronensäure machen ihn erheblich saurer."
+      ],
+      "merke": "Reines Sprudelwasser ist für die Zähne kaum ein Problem.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zähne schützen",
+      "absaetze": [
+        "Sprudel ist ein guter Durstlöscher, Leitungswasser ebenso. Saure Getränke trinkst du besser zu den Mahlzeiten statt den ganzen Tag über in kleinen Schlucken.",
+        "Nach sehr sauren Getränken solltest du mit dem Zähneputzen etwas warten. Der aufgeweichte Schmelz kann sich so wieder festigen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Sprudelwasser leicht sauer?",
+      "art": "mc",
+      "optionen": [
+        "Gelöstes Kohlendioxid bildet etwas Kohlensäure",
+        "Es enthält Essig",
+        "Es enthält Zitronensaft",
+        "Es wird mit Salzsäure versetzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Effekt ist bei reinem Sprudel klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was greift den Zahnschmelz deutlich stärker an?",
+      "art": "mc",
+      "optionen": [
+        "Limonaden und Säfte",
+        "Stilles Wasser",
+        "Reines Sprudelwasser",
+        "Milch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind viel saurer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht aromatisierten Sprudel saurer?",
+      "art": "mc",
+      "optionen": [
+        "Zusätze wie Zitronensäure",
+        "Mehr Kalzium",
+        "Kaltes Wasser",
+        "Eine Glasflasche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Blick auf die Zutatenliste hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach sehr sauren Getränken solltest du nicht sofort die Zähne putzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Schmelz braucht etwas Zeit, um sich zu festigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sprudelwasser ist leicht sauer.",
+        "Reiner Sprudel schadet den Zähnen kaum.",
+        "Limonaden und aromatisierte Sorten sind deutlich saurer.",
+        "Nach sauren Getränken mit dem Zähneputzen warten."
+      ]
+    }
+  ]
+}

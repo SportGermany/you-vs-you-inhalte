@@ -1,0 +1,127 @@
+{
+  "id": "vers-b060-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Brauchst du für eine Drohne eine Versicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Unbemannte Luftfahrtsysteme",
+      "herausgeber": "Luftfahrt-Bundesamt",
+      "url": "https://www.lba.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "drohne",
+    "haftpflicht",
+    "luftfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Drohnen machen beeindruckende Luftaufnahmen und sind beliebte Geschenke.",
+        "Rechtlich sind sie aber Luftfahrzeuge, mit eigenen Regeln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Versicherung ist Pflicht",
+      "absaetze": [
+        "In Deutschland brauchst du für jede Drohne eine Haftpflichtversicherung. Das gilt auch für kleine Modelle und für reine Freizeitflüge.",
+        "Stürzt eine Drohne ab, kann sie Menschen verletzen oder Autos beschädigen. Die Versicherung zahlt dann den Schaden bei anderen."
+      ],
+      "merke": "Für jede Drohne ist eine Haftpflichtversicherung Pflicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Private Haftpflicht prüfen",
+      "absaetze": [
+        "Manche private Haftpflichtversicherungen schließen Drohnen bis zu einem bestimmten Gewicht ein. Andere schließen sie ausdrücklich aus.",
+        "Schau in deine Vertragsbedingungen oder frag nach. Reicht der Schutz nicht, gibt es spezielle Drohnenversicherungen. Den Nachweis solltest du beim Fliegen dabeihaben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Regeln",
+      "absaetze": [
+        "Viele Drohnen müssen beim Luftfahrt-Bundesamt registriert werden, etwa wenn sie eine Kamera haben. Für schwerere Modelle brauchst du zusätzlich einen Kompetenznachweis.",
+        "Grundsätzlich darfst du nicht höher als 120 Meter fliegen und musst die Drohne im Blick behalten. Über Menschenansammlungen und in der Nähe von Flughäfen ist das Fliegen verboten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brauchen auch kleine Freizeitdrohnen eine Haftpflichtversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Ja",
+        "Nein, nie",
+        "Nur bei Nacht",
+        "Nur im Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflicht gilt für jede Drohne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei deiner privaten Haftpflicht prüfen?",
+      "art": "mc",
+      "optionen": [
+        "Ob Drohnen eingeschlossen sind",
+        "Die Farbe der Police",
+        "Den Namen der Sachbearbeiterin",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Verträge schließen Drohnen aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch darfst du mit einer Drohne grundsätzlich fliegen?",
+      "art": "mc",
+      "optionen": [
+        "Bis 120 Meter",
+        "Bis 2000 Meter",
+        "Unbegrenzt",
+        "Bis 5 Meter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Außerdem musst du sie im Blick behalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Über Menschenansammlungen darfst du mit einer Drohne nicht fliegen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch in der Nähe von Flughäfen nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Für jede Drohne ist eine Haftpflichtversicherung Pflicht.",
+        "Die private Haftpflicht deckt Drohnen nicht immer ab.",
+        "Viele Drohnen müssen registriert werden.",
+        "Höhe, Sichtkontakt und Flugverbotszonen beachten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "koer-b060-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie wachsen Fingernägel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Hautkrebs und Nagelveränderungen",
+      "herausgeber": "Deutsche Krebshilfe",
+      "url": "https://www.krebshilfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fingernaegel",
+    "keratin",
+    "haut"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fingernägel schneidest du regelmäßig, ohne viel darüber nachzudenken.",
+        "Dabei verraten sie einiges über den Körper."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus Horn gemacht",
+      "absaetze": [
+        "Nägel bestehen aus Keratin. Das ist ein festes Eiweiß, aus dem auch Haare und die oberste Hautschicht bestehen.",
+        "Sie wachsen aus der Nagelwurzel. Sie liegt unter der Haut am Nagelansatz. Der helle Halbmond am unteren Ende ist ein sichtbarer Teil davon."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Langsam, aber stetig",
+      "absaetze": [
+        "Fingernägel wachsen etwa drei Millimeter im Monat. Bis ein Fingernagel ganz erneuert ist, dauert es rund ein halbes Jahr.",
+        "Fußnägel wachsen deutlich langsamer. Bei ihnen kann eine Erneuerung ein Jahr oder länger dauern. Deshalb dauert auch die Behandlung von Nagelpilz am Fuß lange."
+      ],
+      "merke": "Fingernägel wachsen etwa drei Millimeter im Monat."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Veränderungen bedeuten",
+      "absaetze": [
+        "Kleine weiße Flecken entstehen meist durch kleine Verletzungen der Nagelwurzel. Mit Kalziummangel haben sie in der Regel nichts zu tun.",
+        "Ein neuer dunkler Streifen im Nagel sollte ärztlich angesehen werden. Selten steckt Hautkrebs dahinter. Auch stark veränderte, brüchige oder verfärbte Nägel lässt du besser abklären."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Weiße Flecken auf den Nägeln zeigen Kalziummangel.",
+      "urteil": "mythos",
+      "erklaerung": "Die kleinen weißen Flecken entstehen meist durch leichte Stöße oder Druck auf die Nagelwurzel. Sie wachsen mit dem Nagel heraus. Ein Kalziummangel ist dafür in aller Regel nicht verantwortlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen Nägel?",
+      "art": "mc",
+      "optionen": [
+        "Aus Keratin",
+        "Aus Knochen",
+        "Aus Kalk",
+        "Aus Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Haare bestehen aus Keratin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell wachsen Fingernägel ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa drei Millimeter im Monat",
+        "Etwa drei Zentimeter am Tag",
+        "Etwa einen Meter im Jahr",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fußnägel wachsen langsamer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du ärztlich ansehen lassen?",
+      "art": "mc",
+      "optionen": [
+        "Einen neuen dunklen Streifen im Nagel",
+        "Einen frisch geschnittenen Nagel",
+        "Einen glänzenden Nagel",
+        "Einen kurzen Nagel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Selten steckt Hautkrebs dahinter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fußnägel wachsen schneller als Fingernägel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie wachsen deutlich langsamer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nägel bestehen aus Keratin.",
+        "Fingernägel wachsen etwa drei Millimeter im Monat.",
+        "Weiße Flecken kommen meist von kleinen Verletzungen.",
+        "Neue dunkle Streifen ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

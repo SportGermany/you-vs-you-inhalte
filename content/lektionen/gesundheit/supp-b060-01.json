@@ -1,0 +1,140 @@
+{
+  "id": "supp-b060-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Maca-Pulver zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "maca",
+    "superfood",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Maca soll Energie, Lust und Fruchtbarkeit steigern.",
+        "So zumindest versprechen es viele Anbieter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Knolle aus den Anden",
+      "absaetze": [
+        "Maca ist eine Pflanze aus dem Hochland von Peru. Sie gehört zur Familie der Kreuzblütler, wie Rettich und Kohl. Dort wird die Knolle seit Langem als Lebensmittel gegessen.",
+        "Bei uns wird Maca meist als Pulver oder Kapsel verkauft. Oft wird es als Superfood beworben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass Maca die Lust etwas steigern könnte. Die Studien sind aber klein, kurz und oft von geringer Qualität.",
+        "Für mehr Energie, Leistung oder Fruchtbarkeit gibt es keine verlässlichen Belege. Gesundheitsbezogene Werbeaussagen dazu sind in der EU nicht zugelassen."
+      ],
+      "merke": "Für die beworbenen Wirkungen fehlen verlässliche Belege.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Qualität und Sicherheit",
+      "absaetze": [
+        "Als Lebensmittel in üblichen Mengen gilt Maca als gut verträglich. Zu hoch konzentrierten Extrakten und langer Verwendung ist wenig bekannt.",
+        "Produkte aus dem Internet sind nicht immer geprüft. Verbraucherschützer raten, bei Versprechen wie natürliches Potenzmittel besonders skeptisch zu sein."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "In Schwangerschaft und Stillzeit nicht verwenden, weil Daten fehlen.",
+        "Bei Schilddrüsenerkrankungen oder hormonabhängigen Erkrankungen vorher ärztlich beraten lassen.",
+        "Bei regelmäßigen Medikamenten Wechselwirkungen in der Apotheke erfragen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Maca?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Hochland von Peru",
+        "Aus Skandinavien",
+        "Aus der Sahara",
+        "Aus Australien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort wird die Knolle seit Langem gegessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut sind die beworbenen Wirkungen belegt?",
+      "art": "mc",
+      "optionen": [
+        "Schlecht, es gibt nur kleine Studien",
+        "Sehr gut, durch große Studien",
+        "Perfekt, wie bei Medikamenten",
+        "Gar nicht untersucht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind klein und kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Pflanzenfamilie gehört Maca?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Kreuzblütlern",
+        "Zu den Gräsern",
+        "Zu den Nadelbäumen",
+        "Zu den Pilzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie Rettich und Kohl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Versprechen wie natürliches Potenzmittel ist Skepsis angebracht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Solche Aussagen sind nicht belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Maca ist eine Knolle aus den Anden.",
+        "Die Studienlage ist dünn.",
+        "Für Energie und Fruchtbarkeit fehlen Belege.",
+        "Bei großen Versprechen skeptisch bleiben."
+      ]
+    }
+  ]
+}

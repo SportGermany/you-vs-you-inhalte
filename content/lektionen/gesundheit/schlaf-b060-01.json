@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b060-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist Schlafrestriktion?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafrestriktion",
+    "insomnie",
+    "verhaltenstherapie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer schlecht schläft, bleibt oft länger im Bett, um Schlaf nachzuholen.",
+        "Eine wirksame Methode macht genau das Gegenteil."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger Zeit im Bett",
+      "absaetze": [
+        "Bei der Schlafrestriktion wird die Zeit im Bett zunächst auf die Zeit begrenzt, die du tatsächlich schläfst. Wer acht Stunden liegt, aber nur sechs schläft, bleibt zunächst nur etwa sechs Stunden im Bett.",
+        "So steigt der Schlafdruck. Du schläfst schneller ein und wachst seltener auf. Mit besserem Schlaf wird die Bettzeit Schritt für Schritt verlängert."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teil einer bewährten Therapie",
+      "absaetze": [
+        "Schlafrestriktion ist ein Baustein der kognitiven Verhaltenstherapie bei Schlafstörungen. Diese Therapie gilt bei chronischen Schlafstörungen als Behandlung der ersten Wahl.",
+        "Dazu gehören auch feste Aufstehzeiten und der Umgang mit Grübeln im Bett. Die Wirkung hält oft länger an als die von Schlafmitteln."
+      ],
+      "merke": "Die Verhaltenstherapie gilt bei chronischen Schlafstörungen als erste Wahl.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht ohne Anleitung",
+      "absaetze": [
+        "In den ersten Wochen bist du oft müder als vorher. Das kann beim Autofahren oder an Maschinen gefährlich sein.",
+        "Schlafrestriktion sollte deshalb ärztlich oder therapeutisch begleitet werden. Für manche Menschen ist sie nicht geeignet, etwa bei Epilepsie oder bipolaren Störungen. Auch digitale Programme auf Rezept nutzen die Methode."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei der Schlafrestriktion zunächst?",
+      "art": "mc",
+      "optionen": [
+        "Die Zeit im Bett wird verkürzt",
+        "Man bleibt länger im Bett",
+        "Man nimmt Schlaftabletten",
+        "Man schläft tagsüber mehr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das erhöht den Schlafdruck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Therapie gehört die Schlafrestriktion?",
+      "art": "mc",
+      "optionen": [
+        "Zur kognitiven Verhaltenstherapie bei Schlafstörungen",
+        "Zur Physiotherapie",
+        "Zur Zahnbehandlung",
+        "Zur Ernährungstherapie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt als Behandlung der ersten Wahl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sollte Schlafrestriktion begleitet werden?",
+      "art": "mc",
+      "optionen": [
+        "Anfangs ist man oft müder, was gefährlich sein kann",
+        "Weil sie nichts bringt",
+        "Weil sie nur nachts erlaubt ist",
+        "Weil sie sehr teuer ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorsicht etwa beim Autofahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit besserem Schlaf wird die Bettzeit wieder verlängert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Schritt für Schritt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafrestriktion begrenzt zunächst die Zeit im Bett.",
+        "Sie erhöht den Schlafdruck.",
+        "Sie ist Teil der Verhaltenstherapie bei Schlafstörungen.",
+        "Sie sollte fachlich begleitet werden."
+      ]
+    }
+  ]
+}

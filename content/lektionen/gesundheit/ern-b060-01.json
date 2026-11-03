@@ -1,0 +1,131 @@
+{
+  "id": "ern-b060-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Matcha?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "matcha",
+    "gruener-tee",
+    "koffein"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das leuchtend grüne Pulver ist in Cafés zum Trendgetränk geworden.",
+        "Matcha ist allerdings mehr als nur grüner Tee in anderer Form."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das ganze Blatt im Becher",
+      "absaetze": [
+        "Für Matcha werden Teepflanzen vor der Ernte einige Wochen beschattet. Die Blätter werden dann gedämpft, getrocknet und fein gemahlen.",
+        "Anders als beim normalen Tee trinkst du das gemahlene Blatt mit. Deshalb enthält eine Portion meist mehr Koffein und mehr Pflanzenstoffe als eine Tasse aufgebrühter grüner Tee."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was über die Gesundheit bekannt ist",
+      "absaetze": [
+        "Grüner Tee enthält Catechine. Das sind Pflanzenstoffe, die im Labor als Zellschutzstoffe wirken. Beobachtungsstudien deuten darauf hin, dass Teetrinker etwas seltener Herz-Kreislauf-Erkrankungen haben.",
+        "Ob Matcha darüber hinaus etwas Eigenes bewirkt, ist kaum untersucht. Ein Wundermittel ist er nicht."
+      ],
+      "merke": "Matcha liefert mehr Koffein als normaler grüner Tee.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten kannst",
+      "absaetze": [
+        "Weil das ganze Blatt in die Tasse gelangt, landen dort auch mögliche Rückstände aus dem Anbau. Untersuchungen fanden in manchen Produkten Schadstoffe. Qualität und Herkunft spielen daher eine Rolle.",
+        "Matcha Latte aus dem Café enthält oft viel Zucker und Milch. Wer koffeinempfindlich ist, trinkt Matcha besser nicht am Abend."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Besondere an Matcha?",
+      "art": "mc",
+      "optionen": [
+        "Das gemahlene Blatt wird mitgetrunken",
+        "Er wird aus Kaffeebohnen gemacht",
+        "Er enthält kein Koffein",
+        "Er wird immer kalt getrunken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb enthält er mehr Koffein und Pflanzenstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden die Teepflanzen vor der Ernte beschattet?",
+      "art": "mc",
+      "optionen": [
+        "Das gehört zur Herstellung und verändert die Blätter",
+        "Damit sie schneller wachsen",
+        "Damit sie blau werden",
+        "Gegen Insekten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Blätter werden dadurch besonders grün."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sind eigene Gesundheitsvorteile von Matcha gut belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie sind kaum untersucht",
+        "Ja, gegen alle Krankheiten",
+        "Ja, zum Abnehmen",
+        "Ja, gegen das Altern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu Matcha selbst gibt es kaum Studien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Matcha Latte enthält oft viel Zucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Blick auf die Zutaten lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Matcha wird das gemahlene Teeblatt mitgetrunken.",
+        "Er enthält mehr Koffein als normaler grüner Tee.",
+        "Besondere Gesundheitsvorteile sind kaum belegt.",
+        "Auf Qualität, Zucker und Uhrzeit achten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "steu-b060-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die Spekulationsfrist?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spekulationsfrist",
+    "immobilien",
+    "private-veraeusserung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer eine Wohnung, Gold oder Kryptowährungen mit Gewinn verkauft, fragt sich: Muss ich das versteuern?",
+        "Die Antwort hängt oft davon ab, wie lange du die Sache besessen hast."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Private Verkäufe mit Frist",
+      "absaetze": [
+        "Gewinne aus dem Verkauf mancher privater Dinge sind steuerpflichtig, wenn zwischen Kauf und Verkauf nur kurze Zeit liegt. Fachleute sprechen von privaten Veräußerungsgeschäften. Umgangssprachlich heißt die Frist Spekulationsfrist.",
+        "Ist die Frist abgelaufen, bleibt der Gewinn steuerfrei. Kleine Gewinne bleiben bis zu einer Freigrenze ebenfalls steuerfrei."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zehn Jahre bei Immobilien",
+      "absaetze": [
+        "Für Grundstücke und Immobilien gilt eine Frist von zehn Jahren. Verkaufst du früher mit Gewinn, wird darauf Einkommensteuer fällig.",
+        "Eine wichtige Ausnahme: Hast du die Immobilie im Verkaufsjahr und den beiden Jahren davor selbst bewohnt, bleibt der Gewinn steuerfrei."
+      ],
+      "merke": "Bei selbst genutzten Immobilien gilt eine wichtige Ausnahme."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Jahr bei anderen Dingen",
+      "absaetze": [
+        "Für viele andere Gegenstände gilt eine Frist von einem Jahr. Dazu zählen etwa Gold, Kunst oder Kryptowährungen.",
+        "Aktien und Fonds sind anders geregelt. Ihre Gewinne unterliegen der Abgeltungsteuer, egal wie lange du sie hältst. Gegenstände des täglichen Gebrauchs, etwa ein gebrauchtes Auto, fallen in der Regel nicht darunter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lang ist die Spekulationsfrist bei Immobilien?",
+      "art": "mc",
+      "optionen": [
+        "Zehn Jahre",
+        "Ein Jahr",
+        "Drei Monate",
+        "Fünfzig Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach ist der Gewinn steuerfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist ein Gewinn aus einer selbst bewohnten Wohnung steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du sie im Verkaufsjahr und den zwei Jahren davor bewohnt hast",
+        "Nur nach zwanzig Jahren",
+        "Nie",
+        "Nur bei Verkauf an Verwandte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine wichtige Ausnahme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Frist gilt für Gold und Kryptowährungen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Jahr",
+        "Zehn Jahre",
+        "Keine Frist, immer steuerfrei",
+        "Hundert Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach bleibt der Gewinn steuerfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Aktiengewinne gilt die einjährige Spekulationsfrist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie unterliegen der Abgeltungsteuer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Private Verkäufe können innerhalb einer Frist steuerpflichtig sein.",
+        "Bei Immobilien gilt eine Frist von zehn Jahren.",
+        "Selbst genutzte Wohnungen sind ausgenommen.",
+        "Für Gold und Krypto gilt ein Jahr."
+      ]
+    }
+  ]
+}
