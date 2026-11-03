@@ -1,0 +1,108 @@
+{
+  "id": "geld-b055-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was passiert mit dem Bankkonto, wenn jemand stirbt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "erbe",
+    "bankkonto",
+    "vollmacht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Todesfall müssen Angehörige viele Dinge regeln.",
+        "Eine wichtige Frage ist, wer an das Konto des Verstorbenen kommt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Konto gehört zum Erbe",
+      "absaetze": [
+        "Mit dem Tod geht das Guthaben auf die Erben über. Die Bank darf aber nicht einfach jedem Angehörigen Zugriff geben. Sie verlangt einen Nachweis, wer erbt.",
+        "Das kann ein Erbschein oder ein notarielles Testament mit Eröffnungsprotokoll sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Vollmacht über den Tod hinaus",
+      "absaetze": [
+        "Hat der Verstorbene einer Person eine Kontovollmacht über den Tod hinaus erteilt, kann diese weiter über das Konto verfügen. So lassen sich etwa Bestattungskosten schneller bezahlen.",
+        "Die Bevollmächtigte handelt dann im Interesse der Erben. Eine solche Vollmacht lässt sich zu Lebzeiten direkt bei der Bank einrichten."
+      ],
+      "merke": "Eine Vollmacht über den Tod hinaus erleichtert vieles."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Angehörige wissen sollten",
+      "absaetze": [
+        "Daueraufträge und Lastschriften laufen zunächst weiter. Prüft, welche Verträge gekündigt werden müssen.",
+        "Banken melden Guthaben von Verstorbenen dem Finanzamt. Ab einer bestimmten Höhe kann Erbschaftsteuer anfallen. Eine Liste aller Konten erleichtert den Angehörigen die Arbeit."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem gehört das Guthaben nach dem Tod?",
+      "art": "mc",
+      "optionen": [
+        "Den Erben",
+        "Der Bank",
+        "Dem Staat automatisch",
+        "Dem Vermieter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bank verlangt einen Erbnachweis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Erbnachweis?",
+      "art": "mc",
+      "optionen": [
+        "Etwa ein Erbschein",
+        "Eine Telefonnummer",
+        "Ein Ausweis des Verstorbenen allein",
+        "Eine Kontonummer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein notarielles Testament kann reichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Vollmacht über den Tod hinaus ermöglicht weiteren Zugriff auf das Konto.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So lassen sich Kosten schneller bezahlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Kontoguthaben geht an die Erben.",
+        "Die Bank verlangt einen Erbnachweis.",
+        "Eine Vollmacht über den Tod hinaus erleichtert den Zugriff.",
+        "Daueraufträge laufen zunächst weiter."
+      ]
+    }
+  ]
+}

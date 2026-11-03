@@ -1,0 +1,114 @@
+{
+  "id": "vers-b055-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was ist eine Fahrerschutzversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kfz-Versicherung",
+      "herausgeber": "Gesamtverband der Versicherer (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fahrerschutz",
+    "kfz-versicherung",
+    "unfall"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einem selbst verursachten Unfall zahlt die Kfz-Haftpflicht für die Schäden anderer.",
+        "Doch wer zahlt, wenn du als Fahrer selbst verletzt wirst?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Lücke in der Haftpflicht",
+      "absaetze": [
+        "Die Kfz-Haftpflichtversicherung zahlt für Schäden, die du anderen zufügst. Das gilt auch für verletzte Mitfahrende in deinem Auto.",
+        "Bist du selbst schuld und wirst als Fahrer verletzt, zahlt sie aber nicht für deine eigenen Schäden. Genau diese Lücke soll die Fahrerschutzversicherung schließen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie leistet",
+      "absaetze": [
+        "Sie zahlt dem Fahrer zum Beispiel Schmerzensgeld, Verdienstausfall oder Kosten für einen Umbau der Wohnung nach schweren Verletzungen. Die Leistung orientiert sich daran, was ein Unfallgegner zahlen müsste.",
+        "Sie wird meist als günstiger Zusatz zur Kfz-Versicherung angeboten."
+      ],
+      "merke": "Sie schützt den Fahrer bei selbst verschuldeten Unfällen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen sie sinnvoll ist",
+      "absaetze": [
+        "Krankenkasse und Berufsunfähigkeitsversicherung decken einen Teil der Folgen bereits ab. Schmerzensgeld zahlen sie aber nicht.",
+        "Sinnvoll ist der Fahrerschutz vor allem für Menschen, die viel fahren oder keine private Unfall- oder Berufsunfähigkeitsversicherung haben. Vergleiche die Bedingungen, denn manche Tarife haben Selbstbehalte."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür zahlt die Kfz-Haftpflicht nicht?",
+      "art": "mc",
+      "optionen": [
+        "Für eigene Verletzungen des schuldigen Fahrers",
+        "Für Schäden an anderen Autos",
+        "Für verletzte Mitfahrende",
+        "Für verletzte Fußgänger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Lücke schließt der Fahrerschutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine Fahrerschutzversicherung zahlen?",
+      "art": "mc",
+      "optionen": [
+        "Schmerzensgeld und Verdienstausfall",
+        "Die Tankfüllung",
+        "Einen Neuwagen bei Kratzern",
+        "Parktickets"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie orientiert sich an dem, was ein Unfallgegner zahlen müsste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fahrerschutz wird meist als Zusatz zur Kfz-Versicherung angeboten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft ist er recht günstig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kfz-Haftpflicht zahlt nicht für eigene Verletzungen des schuldigen Fahrers.",
+        "Der Fahrerschutz schließt diese Lücke.",
+        "Er zahlt etwa Schmerzensgeld und Verdienstausfall.",
+        "Sinnvoll vor allem für Vielfahrer ohne andere Absicherung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ern-b055-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Algen als Lebensmittel?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "algen",
+    "jod",
+    "sushi"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Algen kennen viele vom Sushi. Inzwischen gibt es sie auch als Salat, Snack oder Pulver.",
+        "Sie gelten als Superfood, haben aber einen Haken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in Algen steckt",
+      "absaetze": [
+        "Speisealgen wie Nori, Wakame oder Kombu enthalten Mineralstoffe, Ballaststoffe und teils Eiweiß. Sie liefern wenig Energie.",
+        "Das Vitamin B12 in vielen Algen kann der Mensch meist nicht verwerten. Als B12-Quelle für Veganer eignen sie sich deshalb nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sehr viel Jod",
+      "absaetze": [
+        "Getrocknete Algen können extrem viel Jod enthalten. Der Gehalt schwankt stark zwischen Sorten und Produkten.",
+        "Zu viel Jod kann der Schilddrüse schaden. Das Bundesinstitut für Risikobewertung warnt vor allem vor Produkten mit sehr hohem Jodgehalt und fehlender Angabe auf der Verpackung."
+      ],
+      "merke": "Getrocknete Algen können gefährlich viel Jod enthalten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Maßvoll genießen",
+      "absaetze": [
+        "Gelegentlich ein Nori-Blatt beim Sushi ist für Gesunde unbedenklich. Bei Algensnacks und Pulvern solltest du auf die Jodangabe achten.",
+        "Menschen mit Schilddrüsenerkrankungen sollten Algen nur nach ärztlicher Rücksprache essen. Die Alge Hijiki kann zudem viel Arsen enthalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff steckt in getrockneten Algen oft in sehr hohen Mengen?",
+      "art": "mc",
+      "optionen": [
+        "Jod",
+        "Vitamin C",
+        "Zucker",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Gehalt schwankt stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eignen sich Algen als Vitamin-B12-Quelle für Veganer?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das B12 ist meist nicht verwertbar",
+        "Ja, sie sind ideal",
+        "Nur gekocht",
+        "Nur als Pulver"
+      ],
+      "richtig": 0,
+      "erklaerung": "Veganer brauchen andere Quellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte bei Algen besonders vorsichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Schilddrüsenerkrankungen",
+        "Menschen mit Kurzsichtigkeit",
+        "Sportler",
+        "Nichtraucher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu viel Jod kann der Schilddrüse schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Nori-Blatt beim Sushi ist für Gesunde unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vorsicht gilt vor allem bei sehr jodreichen Produkten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Algen liefern Mineralstoffe und Ballaststoffe.",
+        "Ihr B12 ist meist nicht verwertbar.",
+        "Getrocknete Algen können sehr viel Jod enthalten.",
+        "Bei Schilddrüsenerkrankungen Rücksprache halten."
+      ]
+    }
+  ]
+}

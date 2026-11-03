@@ -1,0 +1,131 @@
+{
+  "id": "ern-b055-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was tun, wenn Lebensmittel schimmeln?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schimmel",
+    "lebensmittelsicherheit",
+    "lagerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein grüner Fleck auf der Marmelade oder dem Brot.",
+        "Darf man den abkratzen und den Rest essen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unsichtbare Pilzfäden",
+      "absaetze": [
+        "Der sichtbare Schimmel ist nur ein Teil des Pilzes. Seine feinen Fäden können sich unsichtbar tief im Lebensmittel ausbreiten.",
+        "Manche Schimmelpilze bilden Giftstoffe, die Mykotoxine. Sie können die Gesundheit schädigen und werden beim Kochen meist nicht zerstört."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was weg muss",
+      "absaetze": [
+        "Weiche oder feuchte Lebensmittel solltest du bei Schimmel komplett entsorgen. Dazu gehören Brot, Marmelade, Joghurt, weiches Obst und Gemüse sowie gekochte Speisen.",
+        "In ihnen breiten sich die Pilzfäden besonders leicht aus. Auch Nüsse mit Schimmel gehören in den Müll."
+      ],
+      "merke": "Weiche Lebensmittel mit Schimmel ganz wegwerfen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo großzügiges Abschneiden reicht",
+      "absaetze": [
+        "Bei Hartkäse und festem Gemüse wie Karotten kannst du die schimmelige Stelle großzügig wegschneiden. Bleib dabei mindestens ein bis zwei Zentimeter vom Schimmel entfernt.",
+        "Rieche nicht an verschimmelten Lebensmitteln, um Sporen nicht einzuatmen. Reinige Brotkasten oder Kühlschrank danach gründlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum reicht Abkratzen bei Marmelade nicht?",
+      "art": "mc",
+      "optionen": [
+        "Pilzfäden breiten sich unsichtbar aus",
+        "Marmelade schmeckt dann bitter",
+        "Der Zucker wird giftig",
+        "Die Farbe ändert sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "In weichen Lebensmitteln wächst der Pilz tief hinein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welchem Lebensmittel kann großzügiges Abschneiden reichen?",
+      "art": "mc",
+      "optionen": [
+        "Hartkäse",
+        "Joghurt",
+        "Brot",
+        "Marmelade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit ein bis zwei Zentimetern Abstand."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Mykotoxine?",
+      "art": "mc",
+      "optionen": [
+        "Giftstoffe mancher Schimmelpilze",
+        "Vitamine",
+        "Ballaststoffe",
+        "Konservierungsmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden beim Kochen meist nicht zerstört."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schimmeliges Brot ist nach dem Toasten wieder unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Giftstoffe werden durch Hitze meist nicht zerstört."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schimmel wächst oft unsichtbar weiter.",
+        "Manche Pilze bilden hitzestabile Giftstoffe.",
+        "Weiche Lebensmittel mit Schimmel ganz entsorgen.",
+        "Bei Hartkäse großzügig abschneiden."
+      ]
+    }
+  ]
+}

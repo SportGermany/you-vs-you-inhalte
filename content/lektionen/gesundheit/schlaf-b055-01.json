@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b055-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft sanftes Schaukeln beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schaukeln",
+    "einschlafen",
+    "tiefschlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Babys schlafen in der Wiege oder im Kinderwagen oft schnell ein.",
+        "Auch viele Erwachsene dösen in der Hängematte leicht weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein uraltes Mittel",
+      "absaetze": [
+        "Eltern wiegen ihre Kinder seit jeher in den Schlaf. Die gleichmäßige Bewegung scheint beruhigend zu wirken.",
+        "Das Gleichgewichtsorgan im Innenohr nimmt die Bewegung wahr. Forschende vermuten, dass es Signale an Gehirnbereiche sendet, die am Schlaf beteiligt sind."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Experimente zeigen",
+      "absaetze": [
+        "In kleinen Studien schliefen Erwachsene auf einem sanft schaukelnden Bett schneller ein. In einer Studie verbrachten sie zudem mehr Zeit im Tiefschlaf.",
+        "Die Untersuchungen deuten darauf hin, dass rhythmisches Schaukeln den Schlaf fördern kann. Sie hatten aber nur wenige Teilnehmende."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Alltag",
+      "absaetze": [
+        "Ein schaukelndes Bett gibt es selten. Ein Nickerchen in der Hängematte kann aber eine angenehme Erholung sein.",
+        "Babys sollten zum Schlafen nicht in Hängematten oder schaukelnden Geräten liegen bleiben. Für sie ist der sichere Schlafplatz die flache, feste Matratze im eigenen Bett."
+      ],
+      "merke": "Babys gehören zum Schlafen in ein flaches, festes Bett.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Organ nimmt Schaukelbewegungen wahr?",
+      "art": "mc",
+      "optionen": [
+        "Das Gleichgewichtsorgan im Innenohr",
+        "Die Leber",
+        "Der Magen",
+        "Die Haut allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sendet Signale an das Gehirn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten kleine Studien mit schaukelnden Betten?",
+      "art": "mc",
+      "optionen": [
+        "Schnelleres Einschlafen",
+        "Gar kein Unterschied",
+        "Mehr Albträume",
+        "Schlechteres Gedächtnis"
+      ],
+      "richtig": 0,
+      "erklaerung": "In einer Studie gab es auch mehr Tiefschlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Babys können problemlos in einer Hängematte übernachten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gehören auf eine flache, feste Matratze."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sanftes Schaukeln kann beruhigen.",
+        "Kleine Studien deuten auf schnelleres Einschlafen hin.",
+        "Die Belege sind noch dünn.",
+        "Babys schlafen sicher nur flach im eigenen Bett."
+      ]
+    }
+  ]
+}

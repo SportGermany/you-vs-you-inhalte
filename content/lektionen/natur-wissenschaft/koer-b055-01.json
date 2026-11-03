@@ -1,0 +1,111 @@
+{
+  "id": "koer-b055-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Woher kommen Muskelkrämpfe?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "muskelkrampf",
+    "wade",
+    "sport"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachts zieht sich plötzlich die Wade schmerzhaft zusammen.",
+        "Fast jeder kennt solche Krämpfe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Muskel, der nicht loslässt",
+      "absaetze": [
+        "Bei einem Krampf zieht sich ein Muskel unwillkürlich und schmerzhaft zusammen. Meist dauert das Sekunden bis wenige Minuten. Am häufigsten betroffen sind Waden und Füße.",
+        "Die genaue Ursache ist oft unklar. Fachleute vermuten vor allem eine Übererregbarkeit der Nerven, die den Muskel steuern."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Auslöser",
+      "absaetze": [
+        "Krämpfe treten häufiger nach ungewohnter Anstrengung, bei Flüssigkeitsmangel, in der Schwangerschaft und im Alter auf. Auch manche Medikamente und Erkrankungen können sie begünstigen.",
+        "Ein Magnesiummangel wird oft als Ursache genannt. Studien deuten darauf hin, dass Magnesium bei nächtlichen Wadenkrämpfen älterer Menschen meist wenig hilft."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Moment hilft",
+      "absaetze": [
+        "Dehne den verkrampften Muskel sanft. Bei einem Wadenkrampf ziehst du dazu die Fußspitze zum Körper. Leichte Massage und Wärme können ebenfalls helfen.",
+        "Treten Krämpfe sehr häufig auf oder gehen sie mit Schwäche oder Schwellungen einher, solltest du das ärztlich abklären lassen."
+      ],
+      "merke": "Bei einem Wadenkrampf die Fußspitze zum Körper ziehen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Muskeln sind am häufigsten betroffen?",
+      "art": "mc",
+      "optionen": [
+        "Waden und Füße",
+        "Gesichtsmuskeln",
+        "Herzmuskel",
+        "Zungenmuskel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Krämpfe dauern meist Sekunden bis wenige Minuten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei einem Wadenkrampf im Moment?",
+      "art": "mc",
+      "optionen": [
+        "Die Fußspitze zum Körper ziehen",
+        "Den Fuß strecken und anspannen",
+        "Laufen gehen",
+        "Kaltes Wasser trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird der Muskel sanft gedehnt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Magnesium hilft allen Menschen zuverlässig gegen nächtliche Wadenkrämpfe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei älteren Menschen hilft es laut Studien meist wenig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Krampf ist ein unwillkürliches Zusammenziehen des Muskels.",
+        "Waden und Füße sind am häufigsten betroffen.",
+        "Die Ursache ist oft unklar.",
+        "Sanftes Dehnen hilft im Moment."
+      ]
+    }
+  ]
+}

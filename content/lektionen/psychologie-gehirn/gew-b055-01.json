@@ -1,0 +1,139 @@
+{
+  "id": "gew-b055-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie wird Sparen zur Gewohnheit?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sparen",
+    "automatisch",
+    "routinen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Monatsende ist oft nichts mehr übrig, was man sparen könnte.",
+        "Mit ein paar Tricks wird Sparen zur Selbstverständlichkeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zuerst sparen, dann ausgeben",
+      "absaetze": [
+        "Viele warten bis zum Monatsende, um zu sehen, was übrig bleibt. Wirksamer ist es, direkt nach dem Gehaltseingang einen festen Betrag beiseitezulegen.",
+        "Ein Dauerauftrag auf ein separates Konto macht das automatisch. Dann musst du dich nicht jeden Monat neu entscheiden."
+      ],
+      "merke": "Gleich nach dem Gehaltseingang sparen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Macht der Voreinstellung",
+      "absaetze": [
+        "Studien zu betrieblicher Altersvorsorge zeigen: Wenn Beschäftigte automatisch angemeldet werden und aktiv widersprechen müssen, sparen viel mehr Menschen.",
+        "Diese Kraft der Voreinstellung kannst du für dich nutzen. Was automatisch läuft, wird selten gestoppt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein anfangen und sichtbar machen",
+      "absaetze": [
+        "Starte mit einem kleinen Betrag, der nicht wehtut. Erhöhe ihn, wenn du merkst, dass es gut klappt, etwa nach einer Gehaltserhöhung.",
+        "Ein klares Sparziel, etwa ein Notgroschen oder eine Reise, motiviert. Ein Blick auf den wachsenden Kontostand belohnt dich zusätzlich."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "schritte",
+      "titel": "Sparen automatisieren",
+      "schritte": [
+        {
+          "titel": "Konto",
+          "text": "Richte ein separates Sparkonto ein."
+        },
+        {
+          "titel": "Dauerauftrag",
+          "text": "Lass am Gehaltstag automatisch einen Betrag überweisen."
+        },
+        {
+          "titel": "Klein starten",
+          "text": "Beginne mit einer Summe, die nicht wehtut."
+        },
+        {
+          "titel": "Ziel",
+          "text": "Leg fest, wofür du sparst."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist ein besonders guter Zeitpunkt zum Sparen?",
+      "art": "mc",
+      "optionen": [
+        "Direkt nach dem Gehaltseingang",
+        "Am Monatsende mit dem Rest",
+        "Nur bei Lottogewinnen",
+        "Einmal im Jahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "So ist das Geld weg, bevor du es ausgibst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Studien zur automatischen Anmeldung bei Altersvorsorge?",
+      "art": "mc",
+      "optionen": [
+        "Viel mehr Menschen sparen",
+        "Niemand spart mehr",
+        "Alle widersprechen",
+        "Es gibt keinen Unterschied"
+      ],
+      "richtig": 0,
+      "erklaerung": "Voreinstellungen wirken stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Dauerauftrag kann Sparen automatisch machen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann musst du nicht jeden Monat neu entscheiden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Direkt nach dem Gehaltseingang sparen.",
+        "Ein Dauerauftrag macht Sparen automatisch.",
+        "Voreinstellungen wirken stark.",
+        "Klein anfangen und ein Ziel setzen."
+      ]
+    }
+  ]
+}

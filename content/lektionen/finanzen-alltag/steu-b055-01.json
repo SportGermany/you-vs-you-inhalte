@@ -1,0 +1,108 @@
+{
+  "id": "steu-b055-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wird die Kfz-Steuer berechnet?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kraftfahrzeugsteuer",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kfz-steuer",
+    "auto",
+    "co2"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer ein Auto anmeldet, zahlt jedes Jahr Kraftfahrzeugsteuer.",
+        "Wie hoch sie ist, hängt vom Fahrzeug ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Steuer des Bundes",
+      "absaetze": [
+        "Die Kfz-Steuer steht dem Bund zu. Erhoben wird sie vom Zoll. Sie wird meist jährlich per Lastschrift eingezogen.",
+        "Wer ein Auto anmeldet, muss deshalb ein Lastschriftmandat für die Steuer erteilen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hubraum und Kohlendioxid",
+      "absaetze": [
+        "Bei neueren Autos richtet sich die Steuer vor allem nach zwei Dingen: dem Hubraum des Motors und dem Ausstoß an Kohlendioxid. Je mehr Kohlendioxid ein Auto ausstößt, desto höher die Steuer.",
+        "Dieselfahrzeuge zahlen für den Hubraum einen höheren Satz als Benziner. Für ältere Fahrzeuge gelten andere Regeln, etwa nach Schadstoffklasse."
+      ],
+      "merke": "Mehr CO2-Ausstoß bedeutet eine höhere Steuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen",
+      "absaetze": [
+        "Reine Elektroautos sind derzeit für eine begrenzte Zeit von der Kfz-Steuer befreit. Wie lange, hängt vom Zulassungsdatum ab.",
+        "Den genauen Betrag für ein bestimmtes Auto kannst du mit dem Kfz-Steuer-Rechner des Bundesfinanzministeriums ermitteln."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erhebt die Kfz-Steuer?",
+      "art": "mc",
+      "optionen": [
+        "Der Zoll",
+        "Die Gemeinde",
+        "Die Kfz-Versicherung",
+        "Der TÜV"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Steuer steht dem Bund zu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach richtet sich die Steuer bei neueren Autos vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Nach Hubraum und CO2-Ausstoß",
+        "Nach der Farbe",
+        "Nach dem Kaufpreis",
+        "Nach der Zahl der Türen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr CO2 bedeutet mehr Steuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reine Elektroautos sind derzeit zeitlich begrenzt steuerbefreit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Dauer hängt vom Zulassungsdatum ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kfz-Steuer erhebt der Zoll für den Bund.",
+        "Hubraum und CO2-Ausstoß bestimmen die Höhe.",
+        "Diesel zahlen beim Hubraum mehr als Benziner.",
+        "Elektroautos sind derzeit befristet befreit."
+      ]
+    }
+  ]
+}

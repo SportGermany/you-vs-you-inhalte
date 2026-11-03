@@ -1,0 +1,111 @@
+{
+  "id": "tech-b055-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert Spracherkennung?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sprachassistenten",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spracherkennung",
+    "sprachassistent",
+    "kuenstliche-intelligenz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hey, wie wird das Wetter morgen? Sprachassistenten verstehen solche Fragen erstaunlich gut.",
+        "Doch wie wird aus Sprache Text?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Schall zur Zahl",
+      "absaetze": [
+        "Ein Mikrofon wandelt die Schallwellen der Stimme in elektrische Signale um. Diese werden in Zahlen übersetzt, also digitalisiert.",
+        "Die Software zerlegt das Signal in winzige Zeitabschnitte und erkennt darin typische Muster einzelner Laute."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gelernt aus vielen Beispielen",
+      "absaetze": [
+        "Moderne Spracherkennung beruht auf künstlichen neuronalen Netzen. Sie wurden mit riesigen Mengen gesprochener Sprache und passendem Text trainiert.",
+        "So lernen sie, welche Laute zu welchen Wörtern gehören und welche Wortfolgen wahrscheinlich sind. Deshalb verstehen sie auch undeutliche Aussprache oft richtig."
+      ],
+      "merke": "Spracherkennung lernt aus riesigen Mengen Sprachaufnahmen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Datenschutz bedenken",
+      "absaetze": [
+        "Viele Sprachassistenten schicken Aufnahmen zur Auswertung an Server des Anbieters. Manche Geräte hören ständig auf ein Aktivierungswort.",
+        "Prüfe die Datenschutzeinstellungen, lösche gespeicherte Aufnahmen regelmäßig und schalte das Mikrofon bei Bedarf aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht das Mikrofon bei der Spracherkennung?",
+      "art": "mc",
+      "optionen": [
+        "Es wandelt Schall in elektrische Signale um",
+        "Es übersetzt in andere Sprachen",
+        "Es speichert Fotos",
+        "Es erzeugt Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach wird das Signal digitalisiert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf beruht moderne Spracherkennung?",
+      "art": "mc",
+      "optionen": [
+        "Auf künstlichen neuronalen Netzen",
+        "Auf Lochkarten",
+        "Auf festen Wörterbüchern allein",
+        "Auf Telepathie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wurden mit vielen Beispielen trainiert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Sprachassistenten senden Aufnahmen an Server des Anbieters.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb die Datenschutzeinstellungen prüfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Mikrofon wandelt Sprache in Signale um.",
+        "Die Software erkennt Muster von Lauten.",
+        "Neuronale Netze lernen aus riesigen Datenmengen.",
+        "Datenschutzeinstellungen prüfen."
+      ]
+    }
+  ]
+}
