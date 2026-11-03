@@ -1,0 +1,130 @@
+{
+  "id": "geld-b056-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie kommst du aus den Schulden?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schulden",
+    "schuldnerberatung",
+    "insolvenz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rechnungen stapeln sich, Mahnungen kommen, der Überblick geht verloren.",
+        "Auch aus einer schwierigen Lage gibt es Wege heraus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überblick verschaffen",
+      "absaetze": [
+        "Schreibe alle Schulden auf, mit Gläubiger, Betrag und Fälligkeit. Stelle dem deine Einnahmen und festen Ausgaben gegenüber.",
+        "Öffne Briefe, auch wenn es schwerfällt. Wer Fristen verpasst, riskiert zusätzliche Kosten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Prioritäten setzen",
+      "absaetze": [
+        "Zahle zuerst Miete, Energie und Versicherungen, die du dringend brauchst. Sonst drohen Kündigung oder Sperren.",
+        "Bei anderen Gläubigern lohnt es sich oft, aktiv eine Ratenzahlung anzufragen. Neue Kredite zum Stopfen alter Löcher verschlimmern die Lage meist."
+      ],
+      "merke": "Miete und Energie haben Vorrang."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hilfe holen",
+      "absaetze": [
+        "Schuldnerberatungsstellen von Verbraucherzentralen, Wohlfahrtsverbänden oder Kommunen beraten kostenlos und vertraulich. Meide unseriöse Angebote, die gegen Gebühr schnelle Rettung versprechen.",
+        "Ist die Lage aussichtslos, kann eine Privatinsolvenz ein Ausweg sein. Am Ende kann eine Restschuldbefreiung stehen. Ein Pfändungsschutzkonto sichert in der Zwischenzeit einen Grundbetrag."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Erste Schritte aus den Schulden",
+      "schritte": [
+        {
+          "titel": "Liste",
+          "text": "Schreibe alle Schulden auf."
+        },
+        {
+          "titel": "Briefe öffnen",
+          "text": "Lies Mahnungen und notiere Fristen."
+        },
+        {
+          "titel": "Vorrang",
+          "text": "Sichere Miete und Energie zuerst."
+        },
+        {
+          "titel": "Beratung",
+          "text": "Melde dich bei einer kostenlosen Schuldnerberatung."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zahlungen haben Vorrang?",
+      "art": "mc",
+      "optionen": [
+        "Miete und Energie",
+        "Neue Elektrogeräte",
+        "Urlaub",
+        "Abos für Streaming"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst drohen Kündigung oder Sperren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo gibt es kostenlose Schuldnerberatung?",
+      "art": "mc",
+      "optionen": [
+        "Bei Verbraucherzentralen und Wohlfahrtsverbänden",
+        "Nur bei Inkassofirmen",
+        "Bei Kreditvermittlern gegen Gebühr",
+        "Nirgends"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Beratung ist vertraulich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein neuer Kredit löst Schuldenprobleme in der Regel nachhaltig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er verschlimmert die Lage meist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alle Schulden auflisten und Briefe öffnen.",
+        "Miete und Energie haben Vorrang.",
+        "Kostenlose Schuldnerberatung nutzen.",
+        "Eine Privatinsolvenz kann ein Ausweg sein."
+      ]
+    }
+  ]
+}

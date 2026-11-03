@@ -1,0 +1,124 @@
+{
+  "id": "all-b056-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Gibt es Leben auf anderen Planeten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Exoplanets and Life",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ausserirdisches-leben",
+    "exoplaneten",
+    "astrobiologie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sind wir allein im Universum?",
+        "Diese Frage beschäftigt Menschen seit jeher, und die Forschung sucht intensiv nach Antworten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bisher kein Nachweis",
+      "absaetze": [
+        "Bis heute wurde nirgendwo außerhalb der Erde Leben sicher nachgewiesen. Auch einfache Mikroorganismen hat man noch nicht gefunden.",
+        "Die Forschung, die sich damit beschäftigt, heißt Astrobiologie."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo gesucht wird",
+      "absaetze": [
+        "Im Sonnensystem gelten der Mars sowie die Monde Europa und Enceladus als interessant. Unter ihren Eiskrusten vermutet man Ozeane aus flüssigem Wasser.",
+        "Außerhalb des Sonnensystems sind tausende Planeten bei anderen Sternen bekannt. Einige liegen in einem Abstand zu ihrem Stern, bei dem flüssiges Wasser möglich wäre."
+      ],
+      "merke": "Flüssiges Wasser gilt als wichtige Voraussetzung für Leben.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spuren in der Atmosphäre",
+      "absaetze": [
+        "Teleskope können die Atmosphären mancher ferner Planeten untersuchen. Bestimmte Gase könnten Hinweise auf Leben geben.",
+        "Solche Hinweise sind aber schwer zu deuten, weil die Gase auch ohne Leben entstehen können. Die Suche wird noch viele Jahre dauern."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wurde bisher Leben außerhalb der Erde nachgewiesen?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, auf dem Mars",
+        "Ja, auf dem Mond",
+        "Ja, auf der Sonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Mikroorganismen wurden nicht gefunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Monde gelten als interessant für die Suche?",
+      "art": "mc",
+      "optionen": [
+        "Europa und Enceladus",
+        "Der Erdmond allein",
+        "Phobos und Deimos",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unter ihrem Eis werden Ozeane vermutet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt als wichtige Voraussetzung für Leben?",
+      "art": "mc",
+      "optionen": [
+        "Flüssiges Wasser",
+        "Große Hitze",
+        "Völlige Dunkelheit ohne Wasser",
+        "Starke Strahlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Exoplaneten könnten flüssiges Wasser haben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bestimmte Gase in Planetenatmosphären können eindeutig Leben beweisen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie können auch ohne Leben entstehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bisher wurde kein außerirdisches Leben nachgewiesen.",
+        "Mars, Europa und Enceladus sind interessante Ziele.",
+        "Tausende Exoplaneten sind bekannt.",
+        "Gase in Atmosphären sind schwer zu deuten."
+      ]
+    }
+  ]
+}

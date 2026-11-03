@@ -1,0 +1,143 @@
+{
+  "id": "haus-b056-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie schützt du dich vor dem Enkeltrick?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Betrug an älteren Menschen",
+      "herausgeber": "Polizeiliche Kriminalprävention der Länder und des Bundes",
+      "url": "https://www.polizei-beratung.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "enkeltrick",
+    "betrug",
+    "senioren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hallo, rate mal, wer hier ist. Ich brauche dringend Geld.",
+        "Mit solchen Anrufen erbeuten Betrüger jedes Jahr hohe Summen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie der Trick funktioniert",
+      "absaetze": [
+        "Betrüger rufen meist ältere Menschen an und geben sich als Enkel, Kind oder andere Verwandte aus. Sie behaupten, dringend Geld zu brauchen, etwa für einen Unfall oder eine Notlage.",
+        "Ähnlich funktionieren Anrufe falscher Polizisten oder Nachrichten per Messenger, in denen sich jemand als Kind mit neuer Nummer ausgibt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen",
+      "absaetze": [
+        "Typisch sind Zeitdruck, Geheimhaltung und die Forderung nach Bargeld oder Wertsachen. Oft soll ein Bote das Geld abholen.",
+        "Die echte Polizei fordert am Telefon niemals Geld oder Wertgegenstände. Sie ruft auch nie unter der Notrufnummer 110 an."
+      ],
+      "merke": "Die Polizei fordert am Telefon nie Geld."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du dich und andere",
+      "absaetze": [
+        "Lege bei Zweifeln auf. Rufe die Person unter der dir bekannten Nummer zurück. Gib niemals Geld an Unbekannte.",
+        "Sprich mit älteren Angehörigen über diese Tricks. Bei einem Verdacht informiere die Polizei über die 110."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Bei einem verdächtigen Anruf",
+      "schritte": [
+        {
+          "titel": "Auflegen",
+          "text": "Beende das Gespräch bei Zweifeln."
+        },
+        {
+          "titel": "Zurückrufen",
+          "text": "Ruf die Person unter der bekannten Nummer an."
+        },
+        {
+          "titel": "Kein Geld",
+          "text": "Gib nie Geld oder Wertsachen an Unbekannte."
+        },
+        {
+          "titel": "Polizei",
+          "text": "Informiere bei Verdacht die 110."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie geben sich Betrüger beim Enkeltrick aus?",
+      "art": "mc",
+      "optionen": [
+        "Als Verwandte in Not",
+        "Als Briefträger",
+        "Als Nachbarn mit Paket",
+        "Als Ärzte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie fordern dringend Geld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein typisches Warnzeichen?",
+      "art": "mc",
+      "optionen": [
+        "Zeitdruck und Geheimhaltung",
+        "Ein Anruf zum Geburtstag",
+        "Eine Postkarte",
+        "Ein Brief vom Amt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft soll ein Bote das Geld abholen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du bei Zweifeln?",
+      "art": "mc",
+      "optionen": [
+        "Auflegen und unter der bekannten Nummer zurückrufen",
+        "Geld sofort übergeben",
+        "Den Anrufer einladen",
+        "Schweigen und nichts tun"
+      ],
+      "richtig": 0,
+      "erklaerung": "So prüfst du, ob die Geschichte stimmt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die echte Polizei kann am Telefon Geld zur Sicherung verlangen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das tut die Polizei niemals."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Betrüger geben sich als Verwandte oder Polizisten aus.",
+        "Zeitdruck und Geheimhaltung sind Warnzeichen.",
+        "Bei Zweifeln auflegen und zurückrufen.",
+        "Nie Geld an Unbekannte geben."
+      ]
+    }
+  ]
+}

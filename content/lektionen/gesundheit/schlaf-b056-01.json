@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b056-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schlafen Frauen anders als Männer?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "geschlechterunterschiede",
+    "insomnie",
+    "hormone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schlafforschung wurde lange vor allem an Männern betrieben.",
+        "Heute weiß man: Es gibt Unterschiede."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufiger Schlafprobleme",
+      "absaetze": [
+        "Frauen berichten häufiger als Männer über Ein- und Durchschlafstörungen. Studien deuten darauf hin, dass sie ein höheres Risiko für eine Insomnie haben.",
+        "Gleichzeitig schlafen Frauen im Schlaflabor oft etwas länger und haben mehr Tiefschlaf als gleichaltrige Männer."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hormone spielen mit",
+      "absaetze": [
+        "Hormonschwankungen im Monatszyklus, in der Schwangerschaft und in den Wechseljahren können den Schlaf deutlich beeinflussen. Hitzewallungen etwa wecken viele Frauen nachts auf.",
+        "Auch Sorgen und Belastungen wie Pflege von Angehörigen oder kleine Kinder treffen Frauen häufig stärker."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Männer und Schlafapnoe",
+      "absaetze": [
+        "Männer haben dagegen häufiger eine Schlafapnoe, also Atemaussetzer im Schlaf. Bei Frauen wird sie oft übersehen, weil die Beschwerden anders aussehen können, etwa Müdigkeit oder Kopfschmerzen statt lautem Schnarchen.",
+        "Wer dauerhaft schlecht schläft, sollte das unabhängig vom Geschlecht ärztlich abklären lassen."
+      ],
+      "merke": "Schlafapnoe wird bei Frauen oft übersehen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer berichtet häufiger über Schlafstörungen?",
+      "art": "mc",
+      "optionen": [
+        "Frauen",
+        "Männer",
+        "Beide gleich",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Frauen haben ein höheres Insomnie-Risiko."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beeinflusst den Schlaf von Frauen besonders?",
+      "art": "mc",
+      "optionen": [
+        "Hormonschwankungen",
+        "Die Schuhgröße",
+        "Die Haarfarbe",
+        "Der Mond allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa in Zyklus, Schwangerschaft und Wechseljahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlafapnoe kommt nur bei Männern vor.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei Frauen wird sie oft übersehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Frauen berichten häufiger über Schlafstörungen.",
+        "Hormonschwankungen beeinflussen ihren Schlaf.",
+        "Männer haben häufiger eine Schlafapnoe.",
+        "Bei Frauen wird Schlafapnoe oft übersehen."
+      ]
+    }
+  ]
+}

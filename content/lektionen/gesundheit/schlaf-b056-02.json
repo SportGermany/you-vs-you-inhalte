@@ -1,0 +1,134 @@
+{
+  "id": "schlaf-b056-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläfst du auf dem Sofa ein, aber nicht im Bett?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "einschlafen",
+    "konditionierung",
+    "insomnie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor dem Fernseher fallen die Augen zu. Im Bett ist man plötzlich hellwach.",
+        "Dieses Phänomen kennen viele Menschen mit Schlafproblemen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Bett als Grübelort",
+      "absaetze": [
+        "Wer oft wach im Bett liegt und sich Sorgen macht, verbindet das Bett mit Anspannung. Das Gehirn lernt: Bett bedeutet wach sein und grübeln.",
+        "Fachleute sprechen von einer erlernten Verknüpfung. Sobald man sich hinlegt, steigt dann die innere Anspannung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Druck verhindert Schlaf",
+      "absaetze": [
+        "Auf dem Sofa will man gar nicht unbedingt schlafen. Ohne Druck stellt sich die Müdigkeit leichter ein.",
+        "Im Bett dagegen soll es klappen. Gerade dieser Wunsch erzeugt Anspannung und hält wach."
+      ],
+      "merke": "Druck, schlafen zu müssen, hält wach.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Bett wieder mit Schlaf verbinden",
+      "absaetze": [
+        "In der Verhaltenstherapie bei Schlafstörungen gilt eine einfache Regel: Das Bett ist nur zum Schlafen da. Geh erst ins Bett, wenn du wirklich müde bist.",
+        "Liegst du lange wach, steh auf und mach etwas Ruhiges in einem anderen Raum. Komm zurück, wenn du müde bist. Studien deuten darauf hin, dass diese Methode Schlafprobleme verringern kann."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "schritte",
+      "titel": "Bett und Schlaf neu verknüpfen",
+      "schritte": [
+        {
+          "titel": "Müde",
+          "text": "Geh nur ins Bett, wenn du wirklich müde bist."
+        },
+        {
+          "titel": "Nur Schlaf",
+          "text": "Nutze das Bett nicht zum Arbeiten oder Grübeln."
+        },
+        {
+          "titel": "Aufstehen",
+          "text": "Steh auf, wenn du lange wach liegst."
+        },
+        {
+          "titel": "Feste Zeit",
+          "text": "Steh jeden Morgen zur gleichen Zeit auf."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann das Bett wach machen?",
+      "art": "mc",
+      "optionen": [
+        "Das Gehirn verbindet es mit Grübeln",
+        "Die Matratze ist zu weich",
+        "Das Licht ist zu hell",
+        "Wegen der Bettwäsche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man spricht von einer erlernten Verknüpfung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum klappt Einschlafen auf dem Sofa oft leichter?",
+      "art": "mc",
+      "optionen": [
+        "Weil kein Druck besteht, schlafen zu müssen",
+        "Weil Sofas gesünder sind",
+        "Weil der Fernseher Melatonin bildet",
+        "Weil es dort kälter ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Druck stellt sich Müdigkeit leichter ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer lange wach liegt, sollte laut Verhaltenstherapie aufstehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Erst bei Müdigkeit zurück ins Bett."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Bett kann zum Ort des Grübelns werden.",
+        "Druck, schlafen zu müssen, hält wach.",
+        "Das Bett nur zum Schlafen nutzen.",
+        "Bei langem Wachliegen aufstehen."
+      ]
+    }
+  ]
+}

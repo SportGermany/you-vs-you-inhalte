@@ -1,0 +1,124 @@
+{
+  "id": "koer-b056-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum bekommen manche Menschen Sommersprossen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "UV-Strahlung und Haut",
+      "herausgeber": "Bundesamt für Strahlenschutz (BfS)",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sommersprossen",
+    "haut",
+    "sonne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sommer tauchen sie auf, im Winter verblassen sie.",
+        "Sommersprossen sind kleine Pigmentflecken mit einer genetischen Ursache."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Farbflecken",
+      "absaetze": [
+        "Sommersprossen sind winzige Stellen, an denen die Haut mehr vom Farbstoff Melanin bildet. Melanin schützt die Haut vor UV-Strahlung.",
+        "Die Zahl der Farbzellen ist dabei nicht erhöht. Sie arbeiten an diesen Stellen nur stärker."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Frage der Gene",
+      "absaetze": [
+        "Ob jemand Sommersprossen bekommt, hängt vor allem von den Genen ab. Besonders häufig sind sie bei Menschen mit heller Haut und roten oder blonden Haaren.",
+        "Sonnenlicht macht vorhandene Sommersprossen dunkler und zahlreicher. Im Winter verblassen sie wieder."
+      ],
+      "merke": "Sonne lässt Sommersprossen dunkler werden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hinweis auf empfindliche Haut",
+      "absaetze": [
+        "Sommersprossen selbst sind harmlos. Menschen mit vielen Sommersprossen haben aber oft eine sonnenempfindliche Haut und ein höheres Risiko für Sonnenbrand.",
+        "Achte deshalb auf guten Sonnenschutz. Verändern sich Flecken auf der Haut in Form, Farbe oder Größe, lass sie ärztlich untersuchen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Sommersprossen?",
+      "art": "mc",
+      "optionen": [
+        "Stellen mit mehr Melanin",
+        "Kleine Wunden",
+        "Narben",
+        "Allergien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Melanin schützt vor UV-Strahlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt es vor allem ab, ob jemand Sommersprossen bekommt?",
+      "art": "mc",
+      "optionen": [
+        "Von den Genen",
+        "Von der Ernährung",
+        "Vom Schlaf",
+        "Vom Wohnort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders häufig bei heller Haut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sollten Menschen mit vielen Sommersprossen beachten?",
+      "art": "mc",
+      "optionen": [
+        "Guten Sonnenschutz",
+        "Mehr Sonnenbaden",
+        "Gar nichts",
+        "Weniger trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihre Haut ist oft sonnenempfindlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sommersprossen werden im Winter blasser.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ohne viel Sonne verblassen sie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sommersprossen sind Stellen mit mehr Melanin.",
+        "Ob man sie bekommt, bestimmen die Gene.",
+        "Sonne macht sie dunkler.",
+        "Menschen mit vielen Sommersprossen brauchen guten Sonnenschutz."
+      ]
+    }
+  ]
+}

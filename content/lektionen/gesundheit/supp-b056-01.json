@@ -1,0 +1,126 @@
+{
+  "id": "supp-b056-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Shilajit zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "shilajit",
+    "mumijo",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein schwarzes Harz aus dem Gebirge wird in sozialen Medien als Wundersubstanz für Energie gefeiert.",
+        "Gemeint ist Shilajit, auch Mumijo genannt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Shilajit ist",
+      "absaetze": [
+        "Shilajit ist eine teerartige Masse, die in Gebirgen wie dem Himalaya aus Felsspalten austritt. Sie entsteht vermutlich aus zersetzten Pflanzenresten über lange Zeit.",
+        "In der ayurvedischen Medizin wird Shilajit seit Langem genutzt. Es enthält unter anderem Huminstoffe und Mineralstoffe."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig Forschung",
+      "absaetze": [
+        "Shilajit soll Energie, Hormone und Leistungsfähigkeit steigern. Es gibt dazu nur wenige kleine Studien von oft unklarer Qualität. Ein Nutzen ist nicht belegt.",
+        "Die Studienlage deutet darauf hin, dass viele Versprechen in der Werbung weit über das hinausgehen, was untersucht wurde."
+      ],
+      "merke": "Ein Nutzen ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Risiko Verunreinigung",
+      "absaetze": [
+        "Rohes oder schlecht gereinigtes Shilajit kann Schwermetalle und andere Verunreinigungen enthalten. Produkte aus dem Internet unterliegen oft keiner verlässlichen Kontrolle.",
+        "Schwangere, Stillende und Kinder sollten auf solche Produkte verzichten. Wer Medikamente braucht, sollte vorher ärztlich nachfragen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Schwangere, Stillende und Kinder sollten auf Shilajit verzichten.",
+        "Bei Medikamenten vorher ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Shilajit?",
+      "art": "mc",
+      "optionen": [
+        "Eine teerartige Masse aus Gebirgen",
+        "Ein Fisch",
+        "Eine Frucht",
+        "Ein synthetisches Vitamin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wird auch Mumijo genannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist der Nutzen belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nicht belegt",
+        "Sehr gut",
+        "Durch viele große Studien",
+        "Er ist gesetzlich anerkannt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt nur wenige kleine Studien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlecht gereinigtes Shilajit kann Schwermetalle enthalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Qualität ist oft nicht kontrolliert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Shilajit ist ein Harz aus dem Gebirge.",
+        "Es wird in der ayurvedischen Medizin genutzt.",
+        "Ein Nutzen ist nicht belegt.",
+        "Verunreinigungen mit Schwermetallen sind möglich."
+      ]
+    }
+  ]
+}

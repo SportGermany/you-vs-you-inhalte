@@ -1,0 +1,118 @@
+{
+  "id": "ern-b056-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Proteinriegel ein gesunder Snack?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "proteinriegel",
+    "snacks",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Proteinriegel liegen im Supermarkt längst nicht mehr nur im Sportregal.",
+        "Sie werden als gesunde Zwischenmahlzeit beworben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Proteinriegel enthalten viel Eiweiß, oft aus Milch- oder Sojaeiweiß. Daneben stecken häufig Zucker, Zuckeralkohole, Fette und Zusatzstoffe darin.",
+        "Viele Riegel gehören zu den stark verarbeiteten Lebensmitteln. Ihr Energiegehalt ist oft ähnlich hoch wie bei einem Schokoriegel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Brauchst du das zusätzliche Eiweiß?",
+      "absaetze": [
+        "Die meisten Menschen in Deutschland nehmen über die normale Ernährung genug Eiweiß auf. Auch wer Sport treibt, kommt mit Milchprodukten, Hülsenfrüchten, Eiern oder Fleisch meist gut aus.",
+        "Ein Riegel kann unterwegs praktisch sein. Nötig ist er für die Versorgung aber in der Regel nicht."
+      ],
+      "merke": "Für die Eiweißversorgung sind Riegel meist nicht nötig.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Alternativen",
+      "absaetze": [
+        "Eine Handvoll Nüsse, ein Naturjoghurt, ein Stück Käse oder ein Vollkornbrot mit Quark liefern ebenfalls Eiweiß, meist günstiger und weniger verarbeitet.",
+        "Wer Riegel mag, sollte die Zutatenliste vergleichen. Zuckeralkohole können in größeren Mengen abführend wirken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt neben Eiweiß oft in Proteinriegeln?",
+      "art": "mc",
+      "optionen": [
+        "Zucker, Zuckeralkohole und Zusatzstoffe",
+        "Nur Wasser",
+        "Nur Vitamine",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Riegel sind stark verarbeitet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brauchen die meisten Menschen zusätzliches Eiweiß aus Riegeln?",
+      "art": "mc",
+      "optionen": [
+        "Nein, die normale Ernährung reicht meist",
+        "Ja, immer",
+        "Nur Kinder",
+        "Nur nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Sporttreibende kommen meist gut aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Naturjoghurt kann eine eiweißreiche Alternative sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist meist günstiger und weniger verarbeitet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Proteinriegel sind oft stark verarbeitet.",
+        "Ihr Energiegehalt ähnelt oft einem Schokoriegel.",
+        "Die normale Ernährung liefert meist genug Eiweiß.",
+        "Nüsse, Joghurt oder Quark sind gute Alternativen."
+      ]
+    }
+  ]
+}

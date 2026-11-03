@@ -1,0 +1,124 @@
+{
+  "id": "tech-b056-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Laser?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Optik",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "laser",
+    "licht",
+    "optik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Laser stecken in Scannerkassen, Glasfaserkabeln und in der Augenmedizin.",
+        "Ihr Licht unterscheidet sich stark von dem einer Glühbirne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besonderes Licht",
+      "absaetze": [
+        "Normales Licht besteht aus vielen Farben, die in alle Richtungen strahlen. Laserlicht hat meist nur eine einzige Farbe, also eine bestimmte Wellenlänge.",
+        "Außerdem schwingen die Lichtwellen im Gleichtakt und laufen fast parallel. Deshalb bleibt ein Laserstrahl auch über weite Strecken eng gebündelt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Laserlicht entsteht",
+      "absaetze": [
+        "Im Laser werden Atome mit Energie angeregt. Trifft ein Lichtteilchen auf ein angeregtes Atom, gibt dieses ein zweites, gleiches Lichtteilchen ab. Das nennt man stimulierte Emission.",
+        "Zwei Spiegel werfen das Licht hin und her und verstärken es so immer weiter. Ein Teil tritt durch einen halbdurchlässigen Spiegel als Strahl aus. Das Wort Laser ist eine englische Abkürzung für diese Lichtverstärkung."
+      ],
+      "merke": "Laser verstärken Licht durch stimulierte Emission.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht mit dem Strahl",
+      "absaetze": [
+        "Schon schwache Laser können die Netzhaut schädigen, wenn man direkt hineinschaut. Richte Laserpointer nie auf Menschen, Tiere oder Fahrzeuge.",
+        "Laser werden in Klassen eingeteilt. Je höher die Klasse, desto gefährlicher ist der Strahl."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für Laserlicht?",
+      "art": "mc",
+      "optionen": [
+        "Eine Farbe und eng gebündelt",
+        "Viele Farben in alle Richtungen",
+        "Es ist unsichtbar warm",
+        "Es ist immer weiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wellen schwingen im Gleichtakt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Vorgang, der Laserlicht erzeugt?",
+      "art": "mc",
+      "optionen": [
+        "Stimulierte Emission",
+        "Verbrennung",
+        "Fotosynthese",
+        "Verdunstung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Angeregte Atome geben gleiche Lichtteilchen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen die Spiegel im Laser?",
+      "art": "mc",
+      "optionen": [
+        "Sie verstärken das Licht durch Hin- und Herwerfen",
+        "Sie kühlen den Laser",
+        "Sie färben das Licht",
+        "Sie messen die Zeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Teil tritt als Strahl aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laserpointer dürfen bedenkenlos auf Menschen gerichtet werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie können die Augen schädigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Laserlicht ist einfarbig und eng gebündelt.",
+        "Es entsteht durch stimulierte Emission.",
+        "Spiegel verstärken das Licht.",
+        "Nie in einen Laserstrahl schauen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b056-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was taugen IgG-Tests auf Nahrungsmittelunverträglichkeiten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen Allergologie",
+      "herausgeber": "Deutsche Gesellschaft für Allergologie und klinische Immunologie (DGAKI)",
+      "url": "https://dgaki.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "igg-test",
+    "unvertraeglichkeit",
+    "diagnostik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein paar Tropfen Blut einschicken und erfahren, welche Lebensmittel man nicht verträgt.",
+        "Solche Tests werden im Internet und in manchen Praxen angeboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was gemessen wird",
+      "absaetze": [
+        "Viele dieser Tests messen Antikörper vom Typ IgG gegen Lebensmittel. Hohe Werte sollen eine Unverträglichkeit anzeigen.",
+        "IgG-Antikörper gegen Lebensmittel sind aber eine normale Reaktion des Immunsystems auf Nahrung. Sie zeigen meist nur, dass man ein Lebensmittel regelmäßig isst."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fachgesellschaften raten ab",
+      "absaetze": [
+        "Allergologische Fachgesellschaften halten IgG-Tests zur Diagnose von Unverträglichkeiten für ungeeignet. Die Ergebnisse sagen nichts darüber aus, ob man ein Lebensmittel verträgt.",
+        "Wer danach viele Lebensmittel meidet, riskiert eine unnötig einseitige Ernährung. Bei Kindern kann das die Versorgung gefährden."
+      ],
+      "merke": "IgG-Tests sind zur Diagnose von Unverträglichkeiten ungeeignet.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was stattdessen hilft",
+      "absaetze": [
+        "Bei Beschwerden nach dem Essen ist eine ärztliche Abklärung sinnvoll. Für echte Allergien, Laktose- oder Fruktoseunverträglichkeit und Zöliakie gibt es anerkannte Tests.",
+        "Ein Ernährungs- und Beschwerdetagebuch kann helfen, Zusammenhänge zu erkennen. Auslassversuche sollten fachlich begleitet werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen IgG-Antikörper gegen Lebensmittel meist an?",
+      "art": "mc",
+      "optionen": [
+        "Dass man das Lebensmittel regelmäßig isst",
+        "Eine schwere Allergie",
+        "Eine Vergiftung",
+        "Einen Vitaminmangel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind eine normale Reaktion auf Nahrung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bewerten Fachgesellschaften IgG-Tests?",
+      "art": "mc",
+      "optionen": [
+        "Als ungeeignet zur Diagnose",
+        "Als Goldstandard",
+        "Als Pflichtuntersuchung",
+        "Als kostenlos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sagen nichts über die Verträglichkeit aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann helfen, Zusammenhänge zu erkennen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Ernährungs- und Beschwerdetagebuch",
+        "Ein Horoskop",
+        "Ein IgG-Test aus dem Internet",
+        "Viel Raten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auslassversuche fachlich begleiten lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach einem IgG-Test viele Lebensmittel zu meiden, ist unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es droht eine einseitige Ernährung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "IgG-Tests messen eine normale Immunreaktion.",
+        "Sie eignen sich nicht zur Diagnose von Unverträglichkeiten.",
+        "Unnötiges Meiden kann die Ernährung einseitig machen.",
+        "Anerkannte Tests gibt es in der Arztpraxis.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
