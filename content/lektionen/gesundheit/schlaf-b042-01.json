@@ -1,0 +1,111 @@
+{
+  "id": "schlaf-b042-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft Lesen im Bett beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lesen",
+    "einschlafen",
+    "abendroutine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Für viele gehört ein Buch am Abend fest dazu.",
+        "Hilft Lesen tatsächlich beim Einschlafen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein ruhiges Ritual",
+      "absaetze": [
+        "Lesen kann helfen, vom Tag abzuschalten. Die Gedanken richten sich auf die Geschichte statt auf Sorgen.",
+        "Als festes Abendritual signalisiert es dem Körper, dass bald Schlafenszeit ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien andeuten",
+      "absaetze": [
+        "Einige Studien deuten darauf hin, dass ein gedrucktes Buch vor dem Schlafen günstiger ist als ein selbst leuchtender Bildschirm. In einer Untersuchung schliefen Menschen nach dem Lesen am Tablet später ein und waren morgens weniger wach.",
+        "Die Forschung dazu ist aber noch begrenzt."
+      ],
+      "merke": "Papierbücher oder E-Reader ohne Hintergrundlicht sind am Abend günstiger.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Wähle Lektüre, die dich nicht aufwühlt. Ein extrem spannender Thriller kann dich eher wach halten.",
+        "Wer im Bett nicht einschlafen kann, sollte nach Empfehlung von Schlafmedizinern das Bett vor allem mit Schlaf verbinden. Lesen kann dann auch auf einem Sessel stattfinden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Lesen am Abend bewirken?",
+      "art": "mc",
+      "optionen": [
+        "Helfen, vom Tag abzuschalten",
+        "Den Schlaf immer verhindern",
+        "Das Gedächtnis löschen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es lenkt von Sorgen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deutete eine Untersuchung zum Lesen am Tablet an?",
+      "art": "mc",
+      "optionen": [
+        "Späteres Einschlafen als mit einem Buch",
+        "Besserer Schlaf",
+        "Keine Unterschiede",
+        "Längerer Tiefschlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Licht des Bildschirms kann stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein sehr spannender Thriller kann eher wach halten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ruhige Lektüre ist besser geeignet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lesen kann ein ruhiges Abendritual sein.",
+        "Gedruckte Bücher sind günstiger als leuchtende Bildschirme.",
+        "Aufwühlende Lektüre kann wach halten.",
+        "Bei Schlafproblemen lieber außerhalb des Betts lesen."
+      ]
+    }
+  ]
+}

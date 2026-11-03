@@ -1,0 +1,120 @@
+{
+  "id": "supp-b042-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Sind teure Vitaminpräparate besser als günstige?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "preisvergleich",
+    "vitamine",
+    "qualitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Drogerie kostet ein Vitaminpräparat wenige Euro, in der Apotheke oder im Onlineshop ein Vielfaches.",
+        "Ist das teure Produkt auch besser?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gleiche Regeln für alle",
+      "absaetze": [
+        "Nahrungsergänzungsmittel unterliegen in der EU dem Lebensmittelrecht. Für günstige und teure Produkte gelten dieselben Vorgaben bei Zutaten und Kennzeichnung.",
+        "Ein höherer Preis bedeutet nicht automatisch eine bessere Wirkung oder Qualität."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Tests zeigen",
+      "absaetze": [
+        "Untersuchungen von Verbraucherschützern fanden immer wieder, dass günstige Präparate genauso gut abschneiden können wie teure. Manche teuren Produkte enthielten sogar sehr hohe, nicht sinnvolle Mengen.",
+        "Teure Zusätze wie besondere Formen eines Vitamins sind oft mit Werbeversprechen verbunden, deren Nutzen nicht belegt ist."
+      ],
+      "merke": "Ein hoher Preis sagt wenig über den Nutzen aus.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die wichtigere Frage",
+      "absaetze": [
+        "Wichtiger als der Preis ist die Frage, ob du ein Präparat überhaupt brauchst. Für die meisten gesunden Menschen ist eine ausgewogene Ernährung ausreichend.",
+        "Bei nachgewiesenem Mangel berät die ärztliche Praxis oder Apotheke, welches Produkt in welcher Menge sinnvoll ist."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll.",
+        "Bei Unsicherheit in Apotheke oder Arztpraxis beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Regeln gelten für Nahrungsergänzungsmittel?",
+      "art": "mc",
+      "optionen": [
+        "Dieselben Vorgaben für günstige und teure Produkte",
+        "Teure Produkte werden strenger geprüft",
+        "Günstige sind verboten",
+        "Gar keine Regeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie unterliegen dem Lebensmittelrecht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten Untersuchungen?",
+      "art": "mc",
+      "optionen": [
+        "Günstige Präparate können genauso gut abschneiden",
+        "Nur teure Produkte wirken",
+        "Günstige sind immer gefährlich",
+        "Preis und Qualität sind gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Preis sagt wenig über den Nutzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wichtiger als der Preis ist, ob man ein Präparat überhaupt braucht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die meisten Gesunden brauchen keins."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Für alle Präparate gelten dieselben Regeln.",
+        "Ein hoher Preis bedeutet nicht mehr Nutzen.",
+        "Teure Zusätze sind oft unbelegt.",
+        "Erst klären, ob ein Präparat nötig ist."
+      ]
+    }
+  ]
+}

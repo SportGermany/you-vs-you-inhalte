@@ -1,0 +1,108 @@
+{
+  "id": "tech-b042-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Woher kennt eine Funkuhr die genaue Zeit?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zeit und Frequenz",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "funkuhr",
+    "atomuhr",
+    "zeitsignal"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Funkuhren stellen sich bei der Zeitumstellung von selbst um.",
+        "Ihre Zeit kommt aus einer Atomuhr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Atomuhren der PTB",
+      "absaetze": [
+        "Die Physikalisch-Technische Bundesanstalt in Braunschweig betreibt Atomuhren. Sie messen die Zeit extrem genau, indem sie Schwingungen von Atomen zählen.",
+        "Die PTB ist in Deutschland für die gesetzliche Zeit zuständig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Zeitsignal per Funk",
+      "absaetze": [
+        "Ein Langwellensender in Mainflingen bei Frankfurt am Main sendet das Zeitsignal aus. Es heißt DCF77 und reicht weit über Deutschland hinaus.",
+        "Funkuhren empfangen dieses Signal, meist nachts, und stellen sich danach. Auch die Umstellung auf Sommer- und Winterzeit ist im Signal enthalten."
+      ],
+      "merke": "Funkuhren empfangen ein Zeitsignal aus Mainflingen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genauigkeit",
+      "absaetze": [
+        "Die Atomuhren der PTB weichen in Millionen Jahren nur um Bruchteile einer Sekunde ab. Die Funkuhr selbst ist so genau wie der letzte Empfang.",
+        "Auch Computer und Smartphones gleichen ihre Zeit über das Internet oder Mobilfunk mit genauen Zeitquellen ab."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die Zeit für Funkuhren?",
+      "art": "mc",
+      "optionen": [
+        "Aus den Atomuhren der PTB",
+        "Aus Sonnenuhren",
+        "Aus dem Smartphone",
+        "Aus Wetterstationen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die PTB ist für die gesetzliche Zeit zuständig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steht der Sender für das Zeitsignal?",
+      "art": "mc",
+      "optionen": [
+        "In Mainflingen bei Frankfurt",
+        "In Berlin",
+        "Auf dem Mond",
+        "In Paris"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Signal heißt DCF77."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Funkuhren stellen die Zeitumstellung automatisch um.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Information ist im Signal enthalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die PTB betreibt Atomuhren und ist für die gesetzliche Zeit zuständig.",
+        "Der Sender DCF77 in Mainflingen verbreitet die Zeit.",
+        "Funkuhren stellen sich danach automatisch.",
+        "Auch die Zeitumstellung ist im Signal enthalten."
+      ]
+    }
+  ]
+}

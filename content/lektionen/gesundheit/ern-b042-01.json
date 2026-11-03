@@ -1,0 +1,112 @@
+{
+  "id": "ern-b042-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was sind Pseudogetreide?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pseudogetreide",
+    "quinoa",
+    "buchweizen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Quinoa, Amaranth und Buchweizen sehen aus wie Getreide und werden ähnlich gegessen.",
+        "Botanisch sind sie aber keine Getreide."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Gräser",
+      "absaetze": [
+        "Echte Getreide wie Weizen, Roggen oder Hafer gehören zur Familie der Süßgräser. Quinoa, Amaranth und Buchweizen stammen dagegen aus ganz anderen Pflanzenfamilien.",
+        "Weil ihre Samen ähnlich verwendet werden, nennt man sie Pseudogetreide."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie bieten",
+      "absaetze": [
+        "Pseudogetreide liefern Eiweiß, Ballaststoffe und Mineralstoffe wie Magnesium und Eisen. Ihr Eiweiß enthält viele unentbehrliche Aminosäuren.",
+        "Sie sind von Natur aus glutenfrei. Für Menschen mit Zöliakie sind sie deshalb eine Alternative, sofern sie nicht mit glutenhaltigem Getreide verunreinigt sind."
+      ],
+      "merke": "Pseudogetreide sind von Natur aus glutenfrei.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Küche",
+      "absaetze": [
+        "Quinoa sollte vor dem Kochen gründlich gewaschen werden. Ihre Schale enthält Bitterstoffe namens Saponine.",
+        "Buchweizen wächst auch in Europa und ist meist günstiger als importierte Quinoa. Hirse und Hafer sind ebenfalls nährstoffreiche heimische Alternativen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum heißen Quinoa und Buchweizen Pseudogetreide?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind keine Gräser, werden aber wie Getreide verwendet",
+        "Sie sind künstlich hergestellt",
+        "Sie enthalten kein Eiweiß",
+        "Sie wachsen unter Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Botanisch gehören sie zu anderen Pflanzenfamilien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten Pseudogetreide von Natur aus nicht?",
+      "art": "mc",
+      "optionen": [
+        "Gluten",
+        "Eiweiß",
+        "Ballaststoffe",
+        "Mineralstoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb eignen sie sich bei Zöliakie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Quinoa sollte vor dem Kochen gewaschen werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So werden Bitterstoffe entfernt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pseudogetreide sind keine echten Getreide.",
+        "Sie liefern Eiweiß, Ballaststoffe und Mineralstoffe.",
+        "Sie sind von Natur aus glutenfrei.",
+        "Buchweizen ist eine heimische Alternative zu Quinoa."
+      ]
+    }
+  ]
+}

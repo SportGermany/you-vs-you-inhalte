@@ -1,0 +1,114 @@
+{
+  "id": "geld-b042-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie erkennst du Anlagebetrug?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherschutz und Warnungen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "anlagebetrug",
+    "trading",
+    "warnzeichen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Werbung verspricht hohe Gewinne mit Kryptowährungen oder Trading-Apps. Ein freundlicher Berater meldet sich sofort.",
+        "Hinter solchen Angeboten steckt oft Betrug."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Maschen",
+      "absaetze": [
+        "Betrüger werben mit hohen Renditen bei angeblich geringem Risiko. Oft nutzen sie gefälschte Werbung mit Bildern bekannter Persönlichkeiten.",
+        "Nach einer ersten kleinen Einzahlung zeigt eine Plattform scheinbare Gewinne. So werden Opfer überredet, immer mehr Geld zu überweisen. Eine Auszahlung gelingt dann nicht."
+      ],
+      "merke": "Hohe Gewinne bei geringem Risiko sind ein Warnsignal."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen",
+      "absaetze": [
+        "Sei misstrauisch bei Zeitdruck, Druck am Telefon und Angeboten über soziale Medien oder Messenger. Manche Täter bauen über Wochen eine Freundschaft oder Beziehung auf, bevor sie über Geld sprechen.",
+        "Prüfe, ob ein Anbieter von der BaFin zugelassen ist. Die BaFin veröffentlicht Warnungen vor unerlaubten Angeboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es passiert ist",
+      "absaetze": [
+        "Überweise kein weiteres Geld, auch wenn Gebühren für eine Auszahlung verlangt werden. Erstatte Anzeige bei der Polizei und informiere deine Bank.",
+        "Vorsicht vor angeblichen Helfern, die versprechen, das Geld zurückzuholen. Auch das ist oft eine Betrugsmasche."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein typisches Warnzeichen für Anlagebetrug?",
+      "art": "mc",
+      "optionen": [
+        "Hohe Gewinne bei angeblich geringem Risiko",
+        "Ein Basisinformationsblatt",
+        "Eine BaFin-Zulassung",
+        "Lange Bedenkzeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seriöse Anlagen versprechen das nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kannst du prüfen, ob ein Anbieter zugelassen ist?",
+      "art": "mc",
+      "optionen": [
+        "Bei der BaFin",
+        "Bei einem Influencer",
+        "In einem Chat",
+        "Bei der Plattform selbst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie veröffentlicht auch Warnungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn Gebühren für eine Auszahlung verlangt werden, sollte man sie zahlen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dann kein weiteres Geld überweisen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Anlagebetrüger locken mit hohen Gewinnen.",
+        "Scheinbare Gewinne verleiten zu weiteren Zahlungen.",
+        "Anbieter bei der BaFin prüfen.",
+        "Im Betrugsfall kein Geld mehr zahlen und Anzeige erstatten."
+      ]
+    }
+  ]
+}

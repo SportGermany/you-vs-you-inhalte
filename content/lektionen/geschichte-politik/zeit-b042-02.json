@@ -1,0 +1,108 @@
+{
+  "id": "zeit-b042-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was geschah bei Apollo 13?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Apollo 13",
+      "herausgeber": "NASA",
+      "url": "https://www.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "apollo-13",
+    "raumfahrt",
+    "rettung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Houston, wir haben ein Problem. Dieser Satz wurde weltberühmt.",
+        "Er stammt von der Mondmission Apollo 13 im April 1970."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Explosion im All",
+      "absaetze": [
+        "Apollo 13 sollte die dritte bemannte Mondlandung werden. Auf dem Weg zum Mond explodierte ein Sauerstofftank im Versorgungsmodul.",
+        "Die drei Astronauten Jim Lovell, Jack Swigert und Fred Haise verloren einen Großteil ihres Sauerstoffs und ihrer Energie. Eine Landung auf dem Mond war unmöglich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Mondfähre als Rettungsboot",
+      "absaetze": [
+        "Die Astronauten zogen in die Mondfähre um, die eigentlich nur für zwei Personen und kurze Zeit gedacht war. Sie flogen um den Mond herum, um zur Erde zurückzukehren.",
+        "Ingenieure am Boden mussten mit den Mitteln an Bord improvisieren. Berühmt wurde ein Filter für Kohlendioxid, den die Crew nach Anleitung aus Bordmaterial baute."
+      ],
+      "merke": "Teamarbeit am Boden und an Bord rettete die Crew."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein erfolgreiches Scheitern",
+      "absaetze": [
+        "Nach knapp sechs Tagen landeten alle drei Astronauten sicher im Pazifik. Die Mission gilt als erfolgreiches Scheitern.",
+        "Sie zeigte, wie wichtig Teamarbeit, Ruhe und kreative Lösungen in Krisen sind."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passierte bei Apollo 13?",
+      "art": "mc",
+      "optionen": [
+        "Ein Sauerstofftank explodierte",
+        "Die Crew landete auf dem Mars",
+        "Die Rakete startete nicht",
+        "Die Crew blieb auf dem Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Mondlandung war danach unmöglich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin zogen die Astronauten um?",
+      "art": "mc",
+      "optionen": [
+        "In die Mondfähre",
+        "In eine Raumstation",
+        "In ein anderes Raumschiff",
+        "Auf den Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie diente als Rettungsboot."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle drei Astronauten kehrten sicher zur Erde zurück.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie landeten im Pazifik."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Apollo 13 startete im April 1970 zum Mond.",
+        "Ein Sauerstofftank explodierte unterwegs.",
+        "Die Mondfähre diente als Rettungsboot.",
+        "Alle drei Astronauten kehrten sicher zurück."
+      ]
+    }
+  ]
+}

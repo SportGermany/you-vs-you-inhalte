@@ -1,0 +1,108 @@
+{
+  "id": "tech-b042-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was bedeutet Open Source?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Open Source",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "open-source",
+    "software",
+    "quellcode"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Programme, die wir täglich nutzen, stecken voller Software, die jeder einsehen darf.",
+        "Man nennt sie Open Source."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Offener Quellcode",
+      "absaetze": [
+        "Programme werden in einer Programmiersprache geschrieben. Dieser Text heißt Quellcode.",
+        "Bei Open-Source-Software ist der Quellcode öffentlich. Jeder darf ihn einsehen, verändern und weitergeben, je nach Lizenz unter bestimmten Bedingungen."
+      ],
+      "merke": "Bei Open Source ist der Quellcode für alle einsehbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überall im Einsatz",
+      "absaetze": [
+        "Bekannte Beispiele sind das Betriebssystem Linux, der Browser Firefox oder das Büroprogramm LibreOffice. Auch viele Server im Internet und Smartphone-Betriebssysteme bauen auf Open Source auf.",
+        "Oft arbeiten Freiwillige und Unternehmen weltweit gemeinsam an solchen Projekten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor- und Nachteile",
+      "absaetze": [
+        "Weil viele den Code prüfen können, lassen sich Fehler und Sicherheitslücken oft schneller finden. Behörden setzen zunehmend auf Open Source, um weniger von einzelnen Herstellern abhängig zu sein.",
+        "Offen heißt aber nicht automatisch sicher. Auch Open-Source-Projekte brauchen Pflege und regelmäßige Updates."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Besondere an Open-Source-Software?",
+      "art": "mc",
+      "optionen": [
+        "Ihr Quellcode ist öffentlich einsehbar",
+        "Sie ist immer teuer",
+        "Sie funktioniert nur offline",
+        "Sie ist geheim"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder darf ihn einsehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Programm ist ein Beispiel für Open Source?",
+      "art": "mc",
+      "optionen": [
+        "Linux",
+        "Ein geheimes Bankprogramm",
+        "Ein Taschenrechner aus Holz",
+        "Ein Fernsehprogramm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Firefox und LibreOffice gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Offener Code ist automatisch sicher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch er braucht Pflege und Updates."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Open Source bedeutet offenen Quellcode.",
+        "Jeder darf ihn einsehen und oft verändern.",
+        "Linux und Firefox sind bekannte Beispiele.",
+        "Offen heißt nicht automatisch sicher."
+      ]
+    }
+  ]
+}

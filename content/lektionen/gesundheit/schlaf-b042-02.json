@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b042-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie verändert Stress den Schlaf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "stress",
+    "schlaf",
+    "gruebeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor einer wichtigen Prüfung oder bei Ärger im Job liegen viele nachts wach.",
+        "Stress und Schlaf beeinflussen sich gegenseitig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alarmzustand statt Ruhe",
+      "absaetze": [
+        "Bei Stress schüttet der Körper Hormone wie Kortisol und Adrenalin aus. Sie halten uns wach und bereit zu handeln.",
+        "Zum Einschlafen muss der Körper aber zur Ruhe kommen. Stress und Grübeln erschweren genau das."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kreislauf",
+      "absaetze": [
+        "Studien deuten darauf hin, dass anhaltender Stress das Risiko für Schlafstörungen erhöht. Gleichzeitig macht schlechter Schlaf stressanfälliger.",
+        "So kann ein Kreislauf entstehen, in dem sich Stress und Schlafmangel gegenseitig verstärken."
+      ],
+      "merke": "Stress und schlechter Schlaf verstärken sich gegenseitig.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Eine Pufferzone vor dem Schlafen hilft: kein Arbeiten und keine schwierigen Gespräche mehr. Sorgen kannst du am frühen Abend aufschreiben.",
+        "Entspannungstechniken wie langsames Atmen oder Muskelentspannung können beim Abschalten helfen. Wenn Stress dauerhaft den Schlaf raubt, ist professionelle Hilfe sinnvoll."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hormone werden bei Stress ausgeschüttet?",
+      "art": "mc",
+      "optionen": [
+        "Kortisol und Adrenalin",
+        "Melatonin allein",
+        "Insulin allein",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie halten uns wach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann zwischen Stress und Schlaf entstehen?",
+      "art": "mc",
+      "optionen": [
+        "Ein sich verstärkender Kreislauf",
+        "Gar keine Verbindung",
+        "Nur besserer Schlaf",
+        "Ein Ausgleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlechter Schlaf macht stressanfälliger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Pufferzone ohne Arbeit vor dem Schlafen kann helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Körper kann dann zur Ruhe kommen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stresshormone halten wach.",
+        "Stress erhöht das Risiko für Schlafstörungen.",
+        "Schlechter Schlaf macht stressanfälliger.",
+        "Pufferzone und Entspannung helfen beim Abschalten."
+      ]
+    }
+  ]
+}
