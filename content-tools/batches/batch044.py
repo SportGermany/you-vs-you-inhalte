@@ -1,4 +1,4 @@
-"""Batch 044: 21 Lektionen, breit verteilt über alle Welten.
+"""Batch 044: 20 Lektionen (Doppelung entfernt), breit verteilt über alle Welten.
 Aufruf: python3 content-tools/batches/batch044.py
 """
 import os, sys
@@ -408,37 +408,6 @@ L.append(lektion(
      "Marie Juchacz hielt 1919 die erste Rede einer Frau im Parlament."]))
 
 # ---------------- Finanzen und Alltag ----------------
-
-L.append(lektion(
-    "geld-b044-01", "finanzen-alltag", "geld-sparen", "Was schützt die Einlagensicherung?", 3, None, [BAFIN],
-    ["einlagensicherung", "bank", "sparen"],
-    ["Was passiert mit deinem Ersparten, wenn deine Bank pleitegeht?",
-     "Für diesen Fall gibt es in der EU eine gesetzliche Absicherung."],
-    [("Die gesetzliche Grenze",
-      ["In der EU sind Einlagen bei Banken gesetzlich bis 100.000 Euro pro Person und Bank geschützt. Dazu zählen Girokonto, Tagesgeld, Festgeld und Sparbuch.",
-       "Wird eine Bank zahlungsunfähig, zahlt die Einlagensicherung das Geld innerhalb weniger Arbeitstage zurück."],
-      "Gesetzlich geschützt sind bis 100.000 Euro pro Person und Bank.", None),
-     ("Zusätzlicher Schutz",
-      ["Viele Banken in Deutschland gehören zusätzlich freiwilligen Sicherungssystemen an. Sparkassen und Genossenschaftsbanken schützen sich über ihre Verbünde gegenseitig vor einer Pleite.",
-       "Bei Banken aus anderen EU-Ländern gilt die Einlagensicherung des jeweiligen Landes. Informiere dich daher, wo deine Bank ihren Sitz hat."],
-      None, None),
-     ("Was nicht dazugehört",
-      ["Aktien, Fonds und ETFs im Depot sind keine Einlagen. Sie gehören rechtlich dir und nicht der Bank. Sie fallen bei einer Bankpleite nicht in deren Vermögen.",
-       "Gegen Kursverluste schützt dich aber keine Sicherung. Wer mehr als die geschützte Summe spart, kann das Geld auf mehrere Banken verteilen."],
-      None, None)],
-    None, None,
-    [("Bis zu welchem Betrag sind Einlagen gesetzlich geschützt?", "mc",
-      ["10.000 Euro", "100.000 Euro pro Person und Bank", "Unbegrenzt", "1 Million Euro pro Familie"], 1,
-      "Das gilt einheitlich in der EU."),
-     ("Was gehört nicht zu den geschützten Einlagen?", "mc",
-      ["Tagesgeld", "Festgeld", "Aktien im Depot", "Girokonto"], 2,
-      "Wertpapiere gehören dir und nicht der Bank."),
-     ("Die Einlagensicherung schützt auch vor Kursverlusten bei Aktien.", "tf", None, 1,
-      "Falsch. Gegen Kursverluste gibt es keinen Schutz.")],
-    ["Einlagen sind bis 100.000 Euro pro Person und Bank geschützt.",
-     "Viele Banken haben zusätzliche Sicherungssysteme.",
-     "Wertpapiere im Depot gehören dir, nicht der Bank.",
-     "Größere Summen lassen sich auf mehrere Banken verteilen."]))
 
 L.append(lektion(
     "steu-b044-01", "finanzen-alltag", "steuern", "Was ist ein Freistellungsauftrag?", 3, None, [BMF],

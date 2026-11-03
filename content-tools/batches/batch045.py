@@ -1,4 +1,4 @@
-"""Batch 045: 20 Lektionen (Doppelungen entfernt), breit verteilt über alle Welten.
+"""Batch 045: 19 Lektionen (Doppelungen entfernt), breit verteilt über alle Welten.
 Aufruf: python3 content-tools/batches/batch045.py
 """
 import os, sys
@@ -60,42 +60,6 @@ L.append(lektion(
      "Unreife grüne Tomaten nicht in großen Mengen essen."]))
 
 # ---------------- Schlaf und Regeneration ----------------
-
-L.append(lektion(
-    "schlaf-b045-02", "gesundheit", "schlaf-regeneration", "Wie schläfst du trotz Schichtarbeit besser?", 4, 2, [BAUA, DGSM],
-    ["schichtarbeit", "nachtschicht", "innere-uhr"],
-    ["Pflege, Polizei, Produktion: Millionen Menschen arbeiten in Schichten.",
-     "Ihr Schlaf muss gegen die innere Uhr ankämpfen."],
-    [("Gegen den Takt",
-      ["Die innere Uhr stellt den Körper nachts auf Ruhe und tagsüber auf Aktivität ein. Nach einer Nachtschicht soll man aber schlafen, wenn Licht und Lärm den Körper wach halten.",
-       "Der Schlaf am Tag ist deshalb oft kürzer und unruhiger. Viele Schichtarbeitende sammeln so über Wochen ein Schlafdefizit an."],
-      None, 3),
-     ("Gute Bedingungen schaffen",
-      ["Dunkle das Schlafzimmer vollständig ab und schütze dich vor Lärm. Eine Sonnenbrille auf dem Heimweg nach der Nachtschicht kann helfen, weil helles Licht wach macht.",
-       "Informiere Familie und Mitbewohner über deine Schlafzeiten. Ein Schild an der Tür oder ein lautlos gestelltes Telefon schützt deine Ruhe."],
-      "Schlafzimmer abdunkeln, Licht auf dem Heimweg meiden.", 2),
-     ("Planung hilft",
-      ["Viele Fachleute empfehlen vorwärts rotierende Schichtpläne, also Früh, dann Spät, dann Nacht. Das fällt der inneren Uhr leichter als der umgekehrte Wechsel.",
-       "Ein kurzer Schlaf vor der Nachtschicht kann die Wachheit verbessern. Koffein solltest du eher zu Beginn als zum Ende der Schicht trinken."],
-      None, 2)],
-    None,
-    ("Nach der Nachtschicht", [
-        ("Heimweg", "Trag bei Helligkeit eine Sonnenbrille."),
-        ("Dunkel", "Verdunkle das Schlafzimmer vollständig."),
-        ("Ruhe", "Stell das Telefon lautlos und bitte um Rücksicht."),
-        ("Routine", "Geh möglichst immer zur gleichen Zeit schlafen.")]),
-    [("Warum ist Schlaf nach der Nachtschicht oft kürzer?", "mc",
-      ["Die innere Uhr ist tagsüber auf Aktivität eingestellt", "Man ist zu wenig müde", "Das Bett ist tagsüber kälter", "Man hat zu viel gegessen"], 0,
-      "Licht und Lärm halten den Körper zusätzlich wach."),
-     ("Welche Rotation empfehlen viele Fachleute?", "mc",
-      ["Nacht, Spät, Früh", "Zufällig wechselnd", "Früh, Spät, Nacht", "Jeden Tag eine andere Schicht"], 2,
-      "Vorwärts rotierende Pläne fallen der inneren Uhr leichter."),
-     ("Koffein am Ende der Nachtschicht erleichtert den Schlaf danach.", "tf", None, 1,
-      "Falsch. Koffein besser zu Beginn der Schicht.")],
-    ["Schichtarbeit arbeitet gegen die innere Uhr.",
-     "Ein dunkles, ruhiges Schlafzimmer ist entscheidend.",
-     "Vorwärts rotierende Schichtpläne sind günstiger.",
-     "Koffein eher zu Beginn der Schicht."]))
 
 # ---------------- Stoffwechsel ----------------
 

@@ -1,4 +1,4 @@
-"""Batch 049: 21 Lektionen, breit verteilt über alle Welten.
+"""Batch 049: 18 Lektionen (Doppelungen entfernt), breit verteilt über alle Welten.
 Aufruf: python3 content-tools/batches/batch049.py
 """
 import os, sys
@@ -336,40 +336,6 @@ L.append(lektion(
 # ---------------- Zeitgeschichte ----------------
 
 L.append(lektion(
-    "zeit-b049-01", "geschichte-politik", "zeitgeschichte", "Was geschah beim Attentat auf John F. Kennedy?", 4, None, [JFK, BPB],
-    ["kennedy", "usa", "1963"],
-    ["Am 22. November 1963 fuhr US-Präsident John F. Kennedy im offenen Wagen durch Dallas.",
-     "Wenige Minuten später war er tot."],
-    [("Schüsse in Dallas",
-      ["Während der Fahrt durch die Innenstadt fielen Schüsse. Kennedy wurde tödlich getroffen und starb kurz darauf im Krankenhaus.",
-       "Noch am selben Tag wurde Vizepräsident Lyndon B. Johnson an Bord der Präsidentenmaschine als neuer Präsident vereidigt."],
-      None, None),
-     ("Der Täter",
-      ["Die Polizei nahm Lee Harvey Oswald fest. Er soll aus einem Fenster eines Schulbuchlagers geschossen haben.",
-       "Zwei Tage später wurde Oswald selbst erschossen, als er verlegt werden sollte. Der Täter war der Nachtclubbesitzer Jack Ruby. Ein Prozess gegen Oswald fand deshalb nie statt."],
-      None, None),
-     ("Untersuchung und Zweifel",
-      ["Die sogenannte Warren-Kommission kam 1964 zu dem Ergebnis, dass Oswald allein gehandelt hat.",
-       "Viele Menschen zweifelten daran. Bis heute kursieren zahlreiche Verschwörungstheorien. Belege für eine Verschwörung wurden in den offiziellen Untersuchungen nicht überzeugend gefunden."],
-      "Die Warren-Kommission sah Oswald als Einzeltäter.", None)],
-    None, None,
-    [("Wann wurde Kennedy erschossen?", "mc",
-      ["Am 22. November 1963", "Am 4. Juli 1960", "Am 9. November 1989", "Am 11. September 2001"], 0,
-      "In Dallas, Texas."),
-     ("Wer wurde als Täter festgenommen?", "mc",
-      ["Jack Ruby", "Lee Harvey Oswald", "Richard Nixon", "Martin Luther King"], 1,
-      "Er wurde zwei Tage später selbst erschossen."),
-     ("Wer wurde nach Kennedys Tod Präsident?", "mc",
-      ["Richard Nixon", "Robert Kennedy", "Lyndon B. Johnson", "Dwight Eisenhower"], 2,
-      "Er wurde noch am selben Tag vereidigt."),
-     ("Oswald stand wegen des Attentats lange vor Gericht.", "tf", None, 1,
-      "Falsch. Er wurde erschossen, bevor es zum Prozess kam.")],
-    ["Kennedy wurde am 22. November 1963 in Dallas erschossen.",
-     "Lee Harvey Oswald wurde als Täter festgenommen.",
-     "Oswald wurde zwei Tage später selbst getötet.",
-     "Die Warren-Kommission sah ihn als Einzeltäter."]))
-
-L.append(lektion(
     "zeit-b049-02", "geschichte-politik", "zeitgeschichte", "Was geschah bei der Iranischen Revolution 1979?", 4, None, [BPB],
     ["iran", "revolution", "1979"],
     ["Anfang 1979 verließ der Schah den Iran.",
@@ -404,37 +370,6 @@ L.append(lektion(
      "Die Geiselnahme belastete die Beziehungen zu den USA."]))
 
 # ---------------- Finanzen und Alltag ----------------
-
-L.append(lektion(
-    "geld-b049-01", "finanzen-alltag", "geld-sparen", "Was sagt der Effektivzins aus?", 3, None, [BAFIN, VZ],
-    ["effektivzins", "kredit", "vergleich"],
-    ["Zwei Kreditangebote nennen unterschiedliche Zinsen. Welches ist wirklich günstiger?",
-     "Dafür gibt es den effektiven Jahreszins."],
-    [("Sollzins und Effektivzins",
-      ["Der Sollzins ist der reine Zins für das geliehene Geld. Der effektive Jahreszins enthält zusätzlich bestimmte Kosten, etwa Bearbeitungsgebühren.",
-       "Deshalb ist der Effektivzins meist höher als der Sollzins. Er zeigt die tatsächliche jährliche Belastung besser."],
-      None, None),
-     ("Zum Vergleichen gemacht",
-      ["Banken müssen bei Krediten den effektiven Jahreszins angeben. So lassen sich Angebote verschiedener Anbieter vergleichen.",
-       "Achte aber darauf, ob Laufzeit und Kreditsumme gleich sind. Nur dann ist der Vergleich wirklich fair."],
-      "Kredite immer über den Effektivzins vergleichen.", None),
-     ("Was nicht drin ist",
-      ["Nicht alle Kosten stecken im Effektivzins. Freiwillige Zusatzprodukte wie eine Restschuldversicherung sind oft nicht enthalten.",
-       "Lies deshalb das Angebot genau. Prüfe auch, ob du vorzeitig zurückzahlen kannst und was das kostet."],
-      None, None)],
-    None, None,
-    [("Was enthält der effektive Jahreszins zusätzlich zum Sollzins?", "mc",
-      ["Bestimmte Kosten wie Bearbeitungsgebühren", "Die Inflation", "Die Steuer", "Gar nichts"], 0,
-      "Deshalb ist er meist höher."),
-     ("Wofür ist der Effektivzins besonders nützlich?", "mc",
-      ["Zum Vergleichen von Kreditangeboten", "Zum Berechnen der Miete", "Zum Sparen von Strom", "Zum Bewerten von Aktien"], 0,
-      "Banken müssen ihn angeben."),
-     ("Freiwillige Zusatzversicherungen sind immer im Effektivzins enthalten.", "tf", None, 1,
-      "Falsch. Sie sind oft nicht enthalten.")],
-    ["Der Sollzins ist der reine Zins.",
-     "Der Effektivzins enthält zusätzliche Kosten.",
-     "Kredite mit gleicher Laufzeit über den Effektivzins vergleichen.",
-     "Zusatzprodukte genau prüfen."]))
 
 L.append(lektion(
     "haus-b049-01", "finanzen-alltag", "haushalt", "Wie ordnest du wichtige Unterlagen zu Hause?", 3, None, [VZ],
@@ -643,37 +578,6 @@ L.append(lektion(
      "Freude an der Bewegung hält dich dabei.",
      "Verabredungen mit anderen schaffen Verbindlichkeit.",
      "Klein starten und langsam steigern."]))
-
-L.append(lektion(
-    "lern-b049-01", "psychologie-gehirn", "lernen-gedaechtnis", "Wie lernst du mit Karteikarten richtig?", 3, 3, [APA],
-    ["karteikarten", "abfragen", "wiederholung"],
-    ["Karteikarten gehören zu den ältesten Lernhilfen.",
-     "Richtig eingesetzt, verbinden sie zwei der wirksamsten Lernmethoden."],
-    [("Abrufen statt Lesen",
-      ["Auf der Vorderseite steht eine Frage, auf der Rückseite die Antwort. Wer die Karte umdreht, muss sich die Antwort erst selbst ins Gedächtnis rufen.",
-       "Genau dieses aktive Abrufen stärkt die Erinnerung deutlich mehr als bloßes Durchlesen. Wichtig ist, wirklich zu antworten, bevor du umdrehst."],
-      None, 3),
-     ("Verteilt wiederholen",
-      ["Ein bekanntes System ist der Karteikasten nach Leitner. Richtig beantwortete Karten wandern ein Fach weiter und werden seltener wiederholt. Falsche Karten kommen zurück ins erste Fach.",
-       "So wiederholst du schwierige Inhalte häufiger und leichte seltener. Viele Lern-Apps arbeiten nach einem ähnlichen Prinzip."],
-      "Schwierige Karten öfter, leichte seltener wiederholen.", 3),
-     ("Typische Fehler",
-      ["Zu viel Text auf einer Karte macht das Abrufen schwer. Besser ist eine Frage pro Karte.",
-       "Karten selbst zu schreiben, hilft beim Verarbeiten. Zusammenhänge solltest du aber zusätzlich mit anderen Methoden lernen, etwa durch Erklären in eigenen Worten."],
-      None, 2)],
-    None, None,
-    [("Warum wirken Karteikarten gut?", "mc",
-      ["Sie trainieren aktives Abrufen", "Sie sind bunt", "Sie ersetzen Schlaf", "Sie machen Lernen überflüssig"], 0,
-      "Abrufen stärkt die Erinnerung mehr als Lesen."),
-     ("Was passiert im Leitner-System mit falsch beantworteten Karten?", "mc",
-      ["Sie werden weggeworfen", "Sie kommen zurück ins erste Fach", "Sie wandern ins letzte Fach", "Sie werden verdoppelt"], 1,
-      "So werden sie häufiger wiederholt."),
-     ("Auf eine Karteikarte gehört möglichst viel Text.", "tf", None, 1,
-      "Falsch. Besser ist eine Frage pro Karte.")],
-    ["Karteikarten trainieren aktives Abrufen.",
-     "Das Leitner-System wiederholt Schwieriges öfter.",
-     "Eine Frage pro Karte erleichtert das Lernen.",
-     "Zusammenhänge zusätzlich anders lernen."]))
 
 L.append(lektion(
     "mot-b049-01", "psychologie-gehirn", "motivation-emotionen", "Was unterscheidet introvertierte und extrovertierte Menschen?", 3, 2, [APA],
