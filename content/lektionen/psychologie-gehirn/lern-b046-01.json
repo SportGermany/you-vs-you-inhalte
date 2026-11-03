@@ -1,0 +1,111 @@
+{
+  "id": "lern-b046-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Hilft lautes Lesen beim Merken?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "laut-lesen",
+    "produktionseffekt",
+    "lerntechnik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche murmeln beim Lernen vor sich hin. Das wirkt seltsam, hat aber einen Sinn.",
+        "Forschende sprechen vom Produktionseffekt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Produktionseffekt",
+      "absaetze": [
+        "In Experimenten erinnerten sich Menschen besser an Wörter, die sie laut gelesen hatten, als an still gelesene. Der kanadische Psychologe Colin MacLeod hat diesen Effekt bekannt gemacht.",
+        "Der Effekt zeigt sich in vielen Studien. Er ist allerdings eher klein bis mittelgroß."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es wirkt",
+      "absaetze": [
+        "Eine Erklärung: Laut gelesene Inhalte heben sich ab. Du hast sie gesprochen und gehört, und dadurch sind sie unverwechselbarer gespeichert.",
+        "Der Vorteil zeigt sich vor allem, wenn nur ein Teil des Stoffs laut gelesen wird. Liest du alles laut, ist nichts mehr besonders."
+      ],
+      "merke": "Laut lesen wirkt am besten bei ausgewählten Stellen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "So nutzt du es",
+      "absaetze": [
+        "Lies Kernaussagen, Fachbegriffe oder Formeln gezielt laut vor. Den Rest kannst du still lesen.",
+        "Noch wirksamer ist es, Inhalte ohne Vorlage in eigenen Worten laut zu erklären. Dann kombinierst du den Effekt mit aktivem Abrufen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Effekt, dass laut Gelesenes besser haften bleibt?",
+      "art": "mc",
+      "optionen": [
+        "Produktionseffekt",
+        "Placeboeffekt",
+        "Halo-Effekt",
+        "Dominoeffekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Colin MacLeod hat ihn bekannt gemacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wirkt lautes Lesen am besten?",
+      "art": "mc",
+      "optionen": [
+        "Wenn alles laut gelesen wird",
+        "Wenn nur ausgewählte Stellen laut gelesen werden",
+        "Nur nachts",
+        "Nur in Gruppen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Dann heben sich diese Stellen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Inhalte in eigenen Worten laut zu erklären, verbindet den Effekt mit aktivem Abrufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist besonders wirksam."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Laut Gelesenes bleibt oft besser haften.",
+        "Der Effekt heißt Produktionseffekt.",
+        "Er wirkt vor allem bei ausgewählten Stellen.",
+        "Laut in eigenen Worten erklären ist noch wirksamer."
+      ]
+    }
+  ]
+}

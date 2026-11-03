@@ -1,0 +1,131 @@
+{
+  "id": "ern-b046-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was macht Brokkoli besonders?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "brokkoli",
+    "kohl",
+    "sekundaere-pflanzenstoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Brokkoli gilt als eines der nährstoffreichsten Gemüse.",
+        "Ein Teil seines Rufs hängt an einem Stoff mit schwierigem Namen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Nährstoffe",
+      "absaetze": [
+        "Brokkoli liefert reichlich Vitamin C, Vitamin K und Folat. Dazu kommen Ballaststoffe und Kalium.",
+        "Schon eine normale Portion trägt einen guten Teil zur Versorgung mit Vitamin C bei. Brokkoli enthält dabei sehr wenig Energie."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Senfölglykoside und Sulforaphan",
+      "absaetze": [
+        "Wie alle Kohlsorten enthält Brokkoli Senfölglykoside. Beim Schneiden oder Kauen wandelt ein Enzym sie in Stoffe wie Sulforaphan um.",
+        "Laborstudien deuten darauf hin, dass Sulforaphan Schutzmechanismen in Zellen anregen kann. Ob das beim Menschen vor Krankheiten schützt, ist noch nicht ausreichend belegt."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend zubereiten",
+      "absaetze": [
+        "Langes Kochen in viel Wasser zerstört Vitamin C und das wichtige Enzym. Dämpfen oder kurzes Garen erhält mehr davon.",
+        "Auch Stiel und Blätter sind essbar und nährstoffreich. Geschält und in Scheiben geschnitten passt der Stiel gut in Pfannengerichte."
+      ],
+      "merke": "Dämpfen erhält mehr Vitamine als langes Kochen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin liefert Brokkoli besonders reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D",
+        "Retinol"
+      ],
+      "richtig": 1,
+      "erklaerung": "Schon eine Portion trägt viel zur Versorgung bei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht Sulforaphan?",
+      "art": "mc",
+      "optionen": [
+        "Durch Einfrieren",
+        "Durch Zugabe von Salz",
+        "Beim Schneiden oder Kauen durch ein Enzym",
+        "Durch Sonnenlicht beim Lagern"
+      ],
+      "richtig": 2,
+      "erklaerung": "Es entsteht aus Senfölglykosiden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zubereitung erhält mehr Vitamine?",
+      "art": "mc",
+      "optionen": [
+        "Dämpfen oder kurzes Garen",
+        "Langes Kochen in viel Wasser",
+        "Stundenlanges Warmhalten",
+        "Frittieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Langes Kochen zerstört Vitamin C."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Stiel von Brokkoli ist ungenießbar.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Geschält ist er essbar und nährstoffreich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Brokkoli liefert Vitamin C, Vitamin K und Folat.",
+        "Aus Senfölglykosiden entsteht Sulforaphan.",
+        "Ein Schutz vor Krankheiten ist beim Menschen nicht sicher belegt.",
+        "Dämpfen erhält mehr Nährstoffe als langes Kochen."
+      ]
+    }
+  ]
+}

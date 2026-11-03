@@ -1,0 +1,124 @@
+{
+  "id": "umw-b046-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist Totholz wichtig für den Wald?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wald und Artenvielfalt",
+      "herausgeber": "Bundesamt für Naturschutz",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "totholz",
+    "wald",
+    "artenvielfalt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein umgestürzter, morscher Baumstamm wirkt wie Abfall.",
+        "Für unzählige Lebewesen ist er ein Zuhause."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leben im toten Holz",
+      "absaetze": [
+        "Totholz ist abgestorbenes Holz, ob stehend oder liegend. In Mitteleuropa sind tausende Arten von Käfern, Pilzen und anderen Lebewesen darauf angewiesen.",
+        "Spechte zimmern Höhlen in morsche Stämme. Später nutzen Fledermäuse, Eulen und andere Vögel diese Höhlen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein natürlicher Kreislauf",
+      "absaetze": [
+        "Pilze, Insekten und Bakterien zersetzen das Holz langsam. Dabei werden Nährstoffe frei, die neuen Pflanzen zugutekommen.",
+        "Morsches Holz speichert außerdem Wasser wie ein Schwamm. Auf liegenden Stämmen keimen manchmal sogar junge Bäume."
+      ],
+      "merke": "Totholz gibt Nährstoffe an den Waldboden zurück.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu wenig im Wirtschaftswald",
+      "absaetze": [
+        "In bewirtschafteten Wäldern wird viel Holz entnommen, bevor es altert und abstirbt. Deshalb fehlt dort oft Totholz.",
+        "Viele Förster lassen inzwischen gezielt alte Bäume und tote Stämme stehen. Gefährliche Bäume an Wegen werden aus Sicherheitsgründen aber entfernt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Totholz?",
+      "art": "mc",
+      "optionen": [
+        "Brennholz im Keller",
+        "Abgestorbenes Holz im Wald",
+        "Holz aus Plastik",
+        "Frisch gefällte Bäume"
+      ],
+      "richtig": 1,
+      "erklaerung": "Es kann stehen oder liegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tiere nutzen Spechthöhlen in morschen Stämmen?",
+      "art": "mc",
+      "optionen": [
+        "Fledermäuse und Eulen",
+        "Fische",
+        "Regenwürmer",
+        "Schnecken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spechte bauen die Höhlen zuerst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn Totholz zersetzt wird?",
+      "art": "mc",
+      "optionen": [
+        "Der Boden wird giftig",
+        "Nichts",
+        "Nährstoffe werden frei",
+        "Der Wald trocknet aus"
+      ],
+      "richtig": 2,
+      "erklaerung": "Neue Pflanzen profitieren davon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In bewirtschafteten Wäldern gibt es oft besonders viel Totholz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dort fehlt es häufig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Totholz ist Lebensraum für tausende Arten.",
+        "Spechthöhlen nutzen später viele andere Tiere.",
+        "Zersetzung gibt Nährstoffe an den Boden zurück.",
+        "In Wirtschaftswäldern fehlt oft Totholz."
+      ]
+    }
+  ]
+}

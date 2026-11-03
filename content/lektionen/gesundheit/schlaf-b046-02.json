@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b046-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schläfst du bei offenem Fenster besser?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Innenraumluft",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lueften",
+    "schlafzimmer",
+    "raumluft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die einen schwören auf das offene Fenster, die anderen frieren lieber nicht.",
+        "Was spricht für frische Luft im Schlafzimmer?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verbrauchte Luft",
+      "absaetze": [
+        "Im geschlossenen Schlafzimmer steigt über Nacht der Gehalt an Kohlendioxid aus der Atemluft. Auch die Luftfeuchtigkeit nimmt zu.",
+        "Einige kleine Studien deuten darauf hin, dass besser belüftete Räume mit einem etwas erholsameren Schlaf verbunden sind. Die Datenlage ist aber dünn."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Temperatur und Lärm",
+      "absaetze": [
+        "Ein offenes Fenster kühlt den Raum. Viele schlafen bei kühler Temperatur besser.",
+        "Gleichzeitig kann es Lärm, Licht und im Frühjahr Pollen hereinlassen. Für Menschen an lauten Straßen oder mit Heuschnupfen ist das oft ein Nachteil."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Mittelweg",
+      "absaetze": [
+        "Lüfte vor dem Schlafengehen einige Minuten kräftig mit weit geöffnetem Fenster. Das tauscht die Luft schnell aus.",
+        "Morgens hilft erneutes Stoßlüften gegen Feuchtigkeit und Schimmel. Ob das Fenster nachts offen bleibt, kannst du nach Lärm, Wetter und eigenem Empfinden entscheiden."
+      ],
+      "merke": "Vor dem Schlafen und morgens kräftig lüften.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steigt in einem geschlossenen Schlafzimmer über Nacht an?",
+      "art": "mc",
+      "optionen": [
+        "Der Sauerstoffgehalt",
+        "Der Kohlendioxidgehalt",
+        "Die Lautstärke",
+        "Die Helligkeit"
+      ],
+      "richtig": 1,
+      "erklaerung": "Auch die Luftfeuchtigkeit nimmt zu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein offenes Fenster nachts als Nachteil mitbringen?",
+      "art": "mc",
+      "optionen": [
+        "Lärm und Pollen",
+        "Zu wenig Luft",
+        "Mehr Kohlendioxid",
+        "Schimmel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das betrifft vor allem laute Straßen und Allergiker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kräftiges Lüften vor dem Schlafengehen ist ein guter Mittelweg.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So wird die Luft schnell ausgetauscht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im geschlossenen Raum steigt das Kohlendioxid an.",
+        "Besser belüftete Räume hängen wohl mit erholsamerem Schlaf zusammen.",
+        "Lärm und Pollen sprechen manchmal gegen das offene Fenster.",
+        "Stoßlüften vor dem Schlafen ist ein guter Kompromiss."
+      ]
+    }
+  ]
+}

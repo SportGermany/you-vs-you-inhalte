@@ -1,0 +1,120 @@
+{
+  "id": "geld-b046-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Dividende?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dividende",
+    "aktien",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer Aktien besitzt, ist Miteigentümer eines Unternehmens.",
+        "Manche Unternehmen beteiligen ihre Aktionäre direkt am Gewinn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Anteil am Gewinn",
+      "absaetze": [
+        "Eine Dividende ist eine Ausschüttung aus dem Gewinn eines Unternehmens an seine Aktionäre. In Deutschland beschließt meist die Hauptversammlung einmal im Jahr darüber.",
+        "Die Höhe wird pro Aktie festgelegt. Wer mehr Aktien besitzt, bekommt entsprechend mehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Garantie",
+      "absaetze": [
+        "Unternehmen müssen keine Dividende zahlen. In schlechten Jahren kann sie gekürzt werden oder ganz ausfallen.",
+        "Junge, wachsende Firmen behalten ihre Gewinne oft lieber, um sie wieder zu investieren. Das kann den Wert der Aktie steigern."
+      ],
+      "merke": "Auf Dividenden ist kein Verlass."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein häufiger Denkfehler",
+      "absaetze": [
+        "Am Tag nach der Ausschüttung sinkt der Aktienkurs meist ungefähr um die Höhe der Dividende. Das Geld wandert also aus dem Unternehmen auf dein Konto.",
+        "Eine hohe Dividende allein macht eine Aktie deshalb nicht automatisch zu einer guten Anlage. Entscheidend ist der Gesamtertrag aus Kurs und Ausschüttung."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Dividenden sind geschenktes Zusatzgeld.",
+      "urteil": "mythos",
+      "erklaerung": "Nach der Ausschüttung sinkt der Kurs meist ungefähr um die Höhe der Dividende. Der Wert verschiebt sich also nur vom Unternehmen zu dir. Wichtig ist der Gesamtertrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Dividende?",
+      "art": "mc",
+      "optionen": [
+        "Eine Gebühr für das Depot",
+        "Eine Ausschüttung aus dem Gewinn",
+        "Ein Kredit an das Unternehmen",
+        "Eine Steuer auf Aktien"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sie wird pro Aktie festgelegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert meist mit dem Aktienkurs nach der Ausschüttung?",
+      "art": "mc",
+      "optionen": [
+        "Er steigt um die Dividende",
+        "Er bleibt immer gleich",
+        "Er sinkt ungefähr um die Dividende",
+        "Er verdoppelt sich"
+      ],
+      "richtig": 2,
+      "erklaerung": "Das Geld fließt aus dem Unternehmen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Unternehmen müssen jedes Jahr eine Dividende zahlen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie kann gekürzt werden oder ausfallen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Dividende ist ein Anteil am Unternehmensgewinn.",
+        "Sie kann gekürzt werden oder ausfallen.",
+        "Nach der Ausschüttung sinkt der Kurs meist entsprechend.",
+        "Entscheidend ist der Gesamtertrag."
+      ]
+    }
+  ]
+}

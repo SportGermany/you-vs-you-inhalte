@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b046-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläfst du bei Krankheit so viel?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "immunsystem",
+    "infekte",
+    "erholung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei Grippe oder Erkältung möchte man am liebsten nur schlafen.",
+        "Das ist kein Zufall, sondern Teil der Abwehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Botenstoffe machen müde",
+      "absaetze": [
+        "Bei einer Infektion schüttet das Immunsystem Botenstoffe aus, sogenannte Zytokine. Sie steuern die Abwehr und wirken zugleich auf das Gehirn.",
+        "Dort fördern einige von ihnen Müdigkeit und Tiefschlaf. Auch Fieber, Appetitlosigkeit und Rückzug gehören zu diesem Krankheitsverhalten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie für die Abwehr",
+      "absaetze": [
+        "Die Immunabwehr kostet viel Energie. Wer schläft, bewegt sich nicht und spart Kräfte, die der Körper für die Abwehr nutzen kann.",
+        "Studien deuten darauf hin, dass ausreichender Schlaf die Immunantwort unterstützt. Ob mehr Schlaf eine Krankheit verkürzt, ist aber nicht sicher belegt."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Gönn dir bei Infekten Ruhe und schlaf, so viel du brauchst. Trinke ausreichend und halte das Schlafzimmer angenehm kühl.",
+        "Ungewöhnlich starke Schläfrigkeit, Verwirrtheit oder hohes Fieber über mehrere Tage sind Warnzeichen. Dann solltest du ärztlichen Rat einholen."
+      ],
+      "merke": "Starke Schläfrigkeit oder hohes Fieber ärztlich abklären lassen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die Botenstoffe, die bei Infektionen müde machen können?",
+      "art": "mc",
+      "optionen": [
+        "Zytokine",
+        "Vitamine",
+        "Enzyme der Verdauung",
+        "Hormone der Schilddrüse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie steuern die Abwehr und wirken auf das Gehirn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Schlaf bei Krankheit sinnvoll?",
+      "art": "mc",
+      "optionen": [
+        "Er senkt die Körpertemperatur auf null",
+        "Er spart Energie für die Abwehr",
+        "Er tötet Viren direkt ab",
+        "Er ersetzt Medikamente"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Immunabwehr kostet viel Energie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ungewöhnlich starke Schläfrigkeit mit hohem Fieber ist ein Warnzeichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann ist ärztlicher Rat wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zytokine des Immunsystems machen müde.",
+        "Schlaf spart Energie für die Abwehr.",
+        "Ausreichend Schlaf unterstützt wohl die Immunantwort.",
+        "Warnzeichen wie hohes Fieber ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

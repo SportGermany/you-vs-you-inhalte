@@ -1,0 +1,125 @@
+{
+  "id": "stoff-b046-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Laktat?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "laktat",
+    "ausdauer",
+    "sport"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Laktat hat einen schlechten Ruf. Es gilt als Abfallstoff, der die Muskeln übersäuert.",
+        "Die Forschung sieht das heute anders."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Produkt der Energiegewinnung",
+      "absaetze": [
+        "Muskeln gewinnen Energie aus Zucker. Bei hoher Belastung entsteht dabei vermehrt Laktat, das Salz der Milchsäure.",
+        "Laktat ist kein reiner Abfall. Herz, andere Muskeln und die Leber nutzen es als Brennstoff oder bauen daraus wieder Zucker auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht schuld am Muskelkater",
+      "absaetze": [
+        "Lange galt Laktat als Ursache für Muskelkater. Das stimmt nicht. Laktat wird innerhalb von Stunden nach dem Training abgebaut.",
+        "Muskelkater entsteht wohl durch winzige Verletzungen in den Muskelfasern. Er tritt meist erst ein bis zwei Tage später auf."
+      ],
+      "merke": "Laktat verursacht keinen Muskelkater.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Laktat im Training",
+      "absaetze": [
+        "Steigt die Belastung, steigt der Laktatwert im Blut irgendwann stark an. Diesen Bereich nennt man Laktatschwelle.",
+        "Sportmediziner messen Laktat mit einem Tropfen Blut. So lässt sich die Ausdauer einschätzen und das Training planen. Für Freizeitsport ist das meist nicht nötig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Laktat verursacht Muskelkater.",
+      "urteil": "mythos",
+      "erklaerung": "Laktat ist bereits wenige Stunden nach dem Training wieder abgebaut. Muskelkater entsteht dagegen erst ein bis zwei Tage später, vermutlich durch kleine Verletzungen in den Muskelfasern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Laktat?",
+      "art": "mc",
+      "optionen": [
+        "Ein Vitamin",
+        "Das Salz der Milchsäure",
+        "Ein Hormon",
+        "Ein Mineralstoff aus Milch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Es entsteht bei der Energiegewinnung aus Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Laktat im Körper?",
+      "art": "mc",
+      "optionen": [
+        "Es bleibt dauerhaft im Muskel",
+        "Es wird über die Haare ausgeschieden",
+        "Es wird als Brennstoff genutzt",
+        "Es lagert sich in den Knochen ab"
+      ],
+      "richtig": 2,
+      "erklaerung": "Herz und Leber können es verwerten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laktat ist die Ursache für Muskelkater.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es wird schnell abgebaut, Muskelkater kommt später."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Laktat entsteht bei hoher Belastung.",
+        "Es ist kein Abfall, sondern ein Brennstoff.",
+        "Laktat verursacht keinen Muskelkater.",
+        "Die Laktatschwelle hilft bei der Trainingsplanung.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "steu-b046-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was unterscheidet Freibetrag und Freigrenze?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "freibetrag",
+    "freigrenze",
+    "steuerbegriffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Steuerrecht tauchen zwei ähnliche Begriffe auf: Freibetrag und Freigrenze.",
+        "Der Unterschied kann dich bares Geld kosten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Freibetrag",
+      "absaetze": [
+        "Ein Freibetrag bleibt immer steuerfrei. Nur der Teil, der darüber hinausgeht, wird besteuert.",
+        "Ein Beispiel ist der Grundfreibetrag bei der Einkommensteuer. Auch beim Sparer-Pauschbetrag für Kapitalerträge wirkt dieses Prinzip."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Freigrenze",
+      "absaetze": [
+        "Bei einer Freigrenze ist der Betrag nur steuerfrei, solange du die Grenze nicht überschreitest. Liegst du auch nur knapp darüber, wird der gesamte Betrag steuerpflichtig.",
+        "Freigrenzen gibt es zum Beispiel bei bestimmten Sachbezügen vom Arbeitgeber oder bei Gewinnen aus privaten Verkäufen, etwa von Wertgegenständen."
+      ],
+      "merke": "Bei einer Freigrenze kann ein Euro zu viel alles steuerpflichtig machen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das wichtig ist",
+      "absaetze": [
+        "Bei einer Freigrenze lohnt es sich, genau hinzuschauen. Ein kleiner Betrag über der Grenze kann eine spürbare Steuer auslösen.",
+        "Die aktuellen Beträge ändern sich immer wieder. Du findest sie beim Bundesfinanzministerium oder in den Erläuterungen zur Steuererklärung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei einem Freibetrag?",
+      "art": "mc",
+      "optionen": [
+        "Nur der Teil darüber wird besteuert",
+        "Alles wird besteuert, wenn er überschritten ist",
+        "Es gibt keine Steuer mehr",
+        "Er gilt nur für Firmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Freibetrag bleibt immer steuerfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn eine Freigrenze knapp überschritten wird?",
+      "art": "mc",
+      "optionen": [
+        "Nur der überschießende Teil wird besteuert",
+        "Der gesamte Betrag wird steuerpflichtig",
+        "Nichts",
+        "Der Betrag wird verdoppelt"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das ist der wichtige Unterschied zum Freibetrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Grundfreibetrag ist ein Beispiel für einen Freibetrag.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Nur Einkommen darüber wird besteuert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Freibetrag bleibt immer steuerfrei.",
+        "Bei einer Freigrenze wird bei Überschreiten alles besteuert.",
+        "Knapp über einer Freigrenze kann es teuer werden.",
+        "Aktuelle Beträge beim Bundesfinanzministerium nachsehen."
+      ]
+    }
+  ]
+}

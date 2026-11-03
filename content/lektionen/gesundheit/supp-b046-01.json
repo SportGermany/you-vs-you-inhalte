@@ -1,0 +1,126 @@
+{
+  "id": "supp-b046-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Ist zusätzliches Vitamin E sinnvoll?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-e",
+    "antioxidantien",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vitamin E gilt als Zellschutz-Vitamin und steckt in vielen Präparaten.",
+        "Große Studien haben die Erwartungen aber enttäuscht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher Vitamin E kommt",
+      "absaetze": [
+        "Vitamin E ist fettlöslich. Gute Quellen sind Pflanzenöle wie Weizenkeim-, Sonnenblumen- und Rapsöl sowie Nüsse und Samen.",
+        "Ein Mangel ist bei gesunden Menschen mit gemischter Kost selten. Er kommt vor allem bei bestimmten Krankheiten vor, die die Fettaufnahme stören."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was große Studien zeigten",
+      "absaetze": [
+        "Vitamin E wirkt im Labor als Antioxidans. Deshalb hoffte man, Präparate könnten Herzkrankheiten oder Krebs verhindern.",
+        "Große Studien fanden diesen Nutzen nicht. Eine große Studie in den USA fand bei Männern mit Vitamin-E-Präparaten sogar ein etwas höheres Risiko für Prostatakrebs."
+      ],
+      "merke": "Ein Schutz vor Herzkrankheiten oder Krebs ist nicht belegt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei hohen Mengen",
+      "absaetze": [
+        "Hohe Mengen Vitamin E können die Blutgerinnung beeinflussen. Das ist besonders für Menschen relevant, die blutverdünnende Medikamente brauchen.",
+        "Das Bundesinstitut für Risikobewertung rät, die Gesamtmenge aus Präparaten zu begrenzen. Über Lebensmittel ist eine Überversorgung kaum möglich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Blutverdünnern Vitamin-E-Präparate nur nach ärztlicher Rücksprache verwenden.",
+        "Die Gesamtmenge aus allen Präparaten im Blick behalten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchen Lebensmitteln steckt viel Vitamin E?",
+      "art": "mc",
+      "optionen": [
+        "In Pflanzenölen und Nüssen",
+        "In Zucker",
+        "In Wasser",
+        "Nur in Fleisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weizenkeimöl ist besonders reich daran."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten große Studien zu Vitamin-E-Präparaten?",
+      "art": "mc",
+      "optionen": [
+        "Einen klaren Schutz vor Krebs",
+        "Keinen Nutzen gegen Herzkrankheiten oder Krebs",
+        "Ein deutlich längeres Leben",
+        "Bessere Sehkraft bei allen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Eine Studie fand sogar ein etwas höheres Prostatakrebsrisiko."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hohe Mengen Vitamin E können die Blutgerinnung beeinflussen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist bei Blutverdünnern wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin E steckt in Pflanzenölen, Nüssen und Samen.",
+        "Ein Mangel ist bei gesunden Menschen selten.",
+        "Große Studien fanden keinen Schutz vor Krankheiten.",
+        "Hohe Mengen können die Blutgerinnung beeinflussen."
+      ]
+    }
+  ]
+}

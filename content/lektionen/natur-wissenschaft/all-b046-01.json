@@ -1,0 +1,124 @@
+{
+  "id": "all-b046-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was sind Sonnenflecken?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Weather",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonne",
+    "sonnenflecken",
+    "weltraumwetter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Sonne zeigen sich immer wieder dunkle Flecken.",
+        "Schon Galileo Galilei beobachtete sie mit seinem Fernrohr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühle Stellen",
+      "absaetze": [
+        "Sonnenflecken sind Bereiche auf der Sonnenoberfläche, die kühler sind als ihre Umgebung. Deshalb wirken sie dunkler. Tatsächlich leuchten sie immer noch sehr hell.",
+        "Sie entstehen durch starke Magnetfelder. Diese bremsen den Fluss heißer Gase aus dem Inneren an die Oberfläche."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Elf-Jahres-Rhythmus",
+      "absaetze": [
+        "Die Zahl der Sonnenflecken schwankt in einem Zyklus von etwa elf Jahren. Im Maximum gibt es viele Flecken, im Minimum kaum welche.",
+        "Im 17. Jahrhundert gab es Jahrzehnte mit sehr wenigen Flecken. Diese Zeit heißt Maunder-Minimum."
+      ],
+      "merke": "Die Sonnenaktivität folgt einem Zyklus von etwa elf Jahren.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für die Erde",
+      "absaetze": [
+        "In der Nähe von Sonnenflecken kommt es häufiger zu Ausbrüchen. Sie schleudern geladene Teilchen ins All.",
+        "Treffen diese die Erde, entstehen Polarlichter. Starke Ausbrüche können aber auch Satelliten, Funkverbindungen und Stromnetze stören. Achtung: Schau niemals ohne geeigneten Schutz in die Sonne."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wirken Sonnenflecken dunkel?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind Löcher in der Sonne",
+        "Sie sind kühler als ihre Umgebung",
+        "Sie sind Schatten von Planeten",
+        "Sie sind Wolken"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sie leuchten trotzdem noch sehr hell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert ein Sonnenfleckenzyklus etwa?",
+      "art": "mc",
+      "optionen": [
+        "Ein Jahr",
+        "Elf Jahre",
+        "Hundert Jahre",
+        "Einen Monat"
+      ],
+      "richtig": 1,
+      "erklaerung": "Im Maximum gibt es viele Flecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was können starke Sonnenausbrüche auf der Erde stören?",
+      "art": "mc",
+      "optionen": [
+        "Satelliten und Stromnetze",
+        "Die Erdrotation",
+        "Die Gezeiten",
+        "Das Wetter auf dem Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lösen auch Polarlichter aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Man darf ohne Schutz in die Sonne schauen, um Flecken zu sehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das kann die Augen dauerhaft schädigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sonnenflecken sind kühlere Bereiche der Sonnenoberfläche.",
+        "Sie entstehen durch starke Magnetfelder.",
+        "Ihre Zahl schwankt in einem Elf-Jahres-Zyklus.",
+        "Ausbrüche können Technik auf der Erde stören."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "vers-b046-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bedeutet Unterversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hausratversicherung",
+      "herausgeber": "Gesamtverband der Versicherer (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "unterversicherung",
+    "hausrat",
+    "versicherungssumme"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Wohnungsbrand zahlt die Versicherung nur einen Teil des Schadens.",
+        "Der Grund ist oft eine zu niedrige Versicherungssumme."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu niedrig versichert",
+      "absaetze": [
+        "Bei der Hausrat- oder Wohngebäudeversicherung legst du eine Versicherungssumme fest. Sie soll dem Wert entsprechen, den eine Neuanschaffung oder ein Wiederaufbau kosten würde.",
+        "Ist die Summe zu niedrig, spricht man von Unterversicherung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kürzung auch bei kleinen Schäden",
+      "absaetze": [
+        "Bei Unterversicherung darf der Versicherer den Schaden anteilig kürzen. Ist dein Hausrat zum Beispiel nur zur Hälfte versichert, bekommst du auch bei einem kleinen Schaden nur die Hälfte erstattet.",
+        "Viele unterschätzen den Wert ihres Hausrats. Kleidung, Bücher, Technik und Küchenausstattung summieren sich schnell."
+      ],
+      "merke": "Bei Unterversicherung wird auch ein kleiner Schaden gekürzt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du dich",
+      "absaetze": [
+        "Viele Hausratversicherungen bieten einen Unterversicherungsverzicht an. Dafür wird die Summe pauschal nach der Wohnfläche berechnet.",
+        "Überprüfe die Versicherungssumme nach größeren Anschaffungen, einem Umzug oder einer Renovierung. Bei Gebäuden können Baukosten über die Jahre stark steigen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Unterversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Eine zu niedrige Versicherungssumme",
+        "Eine doppelte Versicherung",
+        "Eine Versicherung ohne Vertrag",
+        "Ein besonders günstiger Tarif"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Summe deckt den tatsächlichen Wert nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei Unterversicherung mit einem kleinen Schaden?",
+      "art": "mc",
+      "optionen": [
+        "Er wird voll bezahlt",
+        "Er wird gar nicht bezahlt",
+        "Er wird anteilig gekürzt",
+        "Er wird doppelt bezahlt"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Kürzung gilt auch bei kleinen Schäden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Unterversicherungsverzicht kann bei pauschaler Berechnung nach Wohnfläche gelten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Viele Hausratversicherungen bieten das an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine zu niedrige Versicherungssumme ist eine Unterversicherung.",
+        "Der Versicherer darf dann jeden Schaden anteilig kürzen.",
+        "Ein Unterversicherungsverzicht schützt davor.",
+        "Die Summe nach Anschaffungen oder Umzug prüfen."
+      ]
+    }
+  ]
+}
