@@ -1,0 +1,117 @@
+{
+  "id": "umw-b053-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was passiert mit Kleidern im Altkleidercontainer?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Alttextilien",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "altkleider",
+    "textilien",
+    "recycling"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Aussortierte Kleidung landet oft im Container an der Straßenecke.",
+        "Was dann damit geschieht, wissen die wenigsten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sortieren nach Qualität",
+      "absaetze": [
+        "Gesammelte Kleidung wird in Sortierbetrieben von Hand begutachtet. Gut erhaltene Stücke werden als Secondhand-Ware verkauft, in Deutschland oder im Ausland.",
+        "Ein großer Teil geht in andere Länder, etwa nach Osteuropa oder Afrika. Dort kann die Masse an billiger Gebrauchtkleidung auch örtliche Märkte belasten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nicht mehr tragbar ist",
+      "absaetze": [
+        "Kaputte oder stark verschlissene Textilien werden zu Putzlappen oder Dämmstoffen verarbeitet. Ein Teil wird verbrannt.",
+        "Echtes Recycling von Faser zu neuer Faser ist bisher selten. Das liegt auch an Mischgeweben, die sich schwer trennen lassen."
+      ],
+      "merke": "Nur ein kleiner Teil wird zu neuen Fasern recycelt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Gib nur saubere, tragbare Kleidung in Altkleidersammlungen. Schuhe am besten paarweise zusammenbinden.",
+        "Achte darauf, ob der Container von einer seriösen, gemeinnützigen oder kommunalen Organisation stammt. Noch besser für die Umwelt ist es, Kleidung länger zu tragen, zu reparieren oder zu tauschen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit gut erhaltener Kleidung aus dem Container?",
+      "art": "mc",
+      "optionen": [
+        "Sie wird als Secondhand-Ware verkauft",
+        "Sie wird immer verbrannt",
+        "Sie wird vergraben",
+        "Sie wird zu Papier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein großer Teil geht ins Ausland."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Recycling zu neuen Fasern selten?",
+      "art": "mc",
+      "optionen": [
+        "Mischgewebe lassen sich schwer trennen",
+        "Es gibt zu wenig Kleidung",
+        "Es ist verboten",
+        "Stoffe lösen sich in Wasser auf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daher wird viel zu Putzlappen oder Dämmstoffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Länger tragen und reparieren ist besser für die Umwelt als neu kaufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das spart Ressourcen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Altkleider werden nach Qualität sortiert.",
+        "Tragbares wird als Secondhand verkauft, oft im Ausland.",
+        "Faser-zu-Faser-Recycling ist bisher selten.",
+        "Länger tragen und reparieren schont die Umwelt am meisten."
+      ]
+    }
+  ]
+}

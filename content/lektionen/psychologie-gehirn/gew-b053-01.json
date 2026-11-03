@@ -1,0 +1,132 @@
+{
+  "id": "gew-b053-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Was steckt hinter der Pomodoro-Technik?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pomodoro",
+    "konzentration",
+    "pausen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "25 Minuten arbeiten, 5 Minuten Pause, und wieder von vorn.",
+        "Die Pomodoro-Technik ist eine der bekanntesten Arbeitsmethoden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee",
+      "absaetze": [
+        "Die Methode wurde in den 1980er-Jahren von Francesco Cirillo entwickelt. Den Namen hat sie von einer Küchenuhr in Form einer Tomate, italienisch Pomodoro.",
+        "Man arbeitet konzentriert an einer Aufgabe, bis der Wecker klingelt. Danach folgt eine kurze Pause. Nach mehreren Runden kommt eine längere Pause."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum sie helfen kann",
+      "absaetze": [
+        "Die feste Zeitspanne macht den Anfang leichter. 25 Minuten wirken weniger abschreckend als ein ganzer Nachmittag.",
+        "Regelmäßige Pausen beugen Ermüdung vor. Gezielte Studien zur Pomodoro-Technik selbst gibt es nur wenige. Sie deuten darauf hin, dass strukturierte Pausen Konzentration und Stimmung unterstützen können."
+      ],
+      "merke": "Feste Zeitspannen erleichtern den Einstieg.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Anpassen erlaubt",
+      "absaetze": [
+        "Die 25 Minuten sind keine feste Regel. Manche arbeiten besser in längeren Abschnitten, etwa 50 Minuten mit 10 Minuten Pause.",
+        "Wichtig ist, in der Arbeitszeit wirklich bei einer Aufgabe zu bleiben und die Pause echt zu nutzen, etwa zum Aufstehen statt zum Scrollen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Pomodoro ausprobieren",
+      "schritte": [
+        {
+          "titel": "Aufgabe",
+          "text": "Wähle eine einzige Aufgabe."
+        },
+        {
+          "titel": "Timer",
+          "text": "Stelle 25 Minuten ein und arbeite konzentriert."
+        },
+        {
+          "titel": "Pause",
+          "text": "Mach fünf Minuten Pause, am besten in Bewegung."
+        },
+        {
+          "titel": "Wiederholen",
+          "text": "Nach vier Runden eine längere Pause einlegen."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt der Name Pomodoro?",
+      "art": "mc",
+      "optionen": [
+        "Von einer Küchenuhr in Tomatenform",
+        "Von einem Computerprogramm",
+        "Von einer Stadt",
+        "Von einem Gericht mit Nudeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pomodoro ist Italienisch für Tomate."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann die Methode helfen?",
+      "art": "mc",
+      "optionen": [
+        "Feste Zeitspannen erleichtern den Anfang",
+        "Sie verlängert den Schlaf",
+        "Sie ersetzt Pausen",
+        "Sie macht Aufgaben kleiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "25 Minuten wirken weniger abschreckend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die 25 Minuten müssen immer genau eingehalten werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Zeitspanne darf angepasst werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pomodoro wechselt feste Arbeitszeiten und kurze Pausen.",
+        "Die Methode erleichtert den Einstieg.",
+        "Pausen beugen Ermüdung vor.",
+        "Die Zeiten dürfen angepasst werden."
+      ]
+    }
+  ]
+}

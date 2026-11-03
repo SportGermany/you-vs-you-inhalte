@@ -1,0 +1,124 @@
+{
+  "id": "koer-b053-02",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum zittern wir, wenn uns kalt ist?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kaelte",
+    "koerpertemperatur",
+    "muskeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Bushaltestelle im Winter beginnen die Zähne zu klappern.",
+        "Das Zittern ist eine Heizung, die der Körper selbst anwirft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der innere Thermostat",
+      "absaetze": [
+        "Der Körper hält seine Kerntemperatur bei etwa 37 Grad. Ein Bereich im Gehirn, der Hypothalamus, überwacht die Temperatur wie ein Thermostat.",
+        "Wird es zu kalt, verengen sich zuerst die Blutgefäße in der Haut. So geht weniger Wärme verloren. Hände und Füße werden kalt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Muskeln als Heizung",
+      "absaetze": [
+        "Reicht das nicht, beginnen die Muskeln schnell und unwillkürlich zu zucken. Bei dieser Muskelarbeit entsteht Wärme. Das Zittern kann die Wärmeproduktion deutlich steigern.",
+        "Babys zittern kaum. Sie besitzen dafür mehr braunes Fettgewebe, das ohne Muskelarbeit Wärme erzeugt."
+      ],
+      "merke": "Zittern erzeugt Wärme durch Muskelarbeit.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es gefährlich wird",
+      "absaetze": [
+        "Starkes Zittern ist ein Warnsignal. Bei einer schweren Unterkühlung hört das Zittern irgendwann auf. Dann werden Betroffene oft verwirrt und müde.",
+        "Bei Verdacht auf Unterkühlung bringe die Person ins Warme, entferne nasse Kleidung und wärme sie langsam auf. Bei Bewusstseinsstörungen den Notruf 112 wählen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Teil des Gehirns überwacht die Körpertemperatur?",
+      "art": "mc",
+      "optionen": [
+        "Der Hypothalamus",
+        "Das Kleinhirn",
+        "Der Sehnerv",
+        "Die Großhirnrinde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er arbeitet wie ein Thermostat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum zittern wir bei Kälte?",
+      "art": "mc",
+      "optionen": [
+        "Muskelarbeit erzeugt Wärme",
+        "Um Energie zu sparen",
+        "Weil die Knochen frieren",
+        "Um besser zu sehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Zittern steigert die Wärmeproduktion."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Warnzeichen bei Unterkühlung?",
+      "art": "mc",
+      "optionen": [
+        "Das Zittern hört auf und die Person wird verwirrt",
+        "Die Person lacht",
+        "Die Haut wird rot und warm",
+        "Die Person bekommt Hunger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann den Notruf wählen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Babys besitzen mehr braunes Fettgewebe als Erwachsene.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es erzeugt Wärme ohne Muskelarbeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Hypothalamus steuert die Körpertemperatur.",
+        "Bei Kälte verengen sich die Hautgefäße.",
+        "Zittern erzeugt Wärme durch Muskelarbeit.",
+        "Hört das Zittern bei Unterkühlung auf, ist das ein Warnsignal."
+      ]
+    }
+  ]
+}

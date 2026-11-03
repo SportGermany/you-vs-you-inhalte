@@ -1,0 +1,108 @@
+{
+  "id": "steu-b053-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist der Entlastungsbetrag für Alleinerziehende?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "alleinerziehende",
+    "steuerklasse",
+    "entlastung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Alleinerziehende tragen viele Kosten allein.",
+        "Das Steuerrecht gleicht das mit einem eigenen Freibetrag teilweise aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er ist",
+      "absaetze": [
+        "Der Entlastungsbetrag für Alleinerziehende mindert das zu versteuernde Einkommen. Für jedes weitere Kind erhöht er sich.",
+        "Bei Angestellten wird er über die Steuerklasse II berücksichtigt. So wirkt er schon bei der monatlichen Lohnsteuer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Voraussetzungen",
+      "absaetze": [
+        "Mindestens ein Kind, für das du Kindergeld bekommst, muss in deiner Wohnung gemeldet sein.",
+        "Außerdem darf in deinem Haushalt keine andere volljährige Person leben, mit der du gemeinsam wirtschaftest. Volljährige Kinder, für die du Kindergeld bekommst, zählen dabei nicht."
+      ],
+      "merke": "Im Haushalt darf keine weitere erwachsene Person mitwirtschaften."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun musst",
+      "absaetze": [
+        "Den Wechsel in die Steuerklasse II beantragst du beim Finanzamt. Ändert sich deine Lebenssituation, etwa durch einen neuen Partner in der Wohnung, musst du das melden.",
+        "Die aktuelle Höhe des Betrags findest du beim Bundesfinanzministerium oder in den Hinweisen zur Steuererklärung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Über welche Steuerklasse wird der Entlastungsbetrag berücksichtigt?",
+      "art": "mc",
+      "optionen": [
+        "Steuerklasse II",
+        "Steuerklasse V",
+        "Steuerklasse VI",
+        "Steuerklasse III"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wirkt er schon bei der Lohnsteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Voraussetzung?",
+      "art": "mc",
+      "optionen": [
+        "Ein Kind mit Kindergeldanspruch ist in deiner Wohnung gemeldet",
+        "Du bist verheiratet",
+        "Du wohnst mit einem Partner zusammen",
+        "Du hast kein Kind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Außerdem darf keine weitere erwachsene Person mitwirtschaften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zieht ein neuer Partner ein, musst du das dem Finanzamt melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann können die Voraussetzungen entfallen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Entlastungsbetrag senkt das zu versteuernde Einkommen.",
+        "Er wird über die Steuerklasse II berücksichtigt.",
+        "Keine weitere erwachsene Person darf mitwirtschaften.",
+        "Änderungen der Lebenssituation dem Finanzamt melden."
+      ]
+    }
+  ]
+}

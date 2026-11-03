@@ -1,0 +1,130 @@
+{
+  "id": "lern-b053-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Nutzen wir nur zehn Prozent unseres Gehirns?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gehirn",
+    "mythen",
+    "neurowissenschaft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Filmen und Werbung heißt es oft, wir nutzten nur einen kleinen Teil unseres Gehirns.",
+        "Diese Vorstellung hält sich hartnäckig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Mythos",
+      "absaetze": [
+        "Die Behauptung, wir nutzten nur zehn Prozent unseres Gehirns, ist falsch. Bildgebende Verfahren zeigen, dass im Laufe eines Tages praktisch alle Bereiche aktiv sind.",
+        "Nicht alle Bereiche arbeiten gleichzeitig. Je nach Aufgabe sind unterschiedliche Netzwerke stärker beteiligt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein teures Organ",
+      "absaetze": [
+        "Das Gehirn macht nur etwa zwei Prozent des Körpergewichts aus. Es verbraucht aber rund ein Fünftel der Energie des Körpers in Ruhe.",
+        "Ein Organ, das zu neunzig Prozent ungenutzt wäre, hätte sich in der Evolution kaum so entwickelt."
+      ],
+      "merke": "Das Gehirn verbraucht rund ein Fünftel der Ruheenergie.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schon kleine Schäden zählen",
+      "absaetze": [
+        "Bei einem Schlaganfall oder einer Verletzung können schon kleine geschädigte Bereiche deutliche Ausfälle verursachen. Das zeigt, dass kein Teil überflüssig ist.",
+        "Das Gehirn kann sich aber bis ins Alter verändern und Neues lernen. Man nennt das Plastizität."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Wir nutzen nur zehn Prozent unseres Gehirns.",
+      "urteil": "mythos",
+      "erklaerung": "Bildgebende Verfahren zeigen, dass im Laufe des Tages praktisch alle Bereiche des Gehirns aktiv sind. Schon kleine Schäden an einzelnen Bereichen führen oft zu deutlichen Ausfällen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen bildgebende Verfahren?",
+      "art": "mc",
+      "optionen": [
+        "Praktisch alle Bereiche sind im Tagesverlauf aktiv",
+        "Nur zehn Prozent sind aktiv",
+        "Das Gehirn schläft tagsüber",
+        "Nur die linke Hälfte arbeitet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je nach Aufgabe arbeiten unterschiedliche Netzwerke."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel der Ruheenergie verbraucht das Gehirn etwa?",
+      "art": "mc",
+      "optionen": [
+        "Rund ein Fünftel",
+        "Ein Hundertstel",
+        "Die Hälfte",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei nur etwa zwei Prozent des Körpergewichts."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Plastizität?",
+      "art": "mc",
+      "optionen": [
+        "Das Gehirn kann sich verändern und Neues lernen",
+        "Das Gehirn besteht aus Plastik",
+        "Das Gehirn wird im Alter härter",
+        "Ein Mythos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt bis ins Alter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Zehn-Prozent-Mythos ist wissenschaftlich belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist widerlegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Zehn-Prozent-Mythos ist falsch.",
+        "Im Tagesverlauf sind praktisch alle Bereiche aktiv.",
+        "Das Gehirn verbraucht viel Energie.",
+        "Das Gehirn bleibt bis ins Alter veränderbar."
+      ]
+    }
+  ]
+}

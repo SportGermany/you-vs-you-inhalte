@@ -1,0 +1,130 @@
+{
+  "id": "koer-b053-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was bedeuten die zwei Werte beim Blutdruck?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Blutdruck richtig messen",
+      "herausgeber": "Deutsche Hochdruckliga",
+      "url": "https://www.hochdruckliga.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blutdruck",
+    "herz",
+    "messung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "120 zu 80: So oder ähnlich steht es auf dem Messgerät.",
+        "Doch was sagen die beiden Zahlen eigentlich aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oberer und unterer Wert",
+      "absaetze": [
+        "Der obere Wert heißt systolischer Blutdruck. Er entsteht, wenn das Herz sich zusammenzieht und Blut in die Gefäße pumpt.",
+        "Der untere Wert heißt diastolischer Blutdruck. Er zeigt den Druck, wenn sich das Herz zwischen zwei Schlägen entspannt. Gemessen wird in Millimeter Quecksilbersäule."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hoher Blutdruck bleibt oft unbemerkt",
+      "absaetze": [
+        "Bluthochdruck verursacht lange Zeit meist keine Beschwerden. Trotzdem schädigt er auf Dauer Gefäße, Herz, Nieren und Gehirn. Er ist ein wichtiger Risikofaktor für Herzinfarkt und Schlaganfall.",
+        "Ab Werten von 140 zu 90 sprechen Fachgesellschaften in der Arztpraxis meist von Bluthochdruck."
+      ],
+      "merke": "Bluthochdruck tut nicht weh, schadet aber.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig messen",
+      "absaetze": [
+        "Miss im Sitzen nach einigen Minuten Ruhe. Der Arm mit der Manschette sollte auf Herzhöhe liegen. Sprich während der Messung nicht.",
+        "Miss am besten zu ähnlichen Tageszeiten und notiere die Werte. Ein einzelner hoher Wert ist noch keine Diagnose. Auffällige Werte bespreche in der Arztpraxis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt der obere Blutdruckwert?",
+      "art": "mc",
+      "optionen": [
+        "Den Druck, wenn das Herz pumpt",
+        "Den Puls",
+        "Den Blutzucker",
+        "Den Sauerstoffgehalt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er heißt systolischer Blutdruck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Bluthochdruck tückisch?",
+      "art": "mc",
+      "optionen": [
+        "Er verursacht lange keine Beschwerden",
+        "Er tut immer stark weh",
+        "Er ist immer harmlos",
+        "Er tritt nur bei Kindern auf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trotzdem schädigt er die Gefäße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du messen?",
+      "art": "mc",
+      "optionen": [
+        "Im Sitzen nach einigen Minuten Ruhe",
+        "Direkt nach dem Treppensteigen",
+        "Im Stehen beim Telefonieren",
+        "Nach dem Sport"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Arm sollte auf Herzhöhe liegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein einzelner hoher Messwert bedeutet sicher Bluthochdruck.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Erst mehrere Messungen geben ein Bild."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der obere Wert zeigt den Druck beim Pumpen des Herzens.",
+        "Der untere Wert zeigt den Druck in der Entspannungsphase.",
+        "Bluthochdruck bleibt oft lange unbemerkt.",
+        "In Ruhe, im Sitzen und regelmäßig messen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ern-b053-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum ist Cassia-Zimt umstritten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Cumarin in Zimt",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zimt",
+    "cumarin",
+    "gewuerze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zimt gehört zu Weihnachten, Milchreis und Apfelkuchen.",
+        "Doch Zimt ist nicht gleich Zimt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Sorten",
+      "absaetze": [
+        "Im Handel gibt es vor allem zwei Sorten. Cassia-Zimt ist günstig und am weitesten verbreitet, etwa in Backwaren und gemahlenem Zimt.",
+        "Ceylon-Zimt ist teurer und feiner im Geschmack. Er wird oft als echter Zimt bezeichnet."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Stoff Cumarin",
+      "absaetze": [
+        "Cassia-Zimt enthält deutlich mehr Cumarin als Ceylon-Zimt. In größeren Mengen kann Cumarin bei empfindlichen Menschen die Leber schädigen.",
+        "Das Bundesinstitut für Risikobewertung weist darauf hin, dass besonders kleine Kinder bei häufigem Verzehr stark zimthaltiger Lebensmittel die tolerierbare Menge überschreiten können."
+      ],
+      "merke": "Cassia-Zimt enthält viel mehr Cumarin als Ceylon-Zimt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genießen mit Maß",
+      "absaetze": [
+        "Gelegentlich Zimtsterne oder Milchreis mit Zimt sind kein Problem. Wer Zimt sehr oft und in größeren Mengen verwendet, greift besser zu Ceylon-Zimt.",
+        "Zimtkapseln zur Senkung des Blutzuckers sind nicht empfehlenswert. Ein Nutzen ist nicht ausreichend belegt, und sie können viel Cumarin enthalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zimtsorte ist am weitesten verbreitet?",
+      "art": "mc",
+      "optionen": [
+        "Cassia-Zimt",
+        "Ceylon-Zimt",
+        "Vanillezimt",
+        "Muskatzimt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist günstig und steckt in vielen Backwaren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Cumarin in größeren Mengen schädigen?",
+      "art": "mc",
+      "optionen": [
+        "Die Leber",
+        "Die Haare",
+        "Die Zähne",
+        "Die Augenfarbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders empfindliche Menschen sind betroffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zimtsorte enthält deutlich weniger Cumarin?",
+      "art": "mc",
+      "optionen": [
+        "Ceylon-Zimt",
+        "Cassia-Zimt",
+        "Beide gleich viel",
+        "Keine von beiden enthält Cumarin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gilt als echter Zimt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zimtkapseln zur Senkung des Blutzuckers sind gut belegt und unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Nutzen ist nicht belegt, und sie können viel Cumarin enthalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Es gibt vor allem Cassia- und Ceylon-Zimt.",
+        "Cassia-Zimt enthält deutlich mehr Cumarin.",
+        "Kleine Kinder sind bei häufigem Verzehr besonders gefährdet.",
+        "Wer viel Zimt nutzt, wählt besser Ceylon-Zimt."
+      ]
+    }
+  ]
+}

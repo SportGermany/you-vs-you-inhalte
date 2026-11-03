@@ -1,0 +1,121 @@
+{
+  "id": "geld-b053-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Lohnt sich Leasing für Privatleute?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "leasing",
+    "auto",
+    "vertraege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Neues Auto für eine überschaubare Monatsrate: Leasing klingt verlockend.",
+        "Doch für Privatleute ist es nicht immer günstig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mieten statt kaufen",
+      "absaetze": [
+        "Beim Leasing nutzt du ein Auto für eine feste Zeit gegen eine monatliche Rate. Es gehört aber nicht dir, sondern der Leasinggesellschaft.",
+        "Am Ende gibst du das Fahrzeug zurück. Oft ist zu Beginn zusätzlich eine größere Sonderzahlung fällig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Vertragsarten",
+      "absaetze": [
+        "Beim Kilometerleasing vereinbarst du eine Laufleistung. Fährst du mehr, zahlst du nach. Bei der Rückgabe werden Schäden über normale Abnutzung hinaus berechnet.",
+        "Beim Restwertleasing trägst du das Risiko, dass das Auto am Ende weniger wert ist als vereinbart. Das kann teuer werden."
+      ],
+      "merke": "Beim Restwertleasing trägst du das Wertverlust-Risiko."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechnen lohnt sich",
+      "absaetze": [
+        "Für Unternehmen kann Leasing steuerlich günstig sein. Privatleute zahlen über die gesamte Laufzeit dagegen oft mehr als beim Kauf eines gebrauchten Autos.",
+        "Vergleiche die Gesamtkosten mit Rate, Sonderzahlung, Versicherung und möglichen Nachzahlungen. Achte auch darauf, dass meist eine Vollkaskoversicherung Pflicht ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem gehört ein geleastes Auto?",
+      "art": "mc",
+      "optionen": [
+        "Der Leasinggesellschaft",
+        "Dir",
+        "Der Werkstatt",
+        "Dem Staat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du nutzt es nur gegen eine Rate."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist beim Kilometerleasing teuer?",
+      "art": "mc",
+      "optionen": [
+        "Mehrkilometer und übermäßige Schäden",
+        "Weniger fahren",
+        "Waschen des Autos",
+        "Tanken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden bei der Rückgabe abgerechnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Risiko trägst du beim Restwertleasing?",
+      "art": "mc",
+      "optionen": [
+        "Dass das Auto am Ende weniger wert ist",
+        "Dass es geklaut wird",
+        "Dass es regnet",
+        "Keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann teuer werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Privatleute ist Leasing immer günstiger als ein Kauf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft ist ein Gebrauchtwagenkauf günstiger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Leasing gehört das Auto der Leasinggesellschaft.",
+        "Mehrkilometer und Schäden kosten extra.",
+        "Restwertleasing birgt ein Wertverlust-Risiko.",
+        "Gesamtkosten immer mit einem Kauf vergleichen."
+      ]
+    }
+  ]
+}

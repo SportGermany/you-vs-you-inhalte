@@ -1,0 +1,124 @@
+{
+  "id": "all-b053-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was passiert bei einer Supernova?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Stars and Supernovae",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "supernova",
+    "sternexplosion",
+    "elemente"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manchmal leuchtet am Himmel plötzlich ein neuer, heller Stern auf.",
+        "In Wahrheit ist es das spektakuläre Ende eines Sterns."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Ende eines Riesensterns",
+      "absaetze": [
+        "Sehr massereiche Sterne verbrauchen am Ende ihren Brennstoff. Ihr Kern bricht dann in Sekundenbruchteilen unter der eigenen Schwerkraft zusammen.",
+        "Die äußeren Schichten werden in einer gewaltigen Explosion ins All geschleudert. Zurück bleibt ein Neutronenstern oder ein Schwarzes Loch."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein anderer Weg",
+      "absaetze": [
+        "Eine andere Art Supernova entsteht, wenn ein Weißer Zwerg von einem Begleitstern Materie aufnimmt. Wird er zu schwer, explodiert er vollständig.",
+        "Diese Explosionen leuchten sehr gleichmäßig hell. Astronomen nutzen sie deshalb, um Entfernungen im Universum zu messen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wir bestehen aus Sternenstaub",
+      "absaetze": [
+        "Bei Supernovae entstehen und verteilen sich viele schwere chemische Elemente. Auch das Eisen in unserem Blut stammt letztlich aus dem Inneren längst vergangener Sterne.",
+        "1054 beobachteten chinesische Astronomen eine Supernova, die sogar am Tag sichtbar war. Ihr Überrest ist heute als Krebsnebel bekannt."
+      ],
+      "merke": "Viele Elemente unseres Körpers stammen aus Sternexplosionen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei einem massereichen Stern am Ende?",
+      "art": "mc",
+      "optionen": [
+        "Sein Kern bricht zusammen, die Hülle explodiert",
+        "Er wird zu einem Planeten",
+        "Er kühlt einfach ab",
+        "Er verwandelt sich in einen Kometen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zurück bleibt ein Neutronenstern oder Schwarzes Loch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür nutzen Astronomen bestimmte Supernovae?",
+      "art": "mc",
+      "optionen": [
+        "Zur Entfernungsmessung im Universum",
+        "Zur Wettervorhersage",
+        "Als Uhr für die Erde",
+        "Zum Navigieren von Schiffen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie leuchten sehr gleichmäßig hell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Überrest stammt von der Supernova des Jahres 1054?",
+      "art": "mc",
+      "optionen": [
+        "Der Krebsnebel",
+        "Der Mond",
+        "Der Halleysche Komet",
+        "Der Saturnring"
+      ],
+      "richtig": 0,
+      "erklaerung": "Chinesische Astronomen beobachteten sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schwere Elemente wie Eisen entstehen auch bei Sternexplosionen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wir bestehen teilweise aus Sternenstaub."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Massereiche Sterne enden in einer Supernova.",
+        "Auch Weiße Zwerge können explodieren.",
+        "Supernovae helfen bei der Entfernungsmessung.",
+        "Viele schwere Elemente stammen aus Sternexplosionen."
+      ]
+    }
+  ]
+}

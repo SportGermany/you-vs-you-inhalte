@@ -1,0 +1,118 @@
+{
+  "id": "ern-b053-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Erythrit?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "erythrit",
+    "zuckeraustauschstoff",
+    "suessen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Erythrit sieht aus wie Zucker und schmeckt ähnlich süß.",
+        "Er liefert aber kaum Energie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein besonderer Zuckeralkohol",
+      "absaetze": [
+        "Erythrit gehört zu den Zuckeralkoholen. Anders als andere Zuckeralkohole wird er im Dünndarm großteils aufgenommen und unverändert über die Nieren ausgeschieden.",
+        "Deshalb liefert er praktisch keine Energie und lässt den Blutzucker kaum ansteigen. Er süßt etwas schwächer als Haushaltszucker."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut verträglich, aber nicht unbegrenzt",
+      "absaetze": [
+        "Erythrit führt seltener zu Blähungen und Durchfall als andere Zuckeralkohole. In größeren Mengen kann er aber ebenfalls den Darm reizen.",
+        "Für die Zähne ist er günstig, weil Kariesbakterien ihn nicht verwerten können."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Offene Fragen",
+      "absaetze": [
+        "Eine Beobachtungsstudie aus dem Jahr 2023 deutet darauf hin, dass hohe Erythritwerte im Blut mit einem höheren Risiko für Herz-Kreislauf-Ereignisse zusammenhängen könnten. Ursache und Wirkung sind damit nicht bewiesen.",
+        "Fachleute raten deshalb, Süßungsmittel generell maßvoll zu nutzen. Besser ist es, sich insgesamt an weniger Süße zu gewöhnen."
+      ],
+      "merke": "Auch Süßungsmittel maßvoll verwenden.",
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum liefert Erythrit kaum Energie?",
+      "art": "mc",
+      "optionen": [
+        "Er wird großteils unverändert ausgeschieden",
+        "Er verdampft beim Kochen",
+        "Er besteht aus Wasser",
+        "Er ist ein Vitamin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird über die Nieren ausgeschieden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Erythrit auf den Blutzucker?",
+      "art": "mc",
+      "optionen": [
+        "Er lässt ihn kaum ansteigen",
+        "Er erhöht ihn stark",
+        "Er senkt ihn gefährlich",
+        "Er verdoppelt ihn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb nutzen ihn manche Menschen mit Diabetes."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Beobachtungsstudie hat bewiesen, dass Erythrit Herzinfarkte verursacht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zeigt nur einen möglichen Zusammenhang."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erythrit ist ein fast energiefreier Zuckeralkohol.",
+        "Er lässt den Blutzucker kaum ansteigen.",
+        "Er ist meist gut verträglich und zahnfreundlich.",
+        "Wegen offener Fragen maßvoll verwenden."
+      ]
+    }
+  ]
+}

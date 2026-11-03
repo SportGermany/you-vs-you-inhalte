@@ -1,0 +1,130 @@
+{
+  "id": "haus-b053-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was tun bei einem Wasserschaden in der Mietwohnung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wasserschaden",
+    "mietwohnung",
+    "versicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wasser tropft von der Decke oder steht im Bad.",
+        "Jetzt kommt es darauf an, schnell und richtig zu handeln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sofort handeln",
+      "absaetze": [
+        "Stoppe wenn möglich die Wasserzufuhr, etwa am Hauptwasserhahn. Kommt das Wasser aus der Wohnung darüber, informiere die Nachbarn.",
+        "Schalte bei Wasser in der Nähe von Steckdosen oder Elektrogeräten den Strom ab. Bringe Wertgegenstände in Sicherheit."
+      ],
+      "merke": "Zuerst Wasser stoppen und Strom bei Gefahr abschalten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Melden und dokumentieren",
+      "absaetze": [
+        "Informiere sofort deinen Vermieter oder die Hausverwaltung. Mieter sind verpflichtet, Schäden an der Wohnung unverzüglich zu melden.",
+        "Fotografiere die Schäden und notiere, wann was passiert ist. Das hilft bei der Klärung mit den Versicherungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer zahlt was",
+      "absaetze": [
+        "Schäden am Gebäude, etwa an Wänden oder Böden, deckt meist die Wohngebäudeversicherung des Eigentümers. Für beschädigte Möbel und eigene Sachen ist deine Hausratversicherung zuständig.",
+        "Hast du den Schaden selbst verursacht, kann deine Haftpflichtversicherung für Schäden bei anderen einspringen. Lass feuchte Räume gründlich trocknen, damit kein Schimmel entsteht."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Bei einem Wasserschaden",
+      "schritte": [
+        {
+          "titel": "Stoppen",
+          "text": "Dreh das Wasser ab."
+        },
+        {
+          "titel": "Sichern",
+          "text": "Schalte bei Gefahr den Strom ab."
+        },
+        {
+          "titel": "Melden",
+          "text": "Informiere sofort Vermieter oder Hausverwaltung."
+        },
+        {
+          "titel": "Dokumentieren",
+          "text": "Fotografiere alle Schäden."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du zuerst tun?",
+      "art": "mc",
+      "optionen": [
+        "Die Wasserzufuhr stoppen",
+        "Die Wohnung verlassen und abwarten",
+        "Neue Möbel kaufen",
+        "Eine Woche warten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa am Hauptwasserhahn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt für deine beschädigten Möbel?",
+      "art": "mc",
+      "optionen": [
+        "Deine Hausratversicherung",
+        "Die Kfz-Versicherung",
+        "Die Krankenversicherung",
+        "Die Rentenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gebäudeschäden deckt meist die Versicherung des Eigentümers."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mieter müssen Schäden an der Wohnung unverzüglich melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Informiere sofort Vermieter oder Hausverwaltung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sofort Wasser stoppen und bei Gefahr Strom abschalten.",
+        "Vermieter unverzüglich informieren.",
+        "Schäden fotografieren und dokumentieren.",
+        "Hausrat zahlt eigene Sachen, Gebäudeversicherung das Haus."
+      ]
+    }
+  ]
+}

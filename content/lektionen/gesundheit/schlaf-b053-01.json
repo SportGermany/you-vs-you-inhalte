@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b053-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft weißes Rauschen beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "weisses-rauschen",
+    "geraeusche",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche schlafen nur mit laufendem Ventilator ein.",
+        "Apps mit Rauschen, Regen oder Meeresgeräuschen sind beliebt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was weißes Rauschen ist",
+      "absaetze": [
+        "Weißes Rauschen ist ein gleichmäßiges Geräusch, in dem alle hörbaren Frequenzen ähnlich stark vorkommen. Es klingt wie ein Rauschen im Radio.",
+        "Ähnliche Klänge wie rosa oder braunes Rauschen wirken tiefer und weicher."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Störgeräusche überdecken",
+      "absaetze": [
+        "Ein gleichmäßiges Hintergrundgeräusch kann plötzliche Geräusche wie Türenschlagen oder Verkehr überdecken. Sie fallen dann weniger auf und wecken seltener.",
+        "Studien zu weißem Rauschen sind meist klein und von begrenzter Qualität. Sie deuten darauf hin, dass manche Menschen davon profitieren, ein klarer Nutzen für alle ist aber nicht belegt."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sinnvoll einsetzen",
+      "absaetze": [
+        "Halte die Lautstärke niedrig. Für Babys sollten Geräte weit genug vom Bett entfernt stehen und leise eingestellt sein.",
+        "Wer ohne Hilfsmittel gut schläft, braucht kein Rauschen. Bei anhaltenden Schlafproblemen ist ärztlicher Rat sinnvoller als immer neue Geräte."
+      ],
+      "merke": "Rauschen nur leise einsetzen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist weißes Rauschen?",
+      "art": "mc",
+      "optionen": [
+        "Ein gleichmäßiges Geräusch mit allen hörbaren Frequenzen",
+        "Ein Wecker",
+        "Völlige Stille",
+        "Musik mit Gesang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es klingt wie ein Rauschen im Radio."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie könnte weißes Rauschen beim Schlafen helfen?",
+      "art": "mc",
+      "optionen": [
+        "Es überdeckt plötzliche Störgeräusche",
+        "Es ersetzt den Schlaf",
+        "Es macht das Zimmer kühler",
+        "Es senkt den Blutzucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Plötzliche Geräusche fallen weniger auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Wirkung von weißem Rauschen ist für alle Menschen klar belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Studien sind klein und uneinheitlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weißes Rauschen ist ein gleichmäßiges Hintergrundgeräusch.",
+        "Es kann plötzliche Störgeräusche überdecken.",
+        "Ein klarer Nutzen für alle ist nicht belegt.",
+        "Geräte leise und mit Abstand einsetzen."
+      ]
+    }
+  ]
+}
