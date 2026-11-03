@@ -1,0 +1,124 @@
+{
+  "id": "all-b045-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Pulsar?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pulsare",
+    "neutronensterne",
+    "astronomie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "1967 empfing ein Radioteleskop ein Signal, das sich exakt alle 1,3 Sekunden wiederholte.",
+        "Kurz dachte man sogar an Botschaften von Außerirdischen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine überraschende Entdeckung",
+      "absaetze": [
+        "Die Doktorandin Jocelyn Bell entdeckte das Signal. Weil es so regelmäßig war, erhielt es scherzhaft den Spitznamen LGM, für kleine grüne Männchen.",
+        "Bald war klar: Die Ursache war natürlich. Für die Entdeckung der Pulsare erhielt ihr Doktorvater Antony Hewish 1974 den Physik-Nobelpreis, sie selbst ging leer aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein kosmischer Leuchtturm",
+      "absaetze": [
+        "Ein Pulsar ist ein schnell rotierender Neutronenstern. Er sendet von seinen Magnetpolen gebündelte Strahlung aus.",
+        "Weil sich der Stern dreht, streicht der Strahl wie bei einem Leuchtturm über die Erde. Wir messen dann einen regelmäßigen Puls. Manche Pulsare drehen sich hunderte Male pro Sekunde."
+      ],
+      "merke": "Pulsare funktionieren wie kosmische Leuchttürme.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Präzise Uhren im All",
+      "absaetze": [
+        "Pulsare drehen sich extrem gleichmäßig. Deshalb nutzen Forschende sie als Uhren im All, etwa um winzige Verzerrungen der Raumzeit aufzuspüren.",
+        "Ein bekannter Pulsar sitzt im Krebsnebel. Er ist der Rest einer Sternexplosion, die im Jahr 1054 auf der Erde beobachtet wurde."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Pulsar?",
+      "art": "mc",
+      "optionen": [
+        "Ein schnell rotierender Neutronenstern",
+        "Ein Komet",
+        "Ein Planet mit Ringen",
+        "Eine Galaxie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er sendet gebündelte Strahlung aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entdeckte 1967 den ersten Pulsar?",
+      "art": "mc",
+      "optionen": [
+        "Albert Einstein",
+        "Edwin Hubble",
+        "Jocelyn Bell",
+        "Stephen Hawking"
+      ],
+      "richtig": 2,
+      "erklaerung": "Sie war damals Doktorandin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum messen wir einen regelmäßigen Puls?",
+      "art": "mc",
+      "optionen": [
+        "Der Stern explodiert ständig",
+        "Der Strahl streicht beim Drehen über die Erde",
+        "Die Erde blinkt",
+        "Der Stern geht an und aus"
+      ],
+      "richtig": 1,
+      "erklaerung": "Wie bei einem Leuchtturm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Signal stammte von Außerirdischen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Ursache war ein natürlicher Neutronenstern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pulsare sind rotierende Neutronensterne.",
+        "Ihr Strahl streicht wie bei einem Leuchtturm über die Erde.",
+        "Jocelyn Bell entdeckte 1967 den ersten Pulsar.",
+        "Pulsare dienen als präzise Uhren im All."
+      ]
+    }
+  ]
+}

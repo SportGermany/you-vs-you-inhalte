@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b045-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Gibt es einen langsamen Stoffwechsel?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Adipositas und Stoffwechsel",
+      "herausgeber": "Deutsche Adipositas-Gesellschaft",
+      "url": "https://adipositas-gesellschaft.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "grundumsatz",
+    "stoffwechsel",
+    "mythen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ich habe halt einen langsamen Stoffwechsel, sagen viele.",
+        "Wie groß sind die Unterschiede zwischen Menschen wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was den Grundumsatz bestimmt",
+      "absaetze": [
+        "Der Grundumsatz ist die Energie, die der Körper in Ruhe verbraucht. Er hängt vor allem von der Körpergröße und der fettfreien Masse ab, also Muskeln und Organen.",
+        "Größere und muskulösere Menschen verbrauchen daher mehr. Bei gleicher Körperzusammensetzung sind die Unterschiede zwischen Menschen meist kleiner, als viele glauben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alter und Stoffwechsel",
+      "absaetze": [
+        "Eine große Auswertung von Messdaten erschien 2021. Sie deutet darauf hin, dass der Energieverbrauch zwischen etwa 20 und 60 Jahren im Verhältnis zur Körpergröße recht stabil bleibt. Erst danach sinkt er langsam.",
+        "Dass Menschen mit den Jahren zunehmen, liegt daher oft eher an weniger Bewegung und veränderten Gewohnheiten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann der Stoffwechsel wirklich langsamer ist",
+      "absaetze": [
+        "Eine Schilddrüsenunterfunktion kann den Stoffwechsel verlangsamen. Sie lässt sich mit einem Bluttest feststellen und behandeln.",
+        "Nach starkem Gewichtsverlust passt sich der Körper außerdem an und spart Energie. Bei Fragen zum Gewicht ist ärztlicher Rat sinnvoll."
+      ],
+      "merke": "Bei Verdacht auf eine Schilddrüsenerkrankung ärztlich abklären lassen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt der Grundumsatz vor allem ab?",
+      "art": "mc",
+      "optionen": [
+        "Von der Haarfarbe",
+        "Von der Körpergröße und der fettfreien Masse",
+        "Vom Sternzeichen",
+        "Von der Schuhgröße"
+      ],
+      "richtig": 1,
+      "erklaerung": "Muskeln und Organe verbrauchen auch in Ruhe Energie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte eine große Auswertung von 2021?",
+      "art": "mc",
+      "optionen": [
+        "Der Stoffwechsel sinkt ab 25 stark",
+        "Kinder verbrauchen keine Energie",
+        "Der Verbrauch bleibt zwischen 20 und 60 recht stabil",
+        "Frauen haben keinen Grundumsatz"
+      ],
+      "richtig": 2,
+      "erklaerung": "Erst nach etwa 60 sinkt er langsam."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Schilddrüsenunterfunktion kann den Stoffwechsel verlangsamen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Bluttest kann das klären."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Grundumsatz hängt vor allem von Größe und Muskelmasse ab.",
+        "Unterschiede zwischen ähnlich gebauten Menschen sind meist klein.",
+        "Zwischen 20 und 60 bleibt der Verbrauch recht stabil.",
+        "Eine Schilddrüsenunterfunktion ist eine echte Ursache.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

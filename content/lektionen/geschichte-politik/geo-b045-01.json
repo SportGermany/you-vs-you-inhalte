@@ -1,0 +1,127 @@
+{
+  "id": "geo-b045-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Warum ist Zypern geteilt?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Länderinformationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "United Nations Peacekeeping",
+      "herausgeber": "Vereinte Nationen",
+      "url": "https://www.un.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zypern",
+    "tuerkei",
+    "griechenland"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten durch Zyperns Hauptstadt Nikosia verläuft eine Grenze mit Stacheldraht.",
+        "Die Insel ist seit 1974 geteilt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Volksgruppen",
+      "absaetze": [
+        "Auf Zypern leben griechische und türkische Zyprer. 1960 wurde die Insel von Großbritannien unabhängig. Die Verfassung sollte beide Gruppen an der Macht beteiligen.",
+        "Schon bald kam es zu Gewalt zwischen den Gruppen. Seit 1964 sind deshalb UN-Friedenstruppen auf der Insel stationiert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Putsch und Invasion 1974",
+      "absaetze": [
+        "1974 putschten griechische Nationalisten mit Unterstützung der damaligen Militärregierung in Athen. Sie wollten Zypern an Griechenland anschließen.",
+        "Daraufhin landeten türkische Truppen im Norden der Insel. Seitdem ist Zypern geteilt. Zehntausende Menschen mussten auf beiden Seiten ihre Heimat verlassen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bis heute ungelöst",
+      "absaetze": [
+        "1983 riefen die türkischen Zyprer im Norden einen eigenen Staat aus. Ihn erkennt nur die Türkei an.",
+        "2004 scheiterte ein UN-Plan zur Wiedervereinigung an einer Volksabstimmung im griechischen Süden. Im selben Jahr trat die Republik Zypern der EU bei. EU-Recht gilt seitdem praktisch nur im Süden."
+      ],
+      "merke": "Den Staat im Norden erkennt nur die Türkei an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann ist Zypern geteilt?",
+      "art": "mc",
+      "optionen": [
+        "Seit 1945",
+        "Seit 1960",
+        "Seit 1974",
+        "Seit 2004"
+      ],
+      "richtig": 2,
+      "erklaerung": "Nach Putsch und türkischer Invasion."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land erkennt den Staat im Norden Zyperns an?",
+      "art": "mc",
+      "optionen": [
+        "Nur die Türkei",
+        "Griechenland",
+        "Die gesamte EU",
+        "Die Vereinten Nationen"
+      ],
+      "richtig": 0,
+      "erklaerung": "International ist er nicht anerkannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was geschah 2004?",
+      "art": "mc",
+      "optionen": [
+        "Zypern wurde wiedervereinigt",
+        "Der UN-Plan scheiterte, die Republik Zypern trat der EU bei",
+        "Die UN-Truppen zogen ab",
+        "Großbritannien übernahm die Insel"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Plan scheiterte an der Abstimmung im Süden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf Zypern sind seit den 1960er-Jahren UN-Friedenstruppen stationiert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Seit 1964."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zypern wurde 1960 unabhängig.",
+        "1974 folgten Putsch und türkische Invasion.",
+        "Der Norden wird nur von der Türkei anerkannt.",
+        "2004 scheiterte ein UN-Plan, Zypern trat der EU bei."
+      ]
+    }
+  ]
+}

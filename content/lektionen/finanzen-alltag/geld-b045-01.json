@@ -1,0 +1,114 @@
+{
+  "id": "geld-b045-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was bedeutet Rebalancing bei der Geldanlage?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rebalancing",
+    "geldanlage",
+    "risiko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast dein Geld bewusst auf sichere und riskantere Anlagen verteilt.",
+        "Nach ein paar Jahren stimmt die Aufteilung oft nicht mehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Aufteilung verschiebt sich",
+      "absaetze": [
+        "Viele Anlegerinnen und Anleger legen fest, welcher Anteil in Aktien und welcher in sicherere Anlagen fließt. Diese Aufteilung bestimmt maßgeblich das Risiko.",
+        "Steigen die Aktienkurse stark, wächst ihr Anteil im Depot. Das Depot wird dadurch unbemerkt riskanter als ursprünglich geplant."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zurück zur Ausgangslage",
+      "absaetze": [
+        "Rebalancing bedeutet, die ursprüngliche Aufteilung wiederherzustellen. Dafür verkaufst du einen Teil der gestiegenen Anlage und kaufst von der anderen nach.",
+        "Einfacher geht es oft mit neuem Geld. Du lenkst neue Sparraten gezielt in den Teil, der zu klein geworden ist."
+      ],
+      "merke": "Rebalancing hält das Risiko auf dem geplanten Niveau."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann und wie oft",
+      "absaetze": [
+        "Manche überprüfen ihr Depot einmal im Jahr. Andere greifen erst ein, wenn die Aufteilung deutlich vom Ziel abweicht.",
+        "Häufiges Umschichten verursacht Kosten. Bei Verkäufen mit Gewinn können außerdem Steuern anfallen. Das solltest du beim Planen berücksichtigen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Rebalancing?",
+      "art": "mc",
+      "optionen": [
+        "Die ursprüngliche Aufteilung wiederherstellen",
+        "Alles in Aktien anlegen",
+        "Das Depot auflösen",
+        "Die Bank wechseln"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt das Risiko auf dem geplanten Niveau."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn Aktien stark steigen und du nichts tust?",
+      "art": "mc",
+      "optionen": [
+        "Das Depot wird sicherer",
+        "Nichts ändert sich",
+        "Das Depot wird riskanter als geplant",
+        "Die Aktien werden zu Anleihen"
+      ],
+      "richtig": 2,
+      "erklaerung": "Ihr Anteil im Depot wächst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Neue Sparraten können zum Rebalancing genutzt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So vermeidest du Verkäufe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kursbewegungen verschieben die Aufteilung im Depot.",
+        "Rebalancing stellt die geplante Aufteilung wieder her.",
+        "Neue Sparraten machen es oft einfacher.",
+        "Kosten und Steuern beim Umschichten beachten."
+      ]
+    }
+  ]
+}

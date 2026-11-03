@@ -1,0 +1,127 @@
+{
+  "id": "welt-b045-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Was beschloss der Wiener Kongress?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebendiges Museum Online",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wiener-kongress",
+    "napoleon",
+    "19-jahrhundert"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach den Napoleonischen Kriegen lag die Ordnung Europas in Trümmern.",
+        "1814 trafen sich Herrscher und Diplomaten in Wien, um sie neu zu ordnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kongress der Mächte",
+      "absaetze": [
+        "Der Wiener Kongress tagte von 1814 bis 1815. Gastgeber war der österreichische Außenminister Fürst Metternich. Den Ton gaben Österreich, Russland, Preußen und Großbritannien an. Auch das besiegte Frankreich verhandelte mit.",
+        "Neben den Verhandlungen gab es zahlreiche Bälle. Daher stammt der Spruch: Der Kongress tanzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ordnung und Gleichgewicht",
+      "absaetze": [
+        "Ziel war ein Gleichgewicht der Mächte, damit kein Staat Europa beherrschen konnte. Viele alte Herrscherhäuser kehrten auf ihre Throne zurück. Dieses Prinzip heißt Restauration.",
+        "Preußen gewann Gebiete am Rhein, Russland große Teile Polens. Statt des untergegangenen Heiligen Römischen Reiches entstand der Deutsche Bund, ein lockerer Bund deutscher Staaten."
+      ],
+      "merke": "An die Stelle des alten Reiches trat der Deutsche Bund."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Napoleons Rückkehr",
+      "absaetze": [
+        "Während der Kongress noch tagte, kehrte Napoleon 1815 aus dem Exil auf Elba zurück. Nach etwa hundert Tagen wurde er bei Waterloo endgültig geschlagen.",
+        "Die Ordnung von Wien hielt in Europa lange einen weitgehenden Frieden zwischen den Großmächten. Forderungen nach Freiheit und nationaler Einheit unterdrückte sie aber."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer war Gastgeber des Wiener Kongresses?",
+      "art": "mc",
+      "optionen": [
+        "Napoleon",
+        "Fürst Metternich",
+        "Otto von Bismarck",
+        "Königin Victoria"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er war österreichischer Außenminister."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entstand statt des Heiligen Römischen Reiches?",
+      "art": "mc",
+      "optionen": [
+        "Das Deutsche Kaiserreich",
+        "Die Weimarer Republik",
+        "Der Deutsche Bund",
+        "Der Rheinbund"
+      ],
+      "richtig": 2,
+      "erklaerung": "Ein lockerer Bund deutscher Staaten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was war ein wichtiges Ziel des Kongresses?",
+      "art": "mc",
+      "optionen": [
+        "Ein Gleichgewicht der Mächte",
+        "Eine gemeinsame Währung",
+        "Die Abschaffung aller Monarchien",
+        "Die Gründung der EU"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kein Staat sollte Europa beherrschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Napoleon kehrte während des Kongresses aus dem Exil zurück.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei Waterloo wurde er endgültig geschlagen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Wiener Kongress ordnete Europa 1814 und 1815 neu.",
+        "Ziel war ein Gleichgewicht der Mächte.",
+        "Statt des alten Reiches entstand der Deutsche Bund.",
+        "Freiheits- und Einheitsbewegungen wurden unterdrückt."
+      ]
+    }
+  ]
+}

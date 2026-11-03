@@ -1,0 +1,117 @@
+{
+  "id": "umw-b045-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum versauern die Meere?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Meere und Klima",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ozeanversauerung",
+      "herausgeber": "Alfred-Wegener-Institut",
+      "url": "https://www.awi.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ozeanversauerung",
+    "co2",
+    "korallen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Ozeane nehmen einen großen Teil des Kohlendioxids auf, das Menschen ausstoßen.",
+        "Das bremst den Klimawandel, hat aber einen Preis."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus CO2 wird Säure",
+      "absaetze": [
+        "Löst sich Kohlendioxid im Meerwasser, entsteht Kohlensäure. Dadurch sinkt der pH-Wert des Wassers. Der pH-Wert gibt an, wie sauer oder basisch etwas ist.",
+        "Seit Beginn der Industrialisierung ist der pH-Wert der Meeresoberfläche von etwa 8,2 auf etwa 8,1 gesunken. Das klingt wenig, bedeutet aber eine deutliche Zunahme der Säure."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Noch basisch, aber saurer",
+      "absaetze": [
+        "Meerwasser ist weiterhin leicht basisch. Versauerung bedeutet, dass es sich in Richtung sauer verschiebt.",
+        "Diese Veränderung läuft schneller ab als vermutlich jemals in den letzten Millionen Jahren. Viele Lebewesen haben wenig Zeit, sich anzupassen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Probleme für Kalkbildner",
+      "absaetze": [
+        "Korallen, Muscheln, Schnecken und manches Plankton bauen Schalen und Skelette aus Kalk. In saurerem Wasser fällt ihnen das schwerer.",
+        "Weil viele dieser Lebewesen am Anfang von Nahrungsketten stehen, kann das ganze Ökosysteme betreffen. Der wirksamste Schutz ist, weniger Kohlendioxid auszustoßen."
+      ],
+      "merke": "Saureres Wasser erschwert den Bau von Kalkschalen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht, wenn sich CO2 im Meerwasser löst?",
+      "art": "mc",
+      "optionen": [
+        "Kohlensäure",
+        "Salz",
+        "Sauerstoff",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch sinkt der pH-Wert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Lebewesen leiden besonders unter Versauerung?",
+      "art": "mc",
+      "optionen": [
+        "Wale",
+        "Haie",
+        "Lebewesen mit Kalkschalen wie Korallen und Muscheln",
+        "Seevögel"
+      ],
+      "richtig": 2,
+      "erklaerung": "Ihnen fällt der Bau von Kalk schwerer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Meerwasser ist inzwischen sauer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist weiterhin leicht basisch, verschiebt sich aber Richtung sauer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ozeane nehmen viel menschengemachtes CO2 auf.",
+        "Dadurch entsteht Kohlensäure und der pH-Wert sinkt.",
+        "Kalkbildende Lebewesen geraten unter Druck.",
+        "Weniger CO2-Ausstoß ist der wirksamste Schutz."
+      ]
+    }
+  ]
+}

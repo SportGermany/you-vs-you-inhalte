@@ -1,0 +1,120 @@
+{
+  "id": "haus-b045-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie lange halten Essensreste im Kühlschrank?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "essensreste",
+    "kuehlschrank",
+    "lebensmittelsicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vom Abendessen ist etwas übrig. Morgen gibt es Reste.",
+        "Damit das sicher bleibt, kommt es auf ein paar Regeln an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell abkühlen",
+      "absaetze": [
+        "Keime vermehren sich besonders gut zwischen etwa 10 und 60 Grad. Lass gekochte Speisen deshalb nicht stundenlang auf dem Herd stehen.",
+        "Fülle Reste in flache, saubere Behälter. So kühlen sie schneller ab. Danach gehören sie zügig in den Kühlschrank."
+      ],
+      "merke": "Reste zügig abkühlen und kühl stellen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Als Faustregel wenige Tage",
+      "absaetze": [
+        "Die meisten gekochten Reste solltest du innerhalb von zwei bis drei Tagen essen. Bei Fisch, Geflügel und Hackfleisch ist eher ein kürzerer Zeitraum ratsam.",
+        "Schau, riech und probier vorsichtig. Riecht etwas ungewöhnlich oder ist Schimmel zu sehen, gehört es in den Müll."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Reis",
+      "absaetze": [
+        "Gekochter Reis kann Sporen bestimmter Bakterien enthalten, die das Kochen überleben. Bleibt der Reis lange warm stehen, können sie Giftstoffe bilden.",
+        "Kühle Reis daher schnell ab und erhitze ihn beim Aufwärmen gründlich. Das gilt auch für andere Reste: Alles sollte durch und durch heiß werden."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Spinat darf man nicht aufwärmen.",
+      "urteil": "teils",
+      "erklaerung": "Früher wurde davor gewarnt, weil sich aus Nitrat bei langsamer Abkühlung Nitrit bilden kann. Wird Spinat schnell abgekühlt und gekühlt, kannst du ihn einmal aufwärmen. Für Säuglinge sollte er nicht aufgewärmt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Temperaturbereich vermehren sich Keime besonders gut?",
+      "art": "mc",
+      "optionen": [
+        "Unter minus 18 Grad",
+        "Zwischen etwa 10 und 60 Grad",
+        "Über 100 Grad",
+        "Nur bei genau 37 Grad"
+      ],
+      "richtig": 1,
+      "erklaerung": "Deshalb Reste schnell abkühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist bei gekochtem Reis Vorsicht geboten?",
+      "art": "mc",
+      "optionen": [
+        "Er wird zu hart",
+        "Er verliert alle Vitamine",
+        "Er kann Bakteriensporen enthalten, die das Kochen überleben",
+        "Er zieht Wasser aus dem Kühlschrank"
+      ],
+      "richtig": 2,
+      "erklaerung": "Bei langem Warmhalten können Giftstoffe entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Flache Behälter helfen Resten, schneller abzukühlen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So kommen sie schneller in den kühlen Bereich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reste zügig abkühlen und kühl stellen.",
+        "Gekochte Reste meist innerhalb von zwei bis drei Tagen essen.",
+        "Reis schnell abkühlen und gründlich aufwärmen.",
+        "Beim Aufwärmen alles durch und durch erhitzen."
+      ]
+    }
+  ]
+}

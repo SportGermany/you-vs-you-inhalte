@@ -1,0 +1,133 @@
+{
+  "id": "welt-b045-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Was war die Inquisition?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebendiges Museum Online",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "inquisition",
+    "kirche",
+    "mittelalter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Wort Inquisition ruft düstere Bilder hervor: Verhöre, Folter, Scheiterhaufen.",
+        "Doch was war sie wirklich, und was ist Legende?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gerichte gegen Ketzer",
+      "absaetze": [
+        "Inquisition bedeutet Untersuchung. Im 13. Jahrhundert richtete die katholische Kirche besondere Gerichte ein. Sie sollten Ketzer aufspüren, also Menschen, die von der Lehre der Kirche abwichen.",
+        "Die Verfahren konnten Folter einschließen. Todesurteile vollstreckte nicht die Kirche selbst, sondern die weltliche Obrigkeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Spanische Inquisition",
+      "absaetze": [
+        "1478 entstand in Spanien eine eigene Inquisition unter Kontrolle der Könige. Sie richtete sich vor allem gegen Juden und Muslime, die zum Christentum übergetreten waren und denen man misstraute.",
+        "Sie bestand über Jahrhunderte und wurde erst 1834 endgültig abgeschafft."
+      ],
+      "merke": "Die Spanische Inquisition bestand bis 1834."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Galilei und die Römische Inquisition",
+      "absaetze": [
+        "1542 schuf der Papst in Rom eine zentrale Behörde gegen Irrlehren. Sie überwachte auch Bücher und Gelehrte.",
+        "Ihr bekanntester Fall: 1633 musste Galileo Galilei seiner Lehre abschwören, dass sich die Erde um die Sonne dreht. Er verbrachte seine letzten Jahre unter Hausarrest."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Die Inquisition hat die meisten Hexen verbrannt.",
+      "urteil": "teils",
+      "erklaerung": "Die Inquisition verfolgte auch Hexerei. In Deutschland führten aber vor allem weltliche Gerichte die meisten Hexenprozesse. In Spanien und Italien urteilte die Inquisition bei Hexerei oft vergleichsweise zurückhaltend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet das Wort Inquisition?",
+      "art": "mc",
+      "optionen": [
+        "Bekehrung",
+        "Untersuchung",
+        "Bestrafung",
+        "Gebet"
+      ],
+      "richtig": 1,
+      "erklaerung": "Gemeint waren kirchliche Untersuchungsgerichte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegen wen richtete sich die Spanische Inquisition vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Gegen konvertierte Juden und Muslime",
+        "Gegen Bauern",
+        "Gegen Seefahrer",
+        "Gegen Könige"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man misstraute ihrem neuen Glauben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer musste 1633 seiner Lehre abschwören?",
+      "art": "mc",
+      "optionen": [
+        "Martin Luther",
+        "Johannes Kepler",
+        "Nikolaus Kopernikus",
+        "Galileo Galilei"
+      ],
+      "richtig": 3,
+      "erklaerung": "Er lehrte, dass sich die Erde um die Sonne dreht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In Deutschland führten vor allem weltliche Gerichte die Hexenprozesse.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Inquisition spielte dort eine kleinere Rolle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Inquisition war ein kirchliches Gericht gegen Ketzer.",
+        "Die Spanische Inquisition bestand von 1478 bis 1834.",
+        "Galilei musste 1633 seiner Lehre abschwören.",
+        "Die meisten Hexenprozesse in Deutschland führten weltliche Gerichte."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "tech-b045-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was ist ein Quantencomputer?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Quantentechnologien und Post-Quanten-Kryptografie",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "quantencomputer",
+    "qubit",
+    "verschluesselung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Quantencomputer gelten als Zukunftstechnik mit enormem Potenzial.",
+        "Doch sie funktionieren ganz anders als dein Laptop."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Qubits statt Bits",
+      "absaetze": [
+        "Ein herkömmlicher Computer rechnet mit Bits, die entweder 0 oder 1 sind. Ein Quantencomputer nutzt Qubits. Sie können sich in einer Überlagerung befinden, einer Art Mischung aus 0 und 1.",
+        "Mehrere Qubits lassen sich zudem verschränken. Dann hängen ihre Zustände auf besondere Weise zusammen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für alles schneller",
+      "absaetze": [
+        "Quantencomputer sind keine schnelleren Alleskönner. Für bestimmte Aufgaben könnten sie aber enorm überlegen sein, etwa für die Simulation von Molekülen in der Chemie.",
+        "Heutige Geräte sind noch sehr fehleranfällig. Viele müssen auf Temperaturen nahe dem absoluten Nullpunkt gekühlt werden, damit die Qubits stabil bleiben."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr für Verschlüsselung",
+      "absaetze": [
+        "Ein ausreichend großer Quantencomputer könnte einige heute verbreitete Verschlüsselungsverfahren knacken.",
+        "Deshalb werden neue Verfahren entwickelt, die auch Quantencomputern standhalten sollen. Man nennt sie Post-Quanten-Kryptografie. Das Bundesamt für Sicherheit in der Informationstechnik empfiehlt, sich frühzeitig darauf vorzubereiten."
+      ],
+      "merke": "Post-Quanten-Kryptografie soll Daten künftig schützen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit rechnet ein Quantencomputer?",
+      "art": "mc",
+      "optionen": [
+        "Mit Qubits",
+        "Mit Lochkarten",
+        "Nur mit Bits",
+        "Mit Zahnrädern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Qubits können sich in einer Überlagerung befinden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür könnten Quantencomputer besonders nützlich sein?",
+      "art": "mc",
+      "optionen": [
+        "Zum Abspielen von Videos",
+        "Für die Simulation von Molekülen",
+        "Zum Schreiben von E-Mails",
+        "Für Tabellenkalkulation"
+      ],
+      "richtig": 1,
+      "erklaerung": "Für viele Alltagsaufgaben sind sie nicht schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen Verschlüsselungsverfahren, die Quantencomputern standhalten sollen?",
+      "art": "mc",
+      "optionen": [
+        "Klassische Kryptografie",
+        "Quantenrauschen",
+        "Post-Quanten-Kryptografie",
+        "Bitcoin"
+      ],
+      "richtig": 2,
+      "erklaerung": "Das BSI empfiehlt frühzeitige Vorbereitung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Quantencomputer werden bald normale Laptops vollständig ersetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind nur für bestimmte Aufgaben überlegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Quantencomputer rechnen mit Qubits.",
+        "Sie sind nur für bestimmte Aufgaben überlegen.",
+        "Heutige Geräte sind fehleranfällig und stark gekühlt.",
+        "Neue Verschlüsselung soll vor künftigen Angriffen schützen."
+      ]
+    }
+  ]
+}

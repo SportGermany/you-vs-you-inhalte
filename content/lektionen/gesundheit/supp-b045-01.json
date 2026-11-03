@@ -1,0 +1,126 @@
+{
+  "id": "supp-b045-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Resveratrol zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "resveratrol",
+    "anti-aging",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Resveratrol wird als Anti-Aging-Stoff aus der Traube beworben.",
+        "Manche verbinden damit sogar die Hoffnung auf ein längeres Leben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher es kommt",
+      "absaetze": [
+        "Resveratrol ist ein Pflanzenstoff. Er kommt in den Schalen roter Trauben, in Rotwein, Erdnüssen und Beeren vor. Für Präparate wird er oft aus dem Japanischen Staudenknöterich gewonnen.",
+        "Die Mengen in Lebensmitteln sind sehr klein. Rotwein ist wegen des Alkohols keine gesunde Quelle."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hoffnung aus dem Labor",
+      "absaetze": [
+        "In Versuchen mit Hefen, Würmern und Mäusen zeigte Resveratrol teils positive Effekte auf Alterungsprozesse. Diese Ergebnisse lassen sich aber nicht einfach auf Menschen übertragen.",
+        "Studien mit Menschen sind meist klein und kurz. Sie deuten darauf hin, dass ein klarer Nutzen für Gesundheit oder Lebensdauer bisher nicht belegt ist."
+      ],
+      "merke": "Ein Nutzen beim Menschen ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Risiken",
+      "absaetze": [
+        "Fachleute weisen auf mögliche Wechselwirkungen mit Medikamenten hin, etwa mit Blutverdünnern. Bei höheren Mengen wurden in Studien Magen-Darm-Beschwerden beobachtet.",
+        "Wer Medikamente braucht, sollte vor der Verwendung ärztlich oder in der Apotheke nachfragen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Blutverdünnern oder anderen Medikamenten vorher ärztlich oder in der Apotheke beraten lassen.",
+        "Rotwein ist keine gesunde Resveratrol-Quelle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Resveratrol für Präparate oft gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus Japanischem Staudenknöterich",
+        "Aus Fischöl",
+        "Aus Milch",
+        "Aus Kartoffeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Natürlich kommt es auch in Traubenschalen vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Studien mit Menschen bisher?",
+      "art": "mc",
+      "optionen": [
+        "Ein klar längeres Leben",
+        "Keinen klar belegten Nutzen",
+        "Eine Heilung von Diabetes",
+        "Eine Wirkung nur bei Kindern"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Studien sind meist klein und kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rotwein ist wegen seines Resveratrols eine gesunde Quelle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Alkohol überwiegt die winzigen Mengen bei Weitem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Resveratrol steckt in Traubenschalen und Beeren.",
+        "Laborergebnisse lassen sich nicht auf Menschen übertragen.",
+        "Ein Nutzen beim Menschen ist nicht belegt.",
+        "Wechselwirkungen mit Medikamenten sind möglich."
+      ]
+    }
+  ]
+}

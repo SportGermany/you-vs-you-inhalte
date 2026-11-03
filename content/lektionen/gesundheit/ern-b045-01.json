@@ -1,0 +1,118 @@
+{
+  "id": "ern-b045-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was macht Tomaten so gesund?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tomaten",
+    "lycopin",
+    "gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tomaten gehören zu den beliebtesten Gemüsesorten in Deutschland.",
+        "Ihr roter Farbstoff hat einen besonderen Ruf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lycopin, der rote Farbstoff",
+      "absaetze": [
+        "Die rote Farbe stammt von Lycopin. Es gehört zu den Carotinoiden, einer Gruppe von Pflanzenfarbstoffen. Lycopin wirkt im Labor als Antioxidans, fängt also bestimmte aggressive Sauerstoffverbindungen ab.",
+        "Daneben liefern Tomaten Vitamin C, Kalium und Ballaststoffe bei sehr wenig Energie."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gekocht mit etwas Fett",
+      "absaetze": [
+        "Anders als viele Vitamine wird Lycopin durch Erhitzen besser verfügbar. Der Körper nimmt es aus Tomatensoße oder Tomatenmark leichter auf als aus rohen Tomaten.",
+        "Lycopin ist fettlöslich. Ein wenig Öl in der Soße hilft deshalb bei der Aufnahme. Rohe Tomaten bringen dafür mehr Vitamin C mit."
+      ],
+      "merke": "Lycopin wird durch Kochen mit etwas Öl besser aufgenommen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung sagt",
+      "absaetze": [
+        "Beobachtungsstudien deuten darauf hin, dass Menschen, die viele Tomatenprodukte essen, seltener bestimmte Krankheiten bekommen. Ursache und Wirkung lassen sich daraus aber nicht sicher ableiten.",
+        "Unreife grüne Tomaten enthalten Bitterstoffe, die in größeren Mengen Beschwerden machen können. Grüne Sorten, die reif grün sind, betrifft das nicht."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der rote Farbstoff der Tomate?",
+      "art": "mc",
+      "optionen": [
+        "Chlorophyll",
+        "Lycopin",
+        "Koffein",
+        "Kurkumin"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er gehört zu den Carotinoiden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Lycopin besser aufgenommen?",
+      "art": "mc",
+      "optionen": [
+        "Gekocht mit etwas Fett",
+        "Nur roh und kalt",
+        "Mit viel Zucker",
+        "Tiefgefroren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lycopin ist fettlöslich und wird durch Erhitzen besser verfügbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beobachtungsstudien beweisen, dass Tomaten Krebs verhindern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zeigen nur Zusammenhänge, keine Ursache."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tomaten liefern Lycopin, Vitamin C und Kalium.",
+        "Gekocht mit etwas Öl wird Lycopin besser aufgenommen.",
+        "Studien zeigen Zusammenhänge, aber keine sicheren Beweise.",
+        "Unreife grüne Tomaten nicht in großen Mengen essen."
+      ]
+    }
+  ]
+}
