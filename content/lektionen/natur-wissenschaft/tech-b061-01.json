@@ -1,0 +1,121 @@
+{
+  "id": "tech-b061-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie macht ein Windrad Strom?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Windenergie",
+      "herausgeber": "Bundesministerium für Wirtschaft und Energie",
+      "url": "https://www.bundeswirtschaftsministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "windrad",
+    "windenergie",
+    "generator"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf Feldern und vor den Küsten drehen sich riesige Rotoren.",
+        "Wind ist in Deutschland die wichtigste erneuerbare Stromquelle."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Wind zum Strom",
+      "absaetze": [
+        "Der Wind strömt an den Rotorblättern vorbei und versetzt sie in Drehung. Die Blätter sind ähnlich geformt wie Flugzeugflügel.",
+        "Die Drehung treibt einen Generator an. Er wandelt die Bewegung in Strom um, nach demselben Prinzip wie ein Fahrraddynamo. Manche Anlagen haben dazwischen ein Getriebe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Wind, viel mehr Strom",
+      "absaetze": [
+        "Doppelt so viel Wind liefert nicht doppelt, sondern etwa achtmal so viel Leistung. Deshalb stehen Windräder dort, wo es oft kräftig weht, und werden immer höher gebaut.",
+        "Moderne Anlagen drehen sich automatisch in den Wind. Bei Sturm stellen sie die Blätter aus dem Wind und halten an, um Schäden zu vermeiden."
+      ],
+      "merke": "Doppelter Wind bringt etwa achtfache Leistung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "An Land und auf See",
+      "absaetze": [
+        "Windparks auf See liefern besonders gleichmäßig Strom, weil dort fast immer Wind weht. Bau und Wartung sind aber teurer.",
+        "Weht kein Wind, liefern Windräder keinen Strom. Speicher, Stromnetze und andere Kraftwerke müssen dann einspringen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wandelt die Drehbewegung in Strom um?",
+      "art": "mc",
+      "optionen": [
+        "Ein Generator",
+        "Eine Batterie",
+        "Ein Kühlschrank",
+        "Ein Solarmodul"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie ein Fahrraddynamo."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel mehr Leistung bringt doppelt so viel Wind ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa achtmal so viel",
+        "Genau doppelt so viel",
+        "Halb so viel",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb werden Windräder an windreichen Orten gebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tun Windräder bei Sturm?",
+      "art": "mc",
+      "optionen": [
+        "Sie drehen die Blätter aus dem Wind und halten an",
+        "Sie drehen sich besonders schnell",
+        "Sie fliegen weg",
+        "Sie erzeugen Wärme"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden Schäden vermieden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Windparks auf See liefern besonders gleichmäßig Strom.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort weht fast immer Wind."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Wind dreht die Rotorblätter.",
+        "Ein Generator wandelt die Drehung in Strom um.",
+        "Doppelter Wind bringt etwa achtfache Leistung.",
+        "Ohne Wind müssen andere Quellen einspringen."
+      ]
+    }
+  ]
+}

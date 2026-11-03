@@ -1,0 +1,121 @@
+{
+  "id": "vers-b061-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was unterscheidet Gewährleistung und Garantie?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gewaehrleistung",
+    "garantie",
+    "kaufrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das neue Gerät geht nach ein paar Monaten kaputt.",
+        "Jetzt kommt es darauf an, ob du dich auf Gewährleistung oder Garantie berufen kannst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewährleistung ist Gesetz",
+      "absaetze": [
+        "Die Gewährleistung ist gesetzlich geregelt. Sie gilt gegenüber dem Händler, bei dem du gekauft hast. Bei neuen Waren beträgt sie zwei Jahre.",
+        "Sie greift, wenn die Ware schon beim Kauf einen Mangel hatte. Im ersten Jahr wird vermutet, dass der Mangel von Anfang an da war. Der Händler muss dann das Gegenteil beweisen."
+      ],
+      "merke": "Im ersten Jahr muss der Händler beweisen, dass die Ware in Ordnung war."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du verlangen kannst",
+      "absaetze": [
+        "Zuerst kannst du eine Reparatur oder eine neue Ware verlangen. Klappt das nicht, darfst du vom Kauf zurücktreten oder den Preis mindern.",
+        "Bei gebrauchten Waren darf ein Händler die Gewährleistung auf ein Jahr verkürzen. Zwischen Privatleuten kann sie ganz ausgeschlossen werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Garantie ist freiwillig",
+      "absaetze": [
+        "Eine Garantie ist ein freiwilliges Versprechen, meist vom Hersteller. Was sie umfasst und wie lange sie gilt, steht in den Garantiebedingungen.",
+        "Sie kommt zur Gewährleistung hinzu und ersetzt sie nicht. Bewahre Kaufbeleg und Garantieschein gut auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegenüber wem gilt die gesetzliche Gewährleistung?",
+      "art": "mc",
+      "optionen": [
+        "Gegenüber dem Händler",
+        "Gegenüber der Bank",
+        "Gegenüber dem Paketdienst",
+        "Gegenüber der Versicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Also bei dem, der dir die Ware verkauft hat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange gilt die Gewährleistung bei neuen Waren?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Jahre",
+        "Zwei Wochen",
+        "Zehn Jahre",
+        "Ein Monat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei gebrauchten Waren kann sie kürzer sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Garantie?",
+      "art": "mc",
+      "optionen": [
+        "Ein freiwilliges Versprechen, meist vom Hersteller",
+        "Ein Gesetz",
+        "Eine Steuer",
+        "Eine Pflichtversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bedingungen legt der Garantiegeber fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Garantie ersetzt die gesetzliche Gewährleistung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie kommt zusätzlich hinzu."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gewährleistung ist gesetzlich und gilt gegenüber dem Händler.",
+        "Bei neuen Waren gilt sie zwei Jahre.",
+        "Zuerst gibt es Reparatur oder Ersatz.",
+        "Eine Garantie ist ein freiwilliges Extra."
+      ]
+    }
+  ]
+}

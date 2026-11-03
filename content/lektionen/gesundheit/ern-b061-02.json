@@ -1,0 +1,131 @@
+{
+  "id": "ern-b061-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Seitan?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaftliche Informationen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "seitan",
+    "weizeneiweiss",
+    "fleischersatz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seitan ist fest, faserig und erinnert beim Kauen an Fleisch.",
+        "Dabei besteht er fast nur aus Weizen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus Weizeneiweiß",
+      "absaetze": [
+        "Für Seitan wird Weizenmehl mit Wasser zu einem Teig geknetet. Dann wird die Stärke ausgewaschen. Übrig bleibt vor allem das Klebereiweiß Gluten.",
+        "Die Masse wird gewürzt und in Brühe gegart. Heute gibt es auch fertiges Glutenpulver, mit dem es schneller geht. Seitan stammt ursprünglich aus der ostasiatischen Küche."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Eiweiß, wenig Fett",
+      "absaetze": [
+        "Seitan enthält sehr viel Eiweiß und wenig Fett. Er ist deshalb in der vegetarischen und veganen Küche beliebt, etwa als Geschnetzeltes oder Bratenersatz.",
+        "Weizeneiweiß enthält allerdings wenig von der Aminosäure Lysin. Zusammen mit Hülsenfrüchten im Speiseplan ergänzt sich das gut."
+      ],
+      "merke": "Seitan liefert viel Eiweiß, Hülsenfrüchte ergänzen ihn gut.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für alle geeignet",
+      "absaetze": [
+        "Für Menschen mit Zöliakie oder einer Weizenallergie ist Seitan tabu. Er besteht ja gerade aus Gluten.",
+        "Fertige Seitan-Produkte sind oft stark gewürzt und gesalzen. Ein Blick auf die Zutatenliste lohnt sich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Seitan vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Aus Weizeneiweiß",
+        "Aus Sojabohnen",
+        "Aus Erbsen",
+        "Aus Reis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Klebereiweiß heißt Gluten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist Seitan ungeeignet?",
+      "art": "mc",
+      "optionen": [
+        "Für Menschen mit Zöliakie",
+        "Für alle Sportler",
+        "Für Menschen, die gern Gemüse essen",
+        "Für Kinder ab zehn Jahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seitan besteht fast nur aus Gluten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ergänzt das Eiweiß von Seitan gut?",
+      "art": "mc",
+      "optionen": [
+        "Hülsenfrüchte",
+        "Zucker",
+        "Butter",
+        "Weißbrot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie liefern mehr Lysin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seitan enthält viel Eiweiß und wenig Fett.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Fertigprodukte sind aber oft salzig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Seitan wird aus Weizeneiweiß hergestellt.",
+        "Er liefert viel Eiweiß und wenig Fett.",
+        "Hülsenfrüchte ergänzen ihn gut.",
+        "Bei Zöliakie ist Seitan tabu."
+      ]
+    }
+  ]
+}

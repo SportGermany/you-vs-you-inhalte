@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b061-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Sind Ohrstöpsel beim Schlafen sinnvoll?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ohrstoepsel",
+    "laerm",
+    "schlafumgebung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schnarchen nebenan, Verkehr vor dem Fenster oder laute Nachbarn rauben vielen den Schlaf.",
+        "Ohrstöpsel sind eine einfache Lösung. Sie haben aber auch Nachteile."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ruhe für die Nacht",
+      "absaetze": [
+        "Lärm kann den Schlaf stören, auch wenn wir nicht aufwachen. Puls und Blutdruck steigen dann kurz an, und der Schlaf wird flacher.",
+        "Studien, unter anderem aus Krankenhäusern, deuten darauf hin, dass Ohrstöpsel den Schlaf in lauter Umgebung verbessern können. Zusammen mit einer Schlafmaske wirken sie oft besser."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Welche Art passt",
+      "absaetze": [
+        "Ohrstöpsel aus Schaumstoff sind günstig und dämmen gut. Wachs- und Silikonstöpsel passen sich der Ohrmuschel an. Angepasste Stöpsel vom Hörakustiker sind teurer, aber bequemer.",
+        "Wichtig ist, dass sie gut sitzen, aber nicht drücken. Steck sie nicht zu tief ins Ohr."
+      ],
+      "merke": "Ohrstöpsel sollen gut sitzen, aber nicht zu tief stecken.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Nachteile",
+      "absaetze": [
+        "Wer jede Nacht Ohrstöpsel trägt, kann Ohrenschmalz tiefer ins Ohr schieben. Verschmutzte Stöpsel können Entzündungen fördern. Wechsle Einwegstöpsel deshalb regelmäßig und reinige wiederverwendbare.",
+        "Denk auch daran, dass du Wecker, Rauchmelder oder ein weinendes Kind schlechter hörst. Bei Ohrenschmerzen oder Ausfluss lass dich ärztlich untersuchen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kann Lärm den Schlaf stören, ohne dass du aufwachst?",
+      "art": "mc",
+      "optionen": [
+        "Puls und Blutdruck steigen, der Schlaf wird flacher",
+        "Gar nicht",
+        "Er verlängert den Tiefschlaf",
+        "Er senkt den Puls"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb kann Ruhe helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein möglicher Nachteil täglicher Ohrstöpsel?",
+      "art": "mc",
+      "optionen": [
+        "Ohrenschmalz wird tiefer ins Ohr geschoben",
+        "Die Ohren wachsen",
+        "Man hört dauerhaft besser",
+        "Man schnarcht mehr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Regelmäßig wechseln und reinigen hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei Ohrstöpseln bedenken?",
+      "art": "mc",
+      "optionen": [
+        "Rauchmelder und Wecker hört man schlechter",
+        "Sie machen die Nacht kürzer",
+        "Sie ersetzen eine Matratze",
+        "Sie wirken nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist wichtig für die Sicherheit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohrstöpsel sollten möglichst tief ins Ohr gesteckt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sollen gut sitzen, aber nicht zu tief stecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lärm kann den Schlaf auch unbemerkt stören.",
+        "Ohrstöpsel können in lauter Umgebung helfen.",
+        "Gut sitzen, aber nicht zu tief stecken.",
+        "Regelmäßig wechseln oder reinigen."
+      ]
+    }
+  ]
+}

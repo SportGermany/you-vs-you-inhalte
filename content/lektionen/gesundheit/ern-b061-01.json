@@ -1,0 +1,137 @@
+{
+  "id": "ern-b061-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Erdnüsse?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "erdnuesse",
+    "huelsenfruechte",
+    "allergie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Erdnüsse knabbern viele beim Fernsehen oder streichen sie als Mus aufs Brot.",
+        "Botanisch sind sie allerdings gar keine Nüsse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Hülsenfrucht",
+      "absaetze": [
+        "Erdnüsse gehören zu den Hülsenfrüchten, wie Erbsen und Bohnen. Ihre Früchte reifen unter der Erde, daher der Name.",
+        "Sie liefern viel Eiweiß, ungesättigte Fette, Ballaststoffe und das B-Vitamin Niacin. Gesalzene und geröstete Snack-Erdnüsse enthalten allerdings oft viel Salz."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Allergie ernst nehmen",
+      "absaetze": [
+        "Eine Erdnussallergie kann sehr heftig verlaufen, bis hin zu einem lebensbedrohlichen allergischen Schock. Betroffene müssen Erdnüsse streng meiden.",
+        "Studien deuten darauf hin, dass Babys seltener eine Erdnussallergie entwickeln, wenn sie früh kleine Mengen in passender Form bekommen. Das solltest du vorher mit der Kinderarztpraxis besprechen, vor allem bei Neurodermitis."
+      ],
+      "merke": "Ganze Erdnüsse sind für Kleinkinder wegen Erstickungsgefahr ungeeignet.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf Schimmel achten",
+      "absaetze": [
+        "Erdnüsse können Schimmelpilzgifte enthalten, sogenannte Aflatoxine. Sie gelten als stark gesundheitsschädlich.",
+        "Wirf Erdnüsse weg, die bitter oder muffig schmecken oder sichtbar verschimmelt sind. Bewahre sie trocken und kühl auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Erdnüsse sind Nüsse.",
+      "urteil": "mythos",
+      "erklaerung": "Botanisch gehören Erdnüsse zu den Hülsenfrüchten wie Erbsen, Linsen und Bohnen. In der Küche werden sie aber oft wie Nüsse verwendet. Auch bei Allergien unterscheiden Fachleute zwischen Erdnuss und Baumnüssen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Pflanzengruppe gehören Erdnüsse?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Hülsenfrüchten",
+        "Zu den Baumnüssen",
+        "Zu den Getreiden",
+        "Zu den Wurzelgemüsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie Erbsen und Bohnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Aflatoxine?",
+      "art": "mc",
+      "optionen": [
+        "Schimmelpilzgifte",
+        "Vitamine",
+        "Ballaststoffe",
+        "Gesunde Fette"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bitter oder muffig schmeckende Erdnüsse wegwerfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind ganze Erdnüsse für Kleinkinder ungeeignet?",
+      "art": "mc",
+      "optionen": [
+        "Wegen Erstickungsgefahr",
+        "Weil sie zu süß sind",
+        "Weil sie kein Eiweiß haben",
+        "Weil sie zu weich sind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kleine Kinder können sie leicht einatmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Erdnussallergie kann sehr heftig verlaufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bis hin zum allergischen Schock."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erdnüsse sind Hülsenfrüchte.",
+        "Sie liefern Eiweiß, gute Fette und Ballaststoffe.",
+        "Eine Erdnussallergie kann gefährlich sein.",
+        "Verschimmelte oder bittere Erdnüsse wegwerfen."
+      ]
+    }
+  ]
+}

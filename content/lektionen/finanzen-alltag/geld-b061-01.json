@@ -1,0 +1,127 @@
+{
+  "id": "geld-b061-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Lohnt sich ein Sparbuch noch?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sparen und Einlagen",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sparbuch",
+    "spareinlagen",
+    "zinsen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Für viele war das Sparbuch das erste eigene Konto.",
+        "Heute stellt sich die Frage, ob es noch zeitgemäß ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So funktioniert ein Sparbuch",
+      "absaetze": [
+        "Ein Sparbuch ist ein Sparkonto. Früher bekam man ein kleines Heft, in das jede Ein- und Auszahlung eingetragen wurde. Heute gibt es oft nur noch eine Karte oder eine digitale Ansicht.",
+        "Spareinlagen haben meist eine Kündigungsfrist von drei Monaten. Einen bestimmten Betrag pro Monat kannst du aber ohne Kündigung abheben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher, aber oft mager verzinst",
+      "absaetze": [
+        "Geld auf dem Sparbuch ist wie andere Bankeinlagen durch die gesetzliche Einlagensicherung geschützt. Das gilt bis 100.000 Euro pro Person und Bank.",
+        "Die Zinsen sind aber oft niedrig. Liegen sie unter der Inflation, verliert dein Geld an Kaufkraft."
+      ],
+      "merke": "Liegen die Zinsen unter der Inflation, verliert Erspartes an Wert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Alternativen",
+      "absaetze": [
+        "Tagesgeldkonten bieten oft höhere Zinsen und sind jederzeit verfügbar. Für längere Zeiträume kommen Festgeld oder ein breit gestreuter Fondssparplan infrage.",
+        "Für Kinder kann ein Sparbuch trotzdem sinnvoll sein. Es macht Sparen greifbar. Vergleiche aber die Zinsen mit anderen Angeboten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kündigungsfrist haben Spareinlagen meist?",
+      "art": "mc",
+      "optionen": [
+        "Drei Monate",
+        "Einen Tag",
+        "Zehn Jahre",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein bestimmter Betrag pro Monat ist aber ohne Kündigung verfügbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welchem Betrag schützt die gesetzliche Einlagensicherung?",
+      "art": "mc",
+      "optionen": [
+        "100.000 Euro pro Person und Bank",
+        "1.000 Euro",
+        "Unbegrenzt",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt für viele Bankeinlagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn die Zinsen unter der Inflation liegen?",
+      "art": "mc",
+      "optionen": [
+        "Das Geld verliert an Kaufkraft",
+        "Das Geld wird mehr wert",
+        "Die Bank zahlt doppelt",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Preise steigen schneller als dein Erspartes."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tagesgeld ist oft höher verzinst als ein Sparbuch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Vergleich lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Sparbuch ist ein Sparkonto mit Kündigungsfrist.",
+        "Es ist durch die Einlagensicherung geschützt.",
+        "Die Zinsen sind oft niedrig.",
+        "Tagesgeld ist oft die bessere Alternative."
+      ]
+    }
+  ]
+}

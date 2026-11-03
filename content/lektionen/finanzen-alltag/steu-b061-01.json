@@ -1,0 +1,121 @@
+{
+  "id": "steu-b061-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die kalte Progression?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kalte-progression",
+    "einkommensteuer",
+    "inflation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du bekommst mehr Gehalt, kannst dir aber nicht mehr leisten als vorher.",
+        "Trotzdem zahlst du anteilig mehr Steuern. Das ist die kalte Progression."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steigende Steuersätze",
+      "absaetze": [
+        "Die Einkommensteuer in Deutschland ist progressiv. Das bedeutet: Je höher das Einkommen, desto höher der Steuersatz auf jeden zusätzlichen Euro.",
+        "Das soll gerecht sein. Wer mehr verdient, kann mehr beitragen. Ein Grundfreibetrag bleibt dabei für alle steuerfrei."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn die Inflation mitspielt",
+      "absaetze": [
+        "Steigen die Preise, bekommen viele eine Gehaltserhöhung, die nur die Inflation ausgleicht. Deine Kaufkraft bleibt also gleich.",
+        "Durch das höhere Gehalt rutschst du aber in einen höheren Steuersatz. Vom Gehalt bleibt dir dann anteilig weniger. Unterm Strich verlierst du Kaufkraft, ohne reicher geworden zu sein."
+      ],
+      "merke": "Kalte Progression entsteht, wenn Gehälter nur mit der Inflation steigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie der Staat gegensteuert",
+      "absaetze": [
+        "Die Bundesregierung legt regelmäßig einen Bericht zur kalten Progression vor. Dann wird oft der Steuertarif angepasst, etwa durch einen höheren Grundfreibetrag.",
+        "Ob die kalte Progression damit vollständig ausgeglichen wird, ist politisch oft umstritten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet progressive Einkommensteuer?",
+      "art": "mc",
+      "optionen": [
+        "Der Steuersatz steigt mit dem Einkommen",
+        "Alle zahlen denselben Betrag",
+        "Der Steuersatz sinkt mit dem Einkommen",
+        "Es gibt keine Steuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder zusätzliche Euro wird höher besteuert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht kalte Progression?",
+      "art": "mc",
+      "optionen": [
+        "Wenn Gehälter nur mit der Inflation steigen",
+        "Wenn die Preise sinken",
+        "Wenn man arbeitslos ist",
+        "Wenn man im Winter arbeitet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man zahlt anteilig mehr Steuern ohne mehr Kaufkraft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gleicht der Staat die kalte Progression oft aus?",
+      "art": "mc",
+      "optionen": [
+        "Durch Anpassung des Steuertarifs",
+        "Durch höhere Preise",
+        "Durch Abschaffung der Steuer",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa durch einen höheren Grundfreibetrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei kalter Progression wirst du reicher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Du verlierst eher Kaufkraft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Einkommensteuer ist progressiv.",
+        "Gehaltserhöhungen gleichen oft nur die Inflation aus.",
+        "Trotzdem steigt der Steuersatz, das ist kalte Progression.",
+        "Der Staat passt den Tarif regelmäßig an."
+      ]
+    }
+  ]
+}
