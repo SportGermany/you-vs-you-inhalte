@@ -1,0 +1,124 @@
+{
+  "id": "all-b052-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was macht den Jupiter so besonders?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Jupiter",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "jupiter",
+    "planeten",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jupiter ist der größte Planet unseres Sonnensystems.",
+        "Er ist so groß, dass alle anderen Planeten zusammen in ihn hineinpassen würden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Riese aus Gas",
+      "absaetze": [
+        "Jupiter besteht vor allem aus Wasserstoff und Helium. Eine feste Oberfläche wie die Erde hat er nicht.",
+        "Er hat mehr als die doppelte Masse aller anderen Planeten zusammen. Ein Tag auf Jupiter dauert nur etwa zehn Stunden, so schnell dreht er sich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Große Rote Fleck",
+      "absaetze": [
+        "Auffällig sind die farbigen Wolkenbänder und der Große Rote Fleck. Das ist ein gewaltiger Wirbelsturm, der seit mindestens Jahrhunderten tobt.",
+        "Er ist größer als die Erde, schrumpft aber seit einigen Jahrzehnten."
+      ],
+      "merke": "Der Große Rote Fleck ist ein riesiger Wirbelsturm.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Monde",
+      "absaetze": [
+        "Jupiter hat sehr viele Monde. Die vier größten entdeckte Galileo Galilei 1610: Io, Europa, Ganymed und Kallisto.",
+        "Unter der Eiskruste von Europa vermuten Forschende einen Ozean aus flüssigem Wasser. Die europäische Raumsonde JUICE ist unterwegs, um Jupiters Eismonde zu erforschen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Jupiter vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Aus Wasserstoff und Helium",
+        "Aus Gestein und Eisen",
+        "Aus Wasser",
+        "Aus Eis allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er hat keine feste Oberfläche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Große Rote Fleck?",
+      "art": "mc",
+      "optionen": [
+        "Ein riesiger Wirbelsturm",
+        "Ein Vulkan",
+        "Ein Mond",
+        "Ein Meteoritenkrater"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist größer als die Erde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entdeckte die vier größten Jupitermonde?",
+      "art": "mc",
+      "optionen": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Johannes Kepler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geschah 1610."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Tag auf Jupiter dauert länger als ein Erdenjahr.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er dauert nur etwa zehn Stunden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Jupiter ist der größte Planet des Sonnensystems.",
+        "Er besteht vor allem aus Wasserstoff und Helium.",
+        "Der Große Rote Fleck ist ein riesiger Sturm.",
+        "Unter dem Eis des Mondes Europa wird ein Ozean vermutet."
+      ]
+    }
+  ]
+}

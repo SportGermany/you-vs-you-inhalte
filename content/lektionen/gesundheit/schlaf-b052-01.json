@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b052-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft ein Saunagang beim Schlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sauna",
+    "entspannung",
+    "koerpertemperatur"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach der Sauna fühlen sich viele angenehm müde.",
+        "Doch schläft man danach wirklich besser?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme und Abkühlung",
+      "absaetze": [
+        "Vor dem Einschlafen sinkt die Körpertemperatur leicht. Das ist ein Signal für den Körper, in den Schlaf zu finden.",
+        "Nach Sauna oder warmem Bad weiten sich die Blutgefäße in der Haut. Danach kühlt der Körper schneller ab. Das könnte das Einschlafen erleichtern."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Zu warmen Bädern gibt es Hinweise, dass sie das Einschlafen beschleunigen können. Zur Sauna selbst ist die Forschung dünn.",
+        "Befragungen deuten darauf hin, dass viele Saunagänger ihren Schlaf als besser empfinden. Ob die Sauna die Ursache ist, lässt sich daraus nicht sicher ableiten."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Der letzte Saunagang sollte nicht direkt vor dem Schlafen liegen. Der Körper braucht Zeit, um wieder abzukühlen.",
+        "Trinke nach der Sauna ausreichend und verzichte auf Alkohol. Wer Herz-Kreislauf-Erkrankungen hat, sollte vorher ärztlich klären, ob Saunagänge geeignet sind."
+      ],
+      "merke": "Zwischen Sauna und Schlafen etwas Zeit lassen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit der Körpertemperatur vor dem Einschlafen?",
+      "art": "mc",
+      "optionen": [
+        "Sie sinkt leicht",
+        "Sie steigt stark",
+        "Sie bleibt völlig gleich",
+        "Sie schwankt wild"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist ein Signal für den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist die Wirkung der Sauna auf den Schlaf belegt?",
+      "art": "mc",
+      "optionen": [
+        "Die Forschung ist dünn",
+        "Sehr gut durch viele große Studien",
+        "Sie ist widerlegt",
+        "Es gibt keine einzige Befragung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele empfinden ihren Schlaf aber als besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Herz-Kreislauf-Erkrankungen solltest du Saunagänge vorher ärztlich abklären.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Hitze belastet den Kreislauf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach Wärme kühlt der Körper schneller ab.",
+        "Das könnte das Einschlafen erleichtern.",
+        "Zur Sauna selbst ist die Forschung dünn.",
+        "Etwas Zeit zwischen Sauna und Bett lassen."
+      ]
+    }
+  ]
+}

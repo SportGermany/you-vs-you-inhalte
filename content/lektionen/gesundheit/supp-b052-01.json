@@ -1,0 +1,126 @@
+{
+  "id": "supp-b052-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Lecithin-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lecithin",
+    "gedaechtnis",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lecithin wird oft als Hilfe für Nerven und Gedächtnis beworben.",
+        "Gerade in Prüfungszeiten greifen manche zu entsprechenden Produkten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Lecithin ist",
+      "absaetze": [
+        "Lecithin ist ein Sammelbegriff für bestimmte fettähnliche Stoffe, die Phospholipide. Sie sind Bausteine aller Zellmembranen.",
+        "Der Körper kann Lecithin selbst bilden. Es steckt außerdem in vielen Lebensmitteln wie Eiern, Soja und Nüssen. In der Lebensmittelindustrie dient es als Emulgator, damit sich Fett und Wasser verbinden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein belegter Nutzen fürs Gedächtnis",
+      "absaetze": [
+        "Für eine bessere Gedächtnisleistung oder Konzentration durch Lecithin-Präparate gibt es keine überzeugenden Belege bei gesunden Menschen.",
+        "Auch bei der Senkung des Cholesterinspiegels ist der Nutzen nicht ausreichend gesichert."
+      ],
+      "merke": "Für das Gedächtnis ist kein Nutzen belegt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in Prüfungszeiten hilft",
+      "absaetze": [
+        "Ausreichend Schlaf, Pausen, Bewegung und eine ausgewogene Ernährung unterstützen das Lernen deutlich besser.",
+        "Viele Präparate kombinieren Lecithin mit Vitaminen oder Koffein. Achte genau auf die Zutatenliste."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Kombipräparate können Koffein enthalten, Zutatenliste prüfen.",
+        "Bei Konzentrationsproblemen über längere Zeit ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Lecithin?",
+      "art": "mc",
+      "optionen": [
+        "Ein Baustein von Zellmembranen",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Hormon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gehört zu den Phospholipiden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird Lecithin in Lebensmitteln genutzt?",
+      "art": "mc",
+      "optionen": [
+        "Als Emulgator",
+        "Als Farbstoff",
+        "Als Süßstoff",
+        "Als Konservierungsstoff gegen Schimmel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es verbindet Fett und Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lecithin-Präparate verbessern nachweislich das Gedächtnis gesunder Menschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Überzeugende Belege fehlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lecithin ist ein Baustein der Zellmembranen.",
+        "Der Körper bildet es selbst, Lebensmittel liefern zusätzlich.",
+        "Für das Gedächtnis ist kein Nutzen belegt.",
+        "Schlaf und Pausen helfen beim Lernen mehr."
+      ]
+    }
+  ]
+}

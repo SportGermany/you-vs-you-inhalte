@@ -1,0 +1,124 @@
+{
+  "id": "tech-b052-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Airbag?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verkehrssicherheit",
+      "herausgeber": "Deutscher Verkehrssicherheitsrat",
+      "url": "https://www.dvr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "airbag",
+    "auto",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einem Unfall entfaltet sich in Sekundenbruchteilen ein Luftsack.",
+        "Damit das klappt, muss vieles extrem schnell gehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sensoren erkennen den Aufprall",
+      "absaetze": [
+        "Sensoren im Auto messen ständig, wie stark das Fahrzeug abbremst. Bei einem heftigen Aufprall erkennt ein Steuergerät in Millisekunden, ob der Airbag ausgelöst werden muss.",
+        "Ein leichter Rempler beim Einparken löst ihn dagegen nicht aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gas statt Luft",
+      "absaetze": [
+        "Ausgelöst wird ein kleiner Gasgenerator. Er erzeugt durch eine chemische Reaktion schlagartig Gas, das den Luftsack füllt.",
+        "Der ganze Vorgang dauert nur wenige hundertstel Sekunden. Kleine Öffnungen lassen das Gas wieder entweichen, damit der Körper weich abgefangen wird."
+      ],
+      "merke": "Ein Airbag füllt sich in wenigen hundertstel Sekunden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur mit Gurt wirksam",
+      "absaetze": [
+        "Ein Airbag ergänzt den Sicherheitsgurt, ersetzt ihn aber nicht. Ohne Gurt kann man mit großer Wucht auf den sich öffnenden Airbag prallen.",
+        "Kindersitze, die rückwärts eingebaut werden, dürfen nicht vor einem aktiven Beifahrerairbag stehen. Der Airbag muss dann abgeschaltet sein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst einen Airbag aus?",
+      "art": "mc",
+      "optionen": [
+        "Sensoren erkennen eine heftige Verzögerung",
+        "Ein Knopf am Lenkrad",
+        "Die Hupe",
+        "Jedes Bremsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Steuergerät entscheidet in Millisekunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit wird der Luftsack gefüllt?",
+      "art": "mc",
+      "optionen": [
+        "Mit Gas aus einem Gasgenerator",
+        "Mit Wasser",
+        "Mit Schaumstoff",
+        "Mit Luft aus den Reifen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine chemische Reaktion erzeugt das Gas."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für rückwärts eingebaute Kindersitze?",
+      "art": "mc",
+      "optionen": [
+        "Sie dürfen nicht vor einem aktiven Beifahrerairbag stehen",
+        "Sie gehören immer nach vorn",
+        "Sie brauchen keinen Gurt",
+        "Sie verstärken den Airbag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Airbag muss dann abgeschaltet sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Airbag ersetzt den Sicherheitsgurt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er wirkt nur zusammen mit dem Gurt richtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sensoren erkennen einen heftigen Aufprall.",
+        "Ein Gasgenerator füllt den Luftsack blitzschnell.",
+        "Airbags wirken nur zusammen mit dem Gurt.",
+        "Rückwärts eingebaute Kindersitze nie vor aktivem Airbag."
+      ]
+    }
+  ]
+}

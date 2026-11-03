@@ -1,0 +1,114 @@
+{
+  "id": "vers-b052-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Brauchst du eine Cyberversicherung für dein Privatleben?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Cyber-Sicherheit für Verbraucher",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "cyberversicherung",
+    "internetbetrug",
+    "datenschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Online-Betrug, gehackte Konten, Identitätsdiebstahl: Die Risiken im Netz wachsen.",
+        "Versicherer bieten dafür eigene Policen an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was abgesichert sein kann",
+      "absaetze": [
+        "Private Cyberversicherungen decken je nach Vertrag zum Beispiel Schäden durch Betrug beim Online-Einkauf, den Missbrauch persönlicher Daten oder Hilfe bei Cybermobbing ab.",
+        "Oft gehören auch technische Hilfe und rechtliche Beratung dazu. Manchmal gibt es den Schutz als Zusatz zur Hausrat- oder Rechtsschutzversicherung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genau hinschauen",
+      "absaetze": [
+        "Die Leistungen unterscheiden sich stark. Häufig gibt es niedrige Höchstbeträge und viele Ausschlüsse, etwa bei grober Fahrlässigkeit.",
+        "Prüfe, ob Teile des Schutzes schon in bestehenden Verträgen enthalten sind. Auch Banken erstatten in bestimmten Fällen nicht autorisierte Zahlungen."
+      ],
+      "merke": "Prüfe vorher, was du schon abgesichert hast."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen ist wichtiger",
+      "absaetze": [
+        "Am wirksamsten schützt Vorsicht im Alltag. Nutze sichere, unterschiedliche Passwörter und eine Zwei-Faktor-Anmeldung. Halte Geräte und Apps aktuell.",
+        "Öffne keine verdächtigen Links und gib Zugangsdaten nie auf Anfrage per E-Mail oder Telefon heraus."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine private Cyberversicherung abdecken?",
+      "art": "mc",
+      "optionen": [
+        "Schäden durch Online-Betrug oder Datenmissbrauch",
+        "Schäden am Auto",
+        "Zahnbehandlungen",
+        "Ernteausfälle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Leistungen unterscheiden sich stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei solchen Policen häufig?",
+      "art": "mc",
+      "optionen": [
+        "Niedrige Höchstbeträge und Ausschlüsse",
+        "Unbegrenzte Leistungen",
+        "Keine Bedingungen",
+        "Kostenloser Schutz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb genau hinschauen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sichere Passwörter und Zwei-Faktor-Anmeldung sind wichtiger als jede Versicherung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vorbeugen verhindert Schäden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cyberversicherungen decken Risiken wie Online-Betrug ab.",
+        "Leistungen und Ausschlüsse unterscheiden sich stark.",
+        "Prüfe, was schon abgesichert ist.",
+        "Vorbeugen ist der wichtigste Schutz."
+      ]
+    }
+  ]
+}

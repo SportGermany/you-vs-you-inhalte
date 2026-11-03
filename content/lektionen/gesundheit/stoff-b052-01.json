@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b052-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist von Stoffwechselkuren zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Adipositas und Stoffwechsel",
+      "herausgeber": "Deutsche Adipositas-Gesellschaft",
+      "url": "https://adipositas-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "stoffwechselkur",
+    "diaeten",
+    "verbraucherschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Stoffwechselkuren versprechen, den Körper umzuprogrammieren und schnell viel Gewicht zu verlieren.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was angeboten wird",
+      "absaetze": [
+        "Viele Kuren kombinieren eine sehr energiearme Ernährung mit teuren Tropfen, Pulvern oder Kügelchen. Manche bewerben das Hormon HCG, das in der Schwangerschaft gebildet wird.",
+        "Für eine besondere Wirkung dieser Zusätze auf den Stoffwechsel gibt es keine Belege. Der Gewichtsverlust kommt durch das sehr geringe Essen zustande."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Risiken",
+      "absaetze": [
+        "Sehr strenge Diäten können zu Müdigkeit, Nährstoffmangel und Muskelabbau führen. Danach kehrt das Gewicht oft schnell zurück.",
+        "Für Menschen mit Vorerkrankungen oder Essstörungen sind solche Kuren besonders riskant. Die Verbraucherzentralen raten von solchen Angeboten ab."
+      ],
+      "merke": "Für die Wirkung der Kur-Zusätze gibt es keine Belege.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich hilft",
+      "absaetze": [
+        "Nachhaltig wirken dauerhafte Veränderungen bei Essen, Bewegung, Schlaf und Stress. Sie wirken langsamer, halten aber länger.",
+        "Wer abnehmen möchte, findet Unterstützung in ärztlicher Praxis oder bei qualifizierter Ernährungsberatung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entsteht der Gewichtsverlust bei Stoffwechselkuren?",
+      "art": "mc",
+      "optionen": [
+        "Durch das sehr geringe Essen",
+        "Durch spezielle Tropfen",
+        "Durch HCG",
+        "Durch Kügelchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für die Zusätze gibt es keine Belege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Risiko sehr strenger Diäten?",
+      "art": "mc",
+      "optionen": [
+        "Muskelabbau und Nährstoffmangel",
+        "Mehr Energie für immer",
+        "Besserer Schlaf",
+        "Gar keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach kehrt das Gewicht oft zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Verbraucherzentralen empfehlen Stoffwechselkuren mit HCG.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie raten davon ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stoffwechselkuren setzen auf sehr wenig Essen und teure Zusätze.",
+        "Für die Zusätze gibt es keine Belege.",
+        "Strenge Diäten bergen Risiken.",
+        "Dauerhafte Veränderungen wirken nachhaltiger.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

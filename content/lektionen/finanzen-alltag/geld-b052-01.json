@@ -1,0 +1,127 @@
+{
+  "id": "geld-b052-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was unterscheidet Dauerauftrag und Lastschrift?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zahlungsverkehr",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lastschrift",
+    "dauerauftrag",
+    "zahlungsverkehr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Miete, Handyvertrag, Versicherung: Viele Zahlungen laufen automatisch.",
+        "Dafür gibt es zwei Wege mit wichtigen Unterschieden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Dauerauftrag",
+      "absaetze": [
+        "Einen Dauerauftrag richtest du selbst bei deiner Bank ein. Sie überweist dann regelmäßig einen festen Betrag an einen bestimmten Empfänger, etwa monatlich die Miete.",
+        "Du behältst die volle Kontrolle. Ändert sich der Betrag, musst du den Auftrag selbst anpassen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lastschrift",
+      "absaetze": [
+        "Bei einer Lastschrift erlaubst du dem Zahlungsempfänger, Geld von deinem Konto einzuziehen. Dazu erteilst du ein sogenanntes SEPA-Lastschriftmandat.",
+        "Das ist praktisch bei wechselnden Beträgen wie Strom- oder Telefonrechnungen. Der Empfänger muss dich aber vorher über Betrag und Termin informieren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dein Rückgaberecht",
+      "absaetze": [
+        "Eine Lastschrift kannst du innerhalb von acht Wochen nach der Abbuchung ohne Angabe von Gründen zurückbuchen lassen. Bei einer Abbuchung ohne gültiges Mandat gilt eine deutlich längere Frist.",
+        "Das Zurückbuchen hebt aber eine bestehende Zahlungspflicht nicht auf. Kontrolliere deine Kontoauszüge regelmäßig."
+      ],
+      "merke": "Lastschriften kannst du acht Wochen lang zurückbuchen lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer löst einen Dauerauftrag aus?",
+      "art": "mc",
+      "optionen": [
+        "Du selbst bei deiner Bank",
+        "Der Zahlungsempfänger",
+        "Das Finanzamt",
+        "Der Arbeitgeber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du behältst die volle Kontrolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist eine Lastschrift besonders praktisch?",
+      "art": "mc",
+      "optionen": [
+        "Bei wechselnden Beträgen",
+        "Nur bei einmaligen Geschenken",
+        "Nie",
+        "Nur bei Bargeld"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei Strom- oder Telefonrechnungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange kannst du eine Lastschrift ohne Begründung zurückbuchen lassen?",
+      "art": "mc",
+      "optionen": [
+        "Acht Wochen",
+        "Einen Tag",
+        "Zehn Jahre",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei fehlendem Mandat gilt eine längere Frist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Durch das Zurückbuchen einer Lastschrift entfällt die Zahlungspflicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Eine bestehende Schuld bleibt bestehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einen Dauerauftrag richtest du selbst ein.",
+        "Bei einer Lastschrift zieht der Empfänger mit deinem Mandat ein.",
+        "Lastschriften lassen sich acht Wochen lang zurückbuchen.",
+        "Die Zahlungspflicht bleibt dabei bestehen."
+      ]
+    }
+  ]
+}

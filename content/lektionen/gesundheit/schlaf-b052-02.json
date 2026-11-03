@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b052-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schlafen manche Menschen mit offenem Mund?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mundatmung",
+    "nase",
+    "schnarchen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Morgens ist der Mund trocken, der Hals kratzt.",
+        "Oft steckt dahinter, dass man nachts durch den Mund geatmet hat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Nase ist der normale Weg",
+      "absaetze": [
+        "Normalerweise atmen wir nachts durch die Nase. Sie wärmt, befeuchtet und filtert die Luft.",
+        "Ist die Nase verstopft, weicht der Körper auf den Mund aus. Ursachen sind etwa Erkältungen, Allergien, eine schiefe Nasenscheidewand oder bei Kindern vergrößerte Rachenmandeln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Folgen",
+      "absaetze": [
+        "Mundatmung kann zu trockenem Mund, Halskratzen und Mundgeruch führen. Sie begünstigt außerdem Schnarchen.",
+        "Wer laut schnarcht und tagsüber sehr müde ist, sollte eine Schlafapnoe ärztlich abklären lassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Oft hilft es, die Ursache zu behandeln, etwa eine Allergie oder eine dauerhaft verstopfte Nase. Ein Gespräch in einer HNO-Praxis kann Klarheit bringen.",
+        "In sozialen Medien wird empfohlen, den Mund nachts zuzukleben. Gute Belege für den Nutzen fehlen. Bei verstopfter Nase kann das sogar gefährlich sein."
+      ],
+      "merke": "Den Mund nicht ohne ärztlichen Rat zukleben.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was leistet die Nase beim Atmen?",
+      "art": "mc",
+      "optionen": [
+        "Sie wärmt, befeuchtet und filtert die Luft",
+        "Sie kühlt das Gehirn",
+        "Sie produziert Sauerstoff",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist Nasenatmung der Normalfall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine häufige Ursache für Mundatmung?",
+      "art": "mc",
+      "optionen": [
+        "Eine verstopfte Nase",
+        "Zu viel Bewegung",
+        "Kalte Füße",
+        "Lesen im Bett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa durch Erkältung oder Allergie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Zukleben des Mundes ist gut belegt und immer unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Belege fehlen, bei verstopfter Nase kann es gefährlich sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nasenatmung ist der normale Weg.",
+        "Eine verstopfte Nase führt oft zu Mundatmung.",
+        "Mundatmung fördert trockenen Mund und Schnarchen.",
+        "Die Ursache behandeln statt den Mund zuzukleben."
+      ]
+    }
+  ]
+}

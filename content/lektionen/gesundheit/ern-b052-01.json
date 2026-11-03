@@ -1,0 +1,118 @@
+{
+  "id": "ern-b052-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Popcorn?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "popcorn",
+    "vollkorn",
+    "snacks"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Popcorn gehört zum Kino wie die Leinwand.",
+        "Ob es ein gesunder Snack ist, hängt vor allem von der Zubereitung ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Vollkornprodukt",
+      "absaetze": [
+        "Popcorn entsteht aus speziellem Mais. Beim Erhitzen verdampft das Wasser im Korn, der Druck steigt, und das Korn platzt auf.",
+        "Da das ganze Korn gegessen wird, ist Popcorn ein Vollkornprodukt. Es liefert Ballaststoffe und ist ohne Zusätze recht energiearm."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Es kommt auf die Zugaben an",
+      "absaetze": [
+        "Im Kino oder als Fertigprodukt enthält Popcorn oft viel Zucker, Fett oder Salz. Dann wird aus dem leichten Snack eine kalorienreiche Süßigkeit.",
+        "Selbst gemacht mit wenig Öl und etwas Gewürz bleibt Popcorn eine gute Snack-Alternative zu Chips."
+      ],
+      "merke": "Selbst gemachtes Popcorn mit wenig Fett ist ein guter Snack.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nichts für kleine Kinder",
+      "absaetze": [
+        "Kleine Kinder können sich an Popcorn leicht verschlucken. Harte Schalenteile und nicht aufgeplatzte Körner gelangen schnell in die Atemwege.",
+        "Fachleute raten deshalb, Kleinkindern kein Popcorn zu geben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gilt Popcorn als Vollkornprodukt?",
+      "art": "mc",
+      "optionen": [
+        "Weil das ganze Korn gegessen wird",
+        "Weil es aus Weizen besteht",
+        "Weil es frittiert wird",
+        "Weil es Zucker enthält"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es liefert deshalb Ballaststoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht Kino-Popcorn oft ungünstig?",
+      "art": "mc",
+      "optionen": [
+        "Viel Zucker, Fett oder Salz",
+        "Zu viele Ballaststoffe",
+        "Zu wenig Mais",
+        "Zu viel Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Selbst gemacht lässt sich das steuern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Popcorn ist für Kleinkinder ein idealer Snack.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie können sich leicht daran verschlucken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Popcorn ist ein Vollkornprodukt mit Ballaststoffen.",
+        "Zucker, Fett und Salz machen es zur Süßigkeit.",
+        "Selbst gemacht ist es ein guter Snack.",
+        "Kleinkindern kein Popcorn geben."
+      ]
+    }
+  ]
+}
