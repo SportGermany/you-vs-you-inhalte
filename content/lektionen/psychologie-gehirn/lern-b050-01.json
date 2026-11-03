@@ -1,0 +1,137 @@
+{
+  "id": "lern-b050-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie liest du ein Fachbuch wirkungsvoll?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lesen",
+    "lernstrategie",
+    "sq3r"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seite um Seite gelesen, und am Ende ist kaum etwas hängen geblieben.",
+        "Mit einer klaren Methode lernst du aus Fachtexten deutlich mehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst überblicken, dann lesen",
+      "absaetze": [
+        "Verschaffe dir zuerst einen Überblick über Inhaltsverzeichnis, Überschriften, Grafiken und Zusammenfassungen. So weißt du, worauf der Text hinauswill.",
+        "Formuliere dann Fragen, die der Text beantworten soll. Fragen lenken die Aufmerksamkeit beim Lesen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aktiv lesen",
+      "absaetze": [
+        "Lies abschnittsweise und halte nach jedem Abschnitt kurz inne. Fasse das Gelesene mit eigenen Worten zusammen, möglichst ohne in den Text zu schauen.",
+        "Diese Schritte stammen aus einer bekannten Lesemethode namens SQ3R. Die Buchstaben stehen auf Englisch für Überblick, Fragen, Lesen, Wiedergeben und Wiederholen."
+      ],
+      "merke": "Nach jedem Abschnitt mit eigenen Worten zusammenfassen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wiederholen statt Markieren",
+      "absaetze": [
+        "Nur Textstellen anzumarkern, bringt allein wenig. Wirksamer ist es, sich später selbst zu dem Gelesenen zu befragen.",
+        "Plane kurze Wiederholungen nach einem Tag und nach einer Woche ein. So bleibt das Wissen länger erhalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "Fachtexte lesen",
+      "schritte": [
+        {
+          "titel": "Überblick",
+          "text": "Überfliege Überschriften und Grafiken."
+        },
+        {
+          "titel": "Fragen",
+          "text": "Notiere, was du herausfinden willst."
+        },
+        {
+          "titel": "Lesen",
+          "text": "Lies abschnittsweise."
+        },
+        {
+          "titel": "Wiedergeben",
+          "text": "Fasse jeden Abschnitt mit eigenen Worten zusammen."
+        },
+        {
+          "titel": "Wiederholen",
+          "text": "Frag dich nach einem Tag und einer Woche erneut ab."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem genauen Lesen tun?",
+      "art": "mc",
+      "optionen": [
+        "Einen Überblick verschaffen",
+        "Alles markieren",
+        "Das Buch auswendig lernen",
+        "Nur das Ende lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So weißt du, worauf der Text hinauswill."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Schritt gehört zur Lesemethode SQ3R?",
+      "art": "mc",
+      "optionen": [
+        "Wiedergeben mit eigenen Worten",
+        "Den Text abschreiben",
+        "Das Buch wegwerfen",
+        "Nur das Ende lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schritte sind Überblick, Fragen, Lesen, Wiedergeben und Wiederholen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nur Markieren ist eine sehr wirksame Lernmethode.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Selbstabfragen wirkt deutlich besser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erst einen Überblick verschaffen.",
+        "Mit Fragen an den Text herangehen.",
+        "Abschnitte mit eigenen Worten zusammenfassen.",
+        "Gelesenes später gezielt wiederholen."
+      ]
+    }
+  ]
+}

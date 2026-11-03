@@ -1,0 +1,124 @@
+{
+  "id": "koer-b050-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Woher kommen Kopfschmerzen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kopfschmerzen",
+    "migraene",
+    "schmerz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast jeder hat ab und zu Kopfschmerzen.",
+        "Meist sind sie harmlos, doch es gibt wichtige Warnzeichen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die häufigsten Formen",
+      "absaetze": [
+        "Am häufigsten sind Spannungskopfschmerzen. Sie fühlen sich drückend oder ziehend an, oft auf beiden Seiten des Kopfes.",
+        "Migräne tritt in Attacken auf und ist oft pulsierend, häufig einseitig. Viele Betroffene reagieren dabei empfindlich auf Licht und Geräusche, manche haben Übelkeit."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auslöser im Alltag",
+      "absaetze": [
+        "Häufige Auslöser sind Stress, Schlafmangel, zu wenig Trinken, ausgelassene Mahlzeiten und lange Bildschirmarbeit. Auch Alkohol kann Kopfschmerzen auslösen.",
+        "Wer sehr häufig Schmerzmittel verwendet, kann dadurch selbst Dauerkopfschmerzen bekommen. Fachleute sprechen von medikamentenbedingtem Kopfschmerz."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen",
+      "absaetze": [
+        "Plötzliche, extrem starke Kopfschmerzen sind ein Notfall. Das gilt auch bei Kopfschmerzen mit Lähmungen, Sprachstörungen, hohem Fieber und Nackensteife oder nach einem Sturz.",
+        "Dann sofort den Notruf 112 wählen. Häufige oder neue Kopfschmerzen sollten ärztlich abgeklärt werden."
+      ],
+      "merke": "Plötzlicher stärkster Kopfschmerz: sofort 112.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kopfschmerzart ist am häufigsten?",
+      "art": "mc",
+      "optionen": [
+        "Spannungskopfschmerz",
+        "Migräne",
+        "Clusterkopfschmerz",
+        "Kopfschmerz durch Tumoren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er fühlt sich drückend oder ziehend an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann zu häufiger Gebrauch von Schmerzmitteln auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Medikamentenbedingten Kopfschmerz",
+        "Bessere Konzentration",
+        "Schnelleres Haarwachstum",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann entstehen selbst Dauerkopfschmerzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du bei plötzlichen, extrem starken Kopfschmerzen?",
+      "art": "mc",
+      "optionen": [
+        "Abwarten",
+        "Sofort den Notruf 112 wählen",
+        "Mehr Kaffee trinken",
+        "Schlafen gehen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das ist ein Notfall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Migräne geht häufig mit Licht- und Geräuschempfindlichkeit einher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Manche haben auch Übelkeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Spannungskopfschmerz ist am häufigsten.",
+        "Migräne tritt in Attacken auf.",
+        "Stress, Schlafmangel und zu wenig Trinken sind häufige Auslöser.",
+        "Plötzlich extreme Kopfschmerzen sind ein Notfall."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "geld-b050-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Lohnt sich ein Gemeinschaftskonto?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gemeinschaftskonto",
+    "partnerschaft",
+    "girokonto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Paare überlegen, ob sie ein gemeinsames Konto eröffnen sollen.",
+        "Es gibt dabei zwei Arten mit wichtigen Unterschieden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oder-Konto und Und-Konto",
+      "absaetze": [
+        "Beim Oder-Konto darf jede Person allein über das Geld verfügen. Das ist im Alltag praktisch und am weitesten verbreitet.",
+        "Beim Und-Konto müssen alle Kontoinhaber gemeinsam zustimmen. Das ist sicherer, aber umständlicher. Es wird eher für besondere Zwecke genutzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemeinsame Haftung",
+      "absaetze": [
+        "Bei einem Gemeinschaftskonto haften in der Regel alle Inhaber gemeinsam. Überzieht eine Person das Konto, kann die Bank das Geld von jedem verlangen.",
+        "Deshalb ist Vertrauen die wichtigste Voraussetzung. Klärt vorher, wofür das Konto genutzt wird und wie viel jeder einzahlt."
+      ],
+      "merke": "Bei Überziehung haften alle Kontoinhaber."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein beliebtes Modell",
+      "absaetze": [
+        "Viele Paare nutzen eine Mischung: ein gemeinsames Konto für Miete und Einkäufe, dazu jeweils ein eigenes Konto. So bleibt jedem ein eigener Spielraum.",
+        "Bei einer Trennung lässt sich ein Oder-Konto oft in ein Und-Konto umwandeln. So kann niemand das Konto allein leer räumen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Oder-Konto?",
+      "art": "mc",
+      "optionen": [
+        "Jede Person darf allein verfügen",
+        "Nur alle gemeinsam dürfen verfügen",
+        "Ein Konto nur für Kinder",
+        "Ein Sparbuch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist im Alltag am praktischsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer haftet bei Überziehung eines Gemeinschaftskontos?",
+      "art": "mc",
+      "optionen": [
+        "Nur die Person, die überzogen hat",
+        "In der Regel alle Inhaber",
+        "Die Bank",
+        "Niemand"
+      ],
+      "richtig": 1,
+      "erklaerung": "Deshalb ist Vertrauen so wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Paare kombinieren ein gemeinsames Konto mit eigenen Konten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So bleibt jedem ein eigener Spielraum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Oder-Konto darf jeder allein verfügen.",
+        "Beim Und-Konto braucht es alle Unterschriften.",
+        "Bei Überziehung haften alle Inhaber.",
+        "Gemeinsames Konto plus eigene Konten ist ein beliebtes Modell."
+      ]
+    }
+  ]
+}

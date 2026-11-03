@@ -1,0 +1,113 @@
+{
+  "id": "stoff-b050-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was macht das Hormon Cortisol im Körper?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "cortisol",
+    "hormone",
+    "tagesrhythmus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Cortisol wird oft nur als Stresshormon bezeichnet.",
+        "Dabei erfüllt es jeden Tag wichtige Aufgaben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hormon mit Tagesrhythmus",
+      "absaetze": [
+        "Cortisol wird in der Nebennierenrinde gebildet. Sein Spiegel ist morgens nach dem Aufwachen am höchsten und sinkt im Laufe des Tages ab.",
+        "So hilft es, den Körper morgens in Gang zu bringen. Abends ist der Spiegel niedrig, damit der Körper zur Ruhe kommen kann."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie bereitstellen",
+      "absaetze": [
+        "Cortisol sorgt dafür, dass genug Energie verfügbar ist. Es lässt den Blutzucker steigen, indem die Leber Zucker freisetzt und neu bildet.",
+        "Bei Stress steigt Cortisol zusätzlich an. Kurzfristig ist das sinnvoll, weil der Körper so leistungsfähiger wird."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es aus dem Gleichgewicht gerät",
+      "absaetze": [
+        "Dauerhaft stark erhöhte Cortisolwerte können zu höherem Blutzucker, Bluthochdruck und mehr Bauchfett beitragen. Das sieht man etwa bei längerer Behandlung mit hoch dosierten Kortisonpräparaten.",
+        "Zu wenig Cortisol ist ebenfalls gefährlich. Beides gehört in ärztliche Behandlung. Cortisol-Tests oder Präparate aus dem Internet sind keine sinnvolle Selbsthilfe."
+      ],
+      "merke": "Auffällige Cortisolwerte gehören in ärztliche Hände.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist der Cortisolspiegel normalerweise am höchsten?",
+      "art": "mc",
+      "optionen": [
+        "Morgens nach dem Aufwachen",
+        "Um Mitternacht",
+        "Nach dem Abendessen",
+        "Er ist immer gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Laufe des Tages sinkt er ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt Cortisol beim Blutzucker?",
+      "art": "mc",
+      "optionen": [
+        "Es lässt ihn sinken",
+        "Es lässt ihn steigen",
+        "Gar nichts",
+        "Es wandelt ihn in Eiweiß um"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Leber setzt Zucker frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Dauerhaft stark erhöhtes Cortisol kann zu mehr Bauchfett beitragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Blutzucker und Blutdruck können steigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cortisol folgt einem Tagesrhythmus mit Höhepunkt am Morgen.",
+        "Es stellt Energie bereit und erhöht den Blutzucker.",
+        "Bei Stress steigt es zusätzlich an.",
+        "Dauerhaft auffällige Werte gehören in ärztliche Behandlung.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "supp-b050-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von L-Tryptophan zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tryptophan",
+    "schlaf",
+    "stimmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "L-Tryptophan wird als natürliche Hilfe für Schlaf und gute Laune angeboten.",
+        "Die Aminosäure hat eine bewegte Geschichte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Baustein für Botenstoffe",
+      "absaetze": [
+        "Tryptophan ist eine lebensnotwendige Aminosäure. Der Körper bildet daraus unter anderem den Botenstoff Serotonin und das Schlafhormon Melatonin.",
+        "Tryptophan steckt in vielen eiweißreichen Lebensmitteln wie Milchprodukten, Hülsenfrüchten, Nüssen und Fleisch. Ein Mangel ist bei ausgewogener Ernährung selten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwache Belege",
+      "absaetze": [
+        "Für eine Wirkung auf Schlaf oder Stimmung bei gesunden Menschen gibt es nur wenige und uneinheitliche Studien. Ein klarer Nutzen ist nicht belegt.",
+        "Ende der 1980er-Jahre erkrankten in den USA viele Menschen nach der Verwendung verunreinigter Tryptophan-Präparate schwer. Das zeigt, wie wichtig die Qualität solcher Produkte ist."
+      ],
+      "merke": "Ein Nutzen bei Gesunden ist nicht belegt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wechselwirkungen",
+      "absaetze": [
+        "Tryptophan kann die Wirkung bestimmter Medikamente gegen Depressionen verstärken. Dann droht ein gefährlicher Überschuss an Serotonin.",
+        "Wer solche Medikamente braucht, sollte Tryptophan-Präparate nur nach ärztlicher Rücksprache verwenden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Medikamenten gegen Depressionen nur nach ärztlicher Rücksprache verwenden.",
+        "Auf geprüfte Qualität achten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bildet der Körper aus Tryptophan?",
+      "art": "mc",
+      "optionen": [
+        "Serotonin und Melatonin",
+        "Kalzium",
+        "Vitamin C",
+        "Kollagen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tryptophan ist ein Baustein für Botenstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist die Wirkung auf den Schlaf bei Gesunden belegt?",
+      "art": "mc",
+      "optionen": [
+        "Sehr gut",
+        "Nur schwach und uneinheitlich",
+        "Es gibt keine Studien",
+        "Es wirkt bei allen sofort"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein klarer Nutzen ist nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tryptophan kann mit Medikamenten gegen Depressionen wechselwirken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann droht ein Serotonin-Überschuss."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tryptophan ist eine lebensnotwendige Aminosäure.",
+        "Ein Mangel ist bei ausgewogener Ernährung selten.",
+        "Ein Nutzen für Schlaf oder Stimmung ist nicht belegt.",
+        "Wechselwirkungen mit Antidepressiva sind möglich."
+      ]
+    }
+  ]
+}

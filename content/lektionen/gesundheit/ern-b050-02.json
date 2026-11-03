@@ -1,0 +1,124 @@
+{
+  "id": "ern-b050-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Omega-6-Fettsäuren schädlich?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "omega-6",
+    "fettsaeuren",
+    "pflanzenoele"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Internet heißt es oft, Omega-6-Fettsäuren förderten Entzündungen.",
+        "Die Forschung zeichnet ein differenzierteres Bild."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lebensnotwendige Fette",
+      "absaetze": [
+        "Omega-6-Fettsäuren gehören zu den mehrfach ungesättigten Fettsäuren. Die wichtigste ist Linolsäure. Der Körper kann sie nicht selbst bilden, sie muss mit der Nahrung kommen.",
+        "Gute Quellen sind Pflanzenöle wie Sonnenblumen-, Distel- und Maiskeimöl sowie Nüsse und Samen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mythos von der Entzündung",
+      "absaetze": [
+        "Aus Linolsäure kann der Körper Stoffe bilden, die an Entzündungen beteiligt sind. Daraus wurde abgeleitet, dass Omega-6 grundsätzlich schade.",
+        "Studien deuten aber darauf hin, dass Linolsäure im Rahmen einer normalen Ernährung Entzündungswerte nicht erhöht. Ersetzt sie gesättigte Fette, hängt das sogar mit einem geringeren Herz-Kreislauf-Risiko zusammen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Balance zählt",
+      "absaetze": [
+        "Fachgesellschaften empfehlen, auf ausreichend Omega-3 zu achten, etwa aus Rapsöl, Leinöl, Walnüssen oder fettem Fisch. Ein bestimmtes Verhältnis zu Omega-6 ist dabei weniger wichtig als eine insgesamt günstige Fettauswahl.",
+        "Rapsöl ist ein guter Allrounder, weil es beide Fettsäuregruppen in einem günstigen Verhältnis enthält."
+      ],
+      "merke": "Mehr Omega-3 ist wichtiger, als Omega-6 zu meiden.",
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Omega-6-Fettsäuren machen krank.",
+      "urteil": "mythos",
+      "erklaerung": "Linolsäure ist lebensnotwendig. Studien deuten darauf hin, dass sie in normalen Mengen keine Entzündungen fördert. Ersetzt sie gesättigte Fette, kann sie sogar dem Herzen nützen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Omega-6-Fettsäure ist am wichtigsten?",
+      "art": "mc",
+      "optionen": [
+        "Linolsäure",
+        "Milchsäure",
+        "Zitronensäure",
+        "Harnsäure"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper kann sie nicht selbst bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Öl enthält Omega-3 und Omega-6 in einem günstigen Verhältnis?",
+      "art": "mc",
+      "optionen": [
+        "Sonnenblumenöl",
+        "Rapsöl",
+        "Kokosöl",
+        "Palmöl"
+      ],
+      "richtig": 1,
+      "erklaerung": "Es gilt als guter Allrounder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Omega-6-Fettsäuren sind für den Menschen lebensnotwendig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie müssen mit der Nahrung aufgenommen werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Omega-6-Fettsäuren sind lebensnotwendig.",
+        "Linolsäure fördert in normalen Mengen wohl keine Entzündungen.",
+        "Wichtiger ist eine ausreichende Versorgung mit Omega-3.",
+        "Rapsöl ist ein guter Allrounder."
+      ]
+    }
+  ]
+}

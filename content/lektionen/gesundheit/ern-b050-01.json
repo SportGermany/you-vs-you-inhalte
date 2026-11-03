@@ -1,0 +1,112 @@
+{
+  "id": "ern-b050-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was macht Sauerteigbrot besonders?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sauerteig",
+    "brot",
+    "fermentation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sauerteig ist eines der ältesten Triebmittel der Welt.",
+        "Brot mit Sauerteig schmeckt anders und hält länger frisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bakterien und Hefen bei der Arbeit",
+      "absaetze": [
+        "Ein Sauerteig ist eine Mischung aus Mehl und Wasser, in der Milchsäurebakterien und Hefen leben. Die Bakterien bilden Säuren, die Hefen lassen den Teig aufgehen.",
+        "Diese Gärung braucht Zeit, oft viele Stunden. Dabei entstehen die typischen Aromen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile im Brot",
+      "absaetze": [
+        "Bei Roggenbrot ist Sauerteig nötig, damit der Teig überhaupt gut backfähig wird. Die Säure macht Brot außerdem länger haltbar.",
+        "Die lange Gärung baut einen Teil der Phytinsäure ab. So können Mineralstoffe wie Eisen und Zink etwas besser aufgenommen werden."
+      ],
+      "merke": "Sauerteig macht Brot länger haltbar.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien andeuten",
+      "absaetze": [
+        "Einige Studien deuten darauf hin, dass Sauerteigbrot den Blutzucker weniger stark ansteigen lässt als vergleichbares Hefebrot. Manche Menschen empfinden es auch als bekömmlicher.",
+        "Für Menschen mit Zöliakie ist Sauerteigbrot aus Weizen oder Roggen aber nicht geeignet. Gluten wird dabei nicht ausreichend abgebaut."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Mikroorganismen leben in einem Sauerteig?",
+      "art": "mc",
+      "optionen": [
+        "Milchsäurebakterien und Hefen",
+        "Nur Schimmelpilze",
+        "Viren",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bakterien bilden Säuren, die Hefen lockern den Teig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welches Brot ist Sauerteig besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Toastbrot",
+        "Roggenbrot",
+        "Baguette",
+        "Brötchen aus Weizen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ohne Sauerteig wäre Roggenteig schlecht backfähig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sauerteigbrot ist für Menschen mit Zöliakie geeignet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gluten wird nicht ausreichend abgebaut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sauerteig enthält Milchsäurebakterien und Hefen.",
+        "Er macht Brot aromatischer und länger haltbar.",
+        "Die Gärung baut Phytinsäure teilweise ab.",
+        "Bei Zöliakie ist Sauerteigbrot nicht geeignet."
+      ]
+    }
+  ]
+}

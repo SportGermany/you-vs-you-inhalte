@@ -1,0 +1,121 @@
+{
+  "id": "vers-b050-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was regelt eine Patientenverfügung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patientenverfügung",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "patientenverfuegung",
+    "vorsorge",
+    "selbstbestimmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Unfall oder bei schwerer Krankheit kann es sein, dass du selbst nicht mehr entscheiden kannst.",
+        "Eine Patientenverfügung legt vorher fest, was dann geschehen soll."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie ist",
+      "absaetze": [
+        "In einer Patientenverfügung bestimmst du, welche medizinischen Behandlungen du in bestimmten Situationen möchtest oder ablehnst. Das betrifft etwa künstliche Beatmung oder Ernährung.",
+        "Ärztinnen und Ärzte sind an eine wirksame Patientenverfügung gebunden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf es ankommt",
+      "absaetze": [
+        "Die Verfügung muss schriftlich verfasst und unterschrieben sein. Wichtig ist, möglichst konkret zu beschreiben, in welchen Situationen welche Maßnahmen gelten sollen. Allgemeine Sätze wie keine Apparatemedizin reichen oft nicht aus.",
+        "Du kannst sie jederzeit ändern oder widerrufen. Hilfreich ist ein ärztliches Beratungsgespräch."
+      ],
+      "merke": "Möglichst konkrete Situationen und Maßnahmen beschreiben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ergänzende Vorsorge",
+      "absaetze": [
+        "Eine Patientenverfügung allein bestimmt nicht, wer für dich spricht. Dafür gibt es die Vorsorgevollmacht. Darin benennst du eine Vertrauensperson.",
+        "Das Bundesministerium der Justiz stellt Textbausteine und Informationen bereit. Bewahre die Dokumente so auf, dass Angehörige sie im Ernstfall schnell finden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was legt eine Patientenverfügung fest?",
+      "art": "mc",
+      "optionen": [
+        "Gewünschte oder abgelehnte medizinische Behandlungen",
+        "Das Erbe",
+        "Die Steuerklasse",
+        "Die Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa künstliche Beatmung oder Ernährung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei der Formulierung wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Möglichst allgemein bleiben",
+        "Konkrete Situationen und Maßnahmen beschreiben",
+        "Nur mündlich festlegen",
+        "Keine Unterschrift"
+      ],
+      "richtig": 1,
+      "erklaerung": "Allgemeine Sätze reichen oft nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit benennst du eine Vertrauensperson, die für dich entscheidet?",
+      "art": "mc",
+      "optionen": [
+        "Mit einer Vorsorgevollmacht",
+        "Mit einem Mietvertrag",
+        "Mit einer Steuererklärung",
+        "Mit einem Testament allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ergänzt die Patientenverfügung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Patientenverfügung kann jederzeit geändert werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Du kannst sie auch widerrufen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Patientenverfügung regelt gewünschte und abgelehnte Behandlungen.",
+        "Sie muss schriftlich und unterschrieben sein.",
+        "Konkrete Formulierungen sind entscheidend.",
+        "Eine Vorsorgevollmacht ergänzt sie sinnvoll."
+      ]
+    }
+  ]
+}

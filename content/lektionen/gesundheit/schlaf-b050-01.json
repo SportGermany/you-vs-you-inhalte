@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b050-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Solltest du dein Haustier im Bett schlafen lassen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "haustiere",
+    "schlafumgebung",
+    "hund"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Hunde- und Katzenbesitzer teilen ihr Bett mit dem Tier.",
+        "Ob das dem Schlaf schadet, wird unterschiedlich bewertet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nähe kann beruhigen",
+      "absaetze": [
+        "Viele Menschen fühlen sich mit ihrem Tier im Bett geborgen und entspannt. Das kann das Einschlafen erleichtern.",
+        "Kleine Studien deuten darauf hin, dass manche Menschen subjektiv gut schlafen, obwohl das Tier im Zimmer ist."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Störungen",
+      "absaetze": [
+        "Tiere haben einen anderen Schlafrhythmus. Sie bewegen sich, kratzen sich oder stehen nachts auf. Kleine Untersuchungen deuten darauf hin, dass Menschen mit Tier im Bett etwas häufiger kurz aufwachen.",
+        "Wer ohnehin schlecht schläft, profitiert womöglich davon, wenn das Tier in einem eigenen Körbchen schläft, gern auch im selben Raum."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hygiene und Gesundheit",
+      "absaetze": [
+        "Bei Allergien gegen Tierhaare sollte das Tier nicht ins Schlafzimmer. Auch bei geschwächtem Immunsystem ist Vorsicht sinnvoll.",
+        "Regelmäßige Entwurmung und Flohschutz sind wichtig, wenn ein Tier im Bett schläft. Wasche die Bettwäsche häufiger."
+      ],
+      "merke": "Bei Tierhaarallergie gehört das Tier nicht ins Schlafzimmer.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein Haustier im Bett stören?",
+      "art": "mc",
+      "optionen": [
+        "Bewegungen und ein anderer Schlafrhythmus",
+        "Zu viel Ruhe",
+        "Zu wenig Wärme",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Menschen wachen dadurch häufiger kurz auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollte ein Tier nicht ins Schlafzimmer?",
+      "art": "mc",
+      "optionen": [
+        "Bei einer Tierhaarallergie",
+        "Bei schönem Wetter",
+        "Am Wochenende",
+        "Wenn das Tier müde ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bei geschwächtem Immunsystem ist Vorsicht sinnvoll."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein eigenes Körbchen im selben Raum kann ein guter Kompromiss sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So bleibt die Nähe, die Störungen werden weniger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Tier im Bett kann beruhigen.",
+        "Es kann aber auch den Schlaf stören.",
+        "Bei Allergien gehört das Tier nicht ins Schlafzimmer.",
+        "Entwurmung, Flohschutz und frische Bettwäsche sind wichtig."
+      ]
+    }
+  ]
+}

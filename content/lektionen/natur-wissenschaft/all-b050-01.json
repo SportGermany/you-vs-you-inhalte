@@ -1,0 +1,111 @@
+{
+  "id": "all-b050-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist die Oortsche Wolke?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Comets and the Solar System",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "oortsche-wolke",
+    "kometen",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weit hinter den Planeten soll eine riesige Hülle aus Eisbrocken das Sonnensystem umgeben.",
+        "Gesehen hat sie noch niemand direkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Vermutung mit guten Gründen",
+      "absaetze": [
+        "Der niederländische Astronom Jan Oort schlug 1950 vor, dass es eine solche Wolke gibt. Er wollte erklären, woher Kometen mit sehr langen Umlaufzeiten kommen.",
+        "Diese Kometen kommen aus allen Richtungen des Himmels. Das passt zu einer kugelförmigen Hülle um das Sonnensystem."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unvorstellbar weit draußen",
+      "absaetze": [
+        "Die Oortsche Wolke liegt vermutlich weit jenseits des Kuipergürtels. Sie könnte bis über ein Viertel des Weges zum nächsten Stern reichen.",
+        "Die Objekte darin sind klein, dunkel und extrem weit entfernt. Deshalb kann man sie mit heutigen Teleskopen nicht direkt beobachten."
+      ],
+      "merke": "Die Oortsche Wolke wurde nie direkt beobachtet.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher die Kometen kommen",
+      "absaetze": [
+        "Manchmal stören vorbeiziehende Sterne die Bahnen der Eisbrocken. Einige werden dann ins innere Sonnensystem gelenkt.",
+        "Nähern sie sich der Sonne, verdampft Eis, und es bildet sich ein leuchtender Schweif. So entstehen Kometen, die nur alle paar tausend Jahre oder nur einmal vorbeikommen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer schlug die Existenz der Wolke vor?",
+      "art": "mc",
+      "optionen": [
+        "Jan Oort",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Edwin Hubble"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er tat das 1950."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was soll die Oortsche Wolke erklären?",
+      "art": "mc",
+      "optionen": [
+        "Woher langperiodische Kometen kommen",
+        "Warum der Mond leuchtet",
+        "Wie Planeten Ringe bekommen",
+        "Warum es Jahreszeiten gibt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Kometen kommen aus allen Richtungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Oortsche Wolke wurde mit Teleskopen direkt fotografiert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ihre Objekte sind zu klein, dunkel und weit entfernt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Oortsche Wolke ist eine vermutete Hülle aus Eisbrocken.",
+        "Jan Oort schlug sie 1950 vor.",
+        "Sie liegt weit jenseits des Kuipergürtels.",
+        "Aus ihr stammen vermutlich langperiodische Kometen."
+      ]
+    }
+  ]
+}

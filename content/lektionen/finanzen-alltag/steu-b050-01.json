@@ -1,0 +1,114 @@
+{
+  "id": "steu-b050-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie werden Renten besteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rente und Steuern",
+      "herausgeber": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rente",
+    "besteuerung",
+    "ruhestand"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Rentnerinnen und Rentner sind überrascht, dass sie eine Steuererklärung abgeben müssen.",
+        "Der Grund ist die schrittweise Umstellung der Rentenbesteuerung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nachgelagerte Besteuerung",
+      "absaetze": [
+        "Früher wurden Renten nur zu einem kleinen Teil besteuert. Seit 2005 stellt Deutschland schrittweise auf die nachgelagerte Besteuerung um.",
+        "Das bedeutet: Beiträge zur Rentenversicherung sind im Berufsleben zunehmend steuerfrei. Dafür wird die Rente später stärker besteuert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Rentenfreibetrag",
+      "absaetze": [
+        "Wie viel einer Rente steuerpflichtig ist, hängt vom Jahr des Rentenbeginns ab. Je später jemand in Rente geht, desto höher ist der steuerpflichtige Anteil.",
+        "Der steuerfreie Teil wird im Jahr nach Rentenbeginn als fester Eurobetrag festgeschrieben. Spätere Rentenerhöhungen sind deshalb voll steuerpflichtig."
+      ],
+      "merke": "Rentenerhöhungen sind voll steuerpflichtig."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zahlt jeder Steuern?",
+      "absaetze": [
+        "Nicht jede Rente führt zu Steuern. Erst wenn das zu versteuernde Einkommen über dem Grundfreibetrag liegt, fällt Einkommensteuer an.",
+        "Ob du eine Steuererklärung abgeben musst, hängt von deinem gesamten Einkommen ab. Die Deutsche Rentenversicherung und Lohnsteuerhilfevereine bieten dazu Beratung an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet nachgelagerte Besteuerung?",
+      "art": "mc",
+      "optionen": [
+        "Beiträge werden entlastet, die Rente später besteuert",
+        "Renten sind komplett steuerfrei",
+        "Nur Beiträge werden besteuert",
+        "Steuern zahlt der Arbeitgeber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Umstellung läuft schrittweise seit 2005."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt der steuerpflichtige Anteil der Rente ab?",
+      "art": "mc",
+      "optionen": [
+        "Vom Jahr des Rentenbeginns",
+        "Von der Haarfarbe",
+        "Vom Wohnort",
+        "Vom Familienstand allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je später der Rentenbeginn, desto höher der Anteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Spätere Rentenerhöhungen sind voll steuerpflichtig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Freibetrag bleibt als fester Eurobetrag gleich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Renten werden zunehmend nachgelagert besteuert.",
+        "Der steuerpflichtige Anteil hängt vom Rentenbeginn ab.",
+        "Der Freibetrag bleibt ein fester Eurobetrag.",
+        "Steuern fallen erst über dem Grundfreibetrag an."
+      ]
+    }
+  ]
+}

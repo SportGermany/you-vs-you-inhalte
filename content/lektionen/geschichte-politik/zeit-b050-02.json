@@ -1,0 +1,121 @@
+{
+  "id": "zeit-b050-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was geschah 2011 in Fukushima?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fukushima",
+    "japan",
+    "kernkraft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am 11. März 2011 bebte vor der Ostküste Japans die Erde so stark wie selten zuvor.",
+        "Kurz darauf kam es im Kernkraftwerk Fukushima Daiichi zu einer Katastrophe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erdbeben und Tsunami",
+      "absaetze": [
+        "Das Erdbeben hatte eine Stärke von 9,0. Es löste einen gewaltigen Tsunami aus, der weite Küstenstriche verwüstete. Rund 18.000 Menschen starben oder gelten als vermisst, die meisten durch die Flutwelle.",
+        "Das Kraftwerk Fukushima Daiichi lag direkt an der Küste."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kernschmelzen",
+      "absaetze": [
+        "Die Reaktoren schalteten sich beim Beben ab. Die Flutwelle zerstörte aber die Notstromversorgung, sodass die Kühlung ausfiel.",
+        "In drei Reaktoren kam es zu Kernschmelzen. Wasserstoffexplosionen beschädigten die Gebäude, radioaktive Stoffe wurden freigesetzt. Mehr als 100.000 Menschen mussten ihre Heimat verlassen."
+      ],
+      "merke": "Der Ausfall der Kühlung führte zu Kernschmelzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen bis heute",
+      "absaetze": [
+        "Die Aufräumarbeiten werden noch Jahrzehnte dauern. Teile der Sperrzone sind inzwischen wieder bewohnbar, andere nicht.",
+        "Die Katastrophe veränderte die Energiepolitik vieler Länder. In Deutschland beschleunigte sie den Ausstieg aus der Kernkraft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löste das Erdbeben vom 11. März 2011 aus?",
+      "art": "mc",
+      "optionen": [
+        "Einen Tsunami",
+        "Einen Vulkanausbruch in Europa",
+        "Eine Sonnenfinsternis",
+        "Einen Wirbelsturm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Flutwelle verwüstete die Küste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum fiel die Kühlung der Reaktoren aus?",
+      "art": "mc",
+      "optionen": [
+        "Die Flutwelle zerstörte die Notstromversorgung",
+        "Die Mitarbeiter streikten",
+        "Es war zu kalt",
+        "Ein Computervirus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Strom konnten die Pumpen nicht arbeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In wie vielen Reaktoren kam es zu Kernschmelzen?",
+      "art": "mc",
+      "optionen": [
+        "In einem",
+        "In drei",
+        "In zehn",
+        "In keinem"
+      ],
+      "richtig": 1,
+      "erklaerung": "Radioaktive Stoffe wurden freigesetzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die meisten Todesopfer forderte der Tsunami.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Rund 18.000 Menschen starben oder werden vermisst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Erdbeben der Stärke 9,0 löste einen Tsunami aus.",
+        "Die Flut zerstörte die Notstromversorgung des Kraftwerks.",
+        "In drei Reaktoren kam es zu Kernschmelzen.",
+        "In Deutschland beschleunigte die Katastrophe den Atomausstieg."
+      ]
+    }
+  ]
+}

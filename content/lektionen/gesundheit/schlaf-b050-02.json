@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b050-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläft man in großer Höhe schlechter?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hoehe",
+    "bergsteigen",
+    "atmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der ersten Nacht auf einer Berghütte wachen viele immer wieder auf.",
+        "Die dünne Luft verändert den Schlaf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger Sauerstoff",
+      "absaetze": [
+        "Mit zunehmender Höhe sinkt der Luftdruck. Jeder Atemzug enthält dadurch weniger Sauerstoff.",
+        "Ab etwa 2500 Metern bemerken viele Menschen Veränderungen beim Schlafen. Der Tiefschlaf nimmt ab, und man wacht häufiger auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Atmung im Wechsel",
+      "absaetze": [
+        "Im Schlaf kann sich in der Höhe ein besonderes Atemmuster entwickeln. Die Atmung wird abwechselnd tiefer und flacher, manchmal mit kurzen Pausen. Fachleute nennen das periodische Atmung.",
+        "Für Mitschlafende wirkt das beunruhigend. Bei gesunden Menschen gilt es meist als Anpassung an die Höhe."
+      ],
+      "merke": "Periodische Atmung in der Höhe ist meist harmlos.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Langsam anpassen",
+      "absaetze": [
+        "Der Körper gewöhnt sich nach einigen Tagen an die Höhe. Deshalb empfehlen Fachleute, langsam aufzusteigen und die Schlafhöhe nur schrittweise zu erhöhen.",
+        "Starke Kopfschmerzen, Übelkeit, Atemnot in Ruhe oder Verwirrtheit können Zeichen der Höhenkrankheit sein. Dann ist Abstieg das Wichtigste."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schläft man in großer Höhe schlechter?",
+      "art": "mc",
+      "optionen": [
+        "Jeder Atemzug enthält weniger Sauerstoff",
+        "Es ist zu warm",
+        "Die Betten sind härter",
+        "Die Sonne scheint länger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Luftdruck sinkt mit der Höhe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das wechselnd tiefe und flache Atmen in der Höhe?",
+      "art": "mc",
+      "optionen": [
+        "Periodische Atmung",
+        "Schnarchen",
+        "Hyperventilation im Wachzustand",
+        "Bauchatmung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Gesunden ist sie meist eine Anpassung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Zeichen der Höhenkrankheit am wichtigsten?",
+      "art": "mc",
+      "optionen": [
+        "Weiter aufsteigen",
+        "Abstieg",
+        "Mehr Kaffee",
+        "Früher schlafen gehen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Atemnot in Ruhe oder Verwirrtheit sind Warnzeichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Körper gewöhnt sich nach einigen Tagen an die Höhe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb langsam aufsteigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In der Höhe enthält jeder Atemzug weniger Sauerstoff.",
+        "Der Tiefschlaf nimmt ab, man wacht öfter auf.",
+        "Periodische Atmung ist meist eine Anpassung.",
+        "Bei Zeichen der Höhenkrankheit absteigen."
+      ]
+    }
+  ]
+}
