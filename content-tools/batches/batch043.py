@@ -1,4 +1,4 @@
-"""Batch 043: 21 Lektionen, breit verteilt über alle Welten.
+"""Batch 043: 19 Lektionen (Doppelungen entfernt), breit verteilt über alle Welten.
 Aufruf: python3 content-tools/batches/batch043.py
 """
 import os, sys
@@ -386,40 +386,6 @@ L.append(lektion(
 
 # ---------------- Zeitgeschichte ----------------
 
-L.append(lektion(
-    "zeit-b043-01", "geschichte-politik", "zeitgeschichte", "Was geschah in der Kubakrise?", 4, None, [JFK, BPB],
-    ["kalter-krieg", "kuba", "atomwaffen"],
-    ["Im Oktober 1962 stand die Welt so nah an einem Atomkrieg wie kaum je zuvor.",
-     "Dreizehn Tage lang verhandelten die USA und die Sowjetunion unter enormem Druck."],
-    [("Raketen vor der Haustür",
-      ["Die Sowjetunion stationierte heimlich Atomraketen auf Kuba. Die Insel liegt nur rund 150 Kilometer vor Florida.",
-       "Ein amerikanisches Aufklärungsflugzeug vom Typ U-2 fotografierte die Abschussrampen. Präsident John F. Kennedy wurde am 16. Oktober 1962 informiert."],
-      None, None),
-     ("Blockade statt Angriff",
-      ["Kennedy entschied sich gegen einen sofortigen Luftangriff. Stattdessen ließ er Kuba von der Marine abriegeln. Er nannte die Blockade Quarantäne.",
-       "Sowjetische Schiffe drehten vor der Sperrlinie ab. Trotzdem blieb die Lage tagelang hoch gefährlich."],
-      None, None),
-     ("Der Kompromiss",
-      ["Der sowjetische Staatschef Nikita Chruschtschow ließ die Raketen abziehen. Die USA sicherten zu, Kuba nicht anzugreifen.",
-       "Geheim vereinbarten beide Seiten außerdem den Abzug amerikanischer Raketen aus der Türkei. 1963 richteten Washington und Moskau einen direkten Draht ein, den heißen Draht."],
-      "Die Krise endete mit einem Kompromiss beider Seiten.", None)],
-    None, None,
-    [("Was stationierte die Sowjetunion 1962 auf Kuba?", "mc",
-      ["Atomraketen", "Panzer für eine Invasion", "Ein Raumfahrtzentrum", "Eine Flotte U-Boote"], 0,
-      "Die Raketen hätten weite Teile der USA erreichen können."),
-     ("Wie reagierte Kennedy zuerst?", "mc",
-      ["Mit einem Atomangriff", "Mit einer Seeblockade", "Mit einem Rücktritt", "Mit einer Invasion"], 1,
-      "Er nannte die Blockade Quarantäne."),
-     ("Was versprachen die USA im Gegenzug?", "mc",
-      ["Kuba Geld zu zahlen", "Die NATO zu verlassen", "Berlin aufzugeben", "Kuba nicht anzugreifen"], 3,
-      "Geheim zogen sie zudem Raketen aus der Türkei ab."),
-     ("Nach der Krise richteten die USA und die Sowjetunion einen direkten Draht ein.", "tf", None, 0,
-      "Richtig. Der heiße Draht entstand 1963.")],
-    ["1962 stationierte die Sowjetunion Atomraketen auf Kuba.",
-     "Die USA reagierten mit einer Seeblockade.",
-     "Die Raketen wurden abgezogen, die USA verzichteten auf einen Angriff.",
-     "Danach entstand der heiße Draht."]))
-
 # ---------------- Finanzen und Alltag ----------------
 
 L.append(lektion(
@@ -654,37 +620,6 @@ L.append(lektion(
      "Ziel und Hindernis gegenüberzustellen, hilft beim Einschätzen.",
      "Mit einem Wenn-dann-Plan entsteht die WOOP-Methode.",
      "Das wichtigste Hindernis liegt oft in dir selbst."]))
-
-L.append(lektion(
-    "lern-b043-01", "psychologie-gehirn", "lernen-gedaechtnis", "Lernst du mit der Hand besser als mit der Tastatur?", 3, 1, [APA],
-    ["mitschreiben", "handschrift", "notizen"],
-    ["In Vorlesungen tippen viele mit, andere schreiben mit Stift.",
-     "Ob das einen Unterschied für das Lernen macht, wird seit Jahren diskutiert."],
-    [("Eine bekannte Studie",
-      ["2014 veröffentlichten die Forschenden Pam Mueller und Daniel Oppenheimer eine viel beachtete Studie. Ihre Ergebnisse deuteten darauf hin, dass Mitschreiben per Hand das Verständnis fördert.",
-       "Ihre Erklärung: Wer tippt, schreibt oft wörtlich mit. Wer per Hand schreibt, muss zusammenfassen und denkt dabei mehr nach."],
-      None, 1),
-     ("Gemischte Ergebnisse",
-      ["Spätere Wiederholungsstudien fanden den Vorteil teils nur schwach oder gar nicht. Die Studienlage deutet darauf hin, dass der Effekt kleiner ist als zunächst gedacht.",
-       "Wichtiger als das Werkzeug scheint zu sein, wie du mitschreibst. Eigene Worte und Zusammenfassungen helfen mehr als wörtliches Abtippen."],
-      None, 1),
-     ("Ablenkung zählt mit",
-      ["Ein Laptop bietet viele Ablenkungen wie Nachrichten und Webseiten. Das kann das Lernen stören, auch bei Menschen in der Nähe.",
-       "Wenn du tippst, schalte Benachrichtigungen ab. Formuliere Inhalte bewusst in eigenen Worten."],
-      "Eigene Worte helfen mehr als wörtliches Mitschreiben.", 2)],
-    None, None,
-    [("Was fand die bekannte Studie von 2014?", "mc",
-      ["Tippen war deutlich besser", "Es gab nie einen Unterschied", "Mitschreiben schadet immer", "Handschriftliche Notizen halfen beim Verständnis"], 3,
-      "Spätere Studien fanden den Effekt aber schwächer."),
-     ("Was scheint beim Mitschreiben besonders wichtig zu sein?", "mc",
-      ["Die Farbe des Stifts", "Inhalte in eigenen Worten zusammenzufassen", "Möglichst schnell zu tippen", "Alles wörtlich zu notieren"], 1,
-      "So verarbeitest du den Stoff tiefer."),
-     ("Spätere Studien bestätigten den Vorteil der Handschrift immer klar.", "tf", None, 1,
-      "Falsch. Die Ergebnisse waren gemischt.")],
-    ["Eine Studie von 2014 sah Vorteile für Handschrift.",
-     "Spätere Studien fanden den Effekt kleiner.",
-     "Eigene Worte helfen mehr als wörtliches Mitschreiben.",
-     "Beim Tippen Ablenkungen abschalten."]))
 
 L.append(lektion(
     "lern-b043-02", "psychologie-gehirn", "lernen-gedaechtnis", "Warum erinnern sich Ältere besonders gut an ihre Jugend?", 3, 3, [APA],

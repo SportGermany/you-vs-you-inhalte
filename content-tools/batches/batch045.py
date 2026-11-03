@@ -1,4 +1,4 @@
-"""Batch 045: 21 Lektionen, breit verteilt über alle Welten.
+"""Batch 045: 20 Lektionen (Doppelungen entfernt), breit verteilt über alle Welten.
 Aufruf: python3 content-tools/batches/batch045.py
 """
 import os, sys
@@ -60,37 +60,6 @@ L.append(lektion(
      "Unreife grüne Tomaten nicht in großen Mengen essen."]))
 
 # ---------------- Schlaf und Regeneration ----------------
-
-L.append(lektion(
-    "schlaf-b045-01", "gesundheit", "schlaf-regeneration", "Was passiert nach einer durchwachten Nacht?", 3, 3, [DGSM],
-    ["schlafentzug", "konzentration", "sicherheit"],
-    ["Eine Nacht durchgefeiert, durchgelernt oder im Dienst verbracht.",
-     "Am nächsten Tag merkst du schnell, was fehlt."],
-    [("Wie nach Alkohol",
-      ["Schon nach einer Nacht ohne Schlaf lassen Aufmerksamkeit und Reaktionszeit deutlich nach. Studien zeigen: Nach etwa 24 Stunden wach sind die Leistungen ähnlich eingeschränkt wie mit rund einem Promille Alkohol im Blut.",
-       "Das Gefährliche: Viele Menschen schätzen ihre eigene Müdigkeit zu gering ein."],
-      "Nach 24 Stunden wach bist du ähnlich eingeschränkt wie mit Alkohol.", 3),
-     ("Mikroschlaf",
-      ["Das übermüdete Gehirn schaltet manchmal für Sekunden einfach ab. Das nennt man Sekundenschlaf oder Mikroschlaf. Oft merkt man ihn selbst nicht.",
-       "Am Steuer kann das tödlich enden. Nach einer durchwachten Nacht solltest du deshalb nicht Auto fahren."],
-      None, 3),
-     ("Gefühle und Erholung",
-      ["Schlafmangel macht reizbarer und lässt Stress stärker wirken. Viele haben zudem mehr Appetit auf Süßes und Fettiges.",
-       "Die gute Nachricht: Nach einer einzelnen durchwachten Nacht reicht meist eine normale bis etwas längere Nacht, um sich zu erholen. Ein kurzer Mittagsschlaf kann tagsüber helfen."],
-      None, 3)],
-    None, None,
-    [("Womit sind die Leistungen nach 24 Stunden wach vergleichbar?", "mc",
-      ["Mit einem leichten Schnupfen", "Mit rund einem Promille Alkohol", "Mit einem Kaffee", "Mit einer kurzen Pause"], 1,
-      "Aufmerksamkeit und Reaktionszeit sinken deutlich."),
-     ("Was ist Mikroschlaf?", "mc",
-      ["Ein sehr kurzer Mittagsschlaf", "Schlaf mit offenen Augen in der Nacht", "Ein Abschalten des Gehirns für Sekunden", "Ein Traum ohne Bilder"], 2,
-      "Oft bemerkt man ihn selbst nicht."),
-     ("Nach einer durchwachten Nacht solltest du nicht Auto fahren.", "tf", None, 0,
-      "Richtig. Sekundenschlaf am Steuer ist lebensgefährlich.")],
-    ["Eine durchwachte Nacht wirkt ähnlich wie Alkohol.",
-     "Mikroschlaf kann unbemerkt auftreten.",
-     "Schlafmangel macht reizbarer und hungriger.",
-     "Meist reicht eine erholsame Nacht zum Ausgleich."]))
 
 L.append(lektion(
     "schlaf-b045-02", "gesundheit", "schlaf-regeneration", "Wie schläfst du trotz Schichtarbeit besser?", 4, 2, [BAUA, DGSM],

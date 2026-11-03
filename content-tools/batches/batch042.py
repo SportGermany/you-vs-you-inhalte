@@ -1,4 +1,4 @@
-"""Batch 042: 21 Lektionen, Schwerpunkt Gesundheit und Geschichte.
+"""Batch 042: 20 Lektionen (Doppelungen entfernt), Schwerpunkt Gesundheit und Geschichte.
 Aufruf: python3 content-tools/batches/batch042.py
 """
 import os, sys
@@ -53,37 +53,6 @@ L.append(lektion(
      "Sie liefern Eiweiß, Ballaststoffe und Mineralstoffe.",
      "Sie sind von Natur aus glutenfrei.",
      "Buchweizen ist eine heimische Alternative zu Quinoa."]))
-
-L.append(lektion(
-    "ern-b042-02", "gesundheit", "ernaehrung-langlebigkeit", "Was ist der Unterschied zwischen Mindesthaltbarkeit und Verbrauchsdatum?", 3, 3, [BZFE, VZ],
-    ["verbrauchsdatum", "haltbarkeit", "lebensmittelsicherheit"],
-    ["Auf Joghurt steht mindestens haltbar bis, auf Hackfleisch zu verbrauchen bis.",
-     "Der Unterschied ist wichtig für die Sicherheit."],
-    [("Mindestens haltbar bis",
-      ["Das Mindesthaltbarkeitsdatum markiert nicht das Ende der Genießbarkeit. Es gibt an, bis wann der Hersteller Geschmack und Qualität bei richtiger Lagerung zusichert.",
-       "Danach sind viele Lebensmittel oft noch gut. Schau, riech und probier, bevor du sie wegwirfst."],
-      None, 3),
-     ("Zu verbrauchen bis",
-      ["Das Verbrauchsdatum steht auf leicht verderblichen Lebensmitteln wie Hackfleisch, frischem Geflügel oder rohem Fisch. Danach können sich gefährliche Keime vermehrt haben.",
-       "Diese Lebensmittel solltest du nach Ablauf des Verbrauchsdatums nicht mehr essen, auch wenn sie noch gut aussehen."],
-      "Nach dem Verbrauchsdatum Lebensmittel nicht mehr essen.", 3),
-     ("Richtig lagern",
-      ["Beide Daten gelten nur bei richtiger Lagerung. Achte auf die angegebene Temperatur, besonders bei Fleisch und Fisch.",
-       "Unterbrich die Kühlkette nicht unnötig lange. Leicht Verderbliches gehört nach dem Einkauf schnell in den Kühlschrank."],
-      None, 3)],
-    None, None,
-    [("Was gibt das Mindesthaltbarkeitsdatum an?", "mc",
-      ["Bis wann Geschmack und Qualität zugesichert werden", "Ab wann das Lebensmittel giftig ist", "Den Herstellungstag", "Den Preis"], 0,
-      "Danach ist vieles oft noch gut."),
-     ("Auf welchen Lebensmitteln steht ein Verbrauchsdatum?", "mc",
-      ["Auf leicht verderblichen wie Hackfleisch", "Auf Nudeln", "Auf Zucker", "Auf Konserven"], 0,
-      "Danach können sich gefährliche Keime vermehren."),
-     ("Lebensmittel mit abgelaufenem Verbrauchsdatum kann man essen, wenn sie gut riechen.", "tf", None, 1,
-      "Falsch. Sie sollten nicht mehr gegessen werden.")],
-    ["Das Mindesthaltbarkeitsdatum ist kein Wegwerfdatum.",
-     "Das Verbrauchsdatum gilt für leicht Verderbliches.",
-     "Nach dem Verbrauchsdatum nicht mehr essen.",
-     "Beide Daten gelten nur bei richtiger Lagerung."]))
 
 # ---------------- Schlaf und Regeneration ----------------
 

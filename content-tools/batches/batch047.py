@@ -1,4 +1,4 @@
-"""Batch 047: 21 Lektionen, breit verteilt über alle Welten.
+"""Batch 047: 19 Lektionen (Doppelungen entfernt), breit verteilt über alle Welten.
 Aufruf: python3 content-tools/batches/batch047.py
 """
 import os, sys
@@ -25,40 +25,6 @@ APA = Q("Psychology Topics", "American Psychological Association", "https://www.
 L = []
 
 # ---------------- Ernährung und Langlebigkeit ----------------
-
-L.append(lektion(
-    "ern-b047-01", "gesundheit", "ernaehrung-langlebigkeit", "Ist Rohkost gesünder als gekochtes Gemüse?", 3, 3, [BZFE, DGE],
-    ["rohkost", "kochen", "gemuese"],
-    ["Rohes Gemüse gilt vielen als besonders gesund, weil beim Kochen Vitamine verloren gehen.",
-     "Ganz so einfach ist es aber nicht."],
-    [("Was beim Kochen verloren geht",
-      ["Hitzeempfindliche Vitamine wie Vitamin C und Folat nehmen beim Kochen ab. Wasserlösliche Stoffe gehen außerdem ins Kochwasser über.",
-       "Kurzes Dämpfen oder Dünsten mit wenig Wasser hält die Verluste gering. Wenn du Kochwasser für Soßen nutzt, bleiben gelöste Nährstoffe erhalten."],
-      None, 3),
-     ("Was durch Kochen gewinnt",
-      ["Manche Stoffe werden durch Erhitzen besser verfügbar. Das gilt etwa für Carotinoide aus Karotten oder Lycopin aus Tomaten.",
-       "Kochen macht viele Gemüse außerdem besser verdaulich. Hülsenfrüchte wie Bohnen dürfen nur gegart gegessen werden, weil sie roh giftige Stoffe enthalten."],
-      "Bohnen und andere Hülsenfrüchte nie roh essen.", 3),
-     ("Die Mischung machts",
-      ["Fachgesellschaften empfehlen, Gemüse sowohl roh als auch gegart zu essen. So profitierst du von den Vorteilen beider Zubereitungen.",
-       "Reine Rohkost über lange Zeit kann die Versorgung mit einigen Nährstoffen erschweren. Entscheidend ist vor allem, dass überhaupt viel Gemüse auf den Teller kommt."],
-      None, 3)],
-    None, None,
-    [("Welches Vitamin nimmt beim Kochen besonders ab?", "mc",
-      ["Vitamin C", "Vitamin D", "Vitamin K", "Retinol"], 0,
-      "Es ist hitzeempfindlich und wasserlöslich."),
-     ("Welcher Stoff wird durch Erhitzen besser verfügbar?", "mc",
-      ["Vitamin C", "Folat", "Carotinoide aus Karotten", "Zucker"], 2,
-      "Auch Lycopin aus Tomaten gehört dazu."),
-     ("Was empfehlen Fachgesellschaften?", "mc",
-      ["Nur Rohkost", "Nur gekochtes Gemüse", "Gemüse roh und gegart essen", "Möglichst wenig Gemüse"], 2,
-      "So kombinierst du die Vorteile."),
-     ("Rohe Bohnen können giftig sein.", "tf", None, 0,
-      "Richtig. Sie dürfen nur gegart gegessen werden.")],
-    ["Kochen verringert hitzeempfindliche Vitamine.",
-     "Manche Stoffe werden durch Erhitzen besser verfügbar.",
-     "Hülsenfrüchte nur gegart essen.",
-     "Am besten Gemüse roh und gegart kombinieren."]))
 
 L.append(lektion(
     "ern-b047-02", "gesundheit", "ernaehrung-langlebigkeit", "Was sind Antinährstoffe?", 3, 2, [BFR, BZFE],
@@ -619,39 +585,6 @@ L.append(lektion(
      "Bei Hagelwarnung Schutz in Gebäuden suchen."]))
 
 # ---------------- Psychologie und Gehirn ----------------
-
-L.append(lektion(
-    "gew-b047-01", "psychologie-gehirn", "gewohnheiten", "Warum schieben wir Aufgaben auf?", 3, 2, [APA],
-    ["prokrastination", "aufschieben", "gefuehle"],
-    ["Die Steuererklärung wartet, doch plötzlich wirkt Fensterputzen sehr verlockend.",
-     "Aufschieben kennt fast jeder. Fachleute nennen es Prokrastination."],
-    [("Mehr Gefühl als Faulheit",
-      ["Prokrastination ist meist kein Zeichen von Faulheit. Forschende beschreiben sie oft als Versuch, unangenehme Gefühle zu vermeiden. Dazu gehören Langeweile, Unsicherheit oder Angst vor dem Scheitern.",
-       "Das Aufschieben bringt kurzfristig Erleichterung. Langfristig wächst aber der Druck."],
-      None, 2),
-     ("Was es verstärkt",
-      ["Aufgaben, die groß, unklar oder weit entfernt sind, schieben wir besonders gern auf. Auch Perfektionismus kann eine Rolle spielen.",
-       "Ablenkungen in Reichweite wie das Handy machen das Ausweichen besonders leicht."],
-      None, 2),
-     ("Was helfen kann",
-      ["Zerlege große Aufgaben in einen ersten, sehr konkreten Schritt. Lege fest, wann und wo du ihn erledigst.",
-       "Studien deuten darauf hin, dass ein freundlicher Umgang mit sich selbst hilft. Wer sich für früheres Aufschieben verzeiht, schiebt danach eher weniger auf."],
-      "Mit einem kleinen, konkreten Schritt anfangen.", 2)],
-    ("Prokrastination ist einfach Faulheit.", "mythos",
-     "Wer aufschiebt, ist oft sogar sehr beschäftigt, nur mit anderen Dingen. Meist geht es eher darum, unangenehme Gefühle rund um die anstehende Aufgabe zu vermeiden."),
-    None,
-    [("Wie beschreiben Forschende Prokrastination oft?", "mc",
-      ["Als Faulheit", "Als Versuch, unangenehme Gefühle zu vermeiden", "Als Schlafproblem", "Als Vitaminmangel"], 1,
-      "Kurzfristig bringt sie Erleichterung."),
-     ("Welche Aufgaben schieben wir besonders gern auf?", "mc",
-      ["Kleine und klare", "Große, unklare oder weit entfernte", "Angenehme", "Solche mit sofortiger Belohnung"], 1,
-      "Deshalb hilft es, sie zu zerlegen."),
-     ("Sich selbst für früheres Aufschieben zu verzeihen, kann helfen.", "tf", None, 0,
-      "Richtig. Darauf deuten Studien hin.")],
-    ["Aufschieben dient oft der Vermeidung unangenehmer Gefühle.",
-     "Große, unklare Aufgaben schieben wir besonders gern auf.",
-     "Ein konkreter erster Schritt hilft.",
-     "Freundlichkeit mit sich selbst wirkt besser als Selbstvorwürfe."]))
 
 L.append(lektion(
     "lern-b047-01", "psychologie-gehirn", "lernen-gedaechtnis", "Warum braucht Lernen Rückmeldung?", 3, 2, [APA],

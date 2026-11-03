@@ -1,0 +1,121 @@
+{
+  "id": "geld-b048-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was bedeutet der Leitzins für dein Geld?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldpolitik",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "leitzins",
+    "ezb",
+    "zinsen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten heißt es: Die EZB erhöht oder senkt den Leitzins.",
+        "Das klingt weit weg, betrifft aber dein Konto und deinen Kredit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Zins der Banken",
+      "absaetze": [
+        "Der Leitzins ist der Zinssatz, zu dem sich Banken Geld bei der Zentralbank leihen oder dort anlegen. Im Euroraum legt ihn die Europäische Zentralbank fest.",
+        "Ändert sich der Leitzins, geben Banken das meist an ihre Kundschaft weiter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auswirkungen im Alltag",
+      "absaetze": [
+        "Steigt der Leitzins, gibt es meist mehr Zinsen auf Tagesgeld und Festgeld. Kredite und Baufinanzierungen werden dagegen teurer.",
+        "Sinkt der Leitzins, wird Sparen weniger attraktiv. Dafür werden Kredite günstiger. Bestehende Kredite mit festem Zins ändern sich aber nicht."
+      ],
+      "merke": "Höherer Leitzins: mehr Sparzinsen, teurere Kredite."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ziel: stabile Preise",
+      "absaetze": [
+        "Die EZB nutzt den Leitzins vor allem, um die Inflation zu steuern. Ihr Ziel ist eine Inflationsrate von zwei Prozent auf mittlere Sicht.",
+        "Höhere Zinsen bremsen Kredite und Ausgaben. Das dämpft die Nachfrage und damit den Preisanstieg. Niedrige Zinsen sollen die Wirtschaft dagegen ankurbeln."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer legt den Leitzins im Euroraum fest?",
+      "art": "mc",
+      "optionen": [
+        "Die Bundesregierung",
+        "Die Europäische Zentralbank",
+        "Jede Sparkasse selbst",
+        "Der Bundestag"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sie sitzt in Frankfurt am Main."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert meist, wenn der Leitzins steigt?",
+      "art": "mc",
+      "optionen": [
+        "Sparzinsen steigen, Kredite werden teurer",
+        "Kredite werden billiger",
+        "Alle Preise sinken sofort",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Banken geben die Änderung weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Inflationsziel verfolgt die EZB?",
+      "art": "mc",
+      "optionen": [
+        "Null Prozent",
+        "Zwei Prozent auf mittlere Sicht",
+        "Zehn Prozent",
+        "Kein Ziel"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Leitzins ist ihr wichtigstes Werkzeug."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kredit mit fest vereinbartem Zins wird bei steigendem Leitzins sofort teurer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der feste Zins bleibt für die vereinbarte Zeit gleich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Leitzins ist der Zins für Banken bei der Zentralbank.",
+        "Im Euroraum legt ihn die EZB fest.",
+        "Höhere Leitzinsen bringen mehr Sparzinsen und teurere Kredite.",
+        "Die EZB steuert damit die Inflation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b048-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was sind Ketonkörper?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes und Stoffwechsel",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.ddg.info",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ketonkoerper",
+    "fettstoffwechsel",
+    "diabetes"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fehlen dem Körper Kohlenhydrate, schaltet er auf einen Notfallplan um.",
+        "Dabei entstehen Ketonkörper."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie aus Fett",
+      "absaetze": [
+        "Normalerweise nutzt das Gehirn vor allem Zucker. Bei langem Fasten oder sehr wenig Kohlenhydraten bildet die Leber aus Fettsäuren Ketonkörper.",
+        "Diese Stoffe kann auch das Gehirn als Energiequelle nutzen. Dieser Zustand heißt Ketose. Bei gesunden Menschen ist er eine normale Anpassung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Am Atem zu riechen",
+      "absaetze": [
+        "Einer der Ketonkörper ist Aceton. Er wird teilweise abgeatmet. Deshalb kann der Atem in der Ketose leicht fruchtig oder nach Nagellackentferner riechen.",
+        "Ketonkörper lassen sich auch im Urin oder Blut messen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr bei Insulinmangel",
+      "absaetze": [
+        "Bei Menschen mit Typ-1-Diabetes kann ein starker Insulinmangel zu sehr vielen Ketonkörpern führen. Das Blut wird dann übersäuert. Fachleute sprechen von einer diabetischen Ketoazidose.",
+        "Das ist ein Notfall. Anzeichen sind starker Durst, Übelkeit, Bauchschmerzen und tiefe, schnelle Atmung. Dann ist sofort ärztliche Hilfe nötig."
+      ],
+      "merke": "Eine Ketoazidose ist ein medizinischer Notfall.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo werden Ketonkörper gebildet?",
+      "art": "mc",
+      "optionen": [
+        "In der Leber",
+        "Im Magen",
+        "In der Lunge",
+        "In der Haut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Leber bildet sie aus Fettsäuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Ketonkörper kann den Atem riechen lassen?",
+      "art": "mc",
+      "optionen": [
+        "Zucker",
+        "Aceton",
+        "Kochsalz",
+        "Koffein"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Geruch erinnert an Nagellackentferner."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine diabetische Ketoazidose?",
+      "art": "mc",
+      "optionen": [
+        "Eine harmlose Diät",
+        "Eine Übersäuerung des Blutes durch Insulinmangel",
+        "Ein Vitaminmangel",
+        "Ein Sportprogramm"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sie ist ein Notfall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch das Gehirn kann Ketonkörper als Energiequelle nutzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist eine normale Anpassung beim Fasten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ketonkörper entstehen bei Kohlenhydratmangel aus Fett.",
+        "Das Gehirn kann sie als Energie nutzen.",
+        "Aceton kann den Atem riechen lassen.",
+        "Bei Insulinmangel droht eine gefährliche Ketoazidose.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

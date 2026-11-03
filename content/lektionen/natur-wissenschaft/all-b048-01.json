@@ -1,0 +1,124 @@
+{
+  "id": "all-b048-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Quasar?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "quasare",
+    "schwarze-loecher",
+    "galaxien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Quasare gehören zu den hellsten Objekten im Universum.",
+        "Dabei sind sie so weit entfernt, dass ihr Licht Milliarden Jahre zu uns unterwegs war."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Rätsel aus den 1960er-Jahren",
+      "absaetze": [
+        "Anfang der 1960er-Jahre entdeckten Astronomen sternartige Punkte, die starke Radiostrahlung aussandten. Man nannte sie quasistellare Radioquellen, kurz Quasare.",
+        "1963 zeigte der Astronom Maarten Schmidt, dass einer davon extrem weit entfernt ist. Er musste also unvorstellbar hell leuchten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein hungriges Schwarzes Loch",
+      "absaetze": [
+        "Heute weiß man: Im Zentrum eines Quasars sitzt ein supermassereiches Schwarzes Loch. Es ist Millionen bis Milliarden Mal so schwer wie die Sonne.",
+        "Gas und Staub kreisen in einer Scheibe darum und heizen sich stark auf, bevor sie hineinstürzen. Diese Scheibe strahlt heller als alle Sterne der umgebenden Galaxie zusammen."
+      ],
+      "merke": "Quasare werden von supermassereichen Schwarzen Löchern angetrieben.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Blick in die Vergangenheit",
+      "absaetze": [
+        "Weil Quasare so weit entfernt sind, sehen wir sie, wie sie vor Milliarden Jahren waren. Im frühen Universum waren sie viel häufiger als heute.",
+        "Forschende nutzen Quasare deshalb, um mehr über die Entstehung von Galaxien zu erfahren."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sitzt im Zentrum eines Quasars?",
+      "art": "mc",
+      "optionen": [
+        "Ein supermassereiches Schwarzes Loch",
+        "Ein Planet",
+        "Ein Komet",
+        "Ein Weißer Zwerg"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist Millionen bis Milliarden Mal so schwer wie die Sonne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum leuchten Quasare so hell?",
+      "art": "mc",
+      "optionen": [
+        "Sie bestehen aus Eis",
+        "Gas heizt sich in einer Scheibe um das Schwarze Loch auf",
+        "Sie spiegeln Sonnenlicht",
+        "Sie sind sehr nah"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Scheibe strahlt heller als eine ganze Galaxie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann waren Quasare besonders häufig?",
+      "art": "mc",
+      "optionen": [
+        "Im frühen Universum",
+        "Erst seit dem Jahr 2000",
+        "Nur in unserer Milchstraße",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wir sehen sie, wie sie vor Milliarden Jahren waren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Quasare liegen ganz in der Nähe unseres Sonnensystems.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind extrem weit entfernt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Quasare gehören zu den hellsten Objekten im All.",
+        "Sie werden von supermassereichen Schwarzen Löchern angetrieben.",
+        "Ihr Licht war Milliarden Jahre unterwegs.",
+        "Sie helfen, die Entstehung von Galaxien zu verstehen."
+      ]
+    }
+  ]
+}

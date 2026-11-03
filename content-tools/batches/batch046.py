@@ -1,4 +1,4 @@
-"""Batch 046: 21 Lektionen, breit verteilt über alle Welten.
+"""Batch 046: 20 Lektionen (Doppelungen entfernt), breit verteilt über alle Welten.
 Aufruf: python3 content-tools/batches/batch046.py
 """
 import os, sys
@@ -198,39 +198,6 @@ L.append(lektion(
      "Die Laktatschwelle hilft bei der Trainingsplanung."]))
 
 # ---------------- Supplements ----------------
-
-L.append(lektion(
-    "supp-b046-01", "gesundheit", "supplements", "Ist zusätzliches Vitamin E sinnvoll?", 3, 3, [BFR, DGE],
-    ["vitamin-e", "antioxidantien", "nahrungsergaenzung"],
-    ["Vitamin E gilt als Zellschutz-Vitamin und steckt in vielen Präparaten.",
-     "Große Studien haben die Erwartungen aber enttäuscht."],
-    [("Woher Vitamin E kommt",
-      ["Vitamin E ist fettlöslich. Gute Quellen sind Pflanzenöle wie Weizenkeim-, Sonnenblumen- und Rapsöl sowie Nüsse und Samen.",
-       "Ein Mangel ist bei gesunden Menschen mit gemischter Kost selten. Er kommt vor allem bei bestimmten Krankheiten vor, die die Fettaufnahme stören."],
-      None, 3),
-     ("Was große Studien zeigten",
-      ["Vitamin E wirkt im Labor als Antioxidans. Deshalb hoffte man, Präparate könnten Herzkrankheiten oder Krebs verhindern.",
-       "Große Studien fanden diesen Nutzen nicht. Eine große Studie in den USA fand bei Männern mit Vitamin-E-Präparaten sogar ein etwas höheres Risiko für Prostatakrebs."],
-      "Ein Schutz vor Herzkrankheiten oder Krebs ist nicht belegt.", 3),
-     ("Vorsicht bei hohen Mengen",
-      ["Hohe Mengen Vitamin E können die Blutgerinnung beeinflussen. Das ist besonders für Menschen relevant, die blutverdünnende Medikamente brauchen.",
-       "Das Bundesinstitut für Risikobewertung rät, die Gesamtmenge aus Präparaten zu begrenzen. Über Lebensmittel ist eine Überversorgung kaum möglich."],
-      None, 3)],
-    None, None,
-    [("In welchen Lebensmitteln steckt viel Vitamin E?", "mc",
-      ["In Pflanzenölen und Nüssen", "In Zucker", "In Wasser", "Nur in Fleisch"], 0,
-      "Weizenkeimöl ist besonders reich daran."),
-     ("Was zeigten große Studien zu Vitamin-E-Präparaten?", "mc",
-      ["Einen klaren Schutz vor Krebs", "Keinen Nutzen gegen Herzkrankheiten oder Krebs", "Ein deutlich längeres Leben", "Bessere Sehkraft bei allen"], 1,
-      "Eine Studie fand sogar ein etwas höheres Prostatakrebsrisiko."),
-     ("Hohe Mengen Vitamin E können die Blutgerinnung beeinflussen.", "tf", None, 0,
-      "Richtig. Das ist bei Blutverdünnern wichtig.")],
-    ["Vitamin E steckt in Pflanzenölen, Nüssen und Samen.",
-     "Ein Mangel ist bei gesunden Menschen selten.",
-     "Große Studien fanden keinen Schutz vor Krankheiten.",
-     "Hohe Mengen können die Blutgerinnung beeinflussen."],
-    beachten=["Bei Blutverdünnern Vitamin-E-Präparate nur nach ärztlicher Rücksprache verwenden.",
-              "Die Gesamtmenge aus allen Präparaten im Blick behalten."]))
 
 # ---------------- Geopolitik ----------------
 

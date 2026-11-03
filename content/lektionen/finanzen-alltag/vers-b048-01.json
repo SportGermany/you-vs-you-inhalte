@@ -1,0 +1,114 @@
+{
+  "id": "vers-b048-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Darf die Versicherung nach einem Schaden kündigen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Versicherungswissen",
+      "herausgeber": "Gesamtverband der Versicherer (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuendigung",
+    "schadenfall",
+    "versicherungsvertrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Wasserschaden ist reguliert, und kurz darauf kommt die Kündigung der Versicherung.",
+        "Das ist bei vielen Verträgen tatsächlich erlaubt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kündigungsrecht nach dem Schadenfall",
+      "absaetze": [
+        "Bei vielen Sach- und Haftpflichtversicherungen dürfen nach einem Schaden beide Seiten den Vertrag kündigen. Das gilt etwa für Hausrat-, Wohngebäude-, Privathaftpflicht- und Kfz-Versicherungen.",
+        "Die Kündigung muss meist innerhalb eines Monats nach Abschluss der Schadenregulierung erfolgen. Die genauen Regeln stehen im Vertrag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch du kannst kündigen",
+      "absaetze": [
+        "Das Sonderkündigungsrecht gilt in der Regel auch für dich. Warst du mit der Abwicklung unzufrieden, kannst du so zu einem anderen Anbieter wechseln.",
+        "Kündigt der Versicherer, muss er meist eine Frist einhalten. So hast du Zeit, einen neuen Vertrag abzuschließen."
+      ],
+      "merke": "Nach einem Schaden haben oft beide Seiten ein Kündigungsrecht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klug mit Kleinschäden umgehen",
+      "absaetze": [
+        "Wer viele kleine Schäden meldet, gilt für Versicherer schnell als teures Risiko. Bei sehr kleinen Beträgen kann es sich lohnen, sie selbst zu zahlen.",
+        "Wichtige Schäden solltest du aber immer melden. Nach einer Kündigung durch den Versicherer musst du einem neuen Anbieter die Vorschäden meist angeben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer darf nach einem Schadenfall kündigen?",
+      "art": "mc",
+      "optionen": [
+        "Nur der Versicherer",
+        "Nur der Kunde",
+        "Bei vielen Verträgen beide Seiten",
+        "Niemand"
+      ],
+      "richtig": 2,
+      "erklaerung": "Das gilt etwa für Hausrat und Haftpflicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Innerhalb welcher Frist muss die Kündigung meist erfolgen?",
+      "art": "mc",
+      "optionen": [
+        "Innerhalb eines Monats nach der Regulierung",
+        "Innerhalb von zehn Jahren",
+        "Am selben Tag",
+        "Jederzeit ohne Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die genauen Regeln stehen im Vertrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei sehr kleinen Schäden kann es sich lohnen, sie selbst zu zahlen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Viele Meldungen machen dich zum teuren Risiko."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach einem Schaden dürfen oft beide Seiten kündigen.",
+        "Die Frist beträgt meist einen Monat nach der Regulierung.",
+        "Auch du kannst so den Anbieter wechseln.",
+        "Kleinschäden selbst zu zahlen, kann sinnvoll sein."
+      ]
+    }
+  ]
+}

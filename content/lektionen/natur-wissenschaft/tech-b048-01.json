@@ -1,0 +1,124 @@
+{
+  "id": "tech-b048-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie erzeugt eine LED Licht?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Flächenverbrauch und Boden",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "led",
+    "halbleiter",
+    "beleuchtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "LEDs stecken heute in Lampen, Bildschirmen und Autoscheinwerfern.",
+        "Sie erzeugen Licht ganz anders als eine alte Glühbirne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht aus einem Halbleiter",
+      "absaetze": [
+        "LED steht für Leuchtdiode. Sie besteht aus einem Halbleiter, einem Material, das Strom nur unter bestimmten Bedingungen leitet.",
+        "Fließt Strom hindurch, treffen im Inneren Elektronen auf freie Plätze im Material. Dabei geben sie Energie in Form von Licht ab. Welche Farbe entsteht, hängt vom verwendeten Material ab."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weißes Licht",
+      "absaetze": [
+        "Für weißes Licht nutzen die meisten Lampen eine blaue LED mit einer Leuchtstoffschicht. Der Leuchtstoff wandelt einen Teil des blauen Lichts in gelbes um. Zusammen wirkt es weiß.",
+        "Für die Entwicklung der hellen blauen LED erhielten drei Forscher 2014 den Physik-Nobelpreis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sparsam und langlebig",
+      "absaetze": [
+        "Eine Glühbirne wandelt den größten Teil des Stroms in Wärme um. LEDs erzeugen bei gleicher Helligkeit deutlich mehr Licht pro Watt.",
+        "Sie halten außerdem viele Jahre. Achte beim Kauf auf die Helligkeit in Lumen und die Lichtfarbe in Kelvin. Warmweißes Licht hat niedrige Kelvinwerte."
+      ],
+      "merke": "Auf Lumen und Kelvin achten, nicht auf Watt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht LED?",
+      "art": "mc",
+      "optionen": [
+        "Leuchtdiode",
+        "Lichtelement-Draht",
+        "Lampe mit Energiedämpfer",
+        "Lauflicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie besteht aus einem Halbleiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht weißes LED-Licht meist?",
+      "art": "mc",
+      "optionen": [
+        "Mit einer blauen LED und Leuchtstoff",
+        "Mit einem glühenden Draht",
+        "Mit einer Kerze",
+        "Mit Neon-Gas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Leuchtstoff wandelt Blau teils in Gelb um."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf solltest du beim Kauf für die Helligkeit achten?",
+      "art": "mc",
+      "optionen": [
+        "Auf Watt",
+        "Auf Lumen",
+        "Auf das Gewicht",
+        "Auf die Farbe der Verpackung"
+      ],
+      "richtig": 1,
+      "erklaerung": "Kelvin gibt die Lichtfarbe an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Glühbirnen wandeln den Großteil des Stroms in Wärme um.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. LEDs sind deutlich effizienter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "LEDs erzeugen Licht in einem Halbleiter.",
+        "Weißes Licht entsteht meist aus Blau und Leuchtstoff.",
+        "LEDs sind viel effizienter als Glühbirnen.",
+        "Beim Kauf auf Lumen und Kelvin achten."
+      ]
+    }
+  ]
+}

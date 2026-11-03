@@ -1,0 +1,124 @@
+{
+  "id": "umw-b048-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist Flächenversiegelung ein Problem?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Flächenverbrauch und Boden",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "versiegelung",
+    "boden",
+    "starkregen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Straßen, Parkplätze und Gebäude bedecken immer mehr Boden.",
+        "Was darunter liegt, kann seine Aufgaben nicht mehr erfüllen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Versiegelung bedeutet",
+      "absaetze": [
+        "Ein Boden gilt als versiegelt, wenn er mit Asphalt, Beton, Pflaster oder Gebäuden bedeckt ist. Wasser und Luft kommen dann kaum noch hinein.",
+        "In Deutschland werden jeden Tag große Flächen neu für Siedlungen und Verkehr genutzt. Die Bundesregierung will diesen Flächenverbrauch bis 2030 auf unter 30 Hektar pro Tag senken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für Wasser und Hitze",
+      "absaetze": [
+        "Auf versiegelten Flächen kann Regen nicht versickern. Bei Starkregen läuft das Wasser schnell ab und kann Keller und Straßen überfluten. Gleichzeitig bildet sich weniger neues Grundwasser.",
+        "Asphalt und Beton speichern Wärme. Städte mit wenig Grün heizen sich im Sommer deshalb stärker auf."
+      ],
+      "merke": "Versiegelte Flächen verstärken Überflutung und Hitze.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Entsiegelung gibt dem Boden seine Funktionen teilweise zurück. Rasengittersteine, Grünflächen und begrünte Dächer lassen Wasser versickern oder speichern es.",
+        "Auch im eigenen Garten zählt jeder Quadratmeter. Ein bepflanzter Garten nimmt mehr Wasser auf als ein Schottergarten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gilt ein Boden als versiegelt?",
+      "art": "mc",
+      "optionen": [
+        "Wenn er mit Asphalt, Beton oder Gebäuden bedeckt ist",
+        "Wenn er gedüngt wird",
+        "Wenn es regnet",
+        "Wenn er im Winter gefriert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser und Luft kommen dann kaum hinein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei Starkregen auf versiegelten Flächen?",
+      "art": "mc",
+      "optionen": [
+        "Das Wasser versickert schneller",
+        "Das Wasser läuft schnell ab und kann überfluten",
+        "Es bildet sich mehr Grundwasser",
+        "Nichts"
+      ],
+      "richtig": 1,
+      "erklaerung": "Regen kann nicht versickern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welchen Wert will die Bundesregierung den täglichen Flächenverbrauch bis 2030 senken?",
+      "art": "mc",
+      "optionen": [
+        "Unter 3 Hektar",
+        "Unter 30 Hektar",
+        "Unter 300 Hektar",
+        "Es gibt kein Ziel"
+      ],
+      "richtig": 1,
+      "erklaerung": "Gemeint ist neue Fläche für Siedlung und Verkehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Schottergarten nimmt mehr Wasser auf als ein bepflanzter Garten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Pflanzen und offener Boden speichern mehr Wasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Versiegelter Boden ist von Asphalt, Beton oder Gebäuden bedeckt.",
+        "Regen kann dort nicht versickern.",
+        "Städte heizen sich durch Versiegelung stärker auf.",
+        "Entsiegelung und Grünflächen helfen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "stoff-b048-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum schwankt das Körpergewicht von Tag zu Tag?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Adipositas und Stoffwechsel",
+      "herausgeber": "Deutsche Adipositas-Gesellschaft",
+      "url": "https://adipositas-gesellschaft.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "koerpergewicht",
+    "wasser",
+    "waage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Gestern zeigte die Waage ein Kilo weniger, heute ein Kilo mehr.",
+        "Solche Sprünge haben meist wenig mit Fett zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser macht den Unterschied",
+      "absaetze": [
+        "Der Körper besteht zu einem großen Teil aus Wasser. Wie viel davon gespeichert wird, ändert sich ständig.",
+        "Eine salzige Mahlzeit lässt den Körper mehr Wasser zurückhalten. Auch kohlenhydratreiches Essen füllt die Glykogenspeicher, die viel Wasser binden. Schwankungen von ein bis zwei Kilogramm innerhalb weniger Tage sind deshalb normal."
+      ],
+      "merke": "Ein bis zwei Kilo Schwankung sind normal.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Einflüsse",
+      "absaetze": [
+        "Der Inhalt von Magen und Darm wiegt ebenfalls mit. Bei vielen Frauen lagert der Körper je nach Zyklusphase mehr Wasser ein.",
+        "Nach ungewohntem Sport halten die Muskeln vorübergehend Wasser zurück, um sich zu reparieren. Auch Hitze und manche Medikamente beeinflussen den Wasserhaushalt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gelassen bleiben",
+      "absaetze": [
+        "Ein einzelner Wert sagt wenig aus. Wenn du dich wiegst, dann zur gleichen Tageszeit und unter gleichen Bedingungen. Aussagekräftiger ist der Verlauf über mehrere Wochen.",
+        "Wenn dich das Wiegen stark belastet, darfst du es auch lassen. Wohlbefinden, Kraft und Energie sind ebenfalls wichtige Zeichen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Hauptursache für tägliche Gewichtsschwankungen?",
+      "art": "mc",
+      "optionen": [
+        "Wasser",
+        "Fett",
+        "Knochen",
+        "Haare"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie viel Wasser gespeichert wird, ändert sich ständig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was lässt den Körper mehr Wasser zurückhalten?",
+      "art": "mc",
+      "optionen": [
+        "Eine salzige Mahlzeit",
+        "Ein Spaziergang",
+        "Schlaf",
+        "Ein Glas Wasser weniger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Kohlenhydrate binden über Glykogen Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist aussagekräftiger als ein einzelner Wert?",
+      "art": "mc",
+      "optionen": [
+        "Der Wert nach dem Essen",
+        "Der Verlauf über mehrere Wochen",
+        "Das Gewicht von Freunden",
+        "Der Wert am Abend nach dem Sport"
+      ],
+      "richtig": 1,
+      "erklaerung": "Am besten unter gleichen Bedingungen wiegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kilo mehr über Nacht bedeutet ein Kilo mehr Fett.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist ist es Wasser oder Darminhalt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tägliche Schwankungen kommen vor allem von Wasser.",
+        "Salz und Kohlenhydrate erhöhen die Wassereinlagerung.",
+        "Auch Zyklus, Sport und Darminhalt spielen mit.",
+        "Der Verlauf über Wochen sagt mehr als ein Wert.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

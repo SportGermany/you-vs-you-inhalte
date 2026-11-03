@@ -1,0 +1,127 @@
+{
+  "id": "haus-b048-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bewahrst du Brot richtig auf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "brot",
+    "lagerung",
+    "schimmel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frisches Brot wird schnell trocken oder schimmelt.",
+        "Mit der richtigen Lagerung hält es länger, und du wirfst weniger weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht in den Kühlschrank",
+      "absaetze": [
+        "Im Kühlschrank wird Brot schneller altbacken. Bei diesen Temperaturen verändert sich die Stärke im Brot besonders rasch, und es wird hart.",
+        "Besser ist ein Brotkasten aus Holz, Ton oder Emaille bei Raumtemperatur. Er sollte kleine Luftlöcher haben, damit sich keine Feuchtigkeit staut."
+      ],
+      "merke": "Brot gehört nicht in den Kühlschrank."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sorte und Einfrieren",
+      "absaetze": [
+        "Roggenbrot und Sauerteigbrot halten meist länger frisch als helles Weizenbrot. Brötchen sind oft schon nach einem Tag trocken.",
+        "Was du nicht bald isst, kannst du gut einfrieren. In Scheiben geschnitten kannst du einzelne Portionen direkt toasten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bei Schimmel konsequent sein",
+      "absaetze": [
+        "Zeigt sich Schimmel auf dem Brot, gehört das ganze Brot in den Müll. Die Pilzfäden können sich unsichtbar im ganzen Brot ausbreiten.",
+        "Reinige den Brotkasten danach gründlich, zum Beispiel mit Essigwasser. So verhinderst du, dass das nächste Brot auch schimmelt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gehört Brot nicht in den Kühlschrank?",
+      "art": "mc",
+      "optionen": [
+        "Es wird dort schneller altbacken",
+        "Es wird zu süß",
+        "Es schimmelt sofort",
+        "Es verliert die Farbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Stärke verändert sich bei Kühlschranktemperatur schnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Brot hält meist länger frisch?",
+      "art": "mc",
+      "optionen": [
+        "Helles Weizenbrot",
+        "Brötchen",
+        "Roggen- und Sauerteigbrot",
+        "Toast ohne Verpackung"
+      ],
+      "richtig": 2,
+      "erklaerung": "Sauerteig hält Brot länger frisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du, wenn eine Brotscheibe schimmelt?",
+      "art": "mc",
+      "optionen": [
+        "Die Stelle abschneiden",
+        "Das ganze Brot wegwerfen",
+        "Das Brot toasten",
+        "Das Brot in den Kühlschrank legen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Pilzfäden können sich unsichtbar ausbreiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brot lässt sich gut in Scheiben einfrieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So kannst du Portionen direkt toasten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Brot im Brotkasten bei Raumtemperatur lagern.",
+        "Der Kühlschrank macht Brot schneller altbacken.",
+        "In Scheiben eingefroren hält Brot lange.",
+        "Bei Schimmel das ganze Brot entsorgen."
+      ]
+    }
+  ]
+}

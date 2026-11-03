@@ -1,0 +1,133 @@
+{
+  "id": "supp-b048-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Wann schützen Jodtabletten bei einem Atomunfall?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Jodtabletten",
+      "herausgeber": "Bundesamt für Strahlenschutz (BfS)",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "jodtabletten",
+    "strahlenschutz",
+    "schilddruese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem schweren Unfall in einem Atomkraftwerk können Behörden Jodtabletten ausgeben.",
+        "Wichtig ist zu wissen, was sie können und was nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz für die Schilddrüse",
+      "absaetze": [
+        "Bei einem Atomunfall kann radioaktives Jod freigesetzt werden. Die Schilddrüse nimmt Jod auf und speichert es. Radioaktives Jod kann dort Krebs verursachen.",
+        "Hoch dosierte Jodtabletten sättigen die Schilddrüse mit normalem Jod. Dann nimmt sie kaum noch radioaktives Jod auf. Fachleute nennen das Jodblockade."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur auf Aufforderung",
+      "absaetze": [
+        "Die Tabletten wirken nur, wenn sie zum richtigen Zeitpunkt verwendet werden. Deshalb sollen sie nur nach ausdrücklicher Aufforderung durch die Behörden angewendet werden.",
+        "Sie schützen ausschließlich die Schilddrüse und nur vor radioaktivem Jod. Gegen andere radioaktive Stoffe helfen sie nicht."
+      ],
+      "merke": "Jodtabletten nur nach Aufforderung der Behörden anwenden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für alle gedacht",
+      "absaetze": [
+        "Kinder, Jugendliche und Schwangere profitieren am meisten. Menschen über 45 Jahren wird davon abgeraten, weil das Risiko von Nebenwirkungen an der Schilddrüse größer ist als der Nutzen.",
+        "Jodsalz oder jodhaltige Nahrungsergänzungsmittel bieten keinen Schutz bei einem Atomunfall. Die Mengen sind dafür viel zu gering."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Jodtabletten nur nach ausdrücklicher Aufforderung der Behörden anwenden.",
+        "Bei Schilddrüsenerkrankungen vorab ärztlichen Rat einholen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Organ schützen Jodtabletten?",
+      "art": "mc",
+      "optionen": [
+        "Die Lunge",
+        "Die Schilddrüse",
+        "Die Haut",
+        "Das Herz"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sie verhindern die Aufnahme von radioaktivem Jod."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollen Jodtabletten angewendet werden?",
+      "art": "mc",
+      "optionen": [
+        "Vorsorglich jeden Tag",
+        "Nur nach Aufforderung durch die Behörden",
+        "Bei jeder Erkältung",
+        "Nach Belieben"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der richtige Zeitpunkt ist entscheidend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem wird von Jodtabletten abgeraten?",
+      "art": "mc",
+      "optionen": [
+        "Kindern",
+        "Schwangeren",
+        "Menschen über 45 Jahren",
+        "Jugendlichen"
+      ],
+      "richtig": 2,
+      "erklaerung": "Bei ihnen überwiegt das Risiko von Nebenwirkungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jodsalz schützt bei einem Atomunfall ausreichend.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Jodmenge ist viel zu gering."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Jodtabletten verhindern die Aufnahme von radioaktivem Jod in die Schilddrüse.",
+        "Sie wirken nur gegen radioaktives Jod.",
+        "Sie dürfen nur nach Aufforderung der Behörden angewendet werden.",
+        "Menschen über 45 wird davon abgeraten."
+      ]
+    }
+  ]
+}

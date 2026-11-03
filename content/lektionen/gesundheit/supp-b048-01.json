@@ -1,0 +1,126 @@
+{
+  "id": "supp-b048-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Glutamin zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glutamin",
+    "aminosaeuren",
+    "sport"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Glutamin wird in Sportshops als Hilfe für Muskeln und Abwehr angeboten.",
+        "Was steckt hinter dem Versprechen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine häufige Aminosäure",
+      "absaetze": [
+        "Glutamin ist ein Baustein von Eiweiß und die häufigste Aminosäure im Blut. Der Körper kann sie selbst in ausreichender Menge herstellen.",
+        "Über eiweißhaltige Lebensmittel wie Fleisch, Milchprodukte und Hülsenfrüchte kommt zusätzlich Glutamin hinzu."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein belegter Nutzen beim Training",
+      "absaetze": [
+        "Studien mit gesunden Sportlerinnen und Sportlern deuten darauf hin, dass zusätzliches Glutamin weder Muskelaufbau noch Leistung verbessert.",
+        "Auch ein Schutz vor Infekten nach hartem Training ist bei Gesunden nicht überzeugend belegt."
+      ],
+      "merke": "Bei Gesunden ist kein Nutzen für Muskeln belegt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Medizinische Sonderfälle",
+      "absaetze": [
+        "In der Klinik wird Glutamin bei bestimmten schweren Erkrankungen manchmal in der künstlichen Ernährung eingesetzt. Auch dort ist der Nutzen umstritten.",
+        "Das lässt sich nicht auf gesunde Menschen übertragen. Wer viel Geld für Präparate ausgibt, investiert es besser in eine ausgewogene Ernährung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Vorerkrankungen vor der Verwendung ärztlich beraten lassen.",
+        "Versprechen auf Sportpräparaten kritisch prüfen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Glutamin?",
+      "art": "mc",
+      "optionen": [
+        "Eine Aminosäure",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Hormon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist die häufigste Aminosäure im Blut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kann der Körper Glutamin selbst herstellen?",
+      "art": "mc",
+      "optionen": [
+        "Nein, nie",
+        "Ja, in ausreichender Menge",
+        "Nur im Schlaf",
+        "Nur bei Kindern"
+      ],
+      "richtig": 1,
+      "erklaerung": "Zusätzlich kommt es über Lebensmittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zusätzliches Glutamin verbessert bei Gesunden nachweislich den Muskelaufbau.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Nutzen ist nicht belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glutamin ist eine körpereigene Aminosäure.",
+        "Der Körper stellt genug davon her.",
+        "Für Muskelaufbau und Abwehr ist bei Gesunden kein Nutzen belegt.",
+        "Klinische Anwendungen lassen sich nicht übertragen."
+      ]
+    }
+  ]
+}
