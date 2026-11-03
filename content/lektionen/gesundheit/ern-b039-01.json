@@ -1,0 +1,118 @@
+{
+  "id": "ern-b039-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist eine Histaminunverträglichkeit?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "histamin",
+    "unvertraeglichkeit",
+    "rotwein"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach Rotwein und gereiftem Käse bekommen manche Menschen Kopfschmerzen, Hautrötungen oder Bauchbeschwerden.",
+        "Als Ursache wird oft eine Histaminunverträglichkeit vermutet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Histamin ist",
+      "absaetze": [
+        "Histamin ist ein Botenstoff, den der Körper selbst bildet. Es spielt eine Rolle bei Allergien und Entzündungen.",
+        "Histamin steckt auch in Lebensmitteln, besonders in gereiften und fermentierten wie Hartkäse, Salami, Sauerkraut, Rotwein und manchen Fischkonserven."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine umstrittene Diagnose",
+      "absaetze": [
+        "Bei einer Histaminunverträglichkeit soll der Körper Histamin aus der Nahrung schlechter abbauen. Ein wichtiges Enzym dafür heißt Diaminoxidase.",
+        "Fachleute weisen darauf hin, dass es bisher keinen verlässlichen Test für diese Unverträglichkeit gibt. Studien deuten darauf hin, dass sie seltener ist als oft angenommen."
+      ],
+      "merke": "Für Histaminunverträglichkeit gibt es keinen verlässlichen Test.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Ein Beschwerdetagebuch kann helfen, Zusammenhänge zu erkennen. Eine kurzfristige histaminarme Ernährung unter fachlicher Begleitung kann zeigen, ob sich die Beschwerden bessern.",
+        "Dauerhaft strenge Verbote sind meist nicht nötig. Andere Ursachen wie Allergien oder Darmerkrankungen sollten ärztlich ausgeschlossen werden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchen Lebensmitteln steckt viel Histamin?",
+      "art": "mc",
+      "optionen": [
+        "In gereiften und fermentierten wie Hartkäse und Rotwein",
+        "In frischem Wasser",
+        "In Reis",
+        "In frischen Äpfeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reifung erhöht den Histamingehalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie steht es um Tests für eine Histaminunverträglichkeit?",
+      "art": "mc",
+      "optionen": [
+        "Es gibt keinen verlässlichen Test",
+        "Ein einfacher Bluttest ist sicher",
+        "Ein Sehtest zeigt sie",
+        "Sie wird beim Röntgen erkannt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Diagnose ist umstritten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Beschwerdetagebuch kann helfen, Zusammenhänge zu erkennen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es ist ein erster Schritt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Histamin ist ein Botenstoff im Körper und in Lebensmitteln.",
+        "Gereifte und fermentierte Lebensmittel enthalten viel davon.",
+        "Für die Unverträglichkeit gibt es keinen verlässlichen Test.",
+        "Andere Ursachen ärztlich ausschließen lassen."
+      ]
+    }
+  ]
+}

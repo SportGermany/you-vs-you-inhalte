@@ -1,0 +1,108 @@
+{
+  "id": "haus-b039-02",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wohin mit alten Medikamenten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps und Arzneimittel",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "medikamente",
+    "entsorgung",
+    "gewaesserschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Badezimmerschrank sammeln sich abgelaufene Tabletten und angebrochene Säfte.",
+        "Doch wohin damit?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht in die Toilette",
+      "absaetze": [
+        "Medikamente gehören nie in die Toilette oder den Ausguss. Kläranlagen können viele Wirkstoffe nicht vollständig entfernen.",
+        "Rückstände von Arzneimitteln wurden in Flüssen und Seen nachgewiesen. Sie können Fische und andere Wasserlebewesen schädigen."
+      ],
+      "merke": "Medikamente nie über Toilette oder Ausguss entsorgen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die richtige Entsorgung",
+      "absaetze": [
+        "In vielen Gemeinden dürfen Medikamente in den Restmüll. Der Restmüll wird meist verbrannt, dabei werden die Wirkstoffe zerstört.",
+        "Die Regeln unterscheiden sich aber je nach Ort. Manche Apotheken und Schadstoffsammelstellen nehmen alte Medikamente ebenfalls an. Das Umweltbundesamt informiert, was vor Ort gilt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher lagern",
+      "absaetze": [
+        "Bewahre Medikamente außerhalb der Reichweite von Kindern auf. Wirf sie im Restmüll so weg, dass niemand sie wieder herausnehmen kann, etwa in einer Tüte.",
+        "Prüfe regelmäßig deine Hausapotheke. Abgelaufene Mittel solltest du nicht mehr verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gehören Medikamente nicht in die Toilette?",
+      "art": "mc",
+      "optionen": [
+        "Kläranlagen können viele Wirkstoffe nicht vollständig entfernen",
+        "Sie verstopfen immer die Rohre",
+        "Sie lösen sich nicht auf",
+        "Das ist erlaubt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rückstände gelangen in Flüsse und Seen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin dürfen Medikamente in vielen Gemeinden?",
+      "art": "mc",
+      "optionen": [
+        "In den Restmüll",
+        "In die Biotonne",
+        "In den Gelben Sack",
+        "Ins Altglas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Restmüll wird meist verbrannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Regeln zur Medikamentenentsorgung unterscheiden sich je nach Ort.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das UBA informiert, was gilt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Medikamente nie in Toilette oder Ausguss.",
+        "Arzneimittelrückstände schädigen Gewässer.",
+        "In vielen Gemeinden ist der Restmüll erlaubt.",
+        "Für Kinder unerreichbar lagern und entsorgen."
+      ]
+    }
+  ]
+}

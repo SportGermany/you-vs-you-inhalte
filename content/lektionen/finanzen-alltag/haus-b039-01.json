@@ -1,0 +1,108 @@
+{
+  "id": "haus-b039-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie sparst du beim Duschen Energie?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps und Arzneimittel",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "duschen",
+    "warmwasser",
+    "energiesparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Warmes Wasser ist einer der größten Energieverbraucher im Haushalt.",
+        "Beim Duschen lässt sich mit wenig Aufwand viel sparen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warmwasser kostet",
+      "absaetze": [
+        "Das Wasser muss erst erwärmt werden, mit Gas, Öl, Strom oder Fernwärme. Deshalb kostet jede Minute unter der warmen Dusche Energie und Geld.",
+        "Ein Vollbad braucht deutlich mehr Wasser als eine kurze Dusche."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einfache Tricks",
+      "absaetze": [
+        "Ein Sparduschkopf mischt Luft unter das Wasser. Er verringert die Wassermenge, ohne dass sich der Strahl schwach anfühlt.",
+        "Auch kürzer und etwas kühler zu duschen spart. Wasser beim Einseifen abzustellen, bringt zusätzlich etwas."
+      ],
+      "merke": "Ein Sparduschkopf senkt den Verbrauch, ohne den Komfort stark zu mindern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hygiene beachten",
+      "absaetze": [
+        "Bei zentralen Warmwasseranlagen sollte die Temperatur nicht zu niedrig eingestellt werden. Sonst können sich Legionellen vermehren, Bakterien, die Lungenentzündungen auslösen können.",
+        "Die Temperatur an der Anlage sollte deshalb von Fachleuten eingestellt werden. Sparen kannst du trotzdem bei der Duschdauer und der Wassermenge."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Sparduschkopf?",
+      "art": "mc",
+      "optionen": [
+        "Er mischt Luft unter das Wasser und verringert die Menge",
+        "Er heizt das Wasser stärker",
+        "Er filtert Kalk aus",
+        "Er macht das Wasser kälter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Strahl fühlt sich trotzdem kräftig an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sollte die Temperatur zentraler Warmwasseranlagen nicht zu niedrig sein?",
+      "art": "mc",
+      "optionen": [
+        "Wegen der Gefahr durch Legionellen",
+        "Wegen des Geschmacks",
+        "Weil das Wasser sonst gefriert",
+        "Wegen des Lärms"
+      ],
+      "richtig": 0,
+      "erklaerung": "Legionellen können Lungenentzündungen auslösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Vollbad braucht deutlich mehr Wasser als eine kurze Dusche.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kurz duschen spart."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Warmwasser ist ein großer Energieverbraucher.",
+        "Ein Sparduschkopf senkt die Wassermenge.",
+        "Kürzer und etwas kühler duschen spart.",
+        "Die Anlagentemperatur wegen Legionellen nicht zu tief stellen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "tech-b039-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Elektromotor?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Elektromobilität",
+      "herausgeber": "Bundesministerium für Wirtschaft und Energie",
+      "url": "https://www.bundeswirtschaftsministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "elektromotor",
+    "magnetismus",
+    "elektroauto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob Ventilator, Bohrmaschine oder Elektroauto: Überall drehen sich Elektromotoren.",
+        "Ihr Prinzip beruht auf Magneten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Anziehen und Abstoßen",
+      "absaetze": [
+        "Gleiche Magnetpole stoßen sich ab, unterschiedliche ziehen sich an. Fließt Strom durch eine Spule, wird sie selbst zum Magneten.",
+        "Im Elektromotor gibt es einen festen Teil, den Stator, und einen drehbaren Teil, den Rotor. Ihre Magnetfelder ziehen sich an und stoßen sich ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ständige Drehung",
+      "absaetze": [
+        "Damit sich der Rotor dauerhaft dreht, muss die Richtung des Magnetfelds immer wieder wechseln. Das erledigt die Steuerung des Motors.",
+        "So wird elektrische Energie in Bewegung umgewandelt. Elektromotoren erreichen dabei hohe Wirkungsgrade. Ein großer Teil der Energie wird also tatsächlich zu Bewegung."
+      ],
+      "merke": "Elektromotoren wandeln Strom sehr effizient in Bewegung um."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch rückwärts",
+      "absaetze": [
+        "Ein Elektromotor kann auch als Generator arbeiten. Wird er von außen gedreht, erzeugt er Strom.",
+        "Elektroautos nutzen das beim Bremsen. Ein Teil der Bewegungsenergie fließt zurück in die Batterie. Man nennt das Rekuperation."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der drehbare Teil eines Elektromotors?",
+      "art": "mc",
+      "optionen": [
+        "Rotor",
+        "Stator",
+        "Kolben",
+        "Vergaser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der feste Teil heißt Stator."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn ein Elektromotor von außen gedreht wird?",
+      "art": "mc",
+      "optionen": [
+        "Er erzeugt Strom",
+        "Er geht kaputt",
+        "Er wird kalt",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er arbeitet dann als Generator."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Elektroautos können beim Bremsen Energie zurückgewinnen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das heißt Rekuperation."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Elektromotoren nutzen Anziehung und Abstoßung von Magneten.",
+        "Stator und Rotor erzeugen gemeinsam die Drehung.",
+        "Sie wandeln Strom sehr effizient in Bewegung um.",
+        "Als Generator können sie Strom zurückgewinnen."
+      ]
+    }
+  ]
+}

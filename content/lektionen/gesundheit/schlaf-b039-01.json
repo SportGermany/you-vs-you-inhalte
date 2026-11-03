@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b039-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum wachst du morgens zu früh auf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "frueherwachen",
+    "schlafstoerung",
+    "stimmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Um vier Uhr bist du hellwach, obwohl der Wecker erst um sieben klingelt.",
+        "Woran kann das liegen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele mögliche Gründe",
+      "absaetze": [
+        "Licht am frühen Morgen, Lärm oder ein zu warmes Schlafzimmer können das Erwachen auslösen. Auch Alkohol am Abend führt oft dazu, dass man in der zweiten Nachthälfte aufwacht.",
+        "Mit dem Alter verschiebt sich die innere Uhr häufig nach vorn. Ältere Menschen werden deshalb oft früher müde und früher wach."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein mögliches Warnzeichen",
+      "absaetze": [
+        "Frühes Erwachen mit Grübeln und gedrückter Stimmung kann ein Hinweis auf eine Depression sein. Fachleute achten bei der Diagnose auch auf dieses Muster.",
+        "Wenn es über Wochen anhält und zusammen mit Antriebslosigkeit oder Freudlosigkeit auftritt, ist ärztlicher Rat wichtig."
+      ],
+      "merke": "Frühes Erwachen mit gedrückter Stimmung sollte ernst genommen werden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Verdunkle das Schlafzimmer, damit morgens kein Licht stört. Verzichte am Abend auf Alkohol.",
+        "Wer früh wach wird, kann manchmal durch Licht am Abend die innere Uhr etwas nach hinten verschieben. Nicht lange im Bett grübeln, sondern lieber aufstehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann frühes Erwachen in der zweiten Nachthälfte fördern?",
+      "art": "mc",
+      "optionen": [
+        "Alkohol am Abend",
+        "Ein dunkles Schlafzimmer",
+        "Ein ruhiger Abend",
+        "Regelmäßige Schlafzeiten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alkohol stört den Schlaf in der zweiten Nachthälfte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf kann frühes Erwachen mit gedrückter Stimmung hindeuten?",
+      "art": "mc",
+      "optionen": [
+        "Auf eine Depression",
+        "Auf eine Erkältung",
+        "Auf Kurzsichtigkeit",
+        "Auf nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist ärztlicher Rat wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit dem Alter verschiebt sich die innere Uhr oft nach vorn.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ältere werden oft früher wach."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Licht, Lärm und Alkohol können früh wecken.",
+        "Im Alter verschiebt sich die innere Uhr nach vorn.",
+        "Frühes Erwachen mit gedrückter Stimmung ernst nehmen.",
+        "Dunkles Zimmer und kein Alkohol am Abend helfen."
+      ]
+    }
+  ]
+}

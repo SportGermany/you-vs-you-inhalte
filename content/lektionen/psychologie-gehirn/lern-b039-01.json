@@ -1,0 +1,111 @@
+{
+  "id": "lern-b039-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie merkst du dir lange Zahlen besser?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zahlen",
+    "chunking",
+    "arbeitsgedaechtnis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine IBAN oder eine Telefonnummer zu merken, fällt vielen schwer.",
+        "Ein einfacher Trick macht es leichter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Begrenztes Arbeitsgedächtnis",
+      "absaetze": [
+        "Das Arbeitsgedächtnis kann nur wenige Einheiten gleichzeitig halten. Eine lange Ziffernfolge überfordert es schnell.",
+        "Studien zeigen aber: Es kommt darauf an, was als Einheit zählt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Chunking",
+      "absaetze": [
+        "Beim Chunking fasst du einzelne Elemente zu größeren Gruppen zusammen. Aus 0 1 7 6 2 3 4 5 werden zum Beispiel 0176, 23 und 45.",
+        "Statt acht einzelner Ziffern musst du dir nun drei Gruppen merken. Deshalb werden Telefonnummern und Kontonummern oft in Blöcken geschrieben."
+      ],
+      "merke": "Gruppen bilden entlastet das Arbeitsgedächtnis.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit Bedeutung verknüpfen",
+      "absaetze": [
+        "Noch besser gelingt es, wenn die Gruppen eine Bedeutung haben, etwa ein Geburtsjahr oder eine bekannte Postleitzahl.",
+        "Auch lautes Wiederholen und Abfragen in Abständen helfen. Für wichtige Zahlen bleibt aber eine sichere Notiz die verlässlichste Lösung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Chunking?",
+      "art": "mc",
+      "optionen": [
+        "Einzelne Elemente zu Gruppen zusammenfassen",
+        "Zahlen rückwärts lesen",
+        "Zahlen aufschreiben und wegwerfen",
+        "Nur gerade Zahlen merken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gruppen entlasten das Arbeitsgedächtnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden Telefonnummern oft in Blöcken geschrieben?",
+      "art": "mc",
+      "optionen": [
+        "Damit man sie sich leichter merken kann",
+        "Aus Platzgründen",
+        "Weil es das Gesetz verlangt",
+        "Zufällig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Blöcke sind leichter zu behalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gruppen mit Bedeutung, etwa Geburtsjahre, merkt man sich besonders gut.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bedeutung hilft dem Gedächtnis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Arbeitsgedächtnis hält nur wenige Einheiten.",
+        "Chunking fasst Elemente zu Gruppen zusammen.",
+        "Gruppen mit Bedeutung sind besonders einprägsam.",
+        "Für Wichtiges bleibt eine sichere Notiz verlässlich."
+      ]
+    }
+  ]
+}

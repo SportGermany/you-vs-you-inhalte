@@ -1,0 +1,108 @@
+{
+  "id": "all-b039-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was für ein Stern ist unsere Sonne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "The Sun",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonne",
+    "stern",
+    "kernfusion"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Für uns ist die Sonne etwas Besonderes. Im Universum ist sie ein ganz gewöhnlicher Stern.",
+        "Was macht sie aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein mittelgroßer Stern",
+      "absaetze": [
+        "Die Sonne ist ein gelber Zwergstern. Es gibt im All viel größere und viel kleinere Sterne.",
+        "Trotzdem ist sie riesig. Ihr Durchmesser ist etwa 109-mal so groß wie der der Erde. Sie enthält über 99 Prozent der Masse des Sonnensystems."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie aus Kernfusion",
+      "absaetze": [
+        "Im Kern der Sonne herrschen Temperaturen von rund 15 Millionen Grad. Dort verschmelzen Wasserstoffkerne zu Helium.",
+        "Dabei wird enorme Energie frei. Sie braucht lange, bis sie an die Oberfläche gelangt, und erreicht uns dann als Licht und Wärme."
+      ],
+      "merke": "Die Sonne gewinnt ihre Energie aus Kernfusion."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein langes Leben",
+      "absaetze": [
+        "Die Sonne ist etwa 4,6 Milliarden Jahre alt. Sie hat ungefähr die Hälfte ihres Lebens hinter sich.",
+        "In einigen Milliarden Jahren wird sie sich zu einem Roten Riesen aufblähen. Am Ende bleibt ein kleiner, dichter Weißer Zwerg."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was für ein Stern ist die Sonne?",
+      "art": "mc",
+      "optionen": [
+        "Ein gelber Zwergstern",
+        "Ein Schwarzes Loch",
+        "Ein Neutronenstern",
+        "Ein Planet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Universum ist sie ganz gewöhnlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Kern der Sonne?",
+      "art": "mc",
+      "optionen": [
+        "Wasserstoff verschmilzt zu Helium",
+        "Eis schmilzt",
+        "Gestein verbrennt",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei wird enorme Energie frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Sonne ist etwa 4,6 Milliarden Jahre alt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie hat etwa die Hälfte ihres Lebens hinter sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Sonne ist ein gelber Zwergstern.",
+        "Sie enthält über 99 Prozent der Masse des Sonnensystems.",
+        "Ihre Energie stammt aus Kernfusion.",
+        "Sie ist etwa 4,6 Milliarden Jahre alt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "supp-b039-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von MCT-Öl zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mct-oel",
+    "fettsaeuren",
+    "ketogen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "MCT-Öl wird im Kaffee, beim Sport und in ketogenen Diäten gelobt. Es soll schnelle Energie liefern und beim Abnehmen helfen.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mittelkettige Fette",
+      "absaetze": [
+        "MCT steht für mittelkettige Triglyceride. Das sind Fette mit kürzeren Fettsäureketten als die meisten anderen Fette.",
+        "Der Körper nimmt sie schneller auf und verwertet sie anders. In der Medizin werden sie bei bestimmten Verdauungsstörungen eingesetzt, bei denen normales Fett schlecht aufgenommen wird."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Werbung verspricht",
+      "absaetze": [
+        "Studien deuten darauf hin, dass MCT-Fette etwas besser sättigen und den Energieverbrauch geringfügig erhöhen können. Die Effekte sind aber klein.",
+        "Für einen spürbaren Gewichtsverlust oder eine bessere Leistung bei Gesunden gibt es keine überzeugenden Belege."
+      ],
+      "merke": "Die Effekte von MCT-Öl auf das Gewicht sind klein.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu beachten ist",
+      "absaetze": [
+        "MCT-Öl liefert genauso viel Energie wie andere Öle. In größeren Mengen kann es Bauchschmerzen und Durchfall verursachen.",
+        "Es enthält keine Omega-3-Fettsäuren. Für die tägliche Küche sind Raps- oder Olivenöl die bessere Wahl."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Lebererkrankungen oder Diabetes vor der Verwendung ärztlich beraten lassen.",
+        "Präparate sind nur bei nachgewiesenem Bedarf sinnvoll."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht MCT?",
+      "art": "mc",
+      "optionen": [
+        "Mittelkettige Triglyceride",
+        "Mehr Calcium täglich",
+        "Muskel-Creatin-Tabletten",
+        "Ein Vitamin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind Fette mit kürzeren Ketten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann MCT-Öl in größeren Mengen verursachen?",
+      "art": "mc",
+      "optionen": [
+        "Bauchschmerzen und Durchfall",
+        "Bessere Sehkraft",
+        "Mehr Muskeln",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man sollte es langsam einführen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "MCT-Öl liefert deutlich weniger Energie als andere Öle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es liefert ähnlich viel Energie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "MCT-Öl enthält mittelkettige Fette.",
+        "In der Medizin hilft es bei bestimmten Verdauungsstörungen.",
+        "Die Effekte auf das Gewicht sind klein.",
+        "Raps- und Olivenöl sind für die Küche besser."
+      ]
+    }
+  ]
+}

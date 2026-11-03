@@ -1,0 +1,108 @@
+{
+  "id": "geld-b039-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Lohnen sich Kundenkarten und Bonusprogramme?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kundenkarten",
+    "bonusprogramme",
+    "daten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hast du eine Kundenkarte? An der Kasse wird diese Frage ständig gestellt.",
+        "Die Rabatte locken, doch sie haben einen Preis."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sie funktionieren",
+      "absaetze": [
+        "Bei Bonusprogrammen sammelst du Punkte oder bekommst Rabatte, wenn du die Karte oder App vorzeigst. Die Punkte kannst du später einlösen.",
+        "Die tatsächliche Ersparnis ist oft gering. Häufig liegt sie bei einem kleinen Prozentsatz des Einkaufs."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bezahlt wird mit Daten",
+      "absaetze": [
+        "Im Gegenzug erhalten die Unternehmen Daten über dein Einkaufsverhalten. Sie wissen, was, wann und wo du kaufst.",
+        "Diese Daten nutzen sie für gezielte Werbung und personalisierte Angebote. Die Verbraucherzentralen raten, die Datenschutzbestimmungen zu lesen."
+      ],
+      "merke": "Bei Bonusprogrammen bezahlst du mit deinen Daten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewusst entscheiden",
+      "absaetze": [
+        "Personalisierte Coupons können dazu verleiten, Dinge zu kaufen, die du gar nicht brauchst. Dann kostet das Programm mehr, als es spart.",
+        "Nutze Bonusprogramme nur, wenn du ohnehin dort einkaufst und die Datenweitergabe für dich in Ordnung ist. Du kannst der Werbung oft widersprechen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit bezahlst du bei Bonusprogrammen zusätzlich?",
+      "art": "mc",
+      "optionen": [
+        "Mit deinen Einkaufsdaten",
+        "Mit Bargeld",
+        "Mit Zeit allein",
+        "Mit Treuepunkten anderer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Unternehmen nutzen die Daten für Werbung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Ersparnis bei Bonusprogrammen oft?",
+      "art": "mc",
+      "optionen": [
+        "Gering, ein kleiner Prozentsatz",
+        "Die Hälfte des Einkaufs",
+        "Immer über 50 Euro",
+        "Alles ist kostenlos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die tatsächliche Ersparnis ist meist klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Personalisierte Coupons können zu unnötigen Käufen verleiten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann kostet das Programm mehr, als es spart."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bonusprogramme bringen meist nur kleine Rabatte.",
+        "Unternehmen erhalten dafür deine Einkaufsdaten.",
+        "Coupons können zu unnötigen Käufen verleiten.",
+        "Nur nutzen, wenn du ohnehin dort einkaufst."
+      ]
+    }
+  ]
+}
