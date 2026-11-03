@@ -1,0 +1,124 @@
+{
+  "id": "umw-b054-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum solltest du torffreie Erde verwenden?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Torffrei gärtnern",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "torf",
+    "garten",
+    "moore"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Blumenerden aus dem Baumarkt enthalten Torf.",
+        "Für das Klima ist das ein Problem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Torf kommt aus Mooren",
+      "absaetze": [
+        "Torf entsteht in Mooren über Jahrtausende aus abgestorbenen Pflanzen. Er wächst nur etwa einen Millimeter pro Jahr.",
+        "Für Blumenerde wird Torf abgebaut, dafür werden Moore entwässert. Damit verschwindet wertvoller Lebensraum für seltene Tiere und Pflanzen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kohlenstoffspeicher",
+      "absaetze": [
+        "Moore speichern große Mengen Kohlenstoff. Wird Torf abgebaut und im Garten verteilt, zersetzt er sich und setzt Kohlendioxid frei.",
+        "Deshalb fördert die Bundesregierung den Umstieg auf torffreie Erden. Im Hobbygartenbau soll Torf möglichst ganz ersetzt werden."
+      ],
+      "merke": "Torfabbau setzt gespeicherten Kohlenstoff frei.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Alternativen",
+      "absaetze": [
+        "Torffreie Erden bestehen etwa aus Kompost, Holzfasern, Rindenhumus oder Kokosfasern. Achte auf die Kennzeichnung torffrei, denn torfreduziert enthält noch Torf.",
+        "Torffreie Erde trocknet oft schneller an der Oberfläche. Gieße lieber öfter etwas weniger und dünge passend nach."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Torf?",
+      "art": "mc",
+      "optionen": [
+        "Aus Mooren",
+        "Aus Wüsten",
+        "Aus dem Meer",
+        "Aus Vulkanen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wächst nur etwa einen Millimeter pro Jahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Torfabbau schlecht für das Klima?",
+      "art": "mc",
+      "optionen": [
+        "Gespeicherter Kohlenstoff wird freigesetzt",
+        "Er kühlt die Erde",
+        "Er macht Regen sauer",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Moore sind große Kohlenstoffspeicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen torffreie Erden zum Beispiel?",
+      "art": "mc",
+      "optionen": [
+        "Aus Kompost und Holzfasern",
+        "Aus Plastik",
+        "Aus Sand und Zement",
+        "Aus reinem Torf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Rindenhumus und Kokosfasern werden genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Torfreduzierte Erde ist dasselbe wie torffreie Erde.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Torfreduzierte Erde enthält noch Torf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Torf entsteht sehr langsam in Mooren.",
+        "Sein Abbau zerstört Lebensräume und setzt CO2 frei.",
+        "Torffreie Erden nutzen Kompost oder Holzfasern.",
+        "Auf die Kennzeichnung torffrei achten."
+      ]
+    }
+  ]
+}

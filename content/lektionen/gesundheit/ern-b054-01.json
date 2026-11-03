@@ -1,0 +1,131 @@
+{
+  "id": "ern-b054-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist bei Rhabarber zu beachten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rhabarber",
+    "oxalsaeure",
+    "saisonal"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Frühling gibt es Rhabarberkuchen und Kompott.",
+        "Das säuerliche Gemüse hat ein paar Besonderheiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Gemüse wie Obst",
+      "absaetze": [
+        "Rhabarber ist botanisch ein Gemüse. Gegessen werden nur die Stiele. Meist wird er wie Obst süß zubereitet.",
+        "Er liefert wenig Energie, dafür Kalium und Ballaststoffe. Seine Saison reicht etwa von April bis Juni."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oxalsäure",
+      "absaetze": [
+        "Rhabarber enthält viel Oxalsäure. Sie sorgt für das stumpfe Gefühl auf den Zähnen und kann Kalzium im Körper binden.",
+        "Menschen mit Neigung zu Nierensteinen sollten oxalsäurereiche Lebensmittel nur maßvoll essen. Die Blätter enthalten besonders viel Oxalsäure und werden nicht gegessen."
+      ],
+      "merke": "Rhabarberblätter nicht essen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zubereiten",
+      "absaetze": [
+        "Schäle die Stiele und gare den Rhabarber. Kochwasser kannst du wegschütten, damit ein Teil der Oxalsäure verschwindet.",
+        "Kombiniert mit Milchprodukten wie Quark oder Joghurt wird Oxalsäure teilweise gebunden. Traditionell endet die Ernte Ende Juni, weil der Gehalt an Oxalsäure im Sommer steigt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Teil des Rhabarbers wird gegessen?",
+      "art": "mc",
+      "optionen": [
+        "Die Stiele",
+        "Die Blätter",
+        "Die Wurzeln",
+        "Die Blüten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Blätter enthalten besonders viel Oxalsäure."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Oxalsäure im Körper binden?",
+      "art": "mc",
+      "optionen": [
+        "Kalzium",
+        "Sauerstoff",
+        "Vitamin C",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb maßvoll essen, besonders bei Nierensteinen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, Oxalsäure zu binden?",
+      "art": "mc",
+      "optionen": [
+        "Milchprodukte wie Quark oder Joghurt",
+        "Salz",
+        "Kaffee",
+        "Essig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie enthalten Kalzium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rhabarber ist botanisch ein Gemüse.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er wird aber meist wie Obst zubereitet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rhabarber ist ein Gemüse, gegessen werden die Stiele.",
+        "Er enthält viel Oxalsäure.",
+        "Die Blätter nicht essen.",
+        "Milchprodukte binden einen Teil der Oxalsäure."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "tech-b054-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was ist ein Smart Meter?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Intelligente Messsysteme",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "smart-meter",
+    "strom",
+    "energiewende"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der alte Stromzähler mit dem drehenden Rädchen hat bald ausgedient.",
+        "An seine Stelle treten digitale und intelligente Zähler."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Stufen",
+      "absaetze": [
+        "Eine moderne Messeinrichtung ist ein digitaler Stromzähler. Er zeigt den Verbrauch genauer an, sendet aber selbst keine Daten.",
+        "Ein intelligentes Messsystem, oft Smart Meter genannt, besteht aus einem digitalen Zähler und einem Kommunikationsmodul. Es kann Verbrauchsdaten sicher an den Netzbetreiber und Stromanbieter übermitteln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür das gut ist",
+      "absaetze": [
+        "Mit einem Smart Meter siehst du deinen Verbrauch genauer und zeitnah. Ablesetermine vor Ort entfallen.",
+        "Außerdem ermöglicht es flexible Stromtarife, bei denen Strom zu bestimmten Zeiten günstiger ist. Für das Stromnetz ist das wichtig, wenn viel Strom aus Wind und Sonne kommt."
+      ],
+      "merke": "Smart Meter ermöglichen flexible Stromtarife.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Datenschutz und Pflicht",
+      "absaetze": [
+        "Das Kommunikationsmodul muss hohe Sicherheitsanforderungen erfüllen. Diese legt das Bundesamt für Sicherheit in der Informationstechnik fest.",
+        "Für bestimmte Haushalte ist der Einbau Pflicht, etwa bei hohem Verbrauch oder mit einer größeren Solaranlage. Welche Regeln für dich gelten, erfährst du bei deinem Messstellenbetreiber."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was unterscheidet ein intelligentes Messsystem von einem einfachen digitalen Zähler?",
+      "art": "mc",
+      "optionen": [
+        "Es kann Daten übermitteln",
+        "Es hat ein drehendes Rädchen",
+        "Es misst Wasser",
+        "Es braucht keinen Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es besteht aus Zähler und Kommunikationsmodul."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ermöglichen Smart Meter?",
+      "art": "mc",
+      "optionen": [
+        "Flexible Stromtarife",
+        "Kostenlosen Strom",
+        "Mehr Stromausfälle",
+        "Längere Ablesetermine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Strom kann zu bestimmten Zeiten günstiger sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Smart Meter ist für alle Haushalte sofort Pflicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Pflicht ist er nur für bestimmte Haushalte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Digitale Zähler messen genauer.",
+        "Smart Meter übermitteln Verbrauchsdaten sicher.",
+        "Sie ermöglichen flexible Tarife.",
+        "Pflicht ist der Einbau nur in bestimmten Fällen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "haus-b054-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Worauf solltest du beim Grillen achten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "grillen",
+    "lebensmittelsicherheit",
+    "sommer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sommer duftet es überall nach Grillgut.",
+        "Mit ein paar Regeln wird das Grillen sicherer und gesünder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht zu schwarz",
+      "absaetze": [
+        "Wenn Fett oder Marinade in die Glut tropfen, entstehen im Rauch krebserregende Stoffe. Sie lagern sich auf dem Grillgut ab.",
+        "Grille deshalb nicht direkt über offenen Flammen und vermeide verkohlte Stellen. Schwarze Stellen schneidest du besser ab. Grillschalen oder ein Grill mit Deckel helfen."
+      ],
+      "merke": "Verkohltes Grillgut nicht essen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gepökeltes gehört nicht auf den Grill",
+      "absaetze": [
+        "Gepökelte Waren wie Kassler, Wiener Würstchen oder Leberkäse sollten nicht gegrillt werden. Bei hohen Temperaturen können sich gesundheitsschädliche Stoffe bilden.",
+        "Saure oder salzige Lebensmittel solltest du nicht direkt in Alufolie grillen. Dabei kann sich Aluminium lösen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hygiene im Sommer",
+      "absaetze": [
+        "Rohes Geflügel und Hackfleisch müssen vollständig durchgegart werden. Verwende für rohes und gegartes Fleisch unterschiedliche Teller und Zangen.",
+        "Lass Salate und Grillgut bei Hitze nicht lange in der Sonne stehen. Benutze zum Anzünden nur geeignete Grillanzünder, niemals Spiritus oder Benzin."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Sicher grillen",
+      "schritte": [
+        {
+          "titel": "Abstand",
+          "text": "Grille nicht direkt über offenen Flammen."
+        },
+        {
+          "titel": "Ohne Pökelware",
+          "text": "Lass Kassler und Wiener Würstchen vom Grill."
+        },
+        {
+          "titel": "Durchgaren",
+          "text": "Gare Geflügel und Hackfleisch vollständig."
+        },
+        {
+          "titel": "Anzünden",
+          "text": "Nutze nur geeignete Grillanzünder, nie Spiritus."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entstehen beim Grillen krebserregende Stoffe?",
+      "art": "mc",
+      "optionen": [
+        "Wenn Fett in die Glut tropft",
+        "Wenn man Gemüse grillt",
+        "Wenn man langsam grillt",
+        "Wenn es regnet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lagern sich über den Rauch ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Lebensmittel sollten nicht gegrillt werden?",
+      "art": "mc",
+      "optionen": [
+        "Gepökelte Waren wie Kassler",
+        "Paprika",
+        "Maiskolben",
+        "Halloumi"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei können schädliche Stoffe entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit solltest du einen Grill niemals anzünden?",
+      "art": "mc",
+      "optionen": [
+        "Mit Spiritus oder Benzin",
+        "Mit Grillanzündern",
+        "Mit einem Anzündkamin",
+        "Mit einem Feuerzeug für Grillanzünder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann zu Stichflammen führen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für rohes und gegartes Fleisch sollten unterschiedliche Teller genutzt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So werden keine Keime übertragen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fett in der Glut erzeugt schädliche Stoffe im Rauch.",
+        "Verkohltes nicht essen, Gepökeltes nicht grillen.",
+        "Geflügel und Hackfleisch vollständig durchgaren.",
+        "Nie mit Spiritus oder Benzin anzünden."
+      ]
+    }
+  ]
+}

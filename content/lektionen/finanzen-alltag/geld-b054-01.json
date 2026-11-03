@@ -1,0 +1,114 @@
+{
+  "id": "geld-b054-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie riskant ist Crowdinvesting?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Grauer Kapitalmarkt und Crowdinvesting",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "crowdinvesting",
+    "geldanlage",
+    "risiko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit wenigen hundert Euro an einem Start-up oder einem Solarpark beteiligen: Das versprechen Crowdinvesting-Plattformen.",
+        "Die Renditeversprechen sind oft hoch, die Risiken auch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Kleine finanzieren gemeinsam",
+      "absaetze": [
+        "Beim Crowdinvesting leihen viele Anlegerinnen und Anleger einem Unternehmen oder Projekt über eine Internetplattform Geld. Dafür werden Zinsen oder eine Gewinnbeteiligung versprochen.",
+        "Oft sind es junge Unternehmen oder Immobilienprojekte, die von Banken schwer einen Kredit bekommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Totalverlust ist möglich",
+      "absaetze": [
+        "Geht das Unternehmen pleite, ist das eingesetzte Geld meist ganz verloren. Häufig handelt es sich um sogenannte Nachrangdarlehen. Dabei werden Anleger im Insolvenzfall erst nach allen anderen Gläubigern bedient.",
+        "Die Finanzaufsicht BaFin weist ausdrücklich auf das Risiko eines Totalverlusts hin."
+      ],
+      "merke": "Bei Crowdinvesting ist ein Totalverlust möglich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn überhaupt, dann klein",
+      "absaetze": [
+        "Das Geld ist oft für viele Jahre gebunden und lässt sich nicht vorzeitig verkaufen. Investiere deshalb nur Geld, das du entbehren kannst.",
+        "Verteile kleine Beträge auf mehrere Projekte, wenn du es ausprobieren möchtest. Für den Vermögensaufbau sind breit gestreute Anlagen meist solider."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Crowdinvesting?",
+      "art": "mc",
+      "optionen": [
+        "Viele leihen gemeinsam einem Projekt über eine Plattform Geld",
+        "Eine Bank übernimmt alle Verluste",
+        "Der Staat zahlt die Zinsen",
+        "Man kauft ein Sparbuch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft sind es junge Unternehmen oder Immobilienprojekte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Nachrangdarlehen?",
+      "art": "mc",
+      "optionen": [
+        "Anleger werden bei einer Insolvenz erst nach anderen Gläubigern bedient",
+        "Anleger bekommen ihr Geld immer zuerst",
+        "Das Darlehen ist staatlich gesichert",
+        "Es gibt keine Zinsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb droht ein Totalverlust."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Crowdinvesting eignet sich gut für Geld, das du kurzfristig brauchst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Geld ist oft lange gebunden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Crowdinvesting finanzieren viele gemeinsam ein Projekt.",
+        "Oft sind es Nachrangdarlehen mit hohem Risiko.",
+        "Ein Totalverlust ist möglich.",
+        "Nur entbehrliches Geld in kleinen Beträgen einsetzen."
+      ]
+    }
+  ]
+}

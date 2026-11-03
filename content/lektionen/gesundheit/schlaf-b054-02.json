@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b054-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie kommen junge Eltern mit wenig Schlaf zurecht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "eltern",
+    "baby",
+    "schlafmangel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit einem Baby ist an durchgeschlafene Nächte oft lange nicht zu denken.",
+        "Ein paar Strategien machen diese Zeit leichter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zerstückelter Schlaf",
+      "absaetze": [
+        "Babys wachen nachts häufig auf, weil sie Hunger haben oder Nähe brauchen. Für Eltern bedeutet das vor allem zerstückelten Schlaf.",
+        "Schon mehrere unterbrochene Nächte können Konzentration und Stimmung deutlich beeinträchtigen. Das ist normal und kein Zeichen von Versagen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlaf aufteilen und nachholen",
+      "absaetze": [
+        "Wenn möglich, teilt euch die Nächte auf. So bekommt jeder zumindest einen längeren Schlafblock.",
+        "Schlaf, wenn das Baby schläft, auch tagsüber. Haushalt und andere Aufgaben können warten. Lass dir von Familie oder Freunden helfen."
+      ],
+      "merke": "Schlafe, wenn das Baby schläft.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf Warnzeichen achten",
+      "absaetze": [
+        "Starke Müdigkeit kann gefährlich werden, etwa beim Autofahren. Fahre nicht, wenn du dich kaum wach halten kannst.",
+        "Anhaltende Niedergeschlagenheit, Hoffnungslosigkeit oder Ängste nach der Geburt können Zeichen einer Wochenbettdepression sein. Dann ist frühzeitige Hilfe wichtig, etwa bei Hebamme, Hausarztpraxis oder Frauenarztpraxis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was belastet junge Eltern besonders?",
+      "art": "mc",
+      "optionen": [
+        "Zerstückelter Schlaf",
+        "Zu viel Schlaf",
+        "Zu ruhige Nächte",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Babys wachen häufig auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann helfen?",
+      "art": "mc",
+      "optionen": [
+        "Nächte aufteilen und tagsüber mitschlafen",
+        "Keine Hilfe annehmen",
+        "Nachts viel Kaffee trinken",
+        "Den Haushalt immer zuerst erledigen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bekommt jeder einen längeren Schlafblock."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Anhaltende Niedergeschlagenheit nach der Geburt sollte ernst genommen werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie kann ein Zeichen einer Wochenbettdepression sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eltern von Babys schlafen oft zerstückelt.",
+        "Nächte aufteilen und tagsüber mitschlafen hilft.",
+        "Hilfe von anderen annehmen.",
+        "Bei anhaltender Niedergeschlagenheit früh Hilfe suchen."
+      ]
+    }
+  ]
+}

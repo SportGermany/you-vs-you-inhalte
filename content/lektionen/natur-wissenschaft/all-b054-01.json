@@ -1,0 +1,124 @@
+{
+  "id": "all-b054-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie funktioniert eine Rakete?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rakete",
+    "rueckstoss",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Raketen bringen Satelliten, Raumsonden und Menschen ins All.",
+        "Ihr Prinzip lässt sich mit einem Luftballon erklären."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rückstoß",
+      "absaetze": [
+        "Lässt du einen aufgeblasenen Luftballon los, schießt er davon. Die Luft strömt nach hinten, der Ballon bewegt sich nach vorn.",
+        "Genau so funktioniert eine Rakete. Sie stößt heiße Gase mit großer Geschwindigkeit nach hinten aus und wird dadurch nach vorn gedrückt. Das nennt man Rückstoßprinzip."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Treibstoff und Sauerstoff an Bord",
+      "absaetze": [
+        "Im Weltall gibt es keine Luft. Eine Rakete muss deshalb nicht nur Treibstoff, sondern auch den Sauerstoff für die Verbrennung selbst mitnehmen.",
+        "Der größte Teil der Startmasse ist Treibstoff. Deshalb bestehen viele Raketen aus mehreren Stufen, die nacheinander abgeworfen werden, wenn sie leer sind."
+      ],
+      "merke": "Raketen tragen auch den Sauerstoff für die Verbrennung mit.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell genug für eine Umlaufbahn",
+      "absaetze": [
+        "Um die Erde zu umkreisen, braucht ein Satellit in niedriger Höhe eine Geschwindigkeit von fast acht Kilometern pro Sekunde. Sonst fällt er zurück.",
+        "Manche Raketenstufen landen heute wieder und werden mehrfach verwendet. Das senkt die Kosten der Raumfahrt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach welchem Prinzip fliegt eine Rakete?",
+      "art": "mc",
+      "optionen": [
+        "Rückstoßprinzip",
+        "Auftrieb wie ein Ballon mit Helium",
+        "Magnetismus",
+        "Windkraft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gase strömen nach hinten, die Rakete fliegt nach vorn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum braucht eine Rakete eigenen Sauerstoff?",
+      "art": "mc",
+      "optionen": [
+        "Im Weltall gibt es keine Luft für die Verbrennung",
+        "Für die Astronauten zum Trinken",
+        "Zum Kühlen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Treibstoff braucht Sauerstoff zum Verbrennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum haben viele Raketen mehrere Stufen?",
+      "art": "mc",
+      "optionen": [
+        "Leere Stufen werden abgeworfen, um Gewicht zu sparen",
+        "Damit sie schöner aussehen",
+        "Für mehr Passagiere",
+        "Damit sie langsamer fliegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der größte Teil der Masse ist Treibstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Raketenstufen werden heute wiederverwendet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das senkt die Kosten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Raketen fliegen nach dem Rückstoßprinzip.",
+        "Sie tragen Treibstoff und Sauerstoff mit.",
+        "Mehrere Stufen sparen Gewicht.",
+        "Für eine Umlaufbahn braucht es fast acht Kilometer pro Sekunde."
+      ]
+    }
+  ]
+}

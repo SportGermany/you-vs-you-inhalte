@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b054-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Kann man zu viel schlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafdauer",
+    "langschlaefer",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Meist geht es um zu wenig Schlaf.",
+        "Doch auch sehr langer Schlaf kann ein Hinweis auf etwas sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel normal ist",
+      "absaetze": [
+        "Die meisten Erwachsenen brauchen etwa sieben bis neun Stunden Schlaf. Manche Menschen kommen mit etwas weniger aus, andere brauchen etwas mehr.",
+        "Nach Krankheit, Schlafmangel oder großer Anstrengung ist ein vorübergehend höherer Schlafbedarf normal."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Beobachtungsstudien deuten darauf hin, dass Menschen, die regelmäßig sehr lange schlafen, häufiger krank sind. Das bedeutet aber nicht, dass der lange Schlaf krank macht.",
+        "Oft ist es umgekehrt: Erkrankungen, Depressionen oder Schlafstörungen führen dazu, dass Menschen länger im Bett bleiben oder mehr Schlaf brauchen."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann abklären",
+      "absaetze": [
+        "Wer trotz langen Schlafs ständig müde ist, sollte das ärztlich abklären lassen. Dahinter können etwa eine Schlafapnoe, eine Schilddrüsenunterfunktion, eine Depression oder eine seltene Schlafkrankheit stecken.",
+        "Wer dagegen nach langem Schlaf erholt und munter ist, braucht sich meist keine Sorgen zu machen."
+      ],
+      "merke": "Ständige Müdigkeit trotz langem Schlaf ärztlich abklären.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Schlaf brauchen die meisten Erwachsenen?",
+      "art": "mc",
+      "optionen": [
+        "Etwa sieben bis neun Stunden",
+        "Drei Stunden",
+        "Zwölf Stunden",
+        "Fünf Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Bedarf ist individuell etwas unterschiedlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Beobachtungsstudien zu sehr langem Schlaf?",
+      "art": "mc",
+      "optionen": [
+        "Langschläfer sind häufiger krank, die Ursache ist aber oft umgekehrt",
+        "Langer Schlaf schützt vor allen Krankheiten",
+        "Langer Schlaf ist immer gefährlich",
+        "Es gibt keinen Zusammenhang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Krankheiten können den Schlafbedarf erhöhen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ständige Müdigkeit trotz langem Schlaf sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa eine Schlafapnoe kann dahinterstecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die meisten Erwachsenen brauchen sieben bis neun Stunden.",
+        "Vorübergehend mehr Schlaf ist oft normal.",
+        "Sehr langer Schlaf kann ein Hinweis auf Erkrankungen sein.",
+        "Ständige Müdigkeit trotz viel Schlaf abklären lassen."
+      ]
+    }
+  ]
+}
