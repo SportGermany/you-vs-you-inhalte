@@ -36,7 +36,7 @@ L.append(lektion(
       None, 3),
      ("Was über die Gesundheit bekannt ist",
       ["Grüner Tee enthält Catechine. Das sind Pflanzenstoffe, die im Labor als Zellschutzstoffe wirken. Beobachtungsstudien deuten darauf hin, dass Teetrinker etwas seltener Herz-Kreislauf-Erkrankungen haben.",
-       "Ob Matcha darüber hinaus etwas Eigenes bewirkt, ist kaum untersucht. Ein Wundermittel ist er nicht."],
+       "Ob Matcha darüber hinaus etwas Eigenes bewirkt, ist kaum untersucht. Große Versprechen sind daher nicht gedeckt."],
       "Matcha liefert mehr Koffein als normaler grüner Tee.", 2),
      ("Worauf du achten kannst",
       ["Weil das ganze Blatt in die Tasse gelangt, landen dort auch mögliche Rückstände aus dem Anbau. Untersuchungen fanden in manchen Produkten Schadstoffe. Qualität und Herkunft spielen daher eine Rolle.",
