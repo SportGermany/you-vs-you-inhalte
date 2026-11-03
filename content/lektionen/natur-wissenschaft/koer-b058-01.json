@@ -1,0 +1,127 @@
+{
+  "id": "koer-b058-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was sind Muttermale?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hautkrebs",
+      "herausgeber": "Deutsche Krebshilfe",
+      "url": "https://www.krebshilfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "muttermal",
+    "haut",
+    "hautkrebs"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast jeder Mensch hat Muttermale, manche nur wenige, andere sehr viele.",
+        "Die meisten sind harmlos. Ein Blick darauf lohnt sich trotzdem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ansammlungen von Farbzellen",
+      "absaetze": [
+        "Muttermale, auch Leberflecke oder Nävi genannt, sind kleine Ansammlungen von Pigmentzellen. Diese Zellen bilden den braunen Farbstoff Melanin.",
+        "Manche Muttermale sind angeboren. Die meisten entstehen aber im Laufe von Kindheit und Jugend. Viel Sonne und Sonnenbrände in der Kindheit fördern neue Muttermale."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die ABCDE-Regel",
+      "absaetze": [
+        "Mit der ABCDE-Regel kannst du Muttermale prüfen. A steht für Asymmetrie, B für unscharfe Begrenzung, C für mehrere Farben.",
+        "D steht für einen Durchmesser über etwa fünf Millimeter, E für Entwicklung, also Veränderung. Trifft etwas davon zu, lass das Muttermal ärztlich ansehen."
+      ],
+      "merke": "Verändert sich ein Muttermal, lass es ansehen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Früherkennung",
+      "absaetze": [
+        "Aus Muttermalen kann selten schwarzer Hautkrebs entstehen, das Melanom. Früh entdeckt, ist er meist gut heilbar.",
+        "Gesetzlich Versicherte können ab 35 Jahren alle zwei Jahre ein Hautkrebs-Screening machen lassen. Sonnenschutz senkt das Risiko für neue Muttermale und Hautkrebs."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen Muttermale?",
+      "art": "mc",
+      "optionen": [
+        "Aus Ansammlungen von Pigmentzellen",
+        "Aus Fettgewebe",
+        "Aus Blutgefäßen",
+        "Aus Haarwurzeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Zellen bilden Melanin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht das E in der ABCDE-Regel?",
+      "art": "mc",
+      "optionen": [
+        "Entwicklung",
+        "Entzündung",
+        "Eiweiß",
+        "Ernährung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeint ist eine Veränderung des Muttermals."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem Alter zahlt die gesetzliche Kasse das Hautkrebs-Screening?",
+      "art": "mc",
+      "optionen": [
+        "Ab 35 Jahren",
+        "Ab 10 Jahren",
+        "Ab 70 Jahren",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kann alle zwei Jahre gemacht werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sonnenbrände in der Kindheit fördern neue Muttermale.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonnenschutz ist deshalb besonders für Kinder wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Muttermale sind Ansammlungen von Pigmentzellen.",
+        "Die meisten sind harmlos.",
+        "Die ABCDE-Regel hilft beim Prüfen.",
+        "Ab 35 gibt es alle zwei Jahre ein Hautkrebs-Screening."
+      ]
+    }
+  ]
+}

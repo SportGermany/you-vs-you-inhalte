@@ -1,0 +1,127 @@
+{
+  "id": "vers-b058-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bedeutet grobe Fahrlässigkeit bei Versicherungen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Versicherungswissen",
+      "herausgeber": "Gesamtverband der Versicherer (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "grobe-fahrlaessigkeit",
+    "hausrat",
+    "versicherungsschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Kerze brennt, du gehst kurz einkaufen, und die Gardine fängt Feuer.",
+        "Zahlt die Versicherung dann den vollen Schaden?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was grob fahrlässig heißt",
+      "absaetze": [
+        "Fahrlässig handelt, wer die nötige Sorgfalt nicht beachtet. Grob fahrlässig ist es, wenn du dabei etwas ganz Naheliegendes außer Acht lässt.",
+        "Typische Beispiele sind eine brennende Kerze ohne Aufsicht, ein vergessener Herd oder ein offenes Fenster bei längerer Abwesenheit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Versicherung darf kürzen",
+      "absaetze": [
+        "Bei grober Fahrlässigkeit darf eine Sachversicherung ihre Leistung kürzen. Wie stark, hängt davon ab, wie schwer der Fehler wiegt.",
+        "Viele Verträge für Hausrat und Wohngebäude verzichten aber ausdrücklich auf diese Kürzung. Bei Vorsatz, also mit Absicht, zahlt die Versicherung grundsätzlich nicht."
+      ],
+      "merke": "Bei Vorsatz zahlt die Versicherung grundsätzlich nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haftpflicht ist anders",
+      "absaetze": [
+        "Die private Haftpflichtversicherung zahlt auch, wenn du einen Schaden bei anderen grob fahrlässig verursacht hast. Dafür ist sie gerade da.",
+        "Schau beim Abschluss oder Vergleich darauf, ob grobe Fahrlässigkeit mitversichert ist. Dieser Baustein kostet oft nur wenig mehr."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein typisches Beispiel für grobe Fahrlässigkeit?",
+      "art": "mc",
+      "optionen": [
+        "Eine brennende Kerze ohne Aufsicht",
+        "Ein Blitzeinschlag",
+        "Ein Einbruch trotz verschlossener Tür",
+        "Ein Sturm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gefahr ist hier offensichtlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darf eine Sachversicherung bei grober Fahrlässigkeit tun?",
+      "art": "mc",
+      "optionen": [
+        "Die Leistung je nach Schwere kürzen",
+        "Immer doppelt zahlen",
+        "Den Schaden selbst reparieren",
+        "Die Polizei rufen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Verträge verzichten aber auf die Kürzung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zahlt die Versicherung bei Vorsatz?",
+      "art": "mc",
+      "optionen": [
+        "Grundsätzlich nicht",
+        "Immer",
+        "Nur zur Hälfte",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorsatz bedeutet, mit Absicht zu handeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die private Haftpflicht zahlt auch bei grober Fahrlässigkeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dafür ist sie gerade da."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grob fahrlässig heißt, etwas Naheliegendes zu missachten.",
+        "Sachversicherungen dürfen dann kürzen.",
+        "Viele Verträge verzichten auf diese Kürzung.",
+        "Bei Vorsatz zahlt die Versicherung nicht."
+      ]
+    }
+  ]
+}

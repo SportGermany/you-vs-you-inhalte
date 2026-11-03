@@ -1,0 +1,131 @@
+{
+  "id": "ern-b058-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Tempeh?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaftliche Informationen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tempeh",
+    "soja",
+    "fermentation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tempeh sieht aus wie ein fester Block aus zusammengeklebten Bohnen.",
+        "In Indonesien wird es seit Jahrhunderten gegessen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fermentierte Sojabohnen",
+      "absaetze": [
+        "Für Tempeh werden gekochte Sojabohnen mit einem Edelschimmelpilz versetzt. Der Pilz wächst durch die Bohnen und verbindet sie zu einem festen Block.",
+        "Diesen Vorgang nennt man Fermentation. Dabei wandeln Mikroorganismen Bestandteile der Lebensmittel um."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Tempeh liefert",
+      "absaetze": [
+        "Tempeh enthält viel Eiweiß und Ballaststoffe. Weil die ganzen Bohnen verwendet werden, bleibt mehr von ihnen erhalten als bei Tofu.",
+        "Tofu wird dagegen aus geronnener Sojamilch hergestellt. Beide sind gute pflanzliche Eiweißquellen und passen gut in eine abwechslungsreiche Ernährung."
+      ],
+      "merke": "Tempeh besteht aus ganzen, fermentierten Bohnen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schmeckt es gut",
+      "absaetze": [
+        "Tempeh schmeckt leicht nussig und etwas pilzartig. Es lässt sich in Scheiben braten, marinieren oder zerbröselt wie Hackfleisch verwenden.",
+        "Vor dem Braten kurz in Wasser zu garen, macht es milder. Inzwischen gibt es auch Tempeh aus Lupinen, Erbsen oder Kichererbsen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht klassisches Tempeh?",
+      "art": "mc",
+      "optionen": [
+        "Aus fermentierten Sojabohnen",
+        "Aus geronnener Sojamilch",
+        "Aus Weizeneiweiß",
+        "Aus Reismehl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Edelschimmelpilz verbindet die Bohnen zu einem Block."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Tofu hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Aus geronnener Sojamilch",
+        "Aus ganzen Bohnen mit Pilz",
+        "Aus Linsenmehl",
+        "Aus Kokosmilch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tempeh dagegen enthält die ganzen Bohnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Fermentation?",
+      "art": "mc",
+      "optionen": [
+        "Mikroorganismen wandeln Bestandteile um",
+        "Das Lebensmittel wird eingefroren",
+        "Das Lebensmittel wird getrocknet",
+        "Das Lebensmittel wird bestrahlt"
+      ],
+      "richtig": 0,
+      "erklaerung": "So entstehen auch Joghurt und Sauerkraut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tempeh stammt ursprünglich aus Indonesien.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort wird es seit Jahrhunderten gegessen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tempeh besteht aus fermentierten Sojabohnen.",
+        "Es liefert viel Eiweiß und Ballaststoffe.",
+        "Tofu wird dagegen aus Sojamilch hergestellt.",
+        "Tempeh lässt sich braten, marinieren oder zerbröseln."
+      ]
+    }
+  ]
+}

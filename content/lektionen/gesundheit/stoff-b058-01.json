@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b058-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Hämochromatose?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "haemochromatose",
+    "eisen",
+    "erbkrankheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eisen ist lebenswichtig. Zu viel davon kann aber Organe schädigen.",
+        "Bei der Hämochromatose sammelt der Körper über Jahre zu viel Eisen an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Erbkrankheit",
+      "absaetze": [
+        "Bei der erblichen Hämochromatose nimmt der Darm mehr Eisen auf, als der Körper braucht. Ursache ist meist eine Veränderung im sogenannten HFE-Gen.",
+        "Sie gehört zu den häufigsten Erbkrankheiten bei Menschen nordeuropäischer Herkunft. Nicht alle mit der Genveränderung werden aber krank."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unklare erste Zeichen",
+      "absaetze": [
+        "Das Eisen lagert sich langsam in Leber, Herz, Bauchspeicheldrüse und Gelenken ab. Frühe Beschwerden sind oft Müdigkeit und Gelenkschmerzen.",
+        "Später können Leberschäden, Diabetes oder Herzprobleme folgen. Frauen erkranken meist später, weil sie durch die Monatsblutung regelmäßig Eisen verlieren."
+      ],
+      "merke": "Frühe Zeichen sind oft Müdigkeit und Gelenkschmerzen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut behandelbar",
+      "absaetze": [
+        "Ein Bluttest zeigt erhöhte Eisenspeicher, etwa über den Ferritin-Wert. Ein Gentest kann die Diagnose bestätigen.",
+        "Behandelt wird meist mit regelmäßigen Aderlässen. Dabei wird Blut abgenommen, und mit ihm Eisen. Früh erkannt, haben Betroffene meist eine normale Lebenserwartung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei einer Hämochromatose?",
+      "art": "mc",
+      "optionen": [
+        "Der Körper sammelt zu viel Eisen an",
+        "Der Körper verliert zu viel Eisen",
+        "Der Körper bildet kein Blut",
+        "Der Körper kann keinen Zucker verwerten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Darm nimmt mehr Eisen auf als nötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Hämochromatose meist behandelt?",
+      "art": "mc",
+      "optionen": [
+        "Mit regelmäßigen Aderlässen",
+        "Mit Eisentabletten",
+        "Mit einer Operation",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit dem Blut verlässt Eisen den Körper."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum erkranken Frauen oft später?",
+      "art": "mc",
+      "optionen": [
+        "Sie verlieren durch die Monatsblutung Eisen",
+        "Sie essen kein Eisen",
+        "Sie haben kein HFE-Gen",
+        "Ihre Leber speichert kein Eisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der regelmäßige Blutverlust bremst die Ansammlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Früh erkannt, ist Hämochromatose gut behandelbar.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Lebenserwartung ist dann meist normal."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hämochromatose ist eine Eisenspeicherkrankheit.",
+        "Sie ist meist erblich bedingt.",
+        "Frühe Zeichen sind oft Müdigkeit und Gelenkschmerzen.",
+        "Aderlässe senken das Eisen im Körper.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

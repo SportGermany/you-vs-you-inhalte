@@ -1,0 +1,133 @@
+{
+  "id": "tech-b058-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Heizkörperthermostat?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Heizen und Energiesparen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "thermostat",
+    "heizung",
+    "energiesparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele drehen das Thermostat auf fünf, wenn es schnell warm werden soll.",
+        "Das bringt aber nichts. Warum, zeigt ein Blick ins Innere."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein kleiner Fühler im Kopf",
+      "absaetze": [
+        "Im Thermostatkopf sitzt ein Behälter mit Wachs, Gas oder Flüssigkeit. Wird es im Raum wärmer, dehnt sich der Inhalt aus. Er drückt dann auf einen Stift im Ventil.",
+        "So schließt das Ventil, und weniger heißes Wasser fließt in den Heizkörper. Wird es kühler, öffnet das Ventil wieder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Zahlen sind Temperaturen",
+      "absaetze": [
+        "Die Ziffern stehen nicht für die Heizleistung, sondern für eine Zieltemperatur. Stufe 3 entspricht ungefähr 20 Grad. Jede Stufe macht etwa vier Grad aus.",
+        "Auf Stufe 5 wird der Raum nicht schneller warm. Das Ventil bleibt nur länger offen, und der Raum wird am Ende zu warm."
+      ],
+      "merke": "Stufe 3 bedeutet ungefähr 20 Grad Raumtemperatur."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Clever nutzen",
+      "absaetze": [
+        "Ein Grad weniger spart nach Angaben des Umweltbundesamts rund sechs Prozent Heizenergie. Stell Möbel und Vorhänge nicht vor den Heizkörper, sonst misst der Fühler falsch.",
+        "Programmierbare Thermostate senken die Temperatur automatisch, wenn du schläfst oder nicht zu Hause bist."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Auf Stufe 5 wird der Raum schneller warm.",
+      "urteil": "mythos",
+      "erklaerung": "Das Thermostat regelt nur, bis zu welcher Temperatur geheizt wird. Das Ventil öffnet bei Stufe 3 genauso weit wie bei Stufe 5, solange der Raum kalt ist. Stufe 5 führt nur zu Überhitzung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür stehen die Zahlen auf dem Thermostat?",
+      "art": "mc",
+      "optionen": [
+        "Für Zieltemperaturen",
+        "Für die Heizgeschwindigkeit",
+        "Für die Uhrzeit",
+        "Für den Wasserdruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Stufe 3 entspricht ungefähr 20 Grad."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Thermostatkopf, wenn es wärmer wird?",
+      "art": "mc",
+      "optionen": [
+        "Der Inhalt dehnt sich aus und schließt das Ventil",
+        "Ein Motor öffnet das Fenster",
+        "Das Wasser wird heißer",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So fließt weniger heißes Wasser in den Heizkörper."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Heizenergie spart ein Grad weniger ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Rund sechs Prozent",
+        "Rund fünfzig Prozent",
+        "Gar nichts",
+        "Rund ein Promille"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gibt das Umweltbundesamt an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Möbel vor dem Heizkörper können die Messung verfälschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Fühler misst dann gestaute Wärme."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Thermostat regelt eine Zieltemperatur.",
+        "Stufe 3 entspricht etwa 20 Grad.",
+        "Stufe 5 heizt nicht schneller.",
+        "Ein Grad weniger spart rund sechs Prozent Energie."
+      ]
+    }
+  ]
+}

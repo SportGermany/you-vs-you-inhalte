@@ -1,0 +1,137 @@
+{
+  "id": "ern-b058-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Spinat?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Energydrinks und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "spinat",
+    "blattgemuese",
+    "eisen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Spinat galt jahrzehntelang als Kraftfutter für starke Kinder.",
+        "Ganz so außergewöhnlich ist er nicht, gesund aber schon."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Spinat steckt",
+      "absaetze": [
+        "Spinat liefert Folsäure, Vitamin K, Beta-Carotin und Magnesium. Er hat sehr wenige Kalorien und passt in viele Gerichte.",
+        "Junger Blattspinat schmeckt auch roh im Salat. Tiefgekühlter Spinat ist eine praktische und nährstoffreiche Alternative zu frischem."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Eisen-Ruf",
+      "absaetze": [
+        "Spinat enthält zwar Eisen, aber nicht mehr als viele andere Gemüse. Eisen aus Pflanzen nimmt der Körper außerdem schlechter auf als Eisen aus Fleisch.",
+        "Die Oxalsäure im Spinat bindet einen Teil von Eisen und Calcium. Vitamin C, etwa aus Paprika oder einem Spritzer Zitrone, verbessert die Aufnahme von Eisen."
+      ],
+      "merke": "Vitamin C hilft dem Körper, Eisen aus Pflanzen zu nutzen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Darf man Spinat aufwärmen?",
+      "absaetze": [
+        "Spinat enthält Nitrat. Bleibt er lange warm stehen, können Bakterien daraus Nitrit bilden. Das ist vor allem für Säuglinge bedenklich.",
+        "Kühle Reste deshalb rasch ab und stell sie in den Kühlschrank. Dann kannst du sie einmal gut erhitzen. Für Babys und Kleinkinder solltest du Spinat frisch zubereiten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Spinat enthält besonders viel Eisen.",
+      "urteil": "teils",
+      "erklaerung": "Spinat enthält Eisen, aber nicht auffällig viel im Vergleich zu anderen Gemüsen. Der Körper nutzt es zudem nur schlecht. Hülsenfrüchte, Vollkorn und Fleisch sind wichtigere Eisenquellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbessert die Aufnahme von Eisen aus Pflanzen?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Kaffee",
+        "Schwarzer Tee",
+        "Milch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Spritzer Zitrone oder Paprika hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff im Spinat bindet einen Teil des Eisens?",
+      "art": "mc",
+      "optionen": [
+        "Oxalsäure",
+        "Vitamin K",
+        "Folsäure",
+        "Magnesium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie bindet auch Calcium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt beim Aufwärmen von Spinat?",
+      "art": "mc",
+      "optionen": [
+        "Reste rasch kühlen und nur einmal erhitzen",
+        "Lange warm halten ist ideal",
+        "Aufwärmen ist immer verboten",
+        "Er muss dreimal erhitzt werden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lange Warmhalten fördert die Bildung von Nitrit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Babys sollte Spinat frisch zubereitet werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Nitrit ist für Säuglinge besonders bedenklich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Spinat liefert Folsäure, Vitamin K und Beta-Carotin.",
+        "Sein Eisengehalt ist nicht außergewöhnlich.",
+        "Vitamin C verbessert die Eisenaufnahme.",
+        "Reste rasch kühlen und nur einmal aufwärmen."
+      ]
+    }
+  ]
+}

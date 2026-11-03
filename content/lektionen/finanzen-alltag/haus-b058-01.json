@@ -1,0 +1,121 @@
+{
+  "id": "haus-b058-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du eine Daunenjacke richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "daunenjacke",
+    "waesche",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Daunenjacken sind warm, leicht und oft teuer.",
+        "Viele trauen sich nicht, sie zu waschen. Mit etwas Sorgfalt klappt es aber gut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor dem Waschen",
+      "absaetze": [
+        "Schau zuerst auf das Pflegeetikett. Die meisten Daunenjacken dürfen in die Maschine. Schließe Reißverschlüsse und Druckknöpfe und dreh die Jacke auf links.",
+        "Wasch Daunen nicht zu oft. Kleine Flecken lassen sich meist mit einem feuchten Tuch entfernen. Lüften hilft gegen Gerüche."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend waschen",
+      "absaetze": [
+        "Nutze ein spezielles Daunenwaschmittel oder ein mildes Feinwaschmittel. Weichspüler verklebt die Daunen und solltest du weglassen.",
+        "Wähle einen Schonwaschgang mit niedriger Temperatur, meist 30 Grad. Ein zusätzlicher Spülgang entfernt Waschmittelreste. Schleudere nur mit niedriger Drehzahl."
+      ],
+      "merke": "Kein Weichspüler, er verklebt die Daunen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gründlich trocknen",
+      "absaetze": [
+        "Am einfachsten geht es im Trockner bei niedriger Temperatur. Zwei bis drei saubere Tennisbälle schütteln die Daunen auf. Das kann einige Stunden dauern.",
+        "Ohne Trockner legst du die Jacke flach hin und schüttelst sie immer wieder auf. Wichtig ist, dass sie ganz trocken ist. Feuchte Daunen klumpen und riechen muffig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du beim Waschen von Daunen weglassen?",
+      "art": "mc",
+      "optionen": [
+        "Weichspüler",
+        "Wasser",
+        "Den Spülgang",
+        "Das Pflegeetikett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verklebt die Daunen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Temperatur ist meist richtig?",
+      "art": "mc",
+      "optionen": [
+        "30 Grad im Schonwaschgang",
+        "90 Grad",
+        "60 Grad mit Intensivprogramm",
+        "Gar keine Wärme, nur kaltes Spülen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schau trotzdem auf das Etikett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen Tennisbälle im Trockner?",
+      "art": "mc",
+      "optionen": [
+        "Sie schütteln die Daunen auf",
+        "Sie machen die Jacke wasserdicht",
+        "Sie entfernen Flecken",
+        "Sie kühlen die Wäsche"
+      ],
+      "richtig": 0,
+      "erklaerung": "So verklumpen die Daunen nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Feuchte Daunen können klumpen und muffig riechen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gründliches Trocknen ist wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zuerst das Pflegeetikett lesen.",
+        "Milde Waschmittel nutzen, keinen Weichspüler.",
+        "Schonwaschgang bei niedriger Temperatur.",
+        "Gründlich trocknen, am besten mit Tennisbällen."
+      ]
+    }
+  ]
+}
