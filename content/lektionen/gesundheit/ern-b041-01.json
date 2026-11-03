@@ -1,0 +1,112 @@
+{
+  "id": "ern-b041-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Roter Bete?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rote-bete",
+    "nitrat",
+    "gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rote Bete färbt Hände, Schneidebretter und manchmal sogar den Urin rot.",
+        "Die Knolle hat auch einiges an Nährstoffen zu bieten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein heimisches Gemüse",
+      "absaetze": [
+        "Rote Bete wächst auch in Deutschland und ist im Herbst und Winter frisch erhältlich. Sie liefert Folat, Kalium und Ballaststoffe.",
+        "Ihre kräftige Farbe stammt von Farbstoffen namens Betalaine."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nitrat und Sport",
+      "absaetze": [
+        "Rote Bete enthält viel Nitrat. Der Körper kann daraus Stickstoffmonoxid bilden, das die Blutgefäße weitet.",
+        "Studien deuten darauf hin, dass Rote-Bete-Saft bei manchen Menschen den Blutdruck leicht senken und die Ausdauerleistung etwas verbessern kann. Die Effekte sind aber klein."
+      ],
+      "merke": "Das Nitrat in Roter Bete kann die Gefäße weiten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu beachten ist",
+      "absaetze": [
+        "Rote Bete enthält Oxalsäure. Menschen, die zu Nierensteinen neigen, sollten große Mengen meiden.",
+        "Rot gefärbter Urin nach dem Essen von Roter Bete ist meist harmlos. Als Teil einer abwechslungsreichen Ernährung ist das Gemüse eine gute Wahl."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff in Roter Bete kann die Gefäße weiten?",
+      "art": "mc",
+      "optionen": [
+        "Nitrat, aus dem Stickstoffmonoxid entsteht",
+        "Zucker",
+        "Koffein",
+        "Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus bildet der Körper Stickstoffmonoxid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte große Mengen Rote Bete meiden?",
+      "art": "mc",
+      "optionen": [
+        "Menschen, die zu Nierensteinen neigen",
+        "Sportler",
+        "Kinder grundsätzlich",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wegen der enthaltenen Oxalsäure."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rot gefärbter Urin nach Roter Bete ist meist harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das liegt an den Farbstoffen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rote Bete liefert Folat, Kalium und Ballaststoffe.",
+        "Ihr Nitrat kann die Gefäße weiten.",
+        "Die Effekte auf Blutdruck und Leistung sind klein.",
+        "Bei Neigung zu Nierensteinen große Mengen meiden."
+      ]
+    }
+  ]
+}

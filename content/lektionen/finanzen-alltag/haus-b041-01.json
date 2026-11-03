@@ -1,0 +1,108 @@
+{
+  "id": "haus-b041-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was hilft gegen Fruchtfliegen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fruchtfliegen",
+    "kueche",
+    "hausmittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Spätsommer schwirren sie plötzlich über der Obstschale.",
+        "Fruchtfliegen sind lästig, aber harmlos und gut in den Griff zu bekommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher sie kommen",
+      "absaetze": [
+        "Fruchtfliegen werden vom Geruch gärender Früchte angelockt. Oft bringen wir ihre Eier schon mit dem Obst vom Einkauf mit.",
+        "Bei Wärme vermehren sie sich rasch. Ein einzelnes Weibchen kann Hunderte Eier legen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Lege reifes Obst in den Kühlschrank oder decke es ab. Entsorge überreife Früchte und leere den Biomüll regelmäßig.",
+        "Spüle Flaschen und Gläser mit süßen Resten aus, bevor du sie lagerst. Auch Abflüsse können eine Brutstätte sein."
+      ],
+      "merke": "Reifes Obst abdecken und Biomüll oft leeren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einfache Falle",
+      "absaetze": [
+        "Eine Schale mit etwas Essig, Saft und einem Tropfen Spülmittel lockt die Fliegen an. Das Spülmittel verhindert, dass sie wieder wegfliegen.",
+        "Insektensprays sind in der Küche nicht nötig. Das Umweltbundesamt rät, auf sie zu verzichten, wo einfache Mittel reichen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon werden Fruchtfliegen angelockt?",
+      "art": "mc",
+      "optionen": [
+        "Vom Geruch gärender Früchte",
+        "Von Licht",
+        "Von Kälte",
+        "Von Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft kommen ihre Eier mit dem Obst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient das Spülmittel in der Falle?",
+      "art": "mc",
+      "optionen": [
+        "Es verhindert, dass die Fliegen wegfliegen",
+        "Es duftet nach Obst",
+        "Es tötet Bakterien",
+        "Es färbt das Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es löst die Oberflächenspannung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Insektensprays sind gegen Fruchtfliegen in der Küche nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Einfache Mittel reichen meist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fruchtfliegen werden von gärendem Obst angelockt.",
+        "Reifes Obst abdecken oder kühlen.",
+        "Biomüll und Flaschen nicht offen stehen lassen.",
+        "Eine Essigfalle hilft, Sprays sind unnötig."
+      ]
+    }
+  ]
+}

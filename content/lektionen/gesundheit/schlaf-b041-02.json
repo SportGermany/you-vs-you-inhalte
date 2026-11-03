@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b041-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was passiert im Schlaflabor?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlaflabor",
+    "polysomnographie",
+    "diagnostik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Nacht mit vielen Kabeln am Kopf, in einem fremden Bett.",
+        "Im Schlaflabor werden Schlafstörungen genau untersucht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann es nötig ist",
+      "absaetze": [
+        "Ins Schlaflabor kommt man meist nach einer Überweisung, etwa bei Verdacht auf Schlafapnoe, Narkolepsie oder unklare Tagesmüdigkeit. Oft wird vorher zu Hause eine einfachere Messung gemacht.",
+        "Die Untersuchung dauert meist eine oder mehrere Nächte."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was gemessen wird",
+      "absaetze": [
+        "Fachleute nennen die Untersuchung Polysomnographie. Dabei werden Hirnströme, Augenbewegungen, Muskelspannung, Atmung, Sauerstoff im Blut und Herzschlag aufgezeichnet.",
+        "So lässt sich genau erkennen, in welchen Schlafphasen jemand ist und ob es Atemaussetzer oder Bewegungen gibt. Oft wird der Schlaf zusätzlich per Video beobachtet."
+      ],
+      "merke": "Die Polysomnographie zeichnet viele Körpersignale im Schlaf auf.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Angst vor dem Labor",
+      "absaetze": [
+        "Viele fürchten, mit all den Kabeln gar nicht schlafen zu können. Meist gelingt der Schlaf aber besser als erwartet. Die erste Nacht ist oft etwas unruhiger.",
+        "Bringe gewohnte Dinge mit, etwa dein eigenes Kissen oder Schlafzeug. Die Ergebnisse helfen, eine passende Behandlung zu finden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Untersuchung im Schlaflabor?",
+      "art": "mc",
+      "optionen": [
+        "Polysomnographie",
+        "Röntgen",
+        "Blutbild",
+        "Sehtest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei werden viele Signale aufgezeichnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird im Schlaflabor unter anderem gemessen?",
+      "art": "mc",
+      "optionen": [
+        "Hirnströme und Atmung",
+        "Die Haarfarbe",
+        "Die Körpergröße",
+        "Der Blutzucker allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Herzschlag und Sauerstoff im Blut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die erste Nacht im Schlaflabor ist oft etwas unruhiger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist bekannt und wird berücksichtigt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ins Schlaflabor kommt man meist mit Überweisung.",
+        "Die Polysomnographie misst viele Signale im Schlaf.",
+        "Sie zeigt Schlafphasen, Atemaussetzer und Bewegungen.",
+        "Eigene Dinge mitzubringen, erleichtert das Schlafen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "geo-b041-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Wie funktioniert das Asylrecht in Deutschland?",
+  "minuten": 5,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Asyl und Flüchtlingsschutz",
+      "herausgeber": "Bundesamt für Migration und Flüchtlinge (BAMF)",
+      "url": "https://www.bamf.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "asyl",
+    "fluechtlingsschutz",
+    "grundgesetz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Menschen, die vor Verfolgung fliehen, können in Deutschland Schutz suchen.",
+        "Doch wie funktioniert das Verfahren?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grundlagen",
+      "absaetze": [
+        "Nach dem Grundgesetz haben politisch Verfolgte ein Recht auf Asyl. Dazu kommen der Schutz nach der Genfer Flüchtlingskonvention und der subsidiäre Schutz für Menschen, denen in ihrem Land ernsthafter Schaden droht, etwa durch Krieg.",
+        "Zuständig für die Prüfung ist das Bundesamt für Migration und Flüchtlinge, kurz BAMF."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Verfahren",
+      "absaetze": [
+        "Asylsuchende stellen einen Antrag und werden persönlich angehört. Dabei schildern sie, warum sie geflohen sind.",
+        "Das BAMF prüft jeden Einzelfall. Wird der Antrag abgelehnt, kann dagegen vor Gericht geklagt werden. Wer keinen Schutz erhält, muss das Land in der Regel verlassen."
+      ],
+      "merke": "Jeder Asylantrag wird einzeln geprüft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Europäische Regeln",
+      "absaetze": [
+        "Innerhalb der EU regelt das Dublin-Verfahren, welcher Staat für einen Antrag zuständig ist. Meist ist es der Staat, den eine Person zuerst betreten hat.",
+        "Die EU hat ihr Asylsystem reformiert. Die neuen Regeln sollen schrittweise angewendet werden. Asylpolitik bleibt politisch stark umstritten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer prüft in Deutschland Asylanträge?",
+      "art": "mc",
+      "optionen": [
+        "Das Bundesamt für Migration und Flüchtlinge",
+        "Die Polizei",
+        "Das Bundesverfassungsgericht",
+        "Die Gemeinde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder Fall wird einzeln geprüft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was regelt das Dublin-Verfahren?",
+      "art": "mc",
+      "optionen": [
+        "Welcher EU-Staat für einen Antrag zuständig ist",
+        "Die Höhe von Sozialleistungen",
+        "Die Staatsbürgerschaft",
+        "Die Einreise per Flugzeug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist ist es der Staat der ersten Einreise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegen einen abgelehnten Asylantrag kann vor Gericht geklagt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gerichte überprüfen die Entscheidung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach dem Grundgesetz haben politisch Verfolgte ein Recht auf Asyl.",
+        "Dazu kommen Flüchtlingsschutz und subsidiärer Schutz.",
+        "Das BAMF prüft jeden Antrag einzeln.",
+        "Das Dublin-Verfahren regelt die Zuständigkeit in der EU."
+      ]
+    }
+  ]
+}
