@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b038-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Macht Schlafmangel anfälliger für Infekte?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "immunsystem",
+    "schlafmangel",
+    "erkaeltung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer stressigen Woche mit wenig Schlaf kommt prompt die Erkältung.",
+        "Zufall oder Zusammenhang?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlaf und Abwehr",
+      "absaetze": [
+        "Im Schlaf ist das Immunsystem aktiv. Es bildet Botenstoffe und verarbeitet Informationen über Krankheitserreger.",
+        "Studien deuten darauf hin, dass Schlaf auch die Wirkung von Impfungen unterstützt. In Versuchen bildeten ausgeschlafene Menschen nach einer Impfung oft mehr Abwehrstoffe."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In einer bekannten Studie wurden Freiwillige gezielt mit Erkältungsviren in Kontakt gebracht. Wer in den Wochen davor wenig geschlafen hatte, erkrankte häufiger.",
+        "Dauerhafter Schlafmangel scheint die Abwehr zu schwächen. Einzelne kurze Nächte sind dagegen meist kein großes Problem."
+      ],
+      "merke": "Dauerhaft wenig Schlaf kann die Abwehr schwächen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Regelmäßig ausreichend Schlaf unterstützt das Immunsystem. Wer krank ist, sollte dem Körper Ruhe gönnen.",
+        "Schlaf ersetzt aber keine anderen Schutzmaßnahmen wie Händewaschen oder Impfungen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte eine bekannte Studie mit Erkältungsviren?",
+      "art": "mc",
+      "optionen": [
+        "Wer wenig geschlafen hatte, erkrankte häufiger",
+        "Schlaf hatte keinen Einfluss",
+        "Wenig Schlaf schützte",
+        "Alle erkrankten gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dauerhafter Schlafmangel scheint die Abwehr zu schwächen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Schlaf nach Studien unterstützen?",
+      "art": "mc",
+      "optionen": [
+        "Die Wirkung von Impfungen",
+        "Das Haarwachstum",
+        "Die Körpergröße",
+        "Die Sehkraft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ausgeschlafene bildeten oft mehr Abwehrstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einzelne kurze Nächte sind meist kein großes Problem.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Problematisch ist dauerhafter Schlafmangel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Schlaf ist das Immunsystem aktiv.",
+        "Dauerhafter Schlafmangel kann die Abwehr schwächen.",
+        "Schlaf unterstützt die Wirkung von Impfungen.",
+        "Schlaf ersetzt keine anderen Schutzmaßnahmen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "all-b038-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Woraus bestehen die Ringe des Saturn?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Saturn",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "saturn",
+    "ringe",
+    "cassini"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schon mit einem kleinen Teleskop sieht man die Ringe des Saturn.",
+        "Doch sie sind nicht fest, wie es von der Erde aus scheint."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eis und Gestein",
+      "absaetze": [
+        "Die Ringe bestehen aus unzähligen Brocken aus Eis und etwas Gestein. Ihre Größe reicht von Staubkörnern bis zu Brocken so groß wie ein Haus.",
+        "Die Ringe sind sehr breit, aber erstaunlich dünn. Stellenweise sind sie nur einige Dutzend Meter dick."
+      ],
+      "merke": "Saturns Ringe bestehen vor allem aus Eisbrocken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher sie stammen",
+      "absaetze": [
+        "Wie die Ringe entstanden sind, ist nicht abschließend geklärt. Eine Annahme ist, dass ein Mond oder Komet zu nahe kam und von der Schwerkraft des Saturn zerrissen wurde.",
+        "Die Raumsonde Cassini erforschte Saturn von 2004 bis 2017. Ihre Daten deuten darauf hin, dass die Ringe womöglich jünger sind als der Planet selbst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht nur Saturn",
+      "absaetze": [
+        "Auch Jupiter, Uranus und Neptun haben Ringe. Sie sind aber viel dunkler und schwerer zu sehen.",
+        "Saturn ist der zweitgrößte Planet im Sonnensystem. Er besteht vor allem aus Wasserstoff und Helium und hat sehr viele Monde."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen Saturns Ringe vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Aus Eisbrocken",
+        "Aus festem Metall",
+        "Aus Gas",
+        "Aus Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommt etwas Gestein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Raumsonde erforschte Saturn von 2004 bis 2017?",
+      "art": "mc",
+      "optionen": [
+        "Cassini",
+        "Apollo",
+        "Voyager 3",
+        "Sputnik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihre Daten zeigen viel über die Ringe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nur Saturn hat Ringe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch Jupiter, Uranus und Neptun haben Ringe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Saturns Ringe bestehen vor allem aus Eisbrocken.",
+        "Sie sind sehr breit, aber dünn.",
+        "Ihre Entstehung ist nicht abschließend geklärt.",
+        "Auch andere Gasplaneten haben Ringe."
+      ]
+    }
+  ]
+}

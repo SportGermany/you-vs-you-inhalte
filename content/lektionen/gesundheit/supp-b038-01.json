@@ -1,0 +1,126 @@
+{
+  "id": "supp-b038-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum ist Rotschimmelreis umstritten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rotschimmelreis",
+    "cholesterin",
+    "monacolin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rotschimmelreis wird als natürliches Mittel gegen hohes Cholesterin beworben.",
+        "Doch der Wirkstoff ist mit einem Medikament identisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Rotschimmelreis entsteht, wenn Reis mit bestimmten Schimmelpilzen fermentiert wird. Dabei bildet sich der Stoff Monacolin K.",
+        "Monacolin K ist chemisch identisch mit Lovastatin, einem Wirkstoff aus der Gruppe der Statine. Statine sind Medikamente zur Senkung des Cholesterins."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Risiken",
+      "absaetze": [
+        "Wie Statine kann Monacolin K Nebenwirkungen haben, etwa Muskelschmerzen und Leberprobleme. Auch Wechselwirkungen mit anderen Medikamenten sind möglich.",
+        "Die EU hat 2022 die erlaubte Menge an Monacolinen in Nahrungsergänzungsmitteln deutlich begrenzt. Zudem kann Rotschimmelreis den Pilzgiftstoff Citrinin enthalten."
+      ],
+      "merke": "Rotschimmelreis wirkt wie ein Medikament, ohne ärztliche Kontrolle.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das BfR rät",
+      "absaetze": [
+        "Das BfR rät von der Verwendung ohne ärztliche Begleitung ab. Erhöhte Cholesterinwerte gehören in ärztliche Behandlung.",
+        "Schwangere, Stillende, Kinder und Menschen, die bereits Statine nutzen, sollten Rotschimmelreis-Präparate nicht verwenden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht verwenden bei Schwangerschaft, Stillzeit, für Kinder oder bei Einnahme von Statinen.",
+        "Nur nach ärztlicher Rücksprache verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Wirkstoff ist Monacolin K identisch?",
+      "art": "mc",
+      "optionen": [
+        "Lovastatin",
+        "Vitamin C",
+        "Koffein",
+        "Insulin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lovastatin ist ein Statin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Nebenwirkungen sind möglich?",
+      "art": "mc",
+      "optionen": [
+        "Muskelschmerzen und Leberprobleme",
+        "Bessere Sehkraft",
+        "Mehr Haarwuchs",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie bei Statinen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bereits Statine nutzt, sollte keinen Rotschimmelreis verwenden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Wirkungen könnten sich addieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rotschimmelreis enthält Monacolin K.",
+        "Monacolin K ist identisch mit dem Medikament Lovastatin.",
+        "Nebenwirkungen und Wechselwirkungen sind möglich.",
+        "Erhöhtes Cholesterin gehört in ärztliche Behandlung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ern-b038-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum ist Rohmilch riskant?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rohmilch",
+    "keime",
+    "lebensmittelsicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frisch vom Hof schmeckt Milch für viele besonders gut.",
+        "Unbehandelte Rohmilch kann aber krank machende Keime enthalten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Rohmilch ist",
+      "absaetze": [
+        "Rohmilch ist Milch, die nicht über 40 Grad erhitzt wurde. Sie ist also weder pasteurisiert noch ultrahocherhitzt.",
+        "Beim Pasteurisieren wird Milch kurz erhitzt. Dabei werden die meisten krank machenden Keime abgetötet, während Geschmack und Nährstoffe weitgehend erhalten bleiben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Keime",
+      "absaetze": [
+        "Rohmilch kann Bakterien wie Campylobacter, EHEC oder Listerien enthalten. Sie können schwere Durchfallerkrankungen und in seltenen Fällen bleibende Schäden verursachen.",
+        "Das BfR empfiehlt, Rohmilch vor dem Trinken abzukochen. Milch-Tankstellen auf Bauernhöfen weisen meist ausdrücklich darauf hin."
+      ],
+      "merke": "Rohmilch vor dem Trinken abkochen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besonders gefährdete Gruppen",
+      "absaetze": [
+        "Kleinkinder, Schwangere, ältere Menschen und Menschen mit geschwächtem Immunsystem sollten keine unbehandelte Rohmilch trinken. Für sie können Infektionen besonders gefährlich sein.",
+        "Für vermutete gesundheitliche Vorteile von Rohmilch gibt es keine überzeugenden Belege, die das Risiko aufwiegen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Rohmilch?",
+      "art": "mc",
+      "optionen": [
+        "Milch, die nicht über 40 Grad erhitzt wurde",
+        "Milch ohne Fett",
+        "Milch mit Zucker",
+        "Milch aus Pflanzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist weder pasteurisiert noch ultrahocherhitzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfiehlt das BfR bei Rohmilch?",
+      "art": "mc",
+      "optionen": [
+        "Vor dem Trinken abkochen",
+        "Möglichst warm trinken",
+        "Mit Wasser verdünnen",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden Keime abgetötet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schwangere sollten keine unbehandelte Rohmilch trinken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für sie sind Infektionen besonders gefährlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rohmilch ist nicht über 40 Grad erhitzte Milch.",
+        "Sie kann krank machende Keime enthalten.",
+        "Vor dem Trinken abkochen.",
+        "Gefährdete Gruppen sollten darauf verzichten."
+      ]
+    }
+  ]
+}

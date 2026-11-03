@@ -1,0 +1,108 @@
+{
+  "id": "vers-b038-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wofür gibt es eine Krankentagegeldversicherung?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "krankentagegeld",
+    "selbststaendige",
+    "einkommen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer länger krank ist, bekommt als Angestellter zunächst weiter Gehalt und später Krankengeld.",
+        "Selbstständige und gut Verdienende haben aber oft eine Lücke."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Absicherung bei Angestellten",
+      "absaetze": [
+        "Angestellte erhalten im Krankheitsfall in der Regel sechs Wochen lang ihr Gehalt weiter. Danach zahlt die gesetzliche Krankenkasse Krankengeld.",
+        "Das Krankengeld ist aber niedriger als das Nettogehalt und nach oben begrenzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer eine Lücke hat",
+      "absaetze": [
+        "Selbstständige haben keinen Arbeitgeber, der weiterzahlt. Sie müssen sich selbst absichern, etwa mit einer Krankentagegeldversicherung.",
+        "Sie zahlt für jeden Tag der Arbeitsunfähigkeit einen vereinbarten Betrag. Auch Angestellte mit hohem Einkommen nutzen sie, um die Lücke zum Krankengeld zu schließen."
+      ],
+      "merke": "Für Selbstständige ist ein Krankentagegeld besonders wichtig."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Wichtig ist, ab welchem Tag die Versicherung zahlt und wie hoch der Tagessatz ist. Ein späterer Beginn senkt die Beiträge, setzt aber ein finanzielles Polster voraus.",
+        "Das Krankentagegeld ersetzt keine Berufsunfähigkeitsversicherung. Es ist für vorübergehende Krankheit gedacht, nicht für dauerhafte Erwerbsunfähigkeit."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zahlt eine Krankentagegeldversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Einen vereinbarten Betrag pro Tag der Arbeitsunfähigkeit",
+        "Die Arztrechnung",
+        "Die Miete direkt",
+        "Den Urlaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gleicht Einkommensausfälle aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist sie besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Für Selbstständige",
+        "Für Kinder",
+        "Für Rentner ohne Arbeit",
+        "Für Haustiere"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie haben keinen Arbeitgeber, der weiterzahlt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Krankentagegeld ersetzt eine Berufsunfähigkeitsversicherung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist für vorübergehende Krankheit gedacht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Angestellte erhalten zunächst Gehalt, dann Krankengeld.",
+        "Selbstständige müssen sich selbst absichern.",
+        "Krankentagegeld zahlt einen festen Tagessatz.",
+        "Es ersetzt keine Berufsunfähigkeitsversicherung."
+      ]
+    }
+  ]
+}

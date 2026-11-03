@@ -1,0 +1,108 @@
+{
+  "id": "tech-b038-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie misst eine Smartwatch den Puls?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Messtechnik",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "smartwatch",
+    "puls",
+    "sensor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Rückseite vieler Fitnessuhren blinken grüne Lichter.",
+        "Damit messen sie deinen Puls."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht und Blut",
+      "absaetze": [
+        "Die Uhr leuchtet mit grünem Licht in die Haut. Blut absorbiert grünes Licht gut.",
+        "Bei jedem Herzschlag fließt mehr Blut durch die Gefäße am Handgelenk, danach wieder weniger. Ein Sensor misst, wie viel Licht zurückkommt. Aus diesen Schwankungen errechnet die Uhr den Puls."
+      ],
+      "merke": "Die Uhr misst Pulsschwankungen über reflektiertes Licht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie genau ist das",
+      "absaetze": [
+        "In Ruhe sind die Werte oft recht genau. Bei Sport mit viel Bewegung am Handgelenk kann die Messung ungenauer werden.",
+        "Auch ein lockerer Sitz, Tattoos oder sehr kalte Haut können die Messung stören. Brustgurte, die elektrische Signale des Herzens messen, gelten meist als genauer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gesundheitsfunktionen",
+      "absaetze": [
+        "Manche Uhren können Hinweise auf Herzrhythmusstörungen geben. Sie ersetzen aber keine ärztliche Untersuchung.",
+        "Zeigt die Uhr auffällige Werte an oder hast du Beschwerden, solltest du das ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Licht messen viele Smartwatches den Puls?",
+      "art": "mc",
+      "optionen": [
+        "Mit grünem Licht",
+        "Mit Röntgenstrahlen",
+        "Mit Radiowellen",
+        "Mit UV-Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Blut absorbiert grünes Licht gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kann die Messung ungenauer werden?",
+      "art": "mc",
+      "optionen": [
+        "Bei Sport mit viel Bewegung am Handgelenk",
+        "In völliger Ruhe",
+        "Im Schlaf",
+        "Beim Lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein lockerer Sitz stört."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Smartwatches ersetzen eine ärztliche Untersuchung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie können nur Hinweise geben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Smartwatches messen den Puls mit Licht.",
+        "Blut absorbiert grünes Licht, der Sensor misst die Schwankung.",
+        "Bei viel Bewegung wird die Messung ungenauer.",
+        "Auffällige Werte ärztlich abklären lassen."
+      ]
+    }
+  ]
+}
