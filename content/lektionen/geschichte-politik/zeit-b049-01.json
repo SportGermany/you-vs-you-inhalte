@@ -1,0 +1,127 @@
+{
+  "id": "zeit-b049-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was geschah beim Attentat auf John F. Kennedy?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "November 22, 1963: Death of the President",
+      "herausgeber": "John F. Kennedy Presidential Library and Museum",
+      "url": "https://www.jfklibrary.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kennedy",
+    "usa",
+    "1963"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am 22. November 1963 fuhr US-Präsident John F. Kennedy im offenen Wagen durch Dallas.",
+        "Wenige Minuten später war er tot."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schüsse in Dallas",
+      "absaetze": [
+        "Während der Fahrt durch die Innenstadt fielen Schüsse. Kennedy wurde tödlich getroffen und starb kurz darauf im Krankenhaus.",
+        "Noch am selben Tag wurde Vizepräsident Lyndon B. Johnson an Bord der Präsidentenmaschine als neuer Präsident vereidigt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Täter",
+      "absaetze": [
+        "Die Polizei nahm Lee Harvey Oswald fest. Er soll aus einem Fenster eines Schulbuchlagers geschossen haben.",
+        "Zwei Tage später wurde Oswald selbst erschossen, als er verlegt werden sollte. Der Täter war der Nachtclubbesitzer Jack Ruby. Ein Prozess gegen Oswald fand deshalb nie statt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Untersuchung und Zweifel",
+      "absaetze": [
+        "Die sogenannte Warren-Kommission kam 1964 zu dem Ergebnis, dass Oswald allein gehandelt hat.",
+        "Viele Menschen zweifelten daran. Bis heute kursieren zahlreiche Verschwörungstheorien. Belege für eine Verschwörung wurden in den offiziellen Untersuchungen nicht überzeugend gefunden."
+      ],
+      "merke": "Die Warren-Kommission sah Oswald als Einzeltäter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde Kennedy erschossen?",
+      "art": "mc",
+      "optionen": [
+        "Am 22. November 1963",
+        "Am 4. Juli 1960",
+        "Am 9. November 1989",
+        "Am 11. September 2001"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Dallas, Texas."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer wurde als Täter festgenommen?",
+      "art": "mc",
+      "optionen": [
+        "Jack Ruby",
+        "Lee Harvey Oswald",
+        "Richard Nixon",
+        "Martin Luther King"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er wurde zwei Tage später selbst erschossen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer wurde nach Kennedys Tod Präsident?",
+      "art": "mc",
+      "optionen": [
+        "Richard Nixon",
+        "Robert Kennedy",
+        "Lyndon B. Johnson",
+        "Dwight Eisenhower"
+      ],
+      "richtig": 2,
+      "erklaerung": "Er wurde noch am selben Tag vereidigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Oswald stand wegen des Attentats lange vor Gericht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er wurde erschossen, bevor es zum Prozess kam."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kennedy wurde am 22. November 1963 in Dallas erschossen.",
+        "Lee Harvey Oswald wurde als Täter festgenommen.",
+        "Oswald wurde zwei Tage später selbst getötet.",
+        "Die Warren-Kommission sah ihn als Einzeltäter."
+      ]
+    }
+  ]
+}

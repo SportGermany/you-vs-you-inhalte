@@ -1,0 +1,126 @@
+{
+  "id": "supp-b049-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Glucomannan zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glucomannan",
+    "konjak",
+    "saettigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Glucomannan wird als natürlicher Sattmacher in Kapseln verkauft.",
+        "Der Stoff stammt aus der Konjakwurzel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein quellender Ballaststoff",
+      "absaetze": [
+        "Glucomannan ist ein Ballaststoff, der sehr viel Wasser binden kann. Im Magen quillt er auf und soll so ein Sättigungsgefühl erzeugen.",
+        "Aus Konjak werden in Asien auch Nudeln und andere Lebensmittel hergestellt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Effekte",
+      "absaetze": [
+        "Für Glucomannan ist eine gesundheitsbezogene Aussage zur Gewichtsabnahme im Rahmen einer energiearmen Ernährung zugelassen. Die beobachteten Effekte in Studien sind aber klein.",
+        "Ohne veränderte Ess- und Bewegungsgewohnheiten bewirken die Kapseln wenig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein unterschätztes Risiko",
+      "absaetze": [
+        "Weil Glucomannan stark quillt, kann es im Hals oder in der Speiseröhre stecken bleiben. Deshalb muss es mit reichlich Flüssigkeit verwendet werden. Ein entsprechender Warnhinweis ist vorgeschrieben.",
+        "Für Menschen mit Schluckbeschwerden ist es nicht geeignet. Konjak-Gelee-Süßigkeiten sind wegen Erstickungsgefahr in der EU verboten."
+      ],
+      "merke": "Glucomannan nur mit reichlich Flüssigkeit verwenden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nur mit reichlich Flüssigkeit verwenden, Erstickungsgefahr beachten.",
+        "Bei Schluckbeschwerden oder Medikamenten vorher ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus stammt Glucomannan?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Konjakwurzel",
+        "Aus Algen",
+        "Aus Kuhmilch",
+        "Aus Kaffeebohnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus werden auch Nudeln hergestellt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Risiko von Glucomannan?",
+      "art": "mc",
+      "optionen": [
+        "Es kann im Hals stecken bleiben",
+        "Es macht süchtig",
+        "Es färbt die Haut",
+        "Es erhöht den Blutdruck stark"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es quillt stark auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Glucomannan bewirkt ohne Änderung der Gewohnheiten große Gewichtsverluste.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Effekte sind klein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glucomannan ist ein stark quellender Ballaststoff.",
+        "Der Effekt auf das Gewicht ist klein.",
+        "Es muss mit reichlich Flüssigkeit verwendet werden.",
+        "Bei Schluckbeschwerden ist es ungeeignet."
+      ]
+    }
+  ]
+}

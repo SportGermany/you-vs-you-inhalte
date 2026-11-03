@@ -1,0 +1,124 @@
+{
+  "id": "koer-b049-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Woher kommt Schwindel?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schwindel",
+    "gleichgewicht",
+    "innenohr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Welt dreht sich, der Boden schwankt.",
+        "Schwindel ist ein häufiges Gefühl mit vielen möglichen Ursachen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Widersprüchliche Signale",
+      "absaetze": [
+        "Für das Gleichgewicht vergleicht das Gehirn Signale aus dem Innenohr, den Augen und den Muskeln. Passen diese Informationen nicht zusammen, entsteht Schwindel.",
+        "Das kennen viele von Karussellfahrten oder vom Lesen im fahrenden Auto."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Ursachen",
+      "absaetze": [
+        "Harmlos ist oft ein kurzer Schwindel beim schnellen Aufstehen, weil der Blutdruck kurz absackt. Auch zu wenig Trinken kann Schwindel begünstigen.",
+        "Eine häufige Ursache für Drehschwindel sind kleine Kristalle im Innenohr, die sich gelöst haben. Fachleute nennen das gutartigen Lagerungsschwindel. Er lässt sich oft mit speziellen Lagerungsübungen gut behandeln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann es dringend ist",
+      "absaetze": [
+        "Plötzlicher starker Schwindel zusammen mit Sprachstörungen, Lähmungen, Sehstörungen oder starken Kopfschmerzen kann auf einen Schlaganfall hinweisen.",
+        "Dann sofort den Notruf 112 wählen. Wiederkehrender Schwindel sollte ärztlich abgeklärt werden."
+      ],
+      "merke": "Schwindel mit Lähmung oder Sprachstörung: sofort 112.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Signale vergleicht das Gehirn für das Gleichgewicht?",
+      "art": "mc",
+      "optionen": [
+        "Innenohr, Augen und Muskeln",
+        "Nur die Augen",
+        "Nur die Haut",
+        "Magen und Darm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Passen sie nicht zusammen, entsteht Schwindel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist gutartiger Lagerungsschwindel?",
+      "art": "mc",
+      "optionen": [
+        "Schwindel durch gelöste Kristalle im Innenohr",
+        "Schwindel durch Höhenangst",
+        "Ein Vitaminmangel",
+        "Ein Sonnenstich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er lässt sich oft mit Übungen behandeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du bei plötzlichem Schwindel mit Lähmung oder Sprachstörung?",
+      "art": "mc",
+      "optionen": [
+        "Abwarten",
+        "Sofort den Notruf 112 wählen",
+        "Einen Kaffee trinken",
+        "Hinlegen und schlafen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Es kann ein Schlaganfall sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kurzer Schwindel beim schnellen Aufstehen ist oft harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Blutdruck sackt kurz ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwindel entsteht bei widersprüchlichen Signalen.",
+        "Schnelles Aufstehen kann kurz schwindelig machen.",
+        "Gelöste Innenohrkristalle verursachen Lagerungsschwindel.",
+        "Mit Lähmung oder Sprachstörung sofort 112 wählen."
+      ]
+    }
+  ]
+}

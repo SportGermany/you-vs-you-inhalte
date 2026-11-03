@@ -1,0 +1,127 @@
+{
+  "id": "welt-b049-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wie wurde das Christentum zur Staatsreligion Roms?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebendiges Museum Online",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "christentum",
+    "roemisches-reich",
+    "spaetantike"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lange wurden Christen im Römischen Reich verfolgt.",
+        "Innerhalb von weniger als hundert Jahren wurde ihr Glaube zur Staatsreligion."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verfolgung",
+      "absaetze": [
+        "Christen weigerten sich, den römischen Göttern und dem Kaiser zu opfern. Das galt als Gefahr für den Staat. Immer wieder kam es zu Verfolgungen.",
+        "Die letzte große Verfolgung begann im Jahr 303 unter Kaiser Diokletian. Kirchen wurden zerstört, viele Christen getötet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Wende unter Konstantin",
+      "absaetze": [
+        "Kaiser Konstantin führte seinen Sieg an der Milvischen Brücke im Jahr 312 auf den christlichen Gott zurück. 313 vereinbarten die Kaiser Religionsfreiheit für Christen.",
+        "Konstantin förderte die Kirche und ließ Kirchen bauen. 325 berief er das Konzil von Nicäa ein, um Streit über die Glaubenslehre zu klären."
+      ],
+      "merke": "Konstantin beendete die Verfolgung und förderte die Kirche."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Staatsreligion",
+      "absaetze": [
+        "Im Jahr 380 erklärte Kaiser Theodosius I. das Christentum zur verbindlichen Religion im Reich. Wenige Jahre später wurden die alten Kulte verboten.",
+        "Damit wurde die einst verfolgte Gemeinschaft zur Staatskirche. Das prägte Europa für viele Jahrhunderte."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Unter welchem Kaiser begann 303 die letzte große Christenverfolgung?",
+      "art": "mc",
+      "optionen": [
+        "Augustus",
+        "Nero",
+        "Diokletian",
+        "Theodosius"
+      ],
+      "richtig": 2,
+      "erklaerung": "Kirchen wurden zerstört, viele getötet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Kaiser förderte nach 312 die Kirche?",
+      "art": "mc",
+      "optionen": [
+        "Konstantin",
+        "Caligula",
+        "Hadrian",
+        "Caesar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er führte seinen Sieg auf den christlichen Gott zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde das Christentum zur verbindlichen Religion erklärt?",
+      "art": "mc",
+      "optionen": [
+        "Im Jahr 64",
+        "Im Jahr 313",
+        "Im Jahr 380",
+        "Im Jahr 800"
+      ],
+      "richtig": 2,
+      "erklaerung": "Unter Kaiser Theodosius I."
+    },
+    {
+      "typ": "quiz",
+      "frage": "313 wurde den Christen Religionsfreiheit gewährt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Verfolgungen endeten damit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Christen wurden in Rom lange verfolgt.",
+        "Konstantin beendete die Verfolgung und förderte die Kirche.",
+        "380 wurde das Christentum verbindliche Religion.",
+        "Danach wurden die alten Kulte verboten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ern-b049-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Leinsamen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "leinsamen",
+    "omega-3",
+    "ballaststoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Leinsamen landen im Müsli, im Brot oder im Joghurt.",
+        "Die kleinen braunen Samen haben einiges zu bieten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflanzliches Omega-3",
+      "absaetze": [
+        "Leinsamen und Leinöl enthalten viel Alpha-Linolensäure. Das ist eine pflanzliche Omega-3-Fettsäure.",
+        "Der Körper kann daraus nur in geringem Umfang die Omega-3-Fettsäuren bilden, die in fettem Fisch stecken. Für eine abwechslungsreiche Ernährung ist Leinsamen trotzdem eine gute Ergänzung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ballaststoffe und Schleim",
+      "absaetze": [
+        "Leinsamen sind reich an Ballaststoffen und Schleimstoffen. Sie quellen im Darm auf und können die Verdauung anregen.",
+        "Wichtig ist dabei, ausreichend zu trinken. Geschrotete Leinsamen nutzt der Körper besser als ganze, die oft unverdaut wieder ausgeschieden werden."
+      ],
+      "merke": "Zu Leinsamen immer genug trinken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Maßvoll genießen",
+      "absaetze": [
+        "Leinsamen enthalten von Natur aus geringe Mengen Blausäure-bildender Stoffe. Das Bundesinstitut für Risikobewertung rät deshalb, sie nicht in sehr großen Mengen zu essen.",
+        "Leinöl wird schnell ranzig. Bewahre es kühl und dunkel auf und verwende es nicht zum Braten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäure steckt reichlich in Leinsamen?",
+      "art": "mc",
+      "optionen": [
+        "Alpha-Linolensäure",
+        "Transfett",
+        "Cholesterin",
+        "Milchsäure"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist eine pflanzliche Omega-3-Fettsäure."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du zu Leinsamen tun?",
+      "art": "mc",
+      "optionen": [
+        "Ausreichend trinken",
+        "Salz dazugeben",
+        "Nur nachts essen",
+        "Sie vorher einfrieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schleimstoffe quellen im Darm auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du Leinöl aufbewahren?",
+      "art": "mc",
+      "optionen": [
+        "Warm und hell",
+        "Kühl und dunkel",
+        "Im Backofen",
+        "Offen auf der Fensterbank"
+      ],
+      "richtig": 1,
+      "erklaerung": "Es wird schnell ranzig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geschrotete Leinsamen nutzt der Körper besser als ganze.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ganze Samen werden oft unverdaut ausgeschieden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Leinsamen liefern pflanzliches Omega-3.",
+        "Ihre Ballaststoffe quellen im Darm auf.",
+        "Dazu immer ausreichend trinken.",
+        "Leinöl kühl und dunkel lagern."
+      ]
+    }
+  ]
+}

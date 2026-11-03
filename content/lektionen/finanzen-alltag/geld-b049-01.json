@@ -1,0 +1,114 @@
+{
+  "id": "geld-b049-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sagt der Effektivzins aus?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kredite verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "effektivzins",
+    "kredit",
+    "vergleich"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Kreditangebote nennen unterschiedliche Zinsen. Welches ist wirklich günstiger?",
+        "Dafür gibt es den effektiven Jahreszins."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sollzins und Effektivzins",
+      "absaetze": [
+        "Der Sollzins ist der reine Zins für das geliehene Geld. Der effektive Jahreszins enthält zusätzlich bestimmte Kosten, etwa Bearbeitungsgebühren.",
+        "Deshalb ist der Effektivzins meist höher als der Sollzins. Er zeigt die tatsächliche jährliche Belastung besser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zum Vergleichen gemacht",
+      "absaetze": [
+        "Banken müssen bei Krediten den effektiven Jahreszins angeben. So lassen sich Angebote verschiedener Anbieter vergleichen.",
+        "Achte aber darauf, ob Laufzeit und Kreditsumme gleich sind. Nur dann ist der Vergleich wirklich fair."
+      ],
+      "merke": "Kredite immer über den Effektivzins vergleichen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nicht drin ist",
+      "absaetze": [
+        "Nicht alle Kosten stecken im Effektivzins. Freiwillige Zusatzprodukte wie eine Restschuldversicherung sind oft nicht enthalten.",
+        "Lies deshalb das Angebot genau. Prüfe auch, ob du vorzeitig zurückzahlen kannst und was das kostet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält der effektive Jahreszins zusätzlich zum Sollzins?",
+      "art": "mc",
+      "optionen": [
+        "Bestimmte Kosten wie Bearbeitungsgebühren",
+        "Die Inflation",
+        "Die Steuer",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist er meist höher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist der Effektivzins besonders nützlich?",
+      "art": "mc",
+      "optionen": [
+        "Zum Vergleichen von Kreditangeboten",
+        "Zum Berechnen der Miete",
+        "Zum Sparen von Strom",
+        "Zum Bewerten von Aktien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Banken müssen ihn angeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Freiwillige Zusatzversicherungen sind immer im Effektivzins enthalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind oft nicht enthalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Sollzins ist der reine Zins.",
+        "Der Effektivzins enthält zusätzliche Kosten.",
+        "Kredite mit gleicher Laufzeit über den Effektivzins vergleichen.",
+        "Zusatzprodukte genau prüfen."
+      ]
+    }
+  ]
+}

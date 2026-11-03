@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b049-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was zeigt ein Zuckerbelastungstest?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes und Diagnostik",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.ddg.info",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blutzucker",
+    "diabetes",
+    "diagnostik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Zuckerbelastungstest trinkt man eine süße Lösung und lässt sich danach Blut abnehmen.",
+        "Der Test zeigt, wie gut der Körper mit Zucker umgehen kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So läuft der Test ab",
+      "absaetze": [
+        "Der Test heißt fachlich oraler Glukosetoleranztest. Er findet morgens auf nüchternen Magen statt.",
+        "Zuerst wird der Nüchternblutzucker gemessen. Dann trinkst du eine festgelegte Zuckerlösung. Nach zwei Stunden wird der Blutzucker erneut bestimmt. Dazwischen solltest du ruhig sitzen bleiben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Werte bedeuten",
+      "absaetze": [
+        "Bei gesunden Menschen sinkt der Blutzucker nach zwei Stunden wieder deutlich ab. Bleibt er erhöht, kann das auf eine Vorstufe von Diabetes oder einen Diabetes hinweisen.",
+        "Welche Grenzwerte gelten, bewertet die ärztliche Praxis. Ein einzelner Test wird oft durch weitere Werte ergänzt, etwa den Langzeitzucker."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Test in der Schwangerschaft",
+      "absaetze": [
+        "In Deutschland wird Schwangeren ein Test auf Schwangerschaftsdiabetes angeboten. Ein solcher Diabetes bleibt oft ohne Beschwerden, kann aber Mutter und Kind belasten.",
+        "Wird er erkannt, lässt er sich meist gut behandeln. Nach der Geburt verschwindet er häufig wieder."
+      ],
+      "merke": "Schwangerschaftsdiabetes verursacht oft keine Beschwerden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Zuckerbelastungstest fachlich?",
+      "art": "mc",
+      "optionen": [
+        "Oraler Glukosetoleranztest",
+        "Belastungs-EKG",
+        "Blutbild",
+        "Cholesterintest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oral bedeutet über den Mund."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird der Blutzucker im Standardtest erneut gemessen?",
+      "art": "mc",
+      "optionen": [
+        "Nach fünf Minuten",
+        "Nach zwei Stunden",
+        "Am nächsten Tag",
+        "Nach einer Woche"
+      ],
+      "richtig": 1,
+      "erklaerung": "Davor wird der Nüchternwert bestimmt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Schwangerschaftsdiabetes macht immer deutliche Beschwerden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er bleibt oft unbemerkt, deshalb gibt es den Test."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Test prüft, wie der Körper mit Zucker umgeht.",
+        "Gemessen wird nüchtern und zwei Stunden nach der Zuckerlösung.",
+        "Erhöhte Werte können auf Diabetes oder eine Vorstufe hinweisen.",
+        "Schwangeren wird ein Test auf Schwangerschaftsdiabetes angeboten.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b049-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum wachst du manchmal kurz vor dem Wecker auf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "innere-uhr",
+    "aufwachen",
+    "stresshormone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Wecker ist auf sechs Uhr gestellt, und um fünf vor sechs bist du wach.",
+        "Viele kennen das, besonders vor wichtigen Terminen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die innere Uhr",
+      "absaetze": [
+        "Der Körper folgt einem Tagesrhythmus. Gegen Morgen steigt das Hormon Cortisol an und bereitet den Körper auf das Aufwachen vor.",
+        "Wer regelmäßig zur gleichen Zeit aufsteht, gewöhnt die innere Uhr daran. Dann wacht man oft wie von selbst kurz vor dem Wecker auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper plant voraus",
+      "absaetze": [
+        "Eine bekannte Studie aus Lübeck aus dem Jahr 1999 deutet darauf hin, dass der Körper sich auf eine geplante Weckzeit einstellen kann. Wer wusste, dass er früh geweckt wird, zeigte schon vorher einen Anstieg von Stresshormonen.",
+        "Das Gehirn scheint die erwartete Weckzeit also im Schlaf mitzudenken."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es zu früh wird",
+      "absaetze": [
+        "Vor wichtigen Terminen wachen viele mehrmals auf und schauen auf die Uhr. Das liegt an der Anspannung.",
+        "Hilfreich sind feste Aufstehzeiten auch am Wochenende. Wer dauerhaft viel zu früh aufwacht und nicht mehr einschläft, sollte das ärztlich abklären lassen."
+      ],
+      "merke": "Feste Aufstehzeiten stärken die innere Uhr.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon steigt gegen Morgen an?",
+      "art": "mc",
+      "optionen": [
+        "Cortisol",
+        "Melatonin",
+        "Insulin",
+        "Östrogen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es bereitet den Körper auf das Aufwachen vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte die Lübecker Studie von 1999?",
+      "art": "mc",
+      "optionen": [
+        "Wecker sind überflüssig",
+        "Der Körper stellt sich auf eine geplante Weckzeit ein",
+        "Niemand wacht vor dem Wecker auf",
+        "Schlaf ist am Morgen am tiefsten"
+      ],
+      "richtig": 1,
+      "erklaerung": "Stresshormone stiegen schon vorher an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Feste Aufstehzeiten können das Aufwachen vor dem Wecker begünstigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die innere Uhr gewöhnt sich daran."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gegen Morgen steigt Cortisol an.",
+        "Feste Aufstehzeiten prägen die innere Uhr.",
+        "Der Körper kann sich auf eine erwartete Weckzeit einstellen.",
+        "Dauerhaft viel zu frühes Aufwachen ärztlich abklären."
+      ]
+    }
+  ]
+}

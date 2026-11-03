@@ -3,7 +3,7 @@
   "version": 1,
   "themenwelt": "finanzen-alltag",
   "unterthema": "steuern",
-  "titel": "Was bedeutet Steuerprogression?",
+  "titel": "Was ist die Gewerbesteuer?",
   "minuten": 3,
   "studienlage": null,
   "zeitlos": true,
@@ -21,93 +21,100 @@
     }
   ],
   "tags": [
-    "progression",
-    "einkommensteuer",
-    "grenzsteuersatz"
+    "gewerbesteuer",
+    "gemeinden",
+    "selbststaendigkeit"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Wer mehr verdient, zahlt in Deutschland einen höheren Steuersatz.",
-        "Dahinter steckt die Steuerprogression, die oft missverstanden wird."
+        "Wer ein Gewerbe betreibt, zahlt nicht nur Einkommen- oder Körperschaftsteuer.",
+        "Hinzu kommt eine Steuer, die direkt an die Gemeinde geht."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Steigende Sätze",
+      "titel": "Eine Steuer für die Gemeinde",
       "absaetze": [
-        "Bei der Einkommensteuer steigt der Steuersatz mit dem Einkommen an. Das soll dafür sorgen, dass starke Schultern mehr tragen als schwache.",
-        "Unterhalb des Grundfreibetrags fällt gar keine Einkommensteuer an. Darüber beginnt der Steuersatz niedrig und steigt dann schrittweise an."
+        "Die Gewerbesteuer wird auf den Gewinn von Gewerbebetrieben erhoben. Dazu zählen etwa Handwerksbetriebe, Läden, Gaststätten und viele Unternehmen.",
+        "Sie gehört zu den wichtigsten eigenen Einnahmen der Städte und Gemeinden. Damit bezahlen sie zum Beispiel Schulen, Straßen und Schwimmbäder."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Grenzsteuersatz und Durchschnittssteuersatz",
+      "titel": "Der Hebesatz",
       "absaetze": [
-        "Der Grenzsteuersatz gibt an, wie viel Steuer auf jeden zusätzlich verdienten Euro anfällt. Der Durchschnittssteuersatz zeigt, wie viel Prozent deines gesamten Einkommens du an Steuern zahlst.",
-        "Der Durchschnittssteuersatz liegt immer unter dem Grenzsteuersatz. Denn die ersten Euro werden gar nicht oder niedrig besteuert."
+        "Wie hoch die Steuer ausfällt, hängt vom Hebesatz ab. Jede Gemeinde legt ihn selbst fest. Deshalb zahlt ein Betrieb mit gleichem Gewinn je nach Ort unterschiedlich viel.",
+        "Manche Gemeinden locken mit niedrigen Hebesätzen Unternehmen an. Andere brauchen höhere Einnahmen."
       ],
-      "merke": "Der höhere Satz gilt nur für den zusätzlichen Teil."
+      "merke": "Jede Gemeinde bestimmt ihren Hebesatz selbst."
     },
     {
       "typ": "wissen",
-      "titel": "Kalte Progression",
+      "titel": "Wer nicht zahlt",
       "absaetze": [
-        "Steigen Löhne nur so stark wie die Preise, rutscht man trotzdem in höhere Steuersätze. Die Kaufkraft sinkt dann. Das nennt man kalte Progression.",
-        "Um das auszugleichen, passt der Gesetzgeber die Eckwerte des Steuertarifs regelmäßig an."
+        "Freie Berufe wie Ärztinnen, Anwälte, Architektinnen oder Künstler sind nicht gewerbesteuerpflichtig. Auch Land- und Forstwirte zahlen keine Gewerbesteuer.",
+        "Einzelunternehmen und Personengesellschaften haben einen Freibetrag. Außerdem können sie die Gewerbesteuer teilweise auf ihre Einkommensteuer anrechnen."
       ]
-    },
-    {
-      "typ": "mythos",
-      "behauptung": "Durch eine Gehaltserhöhung kann man am Ende weniger Netto haben.",
-      "urteil": "mythos",
-      "erklaerung": "Der höhere Steuersatz gilt nur für den zusätzlichen Teil des Einkommens. Bei der Einkommensteuer bleibt nach einer Gehaltserhöhung deshalb immer mehr netto übrig als vorher."
     },
     {
       "typ": "quiz",
-      "frage": "Was gibt der Grenzsteuersatz an?",
+      "frage": "Wem fließt die Gewerbesteuer zu?",
       "art": "mc",
       "optionen": [
-        "Die Steuer auf jeden zusätzlichen Euro",
-        "Die gesamte Steuer im Leben",
-        "Den Steuersatz für Firmen",
-        "Die Höhe der Mehrwertsteuer"
+        "Den Gemeinden",
+        "Der EU",
+        "Den Krankenkassen",
+        "Den Kirchen"
       ],
       "richtig": 0,
-      "erklaerung": "Er ist höher als der Durchschnittssteuersatz."
+      "erklaerung": "Sie ist eine wichtige Einnahme der Städte und Gemeinden."
     },
     {
       "typ": "quiz",
-      "frage": "Was ist kalte Progression?",
+      "frage": "Wer legt den Hebesatz fest?",
       "art": "mc",
       "optionen": [
-        "Eine Steuer auf Heizkosten",
-        "Höhere Steuersätze trotz gleicher Kaufkraft",
-        "Ein Steuerrabatt im Winter",
-        "Eine Strafe für Spätzahler"
+        "Der Bundestag",
+        "Jede Gemeinde selbst",
+        "Die Unternehmen",
+        "Die Europäische Zentralbank"
       ],
       "richtig": 1,
-      "erklaerung": "Löhne steigen nur so stark wie die Preise."
+      "erklaerung": "Deshalb unterscheidet sich die Steuer je nach Ort."
     },
     {
       "typ": "quiz",
-      "frage": "Wegen der Progression kann eine Gehaltserhöhung das Netto bei der Einkommensteuer senken.",
+      "frage": "Wer zahlt keine Gewerbesteuer?",
+      "art": "mc",
+      "optionen": [
+        "Ein Gasthaus",
+        "Ein Handwerksbetrieb",
+        "Eine freiberufliche Ärztin",
+        "Ein Einzelhandelsgeschäft"
+      ],
+      "richtig": 2,
+      "erklaerung": "Freie Berufe sind nicht gewerbesteuerpflichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einzelunternehmen können die Gewerbesteuer teilweise auf die Einkommensteuer anrechnen.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
-      "richtig": 1,
-      "erklaerung": "Falsch. Der höhere Satz gilt nur für den zusätzlichen Teil."
+      "richtig": 0,
+      "erklaerung": "Richtig. Das mildert die Belastung."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Der Einkommensteuersatz steigt mit dem Einkommen.",
-        "Der Grenzsteuersatz gilt für jeden zusätzlichen Euro.",
-        "Der Durchschnittssteuersatz liegt immer darunter.",
-        "Eine Gehaltserhöhung führt nicht zu weniger Netto bei der Einkommensteuer."
+        "Die Gewerbesteuer belastet den Gewinn von Gewerbebetrieben.",
+        "Sie fließt an die Gemeinden.",
+        "Jede Gemeinde bestimmt ihren Hebesatz.",
+        "Freie Berufe zahlen keine Gewerbesteuer."
       ]
     }
   ]

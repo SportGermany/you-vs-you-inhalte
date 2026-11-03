@@ -1,0 +1,124 @@
+{
+  "id": "umw-b049-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was ist Bodenerosion?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Boden und Landwirtschaft",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bodenerosion",
+    "landwirtschaft",
+    "boden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Starkregen fließt braunes Wasser vom Acker auf die Straße.",
+        "Mit ihm geht wertvoller Boden verloren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn Wasser und Wind Boden abtragen",
+      "absaetze": [
+        "Bodenerosion bedeutet, dass Wasser oder Wind fruchtbare Erde abtragen. Besonders gefährdet sind Äcker ohne Pflanzendecke und Flächen am Hang.",
+        "In Deutschland ist vor allem Erosion durch Wasser ein Problem, etwa nach Starkregen. In trockenen, offenen Landschaften kann auch Wind viel Boden wegwehen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein knappes Gut",
+      "absaetze": [
+        "Fruchtbarer Oberboden bildet sich extrem langsam. Für wenige Zentimeter braucht die Natur oft Jahrhunderte.",
+        "Mit dem Boden gehen Nährstoffe verloren. Abgeschwemmte Erde kann zudem Gräben, Bäche und Straßen verschmutzen."
+      ],
+      "merke": "Fruchtbarer Boden entsteht nur sehr langsam.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Pflanzen schützen den Boden wie ein Dach. Zwischenfrüchte nach der Ernte, Mulch und eine schonende Bodenbearbeitung verringern die Erosion.",
+        "Hecken und Grünstreifen bremsen Wind und Wasser. Am Hang hilft es, quer zum Gefälle zu pflügen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Bodenerosion?",
+      "art": "mc",
+      "optionen": [
+        "Das Abtragen von Boden durch Wasser oder Wind",
+        "Das Düngen von Feldern",
+        "Das Gefrieren von Boden",
+        "Ein Erdbeben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders gefährdet sind offene Äcker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht die Natur für wenige Zentimeter fruchtbaren Boden?",
+      "art": "mc",
+      "optionen": [
+        "Wenige Tage",
+        "Einen Sommer",
+        "Oft Jahrhunderte",
+        "Genau ein Jahr"
+      ],
+      "richtig": 2,
+      "erklaerung": "Deshalb ist Boden ein knappes Gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt den Boden vor Erosion?",
+      "art": "mc",
+      "optionen": [
+        "Eine Pflanzendecke",
+        "Offene, nackte Äcker",
+        "Pflügen den Hang hinunter",
+        "Mehr Verdichtung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zwischenfrüchte und Mulch helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hecken können Wind- und Wassererosion bremsen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Grünstreifen helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wasser und Wind tragen fruchtbaren Boden ab.",
+        "Neuer Boden bildet sich nur sehr langsam.",
+        "Pflanzendecken schützen den Boden.",
+        "Hecken und Zwischenfrüchte bremsen die Erosion."
+      ]
+    }
+  ]
+}

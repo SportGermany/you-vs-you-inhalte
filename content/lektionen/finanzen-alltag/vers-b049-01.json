@@ -1,0 +1,114 @@
+{
+  "id": "vers-b049-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bedeutet Wartezeit bei einer Versicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Versicherungswissen",
+      "herausgeber": "Gesamtverband der Versicherer (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wartezeit",
+    "vertragsbeginn",
+    "zahnzusatz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du schließt eine Versicherung ab, und gleich in der ersten Woche passiert etwas.",
+        "Trotzdem zahlt die Versicherung nicht. Der Grund kann die Wartezeit sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was eine Wartezeit ist",
+      "absaetze": [
+        "Bei manchen Versicherungen beginnt der volle Schutz nicht sofort mit dem Vertrag. Erst nach einer festgelegten Wartezeit zahlt der Versicherer.",
+        "So soll verhindert werden, dass jemand erst dann eine Versicherung abschließt, wenn ein Schaden schon absehbar ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo Wartezeiten üblich sind",
+      "absaetze": [
+        "Wartezeiten gibt es zum Beispiel oft bei Zahnzusatz-, Rechtsschutz- und manchen Krankenzusatzversicherungen. Sie dauern häufig einige Monate.",
+        "Bei der Privathaftpflicht oder der Kfz-Haftpflicht gibt es dagegen meist keine Wartezeit. Manche Tarife verzichten auch ganz darauf."
+      ],
+      "merke": "Wartezeiten betreffen oft Zahnzusatz- und Rechtsschutzversicherungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Lies vor dem Abschluss, ob und wie lange eine Wartezeit gilt. Schließe Versicherungen rechtzeitig ab, nicht erst wenn ein Problem droht.",
+        "Bei einem Wechsel kann eine neue Wartezeit beginnen. Kündige den alten Vertrag deshalb erst, wenn der neue Schutz steht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet eine Wartezeit?",
+      "art": "mc",
+      "optionen": [
+        "Der volle Schutz beginnt erst nach einer bestimmten Zeit",
+        "Man muss in der Warteschleife warten",
+        "Die Versicherung zahlt doppelt",
+        "Der Vertrag endet sofort"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird verhindert, dass erst bei absehbarem Schaden abgeschlossen wird."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Versicherung sind Wartezeiten häufig?",
+      "art": "mc",
+      "optionen": [
+        "Zahnzusatzversicherung",
+        "Kfz-Haftpflicht",
+        "Privathaftpflicht",
+        "Bei keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Rechtsschutzversicherungen haben oft Wartezeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Versicherungswechsel kann eine neue Wartezeit beginnen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Den alten Vertrag erst kündigen, wenn der neue Schutz steht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wartezeiten verzögern den vollen Versicherungsschutz.",
+        "Sie sind bei Zahnzusatz- und Rechtsschutzversicherungen häufig.",
+        "Versicherungen rechtzeitig abschließen.",
+        "Beim Wechsel auf eine neue Wartezeit achten."
+      ]
+    }
+  ]
+}

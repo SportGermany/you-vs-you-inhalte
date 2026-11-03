@@ -1,0 +1,124 @@
+{
+  "id": "tech-b049-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was ist eine Blockchain?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Blockchain",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blockchain",
+    "kryptografie",
+    "daten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Blockchain ist die Technik hinter Bitcoin und vielen anderen Kryptowährungen.",
+        "Die Grundidee lässt sich auch ohne Fachwissen verstehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Kette von Datenblöcken",
+      "absaetze": [
+        "Eine Blockchain ist eine Art digitales Kassenbuch. Einträge werden in Blöcken gesammelt. Jeder neue Block enthält einen digitalen Fingerabdruck des vorherigen Blocks.",
+        "So entsteht eine Kette. Würde jemand einen alten Block verändern, passten die Fingerabdrücke nicht mehr zusammen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verteilt statt zentral",
+      "absaetze": [
+        "Die Blockchain liegt nicht bei einer einzigen Stelle, sondern als Kopie auf vielen Rechnern. Diese einigen sich nach festen Regeln, welche neuen Einträge gültig sind.",
+        "Dadurch braucht es keine zentrale Instanz wie eine Bank, um Einträge zu bestätigen. Nachträgliches Fälschen wird sehr schwer."
+      ],
+      "merke": "Viele Rechner halten gemeinsam die Daten fest.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen",
+      "absaetze": [
+        "Manche Blockchains verbrauchen sehr viel Strom, weil Rechner um die Bestätigung neuer Blöcke wetteifern. Andere Verfahren sind deutlich sparsamer.",
+        "Eine Blockchain prüft nicht, ob die eingetragenen Daten stimmen. Sie sorgt nur dafür, dass sie später nicht unbemerkt verändert werden. Falsche Daten bleiben also falsch."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält jeder neue Block einer Blockchain?",
+      "art": "mc",
+      "optionen": [
+        "Einen digitalen Fingerabdruck des vorherigen Blocks",
+        "Ein Foto",
+        "Ein Passwort für alle",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So entsteht eine Kette."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt eine Blockchain?",
+      "art": "mc",
+      "optionen": [
+        "Nur bei einer Bank",
+        "Als Kopie auf vielen Rechnern",
+        "Auf einem USB-Stick",
+        "Nur im Internetbrowser"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Rechner einigen sich nach festen Regeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine Blockchain nicht garantieren?",
+      "art": "mc",
+      "optionen": [
+        "Dass eingetragene Daten stimmen",
+        "Dass Einträge schwer zu fälschen sind",
+        "Dass viele eine Kopie haben",
+        "Dass Blöcke verkettet sind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Falsche Daten bleiben falsch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Blockchains verbrauchen sehr viel Strom.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Andere Verfahren sind sparsamer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Blockchain ist ein verkettetes digitales Kassenbuch.",
+        "Sie liegt verteilt auf vielen Rechnern.",
+        "Nachträgliches Fälschen wird sehr schwer.",
+        "Ob Daten stimmen, prüft sie nicht."
+      ]
+    }
+  ]
+}

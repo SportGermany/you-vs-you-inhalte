@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b049-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie wirkt ein spätes, schweres Abendessen auf den Schlaf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "abendessen",
+    "verdauung",
+    "schlafqualitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem üppigen Abendessen fühlt man sich müde.",
+        "Trotzdem schlafen viele danach unruhiger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verdauung arbeitet weiter",
+      "absaetze": [
+        "Eine große, fettreiche Mahlzeit beschäftigt den Verdauungstrakt noch Stunden. Im Liegen kann Magensäure leichter in die Speiseröhre aufsteigen und Sodbrennen auslösen.",
+        "Viele Menschen berichten nach späten schweren Mahlzeiten von unruhigem Schlaf. Studien deuten darauf hin, dass sehr späte Mahlzeiten den Schlaf verschlechtern können."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunger stört auch",
+      "absaetze": [
+        "Ganz hungrig ins Bett zu gehen, ist aber ebenfalls ungünstig. Ein knurrender Magen kann das Einschlafen erschweren.",
+        "Eine leichte Kleinigkeit am Abend ist für viele deshalb angenehmer als gar nichts."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alltagstipps",
+      "absaetze": [
+        "Viele Fachleute raten, die letzte größere Mahlzeit etwa zwei bis drei Stunden vor dem Schlafen zu essen. Besonders fettige und scharfe Speisen können belasten.",
+        "Wer oft Sodbrennen hat, kann das Kopfende des Betts etwas erhöhen. Bei häufigen Beschwerden ist ärztlicher Rat sinnvoll."
+      ],
+      "merke": "Die letzte große Mahlzeit lieber einige Stunden vor dem Schlafen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine schwere Mahlzeit im Liegen begünstigen?",
+      "art": "mc",
+      "optionen": [
+        "Sodbrennen",
+        "Bessere Sehkraft",
+        "Schnelleres Haarwachstum",
+        "Weniger Durst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Magensäure steigt leichter auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Abstand zur letzten größeren Mahlzeit raten viele Fachleute?",
+      "art": "mc",
+      "optionen": [
+        "Fünf Minuten",
+        "Etwa zwei bis drei Stunden",
+        "Zwölf Stunden",
+        "Einen ganzen Tag"
+      ],
+      "richtig": 1,
+      "erklaerung": "So hat die Verdauung Zeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ganz hungrig ins Bett zu gehen, kann das Einschlafen ebenfalls erschweren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine leichte Kleinigkeit kann helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwere Mahlzeiten beschäftigen die Verdauung lange.",
+        "Im Liegen kann Sodbrennen entstehen.",
+        "Auch Hunger stört das Einschlafen.",
+        "Die letzte große Mahlzeit einige Stunden vor dem Schlafen."
+      ]
+    }
+  ]
+}

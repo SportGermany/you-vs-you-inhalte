@@ -1,0 +1,117 @@
+{
+  "id": "ern-b049-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Hirse?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hirse",
+    "getreide",
+    "glutenfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hirse war in Europa lange ein Grundnahrungsmittel, bevor Kartoffeln und Weizen sie verdrängten.",
+        "Heute erlebt das kleine Korn ein Comeback."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein altes Getreide",
+      "absaetze": [
+        "Hirse ist ein Sammelbegriff für mehrere kleinkörnige Getreidearten. In Europa ist vor allem Goldhirse verbreitet, die geschält verkauft wird.",
+        "In Afrika und Asien ist Hirse bis heute für viele Menschen ein wichtiges Grundnahrungsmittel. Sie kommt mit Trockenheit gut zurecht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Hirse liefert Kohlenhydrate, Eiweiß, Ballaststoffe und Mineralstoffe wie Magnesium und Eisen. Das Eisen wird besser aufgenommen, wenn du dazu etwas Vitamin-C-Reiches isst, etwa Paprika.",
+        "Hirse ist von Natur aus glutenfrei. Für Menschen mit Zöliakie eignet sie sich, wenn sie als glutenfrei gekennzeichnet ist."
+      ],
+      "merke": "Hirse ist von Natur aus glutenfrei.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Küche",
+      "absaetze": [
+        "Spüle Hirse vor dem Kochen heiß ab, das mildert einen leicht bitteren Geschmack. Sie gart in etwa 15 bis 20 Minuten.",
+        "Hirse passt herzhaft als Beilage, in Aufläufe oder Bratlinge. Süß schmeckt sie als Frühstücksbrei mit Obst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hirse ist in Europa besonders verbreitet?",
+      "art": "mc",
+      "optionen": [
+        "Goldhirse",
+        "Wildreis",
+        "Dinkel",
+        "Quinoa"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird geschält verkauft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird das Eisen aus Hirse besser aufgenommen?",
+      "art": "mc",
+      "optionen": [
+        "Mit Kaffee",
+        "Mit Vitamin-C-reichen Lebensmitteln",
+        "Mit Milch",
+        "Gar nicht"
+      ],
+      "richtig": 1,
+      "erklaerung": "Paprika oder Obst helfen dabei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hirse ist von Natur aus glutenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei Zöliakie auf die Kennzeichnung achten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hirse ist ein altes, trockenheitsverträgliches Getreide.",
+        "Sie liefert Ballaststoffe, Magnesium und Eisen.",
+        "Hirse ist von Natur aus glutenfrei.",
+        "Heiß abspülen mildert den bitteren Geschmack."
+      ]
+    }
+  ]
+}
