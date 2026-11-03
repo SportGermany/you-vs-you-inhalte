@@ -1,0 +1,121 @@
+{
+  "id": "tech-b059-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Kompass?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Merkur und BepiColombo",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kompass",
+    "magnetfeld",
+    "orientierung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seit Jahrhunderten zeigt eine kleine Nadel Seefahrern und Wanderern den Weg.",
+        "Ihr Geheimnis liegt tief im Inneren der Erde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Erde als Magnet",
+      "absaetze": [
+        "Im flüssigen äußeren Erdkern bewegt sich geschmolzenes Eisen. Dadurch entsteht ein Magnetfeld, das die ganze Erde umgibt.",
+        "Eine Kompassnadel ist ein kleiner, drehbar gelagerter Magnet. Sie richtet sich nach diesem Magnetfeld aus. Ein Ende zeigt dabei nach Norden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Magnetischer und geografischer Nordpol",
+      "absaetze": [
+        "Die Nadel zeigt zum magnetischen Nordpol. Der liegt nicht genau am geografischen Nordpol, um den sich die Erde dreht.",
+        "Den Unterschied nennt man Missweisung. Er hängt davon ab, wo du bist. Der magnetische Pol wandert außerdem langsam, in den letzten Jahrzehnten von Kanada in Richtung Sibirien."
+      ],
+      "merke": "Der Kompass zeigt zum magnetischen, nicht zum geografischen Nordpol."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Störungen vermeiden",
+      "absaetze": [
+        "Eisen, Magnete und elektrische Geräte in der Nähe können die Nadel ablenken. Halte den Kompass deshalb von Handy, Gürtelschnalle und Auto fern.",
+        "Erfunden wurde der Kompass in China. Dort wurde er spätestens im 11. Jahrhundert für die Navigation genutzt. Heute steckt ein elektronischer Kompass auch in vielen Smartphones."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach richtet sich eine Kompassnadel?",
+      "art": "mc",
+      "optionen": [
+        "Nach dem Magnetfeld der Erde",
+        "Nach der Sonne",
+        "Nach dem Wind",
+        "Nach den Sternen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Nadel ist selbst ein kleiner Magnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin zeigt die Kompassnadel genau?",
+      "art": "mc",
+      "optionen": [
+        "Zum magnetischen Nordpol",
+        "Genau zum geografischen Nordpol",
+        "Zum Äquator",
+        "Zum Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Unterschied nennt man Missweisung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurde der Kompass erfunden?",
+      "art": "mc",
+      "optionen": [
+        "In China",
+        "In Rom",
+        "In Ägypten",
+        "In England"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spätestens im 11. Jahrhundert wurde er dort zur Navigation genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Handy in der Nähe kann die Kompassnadel ablenken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Eisen und Magnete stören."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Erde hat ein Magnetfeld.",
+        "Die Kompassnadel richtet sich danach aus.",
+        "Sie zeigt zum magnetischen Nordpol.",
+        "Eisen und Elektronik können sie stören."
+      ]
+    }
+  ]
+}

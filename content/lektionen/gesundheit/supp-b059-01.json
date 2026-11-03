@@ -1,0 +1,140 @@
+{
+  "id": "supp-b059-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Bierhefe-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bierhefe",
+    "b-vitamine",
+    "haut-und-haare"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bierhefe wird als Tablette oder Pulver für schöne Haut, Haare und Nägel beworben.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Bierhefe ist",
+      "absaetze": [
+        "Bierhefe ist ein Hefepilz, der beim Bierbrauen Zucker in Alkohol umwandelt. Für Präparate wird sie meist abgetötet, getrocknet und von Bitterstoffen befreit.",
+        "Sie enthält Eiweiß, verschiedene B-Vitamine und Mineralstoffe. Eng verwandt sind Hefeflocken, die in der veganen Küche als würzige Zutat beliebt sind."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haut, Haare und Nägel",
+      "absaetze": [
+        "Dass Bierhefe Haut, Haare oder Nägel sichtbar verbessert, ist nicht belegt. Einzelne kleine Studien deuten darauf hin, sind aber nicht aussagekräftig.",
+        "Wer sich abwechslungsreich ernährt, bekommt in der Regel genug B-Vitamine. Vitamin B12 steckt in Bierhefe übrigens meist nur, wenn es zugesetzt wurde."
+      ],
+      "merke": "Ein Nutzen für Haut und Haare ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer vorsichtig sein sollte",
+      "absaetze": [
+        "Bierhefe enthält viele Purine. Daraus bildet der Körper Harnsäure. Für Menschen mit Gicht oder erhöhten Harnsäurewerten ist sie deshalb ungünstig.",
+        "Manche reagieren mit Blähungen. Bei einer Hefeallergie solltest du Bierhefe meiden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Gicht oder erhöhter Harnsäure vorher ärztlich beraten lassen.",
+        "Bei einer Hefeallergie nicht verwenden.",
+        "Nahrungsergänzungsmittel ersetzen keine abwechslungsreiche Ernährung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist zur Wirkung von Bierhefe auf Haare belegt?",
+      "art": "mc",
+      "optionen": [
+        "Ein Nutzen ist nicht belegt",
+        "Sie lässt Haare nachweislich schneller wachsen",
+        "Sie färbt Haare",
+        "Sie verhindert Haarausfall immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt nur kleine, wenig aussagekräftige Studien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist Bierhefe ungünstig?",
+      "art": "mc",
+      "optionen": [
+        "Für Menschen mit Gicht",
+        "Für alle Sportler",
+        "Für Menschen mit gesunder Ernährung",
+        "Für Kinder beim Basteln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie enthält viele Purine."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Enthält Bierhefe von Natur aus viel Vitamin B12?",
+      "art": "mc",
+      "optionen": [
+        "Meist nur, wenn es zugesetzt wurde",
+        "Ja, immer sehr viel",
+        "Ja, mehr als Fleisch",
+        "B12 entsteht beim Trinken von Bier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Blick auf die Packung zeigt, ob B12 zugesetzt ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sich abwechslungsreich ernährt, bekommt meist genug B-Vitamine.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bierhefe enthält Eiweiß und B-Vitamine.",
+        "Ein Nutzen für Haut und Haare ist nicht belegt.",
+        "Für Menschen mit Gicht ist sie ungünstig.",
+        "Bei Hefeallergie meiden."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ern-b059-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Grünkohl?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaftliche Informationen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gruenkohl",
+    "wintergemuese",
+    "kohl"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Norden Deutschlands ist Grünkohl ein Wintergericht mit langer Tradition.",
+        "Anderswo gilt er als Trendgemüse. Beides hat seinen Grund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Nährstoffe in krausen Blättern",
+      "absaetze": [
+        "Grünkohl liefert Vitamin C, Vitamin K, Beta-Carotin, Folsäure und Calcium. Dazu kommen reichlich Ballaststoffe.",
+        "Wie andere Kohlsorten enthält er Senfölglykoside. Diese Pflanzenstoffe sorgen für den leicht herben Geschmack. Sie werden in Studien auf mögliche Schutzwirkungen untersucht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frost macht ihn milder",
+      "absaetze": [
+        "Traditionell wird Grünkohl erst nach dem ersten Frost geerntet. Bei Kälte bildet die Pflanze mehr Zucker. Dadurch schmeckt er milder.",
+        "Heute gibt es ihn auch tiefgekühlt das ganze Jahr. Junge Blätter kannst du roh im Salat oder in Smoothies verwenden."
+      ],
+      "merke": "Kälte macht Grünkohl süßer und milder.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zubereitet",
+      "absaetze": [
+        "Klassisch wird Grünkohl lange mit fettem Fleisch gekocht. Das ist lecker, aber sehr deftig. Kürzer gegart und mit Kartoffeln, Hülsenfrüchten oder Nüssen bleibt er leichter.",
+        "Grünkohl enthält viel Vitamin K. Wer Blutverdünner vom Typ Vitamin-K-Gegenspieler bekommt, sollte große Mengen mit der Arztpraxis absprechen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird Grünkohl traditionell geerntet?",
+      "art": "mc",
+      "optionen": [
+        "Nach dem ersten Frost",
+        "Im Hochsommer",
+        "Im Frühling",
+        "Nur bei Regen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kälte macht ihn milder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt der herbe Geschmack?",
+      "art": "mc",
+      "optionen": [
+        "Von Senfölglykosiden",
+        "Von Koffein",
+        "Von Milchzucker",
+        "Von Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Pflanzenstoffe stecken in vielen Kohlsorten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin steckt besonders reichlich in Grünkohl?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin K",
+        "Vitamin B12",
+        "Vitamin D",
+        "Keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wichtig für Menschen mit bestimmten Blutverdünnern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Junge Grünkohlblätter kann man auch roh essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa im Salat oder Smoothie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grünkohl liefert viele Vitamine und Ballaststoffe.",
+        "Frost macht ihn milder.",
+        "Kürzer gegart und leicht kombiniert bleibt er bekömmlich.",
+        "Bei Blutverdünnern Vitamin K beachten."
+      ]
+    }
+  ]
+}

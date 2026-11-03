@@ -1,0 +1,127 @@
+{
+  "id": "steu-b059-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Warum gibt es eine Biersteuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbrauchsteuern",
+      "herausgeber": "Generalzolldirektion (Zoll)",
+      "url": "https://www.zoll.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "biersteuer",
+    "verbrauchsteuer",
+    "laender"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In jedem Kasten Bier steckt eine Steuer, die viele nicht kennen.",
+        "Sie hat eine Besonderheit unter den Verbrauchsteuern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Steuer für die Länder",
+      "absaetze": [
+        "Die Biersteuer ist eine Verbrauchsteuer. Ihre Einnahmen fließen an die Bundesländer, nicht an den Bund. Bei anderen Verbrauchsteuern wie der Tabak- oder Kaffeesteuer ist das anders.",
+        "Erhoben wird sie trotzdem vom Zoll. Brauereien führen sie ab und rechnen sie in den Preis ein."
+      ],
+      "merke": "Die Biersteuer fließt an die Bundesländer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Berechnet nach der Stammwürze",
+      "absaetze": [
+        "Die Steuer richtet sich nicht nach dem Alkohol, sondern nach der Stammwürze. Das ist der Anteil gelöster Stoffe aus Malz in der Würze vor der Gärung.",
+        "Gemessen wird sie in Grad Plato. Ein Starkbier mit viel Stammwürze kostet daher mehr Steuer als ein leichtes Bier."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hilfe für kleine Brauereien",
+      "absaetze": [
+        "Kleine, unabhängige Brauereien zahlen ermäßigte Steuersätze. Je weniger sie im Jahr brauen, desto niedriger ist der Satz.",
+        "So soll die Vielfalt kleiner Brauereien erhalten bleiben. Auf den Preis kommt beim Verkauf noch die Umsatzsteuer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem fließen die Einnahmen der Biersteuer zu?",
+      "art": "mc",
+      "optionen": [
+        "Den Bundesländern",
+        "Dem Bund",
+        "Den Krankenkassen",
+        "Der EU"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine Besonderheit unter den Verbrauchsteuern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach wird die Biersteuer berechnet?",
+      "art": "mc",
+      "optionen": [
+        "Nach der Stammwürze",
+        "Nach dem Preis",
+        "Nach der Flaschenfarbe",
+        "Nach dem Wohnort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemessen in Grad Plato."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt ermäßigte Biersteuersätze?",
+      "art": "mc",
+      "optionen": [
+        "Kleine, unabhängige Brauereien",
+        "Große Konzerne",
+        "Alle Supermärkte",
+        "Gaststätten"
+      ],
+      "richtig": 0,
+      "erklaerung": "So soll die Vielfalt erhalten bleiben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Biersteuer wird vom Zoll erhoben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Einnahmen gehen trotzdem an die Länder."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Biersteuer ist eine Verbrauchsteuer.",
+        "Ihre Einnahmen gehen an die Bundesländer.",
+        "Sie richtet sich nach der Stammwürze.",
+        "Kleine Brauereien zahlen weniger."
+      ]
+    }
+  ]
+}

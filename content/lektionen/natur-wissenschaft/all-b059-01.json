@@ -1,0 +1,127 @@
+{
+  "id": "all-b059-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist besonders am Merkur?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Merkur und BepiColombo",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Mercury",
+      "herausgeber": "NASA",
+      "url": "https://www.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "merkur",
+    "planeten",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Merkur ist der Planet, der der Sonne am nächsten ist.",
+        "Trotzdem ist er nicht der heißeste Planet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein und schnell",
+      "absaetze": [
+        "Merkur ist der kleinste Planet unseres Sonnensystems. Er ist nur wenig größer als unser Mond und sieht ihm mit seinen vielen Kratern ähnlich.",
+        "Für eine Runde um die Sonne braucht er nur 88 Tage. Von einem Sonnenaufgang bis zum nächsten vergehen dort aber rund 176 Erdtage."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Extreme Temperaturen",
+      "absaetze": [
+        "Merkur hat praktisch keine Atmosphäre, die Wärme halten könnte. Auf der Tagseite wird es über 400 Grad heiß, auf der Nachtseite fällt die Temperatur unter minus 170 Grad.",
+        "Die Venus ist trotz größerer Entfernung heißer. Ihre dichte Atmosphäre staut die Wärme."
+      ],
+      "merke": "Ohne Atmosphäre schwankt die Temperatur auf dem Merkur extrem."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eis am heißesten Ort",
+      "absaetze": [
+        "In tiefen Kratern an den Polen scheint nie die Sonne hin. Raumsonden haben dort Hinweise auf Wassereis gefunden.",
+        "Merkur ist schwer zu erforschen, weil Sonden gegen die starke Anziehung der Sonne abbremsen müssen. Die europäisch-japanische Mission BepiColombo soll ihn genauer untersuchen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Planet ist der Sonne am nächsten?",
+      "art": "mc",
+      "optionen": [
+        "Merkur",
+        "Venus",
+        "Mars",
+        "Erde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist zugleich der kleinste Planet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht Merkur für eine Runde um die Sonne?",
+      "art": "mc",
+      "optionen": [
+        "88 Tage",
+        "365 Tage",
+        "12 Jahre",
+        "Einen Tag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Merkurjahr ist sehr kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist die Venus heißer als der Merkur?",
+      "art": "mc",
+      "optionen": [
+        "Ihre dichte Atmosphäre staut die Wärme",
+        "Sie ist näher an der Sonne",
+        "Sie hat Vulkane aus Eis",
+        "Sie dreht sich schneller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Merkur hat praktisch keine Atmosphäre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf dem Merkur gibt es Hinweise auf Wassereis.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In dauerhaft schattigen Kratern an den Polen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Merkur ist der kleinste und sonnennächste Planet.",
+        "Ein Merkurjahr dauert nur 88 Tage.",
+        "Ohne Atmosphäre schwankt die Temperatur extrem.",
+        "In Polkratern gibt es Hinweise auf Eis."
+      ]
+    }
+  ]
+}

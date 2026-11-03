@@ -1,0 +1,127 @@
+{
+  "id": "haus-b059-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du Schneidebretter aus Holz?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schneidebrett",
+    "kuechenhygiene",
+    "holz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Holzbretter sind schön, schonen die Messer und halten lange.",
+        "Damit das so bleibt, brauchen sie etwas Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig reinigen",
+      "absaetze": [
+        "Spüle Holzbretter nach dem Gebrauch mit heißem Wasser, Spülmittel und einer Bürste. Die Spülmaschine ist für Holz ungeeignet. Das Brett kann sich verziehen oder reißen.",
+        "Lass das Brett danach aufrecht stehend trocknen. So kann die Feuchtigkeit von allen Seiten entweichen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Getrennte Bretter",
+      "absaetze": [
+        "Für rohes Fleisch, Geflügel und Fisch nimmst du am besten ein eigenes Brett. Brot, Obst und Gemüse, die roh gegessen werden, schneidest du auf einem anderen.",
+        "So verhinderst du, dass Keime von rohen Lebensmitteln auf andere übertragen werden. Fachleute nennen das Kreuzkontamination."
+      ],
+      "merke": "Ein eigenes Brett für rohes Fleisch beugt Keimübertragung vor."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ölen und ersetzen",
+      "absaetze": [
+        "Ab und zu kannst du das Brett mit einem lebensmitteltauglichen Pflanzenöl einreiben. Das schützt das Holz vor dem Austrocknen.",
+        "Sind tiefe Rillen und Risse entstanden, finden Keime dort leicht Halt. Dann ist es Zeit für ein neues Brett. Das gilt für Bretter aus Kunststoff genauso."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gehören Holzbretter in die Spülmaschine?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer",
+        "Nur bei 90 Grad",
+        "Nur ohne Spülmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Holz kann sich verziehen oder reißen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie trocknet ein Holzbrett am besten?",
+      "art": "mc",
+      "optionen": [
+        "Aufrecht stehend",
+        "Flach in einer Schublade",
+        "Nass im Schrank",
+        "In der Sonne auf dem Balkon"
+      ],
+      "richtig": 0,
+      "erklaerung": "So entweicht die Feuchtigkeit von allen Seiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Kreuzkontamination?",
+      "art": "mc",
+      "optionen": [
+        "Keime gelangen von einem Lebensmittel auf ein anderes",
+        "Ein Brett bricht in zwei Teile",
+        "Zwei Messer werden stumpf",
+        "Öl wird ranzig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Getrennte Bretter beugen vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bretter mit tiefen Rillen solltest du ersetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Keime finden dort leicht Halt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Holzbretter von Hand heiß spülen.",
+        "Aufrecht trocknen lassen.",
+        "Ein eigenes Brett für rohes Fleisch nutzen.",
+        "Gelegentlich ölen, bei tiefen Rillen ersetzen."
+      ]
+    }
+  ]
+}

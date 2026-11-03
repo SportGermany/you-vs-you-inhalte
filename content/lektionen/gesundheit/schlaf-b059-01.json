@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b059-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Welches Kopfkissen passt zu dir?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kopfkissen",
+    "schlafposition",
+    "nacken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Daune, Schaumstoff oder Nackenrolle: Die Auswahl an Kissen ist riesig.",
+        "Ein perfektes Kissen für alle gibt es nicht. Aber einige Regeln helfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu das Kissen da ist",
+      "absaetze": [
+        "Das Kissen soll Kopf und Nacken so stützen, dass die Wirbelsäule möglichst gerade liegt. Es füllt den Raum zwischen Schulter und Kopf.",
+        "Ist es zu hoch oder zu flach, knickt der Hals ab. Manche wachen dann mit Verspannungen auf."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schlafposition entscheidet",
+      "absaetze": [
+        "Wer auf der Seite schläft, braucht meist ein höheres, festeres Kissen. Rückenschläfer kommen oft mit einem mittelhohen Kissen gut zurecht. Für Bauchschläfer passt eher ein sehr flaches Kissen.",
+        "Dass ein bestimmtes Spezialkissen Nackenschmerzen verhindert, ist nicht gut belegt. Erfahrungen deuten darauf hin, dass Ausprobieren und das eigene Gefühl wichtiger sind."
+      ],
+      "merke": "Seitenschläfer brauchen meist ein höheres Kissen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Material und Pflege",
+      "absaetze": [
+        "Daunen und Federn sind weich und formbar. Kissen aus Synthetikfasern lassen sich oft heiß waschen. Das ist bei einer Allergie gegen Hausstaubmilben praktisch.",
+        "Wird das Kissen klumpig, platt oder riecht muffig, ist Zeit für ein neues. Ein Kissenbezug sollte regelmäßig in die Wäsche."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was soll ein Kopfkissen vor allem leisten?",
+      "art": "mc",
+      "optionen": [
+        "Kopf und Nacken so stützen, dass die Wirbelsäule gerade liegt",
+        "Den Kopf möglichst hoch lagern",
+        "Das Zimmer wärmen",
+        "Schnarchen immer verhindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es füllt den Raum zwischen Schulter und Kopf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Kissen passt meist zu Seitenschläfern?",
+      "art": "mc",
+      "optionen": [
+        "Ein höheres, festeres Kissen",
+        "Gar kein Kissen",
+        "Ein sehr flaches Kissen",
+        "Eine Decke unter dem Bauch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schulter schafft mehr Abstand zur Matratze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist belegt, dass Spezialkissen Nackenschmerzen verhindern?",
+      "art": "mc",
+      "optionen": [
+        "Nein, die Belege sind schwach",
+        "Ja, eindeutig",
+        "Ja, aber nur Daunenkissen",
+        "Ja, bei allen Menschen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das eigene Gefühl ist ein guter Ratgeber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Synthetikkissen lassen sich oft heiß waschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das hilft bei einer Hausstaubmilbenallergie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Kissen soll die Wirbelsäule gerade halten.",
+        "Die Schlafposition bestimmt die passende Höhe.",
+        "Für Spezialkissen fehlen gute Belege.",
+        "Klumpige oder platte Kissen ersetzen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "vers-b059-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bedeutet die Typklasse beim Auto?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Typklassen",
+      "herausgeber": "Gesamtverband der Versicherer (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "typklasse",
+    "kfz-versicherung",
+    "autokauf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Autos kosten gleich viel, aber die Versicherung ist sehr unterschiedlich teuer.",
+        "Ein Grund dafür ist die Typklasse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Jedes Modell hat eine Einstufung",
+      "absaetze": [
+        "Die Typklasse ist eine Zahl für jedes Automodell. Sie zeigt, wie viele und wie teure Schäden dieses Modell im Durchschnitt verursacht.",
+        "Der Gesamtverband der Versicherer berechnet die Typklassen jedes Jahr neu. Grundlage sind die Schadendaten aller Autos dieses Modells in Deutschland."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Höhere Klasse, höherer Beitrag",
+      "absaetze": [
+        "Je höher die Typklasse, desto teurer ist meist die Versicherung. Es gibt getrennte Typklassen für Haftpflicht, Teilkasko und Vollkasko.",
+        "Ein Modell kann in der Haftpflicht günstig und in der Vollkasko teuer eingestuft sein. Das liegt etwa an hohen Reparaturkosten oder häufigen Diebstählen."
+      ],
+      "merke": "Typklassen gibt es getrennt für Haftpflicht, Teil- und Vollkasko."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor dem Autokauf prüfen",
+      "absaetze": [
+        "Die Typklassen deines Wunschmodells findest du über die Versicherer oder Vergleichsrechner. Ein Blick lohnt sich schon vor dem Kauf.",
+        "Neben der Typklasse zählen auch die Regionalklasse deines Wohnorts und deine Schadenfreiheitsklasse. Außerdem setzt jeder Versicherer eigene Preise fest."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die Typklasse?",
+      "art": "mc",
+      "optionen": [
+        "Wie viele und wie teure Schäden ein Automodell verursacht",
+        "Wie schnell ein Auto fährt",
+        "Wie alt der Fahrer ist",
+        "Wie viel das Auto neu kostet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grundlage sind Schadendaten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer berechnet die Typklassen?",
+      "art": "mc",
+      "optionen": [
+        "Der Gesamtverband der Versicherer",
+        "Das Bundeskanzleramt",
+        "Der Autohersteller",
+        "Die Polizei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geschieht jedes Jahr neu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt meist bei einer höheren Typklasse?",
+      "art": "mc",
+      "optionen": [
+        "Die Versicherung wird teurer",
+        "Die Versicherung wird billiger",
+        "Das Auto darf schneller fahren",
+        "Nichts ändert sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Getrennt für Haftpflicht, Teil- und Vollkasko."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Neben der Typklasse spielt auch der Wohnort eine Rolle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist die Regionalklasse."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Typklasse bewertet die Schäden eines Automodells.",
+        "Sie wird jedes Jahr neu berechnet.",
+        "Je höher die Klasse, desto teurer meist die Versicherung.",
+        "Vor dem Autokauf lohnt ein Blick darauf."
+      ]
+    }
+  ]
+}
