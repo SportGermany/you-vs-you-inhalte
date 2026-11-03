@@ -1,0 +1,124 @@
+{
+  "id": "lern-b044-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Warum helfen Eselsbrücken beim Merken?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "eselsbruecken",
+    "mnemotechnik",
+    "merken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+        "Mit diesem Satz merken sich viele die Reihenfolge der Planeten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neues an Bekanntes knüpfen",
+      "absaetze": [
+        "Eselsbrücken heißen fachlich Mnemotechniken. Sie verknüpfen neue Informationen mit etwas, das du schon kennst oder leicht behältst.",
+        "Im Planetensatz steht jeder Anfangsbuchstabe für einen Planeten: Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun. Der Satz liefert die Reihenfolge gleich mit."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das wirkt",
+      "absaetze": [
+        "Das Gedächtnis speichert Bilder, Reime und Geschichten besonders gut. Eine Eselsbrücke gibt losen Fakten eine Struktur.",
+        "Beim Abrufen dient sie als Hinweisreiz. Du erinnerst dich an den Satz und daraus an die einzelnen Begriffe."
+      ],
+      "merke": "Eselsbrücken geben losen Fakten eine Struktur.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo die Grenzen liegen",
+      "absaetze": [
+        "Eselsbrücken helfen vor allem bei Listen, Reihenfolgen und Begriffen. Zusammenhänge verstehst du dadurch aber nicht automatisch.",
+        "Für tieferes Verständnis eignen sich andere Methoden besser, etwa dich selbst abzufragen oder Stoff in eigenen Worten zu erklären."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen Eselsbrücken fachlich?",
+      "art": "mc",
+      "optionen": [
+        "Mnemotechniken",
+        "Algorithmen",
+        "Reflexe",
+        "Heuristiken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie verknüpfen Neues mit Bekanntem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür eignen sich Eselsbrücken besonders?",
+      "art": "mc",
+      "optionen": [
+        "Für komplexe Zusammenhänge",
+        "Für Listen und Reihenfolgen",
+        "Für Sportübungen",
+        "Zum Einschlafen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Verständnis entsteht dadurch nicht automatisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht im Planetensatz das Wort Nachthimmel?",
+      "art": "mc",
+      "optionen": [
+        "Merkur",
+        "Mars",
+        "Saturn",
+        "Neptun"
+      ],
+      "richtig": 3,
+      "erklaerung": "Neptun ist der äußerste Planet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eselsbrücken ersetzen das Verstehen von Zusammenhängen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür eignen sich andere Methoden besser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eselsbrücken verknüpfen Neues mit Bekanntem.",
+        "Bilder, Reime und Geschichten bleiben gut haften.",
+        "Sie helfen vor allem bei Listen und Reihenfolgen.",
+        "Für Verständnis braucht es andere Methoden."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ern-b044-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist brauner Zucker gesünder als weißer?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zucker",
+    "rohrzucker",
+    "mythen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Brauner Zucker wirkt natürlicher und wird oft teurer verkauft.",
+        "Doch der Unterschied zum weißen Haushaltszucker ist kleiner, als viele denken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher die Farbe kommt",
+      "absaetze": [
+        "Weißer und brauner Zucker bestehen beide fast vollständig aus Saccharose. So heißt der Zweifachzucker aus Zuckerrüben oder Zuckerrohr.",
+        "Die braune Farbe stammt von Melasse. Das ist ein dunkler Sirup, der bei der Zuckerherstellung entsteht. Manchmal wird er dem weißen Zucker nachträglich wieder zugesetzt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur Spuren von Mineralstoffen",
+      "absaetze": [
+        "Melasse enthält etwas Kalium, Kalzium und Eisen. Im braunen Zucker stecken davon aber nur Spuren. Für die Versorgung spielen diese Mengen praktisch keine Rolle.",
+        "Der Energiegehalt ist nahezu gleich. Auch für die Zähne macht die Farbe keinen Unterschied."
+      ],
+      "merke": "Brauner Zucker ist vor allem Zucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich zählt",
+      "absaetze": [
+        "Für die Gesundheit kommt es auf die Menge an freiem Zucker an, nicht auf die Sorte. Freier Zucker ist zugesetzter Zucker plus Zucker aus Honig, Sirup und Säften.",
+        "Brauner Zucker kann wegen seines Karamellgeschmacks in der Küche sinnvoll sein. Ein Gesundheitsvorteil ergibt sich daraus aber nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Brauner Zucker ist ein gesundes Naturprodukt.",
+      "urteil": "mythos",
+      "erklaerung": "Brauner Zucker besteht fast nur aus Saccharose wie weißer Zucker. Die enthaltenen Mineralstoffe sind so gering, dass sie für die Versorgung praktisch keine Rolle spielen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht brauner Zucker hauptsächlich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Fruchtzucker",
+        "Aus Saccharose",
+        "Aus Stärke",
+        "Aus Milchzucker"
+      ],
+      "richtig": 1,
+      "erklaerung": "Genau wie weißer Haushaltszucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die braune Farbe?",
+      "art": "mc",
+      "optionen": [
+        "Von Farbstoffen aus Kakao",
+        "Vom Rösten",
+        "Von Melasse",
+        "Von Vollkornmehl"
+      ],
+      "richtig": 2,
+      "erklaerung": "Melasse ist ein dunkler Sirup aus der Zuckerherstellung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brauner Zucker liefert nennenswerte Mengen an Mineralstoffen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es sind nur Spuren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Brauner und weißer Zucker bestehen fast nur aus Saccharose.",
+        "Die Farbe stammt von Melasse.",
+        "Mineralstoffe sind nur in Spuren enthalten.",
+        "Entscheidend ist die Menge an freiem Zucker."
+      ]
+    }
+  ]
+}

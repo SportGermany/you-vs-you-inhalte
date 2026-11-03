@@ -1,0 +1,132 @@
+{
+  "id": "supp-b044-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Helfen Basenpulver gegen Übersäuerung?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "basenpulver",
+    "saeure-basen",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Müde, schlapp, Gelenkschmerzen: Schuld sei eine Übersäuerung, heißt es in mancher Werbung.",
+        "Basenpulver sollen dagegen helfen. Was sagt die Wissenschaft?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper regelt das selbst",
+      "absaetze": [
+        "Der pH-Wert des Blutes liegt sehr stabil zwischen etwa 7,35 und 7,45. Puffersysteme im Blut, die Lunge und die Nieren halten ihn in diesem engen Bereich.",
+        "Überschüssige Säuren atmet der Körper als Kohlendioxid ab oder scheidet sie über die Nieren aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Diagnose durch Ernährung",
+      "absaetze": [
+        "Eine Übersäuerung durch normale Ernährung ist bei gesunden Menschen kein anerkanntes Krankheitsbild. Unspezifische Beschwerden wie Müdigkeit lassen sich damit nicht erklären.",
+        "Eine echte Übersäuerung des Blutes heißt Azidose. Sie entsteht etwa bei schweren Nierenerkrankungen oder entgleistem Diabetes und gehört in ärztliche Behandlung."
+      ],
+      "merke": "Eine echte Azidose ist ein medizinischer Notfall.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in den Pulvern steckt",
+      "absaetze": [
+        "Basenpulver enthalten meist Mineralstoffe wie Kalium, Magnesium oder Kalzium in Form von Citraten oder Carbonaten. Für Menschen mit Nierenerkrankungen kann zusätzliches Kalium riskant sein.",
+        "Mehr Gemüse, Obst und Hülsenfrüchte sind ohnehin gesund. Dafür braucht es kein Pulver."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Nierenerkrankungen Basenpulver nur nach ärztlicher Rücksprache verwenden.",
+        "Unklare Müdigkeit oder Schmerzen ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Der Körper übersäuert durch Fleisch, Kaffee und Zucker.",
+      "urteil": "mythos",
+      "erklaerung": "Bei gesunden Menschen halten Lunge, Nieren und Puffer im Blut den pH-Wert stabil. Die Ernährung ändert den Blut-pH nicht in einem krankmachenden Ausmaß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Bereich liegt der pH-Wert des Blutes?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 5 bis 6",
+        "Etwa 7,35 bis 7,45",
+        "Etwa 9 bis 10",
+        "Er schwankt stark je nach Mahlzeit"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Körper hält ihn sehr stabil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Organe helfen, Säuren loszuwerden?",
+      "art": "mc",
+      "optionen": [
+        "Lunge und Nieren",
+        "Haut und Haare",
+        "Magen und Milz",
+        "Augen und Ohren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Lunge atmet Kohlendioxid ab, die Nieren scheiden Säuren aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine echte Azidose gehört in ärztliche Behandlung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie entsteht etwa bei schweren Erkrankungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Blut-pH wird vom Körper stabil gehalten.",
+        "Übersäuerung durch Ernährung ist kein anerkanntes Krankheitsbild.",
+        "Eine echte Azidose ist ein medizinischer Notfall.",
+        "Zusätzliches Kalium kann bei Nierenerkrankungen riskant sein."
+      ]
+    }
+  ]
+}

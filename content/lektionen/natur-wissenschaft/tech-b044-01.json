@@ -1,0 +1,111 @@
+{
+  "id": "tech-b044-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie misst ein Ohrthermometer die Temperatur?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "thermometer",
+    "infrarot",
+    "fieber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Einmal kurz ins Ohr, ein Piepen, fertig: Ohrthermometer sind schnell.",
+        "Dabei berühren sie die Stelle, die sie messen, gar nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme als Strahlung",
+      "absaetze": [
+        "Jeder warme Körper sendet unsichtbare Infrarotstrahlung aus. Je wärmer er ist, desto mehr Strahlung gibt er ab.",
+        "Ein Ohrthermometer misst diese Strahlung vom Trommelfell. Ein Sensor wandelt sie in einen Temperaturwert um. Das dauert nur etwa eine Sekunde."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das Trommelfell?",
+      "absaetze": [
+        "Das Trommelfell liegt geschützt im Gehörgang und ist gut durchblutet. Seine Temperatur liegt nahe an der Temperatur im Körperinneren.",
+        "Deshalb eignet es sich gut, um Fieber festzustellen. Allerdings beeinflussen Ohrenschmalz oder falsche Haltung das Ergebnis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig messen",
+      "absaetze": [
+        "Ziehe bei Erwachsenen die Ohrmuschel leicht nach hinten oben. So wird der Gehörgang gerade und der Sensor zeigt auf das Trommelfell.",
+        "Miss am besten mehrmals im selben Ohr und vergleiche die Werte. Bei Säuglingen empfehlen Fachleute oft eine andere Messmethode, weil der Gehörgang sehr eng ist."
+      ],
+      "merke": "Ohrmuschel nach hinten oben ziehen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was misst ein Ohrthermometer?",
+      "art": "mc",
+      "optionen": [
+        "Den Luftdruck",
+        "Infrarotstrahlung vom Trommelfell",
+        "Den Puls",
+        "Die Feuchtigkeit"
+      ],
+      "richtig": 1,
+      "erklaerung": "Warme Körper senden Infrarotstrahlung aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum eignet sich das Trommelfell zur Messung?",
+      "art": "mc",
+      "optionen": [
+        "Es ist gut durchblutet und nahe an der Körperkerntemperatur",
+        "Es ist immer kalt",
+        "Es ist aus Metall",
+        "Es bewegt sich nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb zeigt es Fieber gut an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohrenschmalz kann das Messergebnis beeinflussen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch die Haltung spielt eine Rolle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ohrthermometer messen Infrarotstrahlung.",
+        "Das Trommelfell spiegelt die Körperkerntemperatur gut wider.",
+        "Die Ohrmuschel leicht nach hinten oben ziehen.",
+        "Bei Säuglingen sind oft andere Methoden besser."
+      ]
+    }
+  ]
+}

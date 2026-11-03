@@ -1,0 +1,131 @@
+{
+  "id": "ern-b044-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Xylit?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "xylit",
+    "zuckeraustauschstoff",
+    "zahngesundheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Xylit steckt in vielen zahnfreundlichen Kaugummis und wird als Birkenzucker verkauft.",
+        "Er schmeckt fast so süß wie Zucker, hat aber Besonderheiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Zuckeralkohol",
+      "absaetze": [
+        "Xylit gehört zu den Zuckeralkoholen. Chemisch sind das keine Alkohole zum Trinken, sondern süß schmeckende Stoffe mit ähnlicher Struktur wie Zucker.",
+        "Xylit liefert weniger Energie als Haushaltszucker. Er wird heute meist industriell hergestellt, etwa aus Holz oder Maiskolben. Der Name Birkenzucker ist daher eher ein Werbebegriff."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut für die Zähne",
+      "absaetze": [
+        "Kariesbakterien im Mund können Xylit kaum verwerten. Deshalb entstehen dabei kaum zahnschädigende Säuren.",
+        "Zahnpflegekaugummis mit Xylit können nach dem Essen den Speichelfluss anregen. Das Zähneputzen ersetzen sie aber nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo Vorsicht nötig ist",
+      "absaetze": [
+        "In größeren Mengen kann Xylit abführend wirken. Produkte mit viel Zuckeralkohol tragen deshalb einen entsprechenden Warnhinweis.",
+        "Für Hunde ist Xylit sehr gefährlich. Schon kleine Mengen können bei ihnen eine schwere Unterzuckerung und Leberschäden auslösen. Bewahre xylithaltige Produkte deshalb außer Reichweite von Hunden auf."
+      ],
+      "merke": "Xylit ist für Hunde lebensgefährlich.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Stoffgruppe gehört Xylit?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Zuckeralkoholen",
+        "Zu den Vitaminen",
+        "Zu den Fetten",
+        "Zu den Eiweißen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Chemisch ähneln sie Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gilt Xylit als zahnfreundlich?",
+      "art": "mc",
+      "optionen": [
+        "Er härtet den Zahnschmelz sofort",
+        "Er enthält Fluorid",
+        "Er bleicht die Zähne",
+        "Kariesbakterien können ihn kaum verwerten"
+      ],
+      "richtig": 3,
+      "erklaerung": "Dadurch entstehen kaum Säuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Hunde ist Xylit harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Schon kleine Mengen können lebensgefährlich sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Xylit in größeren Mengen beim Menschen auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Schlaflosigkeit",
+        "Eine abführende Wirkung",
+        "Haarausfall",
+        "Kopfläuse"
+      ],
+      "richtig": 1,
+      "erklaerung": "Deshalb gibt es einen Warnhinweis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Xylit ist ein Zuckeralkohol mit weniger Energie als Zucker.",
+        "Kariesbakterien können ihn kaum verwerten.",
+        "In größeren Mengen wirkt er abführend.",
+        "Für Hunde ist Xylit sehr gefährlich."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "stoff-b044-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Verbraucht das Verdauen selbst Energie?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "energieverbrauch",
+    "verdauung",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Essen liefert Energie. Doch um es zu verarbeiten, braucht der Körper selbst wieder Energie.",
+        "Fachleute sprechen von der nahrungsinduzierten Thermogenese."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dahintersteckt",
+      "absaetze": [
+        "Nach einer Mahlzeit muss der Körper Nahrung zerlegen, Nährstoffe aufnehmen und umbauen. Dafür steigt der Energieverbrauch für einige Stunden leicht an.",
+        "Dieser Anteil heißt nahrungsinduzierte Thermogenese. Thermogenese bedeutet Wärmebildung. Er macht nur einen kleinen Teil des gesamten Tagesverbrauchs aus, etwa ein Zehntel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eiweiß kostet am meisten",
+      "absaetze": [
+        "Die Nährstoffe unterscheiden sich deutlich. Eiweiß zu verarbeiten kostet den Körper am meisten Energie, Fett am wenigsten. Kohlenhydrate liegen dazwischen.",
+        "Zusammen mit seiner sättigenden Wirkung ist das ein Grund, warum eiweißreiche Mahlzeiten oft länger satt halten."
+      ],
+      "merke": "Eiweiß zu verarbeiten kostet am meisten Energie.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Abkürzung",
+      "absaetze": [
+        "Sogenannte Negativkalorien-Lebensmittel gibt es nicht. Auch Sellerie oder Gurke liefern mehr Energie, als ihre Verdauung kostet.",
+        "Für das Körpergewicht zählen Ernährung und Bewegung insgesamt. Die Verdauungsenergie ist dabei nur ein kleiner Baustein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Manche Lebensmittel haben negative Kalorien.",
+      "urteil": "mythos",
+      "erklaerung": "Kein Lebensmittel kostet bei der Verdauung mehr Energie, als es liefert. Auch sehr wasserreiche Gemüse wie Sellerie bringen unter dem Strich noch etwas Energie mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Energieverbrauch durch Verdauung?",
+      "art": "mc",
+      "optionen": [
+        "Grundumsatz",
+        "Nahrungsinduzierte Thermogenese",
+        "Fettverbrennung",
+        "Muskelaufbau"
+      ],
+      "richtig": 1,
+      "erklaerung": "Thermogenese bedeutet Wärmebildung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Nährstoff kostet bei der Verarbeitung am meisten Energie?",
+      "art": "mc",
+      "optionen": [
+        "Fett",
+        "Zucker",
+        "Wasser",
+        "Eiweiß"
+      ],
+      "richtig": 3,
+      "erklaerung": "Fett kostet am wenigsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sellerie kostet bei der Verdauung mehr Energie, als er liefert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Negativkalorien gibt es nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Verdauen kostet Energie, etwa ein Zehntel des Tagesverbrauchs.",
+        "Eiweiß kostet am meisten, Fett am wenigsten.",
+        "Negativkalorien-Lebensmittel gibt es nicht.",
+        "Ernährung und Bewegung insgesamt sind entscheidend.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

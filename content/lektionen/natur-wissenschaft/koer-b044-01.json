@@ -1,0 +1,111 @@
+{
+  "id": "koer-b044-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum wird die Haut im Wasser schrumpelig?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haut",
+    "nervensystem",
+    "alltagsphaenomene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem langen Bad sehen Finger und Zehen aus wie Rosinen.",
+        "Lange dachte man, die Haut sauge sich einfach mit Wasser voll."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht nur Aufquellen",
+      "absaetze": [
+        "Die Schrumpelhaut entsteht vor allem an Fingern und Zehen. Dort ist die oberste Hautschicht besonders dick.",
+        "Ärzte beobachteten schon vor langer Zeit etwas Überraschendes: Bei Menschen mit durchtrennten Nerven in einem Finger bildet sich die Schrumpelhaut dort nicht. Das Nervensystem steuert den Vorgang also mit."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Engere Blutgefäße",
+      "absaetze": [
+        "Nach einigen Minuten im Wasser verengen sich kleine Blutgefäße unter der Haut. Dadurch verliert das Gewebe darunter etwas Volumen. Die Haut darüber legt sich in Falten.",
+        "Dieser Vorgang wird vom vegetativen Nervensystem gesteuert. Das ist der Teil, der ohne bewussten Willen arbeitet."
+      ],
+      "merke": "Nerven steuern die Schrumpelhaut.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu das gut sein könnte",
+      "absaetze": [
+        "Eine Vermutung lautet: Die Rillen verbessern den Griff bei Nässe, ähnlich wie das Profil eines Reifens. Eine Studie deutet darauf hin, dass nasse Gegenstände so leichter zu greifen sind.",
+        "Andere Studien konnten das nicht bestätigen. Der Zweck ist daher noch offen."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte sich bei durchtrennten Nerven in einem Finger?",
+      "art": "mc",
+      "optionen": [
+        "Der Finger wurde schneller schrumpelig",
+        "Die Schrumpelhaut bildete sich dort nicht",
+        "Der Finger wurde blau",
+        "Die Haut löste sich ab"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das Nervensystem steuert den Vorgang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert unter der Haut im Wasser?",
+      "art": "mc",
+      "optionen": [
+        "Muskeln wachsen",
+        "Knochen werden weicher",
+        "Kleine Blutgefäße verengen sich",
+        "Haare fallen aus"
+      ],
+      "richtig": 2,
+      "erklaerung": "Das Gewebe verliert dadurch Volumen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist sicher bewiesen, dass Schrumpelfinger den Griff verbessern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Studien sind widersprüchlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schrumpelhaut entsteht vor allem an Fingern und Zehen.",
+        "Nerven steuern den Vorgang.",
+        "Verengte Blutgefäße lassen die Haut Falten werfen.",
+        "Ob es den Griff verbessert, ist noch offen."
+      ]
+    }
+  ]
+}

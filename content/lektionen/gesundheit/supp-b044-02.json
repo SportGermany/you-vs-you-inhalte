@@ -1,0 +1,126 @@
+{
+  "id": "supp-b044-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Zeolith-Pulver zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zeolith",
+    "entgiftung",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zeolith wird als Pulver zur Entgiftung und Darmreinigung angeboten.",
+        "Hinter den Versprechen steckt ein Mineral aus Vulkangestein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein poröses Mineral",
+      "absaetze": [
+        "Zeolithe sind Mineralien mit vielen winzigen Hohlräumen. Sie können darin andere Stoffe binden. In der Technik werden sie etwa als Filter oder in Waschmitteln genutzt.",
+        "Für den Verkauf an Verbraucher wird häufig ein Zeolith namens Klinoptilolith verwendet. Er stammt aus vulkanischem Gestein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Belege fehlen",
+      "absaetze": [
+        "Die Anbieter versprechen, Zeolith binde Schwermetalle und Giftstoffe im Darm. Für einen gesundheitlichen Nutzen beim Menschen fehlen aber aussagekräftige Studien.",
+        "Der gesunde Körper entgiftet über Leber und Nieren. Eine zusätzliche Entgiftung mit Pulver ist dafür nicht nötig."
+      ],
+      "merke": "Für den Nutzen fehlen gute Studien.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Nachteile",
+      "absaetze": [
+        "Ein Stoff, der im Darm bindet, unterscheidet nicht zuverlässig zwischen Gutem und Schlechtem. Fachleute weisen darauf hin, dass er möglicherweise auch Nährstoffe oder Arzneistoffe bindet.",
+        "Wer Medikamente braucht, sollte vor der Verwendung ärztlichen Rat einholen. Auch die Reinheit der Produkte kann schwanken."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei regelmäßigem Medikamentenbedarf vor der Verwendung ärztlich beraten lassen.",
+        "Versprechen zur Entgiftung kritisch prüfen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeichnet Zeolithe aus?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind flüssig",
+        "Sie bestehen aus Zucker",
+        "Sie haben viele winzige Hohlräume",
+        "Sie sind lebende Bakterien"
+      ],
+      "richtig": 2,
+      "erklaerung": "Darin können sie andere Stoffe binden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entgiftet der gesunde Körper?",
+      "art": "mc",
+      "optionen": [
+        "Über Leber und Nieren",
+        "Nur über Pulver",
+        "Über die Haare",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine zusätzliche Entgiftung ist nicht nötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für den Nutzen von Zeolith-Pulver gibt es gute Belege beim Menschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Aussagekräftige Studien fehlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zeolith ist ein poröses Mineral aus Vulkangestein.",
+        "Für eine Entgiftungswirkung fehlen gute Studien.",
+        "Leber und Nieren entgiften den Körper selbst.",
+        "Bei Medikamenten vorher ärztlich beraten lassen."
+      ]
+    }
+  ]
+}

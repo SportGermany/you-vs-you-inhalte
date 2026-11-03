@@ -1,0 +1,112 @@
+{
+  "id": "schlaf-b044-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Kannst du Schlaf am Wochenende nachholen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafmangel",
+    "wochenende",
+    "ausschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Unter der Woche zu wenig, am Wochenende bis mittags: So schlafen viele Berufstätige.",
+        "Doch lässt sich verpasster Schlaf einfach nachholen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurzfristig hilft Ausschlafen",
+      "absaetze": [
+        "Nach ein oder zwei kurzen Nächten baut sich ein Schlafdruck auf. Ein längerer Schlaf danach kann Müdigkeit und Konzentrationsprobleme teilweise ausgleichen.",
+        "Der Körper holt dabei vor allem Tiefschlaf nach. Eine einzelne kurze Nacht ist für gesunde Menschen meist kein Problem."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Chronischer Mangel bleibt",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Ausschlafen am Wochenende die Folgen von dauerhaftem Schlafmangel nicht vollständig ausgleicht. Das betrifft etwa Aufmerksamkeit und den Zuckerstoffwechsel.",
+        "Wer jede Woche einige Stunden Schlaf verliert, sollte daher eher den Alltag anpassen. Regelmäßig ausreichend Schlaf wirkt besser als ein großer Ausgleich am Wochenende."
+      ],
+      "merke": "Regelmäßiger Schlaf wirkt besser als Nachholen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die innere Uhr verschiebt sich",
+      "absaetze": [
+        "Sehr spätes Ausschlafen verschiebt die innere Uhr nach hinten. Am Sonntagabend kommt dann kein Schlaf, und der Montag wird schwer.",
+        "Viele Fachleute raten daher, am Wochenende nicht viel später als sonst aufzustehen. Ein kurzer Mittagsschlaf kann stattdessen beim Ausgleich helfen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was holt der Körper nach einer kurzen Nacht vor allem nach?",
+      "art": "mc",
+      "optionen": [
+        "Träume",
+        "Tiefschlaf",
+        "Leichtschlaf",
+        "Wachphasen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der Schlafdruck sorgt für mehr Tiefschlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Studien zum Ausschlafen am Wochenende?",
+      "art": "mc",
+      "optionen": [
+        "Es gleicht dauerhaften Schlafmangel nicht vollständig aus",
+        "Es gleicht alles vollständig aus",
+        "Es verursacht Schlafmangel",
+        "Es hat überhaupt keine Wirkung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besser ist regelmäßig ausreichend Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sehr spätes Ausschlafen kann die innere Uhr nach hinten verschieben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann fällt das Einschlafen am Sonntagabend schwer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach einzelnen kurzen Nächten hilft Ausschlafen.",
+        "Dauerhafter Schlafmangel lässt sich nicht vollständig nachholen.",
+        "Sehr spätes Aufstehen verschiebt die innere Uhr.",
+        "Regelmäßige Schlafzeiten sind die bessere Lösung."
+      ]
+    }
+  ]
+}

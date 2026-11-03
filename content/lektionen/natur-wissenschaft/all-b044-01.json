@@ -1,0 +1,124 @@
+{
+  "id": "all-b044-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie ist der Mond entstanden?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moon",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mond",
+    "planetenentstehung",
+    "erde"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Mond begleitet die Erde seit Milliarden Jahren.",
+        "Wie er entstanden ist, konnten Forschende erst durch Gesteinsproben genauer klären."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein gewaltiger Zusammenstoß",
+      "absaetze": [
+        "Die heute am meisten anerkannte Erklärung ist die Kollisionstheorie. Vor etwa 4,5 Milliarden Jahren prallte ein Himmelskörper etwa von der Größe des Mars auf die junge Erde.",
+        "Forschende nennen ihn Theia. Bei dem Aufprall wurde viel Material ins All geschleudert. Daraus formte sich der Mond."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dafür spricht",
+      "absaetze": [
+        "Die Apollo-Missionen brachten Gestein vom Mond zur Erde. Es ähnelt in seiner Zusammensetzung stark dem Gestein des Erdmantels.",
+        "Der Mond hat zudem nur einen kleinen Eisenkern. Das passt dazu, dass vor allem Material aus den äußeren Schichten der Erde herausgeschleudert wurde."
+      ],
+      "merke": "Mondgestein ähnelt stark dem Erdmantel.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mond entfernt sich",
+      "absaetze": [
+        "Auf dem Mond stehen Spiegel, die Astronauten dort aufgestellt haben. Mit Laserstrahlen messen Forschende darüber die Entfernung.",
+        "So weiß man: Der Mond entfernt sich jedes Jahr um knapp vier Zentimeter von der Erde. Ursache sind die Gezeitenkräfte zwischen beiden Himmelskörpern."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Erklärung für die Mondentstehung gilt als am besten gestützt?",
+      "art": "mc",
+      "optionen": [
+        "Er wurde von der Erde eingefangen",
+        "Er entstand durch eine gewaltige Kollision",
+        "Er ist ein erkalteter Stern",
+        "Er entstand aus einem Kometen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein marsgroßer Himmelskörper prallte auf die junge Erde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennen Forschende den Himmelskörper, der mit der Erde zusammenstieß?",
+      "art": "mc",
+      "optionen": [
+        "Theia",
+        "Luna",
+        "Gaia",
+        "Selene"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er war etwa so groß wie der Mars."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel entfernt sich der Mond pro Jahr von der Erde?",
+      "art": "mc",
+      "optionen": [
+        "Einen Kilometer",
+        "Gar nicht",
+        "Einen Meter",
+        "Knapp vier Zentimeter"
+      ],
+      "richtig": 3,
+      "erklaerung": "Gemessen wird das mit Laser und Spiegeln auf dem Mond."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mondgestein ähnelt stark dem Gestein des Erdmantels.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das stützt die Kollisionstheorie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Mond entstand wohl durch eine Kollision mit der jungen Erde.",
+        "Der Himmelskörper Theia war etwa so groß wie der Mars.",
+        "Mondgestein ähnelt dem Erdmantel.",
+        "Der Mond entfernt sich jedes Jahr ein Stück."
+      ]
+    }
+  ]
+}

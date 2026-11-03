@@ -1,0 +1,149 @@
+{
+  "id": "haus-b044-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie frierst du Lebensmittel richtig ein?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "einfrieren",
+    "lebensmittel",
+    "vorrat"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Einfrieren spart Geld und verhindert, dass Lebensmittel im Müll landen.",
+        "Mit ein paar Regeln bleiben Geschmack und Sicherheit erhalten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Kälte bewirkt",
+      "absaetze": [
+        "Bei minus 18 Grad vermehren sich Keime praktisch nicht mehr. Abgetötet werden sie aber meist nicht. Nach dem Auftauen werden sie wieder aktiv.",
+        "Friere daher nur frische Lebensmittel ein. Was schon leicht verdorben ist, wird durch Einfrieren nicht besser."
+      ],
+      "merke": "Kälte stoppt Keime, tötet sie aber meist nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut verpacken",
+      "absaetze": [
+        "Verpacke Lebensmittel möglichst luftdicht. Sonst trocknen sie an der Oberfläche aus. Das nennt man Gefrierbrand.",
+        "Beschrifte Dosen und Beutel mit Inhalt und Datum. So behältst du den Überblick. Gemüse wird oft vorher kurz blanchiert, also in kochendem Wasser kurz erhitzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig auftauen",
+      "absaetze": [
+        "Taue Fleisch und Fisch am besten im Kühlschrank auf. Wirf die Auftauflüssigkeit von Geflügel weg und reinige alles gründlich, was damit in Berührung kam.",
+        "Aufgetaute rohe Lebensmittel solltest du nicht roh wieder einfrieren. Nach dem Garen ist das möglich. Salat, Gurken und Eier in der Schale eignen sich nicht zum Einfrieren."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Sicher einfrieren",
+      "schritte": [
+        {
+          "titel": "Frisch",
+          "text": "Friere nur frische Lebensmittel ein."
+        },
+        {
+          "titel": "Luftdicht",
+          "text": "Verpacke alles luftdicht gegen Gefrierbrand."
+        },
+        {
+          "titel": "Beschriften",
+          "text": "Notiere Inhalt und Datum."
+        },
+        {
+          "titel": "Auftauen",
+          "text": "Taue Fleisch und Fisch im Kühlschrank auf."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Keimen bei minus 18 Grad?",
+      "art": "mc",
+      "optionen": [
+        "Sie sterben alle sofort",
+        "Sie vermehren sich praktisch nicht mehr",
+        "Sie vermehren sich schneller",
+        "Sie werden zu Vitaminen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Nach dem Auftauen werden sie wieder aktiv."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Gefrierbrand?",
+      "art": "mc",
+      "optionen": [
+        "Ausgetrocknete Stellen durch schlechte Verpackung",
+        "Ein Brand im Gefrierschrank",
+        "Ein Gewürz",
+        "Eine Lebensmittelvergiftung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Luftdichte Verpackung schützt davor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo taust du Fleisch am besten auf?",
+      "art": "mc",
+      "optionen": [
+        "Auf der Heizung",
+        "In der Sonne",
+        "Im Kühlschrank",
+        "In warmem Wasser über Nacht"
+      ],
+      "richtig": 2,
+      "erklaerung": "So bleibt es kühl und Keime vermehren sich kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegartes Essen aus aufgetauten Zutaten darf wieder eingefroren werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Rohe aufgetaute Lebensmittel dagegen nicht roh wieder einfrieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einfrieren stoppt Keime, tötet sie aber meist nicht.",
+        "Luftdicht verpacken verhindert Gefrierbrand.",
+        "Fleisch und Fisch im Kühlschrank auftauen.",
+        "Rohes Aufgetautes nicht roh wieder einfrieren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "zeit-b044-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was geschah beim Challenger-Unglück?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Shuttle Challenger",
+      "herausgeber": "NASA",
+      "url": "https://www.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "raumfahrt",
+    "usa",
+    "1986"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am 28. Januar 1986 sahen Millionen Menschen live zu, wie die Raumfähre Challenger startete.",
+        "Nach 73 Sekunden zerbrach sie am Himmel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Lehrerin an Bord",
+      "absaetze": [
+        "An Bord waren sieben Menschen. Darunter war die Lehrerin Christa McAuliffe, die aus dem All Unterricht geben sollte. Deshalb verfolgten auch viele Schulklassen den Start.",
+        "Keiner der sieben überlebte. Das Unglück war ein Schock für die USA und die ganze Welt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Ursache",
+      "absaetze": [
+        "Die Raumfähre hatte seitlich zwei Feststoffraketen. In einer davon versagte ein Dichtungsring. Heiße Gase traten aus und führten zur Zerstörung.",
+        "Am Morgen des Starts war es ungewöhnlich kalt. Bei Kälte wurden die Gummiringe steif und dichteten schlechter. Ingenieure hatten vorher davor gewarnt."
+      ],
+      "merke": "Ein Dichtungsring versagte in der Kälte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Folgen",
+      "absaetze": [
+        "Eine Untersuchungskommission prüfte das Unglück. Der Physiker Richard Feynman zeigte dabei mit einem Glas Eiswasser, wie das Dichtungsmaterial in der Kälte seine Elastizität verlor.",
+        "Die Kommission kritisierte auch, dass Warnungen nicht ernst genommen wurden. Die Raumfähren blieben über zwei Jahre am Boden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann verunglückte die Challenger?",
+      "art": "mc",
+      "optionen": [
+        "1969",
+        "1977",
+        "1986",
+        "2003"
+      ],
+      "richtig": 2,
+      "erklaerung": "Am 28. Januar 1986, kurz nach dem Start."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was versagte an der Raumfähre?",
+      "art": "mc",
+      "optionen": [
+        "Ein Dichtungsring einer Feststoffrakete",
+        "Der Bordcomputer",
+        "Das Fahrwerk",
+        "Ein Fenster"
+      ],
+      "richtig": 0,
+      "erklaerung": "Heiße Gase traten aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Rolle spielte das Wetter?",
+      "art": "mc",
+      "optionen": [
+        "Es war sehr heiß",
+        "Es regnete stark",
+        "Es gab ein Gewitter",
+        "Es war ungewöhnlich kalt"
+      ],
+      "richtig": 3,
+      "erklaerung": "In der Kälte dichteten die Gummiringe schlechter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ingenieure hatten vor dem Start vor der Kälte gewarnt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Warnungen wurden aber nicht ernst genommen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Challenger zerbrach 1986 kurz nach dem Start.",
+        "Alle sieben Menschen an Bord starben.",
+        "Ein Dichtungsring versagte bei großer Kälte.",
+        "Warnungen von Ingenieuren wurden übergangen."
+      ]
+    }
+  ]
+}

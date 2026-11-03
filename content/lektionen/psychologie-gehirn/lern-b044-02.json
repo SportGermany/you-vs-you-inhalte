@@ -1,0 +1,134 @@
+{
+  "id": "lern-b044-02",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Warum vergisst du deine Träume so schnell?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "traeume",
+    "gedaechtnis",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Aufwachen ist der Traum noch ganz nah. Eine Minute später ist er verschwunden.",
+        "Dafür gibt es mehrere Erklärungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gedächtnis schläft mit",
+      "absaetze": [
+        "Im Schlaf ist das Gehirn nur eingeschränkt darauf eingestellt, neue Erinnerungen dauerhaft zu speichern. Träume werden deshalb oft gar nicht richtig abgelegt.",
+        "Studien deuten darauf hin, dass dabei der Botenstoff Noradrenalin eine Rolle spielt. Er ist im Traumschlaf besonders niedrig."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Zeitpunkt des Aufwachens",
+      "absaetze": [
+        "Wer direkt aus einer Traumphase aufwacht, erinnert sich eher an den Traum. Wer erst später aufwacht, hat ihn meist schon vergessen.",
+        "Kurze Wachphasen in der Nacht helfen ebenfalls. Nur wenn du kurz wach bist, kann eine Erinnerung an den Traum entstehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Träume festhalten",
+      "absaetze": [
+        "Wenn du dich an Träume erinnern möchtest, bleib nach dem Aufwachen kurz ruhig liegen. Geh den Traum in Gedanken durch, bevor du an den Tag denkst.",
+        "Ein Traumtagebuch neben dem Bett hilft, Bilder sofort aufzuschreiben. Viele erinnern sich dadurch mit der Zeit an mehr Träume."
+      ],
+      "merke": "Bleib nach dem Aufwachen kurz liegen."
+    },
+    {
+      "typ": "schritte",
+      "titel": "Träume besser erinnern",
+      "schritte": [
+        {
+          "titel": "Liegen bleiben",
+          "text": "Beweg dich nach dem Aufwachen nicht sofort."
+        },
+        {
+          "titel": "Nachdenken",
+          "text": "Geh die Bilder des Traums in Gedanken durch."
+        },
+        {
+          "titel": "Aufschreiben",
+          "text": "Notiere Stichworte in einem Traumtagebuch."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann erinnerst du dich eher an einen Traum?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du direkt aus einer Traumphase aufwachst",
+        "Wenn du spät ins Bett gehst",
+        "Wenn du viel isst",
+        "Wenn du laut Musik hörst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Später ist der Traum meist schon vergessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Botenstoff ist im Traumschlaf besonders niedrig?",
+      "art": "mc",
+      "optionen": [
+        "Insulin",
+        "Adrenalin aus der Nebenniere",
+        "Noradrenalin",
+        "Melatonin"
+      ],
+      "richtig": 2,
+      "erklaerung": "Darauf deuten Studien hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Traumtagebuch kann helfen, sich an mehr Träume zu erinnern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sofortiges Aufschreiben hält Bilder fest."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Schlaf werden neue Erinnerungen schlecht gespeichert.",
+        "Wer aus einer Traumphase aufwacht, erinnert sich eher.",
+        "Kurz liegen bleiben hilft beim Erinnern.",
+        "Ein Traumtagebuch hält Träume fest."
+      ]
+    }
+  ]
+}

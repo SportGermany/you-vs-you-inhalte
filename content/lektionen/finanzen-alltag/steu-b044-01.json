@@ -1,0 +1,108 @@
+{
+  "id": "steu-b044-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist ein Freistellungsauftrag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kapitalertraege",
+    "sparer-pauschbetrag",
+    "bank"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zinsen, Dividenden und Kursgewinne sind Kapitalerträge und grundsätzlich steuerpflichtig.",
+        "Ein Teil davon bleibt aber steuerfrei, wenn du deiner Bank Bescheid gibst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuer direkt an der Quelle",
+      "absaetze": [
+        "Banken ziehen die Steuer auf Kapitalerträge automatisch ab und führen sie an das Finanzamt ab. Diese Steuer heißt Abgeltungsteuer.",
+        "Bis zur Höhe des Sparer-Pauschbetrags sind Kapitalerträge aber steuerfrei. Damit die Bank das berücksichtigt, brauchst du einen Freistellungsauftrag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So funktioniert der Auftrag",
+      "absaetze": [
+        "Mit dem Freistellungsauftrag teilst du der Bank mit, bis zu welchem Betrag sie keine Steuer abziehen soll. Du kannst ihn meist online erteilen. Dafür brauchst du deine Steuer-Identifikationsnummer.",
+        "Bei mehreren Banken kannst du den Pauschbetrag aufteilen. Insgesamt darfst du ihn aber nicht überschreiten."
+      ],
+      "merke": "Den Pauschbetrag auf alle Banken zusammen nicht überschreiten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tipps",
+      "absaetze": [
+        "Prüfe regelmäßig, ob die Aufteilung zu deinen Erträgen passt. Ein ungenutzter Auftrag bei einer Bank bringt nichts, wenn woanders Steuer abgezogen wird.",
+        "Wurde zu viel Steuer einbehalten, kannst du sie über die Steuererklärung zurückholen. Ehepaare können einen gemeinsamen Auftrag erteilen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür brauchst du einen Freistellungsauftrag?",
+      "art": "mc",
+      "optionen": [
+        "Damit die Bank den Sparer-Pauschbetrag berücksichtigt",
+        "Um ein Konto zu eröffnen",
+        "Um Kredite zu beantragen",
+        "Um Bargeld abzuheben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis zu diesem Betrag zieht die Bank keine Steuer ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du für den Freistellungsauftrag?",
+      "art": "mc",
+      "optionen": [
+        "Deinen Reisepass",
+        "Deine Steuer-Identifikationsnummer",
+        "Eine Gehaltsbescheinigung",
+        "Ein ärztliches Attest"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sie ist Pflichtangabe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du darfst den Pauschbetrag auf mehrere Banken aufteilen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Insgesamt darf er aber nicht überschritten werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Banken ziehen auf Kapitalerträge automatisch Steuer ab.",
+        "Bis zum Sparer-Pauschbetrag sind Erträge steuerfrei.",
+        "Dafür brauchst du einen Freistellungsauftrag.",
+        "Die Aufteilung auf mehrere Banken regelmäßig prüfen."
+      ]
+    }
+  ]
+}
