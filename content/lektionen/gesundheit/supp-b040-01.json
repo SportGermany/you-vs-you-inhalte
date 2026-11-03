@@ -1,0 +1,125 @@
+{
+  "id": "supp-b040-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Schwarzkümmelöl zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schwarzkuemmel",
+    "pflanzenoel",
+    "allergie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schwarzkümmelöl wird gegen Allergien, für das Immunsystem und die Haut beworben.",
+        "Was weiß man darüber?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein traditionelles Öl",
+      "absaetze": [
+        "Schwarzkümmelöl wird aus den Samen einer Pflanze gepresst, die vor allem im Nahen Osten und in Nordafrika wächst. Es wird dort seit langem in der Volksmedizin verwendet.",
+        "Es hat einen kräftigen, leicht bitteren Geschmack und wird auch in der Küche genutzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Studienlage",
+      "absaetze": [
+        "Es gibt Laborversuche und einige kleine Studien am Menschen. Sie deuten auf mögliche entzündungshemmende Effekte hin, etwa bei Heuschnupfen.",
+        "Die Studien sind aber klein und oft von begrenzter Qualität. Eine verlässliche Wirkung ist nicht belegt. Gesundheitsbezogene Werbeaussagen sind in der EU nicht zugelassen."
+      ],
+      "merke": "Eine verlässliche Wirkung von Schwarzkümmelöl ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu beachten ist",
+      "absaetze": [
+        "Auf der Haut kann Schwarzkümmelöl allergische Reaktionen auslösen. In größeren Mengen kann es mit Medikamenten wechselwirken, etwa mit blutdruck- oder blutzuckersenkenden Mitteln.",
+        "Schwangere sollten auf größere Mengen verzichten. Als Speiseöl in üblichen Mengen gilt es als unbedenklich."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Einnahme von Blutdruck- oder Diabetesmedikamenten vorher ärztlich beraten lassen.",
+        "In der Schwangerschaft auf größere Mengen verzichten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Schwarzkümmelöl gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus den Samen einer Pflanze",
+        "Aus Fisch",
+        "Aus Kokosnüssen",
+        "Aus Oliven"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflanze wächst vor allem im Nahen Osten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist die Studienlage?",
+      "art": "mc",
+      "optionen": [
+        "Klein und von begrenzter Qualität",
+        "Umfangreich und eindeutig",
+        "Es ist ein zugelassenes Arzneimittel",
+        "Es gibt keinerlei Forschung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine verlässliche Wirkung ist nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schwarzkümmelöl kann auf der Haut allergische Reaktionen auslösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vorsicht bei empfindlicher Haut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwarzkümmelöl stammt aus der Volksmedizin.",
+        "Die Studienlage ist dünn.",
+        "Allergien und Wechselwirkungen sind möglich.",
+        "Als Speiseöl in üblichen Mengen unbedenklich."
+      ]
+    }
+  ]
+}

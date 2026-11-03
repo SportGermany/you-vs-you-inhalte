@@ -1,0 +1,114 @@
+{
+  "id": "all-b040-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist Weltraumschrott gefährlich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space debris",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Weltraumschrott",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "weltraumschrott",
+    "satelliten",
+    "orbit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rund um die Erde kreisen nicht nur aktive Satelliten, sondern auch ausgediente Teile und Trümmer.",
+        "Dieser Weltraumschrott wird zum Problem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im All herumfliegt",
+      "absaetze": [
+        "Weltraumschrott besteht aus alten Satelliten, ausgebrannten Raketenstufen und Bruchstücken von Zusammenstößen. Die ESA schätzt, dass viele Zehntausend Teile größer als zehn Zentimeter die Erde umkreisen.",
+        "Dazu kommen Millionen kleinerer Teilchen, die man kaum verfolgen kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hohe Geschwindigkeit",
+      "absaetze": [
+        "Die Teile fliegen mit vielen Kilometern pro Sekunde. Schon ein kleines Teilchen kann bei dieser Geschwindigkeit einen Satelliten schwer beschädigen.",
+        "Die Internationale Raumstation muss gelegentlich ausweichen. Jeder Zusammenstoß erzeugt neuen Schrott, was eine Kettenreaktion auslösen könnte."
+      ],
+      "merke": "Schon kleine Teile können bei hoher Geschwindigkeit großen Schaden anrichten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was getan wird",
+      "absaetze": [
+        "Weltraumagenturen beobachten größere Teile genau und warnen vor Annäherungen. Neue Satelliten sollen nach ihrer Nutzungszeit kontrolliert abstürzen oder in eine Friedhofsbahn wechseln.",
+        "Mit Tausenden neuen Satelliten für Internetdienste wächst die Sorge. Es wird an Methoden geforscht, Schrott gezielt einzusammeln."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Weltraumschrott?",
+      "art": "mc",
+      "optionen": [
+        "Aus alten Satelliten und Trümmern",
+        "Aus Meteoriten allein",
+        "Aus Wolken",
+        "Aus Sternenstaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ausgebrannte Raketenstufen gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind schon kleine Teile gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Wegen ihrer sehr hohen Geschwindigkeit",
+        "Weil sie giftig sind",
+        "Weil sie leuchten",
+        "Weil sie magnetisch sind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie fliegen mit vielen Kilometern pro Sekunde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Internationale Raumstation muss gelegentlich Weltraumschrott ausweichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Größere Teile werden dafür genau beobachtet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weltraumschrott umfasst alte Satelliten und Trümmer.",
+        "Schon kleine Teile sind bei hoher Geschwindigkeit gefährlich.",
+        "Zusammenstöße können Kettenreaktionen auslösen.",
+        "Neue Satelliten sollen nach der Nutzung entsorgt werden."
+      ]
+    }
+  ]
+}

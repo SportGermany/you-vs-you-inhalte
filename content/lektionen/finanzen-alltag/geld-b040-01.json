@@ -1,0 +1,108 @@
+{
+  "id": "geld-b040-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was kosten Fonds und ETFs wirklich?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fondskosten",
+    "ter",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Prozent Kosten im Jahr klingt nach wenig.",
+        "Über viele Jahre kann es aber einen großen Unterschied machen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die laufenden Kosten",
+      "absaetze": [
+        "Jeder Fonds hat laufende Kosten. Sie werden oft als Gesamtkostenquote angegeben, englisch Total Expense Ratio oder kurz TER. Sie zeigt, wie viel Prozent des Anlagebetrags jährlich für die Verwaltung anfallen.",
+        "Die Kosten werden direkt aus dem Fondsvermögen entnommen. Du merkst sie nicht auf dem Kontoauszug, aber sie schmälern die Rendite."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Unterschied über die Zeit",
+      "absaetze": [
+        "Aktiv gemanagte Fonds haben oft deutlich höhere laufende Kosten als ETFs, die einfach einen Index abbilden. Dazu kann beim Kauf ein Ausgabeaufschlag kommen.",
+        "Über 20 oder 30 Jahre summieren sich auch kleine Unterschiede bei den Kosten durch den Zinseszinseffekt zu großen Beträgen."
+      ],
+      "merke": "Kleine Kostenunterschiede werden über Jahrzehnte groß."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Vergleiche die laufenden Kosten, bevor du einen Fonds auswählst. Achte auch auf Depotgebühren und Kosten pro Kauf.",
+        "Das Basisinformationsblatt eines Fonds zeigt die Kosten übersichtlich. Verbraucherzentralen bieten zudem unabhängige Beratung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die Gesamtkostenquote eines Fonds?",
+      "art": "mc",
+      "optionen": [
+        "Den jährlichen Kostenanteil für die Verwaltung",
+        "Die Rendite",
+        "Den Preis einer Aktie",
+        "Die Steuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird oft TER genannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fonds haben meist niedrigere laufende Kosten?",
+      "art": "mc",
+      "optionen": [
+        "ETFs, die einen Index abbilden",
+        "Aktiv gemanagte Fonds",
+        "Beide gleich",
+        "Fonds mit hohem Ausgabeaufschlag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden nicht aktiv verwaltet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fondskosten erscheinen meist als eigene Buchung auf dem Kontoauszug.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie werden direkt aus dem Fondsvermögen entnommen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Jeder Fonds hat laufende Kosten.",
+        "Die Gesamtkostenquote zeigt sie in Prozent pro Jahr.",
+        "ETFs sind oft günstiger als aktive Fonds.",
+        "Über Jahrzehnte machen kleine Unterschiede viel aus."
+      ]
+    }
+  ]
+}

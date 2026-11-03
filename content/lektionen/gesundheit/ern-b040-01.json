@@ -1,0 +1,118 @@
+{
+  "id": "ern-b040-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Light-Produkte eine gute Wahl?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "light",
+    "fettreduziert",
+    "etikett"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Light-Joghurt, fettarme Wurst, zuckerreduzierte Limonade: Weniger klingt immer gut.",
+        "Doch Light-Produkte halten nicht immer, was sie versprechen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was light bedeutet",
+      "absaetze": [
+        "Light ist kein streng festgelegter Begriff für ein bestimmtes Produkt. Gesetzlich geregelt sind dagegen Angaben wie fettarm oder zuckerreduziert.",
+        "Ein Produkt mit reduziertem Fett- oder Zuckergehalt muss mindestens 30 Prozent weniger davon enthalten als vergleichbare Produkte."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Haken",
+      "absaetze": [
+        "Wird Fett entfernt, fehlt oft Geschmack. Manche Hersteller gleichen das mit mehr Zucker, Stärke oder Zusatzstoffen aus.",
+        "Studien deuten darauf hin, dass Menschen von Light-Produkten manchmal größere Mengen essen, weil sie sie für unbedenklich halten. Dann ist der Vorteil schnell dahin."
+      ],
+      "merke": "Weniger Fett bedeutet nicht automatisch weniger Energie.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Vergleiche die Nährwerttabelle mit dem Originalprodukt. Achte auf Energie, Zucker und Zutatenliste.",
+        "Oft ist eine kleinere Portion des Originals die bessere Wahl. Bei Getränken ist Wasser oder ungesüßter Tee meist die einfachste Alternative."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Um wie viel muss ein Produkt mit reduziertem Fettgehalt mindestens weniger Fett enthalten?",
+      "art": "mc",
+      "optionen": [
+        "Mindestens 30 Prozent",
+        "Mindestens 1 Prozent",
+        "Mindestens 90 Prozent",
+        "Es gibt keine Regel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verglichen wird mit ähnlichen Produkten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ersetzt manchmal das entfernte Fett?",
+      "art": "mc",
+      "optionen": [
+        "Zucker, Stärke oder Zusatzstoffe",
+        "Vitamine",
+        "Wasser allein",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Damit der Geschmack erhalten bleibt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Light-Produkte enthalten immer weniger Energie.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Vergleich der Nährwerte lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Light ist kein streng festgelegter Begriff.",
+        "Reduziert heißt mindestens 30 Prozent weniger.",
+        "Fett wird oft durch Zucker oder Stärke ersetzt.",
+        "Nährwerte vergleichen, Portionen beachten."
+      ]
+    }
+  ]
+}

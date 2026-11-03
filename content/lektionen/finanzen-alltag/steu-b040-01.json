@@ -1,0 +1,108 @@
+{
+  "id": "steu-b040-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was steht auf der Lohnsteuerbescheinigung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lohnsteuerbescheinigung",
+    "arbeitgeber",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zu Beginn des Jahres bekommst du von deinem Arbeitgeber ein Blatt mit vielen Zahlen.",
+        "Die Lohnsteuerbescheinigung ist wichtig für die Steuererklärung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie zeigt",
+      "absaetze": [
+        "Die Lohnsteuerbescheinigung fasst zusammen, was du im vergangenen Jahr verdient hast. Sie zeigt den Bruttoarbeitslohn sowie die einbehaltene Lohnsteuer, den Solidaritätszuschlag und gegebenenfalls die Kirchensteuer.",
+        "Auch Beiträge zur Renten-, Kranken-, Pflege- und Arbeitslosenversicherung sind aufgeführt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Elektronisch übermittelt",
+      "absaetze": [
+        "Der Arbeitgeber übermittelt die Daten elektronisch an das Finanzamt. Dafür hat er bis Ende Februar des Folgejahres Zeit.",
+        "In der Steuererklärung kannst du die Daten über ELSTER automatisch übernehmen. Prüfe sie trotzdem auf Fehler."
+      ],
+      "merke": "Die Daten liegen dem Finanzamt bereits elektronisch vor."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut aufbewahren",
+      "absaetze": [
+        "Die Lohnsteuerbescheinigung ist auch für andere Zwecke nützlich, etwa als Einkommensnachweis bei Anträgen.",
+        "Bewahre sie zusammen mit dem Steuerbescheid auf. Fehler solltest du dem Arbeitgeber melden, damit er die Daten korrigieren kann."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die Lohnsteuerbescheinigung?",
+      "art": "mc",
+      "optionen": [
+        "Bruttolohn und einbehaltene Lohnsteuer",
+        "Nur die Miete",
+        "Die Urlaubstage",
+        "Das Gewicht des Arbeitnehmers"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Sozialversicherungsbeiträge sind aufgeführt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelangen die Daten zum Finanzamt?",
+      "art": "mc",
+      "optionen": [
+        "Der Arbeitgeber übermittelt sie elektronisch",
+        "Per Brieftaube",
+        "Gar nicht",
+        "Nur auf Nachfrage per Fax"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis Ende Februar des Folgejahres."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fehler auf der Lohnsteuerbescheinigung sollte man dem Arbeitgeber melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er kann die Daten korrigieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Lohnsteuerbescheinigung fasst das Jahreseinkommen zusammen.",
+        "Sie zeigt Lohnsteuer und Sozialbeiträge.",
+        "Der Arbeitgeber übermittelt die Daten elektronisch.",
+        "Daten prüfen und Fehler melden."
+      ]
+    }
+  ]
+}

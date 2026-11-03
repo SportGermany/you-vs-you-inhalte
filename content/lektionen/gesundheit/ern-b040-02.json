@@ -1,0 +1,112 @@
+{
+  "id": "ern-b040-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was verrät die Typenzahl auf der Mehlpackung?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mehltype",
+    "vollkorn",
+    "backen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Type 405, Type 1050 oder Vollkornmehl: Im Backregal stehen viele Sorten.",
+        "Die Zahl auf der Packung sagt viel über das Mehl aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Typenzahl bedeutet",
+      "absaetze": [
+        "Die Typenzahl gibt an, wie viele Mineralstoffe im Mehl stecken. Gemessen wird, wie viel Asche zurückbleibt, wenn man 100 Gramm Mehl verbrennt.",
+        "Type 405 bedeutet: Es bleiben etwa 405 Milligramm Mineralstoffe zurück. Je höher die Zahl, desto mehr Bestandteile der Randschichten des Korns sind enthalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Helles und dunkles Mehl",
+      "absaetze": [
+        "Helles Mehl wie Type 405 besteht vor allem aus dem Inneren des Korns. Es enthält wenig Ballaststoffe und Mineralstoffe.",
+        "Mehle mit hoher Typenzahl sind dunkler und nährstoffreicher. Vollkornmehl hat keine Typenzahl, weil es das ganze Korn enthält."
+      ],
+      "merke": "Je höher die Typenzahl, desto mehr Mineralstoffe.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Alltag",
+      "absaetze": [
+        "Für die meisten Rezepte kannst du einen Teil des hellen Mehls durch Vollkornmehl ersetzen. Der Teig braucht dann oft etwas mehr Flüssigkeit.",
+        "Vollkornmehl ist aber nicht so lange haltbar, weil es mehr Fett aus dem Keimling enthält. Bewahre es kühl und trocken auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt die Typenzahl an?",
+      "art": "mc",
+      "optionen": [
+        "Den Mineralstoffgehalt des Mehls",
+        "Den Preis",
+        "Das Gewicht der Packung",
+        "Das Herstellungsjahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemessen wird die Asche nach dem Verbrennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hat Vollkornmehl keine Typenzahl?",
+      "art": "mc",
+      "optionen": [
+        "Weil es das ganze Korn enthält",
+        "Weil es künstlich ist",
+        "Weil es verboten ist",
+        "Weil es nur im Ausland verkauft wird"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es enthält alle Bestandteile des Korns."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vollkornmehl ist weniger lange haltbar als helles Mehl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es enthält mehr Fett aus dem Keimling."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Typenzahl zeigt den Mineralstoffgehalt.",
+        "Höhere Zahlen bedeuten dunkleres, nährstoffreicheres Mehl.",
+        "Vollkornmehl enthält das ganze Korn.",
+        "Vollkornmehl kühl und trocken lagern."
+      ]
+    }
+  ]
+}

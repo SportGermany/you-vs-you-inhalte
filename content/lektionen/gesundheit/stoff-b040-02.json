@@ -1,0 +1,113 @@
+{
+  "id": "stoff-b040-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum ist der Blutzucker morgens oft erhöht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes verstehen",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "morgendaemmerungsphaenomen",
+    "blutzucker",
+    "hormone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Menschen mit Diabetes wundern sich: Am Abend war der Blutzucker gut, am Morgen ist er höher.",
+        "Dahinter steckt oft ein natürlicher Vorgang."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hormone am frühen Morgen",
+      "absaetze": [
+        "In den frühen Morgenstunden schüttet der Körper Hormone wie Kortisol und Wachstumshormon aus. Sie bereiten den Körper auf den Tag vor.",
+        "Diese Hormone lassen die Leber Zucker ins Blut abgeben. Bei gesunden Menschen gleicht Insulin das aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Morgendämmerungsphänomen",
+      "absaetze": [
+        "Bei Menschen mit Diabetes reicht das Insulin manchmal nicht aus. Dann steigt der Blutzucker in den frühen Morgenstunden an.",
+        "Fachleute sprechen vom Morgendämmerungsphänomen, englisch Dawn-Phänomen. Studien deuten darauf hin, dass es bei vielen Menschen mit Diabetes auftritt."
+      ],
+      "merke": "Morgendliche Hormone können den Blutzucker steigen lassen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Wer regelmäßig hohe Morgenwerte hat, sollte das mit dem Diabetes-Team besprechen. Manchmal muss die Behandlung angepasst werden.",
+        "Auch eine nächtliche Unterzuckerung kann zu hohen Morgenwerten führen, weil der Körper gegensteuert. Messungen in der Nacht können helfen, die Ursache zu finden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hormone werden am frühen Morgen ausgeschüttet?",
+      "art": "mc",
+      "optionen": [
+        "Kortisol und Wachstumshormon",
+        "Melatonin und Insulin allein",
+        "Adrenalin nur nachts",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie bereiten den Körper auf den Tag vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der morgendliche Blutzuckeranstieg bei Diabetes?",
+      "art": "mc",
+      "optionen": [
+        "Morgendämmerungsphänomen",
+        "Mittagstief",
+        "Jojo-Effekt",
+        "Hungerast"
+      ],
+      "richtig": 0,
+      "erklaerung": "Englisch heißt es Dawn-Phänomen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch eine nächtliche Unterzuckerung kann zu hohen Morgenwerten führen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Körper steuert dann gegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Morgens schüttet der Körper Hormone aus, die den Blutzucker heben.",
+        "Bei Diabetes reicht das Insulin dann manchmal nicht.",
+        "Das nennt man Morgendämmerungsphänomen.",
+        "Regelmäßig hohe Morgenwerte mit dem Diabetes-Team besprechen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

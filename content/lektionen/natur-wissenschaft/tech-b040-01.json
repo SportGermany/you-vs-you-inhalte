@@ -1,0 +1,108 @@
+{
+  "id": "tech-b040-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein E-Reader-Bildschirm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Optik und Display",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "e-ink",
+    "e-reader",
+    "display"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein E-Reader lässt sich auch in der Sonne gut lesen, und der Akku hält wochenlang.",
+        "Das liegt an einer besonderen Bildschirmtechnik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Elektronische Tinte",
+      "absaetze": [
+        "E-Reader nutzen oft elektronische Tinte, auch E-Ink genannt. Im Bildschirm liegen winzige Kapseln mit schwarzen und weißen Teilchen.",
+        "Eine elektrische Spannung bewegt die Teilchen nach oben oder unten. So entsteht das Bild aus hellen und dunklen Punkten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Strom nur beim Umblättern",
+      "absaetze": [
+        "Einmal angeordnet, bleiben die Teilchen an ihrem Platz, auch ohne Strom. Strom braucht der Bildschirm nur, wenn sich das Bild ändert, etwa beim Umblättern.",
+        "Deshalb hält der Akku so lange. Ein normales Smartphone-Display muss das Bild dagegen ständig neu erzeugen."
+      ],
+      "merke": "E-Ink braucht nur Strom, wenn sich das Bild ändert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut für die Augen?",
+      "absaetze": [
+        "E-Ink leuchtet nicht selbst, sondern reflektiert das Umgebungslicht wie Papier. Viele empfinden das Lesen deshalb als angenehm.",
+        "Für schnelle Videos oder Farbbilder eignet sich die Technik weniger, weil der Bildaufbau langsamer ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann braucht ein E-Ink-Bildschirm Strom?",
+      "art": "mc",
+      "optionen": [
+        "Nur wenn sich das Bild ändert",
+        "Ständig",
+        "Nur nachts",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb hält der Akku so lange."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht das Bild auf E-Ink?",
+      "art": "mc",
+      "optionen": [
+        "Durch schwarze und weiße Teilchen, die sich bewegen",
+        "Durch kleine Lampen",
+        "Durch Tinte, die nachfließt",
+        "Durch Projektion"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Spannung bewegt die Teilchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "E-Ink eignet sich besonders gut für schnelle Videos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Bildaufbau ist dafür zu langsam."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "E-Ink nutzt bewegliche schwarze und weiße Teilchen.",
+        "Strom wird nur beim Bildwechsel gebraucht.",
+        "Der Bildschirm reflektiert Licht wie Papier.",
+        "Für Videos ist die Technik zu langsam."
+      ]
+    }
+  ]
+}

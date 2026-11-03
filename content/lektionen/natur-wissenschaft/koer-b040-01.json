@@ -1,0 +1,108 @@
+{
+  "id": "koer-b040-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum haben Menschen unterschiedliche Augenfarben?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Augeninfo",
+      "herausgeber": "Berufsverband der Augenärzte Deutschlands",
+      "url": "https://www.augeninfo.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "augenfarbe",
+    "melanin",
+    "iris"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Braun, blau, grün oder grau: Augenfarben sind vielfältig.",
+        "Dabei gibt es in der Iris eigentlich nur einen Farbstoff."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Melanin in der Iris",
+      "absaetze": [
+        "Die Farbe der Iris hängt vor allem von der Menge des Farbstoffs Melanin ab. Viel Melanin macht die Augen braun.",
+        "Blaue Augen enthalten wenig Melanin in der Vorderschicht der Iris. Ihre Farbe entsteht, weil das Gewebe blaues Licht stärker streut, ähnlich wie beim blauen Himmel."
+      ],
+      "merke": "Blaue Augen enthalten kein blaues Pigment."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vererbung",
+      "absaetze": [
+        "Die Augenfarbe wird durch mehrere Gene bestimmt. Deshalb lässt sie sich nicht einfach vorhersagen. Zwei Eltern mit blauen Augen können in seltenen Fällen ein Kind mit braunen Augen haben.",
+        "Weltweit sind braune Augen am häufigsten. Blaue Augen kommen vor allem bei Menschen mit europäischen Vorfahren vor."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Veränderungen",
+      "absaetze": [
+        "Viele Babys mit hellerer Haut werden mit blauen oder grauen Augen geboren. In den ersten Lebensjahren kann sich die Farbe noch verändern, wenn mehr Melanin gebildet wird.",
+        "Verändert sich die Augenfarbe bei Erwachsenen plötzlich oder nur an einem Auge, sollte das augenärztlich untersucht werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Farbstoff bestimmt die Augenfarbe?",
+      "art": "mc",
+      "optionen": [
+        "Melanin",
+        "Chlorophyll",
+        "Hämoglobin",
+        "Karotin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viel Melanin macht die Augen braun."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht die blaue Augenfarbe?",
+      "art": "mc",
+      "optionen": [
+        "Durch Lichtstreuung bei wenig Melanin",
+        "Durch blaues Pigment",
+        "Durch blaues Blut",
+        "Durch Wasser im Auge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ähnlich wie beim blauen Himmel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Augenfarbe von Babys kann sich in den ersten Jahren noch verändern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann mehr Melanin gebildet werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Melanin bestimmt die Augenfarbe.",
+        "Blaue Augen entstehen durch Lichtstreuung.",
+        "Mehrere Gene beeinflussen die Augenfarbe.",
+        "Plötzliche Veränderungen bei Erwachsenen untersuchen lassen."
+      ]
+    }
+  ]
+}

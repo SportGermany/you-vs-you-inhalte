@@ -1,0 +1,108 @@
+{
+  "id": "vers-b040-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Lohnt sich eine Krankenversicherung für Haustiere?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel, Geld und Versicherungen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tierkrankenversicherung",
+    "tierarzt",
+    "op-versicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Operation beim Hund kann schnell mehrere Tausend Euro kosten.",
+        "Tierkrankenversicherungen versprechen Schutz vor solchen Rechnungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Arten",
+      "absaetze": [
+        "Eine Tier-OP-Versicherung zahlt nur bei Operationen, meist mit Vor- und Nachbehandlung. Eine Tierkrankenvollversicherung übernimmt auch normale Tierarztbesuche und Behandlungen.",
+        "Die Vollversicherung ist deutlich teurer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Viele Tarife haben Wartezeiten, Selbstbeteiligungen und Höchstgrenzen pro Jahr. Ältere Tiere werden oft nicht mehr aufgenommen oder nur zu hohen Beiträgen.",
+        "Vorerkrankungen und bestimmte erbliche Krankheiten sind häufig ausgeschlossen. Prüfe genau, nach welcher Gebührenordnung erstattet wird."
+      ],
+      "merke": "Wartezeiten, Selbstbeteiligung und Ausschlüsse genau prüfen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alternative Rücklage",
+      "absaetze": [
+        "Statt einer Versicherung kann man jeden Monat einen festen Betrag für Tierarztkosten zurücklegen. Das bleibt flexibel.",
+        "Eine OP-Versicherung kann sinnvoll sein, wenn eine teure Operation das Budget sprengen würde. Für Hunde ist zudem eine Haftpflichtversicherung wichtiger, die teils sogar vorgeschrieben ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zahlt eine Tier-OP-Versicherung?",
+      "art": "mc",
+      "optionen": [
+        "Operationen mit Vor- und Nachbehandlung",
+        "Jedes Futter",
+        "Die Hundesteuer",
+        "Spielzeug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Normale Tierarztbesuche sind meist nicht enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Tierkrankenversicherungen häufig ausgeschlossen?",
+      "art": "mc",
+      "optionen": [
+        "Vorerkrankungen",
+        "Operationen",
+        "Junge Tiere",
+        "Impfungen immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bestimmte erbliche Krankheiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Hunde ist eine Haftpflichtversicherung oft wichtiger als eine Krankenversicherung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie ist teils sogar vorgeschrieben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "OP-Versicherungen zahlen nur Operationen.",
+        "Vollversicherungen decken mehr, sind aber teurer.",
+        "Wartezeiten und Ausschlüsse genau prüfen.",
+        "Eine monatliche Rücklage ist eine flexible Alternative."
+      ]
+    }
+  ]
+}

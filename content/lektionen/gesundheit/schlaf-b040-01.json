@@ -1,0 +1,118 @@
+{
+  "id": "schlaf-b040-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum sind Schlaftabletten auf Rezept nur für kurze Zeit gedacht?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arzneimittelsicherheit",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlaftabletten",
+    "abhaengigkeit",
+    "benzodiazepine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach schlechten Nächten verschreibt die Ärztin ein Schlafmittel. Es wirkt schnell und zuverlässig.",
+        "Doch genau darin liegt ein Risiko."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sie wirken",
+      "absaetze": [
+        "Viele verschreibungspflichtige Schlafmittel verstärken die Wirkung eines beruhigenden Botenstoffs im Gehirn. Dazu gehören Benzodiazepine und ähnliche Wirkstoffe.",
+        "Sie helfen beim Einschlafen und Durchschlafen. Der natürliche Schlafablauf wird aber verändert."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Risiko der Gewöhnung",
+      "absaetze": [
+        "Bei längerer Anwendung gewöhnt sich der Körper an die Mittel. Sie wirken schwächer, und es kann eine Abhängigkeit entstehen.",
+        "Wer sie plötzlich absetzt, schläft oft schlechter als vorher. Bei älteren Menschen erhöhen sie zudem das Risiko für Stürze und Verwirrtheit."
+      ],
+      "merke": "Schlafmittel auf Rezept können abhängig machen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Leitlinien empfehlen",
+      "absaetze": [
+        "Leitlinien empfehlen diese Mittel meist nur für wenige Wochen. Bei anhaltender Schlaflosigkeit gilt die kognitive Verhaltenstherapie als erste Wahl.",
+        "Ein Absetzen nach längerer Anwendung sollte langsam und ärztlich begleitet erfolgen. Nie eigenmächtig die Dosis erhöhen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei längerer Anwendung von Schlafmitteln entstehen?",
+      "art": "mc",
+      "optionen": [
+        "Gewöhnung und Abhängigkeit",
+        "Ein besseres Gedächtnis",
+        "Mehr Muskelkraft",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wirken dann schwächer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei anhaltender Schlaflosigkeit als erste Wahl?",
+      "art": "mc",
+      "optionen": [
+        "Kognitive Verhaltenstherapie",
+        "Immer höhere Dosen",
+        "Alkohol am Abend",
+        "Mehr Kaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wirkt langfristig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach längerer Anwendung sollte man Schlafmittel abrupt absetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das sollte langsam und ärztlich begleitet geschehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Verschreibungspflichtige Schlafmittel wirken schnell.",
+        "Bei längerer Anwendung drohen Gewöhnung und Abhängigkeit.",
+        "Sie sind meist nur für wenige Wochen gedacht.",
+        "Absetzen langsam und ärztlich begleitet."
+      ]
+    }
+  ]
+}
