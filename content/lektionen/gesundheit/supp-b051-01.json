@@ -1,0 +1,120 @@
+{
+  "id": "supp-b051-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Weihrauch-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "weihrauch",
+    "entzuendung",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weihrauch kennt man aus der Kirche. In Kapseln soll er bei Gelenkbeschwerden und Entzündungen helfen.",
+        "Was ist dran?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein altes Heilmittel",
+      "absaetze": [
+        "Weihrauch ist das getrocknete Harz von Boswellia-Bäumen. In der indischen und arabischen Volksmedizin wird er seit Jahrhunderten genutzt.",
+        "Im Labor zeigen bestimmte Inhaltsstoffe, die Boswelliasäuren, entzündungshemmende Wirkungen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig gesicherte Belege",
+      "absaetze": [
+        "Einige kleinere Studien deuten darauf hin, dass Weihrauchextrakte Beschwerden bei Arthrose leicht lindern könnten. Die Studien sind aber oft klein und von unterschiedlicher Qualität.",
+        "Auch bei chronisch-entzündlichen Darmerkrankungen ist der Nutzen nicht ausreichend belegt. Eine ärztliche Behandlung ersetzen die Präparate nicht."
+      ],
+      "merke": "Ein Nutzen ist nicht ausreichend belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Qualität schwankt",
+      "absaetze": [
+        "Der Gehalt an Wirkstoffen unterscheidet sich zwischen Produkten stark. Als Nahrungsergänzungsmittel werden sie nicht wie Arzneimittel geprüft.",
+        "Mögliche Nebenwirkungen sind Magen-Darm-Beschwerden. Wer Medikamente braucht oder chronisch krank ist, sollte vor der Verwendung ärztlich beraten werden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei chronischen Erkrankungen oder Medikamenten vorher ärztlich beraten lassen.",
+        "Präparate ersetzen keine ärztliche Behandlung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Weihrauch?",
+      "art": "mc",
+      "optionen": [
+        "Das Harz von Boswellia-Bäumen",
+        "Ein Mineral",
+        "Ein Pilz",
+        "Ein Vitamin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird seit Jahrhunderten genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist der Nutzen bei Arthrose belegt?",
+      "art": "mc",
+      "optionen": [
+        "Sehr gut",
+        "Nur durch kleinere, uneinheitliche Studien",
+        "Er ist bewiesen schädlich",
+        "Es gibt keine Forschung"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein Nutzen ist nicht ausreichend belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Weihrauch-Präparate ersetzen eine ärztliche Behandlung bei Darmentzündungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Nutzen ist nicht ausreichend belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weihrauch ist ein Baumharz mit langer Tradition.",
+        "Im Labor wirken Inhaltsstoffe entzündungshemmend.",
+        "Beim Menschen ist der Nutzen nicht ausreichend belegt.",
+        "Die Qualität der Produkte schwankt stark."
+      ]
+    }
+  ]
+}

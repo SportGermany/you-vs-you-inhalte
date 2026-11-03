@@ -1,0 +1,136 @@
+{
+  "id": "haus-b051-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was gehört in eine Hausapotheke?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hausapotheke",
+    "erste-hilfe",
+    "vorsorge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Schnitt in den Finger, Fieber am Wochenende, ein Insektenstich.",
+        "Eine gut sortierte Hausapotheke hilft, kleine Notfälle zu versorgen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grundausstattung",
+      "absaetze": [
+        "Zur Grundausstattung gehören Pflaster, Mullbinden, sterile Kompressen, eine Schere, eine Pinzette und ein Fieberthermometer. Auch ein Mittel zur Wunddesinfektion und ein Kühlpack sind sinnvoll.",
+        "Wichtige Telefonnummern wie Giftnotruf und hausärztliche Praxis gehören gut sichtbar dazu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Medikamente mit Bedacht",
+      "absaetze": [
+        "Welche Medikamente sinnvoll sind, hängt von deinem Haushalt ab, etwa ob Kinder dort leben. Lass dich dazu in der Apotheke oder Arztpraxis beraten.",
+        "Benötigst du regelmäßig Medikamente, solltest du immer einen kleinen Vorrat haben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig aufbewahren",
+      "absaetze": [
+        "Bewahre die Hausapotheke kühl, trocken und für Kinder unerreichbar auf. Das Badezimmer ist wegen der Feuchtigkeit meist ungeeignet.",
+        "Prüfe mindestens einmal im Jahr die Haltbarkeit. Abgelaufene Medikamente gehören nicht in die Toilette, sondern werden nach den örtlichen Regeln entsorgt."
+      ],
+      "merke": "Kühl, trocken und kindersicher aufbewahren."
+    },
+    {
+      "typ": "schritte",
+      "titel": "Hausapotheke prüfen",
+      "schritte": [
+        {
+          "titel": "Verbandsmaterial",
+          "text": "Pflaster, Kompressen und Binden auffüllen."
+        },
+        {
+          "titel": "Geräte",
+          "text": "Fieberthermometer, Schere und Pinzette bereithalten."
+        },
+        {
+          "titel": "Haltbarkeit",
+          "text": "Einmal im Jahr Ablaufdaten kontrollieren."
+        },
+        {
+          "titel": "Ort",
+          "text": "Kühl, trocken und kindersicher lagern."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört zur Grundausstattung einer Hausapotheke?",
+      "art": "mc",
+      "optionen": [
+        "Pflaster, Kompressen und Fieberthermometer",
+        "Nur Hustensaft",
+        "Ein Bügeleisen",
+        "Gewürze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Schere, Pinzette und Desinfektionsmittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist das Badezimmer meist ungeeignet?",
+      "art": "mc",
+      "optionen": [
+        "Wegen der Feuchtigkeit",
+        "Weil es zu dunkel ist",
+        "Weil es zu klein ist",
+        "Weil dort Strom fließt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Medikamente sollten trocken lagern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Abgelaufene Medikamente können in die Toilette gespült werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie werden nach örtlichen Regeln entsorgt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Verbandsmaterial und Fieberthermometer gehören in jede Hausapotheke.",
+        "Medikamente nach Beratung passend zum Haushalt wählen.",
+        "Kühl, trocken und kindersicher lagern.",
+        "Einmal im Jahr die Haltbarkeit prüfen."
+      ]
+    }
+  ]
+}

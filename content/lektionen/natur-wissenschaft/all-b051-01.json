@@ -1,0 +1,124 @@
+{
+  "id": "all-b051-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was kann das James-Webb-Teleskop?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "James Webb Space Telescope",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "james-webb",
+    "teleskop",
+    "infrarot"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am 25. Dezember 2021 startete das größte Weltraumteleskop, das je gebaut wurde.",
+        "Seitdem liefert es Bilder aus der Frühzeit des Universums."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Gemeinschaftsprojekt",
+      "absaetze": [
+        "Das James-Webb-Weltraumteleskop ist ein Projekt der amerikanischen NASA, der Europäischen Weltraumorganisation ESA und der kanadischen Raumfahrtagentur. Gestartet ist es mit einer europäischen Ariane-5-Rakete.",
+        "Sein Hauptspiegel hat einen Durchmesser von rund 6,5 Metern und besteht aus 18 vergoldeten Einzelspiegeln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sehen im Infrarot",
+      "absaetze": [
+        "Das Teleskop beobachtet vor allem Infrarotlicht, also Wärmestrahlung. Licht von sehr fernen Galaxien ist auf dem langen Weg zu uns ins Infrarote verschoben.",
+        "Damit die eigene Wärme nicht stört, muss das Teleskop extrem kalt sein. Ein riesiger Sonnenschild etwa so groß wie ein Tennisplatz schützt es vor der Sonne."
+      ],
+      "merke": "Webb sieht vor allem Infrarotlicht.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weit draußen",
+      "absaetze": [
+        "Das Teleskop steht nicht in einer Umlaufbahn um die Erde. Es kreist um einen Punkt etwa 1,5 Millionen Kilometer von der Erde entfernt, auf der sonnenabgewandten Seite.",
+        "Es beobachtet sehr frühe Galaxien, die Entstehung von Sternen und die Atmosphären von Planeten bei anderen Sternen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann startete das James-Webb-Teleskop?",
+      "art": "mc",
+      "optionen": [
+        "Am 25. Dezember 2021",
+        "Im Jahr 1990",
+        "Im Jahr 2010",
+        "Es ist noch nicht gestartet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es startete mit einer Ariane-5-Rakete."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Licht beobachtet das Teleskop vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Infrarotlicht",
+        "Röntgenstrahlung",
+        "Radiowellen",
+        "Nur sichtbares Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht ferner Galaxien ist ins Infrarote verschoben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient der riesige Sonnenschild?",
+      "art": "mc",
+      "optionen": [
+        "Er hält das Teleskop kalt",
+        "Er erzeugt Strom",
+        "Er dient als Antenne",
+        "Er bremst das Teleskop"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eigene Wärme würde die Messungen stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Teleskop kreist in niedriger Bahn direkt um die Erde.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es steht etwa 1,5 Millionen Kilometer entfernt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Webb startete Ende 2021 als Gemeinschaftsprojekt.",
+        "Sein Spiegel besteht aus 18 Segmenten.",
+        "Es beobachtet vor allem Infrarotlicht.",
+        "Es steht rund 1,5 Millionen Kilometer von der Erde entfernt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "lern-b051-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie lernst du sinnvoll, wenn die Prüfung schon bald ist?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pruefung",
+    "zeitmanagement",
+    "lernstrategie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Prüfung ist in wenigen Tagen, und der Stoff sitzt noch nicht.",
+        "Auch kurzfristig kannst du klug vorgehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Prioritäten setzen",
+      "absaetze": [
+        "Verschaffe dir zuerst einen Überblick, welche Themen wichtig sind und welche du schon kannst. Konzentriere dich auf das, was wahrscheinlich geprüft wird und dir noch fehlt.",
+        "Ein grober Plan für die verbleibenden Tage verhindert, dass du dich verzettelst."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abfragen statt Lesen",
+      "absaetze": [
+        "Auch unter Zeitdruck ist Selbsttesten die wirksamste Methode. Löse alte Aufgaben, beantworte Fragen ohne Unterlagen und prüfe danach, wo es hakt.",
+        "Verteile die Wiederholungen auf die verbleibenden Tage, statt alles an einem Tag zu machen."
+      ],
+      "merke": "Selbsttests sind auch kurz vor der Prüfung am wirksamsten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlaf nicht opfern",
+      "absaetze": [
+        "Eine durchgelernte Nacht schadet meist mehr, als sie nützt. Im Schlaf festigt das Gehirn Gelerntes, und ausgeschlafen denkst du klarer.",
+        "Plane Pausen ein und iss regelmäßig. Am Prüfungstag selbst hilft eher ein kurzer Überblick als neuer Stoff."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du zuerst tun?",
+      "art": "mc",
+      "optionen": [
+        "Einen Überblick verschaffen und Prioritäten setzen",
+        "Alles von vorn lesen",
+        "Neue Bücher kaufen",
+        "Die Nacht durchlernen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Konzentriere dich auf wichtige Lücken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Methode ist auch unter Zeitdruck am wirksamsten?",
+      "art": "mc",
+      "optionen": [
+        "Selbsttesten",
+        "Markieren",
+        "Mehrfaches Lesen",
+        "Abschreiben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Löse Aufgaben ohne Unterlagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine durchgelernte Nacht vor der Prüfung ist eine gute Idee.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Schlaf festigt Gelerntes und macht klarer im Kopf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Überblick verschaffen und Prioritäten setzen.",
+        "Selbsttesten statt nur lesen.",
+        "Wiederholungen auf die Tage verteilen.",
+        "Schlaf nicht für das Lernen opfern."
+      ]
+    }
+  ]
+}

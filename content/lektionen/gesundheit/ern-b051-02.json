@@ -1,0 +1,118 @@
+{
+  "id": "ern-b051-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Kombucha?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kombucha",
+    "fermentation",
+    "getraenke"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kombucha ist ein leicht prickelndes Getränk aus gesüßtem Tee.",
+        "Es wird oft als Gesundheitsdrink beworben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Kombucha entsteht",
+      "absaetze": [
+        "Für Kombucha wird gesüßter Tee mit einer Kultur aus Hefen und Bakterien angesetzt. Diese Kultur bildet eine gallertartige Schicht, die oft Teepilz genannt wird.",
+        "Während der Gärung bauen Hefen und Bakterien einen Teil des Zuckers ab. Es entstehen Säuren, Kohlensäure und geringe Mengen Alkohol."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hinter den Versprechen steckt",
+      "absaetze": [
+        "Kombucha soll die Verdauung und das Immunsystem stärken. Gute Studien am Menschen dazu fehlen weitgehend. Die Studienlage deutet darauf hin, dass ein Nutzen nicht belegt ist.",
+        "Gekaufter Kombucha ist oft pasteurisiert. Dann enthält er kaum noch lebende Mikroorganismen."
+      ],
+      "merke": "Ein Gesundheitsnutzen von Kombucha ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selbst ansetzen mit Vorsicht",
+      "absaetze": [
+        "Wer Kombucha zu Hause herstellt, muss sehr sauber arbeiten. Sonst können sich Schimmel oder unerwünschte Keime bilden.",
+        "Wegen des Alkohols, des Koffeins aus dem Tee und der Säure ist Kombucha für Kinder, Schwangere und Menschen mit geschwächtem Immunsystem nicht empfehlenswert."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Kombucha hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Aus gesüßtem Tee und einer Kultur aus Hefen und Bakterien",
+        "Aus Milch",
+        "Aus Kaffee und Salz",
+        "Aus Obstsaft und Gelatine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kultur heißt oft Teepilz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht bei der Gärung?",
+      "art": "mc",
+      "optionen": [
+        "Säuren, Kohlensäure und etwas Alkohol",
+        "Vitamin D",
+        "Eiweiß",
+        "Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Teil des Zuckers wird abgebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein gesundheitlicher Nutzen von Kombucha ist gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gute Studien am Menschen fehlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kombucha ist fermentierter, gesüßter Tee.",
+        "Er enthält Säuren, Kohlensäure und etwas Alkohol.",
+        "Ein Gesundheitsnutzen ist nicht belegt.",
+        "Beim Selbstansetzen auf Hygiene achten."
+      ]
+    }
+  ]
+}

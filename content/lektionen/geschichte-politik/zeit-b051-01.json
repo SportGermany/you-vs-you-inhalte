@@ -1,0 +1,127 @@
+{
+  "id": "zeit-b051-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Wie kam es zur Finanzkrise 2008?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Finanzstabilität",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "finanzkrise",
+    "banken",
+    "2008"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im September 2008 ging die US-Investmentbank Lehman Brothers pleite.",
+        "Daraus entwickelte sich die schwerste Wirtschaftskrise seit Jahrzehnten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Faule Kredite in den USA",
+      "absaetze": [
+        "In den USA vergaben Banken jahrelang Immobilienkredite auch an Menschen, die sie kaum zurückzahlen konnten. Man ging davon aus, dass die Hauspreise immer weiter steigen.",
+        "Diese Kredite wurden gebündelt und als Wertpapiere in alle Welt verkauft. Als die Hauspreise fielen, verloren diese Papiere massiv an Wert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Banken in Not",
+      "absaetze": [
+        "Viele Banken weltweit hatten solche Papiere gekauft. Niemand wusste genau, wer wie stark betroffen war. Banken liehen sich deshalb kaum noch gegenseitig Geld.",
+        "Am 15. September 2008 meldete Lehman Brothers Insolvenz an. Die Panik an den Finanzmärkten wurde riesig. Staaten retteten viele Banken mit Milliarden."
+      ],
+      "merke": "Die Pleite von Lehman Brothers verschärfte die Krise dramatisch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen in Deutschland",
+      "absaetze": [
+        "Auch deutsche Banken gerieten in Schwierigkeiten und erhielten staatliche Hilfe. Die Bundesregierung erklärte öffentlich, die Spareinlagen der Bürger seien sicher.",
+        "Die Wirtschaft brach 2009 stark ein. Kurzarbeit half, viele Arbeitsplätze zu erhalten. Danach wurden die Regeln für Banken deutlich verschärft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Bank ging im September 2008 pleite?",
+      "art": "mc",
+      "optionen": [
+        "Lehman Brothers",
+        "Deutsche Bank",
+        "Bank of England",
+        "Sparkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das verschärfte die Krise dramatisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo nahm die Krise ihren Ausgang?",
+      "art": "mc",
+      "optionen": [
+        "Am US-Immobilienmarkt",
+        "Im deutschen Autohandel",
+        "Bei japanischen Reisbauern",
+        "In der Raumfahrt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Faule Kredite wurden als Wertpapiere verkauft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was half in Deutschland, Arbeitsplätze zu erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Kurzarbeit",
+        "Höhere Steuern für alle",
+        "Die Abschaffung des Euro",
+        "Ein Verbot von Banken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wirtschaft brach 2009 stark ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach der Krise wurden die Regeln für Banken verschärft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Banken müssen seitdem mehr Eigenkapital vorhalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Riskante Immobilienkredite in den USA lösten die Krise aus.",
+        "Die Kredite wurden als Wertpapiere weltweit verkauft.",
+        "Die Pleite von Lehman Brothers 2008 verschärfte die Panik.",
+        "Staaten retteten Banken, die Regeln wurden verschärft."
+      ]
+    }
+  ]
+}

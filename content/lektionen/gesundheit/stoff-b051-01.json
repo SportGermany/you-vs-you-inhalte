@@ -1,0 +1,138 @@
+{
+  "id": "stoff-b051-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was hilft bei Verstopfung?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "verstopfung",
+    "verdauung",
+    "ballaststoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast jeder hat mal eine Phase, in der die Verdauung stockt.",
+        "Oft helfen schon einfache Veränderungen im Alltag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was als Verstopfung gilt",
+      "absaetze": [
+        "Wie oft jemand Stuhlgang hat, ist sehr unterschiedlich. Dreimal am Tag bis dreimal pro Woche gilt als normal.",
+        "Von Verstopfung spricht man, wenn der Stuhl selten, hart oder nur mit starkem Pressen abgeht und man sich unwohl fühlt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alltagsmaßnahmen",
+      "absaetze": [
+        "Ballaststoffe aus Vollkorn, Gemüse, Obst und Hülsenfrüchten machen den Stuhl weicher und voluminöser. Dazu braucht es ausreichend Flüssigkeit.",
+        "Auch Bewegung regt den Darm an. Hilfreich ist zudem, dem Stuhldrang nachzugeben und sich Zeit für den Toilettengang zu nehmen."
+      ],
+      "merke": "Ballaststoffe, Trinken und Bewegung bringen die Verdauung in Schwung.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann zum Arzt",
+      "absaetze": [
+        "Blut im Stuhl, ungewollter Gewichtsverlust, starke Bauchschmerzen oder eine neue, anhaltende Veränderung der Stuhlgewohnheiten sollten ärztlich abgeklärt werden.",
+        "Das gilt besonders für Menschen ab dem mittleren Alter. Abführmittel solltest du nicht dauerhaft ohne ärztliche Beratung verwenden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Täglicher Stuhlgang ist ein Muss für die Gesundheit.",
+      "urteil": "mythos",
+      "erklaerung": "Wie oft jemand zur Toilette geht, ist sehr unterschiedlich. Dreimal pro Woche kann ebenso normal sein wie dreimal am Tag, solange man sich dabei wohlfühlt und keine Beschwerden hat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft Stuhlgang gilt als normal?",
+      "art": "mc",
+      "optionen": [
+        "Nur genau einmal täglich",
+        "Dreimal am Tag bis dreimal pro Woche",
+        "Einmal im Monat",
+        "Nur zweimal pro Woche"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Spanne ist groß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei leichter Verstopfung?",
+      "art": "mc",
+      "optionen": [
+        "Ballaststoffe, Flüssigkeit und Bewegung",
+        "Weniger trinken",
+        "Langes Sitzen",
+        "Weißbrot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ballaststoffe machen den Stuhl weicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Warnzeichen?",
+      "art": "mc",
+      "optionen": [
+        "Blut im Stuhl",
+        "Gelegentlich ein Tag ohne Stuhlgang",
+        "Hunger am Morgen",
+        "Kalte Füße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ärztlichen Rat einholen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer täglich keinen Stuhlgang hat, ist automatisch verstopft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die normale Spanne ist groß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die normale Stuhlhäufigkeit ist sehr unterschiedlich.",
+        "Ballaststoffe, Trinken und Bewegung helfen.",
+        "Blut im Stuhl oder Gewichtsverlust ärztlich abklären.",
+        "Abführmittel nicht dauerhaft ohne Beratung.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

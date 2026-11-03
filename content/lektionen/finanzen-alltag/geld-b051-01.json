@@ -1,0 +1,127 @@
+{
+  "id": "geld-b051-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie kannst du Geld für Kinder anlegen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kinder",
+    "geldanlage",
+    "sparplan"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Eltern und Großeltern möchten für Kinder ein finanzielles Polster aufbauen.",
+        "Dabei stellt sich die Frage: auf wessen Namen und wie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf den Namen des Kindes oder der Eltern",
+      "absaetze": [
+        "Geld auf einem Konto oder Depot im Namen des Kindes gehört rechtlich dem Kind. Eltern verwalten es, dürfen es aber nicht einfach für sich nutzen. Mit 18 Jahren kann das Kind selbst darüber verfügen.",
+        "Legen Eltern das Geld auf eigenen Namen an, behalten sie die volle Kontrolle. Dafür fällt der steuerliche Vorteil des Kindes weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerliche Vorteile",
+      "absaetze": [
+        "Auch Kinder haben einen Grundfreibetrag und einen Sparer-Pauschbetrag. Kapitalerträge auf ihren Namen bleiben deshalb oft steuerfrei.",
+        "Dafür braucht die Bank einen Freistellungsauftrag oder eine Nichtveranlagungsbescheinigung des Finanzamts."
+      ],
+      "merke": "Auf den Namen des Kindes bleiben Erträge oft steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lange Zeit nutzen",
+      "absaetze": [
+        "Bis zur Volljährigkeit vergehen viele Jahre. Für einen langen Zeitraum kann ein breit gestreuter ETF-Sparplan eine Möglichkeit sein. Kurzfristig benötigtes Geld gehört eher auf ein Tagesgeldkonto.",
+        "Achte auf niedrige Kosten. Teure Ausbildungsversicherungen sind oft weniger lohnend als einfache Anlagen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem gehört Geld auf einem Konto im Namen des Kindes?",
+      "art": "mc",
+      "optionen": [
+        "Dem Kind",
+        "Den Eltern",
+        "Der Bank",
+        "Den Großeltern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eltern verwalten es nur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab wann darf das Kind selbst über das Geld verfügen?",
+      "art": "mc",
+      "optionen": [
+        "Ab 12 Jahren",
+        "Ab 16 Jahren",
+        "Ab 18 Jahren",
+        "Ab 25 Jahren"
+      ],
+      "richtig": 2,
+      "erklaerung": "Mit der Volljährigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchen Banken, damit Erträge des Kindes steuerfrei bleiben?",
+      "art": "mc",
+      "optionen": [
+        "Einen Freistellungsauftrag oder eine Nichtveranlagungsbescheinigung",
+        "Einen Reisepass der Eltern",
+        "Eine Geburtstagskarte",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kinder haben eigene Freibeträge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Teure Ausbildungsversicherungen sind meist eine besonders lohnende Anlage für Kinder.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Einfache, günstige Anlagen sind oft lohnender."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Geld im Namen des Kindes gehört dem Kind.",
+        "Mit 18 verfügt das Kind selbst darüber.",
+        "Eigene Freibeträge machen Erträge oft steuerfrei.",
+        "Für lange Zeiträume auf niedrige Kosten achten."
+      ]
+    }
+  ]
+}

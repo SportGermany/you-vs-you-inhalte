@@ -1,0 +1,119 @@
+{
+  "id": "stoff-b051-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist ein Reizdarmsyndrom?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "reizdarm",
+    "verdauung",
+    "bauchschmerzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Immer wieder Bauchschmerzen, Blähungen und wechselnder Stuhlgang, aber keine Ursache zu finden.",
+        "Viele Menschen kennen diese Beschwerden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein häufiges Krankheitsbild",
+      "absaetze": [
+        "Beim Reizdarmsyndrom bestehen über längere Zeit Beschwerden wie Bauchschmerzen, Blähungen, Durchfall oder Verstopfung. Organische Ursachen lassen sich dabei nicht finden.",
+        "Es ist eine der häufigsten Erkrankungen des Verdauungstrakts. Die Beschwerden sind echt, auch wenn Untersuchungen unauffällig sind."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Diagnose durch Ausschluss",
+      "absaetze": [
+        "Andere Erkrankungen wie Zöliakie, chronisch-entzündliche Darmerkrankungen oder Unverträglichkeiten müssen ärztlich ausgeschlossen werden. Erst dann wird ein Reizdarm festgestellt.",
+        "Fachleute vermuten ein Zusammenspiel aus empfindlichem Darm, veränderter Darmflora und der Verbindung zwischen Darm und Gehirn."
+      ],
+      "merke": "Die Beschwerden sind echt, auch ohne sichtbaren Befund.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Vielen Betroffenen hilft eine Ernährungsumstellung. Studien deuten darauf hin, dass eine sogenannte FODMAP-arme Ernährung bei einem Teil der Betroffenen die Beschwerden lindert. Sie sollte fachlich begleitet werden.",
+        "Auch Stressbewältigung, Bewegung und psychologische Verfahren können helfen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für ein Reizdarmsyndrom?",
+      "art": "mc",
+      "optionen": [
+        "Beschwerden ohne nachweisbare organische Ursache",
+        "Ein gebrochener Knochen",
+        "Immer hohes Fieber",
+        "Ein Vitaminüberschuss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Beschwerden sind trotzdem echt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird ein Reizdarm festgestellt?",
+      "art": "mc",
+      "optionen": [
+        "Durch Ausschluss anderer Erkrankungen",
+        "Durch einen Schnelltest aus der Apotheke",
+        "Durch Röntgen der Hand",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Zöliakie muss ausgeschlossen werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine FODMAP-arme Ernährung kann einem Teil der Betroffenen helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sollte fachlich begleitet werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reizdarm verursacht anhaltende Verdauungsbeschwerden.",
+        "Organische Ursachen werden vorher ausgeschlossen.",
+        "Darm, Darmflora und Gehirn spielen zusammen.",
+        "Ernährung und Stressbewältigung können helfen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ern-b051-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Soja gesund?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "soja",
+    "isoflavone",
+    "pflanzliches-eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tofu, Sojadrink und Edamame sind beliebt wie nie.",
+        "Gleichzeitig hört man Warnungen vor den Pflanzenhormonen im Soja."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wertvolles Eiweiß",
+      "absaetze": [
+        "Sojabohnen sind Hülsenfrüchte mit besonders viel Eiweiß. Es enthält alle unentbehrlichen Aminosäuren in einem günstigen Verhältnis.",
+        "Dazu kommen Ballaststoffe, ungesättigte Fette und Mineralstoffe. Sojaprodukte können Fleisch in einer pflanzenbetonten Ernährung gut ersetzen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Sache mit den Isoflavonen",
+      "absaetze": [
+        "Soja enthält Isoflavone. Diese Pflanzenstoffe ähneln in ihrer Struktur dem Hormon Östrogen, wirken aber viel schwächer.",
+        "Studien deuten darauf hin, dass Sojaprodukte in üblichen Mengen als Lebensmittel unbedenklich sind. Vorsicht empfehlen Fachleute eher bei hoch konzentrierten Isoflavon-Präparaten."
+      ],
+      "merke": "Als Lebensmittel ist Soja in üblichen Mengen unbedenklich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten kannst",
+      "absaetze": [
+        "Soja gehört zu den kennzeichnungspflichtigen Allergenen. Menschen mit Birkenpollenallergie reagieren manchmal auf Sojadrinks.",
+        "Bei Sojadrinks lohnt ein Blick auf die Zutatenliste. Ungesüßte Varianten mit zugesetztem Kalzium sind eine gute Wahl."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeichnet Soja-Eiweiß aus?",
+      "art": "mc",
+      "optionen": [
+        "Es enthält alle unentbehrlichen Aminosäuren",
+        "Es enthält gar kein Eiweiß",
+        "Es besteht nur aus Zucker",
+        "Es ist reines Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Verhältnis ist günstig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Isoflavone?",
+      "art": "mc",
+      "optionen": [
+        "Pflanzenstoffe, die Östrogen ähneln",
+        "Vitamine aus Fleisch",
+        "Künstliche Farbstoffe",
+        "Mineralstoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wirken aber viel schwächer als das Hormon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei raten Fachleute eher zur Vorsicht?",
+      "art": "mc",
+      "optionen": [
+        "Bei Tofu im Salat",
+        "Bei hoch konzentrierten Isoflavon-Präparaten",
+        "Bei Edamame als Snack",
+        "Bei Sojasoße in kleinen Mengen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Als Lebensmittel gilt Soja als unbedenklich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Soja gehört zu den kennzeichnungspflichtigen Allergenen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es muss auf Verpackungen angegeben werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Soja liefert hochwertiges pflanzliches Eiweiß.",
+        "Isoflavone ähneln Östrogen, wirken aber schwach.",
+        "Als Lebensmittel ist Soja in üblichen Mengen unbedenklich.",
+        "Soja ist ein kennzeichnungspflichtiges Allergen."
+      ]
+    }
+  ]
+}

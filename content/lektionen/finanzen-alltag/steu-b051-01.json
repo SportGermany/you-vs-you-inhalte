@@ -1,0 +1,108 @@
+{
+  "id": "steu-b051-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was sind Steuervorauszahlungen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vorauszahlung",
+    "einkommensteuer",
+    "selbststaendigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich verlangt das Finanzamt Steuern für ein Jahr, das noch gar nicht vorbei ist.",
+        "Das sind Steuervorauszahlungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer sie zahlt",
+      "absaetze": [
+        "Bei Angestellten zieht der Arbeitgeber die Lohnsteuer jeden Monat direkt ab. Bei Selbstständigen, Vermietern oder Menschen mit hohen Nebeneinkünften gibt es diesen Abzug nicht.",
+        "Damit die Steuer nicht erst Jahre später auf einmal fällig wird, setzt das Finanzamt Vorauszahlungen fest."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sie berechnet werden",
+      "absaetze": [
+        "Grundlage ist meist das Einkommen aus dem letzten Steuerbescheid. Die Vorauszahlungen werden in der Regel vierteljährlich fällig.",
+        "Nach Abgabe der Steuererklärung wird abgerechnet. Hast du zu viel vorausgezahlt, bekommst du Geld zurück. Hast du zu wenig gezahlt, musst du nachzahlen."
+      ],
+      "merke": "Vorauszahlungen werden mit der Steuererklärung abgerechnet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Anpassen lassen",
+      "absaetze": [
+        "Ändert sich dein Einkommen deutlich, kannst du beim Finanzamt eine Anpassung beantragen. Das ist sinnvoll, wenn die Einnahmen stark sinken.",
+        "Steigen die Einnahmen, lohnt es sich, Geld zurückzulegen. So erschrickst du nicht bei einer Nachzahlung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt typischerweise Steuervorauszahlungen?",
+      "art": "mc",
+      "optionen": [
+        "Selbstständige und Vermieter",
+        "Nur Kinder",
+        "Nur Rentner ohne weiteres Einkommen",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei ihnen wird keine Lohnsteuer abgezogen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft werden Vorauszahlungen in der Regel fällig?",
+      "art": "mc",
+      "optionen": [
+        "Vierteljährlich",
+        "Täglich",
+        "Alle zehn Jahre",
+        "Nur einmal im Leben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grundlage ist meist der letzte Steuerbescheid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sinkt dein Einkommen stark, kannst du eine Anpassung beantragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Finanzamt kann die Vorauszahlungen senken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vorauszahlungen gibt es, wenn keine Lohnsteuer abgezogen wird.",
+        "Sie richten sich meist nach dem letzten Bescheid.",
+        "Mit der Steuererklärung wird abgerechnet.",
+        "Bei geändertem Einkommen eine Anpassung beantragen."
+      ]
+    }
+  ]
+}
