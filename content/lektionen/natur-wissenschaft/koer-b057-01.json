@@ -1,0 +1,124 @@
+{
+  "id": "koer-b057-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum gehen im Flugzeug die Ohren zu?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ohren",
+    "druckausgleich",
+    "fliegen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Start oder bei der Landung drückt es plötzlich in den Ohren.",
+        "Grund ist der wechselnde Luftdruck."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Druck hinter dem Trommelfell",
+      "absaetze": [
+        "Hinter dem Trommelfell liegt das Mittelohr, ein kleiner luftgefüllter Raum. Über einen dünnen Gang, die Ohrtrompete, ist es mit dem Rachen verbunden.",
+        "Ändert sich der Luftdruck außen schnell, entsteht ein Druckunterschied am Trommelfell. Es wölbt sich, und man hört dumpfer."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Druckausgleich",
+      "absaetze": [
+        "Beim Schlucken oder Gähnen öffnet sich die Ohrtrompete kurz. Luft strömt hindurch, der Druck gleicht sich aus. Oft hört man dann ein Knacken.",
+        "Besonders bei der Landung steigt der Außendruck. Dann ist Schlucken, Kauen oder Gähnen hilfreich."
+      ],
+      "merke": "Schlucken und Gähnen gleichen den Druck aus.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es nicht klappt",
+      "absaetze": [
+        "Bei Schnupfen ist die Ohrtrompete oft geschwollen. Der Druckausgleich gelingt dann schwer, und es kann schmerzhaft werden.",
+        "Kleinkinder können beim Trinken oder Nuckeln den Druck ausgleichen. Wer bei einer Erkältung fliegen muss, kann sich vorher in der Apotheke oder Arztpraxis beraten lassen. Anhaltende Schmerzen gehören ärztlich untersucht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Gang verbindet das Mittelohr mit dem Rachen?",
+      "art": "mc",
+      "optionen": [
+        "Die Ohrtrompete",
+        "Die Speiseröhre",
+        "Die Luftröhre",
+        "Der Gehörgang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie öffnet sich beim Schlucken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft beim Druckausgleich?",
+      "art": "mc",
+      "optionen": [
+        "Schlucken, Kauen oder Gähnen",
+        "Luft anhalten",
+        "Ohren zuhalten",
+        "Schlafen mit offenem Mund"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann strömt Luft durch die Ohrtrompete."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist der Druckausgleich oft erschwert?",
+      "art": "mc",
+      "optionen": [
+        "Bei Schnupfen",
+        "Bei Sonnenschein",
+        "Nach dem Essen",
+        "Beim Lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ohrtrompete ist dann geschwollen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleinkinder können beim Trinken den Druck ausgleichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Schlucken hilft auch ihnen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Mittelohr ist über die Ohrtrompete mit dem Rachen verbunden.",
+        "Schneller Druckwechsel wölbt das Trommelfell.",
+        "Schlucken und Gähnen gleichen den Druck aus.",
+        "Bei Schnupfen klappt der Ausgleich schwerer."
+      ]
+    }
+  ]
+}

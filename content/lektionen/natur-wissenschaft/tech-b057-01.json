@@ -1,0 +1,124 @@
+{
+  "id": "tech-b057-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein E-Bike?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pedelecs und E-Bikes",
+      "herausgeber": "Allgemeiner Deutscher Fahrrad-Club (ADFC)",
+      "url": "https://www.adfc.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "e-bike",
+    "pedelec",
+    "mobilitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "E-Bikes machen Berge flacher und Wege kürzer.",
+        "Die meisten davon heißen technisch eigentlich Pedelec."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Motor nur beim Treten",
+      "absaetze": [
+        "Ein Pedelec unterstützt dich mit einem Elektromotor, solange du in die Pedale trittst. Sensoren messen, wie stark und wie schnell du trittst. Danach richtet sich die Unterstützung.",
+        "Ab einer Geschwindigkeit von 25 Kilometern pro Stunde hört die Unterstützung auf. Dann gilt das Pedelec rechtlich als Fahrrad."
+      ],
+      "merke": "Pedelecs unterstützen bis 25 Kilometer pro Stunde.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Akku und Reichweite",
+      "absaetze": [
+        "Der Strom kommt aus einem Lithium-Ionen-Akku. Wie weit man damit kommt, hängt von Unterstützungsstufe, Gelände, Gewicht und Temperatur ab.",
+        "Im Winter sinkt die Reichweite. Lagere den Akku bei Kälte möglichst drinnen und lade ihn nur mit dem passenden Ladegerät."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnelle E-Bikes",
+      "absaetze": [
+        "Es gibt auch schnelle Modelle, die bis 45 Kilometer pro Stunde unterstützen. Sie gelten als Kleinkraftrad. Man braucht dafür ein Versicherungskennzeichen und eine Fahrerlaubnis.",
+        "Ein Helm ist bei Pedelecs nicht vorgeschrieben, aber sehr empfehlenswert. Wegen der höheren Geschwindigkeit sind Bremsen und Fahrtechnik besonders wichtig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann unterstützt der Motor eines Pedelecs?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du in die Pedale trittst",
+        "Immer, auch ohne Treten",
+        "Nur bergab",
+        "Nur nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sensoren messen deine Trittkraft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welcher Geschwindigkeit unterstützt ein Pedelec?",
+      "art": "mc",
+      "optionen": [
+        "25 Kilometer pro Stunde",
+        "10 Kilometer pro Stunde",
+        "60 Kilometer pro Stunde",
+        "100 Kilometer pro Stunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach fährt man mit eigener Kraft weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchen schnelle E-Bikes bis 45 Kilometer pro Stunde?",
+      "art": "mc",
+      "optionen": [
+        "Versicherungskennzeichen und Fahrerlaubnis",
+        "Nichts",
+        "Nur eine Klingel",
+        "Einen Anhänger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gelten als Kleinkraftrad."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Winter sinkt die Reichweite eines E-Bike-Akkus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kälte verringert die nutzbare Energie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pedelecs unterstützen nur beim Treten.",
+        "Die Unterstützung endet bei 25 Kilometern pro Stunde.",
+        "Die Reichweite hängt von vielen Faktoren ab.",
+        "Schnelle E-Bikes brauchen Kennzeichen und Fahrerlaubnis."
+      ]
+    }
+  ]
+}

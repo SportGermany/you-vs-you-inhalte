@@ -1,0 +1,111 @@
+{
+  "id": "lern-b057-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Hilft Koffein beim Lernen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "koffein",
+    "konzentration",
+    "lernen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Kaffee vor dem Lernen gehört für viele dazu.",
+        "Doch macht Koffein auch klüger?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wacher, aber nicht schlauer",
+      "absaetze": [
+        "Koffein blockiert im Gehirn einen Botenstoff namens Adenosin, der müde macht. Dadurch fühlt man sich wacher und kann sich oft besser konzentrieren, besonders wenn man müde ist.",
+        "Das kann beim Lernen helfen. Intelligenz und Verständnis steigert Koffein aber nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zum Gedächtnis zeigen",
+      "absaetze": [
+        "Einige Studien deuten darauf hin, dass Koffein nach dem Lernen die Festigung mancher Erinnerungen leicht unterstützen könnte. Die Ergebnisse sind aber nicht einheitlich.",
+        "Zu viel Koffein macht dagegen nervös und unruhig. Das kann Konzentration und Lernen eher stören."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Den Schlaf nicht vergessen",
+      "absaetze": [
+        "Koffein wirkt mehrere Stunden. Am Nachmittag oder Abend kann es den Schlaf verschlechtern. Gerade Schlaf ist aber für das Lernen besonders wichtig.",
+        "Koffein ersetzt keine Pausen und keinen Schlaf. Wer ständig müde ist, sollte eher auf ausreichend Schlaf achten."
+      ],
+      "merke": "Koffein ersetzt keinen Schlaf.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Koffein im Gehirn?",
+      "art": "mc",
+      "optionen": [
+        "Es blockiert den Müdemacher Adenosin",
+        "Es erzeugt neue Nervenzellen",
+        "Es erhöht den IQ",
+        "Es senkt den Blutzucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch fühlt man sich wacher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann zu viel Koffein auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Nervosität und Unruhe",
+        "Bessere Gedächtnisleistung für immer",
+        "Tiefen Schlaf",
+        "Mehr Ruhe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann das Lernen stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Koffein ersetzt beim Lernen ausreichend Schlaf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Schlaf ist für das Lernen besonders wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Koffein macht wacher, aber nicht klüger.",
+        "Es kann die Konzentration bei Müdigkeit verbessern.",
+        "Zu viel Koffein macht nervös.",
+        "Spätes Koffein kann den wichtigen Schlaf stören."
+      ]
+    }
+  ]
+}

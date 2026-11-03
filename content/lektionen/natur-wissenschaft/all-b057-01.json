@@ -1,0 +1,124 @@
+{
+  "id": "all-b057-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was sind Sternbilder?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sternbilder",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sternbilder",
+    "nachthimmel",
+    "astronomie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Großer Wagen, Orion, Kassiopeia: Am Nachthimmel erkennen wir Figuren.",
+        "Doch die Sterne eines Sternbilds haben oft gar nichts miteinander zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Muster im Kopf",
+      "absaetze": [
+        "Sternbilder sind Gruppen von Sternen, die von der Erde aus ein Muster zu bilden scheinen. Menschen haben in ihnen seit Jahrtausenden Figuren, Tiere oder Götter gesehen.",
+        "Verschiedene Kulturen kannten unterschiedliche Sternbilder. Viele heutige Namen stammen aus der griechischen und römischen Antike."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur scheinbar nah beieinander",
+      "absaetze": [
+        "Die Sterne eines Sternbilds liegen oft unterschiedlich weit entfernt. Von der Erde aus sehen sie nur so aus, als ständen sie nebeneinander.",
+        "Von einem anderen Ort im All aus betrachtet, würden die bekannten Figuren ganz anders aussehen."
+      ],
+      "merke": "Die Sterne eines Sternbilds sind oft unterschiedlich weit entfernt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Offizielle Einteilung",
+      "absaetze": [
+        "Die Internationale Astronomische Union hat den Himmel in 88 offizielle Sternbilder eingeteilt. Jedes umfasst einen festgelegten Bereich des Himmels.",
+        "Der Große Wagen ist streng genommen kein Sternbild, sondern Teil des Großen Bären. Mit ihm lässt sich der Polarstern und damit die Himmelsrichtung Norden finden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Sternbilder?",
+      "art": "mc",
+      "optionen": [
+        "Sternengruppen, die von der Erde aus ein Muster bilden",
+        "Planeten in einer Reihe",
+        "Galaxien",
+        "Kometenbahnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Menschen sahen darin Figuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele offizielle Sternbilder gibt es?",
+      "art": "mc",
+      "optionen": [
+        "88",
+        "12",
+        "365",
+        "1000"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Internationale Astronomische Union hat sie festgelegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei hilft der Große Wagen?",
+      "art": "mc",
+      "optionen": [
+        "Den Polarstern und Norden zu finden",
+        "Die Uhrzeit genau abzulesen",
+        "Planeten zu erkennen",
+        "Das Wetter vorherzusagen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist Teil des Großen Bären."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Sterne eines Sternbilds liegen immer gleich weit entfernt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind oft unterschiedlich weit entfernt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sternbilder sind von der Erde aus gesehene Muster.",
+        "Ihre Sterne sind oft unterschiedlich weit entfernt.",
+        "Es gibt 88 offizielle Sternbilder.",
+        "Der Große Wagen hilft, Norden zu finden."
+      ]
+    }
+  ]
+}

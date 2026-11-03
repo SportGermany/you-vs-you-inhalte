@@ -1,0 +1,131 @@
+{
+  "id": "ern-b057-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Konserven ungesund?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "konserven",
+    "vorrat",
+    "haltbarkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dosengemüse gilt vielen als zweite Wahl.",
+        "Dabei haben Konserven ihre Vorteile."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haltbar durch Erhitzen",
+      "absaetze": [
+        "Konserven werden luftdicht verschlossen und stark erhitzt. Dabei werden Keime abgetötet. So halten sie ohne Kühlung oft jahrelang.",
+        "Durch das Erhitzen gehen manche hitzeempfindlichen Vitamine verloren, etwa Vitamin C. Mineralstoffe und Ballaststoffe bleiben weitgehend erhalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Praktisch und nährstoffreich",
+      "absaetze": [
+        "Hülsenfrüchte aus der Dose sind eine schnelle Alternative zu getrockneten, die lange eingeweicht und gekocht werden müssen. Auch Tomaten aus der Dose sind gut verwendbar.",
+        "Spüle Hülsenfrüchte aus der Dose vor der Verwendung ab. Das reduziert Salz und Stoffe, die Blähungen fördern können."
+      ],
+      "merke": "Hülsenfrüchte aus der Dose vor dem Essen abspülen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf achten",
+      "absaetze": [
+        "Manche Konserven enthalten viel Salz oder Zucker, etwa Obst in Sirup. Ein Blick auf die Zutatenliste hilft.",
+        "Stark gewölbte, beschädigte oder rostige Dosen solltest du nicht verwenden. Angebrochene Konserven füllst du am besten in ein anderes Gefäß um und stellst sie in den Kühlschrank."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden Konserven haltbar gemacht?",
+      "art": "mc",
+      "optionen": [
+        "Durch luftdichten Verschluss und Erhitzen",
+        "Durch Einfrieren",
+        "Durch Trocknen in der Sonne",
+        "Durch Bestrahlen mit Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei werden Keime abgetötet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was geht beim Erhitzen teilweise verloren?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Ballaststoffe",
+        "Mineralstoffe vollständig",
+        "Eiweiß vollständig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ballaststoffe und Mineralstoffe bleiben weitgehend erhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du mit stark gewölbten Dosen tun?",
+      "art": "mc",
+      "optionen": [
+        "Nicht verwenden",
+        "Sofort essen",
+        "Länger kochen",
+        "Einfrieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Wölbung kann auf Keime hinweisen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hülsenfrüchte aus der Dose sind eine gute schnelle Alternative.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Am besten vorher abspülen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Konserven sind durch Erhitzen lange haltbar.",
+        "Ballaststoffe und Mineralstoffe bleiben weitgehend erhalten.",
+        "Hülsenfrüchte aus der Dose vor dem Essen abspülen.",
+        "Gewölbte oder beschädigte Dosen nicht verwenden."
+      ]
+    }
+  ]
+}

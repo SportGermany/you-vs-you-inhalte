@@ -1,0 +1,126 @@
+{
+  "id": "supp-b057-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Niacin-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "niacin",
+    "vitamin-b3",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Niacin, auch Vitamin B3 genannt, steckt in vielen Präparaten.",
+        "In hohen Mengen kann es unangenehme Folgen haben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiges Vitamin",
+      "absaetze": [
+        "Niacin ist am Energiestoffwechsel jeder Zelle beteiligt. Es steckt in Fleisch, Fisch, Milchprodukten, Vollkorn und Hülsenfrüchten.",
+        "Der Körper kann Niacin außerdem aus der Aminosäure Tryptophan bilden. Ein Mangel ist in Deutschland bei ausgewogener Ernährung selten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hohe Mengen haben Nebenwirkungen",
+      "absaetze": [
+        "Höhere Mengen Nikotinsäure, einer Form von Niacin, können zu einer plötzlichen Rötung der Haut mit Hitzegefühl und Juckreiz führen. Fachleute sprechen von Flush.",
+        "Sehr hohe Mengen über längere Zeit können die Leber belasten. Das Bundesinstitut für Risikobewertung empfiehlt deshalb Höchstmengen für Nahrungsergänzungsmittel."
+      ],
+      "merke": "Höhere Mengen können Hautrötungen auslösen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Herzschutz",
+      "absaetze": [
+        "Früher hoffte man, hoch dosiertes Niacin könne über die Blutfette Herzinfarkte verhindern. Große Studien fanden aber keinen Nutzen, dafür mehr Nebenwirkungen.",
+        "Als Medikament gegen Fettstoffwechselstörungen spielt es heute kaum noch eine Rolle."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Hoch dosierte Präparate nur nach ärztlicher Rücksprache verwenden.",
+        "Bei Lebererkrankungen auf Niacin-Präparate verzichten oder vorher beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus kann der Körper Niacin bilden?",
+      "art": "mc",
+      "optionen": [
+        "Aus Tryptophan",
+        "Aus Vitamin C",
+        "Aus Zucker",
+        "Aus Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Mangel ist deshalb selten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Flush?",
+      "art": "mc",
+      "optionen": [
+        "Eine plötzliche Hautrötung mit Hitzegefühl",
+        "Ein Muskelkrampf",
+        "Ein Schnupfen",
+        "Ein Hautausschlag durch Kälte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kann bei höheren Mengen Nikotinsäure auftreten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Große Studien zeigten, dass hoch dosiertes Niacin Herzinfarkte verhindert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Nutzen fand sich nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Niacin ist am Energiestoffwechsel beteiligt.",
+        "Ein Mangel ist bei ausgewogener Ernährung selten.",
+        "Höhere Mengen können Hautrötungen und Leberbelastung auslösen.",
+        "Einen Herzschutz durch Niacin gibt es nicht."
+      ]
+    }
+  ]
+}

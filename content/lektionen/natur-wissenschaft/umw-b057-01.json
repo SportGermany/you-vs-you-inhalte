@@ -1,0 +1,130 @@
+{
+  "id": "umw-b057-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was ist grüner Wasserstoff?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasserstoff",
+      "herausgeber": "Bundesministerium für Wirtschaft und Klimaschutz",
+      "url": "https://www.bmwk.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Batterien und Akkus",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wasserstoff",
+    "energiewende",
+    "elektrolyse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wasserstoff gilt als Hoffnungsträger für den Klimaschutz.",
+        "Doch Wasserstoff ist nicht gleich Wasserstoff."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Energieträger",
+      "absaetze": [
+        "Wasserstoff kommt auf der Erde fast nur gebunden vor, etwa in Wasser. Um ihn zu gewinnen, braucht man Energie. Er ist also keine Energiequelle, sondern ein Energieträger.",
+        "Bei der Verbrennung oder in einer Brennstoffzelle entsteht aus Wasserstoff vor allem Wasser."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Farben des Wasserstoffs",
+      "absaetze": [
+        "Grüner Wasserstoff wird mit Strom aus erneuerbaren Energien hergestellt. Dabei wird Wasser in einem Verfahren namens Elektrolyse in Wasserstoff und Sauerstoff gespalten.",
+        "Grauer Wasserstoff wird dagegen aus Erdgas gewonnen. Dabei entsteht viel Kohlendioxid. Der größte Teil des heute genutzten Wasserstoffs ist grau."
+      ],
+      "merke": "Grüner Wasserstoff entsteht mit Ökostrom per Elektrolyse.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür er gebraucht wird",
+      "absaetze": [
+        "Grüner Wasserstoff ist teuer und bei der Herstellung gehen Energieverluste auf. Fachleute sehen ihn deshalb vor allem dort, wo Strom direkt schwer einsetzbar ist.",
+        "Dazu gehören etwa die Stahlherstellung, die Chemieindustrie, Schiffe und Flugzeuge. Für Autos und Heizungen ist der direkte Einsatz von Strom meist effizienter."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird grüner Wasserstoff hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Mit Ökostrom per Elektrolyse",
+        "Aus Erdgas",
+        "Aus Kohle",
+        "Aus Erdöl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser wird in Wasserstoff und Sauerstoff gespalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird grauer Wasserstoff gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus Erdgas",
+        "Aus Sonnenlicht direkt",
+        "Aus Windkraft",
+        "Aus Salzwasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei entsteht viel Kohlendioxid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sehen Fachleute grünen Wasserstoff vor allem?",
+      "art": "mc",
+      "optionen": [
+        "In Stahl- und Chemieindustrie",
+        "In jedem Auto",
+        "In Taschenlampen",
+        "In Kühlschränken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort ist Strom direkt schwer einsetzbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wasserstoff ist eine Energiequelle wie die Sonne.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist ein Energieträger, der erst hergestellt werden muss."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wasserstoff ist ein Energieträger, keine Energiequelle.",
+        "Grüner Wasserstoff entsteht mit Ökostrom.",
+        "Der meiste Wasserstoff heute ist grau, aus Erdgas.",
+        "Er ist vor allem für Industrie und Schwerverkehr gedacht."
+      ]
+    }
+  ]
+}

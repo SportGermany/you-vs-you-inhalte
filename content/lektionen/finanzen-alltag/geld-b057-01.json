@@ -1,0 +1,114 @@
+{
+  "id": "geld-b057-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie nachhaltig sind grüne Geldanlagen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nachhaltige Geldanlage",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nachhaltige-geldanlage",
+    "esg",
+    "greenwashing"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele möchten ihr Geld so anlegen, dass es Umwelt und Gesellschaft nicht schadet.",
+        "Doch nicht überall, wo grün draufsteht, ist auch grün drin."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nachhaltige Anlagen versprechen",
+      "absaetze": [
+        "Nachhaltige Fonds berücksichtigen Umwelt, Soziales und gute Unternehmensführung. Man spricht oft von ESG-Kriterien, nach den englischen Anfangsbuchstaben.",
+        "Manche Fonds schließen bestimmte Branchen aus, etwa Kohle oder Waffen. Andere wählen die nachhaltigsten Unternehmen einer Branche aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Problem Greenwashing",
+      "absaetze": [
+        "Einheitliche Regeln dafür, was nachhaltig ist, gibt es nur teilweise. Deshalb können auch Fonds als grün gelten, die in umstrittene Unternehmen investieren.",
+        "Wird ein Produkt nachhaltiger dargestellt, als es ist, nennt man das Greenwashing. Die Finanzaufsicht achtet zunehmend darauf."
+      ],
+      "merke": "Nicht jede grüne Anlage ist wirklich nachhaltig."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genau hinschauen",
+      "absaetze": [
+        "Schau dir an, nach welchen Kriterien ein Fonds auswählt und welche Unternehmen er tatsächlich enthält. Verbraucherzentralen und Finanztest bieten Vergleiche an.",
+        "Auch nachhaltige Anlagen unterliegen Kursschwankungen. Achte deshalb wie bei jeder Anlage auf Kosten, Streuung und Risiko."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür stehen ESG-Kriterien?",
+      "art": "mc",
+      "optionen": [
+        "Umwelt, Soziales und Unternehmensführung",
+        "Euro, Steuern und Geld",
+        "Energie, Strom und Gas",
+        "Einkommen, Sparen und Gewinn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie dienen der Bewertung nachhaltiger Anlagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Greenwashing?",
+      "art": "mc",
+      "optionen": [
+        "Ein Produkt wird nachhaltiger dargestellt, als es ist",
+        "Das Waschen von Geldscheinen",
+        "Eine Pflanzenpflege",
+        "Ein Steuerrabatt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Finanzaufsicht achtet zunehmend darauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nachhaltige Geldanlagen sind frei von Kursschwankungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch sie schwanken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachhaltige Anlagen berücksichtigen ESG-Kriterien.",
+        "Einheitliche Regeln gibt es nur teilweise.",
+        "Greenwashing ist ein Risiko.",
+        "Kriterien, Inhalte und Kosten genau prüfen."
+      ]
+    }
+  ]
+}

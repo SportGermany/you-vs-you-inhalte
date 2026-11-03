@@ -1,0 +1,127 @@
+{
+  "id": "vers-b057-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Welche Versicherung braucht ein E-Scooter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Versicherung für E-Scooter",
+      "herausgeber": "Gesamtverband der Versicherer (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "e-scooter",
+    "kfz-haftpflicht",
+    "versicherungskennzeichen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Elektrische Tretroller sind praktisch für kurze Wege.",
+        "Doch wer einen eigenen E-Scooter fährt, braucht eine Versicherung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflicht zur Haftpflicht",
+      "absaetze": [
+        "E-Scooter sind Kraftfahrzeuge. Deshalb brauchen sie eine eigene Kfz-Haftpflichtversicherung. Die private Haftpflichtversicherung zahlt bei Unfällen mit dem E-Scooter in der Regel nicht.",
+        "Als Nachweis bekommst du ein Versicherungskennzeichen, einen kleinen Aufkleber für das Fahrzeug. Es gilt jeweils für ein Versicherungsjahr."
+      ],
+      "merke": "E-Scooter brauchen eine eigene Kfz-Haftpflicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohne Versicherung strafbar",
+      "absaetze": [
+        "Wer ohne gültige Versicherung fährt, begeht eine Straftat. Verursachst du dann einen Unfall, musst du für alle Schäden selbst aufkommen.",
+        "Auch nicht zugelassene Fahrzeuge ohne Betriebserlaubnis dürfen nicht auf öffentlichen Straßen fahren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bei Leih-Scootern",
+      "absaetze": [
+        "Bei Leih-Scootern ist die Haftpflicht meist über den Anbieter abgedeckt. Lies trotzdem die Bedingungen, etwa zu Schäden am Scooter selbst.",
+        "Unabhängig von der Versicherung gilt: E-Scooter dürfen nur von einer Person genutzt werden. Nach Alkoholkonsum gelten dieselben Grenzwerte wie beim Autofahren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung braucht ein eigener E-Scooter?",
+      "art": "mc",
+      "optionen": [
+        "Eine Kfz-Haftpflichtversicherung",
+        "Keine",
+        "Nur eine Hausratversicherung",
+        "Eine Reiseversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "E-Scooter sind Kraftfahrzeuge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt, dass ein E-Scooter versichert ist?",
+      "art": "mc",
+      "optionen": [
+        "Ein Versicherungskennzeichen",
+        "Eine Klingel",
+        "Eine Seriennummer",
+        "Ein Rücklicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gilt für ein Versicherungsjahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Personen dürfen gleichzeitig auf einem E-Scooter fahren?",
+      "art": "mc",
+      "optionen": [
+        "Eine",
+        "Zwei",
+        "Drei",
+        "So viele wie draufpassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mitfahrer sind nicht erlaubt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die private Haftpflicht zahlt in der Regel bei Unfällen mit dem eigenen E-Scooter.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es braucht eine eigene Kfz-Haftpflicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "E-Scooter brauchen eine eigene Kfz-Haftpflicht.",
+        "Das Versicherungskennzeichen ist der Nachweis.",
+        "Fahren ohne Versicherung ist strafbar.",
+        "Bei Leih-Scootern übernimmt meist der Anbieter die Haftpflicht."
+      ]
+    }
+  ]
+}

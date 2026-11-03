@@ -1,0 +1,139 @@
+{
+  "id": "haus-b057-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entsorgst du Batterien und Akkus richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Batterien und Akkus",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "batterien",
+    "akkus",
+    "recycling"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Leere Batterien sammeln sich schnell in einer Schublade.",
+        "In den Hausmüll gehören sie aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht in den Hausmüll",
+      "absaetze": [
+        "Batterien und Akkus enthalten Metalle, die wiederverwertet werden können. Manche enthalten auch Schadstoffe. Deshalb dürfen sie nicht in den Hausmüll.",
+        "Du kannst sie kostenlos in Geschäften zurückgeben, die Batterien verkaufen. Dort stehen meist Sammelboxen. Auch Wertstoffhöfe nehmen sie an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Brandgefahr bei Lithium-Akkus",
+      "absaetze": [
+        "Lithium-Akkus aus Handys, E-Zigaretten oder Werkzeugen können bei Beschädigung brennen. Im Müllwagen oder in Sortieranlagen lösen falsch entsorgte Akkus immer wieder Brände aus.",
+        "Klebe die Pole von Lithium-Batterien vor der Rückgabe mit Klebeband ab. So verhinderst du Kurzschlüsse."
+      ],
+      "merke": "Pole von Lithium-Batterien vor der Rückgabe abkleben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fest verbaute Akkus",
+      "absaetze": [
+        "Ist der Akku fest in einem Gerät verbaut, gibst du das ganze Gerät als Elektroschrott zurück. Viele Händler nehmen Altgeräte zurück.",
+        "Beschädigte, aufgeblähte oder heiße Akkus solltest du vorsichtig behandeln und möglichst bald zum Wertstoffhof bringen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Batterien richtig entsorgen",
+      "schritte": [
+        {
+          "titel": "Sammeln",
+          "text": "Bewahre leere Batterien in einer Box auf."
+        },
+        {
+          "titel": "Abkleben",
+          "text": "Klebe die Pole von Lithium-Batterien ab."
+        },
+        {
+          "titel": "Zurückgeben",
+          "text": "Gib sie im Handel oder am Wertstoffhof ab."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kannst du Batterien kostenlos zurückgeben?",
+      "art": "mc",
+      "optionen": [
+        "In Geschäften, die Batterien verkaufen",
+        "Nur beim Finanzamt",
+        "Im Altpapier",
+        "In der Biotonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort stehen meist Sammelboxen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind falsch entsorgte Lithium-Akkus gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Sie können Brände auslösen",
+        "Sie verdampfen",
+        "Sie werden zu Glas",
+        "Sie lösen sich in Wasser auf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders bei Beschädigung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du mit einem Gerät mit fest verbautem Akku?",
+      "art": "mc",
+      "optionen": [
+        "Es als Elektroschrott zurückgeben",
+        "Den Akku herausreißen",
+        "Es in den Hausmüll werfen",
+        "Es verbrennen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Händler nehmen Altgeräte zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Batterien dürfen in den Hausmüll.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gehören in die Sammlung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Batterien gehören nicht in den Hausmüll.",
+        "Der Handel nimmt sie kostenlos zurück.",
+        "Lithium-Akkus können Brände auslösen.",
+        "Pole abkleben und Geräte mit Akku als Elektroschrott abgeben."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b057-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist Nachtschreck bei Kindern?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Schlaf bei Kindern",
+      "herausgeber": "Kindergesundheit-info.de",
+      "url": "https://www.kindergesundheit-info.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nachtschreck",
+    "kinder",
+    "parasomnie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Kind schreit plötzlich nachts, sitzt mit weit aufgerissenen Augen im Bett und lässt sich nicht beruhigen.",
+        "Für Eltern ist das erschreckend, für das Kind meist nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Albtraum",
+      "absaetze": [
+        "Nachtschreck, auch Pavor nocturnus genannt, tritt meist in den ersten Stunden nach dem Einschlafen auf. Er entsteht aus dem Tiefschlaf, nicht aus dem Traumschlaf.",
+        "Das Kind wirkt wach, ist es aber nicht. Am nächsten Morgen erinnert es sich meist an nichts. Bei einem Albtraum dagegen wacht das Kind auf und kann sich erinnern."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufig und meist harmlos",
+      "absaetze": [
+        "Nachtschreck kommt vor allem im Kindergarten- und Grundschulalter vor. Er verschwindet meist von allein, wenn das Kind älter wird.",
+        "Auslöser können Übermüdung, Stress, Fieber oder ein unregelmäßiger Schlafrhythmus sein."
+      ],
+      "merke": "Nachtschreck verschwindet meist mit dem Alter.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Eltern reagieren können",
+      "absaetze": [
+        "Wecke das Kind nicht und versuche nicht, es festzuhalten. Bleib ruhig in der Nähe und achte darauf, dass es sich nicht verletzt. Die Episode endet meist nach wenigen Minuten.",
+        "Feste Schlafenszeiten und genug Schlaf beugen vor. Treten die Episoden sehr häufig auf oder ist das Kind tagsüber auffällig müde, sprich mit der Kinderarztpraxis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus welcher Schlafphase entsteht Nachtschreck?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Tiefschlaf",
+        "Aus dem Traumschlaf",
+        "Aus dem Wachzustand",
+        "Aus dem Mittagsschlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er tritt meist in den ersten Stunden der Nacht auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Erinnert sich ein Kind am Morgen an den Nachtschreck?",
+      "art": "mc",
+      "optionen": [
+        "Meist nicht",
+        "Immer genau",
+        "Nur an Farben",
+        "Nur an Geräusche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Albträumen ist das anders."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sollten Eltern reagieren?",
+      "art": "mc",
+      "optionen": [
+        "Ruhig bleiben und das Kind vor Verletzungen schützen",
+        "Das Kind kräftig wecken",
+        "Das Kind festhalten und schütteln",
+        "Licht anmachen und laut sprechen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Episode endet meist nach wenigen Minuten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Übermüdung kann Nachtschreck begünstigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Genug Schlaf beugt vor."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachtschreck entsteht aus dem Tiefschlaf.",
+        "Das Kind erinnert sich meist nicht daran.",
+        "Er ist häufig und verschwindet meist mit dem Alter.",
+        "Nicht wecken, sondern ruhig bleiben und schützen."
+      ]
+    }
+  ]
+}
