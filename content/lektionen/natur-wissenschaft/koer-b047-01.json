@@ -1,0 +1,124 @@
+{
+  "id": "koer-b047-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was leistet die Leber?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "leber",
+    "stoffwechsel",
+    "entgiftung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Leber ist das größte innere Organ und wiegt bei Erwachsenen etwa eineinhalb Kilogramm.",
+        "Sie arbeitet still und erledigt hunderte Aufgaben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Stoffwechselzentrale",
+      "absaetze": [
+        "Alles, was der Darm aufnimmt, gelangt mit dem Blut zuerst zur Leber. Sie verarbeitet Nährstoffe, speichert Zucker als Glykogen und bildet wichtige Eiweiße.",
+        "Dazu gehören zum Beispiel Gerinnungsfaktoren, die bei Verletzungen die Blutung stoppen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Entgiften und Galle bilden",
+      "absaetze": [
+        "Die Leber baut Alkohol, Medikamente und viele andere Stoffe ab. Die Reste werden über Galle oder Nieren ausgeschieden.",
+        "Sie bildet außerdem die Gallenflüssigkeit. Galle hilft im Darm bei der Verdauung von Fetten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Organ, das sich erneuert",
+      "absaetze": [
+        "Die Leber kann sich erstaunlich gut regenerieren. Nach einer Teilentfernung wächst gesundes Lebergewebe wieder nach.",
+        "Dauerhafte Schäden durch viel Alkohol, Übergewicht oder Virusinfektionen können aber zu Vernarbung führen. Weil die Leber nicht schmerzt, bleiben Erkrankungen oft lange unbemerkt."
+      ],
+      "merke": "Leberschäden verursachen oft lange keine Beschwerden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was speichert die Leber?",
+      "art": "mc",
+      "optionen": [
+        "Zucker als Glykogen",
+        "Sauerstoff",
+        "Knochenmasse",
+        "Haare"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie hält damit den Blutzucker stabil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei hilft die Galle?",
+      "art": "mc",
+      "optionen": [
+        "Beim Sehen",
+        "Bei der Verdauung von Fetten",
+        "Beim Atmen",
+        "Beim Hören"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Leber bildet die Gallenflüssigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bleiben Lebererkrankungen oft lange unbemerkt?",
+      "art": "mc",
+      "optionen": [
+        "Die Leber schmerzt nicht",
+        "Die Leber ist sehr klein",
+        "Die Leber arbeitet nur nachts",
+        "Die Leber liegt im Kopf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beschwerden treten oft erst spät auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Leber kann nach einer Teilentfernung nachwachsen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gesundes Gewebe regeneriert sich gut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Leber ist das größte innere Organ.",
+        "Sie verarbeitet Nährstoffe und bildet wichtige Eiweiße.",
+        "Sie baut Alkohol und Medikamente ab und bildet Galle.",
+        "Sie regeneriert sich gut, Schäden bleiben aber oft unbemerkt."
+      ]
+    }
+  ]
+}

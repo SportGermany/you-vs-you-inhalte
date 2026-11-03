@@ -1,0 +1,131 @@
+{
+  "id": "ern-b047-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was sind Antinährstoffe?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "antinaehrstoffe",
+    "phytinsaeure",
+    "huelsenfruechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Internet heißt es manchmal, Getreide und Hülsenfrüchte enthielten gefährliche Antinährstoffe.",
+        "Was steckt hinter dem Begriff?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was gemeint ist",
+      "absaetze": [
+        "Antinährstoffe sind natürliche Pflanzenstoffe, die die Aufnahme bestimmter Nährstoffe hemmen können. Beispiele sind Phytinsäure, Oxalsäure und Lektine.",
+        "Phytinsäure in Vollkorn und Hülsenfrüchten kann zum Beispiel Eisen und Zink binden. Oxalsäure in Spinat und Rhabarber bindet Kalzium."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zubereitung macht den Unterschied",
+      "absaetze": [
+        "Einweichen, Keimen, Fermentieren und Kochen verringern viele dieser Stoffe deutlich. Sauerteig baut zum Beispiel Phytinsäure im Brot ab.",
+        "Rohe Bohnen enthalten Lektine wie Phasin, das giftig ist. Durch ausreichendes Kochen wird es zerstört. Deshalb Bohnen nie roh oder nur kurz erhitzt essen."
+      ],
+      "merke": "Bohnen immer ausreichend kochen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Gefahr im Alltag",
+      "absaetze": [
+        "Für Menschen mit abwechslungsreicher Ernährung sind Antinährstoffe in üblichen Mengen kein Problem. Vollkorn und Hülsenfrüchte haben insgesamt viele Vorteile für die Gesundheit.",
+        "Einige dieser Stoffe stehen sogar im Verdacht, positive Wirkungen zu haben. Die Studienlage deutet darauf hin, ist aber nicht eindeutig."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was können Antinährstoffe tun?",
+      "art": "mc",
+      "optionen": [
+        "Die Aufnahme bestimmter Nährstoffe hemmen",
+        "Vitamine herstellen",
+        "Den Körper entgiften",
+        "Muskeln aufbauen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Phytinsäure bindet zum Beispiel Eisen und Zink."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verringert Phytinsäure im Brot?",
+      "art": "mc",
+      "optionen": [
+        "Einfrieren",
+        "Sauerteig",
+        "Toasten",
+        "Zucker"
+      ],
+      "richtig": 1,
+      "erklaerung": "Auch Einweichen und Keimen helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff in rohen Bohnen ist giftig?",
+      "art": "mc",
+      "optionen": [
+        "Koffein",
+        "Fruchtzucker",
+        "Phasin",
+        "Stärke"
+      ],
+      "richtig": 2,
+      "erklaerung": "Er wird durch ausreichendes Kochen zerstört."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vollkorn sollte man wegen der Phytinsäure meiden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Vorteile überwiegen bei abwechslungsreicher Ernährung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Antinährstoffe hemmen die Aufnahme einzelner Nährstoffe.",
+        "Einweichen, Keimen und Kochen verringern sie.",
+        "Rohe Bohnen sind giftig, gekocht unbedenklich.",
+        "Bei abwechslungsreicher Kost sind sie kein Problem."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "lern-b047-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Warum braucht Lernen Rückmeldung?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "feedback",
+    "lernen",
+    "fehler"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer ohne Rückmeldung übt, weiß oft nicht, ob er gerade etwas richtig oder falsch einprägt.",
+        "Feedback gehört deshalb zu den wirksamsten Hilfen beim Lernen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fehler früh erkennen",
+      "absaetze": [
+        "Rückmeldung zeigt dir, wo du stehst und was du noch nicht kannst. So korrigierst du Fehler, bevor sie sich festsetzen.",
+        "Große Auswertungen vieler Studien zählen Feedback zu den Faktoren mit besonders starkem Einfluss auf den Lernerfolg."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht jedes Feedback hilft",
+      "absaetze": [
+        "Eine bekannte Auswertung fand allerdings, dass etwa ein Drittel der untersuchten Rückmeldungen die Leistung sogar verschlechterte.",
+        "Hilfreich ist Feedback vor allem, wenn es sich auf die Aufgabe bezieht und zeigt, wie es besser geht. Lob oder Kritik an der Person bringt dagegen wenig."
+      ],
+      "merke": "Gutes Feedback zeigt, wie es besser geht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feedback selbst organisieren",
+      "absaetze": [
+        "Du kannst dir Rückmeldung oft selbst verschaffen. Prüfe dich mit Übungsaufgaben und vergleiche deine Antworten mit Lösungen.",
+        "Bitte andere um konkrete Hinweise, etwa: Was ist der wichtigste Punkt, den ich verbessern kann?"
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Rückmeldung beim Lernen wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Sie zeigt Fehler, bevor sie sich festsetzen",
+        "Sie ersetzt das Üben",
+        "Sie macht Lernen überflüssig",
+        "Sie verlängert den Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "So weißt du, wo du stehst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Art von Feedback hilft am meisten?",
+      "art": "mc",
+      "optionen": [
+        "Lob für die Person",
+        "Kritik an der Person",
+        "Hinweise zur Aufgabe und wie es besser geht",
+        "Gar kein Feedback"
+      ],
+      "richtig": 2,
+      "erklaerung": "Feedback zur Person bringt wenig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jedes Feedback verbessert die Leistung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Teil kann die Leistung sogar verschlechtern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Feedback zeigt, wo du stehst.",
+        "Es gehört zu den wirksamsten Lernhilfen.",
+        "Hilfreich ist es, wenn es auf die Aufgabe zielt.",
+        "Übungsaufgaben liefern eigenes Feedback."
+      ]
+    }
+  ]
+}

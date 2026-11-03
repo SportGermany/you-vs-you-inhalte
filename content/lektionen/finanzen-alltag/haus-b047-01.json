@@ -1,0 +1,126 @@
+{
+  "id": "haus-b047-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du die Waschmaschine richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waschmaschine",
+    "hygiene",
+    "geruch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Wäsche riecht muffig, obwohl sie frisch gewaschen ist.",
+        "Oft liegt das an der Waschmaschine selbst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Maschinen müffeln",
+      "absaetze": [
+        "Wer meist bei niedrigen Temperaturen wäscht, gibt Bakterien und Waschmittelresten eine Chance. In feuchten Ecken bildet sich ein schmieriger Belag, der unangenehm riechen kann.",
+        "Besonders betroffen sind die Gummidichtung an der Tür, das Waschmittelfach und das Flusensieb."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig heiß waschen",
+      "absaetze": [
+        "Wasche etwa einmal im Monat mit mindestens 60 Grad und einem bleichmittelhaltigen Vollwaschmittel. Pulver enthält meist Bleiche, viele Flüssigwaschmittel nicht.",
+        "Spezielle Maschinenreiniger sind meist nicht nötig. Ein heißer Waschgang mit Vollwaschmittel reicht in der Regel aus."
+      ],
+      "merke": "Etwa einmal im Monat heiß mit Vollwaschmittel waschen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Pflege mit großer Wirkung",
+      "absaetze": [
+        "Lass Tür und Waschmittelfach nach dem Waschen offen, damit alles trocknen kann. Wische die Gummidichtung gelegentlich aus.",
+        "Reinige das Waschmittelfach und das Flusensieb regelmäßig. Beim Flusensieb läuft etwas Wasser aus, lege deshalb ein Tuch bereit."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Waschmaschine pflegen",
+      "schritte": [
+        {
+          "titel": "Heiß waschen",
+          "text": "Einmal im Monat mit 60 Grad und Vollwaschmittel waschen."
+        },
+        {
+          "titel": "Lüften",
+          "text": "Tür und Fach nach dem Waschen offen lassen."
+        },
+        {
+          "titel": "Reinigen",
+          "text": "Dichtung, Fach und Flusensieb regelmäßig säubern."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fördert muffigen Geruch in der Waschmaschine?",
+      "art": "mc",
+      "optionen": [
+        "Häufiges Waschen bei niedrigen Temperaturen",
+        "Zu viel Sonnenlicht",
+        "Zu wenig Wäsche",
+        "Hartes Wasser allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bakterien und Waschmittelreste bilden einen Belag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Waschmittel enthält meist Bleiche?",
+      "art": "mc",
+      "optionen": [
+        "Feinwaschmittel",
+        "Vollwaschmittel als Pulver",
+        "Wollwaschmittel",
+        "Weichspüler"
+      ],
+      "richtig": 1,
+      "erklaerung": "Bleiche hilft gegen Keime und Belag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach dem Waschen sollten Tür und Fach offen bleiben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So kann alles trocknen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Niedrige Temperaturen fördern Belag und Geruch.",
+        "Einmal im Monat heiß mit Vollwaschmittel waschen.",
+        "Tür und Fach nach dem Waschen offen lassen.",
+        "Dichtung, Fach und Flusensieb regelmäßig reinigen."
+      ]
+    }
+  ]
+}

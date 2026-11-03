@@ -1,0 +1,124 @@
+{
+  "id": "tech-b047-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert Radar?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Radartechnik",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "radar",
+    "funkwellen",
+    "messung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Flugsicherung, Wetterdienst und Blitzer nutzen dieselbe Grundidee.",
+        "Radar sieht mit Funkwellen, auch bei Nacht und Nebel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Senden und Lauschen",
+      "absaetze": [
+        "Ein Radargerät sendet kurze Pulse von Funkwellen aus. Treffen sie auf ein Objekt, wird ein Teil davon zurückgeworfen und von der Antenne wieder empfangen.",
+        "Funkwellen breiten sich mit Lichtgeschwindigkeit aus. Aus der Zeit zwischen Senden und Empfangen lässt sich die Entfernung des Objekts genau berechnen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geschwindigkeit messen",
+      "absaetze": [
+        "Bewegt sich ein Objekt auf das Radar zu, kommen die Wellen mit leicht veränderter Frequenz zurück. Das nennt man Doppler-Effekt.",
+        "Ein ähnlicher Effekt lässt die Sirene eines vorbeifahrenden Krankenwagens höher und dann tiefer klingen. Radarfallen nutzen ihn, um die Geschwindigkeit von Autos zu messen."
+      ],
+      "merke": "Der Doppler-Effekt verrät die Geschwindigkeit.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Anwendungen",
+      "absaetze": [
+        "Wetterradare erkennen Regen, Schnee und Hagel in Wolken. Flugsicherung und Schiffe verfolgen damit Verkehr. Satelliten vermessen mit Radar sogar die Erdoberfläche durch Wolken hindurch.",
+        "Auch moderne Autos haben Radarsensoren. Sie helfen etwa beim Abstandhalten und beim Notbremsen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit arbeitet ein Radar?",
+      "art": "mc",
+      "optionen": [
+        "Mit Schallwellen",
+        "Mit Funkwellen",
+        "Mit Magneten",
+        "Mit Wärmekameras"
+      ],
+      "richtig": 1,
+      "erklaerung": "Sie werden von Objekten zurückgeworfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie berechnet Radar die Entfernung?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Laufzeit der Wellen",
+        "Aus der Farbe des Objekts",
+        "Aus dem Gewicht",
+        "Aus der Temperatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wellen bewegen sich mit Lichtgeschwindigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Effekt hilft bei der Geschwindigkeitsmessung?",
+      "art": "mc",
+      "optionen": [
+        "Treibhauseffekt",
+        "Placeboeffekt",
+        "Doppler-Effekt",
+        "Dominoeffekt"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Frequenz der Wellen verändert sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Radar funktioniert auch bei Nebel und Dunkelheit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Funkwellen durchdringen Nebel und Wolken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Radar sendet Funkwellen und empfängt ihr Echo.",
+        "Aus der Laufzeit ergibt sich die Entfernung.",
+        "Der Doppler-Effekt verrät die Geschwindigkeit.",
+        "Radar wird im Verkehr, beim Wetter und im Auto genutzt."
+      ]
+    }
+  ]
+}

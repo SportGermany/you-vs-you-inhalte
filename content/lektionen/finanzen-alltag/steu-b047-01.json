@@ -1,0 +1,114 @@
+{
+  "id": "steu-b047-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was bedeutet Steuerprogression?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "progression",
+    "einkommensteuer",
+    "grenzsteuersatz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer mehr verdient, zahlt in Deutschland einen höheren Steuersatz.",
+        "Dahinter steckt die Steuerprogression, die oft missverstanden wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steigende Sätze",
+      "absaetze": [
+        "Bei der Einkommensteuer steigt der Steuersatz mit dem Einkommen an. Das soll dafür sorgen, dass starke Schultern mehr tragen als schwache.",
+        "Unterhalb des Grundfreibetrags fällt gar keine Einkommensteuer an. Darüber beginnt der Steuersatz niedrig und steigt dann schrittweise an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzsteuersatz und Durchschnittssteuersatz",
+      "absaetze": [
+        "Der Grenzsteuersatz gibt an, wie viel Steuer auf jeden zusätzlich verdienten Euro anfällt. Der Durchschnittssteuersatz zeigt, wie viel Prozent deines gesamten Einkommens du an Steuern zahlst.",
+        "Der Durchschnittssteuersatz liegt immer unter dem Grenzsteuersatz. Denn die ersten Euro werden gar nicht oder niedrig besteuert."
+      ],
+      "merke": "Der höhere Satz gilt nur für den zusätzlichen Teil."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalte Progression",
+      "absaetze": [
+        "Steigen Löhne nur so stark wie die Preise, rutscht man trotzdem in höhere Steuersätze. Die Kaufkraft sinkt dann. Das nennt man kalte Progression.",
+        "Um das auszugleichen, passt der Gesetzgeber die Eckwerte des Steuertarifs regelmäßig an."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Durch eine Gehaltserhöhung kann man am Ende weniger Netto haben.",
+      "urteil": "mythos",
+      "erklaerung": "Der höhere Steuersatz gilt nur für den zusätzlichen Teil des Einkommens. Bei der Einkommensteuer bleibt nach einer Gehaltserhöhung deshalb immer mehr netto übrig als vorher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt der Grenzsteuersatz an?",
+      "art": "mc",
+      "optionen": [
+        "Die Steuer auf jeden zusätzlichen Euro",
+        "Die gesamte Steuer im Leben",
+        "Den Steuersatz für Firmen",
+        "Die Höhe der Mehrwertsteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist höher als der Durchschnittssteuersatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist kalte Progression?",
+      "art": "mc",
+      "optionen": [
+        "Eine Steuer auf Heizkosten",
+        "Höhere Steuersätze trotz gleicher Kaufkraft",
+        "Ein Steuerrabatt im Winter",
+        "Eine Strafe für Spätzahler"
+      ],
+      "richtig": 1,
+      "erklaerung": "Löhne steigen nur so stark wie die Preise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wegen der Progression kann eine Gehaltserhöhung das Netto bei der Einkommensteuer senken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der höhere Satz gilt nur für den zusätzlichen Teil."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Einkommensteuersatz steigt mit dem Einkommen.",
+        "Der Grenzsteuersatz gilt für jeden zusätzlichen Euro.",
+        "Der Durchschnittssteuersatz liegt immer darunter.",
+        "Eine Gehaltserhöhung führt nicht zu weniger Netto bei der Einkommensteuer."
+      ]
+    }
+  ]
+}

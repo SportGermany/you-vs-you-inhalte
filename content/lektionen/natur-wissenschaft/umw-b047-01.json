@@ -1,0 +1,124 @@
+{
+  "id": "umw-b047-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie entsteht Hagel?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hagel",
+    "unwetter",
+    "wetter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten im Sommer prasseln plötzlich Eiskörner vom Himmel.",
+        "Hagel entsteht in mächtigen Gewitterwolken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eis in der Gewitterwolke",
+      "absaetze": [
+        "Hagel bildet sich in hohen Gewitterwolken, die bis in große Höhen reichen. Dort oben ist es auch im Sommer weit unter null Grad.",
+        "Wassertröpfchen bleiben in der Wolke oft flüssig, obwohl es so kalt ist. Man nennt sie unterkühlt. Treffen sie auf kleine Eiskörner, gefrieren sie daran fest."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf und ab im Aufwind",
+      "absaetze": [
+        "Starke Aufwinde tragen die Eiskörner immer wieder nach oben. Dabei wachsen sie Schicht um Schicht.",
+        "Werden die Körner zu schwer für den Aufwind, fallen sie zu Boden. Je stärker die Aufwinde sind, desto größer kann der Hagel werden. Schneidet man ein großes Hagelkorn auf, sieht man oft Ringe wie bei einer Zwiebel."
+      ],
+      "merke": "Starke Aufwinde lassen große Hagelkörner wachsen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr und Schutz",
+      "absaetze": [
+        "Große Hagelkörner können Autos, Dächer, Ernten und Solaranlagen schwer beschädigen. Für Menschen im Freien können sie gefährlich werden.",
+        "Der Deutsche Wetterdienst gibt Unwetterwarnungen heraus. Bei Warnung vor Hagel solltest du Schutz in Gebäuden suchen und das Auto möglichst unterstellen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchen Wolken entsteht Hagel?",
+      "art": "mc",
+      "optionen": [
+        "In hohen Gewitterwolken",
+        "In Nebel",
+        "In Schleierwolken",
+        "In Kondensstreifen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort oben ist es auch im Sommer sehr kalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was lässt Hagelkörner wachsen?",
+      "art": "mc",
+      "optionen": [
+        "Sonnenlicht",
+        "Starke Aufwinde, die sie immer wieder nach oben tragen",
+        "Der Mond",
+        "Salz in der Luft"
+      ],
+      "richtig": 1,
+      "erklaerung": "Dabei wachsen sie Schicht um Schicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind unterkühlte Wassertröpfchen?",
+      "art": "mc",
+      "optionen": [
+        "Gefrorene Tropfen",
+        "Warme Dampfwolken",
+        "Flüssige Tropfen unter null Grad",
+        "Tropfen aus Salzwasser"
+      ],
+      "richtig": 2,
+      "erklaerung": "Sie gefrieren an Eiskörnern fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hagel entsteht nur im Winter.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Hagel tritt vor allem bei sommerlichen Gewittern auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hagel entsteht in hohen Gewitterwolken.",
+        "Unterkühlte Tropfen gefrieren an Eiskörnern.",
+        "Starke Aufwinde lassen die Körner wachsen.",
+        "Bei Hagelwarnung Schutz in Gebäuden suchen."
+      ]
+    }
+  ]
+}

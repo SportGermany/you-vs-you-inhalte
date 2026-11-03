@@ -1,0 +1,131 @@
+{
+  "id": "ern-b047-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Rohkost gesünder als gekochtes Gemüse?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rohkost",
+    "kochen",
+    "gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rohes Gemüse gilt vielen als besonders gesund, weil beim Kochen Vitamine verloren gehen.",
+        "Ganz so einfach ist es aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was beim Kochen verloren geht",
+      "absaetze": [
+        "Hitzeempfindliche Vitamine wie Vitamin C und Folat nehmen beim Kochen ab. Wasserlösliche Stoffe gehen außerdem ins Kochwasser über.",
+        "Kurzes Dämpfen oder Dünsten mit wenig Wasser hält die Verluste gering. Wenn du Kochwasser für Soßen nutzt, bleiben gelöste Nährstoffe erhalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was durch Kochen gewinnt",
+      "absaetze": [
+        "Manche Stoffe werden durch Erhitzen besser verfügbar. Das gilt etwa für Carotinoide aus Karotten oder Lycopin aus Tomaten.",
+        "Kochen macht viele Gemüse außerdem besser verdaulich. Hülsenfrüchte wie Bohnen dürfen nur gegart gegessen werden, weil sie roh giftige Stoffe enthalten."
+      ],
+      "merke": "Bohnen und andere Hülsenfrüchte nie roh essen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Mischung machts",
+      "absaetze": [
+        "Fachgesellschaften empfehlen, Gemüse sowohl roh als auch gegart zu essen. So profitierst du von den Vorteilen beider Zubereitungen.",
+        "Reine Rohkost über lange Zeit kann die Versorgung mit einigen Nährstoffen erschweren. Entscheidend ist vor allem, dass überhaupt viel Gemüse auf den Teller kommt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin nimmt beim Kochen besonders ab?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K",
+        "Retinol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist hitzeempfindlich und wasserlöslich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff wird durch Erhitzen besser verfügbar?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Folat",
+        "Carotinoide aus Karotten",
+        "Zucker"
+      ],
+      "richtig": 2,
+      "erklaerung": "Auch Lycopin aus Tomaten gehört dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfehlen Fachgesellschaften?",
+      "art": "mc",
+      "optionen": [
+        "Nur Rohkost",
+        "Nur gekochtes Gemüse",
+        "Gemüse roh und gegart essen",
+        "Möglichst wenig Gemüse"
+      ],
+      "richtig": 2,
+      "erklaerung": "So kombinierst du die Vorteile."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rohe Bohnen können giftig sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie dürfen nur gegart gegessen werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kochen verringert hitzeempfindliche Vitamine.",
+        "Manche Stoffe werden durch Erhitzen besser verfügbar.",
+        "Hülsenfrüchte nur gegart essen.",
+        "Am besten Gemüse roh und gegart kombinieren."
+      ]
+    }
+  ]
+}

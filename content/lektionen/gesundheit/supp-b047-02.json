@@ -1,0 +1,126 @@
+{
+  "id": "supp-b047-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Knoblauchkapseln zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "knoblauch",
+    "blutdruck",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knoblauch gilt seit Jahrhunderten als Hausmittel für Herz und Gefäße.",
+        "Kapseln versprechen die Wirkung ohne den Geruch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Knoblauch steckt",
+      "absaetze": [
+        "Beim Zerkleinern von Knoblauch entsteht Allicin. Dieser Stoff sorgt für den typischen Geruch und wirkt im Labor gegen manche Bakterien.",
+        "Allicin ist allerdings recht instabil. Wie viel davon in Kapseln ankommt, hängt stark von der Herstellung ab."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Auswertungen mehrerer Studien deuten darauf hin, dass Knoblauchpräparate den Blutdruck und die Blutfette leicht senken können. Die Effekte sind meist klein und die Studien unterschiedlich gut.",
+        "Einen Ersatz für ärztlich verordnete Medikamente bei Bluthochdruck stellen sie nicht dar."
+      ],
+      "merke": "Knoblauchkapseln ersetzen keine Blutdruckmedikamente.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wechselwirkungen beachten",
+      "absaetze": [
+        "Knoblauch kann die Blutgerinnung beeinflussen. Wer blutverdünnende Medikamente braucht oder eine Operation vor sich hat, sollte Präparate nur nach Rücksprache verwenden.",
+        "Als Gewürz in der Küche ist Knoblauch unproblematisch. Er passt gut in eine gemüsereiche Ernährung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Blutverdünnern oder vor Operationen nur nach ärztlicher Rücksprache verwenden.",
+        "Verordnete Blutdruckmedikamente nicht eigenmächtig ersetzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff entsteht beim Zerkleinern von Knoblauch?",
+      "art": "mc",
+      "optionen": [
+        "Koffein",
+        "Allicin",
+        "Lycopin",
+        "Kollagen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er sorgt für den typischen Geruch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Studien zu Knoblauchpräparaten?",
+      "art": "mc",
+      "optionen": [
+        "Sie heilen Bluthochdruck",
+        "Sie können Blutdruck und Blutfette leicht senken",
+        "Sie haben keinerlei Wirkung",
+        "Sie erhöhen den Blutdruck stark"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Effekte sind meist klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Blutverdünnern sollten Knoblauchpräparate nur nach Rücksprache verwendet werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Knoblauch kann die Blutgerinnung beeinflussen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Allicin entsteht beim Zerkleinern von Knoblauch.",
+        "Präparate können Blutdruck und Blutfette leicht senken.",
+        "Sie ersetzen keine Medikamente.",
+        "Wechselwirkungen mit Blutverdünnern sind möglich."
+      ]
+    }
+  ]
+}

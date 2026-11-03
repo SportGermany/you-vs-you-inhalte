@@ -1,0 +1,130 @@
+{
+  "id": "schlaf-b047-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft ein Schlaftagebuch bei Schlafproblemen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlaftagebuch",
+    "insomnie",
+    "selbstbeobachtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer schlecht schläft, hat oft nur ein vages Gefühl davon, was nachts passiert.",
+        "Ein Schlaftagebuch bringt Ordnung in dieses Bild."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du notierst",
+      "absaetze": [
+        "In ein Schlaftagebuch schreibst du jeden Morgen, wann du ins Bett gegangen und aufgestanden bist. Dazu kommen die geschätzte Einschlafzeit, nächtliche Wachphasen und wie erholt du dich fühlst.",
+        "Abends ergänzt du Dinge wie Koffein, Alkohol, Sport, Mittagsschlaf und Stress."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Muster erkennen",
+      "absaetze": [
+        "Nach zwei bis drei Wochen werden oft Muster sichtbar. Vielleicht liegst du viel länger im Bett, als du schläfst. Oder ein später Kaffee hängt mit unruhigen Nächten zusammen.",
+        "Schlafmedizinische Praxen und Schlaflabore nutzen solche Tagebücher regelmäßig. Sie sind auch ein Baustein der Verhaltenstherapie bei Schlafstörungen."
+      ],
+      "merke": "Schlaftagebücher sind ein Standardwerkzeug der Schlafmedizin.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig nutzen",
+      "absaetze": [
+        "Trag die Werte morgens grob ein, ohne nachts auf die Uhr zu schauen. Ständiges Kontrollieren der Uhrzeit kann den Schlaf zusätzlich stören.",
+        "Bringe das Tagebuch zum ärztlichen Termin mit, wenn du Hilfe bei Schlafproblemen suchst. Es erleichtert die Einschätzung deutlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "Schlaftagebuch starten",
+      "schritte": [
+        {
+          "titel": "Morgens",
+          "text": "Notiere Bettzeit, Aufstehzeit, Wachphasen und Erholung."
+        },
+        {
+          "titel": "Abends",
+          "text": "Notiere Koffein, Alkohol, Sport und Stress."
+        },
+        {
+          "titel": "Auswerten",
+          "text": "Such nach zwei bis drei Wochen nach Mustern."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann trägst du die Schlafzeiten am besten ein?",
+      "art": "mc",
+      "optionen": [
+        "Nachts mit Blick auf die Uhr",
+        "Morgens grob geschätzt",
+        "Einmal pro Monat",
+        "Gar nicht"
+      ],
+      "richtig": 1,
+      "erklaerung": "Nachts auf die Uhr zu schauen, kann den Schlaf stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach welcher Zeit werden oft Muster sichtbar?",
+      "art": "mc",
+      "optionen": [
+        "Nach einer Nacht",
+        "Nach zwei bis drei Wochen",
+        "Nach einem Jahr",
+        "Nie"
+      ],
+      "richtig": 1,
+      "erklaerung": "Dann lassen sich Zusammenhänge erkennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlaftagebücher werden auch in der Verhaltenstherapie bei Schlafstörungen genutzt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind ein wichtiger Baustein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Schlaftagebuch hält Schlafzeiten und Einflüsse fest.",
+        "Nach einigen Wochen werden Muster sichtbar.",
+        "Nachts nicht auf die Uhr schauen.",
+        "Das Tagebuch hilft auch bei ärztlichen Terminen."
+      ]
+    }
+  ]
+}

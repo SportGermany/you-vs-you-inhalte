@@ -3,7 +3,7 @@
   "version": 1,
   "themenwelt": "psychologie-gehirn",
   "unterthema": "gewohnheiten",
-  "titel": "Hilft es, anderen von deinen Zielen zu erzählen?",
+  "titel": "Lohnt sich eine feste Morgenroutine?",
   "minuten": 3,
   "studienlage": 1,
   "zeitlos": true,
@@ -21,89 +21,107 @@
     }
   ],
   "tags": [
-    "ziele",
-    "verbindlichkeit",
-    "motivation"
+    "morgenroutine",
+    "tagesstruktur",
+    "routinen"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Ab Montag gehe ich joggen! Viele verkünden ihre Vorsätze laut.",
-        "Ob das hilft, ist überraschend umstritten."
+        "Um fünf Uhr aufstehen, meditieren, Sport, kalt duschen: Solche Morgenroutinen werden online oft gefeiert.",
+        "Was ist davon wirklich hilfreich?"
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Ein verfrühtes Erfolgsgefühl",
+      "titel": "Was Routinen leisten",
       "absaetze": [
-        "Der Psychologe Peter Gollwitzer und Kollegen fanden 2009 einen überraschenden Effekt. Ihre Ergebnisse deuten darauf hin: Wer ein Ziel verkündet, das zur eigenen Identität gehört, strengt sich danach teils weniger an.",
-        "Die Erklärung: Schon das Erzählen kann sich anfühlen, als hätte man einen Teil des Ziels erreicht."
+        "Feste Abläufe sparen Entscheidungen. Wer morgens nicht überlegen muss, was als Nächstes kommt, startet oft ruhiger in den Tag.",
+        "Gewohnheiten, die an einen festen Auslöser wie das Aufstehen geknüpft sind, laufen mit der Zeit fast automatisch ab."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig gezielte Forschung",
+      "absaetze": [
+        "Zu Morgenroutinen als Ganzes gibt es kaum gute Studien. Einzelne Bausteine sind besser untersucht. Tageslicht am Morgen stabilisiert zum Beispiel die innere Uhr.",
+        "Die Studienlage deutet darauf hin, dass nicht die Uhrzeit entscheidend ist, sondern Regelmäßigkeit und ausreichend Schlaf."
       ],
       "studienlage": 1
     },
     {
       "typ": "wissen",
-      "titel": "Verbindlichkeit kann helfen",
+      "titel": "Passend statt perfekt",
       "absaetze": [
-        "Anders kann es sein, wenn du jemandem regelmäßig über deine Fortschritte berichtest. Dann entsteht Verbindlichkeit. Einige Studien deuten darauf hin, dass das beim Dranbleiben hilft.",
-        "Entscheidend ist also weniger das Verkünden, sondern das spätere Nachfragen."
+        "Früh aufzustehen hilft wenig, wenn dadurch Schlaf fehlt. Abendmenschen profitieren oft eher von einer kurzen, ruhigen Routine.",
+        "Starte mit zwei oder drei kleinen Schritten, etwa Wasser trinken, ans Fenster gehen und den wichtigsten Punkt des Tages festlegen."
       ],
-      "studienlage": 1
+      "merke": "Regelmäßigkeit zählt mehr als die Uhrzeit."
     },
     {
-      "typ": "wissen",
-      "titel": "Was du daraus machen kannst",
-      "absaetze": [
-        "Erzähl nicht nur vom großen Ziel, sondern vereinbare konkrete Schritte. Bitte eine Person, regelmäßig nachzufragen.",
-        "Gemeinsam mit anderen zu trainieren oder zu lernen kann ebenfalls helfen. Feste Verabredungen sagt man seltener ab als eigene Pläne."
-      ],
-      "merke": "Lass dir regelmäßig auf die Finger schauen."
+      "typ": "schritte",
+      "titel": "Eine kleine Morgenroutine",
+      "schritte": [
+        {
+          "titel": "Licht",
+          "text": "Geh nach dem Aufstehen kurz ans Fenster oder nach draußen."
+        },
+        {
+          "titel": "Trinken",
+          "text": "Trink ein Glas Wasser."
+        },
+        {
+          "titel": "Fokus",
+          "text": "Leg den wichtigsten Punkt des Tages fest."
+        }
+      ]
     },
     {
       "typ": "quiz",
-      "frage": "Was fand Gollwitzer 2009 bei verkündeten Identitätszielen?",
+      "frage": "Was leisten feste Morgenabläufe vor allem?",
       "art": "mc",
       "optionen": [
-        "Die Leute strengten sich teils weniger an",
-        "Die Leute erreichten alles doppelt so schnell",
-        "Es gab keinerlei Wirkung",
-        "Die Leute vergaßen ihr Ziel"
+        "Sie sparen Entscheidungen",
+        "Sie ersetzen Schlaf",
+        "Sie verbrennen viel Energie",
+        "Sie verhindern jede Müdigkeit"
       ],
       "richtig": 0,
-      "erklaerung": "Das Erzählen kann wie ein Teilerfolg wirken."
+      "erklaerung": "Dadurch startet man oft ruhiger in den Tag."
     },
     {
       "typ": "quiz",
-      "frage": "Was hilft laut einigen Studien eher?",
+      "frage": "Was ist laut Forschung wichtiger als eine frühe Uhrzeit?",
       "art": "mc",
       "optionen": [
-        "Das Ziel geheim halten und nie prüfen",
-        "Regelmäßig jemandem von Fortschritten berichten",
-        "Das Ziel jeden Tag zu wechseln",
-        "Möglichst viele Ziele gleichzeitig verkünden"
+        "Kalt duschen",
+        "Regelmäßigkeit und ausreichend Schlaf",
+        "Möglichst viele Schritte",
+        "Ein teures Frühstück"
       ],
       "richtig": 1,
-      "erklaerung": "Das schafft Verbindlichkeit."
+      "erklaerung": "Früh aufstehen hilft wenig, wenn Schlaf fehlt."
     },
     {
       "typ": "quiz",
-      "frage": "Feste Verabredungen werden seltener abgesagt als eigene Pläne.",
+      "frage": "Tageslicht am Morgen kann die innere Uhr stabilisieren.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
       "richtig": 0,
-      "erklaerung": "Richtig. Gemeinsame Termine schaffen Verbindlichkeit."
+      "erklaerung": "Richtig. Dieser Baustein ist gut untersucht."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Ziele zu verkünden kann ein verfrühtes Erfolgsgefühl auslösen.",
-        "Regelmäßige Fortschrittsberichte schaffen Verbindlichkeit.",
-        "Konkrete Schritte sind wichtiger als große Ankündigungen.",
-        "Feste Verabredungen helfen beim Dranbleiben."
+        "Feste Abläufe sparen Entscheidungen.",
+        "Zu ganzen Morgenroutinen gibt es wenig gute Studien.",
+        "Regelmäßigkeit und Schlaf zählen mehr als die Uhrzeit.",
+        "Klein und passend starten."
       ]
     }
   ]

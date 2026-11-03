@@ -1,0 +1,127 @@
+{
+  "id": "vers-b047-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was ist eine Restschuldversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kredite und Versicherungen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "restschuldversicherung",
+    "kredit",
+    "kosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Abschluss eines Ratenkredits wird oft zusätzlich eine Versicherung angeboten.",
+        "Sie soll einspringen, wenn du die Raten nicht mehr zahlen kannst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie absichert",
+      "absaetze": [
+        "Eine Restschuldversicherung zahlt die Kreditraten oder die Restschuld, wenn ein bestimmter Fall eintritt. Je nach Vertrag sind das Tod, Arbeitsunfähigkeit oder Arbeitslosigkeit.",
+        "Das klingt sinnvoll. In der Praxis gibt es aber oft viele Ausschlüsse und Wartezeiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oft teuer",
+      "absaetze": [
+        "Der Beitrag wird häufig auf einmal gezahlt und mitfinanziert. Dadurch steigt die Kreditsumme, und du zahlst auf die Versicherung auch noch Zinsen.",
+        "Die Finanzaufsicht und Verbraucherzentralen haben Restschuldversicherungen wegen hoher Kosten und Provisionen wiederholt kritisiert."
+      ],
+      "merke": "Die Versicherung kann einen Kredit deutlich verteuern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alternativen prüfen",
+      "absaetze": [
+        "Für die Absicherung der Familie im Todesfall ist eine Risikolebensversicherung oft deutlich günstiger. Gegen Einkommensausfall kann eine Berufsunfähigkeitsversicherung sinnvoller sein.",
+        "Eine Restschuldversicherung darf nicht zur Bedingung für einen normalen Ratenkredit gemacht werden. Lass dir Kosten und Bedingungen schriftlich geben und vergleiche."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann zahlt eine Restschuldversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Bei einem Lottogewinn",
+        "In vereinbarten Fällen wie Tod oder Arbeitslosigkeit",
+        "Bei jedem Urlaub",
+        "Wenn der Zins steigt"
+      ],
+      "richtig": 1,
+      "erklaerung": "Je nach Vertrag gibt es viele Ausschlüsse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist sie oft teuer?",
+      "art": "mc",
+      "optionen": [
+        "Weil der Beitrag mitfinanziert und verzinst wird",
+        "Weil sie Steuern spart",
+        "Weil sie kostenlos ist",
+        "Weil sie nur ein Jahr gilt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch steigt die Kreditsumme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für die Absicherung im Todesfall oft günstiger?",
+      "art": "mc",
+      "optionen": [
+        "Eine Hausratversicherung",
+        "Eine Handyversicherung",
+        "Eine Risikolebensversicherung",
+        "Ein Bausparvertrag"
+      ],
+      "richtig": 2,
+      "erklaerung": "Vergleiche lohnen sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Bank darf einen normalen Ratenkredit an eine Restschuldversicherung knüpfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie darf nicht zur Bedingung gemacht werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Restschuldversicherung soll Kreditraten absichern.",
+        "Sie ist oft teuer und hat viele Ausschlüsse.",
+        "Mitfinanzierte Beiträge erhöhen die Kreditkosten.",
+        "Risikoleben oder Berufsunfähigkeit sind oft bessere Alternativen."
+      ]
+    }
+  ]
+}
