@@ -1,0 +1,117 @@
+{
+  "id": "schlaf-b043-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schlafen Paare zusammen besser?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "partnerschaft",
+    "schnarchen",
+    "schlafqualitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die meisten Paare teilen sich ein Bett.",
+        "Ob das den Schlaf verbessert oder stört, ist gar nicht so leicht zu sagen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefühl und Messung",
+      "absaetze": [
+        "Viele Menschen geben an, neben ihrem Partner besser zu schlafen. Messungen zeigen aber oft mehr kurze Unterbrechungen durch Bewegungen des anderen.",
+        "Einige Studien deuten darauf hin, dass Nähe und Geborgenheit beim Entspannen helfen. Die Studienlage ist allerdings klein und widersprüchlich."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Störfaktoren",
+      "absaetze": [
+        "Schnarchen ist ein häufiger Grund für schlechten Schlaf zu zweit. Dazu kommen unterschiedliche Schlafzeiten, Wärmeempfinden oder unruhige Beine.",
+        "Lautes Schnarchen mit Atemaussetzern kann auf eine Schlafapnoe hinweisen. Das sollte ärztlich abgeklärt werden, auch zum Schutz des Schnarchenden selbst."
+      ],
+      "merke": "Schnarchen mit Atemaussetzern ärztlich abklären lassen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lösungen für zwei",
+      "absaetze": [
+        "Getrennte Decken verringern Störungen durch Bewegungen. Eine größere Matratze schafft zusätzlichen Platz.",
+        "Manche Paare schlafen bewusst in getrennten Zimmern. Das sagt nichts über die Beziehung aus. Entscheidend ist, dass beide erholt aufwachen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Getrennte Schlafzimmer sind ein Zeichen für Beziehungsprobleme.",
+      "urteil": "mythos",
+      "erklaerung": "Viele Paare trennen nur den Schlaf, etwa wegen Schnarchen, Schichtarbeit oder unterschiedlicher Schlafzeiten. Nähe lässt sich auch zu anderen Zeiten pflegen. Wer ausgeschlafen ist, ist oft auch geduldiger miteinander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Messungen oft beim Schlafen zu zweit?",
+      "art": "mc",
+      "optionen": [
+        "Mehr kurze Unterbrechungen",
+        "Gar keine Unterschiede",
+        "Deutlich mehr Tiefschlaf",
+        "Weniger Träume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bewegungen des Partners können kurz wecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf kann lautes Schnarchen mit Atemaussetzern hinweisen?",
+      "art": "mc",
+      "optionen": [
+        "Auf Schlafwandeln",
+        "Auf einen Jetlag",
+        "Auf Restless Legs",
+        "Auf eine Schlafapnoe"
+      ],
+      "richtig": 3,
+      "erklaerung": "Das sollte ärztlich abgeklärt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Getrennte Decken können Störungen durch Bewegungen verringern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Jeder hat seinen eigenen Raum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viele fühlen sich zu zweit geborgener.",
+        "Bewegungen und Schnarchen können den Schlaf stören.",
+        "Schnarchen mit Atemaussetzern gehört abgeklärt.",
+        "Getrennte Decken oder Zimmer sind legitime Lösungen."
+      ]
+    }
+  ]
+}

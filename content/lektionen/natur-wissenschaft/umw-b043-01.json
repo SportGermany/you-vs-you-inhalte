@@ -1,0 +1,118 @@
+{
+  "id": "umw-b043-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was passiert, wenn Permafrost taut?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Permafrost",
+      "herausgeber": "Alfred-Wegener-Institut",
+      "url": "https://www.awi.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "permafrost",
+    "klimawandel",
+    "arktis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Sibirien, Alaska und Kanada ist der Boden teils seit Jahrtausenden gefroren.",
+        "Mit der Erwärmung beginnt er an vielen Stellen aufzutauen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dauerhaft gefrorener Boden",
+      "absaetze": [
+        "Permafrost ist Boden, der mindestens zwei Jahre ohne Unterbrechung gefroren bleibt. Er kann viele hundert Meter tief reichen.",
+        "Er bedeckt große Teile der Landfläche auf der Nordhalbkugel. Auch in Hochgebirgen wie den Alpen gibt es Permafrost."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein riesiger Kohlenstoffspeicher",
+      "absaetze": [
+        "Im Permafrost liegen die Reste von Pflanzen und Tieren aus vielen Jahrtausenden. Solange der Boden gefroren ist, zersetzen sie sich kaum.",
+        "Taut der Boden, bauen Mikroorganismen dieses Material ab. Dabei entstehen Kohlendioxid und Methan. Das verstärkt die Erwärmung weiter."
+      ],
+      "merke": "Tauender Permafrost setzt Treibhausgase frei.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen vor Ort",
+      "absaetze": [
+        "Wenn das Eis im Boden schmilzt, sackt der Untergrund ab. Häuser, Straßen und Pipelines können beschädigt werden.",
+        "In den Alpen hält Permafrost Felswände zusammen. Taut er, steigt das Risiko für Felsstürze und Steinschlag."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab wann gilt Boden als Permafrost?",
+      "art": "mc",
+      "optionen": [
+        "Wenn er einen Winter gefroren ist",
+        "Wenn er mindestens zwei Jahre durchgehend gefroren ist",
+        "Wenn Schnee darauf liegt",
+        "Wenn er unter dem Meer liegt"
+      ],
+      "richtig": 1,
+      "erklaerung": "Er kann viele hundert Meter tief reichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Gase entstehen, wenn Permafrost taut?",
+      "art": "mc",
+      "optionen": [
+        "Sauerstoff und Stickstoff",
+        "Helium und Neon",
+        "Kohlendioxid und Methan",
+        "Wasserstoff und Chlor"
+      ],
+      "richtig": 2,
+      "erklaerung": "Mikroorganismen bauen alte Pflanzenreste ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch in den Alpen gibt es Permafrost.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er hält dort Felswände zusammen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Permafrost ist dauerhaft gefrorener Boden.",
+        "Er speichert große Mengen Kohlenstoff.",
+        "Taut er, entstehen Kohlendioxid und Methan.",
+        "Absackender Boden beschädigt Gebäude und Straßen.",
+        "In Gebirgen drohen mehr Felsstürze."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "supp-b043-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Helfen Cranberry-Präparate gegen Blasenentzündungen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel und Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "cranberry",
+    "blasenentzuendung",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Cranberrys gelten als Hausmittel gegen Blasenentzündungen.",
+        "Was ist dran an Kapseln und Saft aus den roten Beeren?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee dahinter",
+      "absaetze": [
+        "Cranberrys enthalten Pflanzenstoffe namens Proanthocyanidine. Sie sollen verhindern, dass sich Bakterien an der Blasenwand festsetzen.",
+        "Eine Blasenentzündung entsteht meist durch Darmbakterien, die in die Harnwege gelangen. Frauen sind wegen der kürzeren Harnröhre häufiger betroffen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Auswertungen vieler Studien deuten darauf hin, dass Cranberry-Produkte wiederkehrende Blasenentzündungen bei manchen Frauen etwas seltener machen können. Die Ergebnisse sind aber nicht einheitlich.",
+        "Eine bestehende Blasenentzündung behandeln Cranberrys nicht. Der Gehalt an Wirkstoffen schwankt zudem stark zwischen den Produkten."
+      ],
+      "merke": "Cranberrys behandeln keine akute Entzündung.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann ärztlicher Rat nötig ist",
+      "absaetze": [
+        "Fieber, Flankenschmerzen oder Blut im Urin können auf eine schwerere Infektion hinweisen. Dann solltest du zeitnah ärztlichen Rat einholen.",
+        "Auch bei Schwangerschaft, bei Männern und bei Kindern gehören Beschwerden beim Wasserlassen ärztlich abgeklärt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Cranberry-Präparate ersetzen keine ärztliche Behandlung.",
+        "Bei Blutverdünnern vorher in Arztpraxis oder Apotheke nachfragen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sollen Stoffe aus Cranberrys verhindern?",
+      "art": "mc",
+      "optionen": [
+        "Dass Bakterien an der Blasenwand haften",
+        "Dass die Niere wächst",
+        "Dass Urin entsteht",
+        "Dass Viren in die Lunge gelangen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist die Idee hinter den Präparaten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Heilen Cranberry-Präparate eine akute Blasenentzündung?",
+      "art": "mc",
+      "optionen": [
+        "Ja, innerhalb eines Tages",
+        "Ja, aber nur als Saft",
+        "Nein",
+        "Nur bei Männern"
+      ],
+      "richtig": 2,
+      "erklaerung": "Sie behandeln keine bestehende Entzündung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fieber und Flankenschmerzen sind ein Grund für ärztlichen Rat.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie können auf eine schwerere Infektion hinweisen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cranberrys sollen das Anhaften von Bakterien erschweren.",
+        "Studien deuten auf einen kleinen vorbeugenden Effekt bei manchen Frauen hin.",
+        "Eine akute Entzündung behandeln sie nicht.",
+        "Fieber oder Flankenschmerzen ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

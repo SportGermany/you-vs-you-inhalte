@@ -1,0 +1,130 @@
+{
+  "id": "koer-b043-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was macht die Milz?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Impfempfehlungen der STIKO",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "milz",
+    "immunsystem",
+    "blut"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Milz kennt kaum jemand genau, obwohl sie ständig arbeitet.",
+        "Sie liegt im linken Oberbauch, gut geschützt unter den Rippen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Filter für das Blut",
+      "absaetze": [
+        "Die Milz ist etwa so groß wie eine Faust. Durch sie fließt ständig Blut. Sie sortiert alte und beschädigte rote Blutkörperchen aus und baut sie ab.",
+        "Rote Blutkörperchen leben etwa 120 Tage. Danach werden sie vor allem in Milz und Leber recycelt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teil der Abwehr",
+      "absaetze": [
+        "In der Milz sitzen viele Immunzellen. Sie erkennen Krankheitserreger im Blut und bilden Antikörper dagegen.",
+        "Besonders wichtig ist die Milz bei der Abwehr bestimmter Bakterien mit einer schützenden Kapsel. Dazu gehören zum Beispiel Pneumokokken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leben ohne Milz",
+      "absaetze": [
+        "Nach einem schweren Unfall oder bei manchen Krankheiten muss die Milz entfernt werden. Man kann ohne sie leben, weil andere Organe einen Teil ihrer Aufgaben übernehmen.",
+        "Das Risiko für schwere Infektionen steigt aber. Die Ständige Impfkommission empfiehlt Menschen ohne Milz deshalb zusätzliche Impfungen."
+      ],
+      "merke": "Ohne Milz sind zusätzliche Impfungen empfohlen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt die Milz?",
+      "art": "mc",
+      "optionen": [
+        "Im rechten Unterbauch",
+        "Hinter dem Herzen",
+        "Im linken Oberbauch",
+        "Im Hals"
+      ],
+      "richtig": 2,
+      "erklaerung": "Sie wird von den Rippen geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was baut die Milz ab?",
+      "art": "mc",
+      "optionen": [
+        "Alte rote Blutkörperchen",
+        "Knochen",
+        "Muskelzellen",
+        "Fettzellen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rote Blutkörperchen leben etwa 120 Tage."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohne Milz kann ein Mensch nicht überleben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Infektionsrisiko steigt aber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Erreger wehrt die Milz besonders wichtig ab?",
+      "art": "mc",
+      "optionen": [
+        "Viren in der Nase",
+        "Pilze auf der Haut",
+        "Würmer im Darm",
+        "Bakterien mit schützender Kapsel"
+      ],
+      "richtig": 3,
+      "erklaerung": "Dazu gehören zum Beispiel Pneumokokken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Milz liegt im linken Oberbauch.",
+        "Sie filtert alte rote Blutkörperchen aus dem Blut.",
+        "Sie hilft bei der Abwehr von Krankheitserregern.",
+        "Ohne Milz kann man leben, braucht aber zusätzlichen Impfschutz."
+      ]
+    }
+  ]
+}

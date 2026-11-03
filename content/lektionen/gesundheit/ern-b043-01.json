@@ -1,0 +1,118 @@
+{
+  "id": "ern-b043-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum schmeckt manches Gemüse bitter?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bitterstoffe",
+    "gemuese",
+    "kuerbis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Chicorée, Rosenkohl und Radicchio schmecken herb.",
+        "Hinter dem Geschmack stecken Pflanzenstoffe, die das Gemüse ursprünglich vor Fraßfeinden schützen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz der Pflanze",
+      "absaetze": [
+        "Viele Pflanzen bilden Bitterstoffe, damit Tiere sie nicht fressen. In Kohl stecken zum Beispiel Senfölglykoside, in Chicorée und Radicchio andere herbe Stoffe.",
+        "Durch Züchtung wurde vielen Gemüsesorten ein Teil der Bitterstoffe entzogen. Deshalb schmeckt moderner Rosenkohl oft milder als früher."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie im Körper tun",
+      "absaetze": [
+        "Bitterer Geschmack regt den Speichelfluss und die Verdauungssäfte an. Viele Bitterstoffe gehören zu den sekundären Pflanzenstoffen. So nennt man Stoffe, die Pflanzen neben Nährstoffen bilden.",
+        "Gemüse mit Bitterstoffen ist meist reich an Ballaststoffen und Vitaminen. Es passt gut in eine abwechslungsreiche Ernährung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann bitter ein Warnsignal ist",
+      "absaetze": [
+        "Zucchini, Kürbis und Gurken können in seltenen Fällen giftige Cucurbitacine enthalten. Das passiert vor allem bei Pflanzen aus eigenen Samen im Hausgarten.",
+        "Schmeckt eine Zucchini oder ein Kürbis deutlich bitter, solltest du ihn nicht essen. Kochen zerstört diese Stoffe nicht."
+      ],
+      "merke": "Bittere Zucchini und Kürbisse nicht essen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu bilden Pflanzen Bitterstoffe ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Um Farbe zu bekommen",
+        "Zum Schutz vor Fraßfeinden",
+        "Um schneller zu wachsen",
+        "Um Wasser zu speichern"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der herbe Geschmack hält viele Tiere ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du mit einer deutlich bitteren Zucchini tun?",
+      "art": "mc",
+      "optionen": [
+        "Länger kochen",
+        "Mit Zucker würzen",
+        "Nicht essen",
+        "Roh essen"
+      ],
+      "richtig": 2,
+      "erklaerung": "Giftige Cucurbitacine werden beim Kochen nicht zerstört."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Durch Züchtung schmecken viele Gemüsesorten heute milder als früher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Teil der Bitterstoffe wurde weggezüchtet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bitterstoffe schützen Pflanzen vor Fraßfeinden.",
+        "Sie regen Speichel und Verdauungssäfte an.",
+        "Bitteres Gemüse ist meist reich an Ballaststoffen.",
+        "Deutlich bittere Zucchini und Kürbisse gehören in den Müll."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "all-b043-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Weißer Zwerg?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sterne",
+    "sonne",
+    "sternentwicklung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auch Sterne haben ein Lebensende.",
+        "Unsere Sonne wird eines Tages als kleiner, extrem dichter Weißer Zwerg enden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Rest eines Sterns",
+      "absaetze": [
+        "Ein Weißer Zwerg ist der ausgebrannte Kern eines Sterns wie unserer Sonne. Wenn der Brennstoff zur Neige geht, bläht sich der Stern zu einem Roten Riesen auf.",
+        "Die äußeren Schichten treiben dann ins All davon. Zurück bleibt der heiße Kern."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unvorstellbar dicht",
+      "absaetze": [
+        "Ein Weißer Zwerg ist etwa so groß wie die Erde, hat aber ungefähr so viel Masse wie die Sonne. Ein Teelöffel seines Materials würde auf der Erde mehrere Tonnen wiegen.",
+        "Im Inneren findet keine Kernfusion mehr statt. Er leuchtet nur noch, weil er sehr heiß ist."
+      ],
+      "merke": "Ein Weißer Zwerg ist erdgroß, aber fast so schwer wie die Sonne.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Langsames Abkühlen",
+      "absaetze": [
+        "Über Milliarden Jahre kühlt ein Weißer Zwerg langsam ab und wird immer schwächer. Unsere Sonne wird erst in etwa fünf Milliarden Jahren zum Roten Riesen.",
+        "Viel schwerere Sterne enden anders. Sie explodieren als Supernova und hinterlassen einen Neutronenstern oder ein Schwarzes Loch."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Weißer Zwerg?",
+      "art": "mc",
+      "optionen": [
+        "Ein junger Stern",
+        "Ein Planet aus Eis",
+        "Der ausgebrannte Kern eines Sterns",
+        "Ein Komet"
+      ],
+      "richtig": 2,
+      "erklaerung": "Er bleibt übrig, wenn die äußeren Schichten davontreiben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie groß ist ein Weißer Zwerg ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "So groß wie die Erde",
+        "So groß wie die Sonne",
+        "So groß wie ein Haus",
+        "So groß wie Jupiter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei hat er fast die Masse der Sonne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wird auch unsere Sonne einmal ein Weißer Zwerg?",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das passiert aber erst in Milliarden Jahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hinterlassen sehr schwere Sterne?",
+      "art": "mc",
+      "optionen": [
+        "Einen Weißen Zwerg",
+        "Einen Kometen",
+        "Einen Mond",
+        "Einen Neutronenstern oder ein Schwarzes Loch"
+      ],
+      "richtig": 3,
+      "erklaerung": "Sie explodieren vorher als Supernova."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Weißer Zwerg ist der Rest eines sonnenähnlichen Sterns.",
+        "Er ist erdgroß, aber extrem dicht.",
+        "In ihm findet keine Kernfusion mehr statt.",
+        "Auch unsere Sonne endet als Weißer Zwerg."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "haus-b043-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Was verrät das Energielabel auf Elektrogeräten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel und Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "energielabel",
+    "strom-sparen",
+    "elektrogeraete"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf Kühlschrank, Waschmaschine und Fernseher klebt ein bunter Aufkleber.",
+        "Er hilft dir, Stromfresser schon im Laden zu erkennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von A bis G",
+      "absaetze": [
+        "Das EU-Energielabel ordnet Geräte in Effizienzklassen von A bis G ein. A steht für sehr sparsam, G für hohen Verbrauch.",
+        "Für viele Geräte wurde die Skala 2021 neu eingeteilt. Früher gab es Klassen wie A+++. Weil fast alle Geräte oben landeten, war der Vergleich schwierig geworden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als nur die Klasse",
+      "absaetze": [
+        "Auf dem Label steht auch der Stromverbrauch in Kilowattstunden. Bei Kühlgeräten ist es ein Jahreswert, bei Waschmaschinen ein Wert pro 100 Waschgänge.",
+        "Dazu kommen je nach Gerät weitere Angaben, etwa Geräuschpegel oder Wasserverbrauch. Ein QR-Code führt zu einer EU-Datenbank mit weiteren Produktinformationen."
+      ],
+      "merke": "Achte auf den Verbrauch in Kilowattstunden, nicht nur auf die Klasse."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klug vergleichen",
+      "absaetze": [
+        "Ein großes Gerät kann trotz guter Klasse mehr Strom brauchen als ein kleines. Vergleiche deshalb immer den tatsächlichen Verbrauch.",
+        "Ein sparsames Gerät kostet manchmal mehr. Über viele Jahre Betrieb kann sich der Aufpreis durch niedrigere Stromkosten ausgleichen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Effizienzklassen gibt es auf dem aktuellen EU-Label?",
+      "art": "mc",
+      "optionen": [
+        "A+++ bis D",
+        "1 bis 10",
+        "A bis G",
+        "Grün bis Rot ohne Buchstaben"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Skala wurde für viele Geräte 2021 neu eingeteilt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wurde die Skala neu eingeteilt?",
+      "art": "mc",
+      "optionen": [
+        "Fast alle Geräte landeten in den obersten Klassen",
+        "Die Farben waren verboten",
+        "Es gab zu wenige Geräte",
+        "Die Hersteller wollten weniger Angaben"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wurde der Vergleich wieder aussagekräftiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein großes Gerät mit guter Klasse kann mehr Strom verbrauchen als ein kleines.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vergleiche deshalb den Verbrauch in Kilowattstunden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das EU-Label reicht von A bis G.",
+        "Viele Skalen wurden 2021 neu eingeteilt.",
+        "Der Verbrauch in Kilowattstunden ist entscheidend.",
+        "Sparsame Geräte können sich über die Jahre lohnen."
+      ]
+    }
+  ]
+}

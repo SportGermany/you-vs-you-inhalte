@@ -1,0 +1,154 @@
+{
+  "id": "ern-b043-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum enthält Reis Arsen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel und Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "reis",
+    "arsen",
+    "lebensmittelsicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Arsen klingt nach Krimi, steckt aber in kleinen Mengen in vielen Lebensmitteln.",
+        "Reis nimmt davon mehr auf als andere Getreide."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher das Arsen kommt",
+      "absaetze": [
+        "Arsen kommt natürlich in Böden und Gestein vor. Reis wächst oft auf überfluteten Feldern. Dort löst sich Arsen leichter und die Pflanze nimmt es über die Wurzeln auf.",
+        "Besonders kritisch ist anorganisches Arsen. Es gilt als krebserregend. Für Reis und Reisprodukte gibt es in der EU deshalb Höchstgehalte."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer besonders aufpassen sollte",
+      "absaetze": [
+        "Kleine Kinder essen im Verhältnis zu ihrem Gewicht mehr als Erwachsene. Das Bundesinstitut für Risikobewertung rät, Säuglingen und Kleinkindern keine Reisdrinks als Milchersatz zu geben.",
+        "Auch Reiswaffeln enthalten vergleichsweise viel Arsen. Sie sollten für Kinder kein Hauptsnack sein."
+      ],
+      "merke": "Reisdrinks sind kein Milchersatz für Kleinkinder.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "So senkst du den Gehalt",
+      "absaetze": [
+        "Wasche Reis vor dem Kochen gründlich. Koche ihn in reichlich Wasser und gieße das Kochwasser danach ab. Das senkt den Arsengehalt deutlich, allerdings gehen auch etwas Vitamine verloren.",
+        "Wechsle außerdem zwischen Beilagen ab. Kartoffeln, Hirse, Nudeln oder Buchweizen bringen Abwechslung auf den Teller."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "schritte",
+      "titel": "Arsen im Reis senken",
+      "schritte": [
+        {
+          "titel": "Waschen",
+          "text": "Spüle den Reis vor dem Kochen gründlich ab."
+        },
+        {
+          "titel": "Viel Wasser",
+          "text": "Koche den Reis in reichlich Wasser wie Nudeln."
+        },
+        {
+          "titel": "Abgießen",
+          "text": "Gieße das Kochwasser nach dem Garen ab."
+        },
+        {
+          "titel": "Abwechseln",
+          "text": "Wechsle Reis mit anderen Beilagen ab."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum nimmt Reis viel Arsen auf?",
+      "art": "mc",
+      "optionen": [
+        "Er wird mit Arsen gedüngt",
+        "Er wächst oft auf überfluteten Feldern",
+        "Er wird in Metalltöpfen gelagert",
+        "Er wird gebleicht"
+      ],
+      "richtig": 1,
+      "erklaerung": "Im gefluteten Boden löst sich Arsen leichter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Form von Arsen gilt als krebserregend?",
+      "art": "mc",
+      "optionen": [
+        "Anorganisches Arsen",
+        "Gar keine",
+        "Nur Arsen aus Fisch",
+        "Nur Arsen aus Luft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb gibt es in der EU Höchstgehalte für Reis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reisdrinks eignen sich gut als Milchersatz für Kleinkinder.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das BfR rät davon ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was senkt den Arsengehalt beim Kochen?",
+      "art": "mc",
+      "optionen": [
+        "Wenig Wasser verwenden",
+        "Salz hinzufügen",
+        "Reis in reichlich Wasser kochen und abgießen",
+        "Den Deckel weglassen"
+      ],
+      "richtig": 2,
+      "erklaerung": "Ein Teil des Arsens bleibt im Kochwasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reis nimmt aus überfluteten Böden Arsen auf.",
+        "Anorganisches Arsen gilt als krebserregend.",
+        "Reisdrinks sind kein Milchersatz für Kleinkinder.",
+        "Viel Kochwasser und Abgießen senken den Gehalt.",
+        "Abwechslung bei Beilagen hilft zusätzlich."
+      ]
+    }
+  ]
+}

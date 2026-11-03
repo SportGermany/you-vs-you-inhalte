@@ -1,0 +1,136 @@
+{
+  "id": "stoff-b043-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum ist langes Sitzen schlecht für den Stoffwechsel?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physical activity",
+      "herausgeber": "Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.who.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sitzen",
+    "bewegung",
+    "blutzucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Büro, Auto, Sofa: Viele Menschen sitzen den größten Teil des Tages.",
+        "Für den Stoffwechsel ist das nicht egal."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ruhende Muskeln",
+      "absaetze": [
+        "Muskeln sind wichtige Abnehmer für Zucker und Fett aus dem Blut. Beim Sitzen arbeiten große Muskelgruppen wie die Beinmuskeln kaum.",
+        "Viel Sitzen hängt in Studien mit einem höheren Risiko für Typ-2-Diabetes und Herz-Kreislauf-Erkrankungen zusammen. Das gilt teilweise auch für Menschen, die zusätzlich Sport treiben."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurze Pausen zählen",
+      "absaetze": [
+        "Studien deuten darauf hin, dass kurze Bewegungspausen den Blutzuckeranstieg nach dem Essen dämpfen. Schon wenige Minuten Gehen oder Treppensteigen können helfen.",
+        "Die Weltgesundheitsorganisation empfiehlt, Sitzzeit zu begrenzen. Jede Bewegung ist dabei besser als keine, auch leichte."
+      ],
+      "merke": "Jede Bewegung ist besser als keine.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Alltag umsetzen",
+      "absaetze": [
+        "Steh beim Telefonieren auf oder geh dabei umher. Stell dir eine Erinnerung, um etwa jede halbe Stunde kurz aufzustehen.",
+        "Ein kurzer Spaziergang nach dem Essen ist ein einfacher Einstieg. Er passt in fast jeden Tagesablauf."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Sitzzeit unterbrechen",
+      "schritte": [
+        {
+          "titel": "Aufstehen",
+          "text": "Steh etwa jede halbe Stunde kurz auf."
+        },
+        {
+          "titel": "Telefonieren",
+          "text": "Führe Gespräche im Stehen oder Gehen."
+        },
+        {
+          "titel": "Nach dem Essen",
+          "text": "Geh nach einer Mahlzeit ein paar Minuten spazieren."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist langes Sitzen für den Blutzucker ungünstig?",
+      "art": "mc",
+      "optionen": [
+        "Große Muskeln arbeiten kaum",
+        "Der Magen wird kleiner",
+        "Die Leber stellt die Arbeit ein",
+        "Das Blut wird dicker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Arbeitende Muskeln nehmen Zucker aus dem Blut auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfiehlt die WHO zum Sitzen?",
+      "art": "mc",
+      "optionen": [
+        "Nur am Wochenende bewegen",
+        "Möglichst viel liegen",
+        "Sitzzeit begrenzen",
+        "Nur Leistungssport zählt"
+      ],
+      "richtig": 2,
+      "erklaerung": "Jede Bewegung ist besser als keine."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kurze Bewegungspausen können den Blutzuckeranstieg nach dem Essen dämpfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Darauf deuten Studien hin."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Sitzen arbeiten große Muskeln kaum.",
+        "Viel Sitzen hängt mit Diabetes- und Herzrisiken zusammen.",
+        "Kurze Bewegungspausen helfen dem Blutzucker.",
+        "Jede Bewegung ist besser als keine.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

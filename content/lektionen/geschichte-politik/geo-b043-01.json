@@ -1,0 +1,128 @@
+{
+  "id": "geo-b043-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was regelt das UN-Seerechtsübereinkommen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "United Nations Convention on the Law of the Sea",
+      "herausgeber": "Vereinte Nationen",
+      "url": "https://www.un.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "International Tribunal for the Law of the Sea",
+      "herausgeber": "Internationaler Seegerichtshof",
+      "url": "https://www.itlos.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "seerecht",
+    "voelkerrecht",
+    "meere"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wem gehört das Meer vor einer Küste? Wer darf dort fischen oder nach Öl bohren?",
+        "Antworten gibt ein großer Vertrag der Vereinten Nationen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Grundgesetz der Meere",
+      "absaetze": [
+        "Das Seerechtsübereinkommen der Vereinten Nationen wurde 1982 beschlossen und trat 1994 in Kraft. Viele nennen es die Verfassung der Meere.",
+        "Die meisten Staaten der Welt sind Vertragsparteien, darunter Deutschland und die EU. Die USA haben den Vertrag bisher nicht ratifiziert, also nicht verbindlich angenommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zonen vor der Küste",
+      "absaetze": [
+        "Bis zwölf Seemeilen vor der Küste reicht das Küstenmeer. Dort hat der Küstenstaat weitgehend volle Hoheit. Schiffe anderer Staaten dürfen es aber friedlich durchfahren.",
+        "Bis 200 Seemeilen reicht die ausschließliche Wirtschaftszone. Dort darf allein der Küstenstaat Fische fangen und Rohstoffe fördern."
+      ],
+      "merke": "Küstenmeer bis 12, Wirtschaftszone bis 200 Seemeilen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Hohe See",
+      "absaetze": [
+        "Jenseits davon beginnt die Hohe See. Sie gehört keinem Staat. Schifffahrt und Überflug sind dort für alle frei.",
+        "Streit über das Seerecht kann vor den Internationalen Seegerichtshof kommen. Er hat seinen Sitz in Hamburg."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie weit reicht das Küstenmeer?",
+      "art": "mc",
+      "optionen": [
+        "3 Seemeilen",
+        "12 Seemeilen",
+        "50 Seemeilen",
+        "500 Seemeilen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Dort hat der Küstenstaat weitgehend volle Hoheit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darf ein Staat in seiner ausschließlichen Wirtschaftszone?",
+      "art": "mc",
+      "optionen": [
+        "Allein Fische fangen und Rohstoffe fördern",
+        "Fremden Schiffen die Durchfahrt verbieten",
+        "Den Luftraum für alle sperren",
+        "Steuern auf alle Schiffe erheben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Zone reicht bis 200 Seemeilen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt der Internationale Seegerichtshof?",
+      "art": "mc",
+      "optionen": [
+        "In Genf",
+        "In New York",
+        "In Den Haag",
+        "In Hamburg"
+      ],
+      "richtig": 3,
+      "erklaerung": "Er entscheidet Streitfälle zum Seerecht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Hohe See gehört dem nächstgelegenen Staat.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gehört keinem Staat."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Seerechtsübereinkommen gilt seit 1994.",
+        "Das Küstenmeer reicht bis 12 Seemeilen.",
+        "Die Wirtschaftszone reicht bis 200 Seemeilen.",
+        "Die Hohe See gehört keinem Staat.",
+        "Der Seegerichtshof sitzt in Hamburg."
+      ]
+    }
+  ]
+}

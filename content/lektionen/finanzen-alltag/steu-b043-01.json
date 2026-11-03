@@ -1,0 +1,108 @@
+{
+  "id": "steu-b043-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist der Grundfreibetrag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "einkommensteuer",
+    "freibetrag",
+    "existenzminimum"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nicht jeder Euro deines Einkommens wird besteuert.",
+        "Ein Teil bleibt immer steuerfrei, und das hat einen guten Grund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Existenzminimum bleibt frei",
+      "absaetze": [
+        "Der Grundfreibetrag ist der Teil des Einkommens, auf den keine Einkommensteuer anfällt. Er soll sichern, dass das Existenzminimum steuerfrei bleibt.",
+        "Gemeint ist das Geld, das ein Mensch zum Leben mindestens braucht. Das Bundesverfassungsgericht verlangt, dass der Staat dieses Minimum nicht besteuert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßige Anpassung",
+      "absaetze": [
+        "Weil Preise steigen, wird der Grundfreibetrag regelmäßig angehoben. Grundlage ist ein Bericht der Bundesregierung zum Existenzminimum.",
+        "Die genaue Höhe für das laufende Jahr findest du beim Bundesfinanzministerium. Bei zusammen veranlagten Ehepaaren gilt der doppelte Betrag."
+      ],
+      "merke": "Bei Ehepaaren mit Zusammenveranlagung verdoppelt er sich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was danach passiert",
+      "absaetze": [
+        "Erst das Einkommen oberhalb des Grundfreibetrags wird besteuert. Der Steuersatz steigt dann schrittweise mit dem Einkommen.",
+        "Liegt dein zu versteuerndes Einkommen unter dem Freibetrag, zahlst du keine Einkommensteuer. Eine Steuererklärung kann sich trotzdem lohnen, etwa wenn Lohnsteuer einbehalten wurde."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was soll der Grundfreibetrag sichern?",
+      "art": "mc",
+      "optionen": [
+        "Dass das Existenzminimum steuerfrei bleibt",
+        "Dass alle gleich viel Steuern zahlen",
+        "Dass Firmen weniger zahlen",
+        "Dass Sparen belohnt wird"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das verlangt das Bundesverfassungsgericht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei zusammen veranlagten Ehepaaren?",
+      "art": "mc",
+      "optionen": [
+        "Es gibt keinen Freibetrag",
+        "Der halbe Betrag",
+        "Der doppelte Betrag",
+        "Ein fester Bonus"
+      ],
+      "richtig": 2,
+      "erklaerung": "Jeder Partner bringt seinen Freibetrag ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Grundfreibetrag bleibt seit Jahrzehnten unverändert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er wird regelmäßig angehoben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Grundfreibetrag hält das Existenzminimum steuerfrei.",
+        "Er wird regelmäßig an steigende Preise angepasst.",
+        "Bei Zusammenveranlagung gilt der doppelte Betrag.",
+        "Erst Einkommen darüber wird besteuert."
+      ]
+    }
+  ]
+}
