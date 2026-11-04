@@ -1,0 +1,127 @@
+{
+  "id": "geld-b082-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie sparst du Bankgebühren?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherinformationen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bankgebuehren",
+    "girokonto",
+    "vergleich"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kontoführung, Karte, Überweisung auf Papier.",
+        "Manche zahlen im Jahr über hundert Euro an ihre Bank, ohne es zu merken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst den Überblick",
+      "absaetze": [
+        "Banken müssen dir einmal im Jahr eine Übersicht über alle gezahlten Entgelte schicken. Schau sie dir genau an.",
+        "Oft summieren sich Kontoführungsgebühr, Kartengebühr und Kosten für einzelne Buchungen. Manche Gebühren entstehen nur durch Gewohnheiten, etwa Papierüberweisungen oder Abhebungen an fremden Automaten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vergleichen lohnt sich",
+      "absaetze": [
+        "Die Preise für Girokonten unterscheiden sich stark. Es gibt gesetzlich geregelte Vergleichswebseiten, die Kontomodelle übersichtlich gegenüberstellen.",
+        "Prüfe auch das passende Modell bei deiner eigenen Bank. Manchmal ist ein anderes Kontomodell günstiger, ohne dass du wechseln musst."
+      ],
+      "merke": "Kontomodelle zu vergleichen, kann viel Geld sparen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wechseln ist einfacher geworden",
+      "absaetze": [
+        "Banken müssen beim Kontowechsel helfen. Die neue Bank informiert auf Wunsch Arbeitgeber und Vertragspartner über die neue Kontoverbindung.",
+        "Hat deine Bank Gebühren ohne deine ausdrückliche Zustimmung eingeführt oder erhöht, kannst du sie unter Umständen zurückfordern. Die Verbraucherzentralen bieten dazu Informationen und Musterbriefe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was muss dir die Bank einmal im Jahr schicken?",
+      "art": "mc",
+      "optionen": [
+        "Eine Übersicht über gezahlte Entgelte",
+        "Eine Geburtstagskarte",
+        "Einen Kredit",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schau sie dir genau an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entstehen oft unnötige Gebühren?",
+      "art": "mc",
+      "optionen": [
+        "Papierüberweisungen und fremde Automaten",
+        "Online-Banking",
+        "Kontoauszüge lesen",
+        "Sparen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gewohnheiten zu ändern, spart Geld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft beim Vergleichen?",
+      "art": "mc",
+      "optionen": [
+        "Gesetzlich geregelte Vergleichswebseiten",
+        "Zufällige Werbung",
+        "Gerüchte",
+        "Nur der Ruf der Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stellen Kontomodelle gegenüber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Banken müssen beim Kontowechsel helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die neue Bank informiert auf Wunsch Vertragspartner."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die jährliche Entgeltübersicht prüfen.",
+        "Gewohnheiten können Gebühren verursachen.",
+        "Kontomodelle vergleichen.",
+        "Ein Wechsel ist einfacher geworden."
+      ]
+    }
+  ]
+}

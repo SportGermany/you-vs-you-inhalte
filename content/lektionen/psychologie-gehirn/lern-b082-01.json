@@ -1,0 +1,121 @@
+{
+  "id": "lern-b082-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie erkennst du Falschmeldungen im Netz?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "falschmeldungen",
+    "medienkompetenz",
+    "quellen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein empörender Beitrag, tausendfach geteilt.",
+        "Doch stimmt das überhaupt, was da steht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst innehalten",
+      "absaetze": [
+        "Falschmeldungen sind oft so gemacht, dass sie starke Gefühle auslösen, etwa Wut oder Angst. Dann teilen wir sie schneller, ohne nachzudenken.",
+        "Wenn ein Beitrag dich sehr aufregt, ist das ein guter Moment, kurz innezuhalten und zu prüfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Quer lesen",
+      "absaetze": [
+        "Profis beim Faktencheck lesen nicht nur den Beitrag selbst. Sie öffnen neue Fenster und schauen, was andere Quellen über den Absender und die Behauptung sagen. Das nennt man Querlesen.",
+        "Prüfe, wer hinter einer Seite steckt, ob es ein Impressum gibt und von wann die Meldung ist. Alte Nachrichten werden oft als neu verbreitet."
+      ],
+      "merke": "Querlesen in anderen Quellen entlarvt viele Falschmeldungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bilder und Faktenchecks",
+      "absaetze": [
+        "Bilder werden oft aus dem Zusammenhang gerissen. Mit einer umgekehrten Bildersuche findest du heraus, wo und wann ein Foto zuerst auftauchte.",
+        "Viele Medien und Organisationen betreiben Faktencheck-Angebote. Ein Blick dort hilft oft schnell weiter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum verbreiten sich Falschmeldungen oft schnell?",
+      "art": "mc",
+      "optionen": [
+        "Sie lösen starke Gefühle aus",
+        "Sie sind besonders langweilig",
+        "Sie sind immer lang",
+        "Sie haben keine Bilder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann teilen wir schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Querlesen?",
+      "art": "mc",
+      "optionen": [
+        "Prüfen, was andere Quellen sagen",
+        "Den Text rückwärts lesen",
+        "Nur die Überschrift lesen",
+        "Den Beitrag sofort teilen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So arbeiten Profis beim Faktencheck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie findest du die Herkunft eines Fotos?",
+      "art": "mc",
+      "optionen": [
+        "Mit einer umgekehrten Bildersuche",
+        "Durch Vergrößern",
+        "Durch Ausdrucken",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie zeigt, wo es zuerst auftauchte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alte Nachrichten werden manchmal als neu verbreitet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb lohnt der Blick aufs Datum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Starke Gefühle sind ein Warnsignal.",
+        "Quer in anderen Quellen nachlesen.",
+        "Absender, Impressum und Datum prüfen.",
+        "Bilder per Rückwärtssuche prüfen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "supp-b082-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Nattokinase zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nattokinase",
+    "blutgerinnung",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nattokinase wird als natürlicher Schutz für Herz und Gefäße beworben.",
+        "Doch das Enzym ist nicht so harmlos, wie es klingt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Enzym aus fermentiertem Soja",
+      "absaetze": [
+        "Natto ist ein japanisches Gericht aus fermentierten Sojabohnen. Bei der Fermentation entsteht das Enzym Nattokinase.",
+        "In Laborversuchen kann es Blutgerinnsel auflösen. Daher wird es in Kapseln für bessere Durchblutung und gesunde Gefäße verkauft."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung sagt",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass Nattokinase Blutdruck oder Gerinnungswerte beeinflussen könnte. Die Ergebnisse sind aber widersprüchlich.",
+        "Dass Nattokinase Herzinfarkte oder Schlaganfälle verhindert, ist nicht belegt."
+      ],
+      "merke": "Ein Schutz vor Herzinfarkt durch Nattokinase ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Risiko Blutungen",
+      "absaetze": [
+        "Gerade die mögliche Wirkung auf die Gerinnung kann gefährlich sein. Zusammen mit blutverdünnenden Medikamenten steigt das Risiko für Blutungen.",
+        "Vor Operationen kann das Enzym ebenfalls problematisch sein. Herz- und Gefäßkrankheiten gehören in ärztliche Behandlung, nicht in Selbstversuche."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht zusammen mit blutverdünnenden Medikamenten ohne ärztlichen Rat verwenden.",
+        "Vor Operationen ärztlich besprechen.",
+        "In Schwangerschaft und Stillzeit nicht verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus stammt Nattokinase?",
+      "art": "mc",
+      "optionen": [
+        "Aus fermentierten Sojabohnen",
+        "Aus Fischöl",
+        "Aus Kuhmilch",
+        "Aus Algen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gericht heißt Natto."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Schutz vor Herzinfarkt belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, eindeutig",
+        "Ja, für alle",
+        "Ja, bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind klein und widersprüchlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Risiko besteht mit Blutverdünnern?",
+      "art": "mc",
+      "optionen": [
+        "Erhöhte Blutungsgefahr",
+        "Mehr Haarwuchs",
+        "Bessere Sehkraft",
+        "Kein Risiko"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Enzym kann die Gerinnung beeinflussen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor Operationen kann Nattokinase problematisch sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wegen der Wirkung auf die Gerinnung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nattokinase stammt aus fermentiertem Soja.",
+        "Eine Schutzwirkung für Herz und Gefäße ist nicht belegt.",
+        "Sie kann das Blutungsrisiko erhöhen.",
+        "Herzkrankheiten gehören in ärztliche Behandlung."
+      ]
+    }
+  ]
+}

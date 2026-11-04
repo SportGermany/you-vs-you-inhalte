@@ -1,0 +1,121 @@
+{
+  "id": "tech-b082-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie erkennt ein Handy deinen Fingerabdruck?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Biometrie",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fingerabdrucksensor",
+    "biometrie",
+    "smartphone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kurzer Druck mit dem Daumen, und das Handy ist entsperrt.",
+        "In dem kleinen Sensor steckt erstaunlich viel Technik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rillen und Täler",
+      "absaetze": [
+        "Jeder Fingerabdruck hat ein einzigartiges Muster aus Rillen und Tälern. Der Sensor erfasst dieses Muster.",
+        "Viele Sensoren arbeiten kapazitiv. Winzige Elektroden messen, wo die Haut aufliegt und wo nicht. Die Rillen berühren den Sensor, die Täler nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unter dem Display",
+      "absaetze": [
+        "Bei vielen modernen Handys sitzt der Sensor unter dem Bildschirm. Optische Sensoren beleuchten den Finger und fotografieren ihn von unten.",
+        "Ultraschallsensoren senden Schallwellen aus und messen das Echo. So entsteht ein dreidimensionales Bild, das schwerer zu fälschen ist."
+      ],
+      "merke": "Moderne Sensoren arbeiten mit Strom, Licht oder Ultraschall."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was gespeichert wird",
+      "absaetze": [
+        "Das Handy speichert meist kein Foto deines Fingerabdrucks. Es berechnet daraus typische Merkmale, etwa wo Linien enden oder sich verzweigen.",
+        "Diese Daten liegen in einem besonders geschützten Bereich des Chips. Trotzdem lohnt sich eine zusätzliche PIN. Einen Fingerabdruck kann man nicht ändern wie ein Passwort."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie arbeiten viele Fingerabdrucksensoren?",
+      "art": "mc",
+      "optionen": [
+        "Kapazitiv mit winzigen Elektroden",
+        "Mit Wärme allein",
+        "Mit Geruch",
+        "Mit Ton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie messen, wo die Haut aufliegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sensoren erzeugen ein dreidimensionales Bild?",
+      "art": "mc",
+      "optionen": [
+        "Ultraschallsensoren",
+        "Einfache Lichtschranken",
+        "Thermometer",
+        "Mikrofone"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist schwerer zu fälschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was speichert das Handy meist?",
+      "art": "mc",
+      "optionen": [
+        "Berechnete typische Merkmale",
+        "Ein Foto des ganzen Fingers",
+        "Den Fingerabdruck in der Cloud",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "In einem geschützten Bereich des Chips."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einen Fingerabdruck kann man ändern wie ein Passwort.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Deshalb lohnt sich eine zusätzliche PIN."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fingerabdrücke haben einzigartige Muster.",
+        "Sensoren nutzen Strom, Licht oder Ultraschall.",
+        "Gespeichert werden berechnete Merkmale.",
+        "Eine zusätzliche PIN bleibt sinnvoll."
+      ]
+    }
+  ]
+}

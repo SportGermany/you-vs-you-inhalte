@@ -1,0 +1,121 @@
+{
+  "id": "haus-b082-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bekommst du Kaugummi aus der Kleidung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kaugummi",
+    "flecken",
+    "kleidung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hingesetzt, aufgestanden, und schon klebt Kaugummi an der Hose.",
+        "Mit Kälte bekommst du ihn meist gut wieder ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst einfrieren",
+      "absaetze": [
+        "Kaugummi wird bei Kälte hart und spröde. Leg das Kleidungsstück in einer Tüte für einige Stunden ins Gefrierfach. Alternativ hilft ein Eiswürfel in einem Beutel, den du auf den Kaugummi drückst.",
+        "Ist der Kaugummi hart, kannst du ihn mit einem stumpfen Messer oder den Fingernägeln vorsichtig abbrechen."
+      ],
+      "merke": "Kälte macht Kaugummi hart, dann lässt er sich abbrechen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reste lösen",
+      "absaetze": [
+        "Kleine Reste kannst du mit etwas Speiseöl einreiben. Das Fett macht den Kaugummi geschmeidig, er lässt sich dann abreiben.",
+        "Danach musst du das Öl entfernen. Gib etwas Spülmittel auf die Stelle, reibe es ein und wasche das Teil anschließend normal."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du vermeiden solltest",
+      "absaetze": [
+        "Reibe nicht kräftig an weichem Kaugummi. Er drückt sich sonst nur tiefer in die Fasern.",
+        "Bei empfindlichen Stoffen wie Seide oder Wolle probiere Hausmittel erst an einer unauffälligen Stelle. Für teure Kleidung lohnt sich die Reinigung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft zuerst gegen Kaugummi auf Kleidung?",
+      "art": "mc",
+      "optionen": [
+        "Kälte, etwa im Gefrierfach",
+        "Heißes Wasser",
+        "Kräftiges Reiben",
+        "Bügeln ohne Schutz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wird der Kaugummi hart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit kannst du kleine Reste lösen?",
+      "art": "mc",
+      "optionen": [
+        "Mit etwas Speiseöl",
+        "Mit Zucker",
+        "Mit Salz",
+        "Mit Mehl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach Spülmittel und waschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei weichem Kaugummi vermeiden?",
+      "art": "mc",
+      "optionen": [
+        "Kräftiges Reiben",
+        "Kühlen",
+        "Abwarten",
+        "Vorsichtiges Abbrechen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er drückt sich sonst tiefer in die Fasern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei empfindlichen Stoffen solltest du Hausmittel erst testen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. An einer unauffälligen Stelle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kälte macht Kaugummi hart.",
+        "Dann vorsichtig abbrechen.",
+        "Reste mit Öl lösen, danach Spülmittel.",
+        "Nicht reiben, empfindliche Stoffe erst testen."
+      ]
+    }
+  ]
+}

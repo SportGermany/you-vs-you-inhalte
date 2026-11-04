@@ -1,0 +1,125 @@
+{
+  "id": "ern-b082-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was unterscheidet Bulgur und Couscous?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bulgur",
+    "couscous",
+    "weizen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beide sind klein, gelblich und schnell gar.",
+        "Trotzdem sind Bulgur und Couscous verschiedene Lebensmittel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bulgur: geschroteter Weizen",
+      "absaetze": [
+        "Bulgur besteht aus Weizenkörnern, die gekocht, getrocknet und dann grob geschrotet werden. Er ist in der türkischen und arabischen Küche weit verbreitet, etwa im Salat Taboulé.",
+        "Weil das ganze Korn verarbeitet wird, ist Bulgur meist ein Vollkornprodukt. Er liefert Ballaststoffe und Mineralstoffe."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Couscous: gerollter Grieß",
+      "absaetze": [
+        "Couscous wird aus Hartweizengrieß hergestellt. Der Grieß wird befeuchtet und zu kleinen Kügelchen gerollt. Er stammt aus der nordafrikanischen Küche.",
+        "Normaler Couscous enthält weniger Ballaststoffe als Bulgur. Es gibt aber auch Vollkorn-Couscous."
+      ],
+      "merke": "Bulgur ist meist Vollkorn, Couscous nur als Vollkornvariante.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell in der Küche",
+      "absaetze": [
+        "Beide Produkte sind vorgegart. Couscous musst du meist nur mit heißem Wasser übergießen und quellen lassen. Bulgur wird kurz gekocht oder ebenfalls eingeweicht.",
+        "Beide enthalten Gluten. Für Menschen mit Zöliakie sind sie deshalb nicht geeignet."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Bulgur?",
+      "art": "mc",
+      "optionen": [
+        "Aus geschrotetem, vorgekochtem Weizen",
+        "Aus Reis",
+        "Aus Mais",
+        "Aus Kartoffeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist meist ein Vollkornprodukt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Couscous gemacht?",
+      "art": "mc",
+      "optionen": [
+        "Aus Hartweizengrieß",
+        "Aus Hirse",
+        "Aus Buchweizen",
+        "Aus Linsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Grieß wird zu Kügelchen gerollt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches der beiden enthält meist mehr Ballaststoffe?",
+      "art": "mc",
+      "optionen": [
+        "Bulgur",
+        "Normaler Couscous",
+        "Beide gleich",
+        "Keines"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt aber auch Vollkorn-Couscous."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bulgur und Couscous sind glutenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Beide werden aus Weizen hergestellt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bulgur ist geschroteter, vorgekochter Weizen.",
+        "Couscous besteht aus gerolltem Hartweizengrieß.",
+        "Bulgur ist meist ballaststoffreicher.",
+        "Beide enthalten Gluten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "welt-b082-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wie wurde die Cholera in Europa besiegt?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Infektionskrankheiten",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebendiges Museum Online",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "cholera",
+    "hygiene",
+    "trinkwasser"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im 19. Jahrhundert fürchteten die Menschen in Europas Städten eine Krankheit besonders.",
+        "Die Cholera tötete oft innerhalb weniger Tage."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tod durch verunreinigtes Wasser",
+      "absaetze": [
+        "Die Cholera wird durch Bakterien ausgelöst, die über verunreinigtes Wasser übertragen werden. Sie verursacht heftigen Durchfall. Der Körper verliert so viel Flüssigkeit, dass Betroffene austrocknen.",
+        "Im 19. Jahrhundert zogen mehrere Cholera-Wellen über die Welt. In engen Städten ohne Abwassersystem breitete sie sich rasant aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Karte und ein Bakterium",
+      "absaetze": [
+        "1854 untersuchte der Arzt John Snow einen Ausbruch in London. Er trug die Todesfälle auf einer Karte ein. Sie häuften sich um eine bestimmte Wasserpumpe. Snow ließ ihren Griff abmontieren.",
+        "1884 beschrieb der deutsche Forscher Robert Koch den Erreger. Damit war klar, dass die Krankheit über Wasser übertragen wird."
+      ],
+      "merke": "John Snow erkannte, dass verunreinigtes Wasser die Cholera verbreitet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Saubere Städte",
+      "absaetze": [
+        "1892 starben in Hamburg Tausende Menschen an der Cholera. Das Trinkwasser kam dort ungefiltert aus der Elbe. Im benachbarten Altona, das sein Wasser filterte, gab es kaum Fälle.",
+        "Danach bauten viele Städte Kanalisation und Anlagen zur Wasserreinigung. In Regionen ohne sauberes Wasser ist die Cholera aber bis heute verbreitet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird die Cholera übertragen?",
+      "art": "mc",
+      "optionen": [
+        "Über verunreinigtes Wasser",
+        "Durch Mückenstiche",
+        "Durch Händeschütteln allein",
+        "Durch Sonnenlicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie verursacht heftigen Durchfall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entdeckte John Snow 1854?",
+      "art": "mc",
+      "optionen": [
+        "Fälle häuften sich um eine Wasserpumpe",
+        "Den Impfstoff",
+        "Das Penicillin",
+        "Die Mücke als Überträger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er nutzte dafür eine Karte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer beschrieb 1884 den Erreger?",
+      "art": "mc",
+      "optionen": [
+        "Robert Koch",
+        "Louis Pasteur",
+        "Marie Curie",
+        "Alexander Fleming"
+      ],
+      "richtig": 0,
+      "erklaerung": "Damit war die Übertragung über Wasser klar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In Hamburg kam das Trinkwasser 1892 ungefiltert aus der Elbe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Altona filterte sein Wasser und blieb weitgehend verschont."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cholera wird über verunreinigtes Wasser übertragen.",
+        "John Snow fand den Zusammenhang 1854.",
+        "Robert Koch beschrieb 1884 den Erreger.",
+        "Kanalisation und Wasserreinigung besiegten sie in Europa."
+      ]
+    }
+  ]
+}

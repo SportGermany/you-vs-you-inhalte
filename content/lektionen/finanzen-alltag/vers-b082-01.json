@@ -1,0 +1,121 @@
+{
+  "id": "vers-b082-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt, wenn beim Umzugshelfen etwas kaputtgeht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gefaelligkeitsschaden",
+    "haftpflicht",
+    "umzug"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hilfst einer Freundin beim Umzug, und plötzlich rutscht dir der Fernseher aus den Händen.",
+        "Wer kommt jetzt für den Schaden auf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schaden aus Gefälligkeit",
+      "absaetze": [
+        "Wenn du jemandem unentgeltlich hilfst, spricht man von einer Gefälligkeit. Geht dabei etwas kaputt, ist das ein Gefälligkeitsschaden.",
+        "Gerichte gehen oft davon aus, dass Helfer bei leichter Unachtsamkeit nicht haften sollen. Wer aus Freundschaft hilft, soll nicht für jedes Missgeschick zahlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die private Haftpflicht prüfen",
+      "absaetze": [
+        "Viele private Haftpflichtversicherungen zahlen trotzdem für Gefälligkeitsschäden. In älteren oder günstigen Verträgen ist das aber nicht immer enthalten.",
+        "Schau in deine Versicherungsbedingungen. Achte auch darauf, ob geliehene oder gemietete Sachen mitversichert sind. Sie sind häufig ausgeschlossen oder nur begrenzt abgedeckt."
+      ],
+      "merke": "Gefälligkeitsschäden sind nicht in jeder Haftpflicht automatisch enthalten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun solltest",
+      "absaetze": [
+        "Melde einen Schaden zügig deiner Versicherung. Beschreibe ehrlich, wie es passiert ist, und mach Fotos.",
+        "Vor einem Umzug lohnt sich ein Blick in die eigenen Verträge, besonders wenn wertvolle Dinge getragen werden. Professionelle Umzugsfirmen haften selbst für Schäden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Gefälligkeitsschaden?",
+      "art": "mc",
+      "optionen": [
+        "Ein Schaden bei unentgeltlicher Hilfe",
+        "Ein Schaden durch Sturm",
+        "Ein Schaden am eigenen Auto",
+        "Ein Diebstahl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa beim Umzugshelfen unter Freunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sehen Gerichte leichte Unachtsamkeit bei Gefälligkeiten oft?",
+      "art": "mc",
+      "optionen": [
+        "Helfer sollen dafür meist nicht haften",
+        "Helfer haften immer voll",
+        "Der Staat zahlt",
+        "Der Vermieter zahlt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wer aus Freundschaft hilft, soll nicht für jedes Missgeschick zahlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist in vielen Haftpflichtverträgen oft ausgeschlossen?",
+      "art": "mc",
+      "optionen": [
+        "Geliehene oder gemietete Sachen",
+        "Schäden an fremden Autos im Straßenverkehr allein",
+        "Alle Schäden",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oder nur begrenzt abgedeckt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Professionelle Umzugsfirmen haften selbst für Schäden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei Freunden hängt es von der Haftpflicht ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei unentgeltlicher Hilfe spricht man von Gefälligkeit.",
+        "Für leichte Unachtsamkeit haften Helfer oft nicht.",
+        "Viele Haftpflichtverträge decken Gefälligkeitsschäden.",
+        "Vor dem Umzug den eigenen Vertrag prüfen."
+      ]
+    }
+  ]
+}

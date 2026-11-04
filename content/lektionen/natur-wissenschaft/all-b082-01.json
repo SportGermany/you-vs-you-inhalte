@@ -1,0 +1,121 @@
+{
+  "id": "all-b082-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was hat das Hubble-Teleskop entdeckt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hubble",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hubble",
+    "teleskop",
+    "weltraum"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seit über 35 Jahren kreist ein Teleskop um die Erde.",
+        "Seine Bilder haben unser Bild vom Universum verändert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein holpriger Start",
+      "absaetze": [
+        "Das Weltraumteleskop Hubble wurde 1990 mit einem Spaceshuttle ins All gebracht. Es ist nach dem Astronomen Edwin Hubble benannt.",
+        "Die ersten Bilder waren unscharf. Der Hauptspiegel war minimal falsch geschliffen. 1993 bauten Astronauten eine Korrekturoptik ein. Danach lieferte Hubble gestochen scharfe Bilder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tiefe Blicke ins All",
+      "absaetze": [
+        "1995 richteten Forschende Hubble tagelang auf einen scheinbar leeren Himmelsfleck. Auf dem Bild erschienen Tausende ferne Galaxien.",
+        "Hubble half auch, das Alter des Universums genauer zu bestimmen. Messungen mit Hubble trugen zur Entdeckung bei, dass sich das Universum immer schneller ausdehnt."
+      ],
+      "merke": "Hubble zeigte, wie voll das scheinbar leere All an Galaxien ist."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein langlebiges Teleskop",
+      "absaetze": [
+        "Astronauten besuchten Hubble mehrmals, um es zu reparieren und zu verbessern. Die letzte Mission fand 2009 statt.",
+        "Hubble arbeitet bis heute, zusammen mit dem neueren James-Webb-Teleskop. Beide ergänzen sich, weil sie verschiedene Arten von Licht beobachten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde Hubble ins All gebracht?",
+      "art": "mc",
+      "optionen": [
+        "1990",
+        "1969",
+        "2010",
+        "2021"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit einem Spaceshuttle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum waren die ersten Bilder unscharf?",
+      "art": "mc",
+      "optionen": [
+        "Der Hauptspiegel war falsch geschliffen",
+        "Es war zu weit weg",
+        "Die Kamera fehlte",
+        "Es war nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "1993 wurde das korrigiert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte das Bild eines scheinbar leeren Himmelsflecks 1995?",
+      "art": "mc",
+      "optionen": [
+        "Tausende ferne Galaxien",
+        "Gar nichts",
+        "Nur einen Stern",
+        "Den Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das All ist voller Galaxien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hubble arbeitet heute zusammen mit dem James-Webb-Teleskop.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Beide ergänzen sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hubble startete 1990.",
+        "Ein Spiegelfehler wurde 1993 behoben.",
+        "Es zeigte Tausende ferne Galaxien.",
+        "Es half, die Ausdehnung des Universums zu verstehen."
+      ]
+    }
+  ]
+}

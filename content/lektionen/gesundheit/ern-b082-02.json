@@ -1,0 +1,124 @@
+{
+  "id": "ern-b082-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in der Kiwi?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kiwi",
+    "vitamin-c",
+    "obst"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Außen braun und haarig, innen leuchtend grün.",
+        "Die Kiwi ist klein, aber reich an Vitamin C."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Beere aus China",
+      "absaetze": [
+        "Die Kiwi stammt ursprünglich aus China. Ihren heutigen Namen bekam sie in Neuseeland, nach dem gleichnamigen Vogel. Botanisch ist sie eine Beere.",
+        "Neben der grünen Kiwi gibt es gelbe Sorten. Sie sind süßer und haben eine glattere Schale, die man mitessen kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in ihr steckt",
+      "absaetze": [
+        "Kiwis enthalten viel Vitamin C. Schon eine große Kiwi kann einen guten Teil des Tagesbedarfs decken. Dazu kommen Ballaststoffe, Kalium und Vitamin K.",
+        "Einige Studien deuten darauf hin, dass zwei Kiwis am Tag bei Verstopfung helfen könnten."
+      ],
+      "merke": "Kiwis sind reich an Vitamin C und Ballaststoffen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Enzym und eine Allergie",
+      "absaetze": [
+        "Kiwis enthalten das Enzym Actinidin. Es spaltet Eiweiß. Deshalb wird Quark mit frischer Kiwi bitter, und Gelatine wird nicht fest.",
+        "Kiwi gehört zu den häufigeren Auslösern von Lebensmittelallergien, auch bei Kindern. Kribbeln im Mund oder Schwellungen sind ein Warnzeichen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die Kiwi ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Aus China",
+        "Aus Neuseeland",
+        "Aus Brasilien",
+        "Aus Spanien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Namen bekam sie in Neuseeland."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten Kiwis reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Fett",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu Ballaststoffe und Kalium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird Quark mit frischer Kiwi bitter?",
+      "art": "mc",
+      "optionen": [
+        "Ein Enzym spaltet das Eiweiß",
+        "Die Kiwi ist zu sauer",
+        "Der Quark ist alt",
+        "Zu viel Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Enzym heißt Actinidin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kiwi kann Allergien auslösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch bei Kindern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kiwi stammt aus China.",
+        "Sie ist reich an Vitamin C.",
+        "Das Enzym Actinidin spaltet Eiweiß.",
+        "Kiwi kann Allergien auslösen."
+      ]
+    }
+  ]
+}
