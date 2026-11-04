@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b074-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist eine diabetische Ketoazidose?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ketoazidose",
+    "diabetes",
+    "notfall"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Durst, Übelkeit und ein Atem, der seltsam fruchtig riecht.",
+        "Das kann ein lebensbedrohlicher Notfall bei Diabetes sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn Insulin fehlt",
+      "absaetze": [
+        "Ohne Insulin kann der Körper Zucker kaum als Energie nutzen. Er baut deshalb in großem Umfang Fett ab. Dabei entstehen Ketonkörper.",
+        "In großen Mengen machen diese Stoffe das Blut sauer. Das nennt man Ketoazidose. Sie betrifft vor allem Menschen mit Typ-1-Diabetes."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen erkennen",
+      "absaetze": [
+        "Typisch sind starker Durst, viel Urin, Übelkeit, Erbrechen und Bauchschmerzen. Der Atem kann nach Aceton oder Obst riechen. Manche atmen sehr tief und schnell.",
+        "Unbehandelt führt die Ketoazidose zu Benommenheit bis zur Bewusstlosigkeit. Sie ist ein Notfall und muss im Krankenhaus behandelt werden."
+      ],
+      "merke": "Eine Ketoazidose ist ein Notfall.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie es dazu kommt",
+      "absaetze": [
+        "Manchmal ist eine Ketoazidose das erste Zeichen eines bisher unerkannten Typ-1-Diabetes. Das passiert auch bei Kindern.",
+        "Bei bekanntem Diabetes sind häufige Auslöser vergessenes Insulin, eine defekte Insulinpumpe oder ein Infekt. Die leichte Ketose bei einer kohlenhydratarmen Diät ist davon zu unterscheiden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fehlt bei einer diabetischen Ketoazidose?",
+      "art": "mc",
+      "optionen": [
+        "Insulin",
+        "Eisen",
+        "Vitamin C",
+        "Kalzium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper baut deshalb Fett ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach kann der Atem riechen?",
+      "art": "mc",
+      "optionen": [
+        "Nach Aceton oder Obst",
+        "Nach Pfefferminz",
+        "Nach Rauch",
+        "Nach gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist ein typisches Warnzeichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist vor allem betroffen?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Typ-1-Diabetes",
+        "Nur Sportler",
+        "Nur ältere Menschen ohne Diabetes",
+        "Nur Babys"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kann auch das erste Zeichen eines Diabetes sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Ketoazidose ist harmlos und geht von allein vorbei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist lebensbedrohlich und muss im Krankenhaus behandelt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ohne Insulin entstehen viele Ketonkörper.",
+        "Sie machen das Blut sauer.",
+        "Durst, Übelkeit und fruchtiger Atem sind Warnzeichen.",
+        "Eine Ketoazidose ist ein Notfall.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

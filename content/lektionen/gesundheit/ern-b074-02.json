@@ -1,0 +1,130 @@
+{
+  "id": "ern-b074-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Feigen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "feigen",
+    "trockenobst",
+    "ballaststoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Feigen gehören zu den ältesten Kulturpflanzen der Menschheit.",
+        "Frisch sind sie zart und saftig, getrocknet süß und zäh."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frisch und getrocknet",
+      "absaetze": [
+        "Frische Feigen bestehen zum großen Teil aus Wasser. Sie sind empfindlich und halten nur wenige Tage.",
+        "Getrocknete Feigen sind viel länger haltbar. Beim Trocknen verliert die Frucht Wasser, der Zucker wird konzentriert. Eine Handvoll getrocknete Feigen enthält deshalb deutlich mehr Zucker als eine frische Frucht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in Feigen steckt",
+      "absaetze": [
+        "Feigen liefern viele Ballaststoffe, vor allem durch ihre winzigen Kerne. Getrocknet enthalten sie für Obst recht viel Kalzium, Kalium und Magnesium.",
+        "Die Ballaststoffe können die Verdauung anregen. Wer nicht viele davon gewohnt ist, sollte mit kleinen Mengen starten und genug trinken."
+      ],
+      "merke": "Getrocknete Feigen sind reich an Ballaststoffen, aber auch an Zucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Küche",
+      "absaetze": [
+        "Frische Feigen passen zu Käse, in Salate oder einfach pur. Die Schale kann mitgegessen werden.",
+        "Getrocknete Feigen eignen sich als süße Zutat für Müsli oder Gebäck. Als Snack reichen wenige Stück."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "In jeder Feige steckt eine tote Wespe.",
+      "urteil": "teils",
+      "erklaerung": "Manche Feigensorten werden von winzigen Feigenwespen bestäubt, die in der Frucht sterben. Die Feige baut sie dabei vollständig ab. Viele Feigen im Handel stammen aber von Sorten, die ganz ohne Bestäubung Früchte bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Trocknen von Feigen?",
+      "art": "mc",
+      "optionen": [
+        "Der Zucker wird konzentriert",
+        "Der Zucker verschwindet",
+        "Sie werden zu Gemüse",
+        "Sie verlieren alle Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Getrocknete Feigen sind deshalb sehr süß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommen viele Ballaststoffe der Feige?",
+      "art": "mc",
+      "optionen": [
+        "Aus den winzigen Kernen",
+        "Aus dem Stiel",
+        "Aus dem Saft",
+        "Aus dem Zuckerguss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie können die Verdauung anregen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten getrocknete Feigen für Obst recht viel?",
+      "art": "mc",
+      "optionen": [
+        "Kalzium",
+        "Vitamin B12",
+        "Koffein",
+        "Omega-3-Fette"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Kalium und Magnesium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In jeder Feige im Handel steckt eine Wespe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Viele Sorten bilden Früchte ganz ohne Bestäubung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Getrocknete Feigen enthalten viel Zucker.",
+        "Feigen liefern viele Ballaststoffe.",
+        "Getrocknet enthalten sie recht viel Kalzium.",
+        "Viele Sorten brauchen keine Feigenwespe."
+      ]
+    }
+  ]
+}

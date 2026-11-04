@@ -1,0 +1,140 @@
+{
+  "id": "supp-b074-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Vitalpilz-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pilze und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitalpilze",
+    "reishi",
+    "shiitake"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Reishi, Chaga oder Löwenmähne: Pilzpulver liegen im Trend.",
+        "Beworben werden sie für Abwehrkräfte, Konzentration und mehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Vitalpilze sind",
+      "absaetze": [
+        "Als Vitalpilze werden Pilze bezeichnet, die in der traditionellen asiatischen Heilkunde verwendet werden. Bekannt sind etwa Reishi, Shiitake, Chaga und Löwenmähne.",
+        "Sie werden als Pulver, Kapseln oder Extrakte verkauft. Rechtlich sind sie meist Nahrungsergänzungsmittel, keine geprüften Arzneimittel."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung sagt",
+      "absaetze": [
+        "Pilze enthalten Ballaststoffe wie Beta-Glucane. Labor- und Tierversuche zeigen interessante Effekte auf das Immunsystem.",
+        "Studien am Menschen sind aber selten und klein. Einige deuten darauf hin, dass manche Pilzextrakte das Immunsystem beeinflussen könnten. Gesundheitliche Vorteile sind damit nicht belegt."
+      ],
+      "merke": "Eine Wirkung von Vitalpilzen beim Menschen ist nicht ausreichend belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht ohne Risiken",
+      "absaetze": [
+        "Roh oder nicht ausreichend gegarte Shiitake können einen juckenden, streifenförmigen Hautausschlag auslösen. Pilze aus unsicheren Quellen können Schadstoffe wie Schwermetalle enthalten.",
+        "Wer ernsthaft krank ist, sollte Pilzpräparate nicht anstelle einer Behandlung verwenden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Medikamenten zur Blutverdünnung oder zur Unterdrückung des Immunsystems vorher ärztlich beraten lassen.",
+        "In Schwangerschaft und Stillzeit nicht ohne Rücksprache verwenden.",
+        "Shiitake nur gut gegart essen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Pilze zählen zu den Vitalpilzen?",
+      "art": "mc",
+      "optionen": [
+        "Reishi und Shiitake",
+        "Fliegenpilz und Knollenblätterpilz",
+        "Hefe und Schimmel",
+        "Champignon aus der Dose"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Chaga und Löwenmähne gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist eine Wirkung beim Menschen belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nicht ausreichend",
+        "Sehr gut",
+        "Eindeutig für alle Krankheiten",
+        "Gar nicht untersucht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt vor allem Labor- und Tierversuche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was können rohe Shiitake auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Einen juckenden Hautausschlag",
+        "Bessere Sehkraft",
+        "Schnelleres Haarwachstum",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gut gegart sind sie unproblematisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vitalpilze sind in der Regel geprüfte Arzneimittel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist sind sie Nahrungsergänzungsmittel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitalpilze stammen aus der traditionellen asiatischen Heilkunde.",
+        "Belege beim Menschen fehlen weitgehend.",
+        "Rohe Shiitake können die Haut reizen.",
+        "Präparate ersetzen keine Behandlung."
+      ]
+    }
+  ]
+}

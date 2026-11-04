@@ -1,0 +1,127 @@
+{
+  "id": "steu-b074-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Warum gibt es eine Schaumweinsteuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbrauchsteuern",
+      "herausgeber": "Generalzolldirektion (Zoll)",
+      "url": "https://www.zoll.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schaumweinsteuer",
+    "verbrauchsteuer",
+    "sekt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit jeder Flasche Sekt zahlst du auch eine Steuer.",
+        "Eingeführt wurde sie einst für Kriegsschiffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuer für die Flotte",
+      "absaetze": [
+        "Die Schaumweinsteuer wurde 1902 im Deutschen Kaiserreich eingeführt. Mit dem Geld sollte die kaiserliche Kriegsflotte ausgebaut werden.",
+        "Die Flotte gibt es längst nicht mehr, die Steuer schon. Sie wurde 1933 abgeschafft und 1939 wieder eingeführt."
+      ],
+      "merke": "Die Schaumweinsteuer finanzierte ursprünglich die kaiserliche Flotte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel sie ausmacht",
+      "absaetze": [
+        "Für eine normale Flasche Sekt mit 0,75 Litern beträgt die Steuer gut einen Euro. Darauf kommt noch die Mehrwertsteuer.",
+        "Die Steuer gilt für Schaumweine wie Sekt, Champagner oder Prosecco mit Korken und Drahtbügel. Perlwein mit weniger Druck ist davon ausgenommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Verbrauchsteuer",
+      "absaetze": [
+        "Die Schaumweinsteuer ist eine Verbrauchsteuer. Erhoben wird sie vom Zoll, die Einnahmen gehen an den Bund. Hersteller und Händler führen sie ab, der Preis wird an die Kundschaft weitergegeben.",
+        "Für stillen Wein gibt es in Deutschland übrigens keine Steuer außer der Mehrwertsteuer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wurde die Schaumweinsteuer 1902 eingeführt?",
+      "art": "mc",
+      "optionen": [
+        "Für den Ausbau der Kriegsflotte",
+        "Für den Bau von Schulen",
+        "Für die Rente",
+        "Für den Straßenbau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Flotte gibt es nicht mehr, die Steuer schon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Steuer etwa für eine 0,75-Liter-Flasche Sekt?",
+      "art": "mc",
+      "optionen": [
+        "Gut ein Euro",
+        "Zehn Cent",
+        "Zehn Euro",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommt die Mehrwertsteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erhebt die Schaumweinsteuer?",
+      "art": "mc",
+      "optionen": [
+        "Der Zoll",
+        "Die Gemeinde",
+        "Die Kirche",
+        "Die Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Einnahmen gehen an den Bund."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf stillen Wein gibt es in Deutschland eine eigene Weinsteuer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dort fällt nur die Mehrwertsteuer an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Schaumweinsteuer entstand 1902 für die Flotte.",
+        "Pro Flasche Sekt sind es gut ein Euro.",
+        "Der Zoll erhebt sie für den Bund.",
+        "Stiller Wein hat keine eigene Steuer."
+      ]
+    }
+  ]
+}

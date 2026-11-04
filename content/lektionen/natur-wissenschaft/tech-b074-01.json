@@ -1,0 +1,121 @@
+{
+  "id": "tech-b074-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Geigerzähler?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Strahlung messen",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "geigerzaehler",
+    "strahlung",
+    "messung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Klick, klick, klick: So klingt Radioaktivität im Film.",
+        "Das Geräusch stammt von einem Geigerzähler."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Rohr voller Gas",
+      "absaetze": [
+        "Herzstück ist das Geiger-Müller-Zählrohr. Es ist mit einem Gas gefüllt und hat in der Mitte einen Draht unter hoher elektrischer Spannung.",
+        "Entwickelt wurde es vom deutschen Physiker Hans Geiger, später gemeinsam mit Walther Müller."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Jedes Teilchen ein Klick",
+      "absaetze": [
+        "Trifft ionisierende Strahlung auf das Gas, schlägt sie Elektronen aus den Gasatomen. Diese werden zum Draht gezogen und lösen eine Lawine weiterer Elektronen aus.",
+        "So entsteht ein kurzer Stromstoß. Das Gerät zählt ihn oder macht ihn als Klick hörbar. Je mehr Klicks pro Minute, desto mehr Strahlung."
+      ],
+      "merke": "Jeder Treffer im Zählrohr erzeugt einen messbaren Stromstoß."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Strahlung ist überall",
+      "absaetze": [
+        "Ein Geigerzähler klickt auch ohne besondere Quelle. Es gibt immer eine natürliche Hintergrundstrahlung aus Gestein, Boden und dem Weltall.",
+        "Das Bundesamt für Strahlenschutz misst die Strahlung in Deutschland ständig an vielen Hundert Messstellen. Die Werte kannst du online ansehen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Herzstück eines Geigerzählers?",
+      "art": "mc",
+      "optionen": [
+        "Ein gasgefülltes Zählrohr",
+        "Ein Thermometer",
+        "Ein Magnet",
+        "Ein Lautsprecher allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es heißt Geiger-Müller-Zählrohr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erzeugt einen Klick?",
+      "art": "mc",
+      "optionen": [
+        "Ein Stromstoß, ausgelöst durch Strahlung",
+        "Ein Windstoß",
+        "Ein Lichtstrahl",
+        "Wärme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Strahlung löst eine Elektronenlawine aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum klickt ein Geigerzähler auch ohne besondere Quelle?",
+      "art": "mc",
+      "optionen": [
+        "Wegen der natürlichen Hintergrundstrahlung",
+        "Weil er kaputt ist",
+        "Wegen des Handyempfangs",
+        "Wegen Lärm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kommt aus Gestein, Boden und dem All."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mehr Klicks pro Minute bedeuten mehr Strahlung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Gerät zählt die Treffer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Geigerzähler nutzt ein gasgefülltes Zählrohr.",
+        "Strahlung löst darin Stromstöße aus.",
+        "Jeder Stromstoß wird gezählt oder hörbar.",
+        "Etwas Hintergrundstrahlung gibt es immer."
+      ]
+    }
+  ]
+}

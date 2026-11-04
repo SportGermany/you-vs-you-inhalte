@@ -1,0 +1,121 @@
+{
+  "id": "koer-b074-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Woher kommt Sodbrennen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sodbrennen",
+    "magensaeure",
+    "speiseroehre"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem üppigen Abendessen brennt es hinter dem Brustbein.",
+        "Das ist Magensäure, die dort nicht hingehört."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Säure am falschen Ort",
+      "absaetze": [
+        "Am Übergang von der Speiseröhre zum Magen sitzt ein Schließmuskel. Er verhindert normalerweise, dass Mageninhalt zurückfließt.",
+        "Schließt er nicht richtig, steigt Magensäure in die Speiseröhre auf. Ihre Schleimhaut ist darauf nicht vorbereitet. Es brennt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Auslöser",
+      "absaetze": [
+        "Große, fettreiche Mahlzeiten, Alkohol, Kaffee und Rauchen können Sodbrennen begünstigen. Auch Übergewicht und eine Schwangerschaft drücken auf den Magen.",
+        "Wer sich direkt nach dem Essen hinlegt, macht es der Säure leichter. Hilfreich kann sein, abends kleiner und früher zu essen und das Kopfende des Bettes etwas zu erhöhen."
+      ],
+      "merke": "Große Mahlzeiten und Hinlegen nach dem Essen begünstigen Sodbrennen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann abklären",
+      "absaetze": [
+        "Gelegentliches Sodbrennen ist meist harmlos. Tritt es häufig auf, kann eine Refluxkrankheit dahinterstecken. Die Speiseröhre kann sich dann entzünden.",
+        "Bei Schluckbeschwerden, ungewolltem Gewichtsverlust oder Erbrechen solltest du zum Arzt. Schmerzen in der Brust können auch vom Herzen kommen. Dann im Zweifel den Notruf wählen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verhindert normalerweise, dass Magensäure aufsteigt?",
+      "art": "mc",
+      "optionen": [
+        "Ein Schließmuskel am Mageneingang",
+        "Die Zunge",
+        "Die Lunge",
+        "Der Blinddarm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schließt er schlecht, kommt es zu Sodbrennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Sodbrennen begünstigen?",
+      "art": "mc",
+      "optionen": [
+        "Hinlegen direkt nach dem Essen",
+        "Ein Spaziergang nach dem Essen",
+        "Kleine Portionen",
+        "Viel Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Liegen fließt die Säure leichter zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei häufigem Sodbrennen dahinterstecken?",
+      "art": "mc",
+      "optionen": [
+        "Eine Refluxkrankheit",
+        "Eine Erkältung",
+        "Ein Sonnenbrand",
+        "Kurzsichtigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Speiseröhre kann sich entzünden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schmerzen in der Brust können auch vom Herzen kommen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Im Zweifel den Notruf wählen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Sodbrennen steigt Magensäure in die Speiseröhre.",
+        "Große Mahlzeiten und Liegen fördern es.",
+        "Häufiges Sodbrennen ärztlich abklären.",
+        "Brustschmerzen können auch vom Herzen kommen."
+      ]
+    }
+  ]
+}

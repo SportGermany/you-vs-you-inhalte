@@ -1,0 +1,127 @@
+{
+  "id": "vers-b074-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Welche Rechte hast du beim Kauf eines Gebrauchtwagens?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gebrauchtwagenkauf",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gebrauchtwagen",
+    "gewaehrleistung",
+    "kaufvertrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein paar Wochen nach dem Kauf leuchtet die Motorwarnlampe.",
+        "Ob du Ansprüche hast, hängt stark davon ab, bei wem du gekauft hast."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kauf beim Händler",
+      "absaetze": [
+        "Kaufst du bei einem Händler, hast du Anspruch auf Gewährleistung. Bei Gebrauchtwagen darf er sie auf ein Jahr verkürzen. Das muss aber ausdrücklich und gesondert vereinbart werden.",
+        "Zeigt sich ein Mangel im ersten Jahr, wird vermutet, dass er schon beim Kauf bestand. Dann muss der Händler das Gegenteil beweisen."
+      ],
+      "merke": "Beim Händler hast du mindestens ein Jahr Gewährleistung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kauf von privat",
+      "absaetze": [
+        "Bei einem Privatverkauf kann die Gewährleistung ausgeschlossen werden. Das steht oft als Formulierung wie gekauft wie gesehen im Vertrag.",
+        "Der Ausschluss gilt aber nicht für Mängel, die der Verkäufer bewusst verschwiegen hat. Auch was er ausdrücklich zugesichert hat, etwa unfallfrei, muss stimmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor dem Kauf prüfen",
+      "absaetze": [
+        "Mach eine Probefahrt und lass dir den Bericht der letzten Hauptuntersuchung zeigen. Vergleiche die Fahrzeug-Identifizierungsnummer im Fahrzeugschein mit der am Auto.",
+        "Schließ einen schriftlichen Kaufvertrag. Muster gibt es etwa beim ADAC. Notiere bekannte Schäden und den Kilometerstand. Im Zweifel hilft ein Gebrauchtwagencheck in einer Werkstatt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf wie viel darf ein Händler die Gewährleistung beim Gebrauchtwagen verkürzen?",
+      "art": "mc",
+      "optionen": [
+        "Auf ein Jahr",
+        "Auf eine Woche",
+        "Auf null",
+        "Auf einen Monat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das muss ausdrücklich vereinbart werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei einem Privatkauf?",
+      "art": "mc",
+      "optionen": [
+        "Die Gewährleistung kann ausgeschlossen werden",
+        "Es gibt immer fünf Jahre Garantie",
+        "Der Staat haftet",
+        "Ein Kaufvertrag ist verboten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verschwiegene Mängel sind davon aber nicht gedeckt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du am Auto mit den Papieren vergleichen?",
+      "art": "mc",
+      "optionen": [
+        "Die Fahrzeug-Identifizierungsnummer",
+        "Die Farbe der Sitze",
+        "Den Radiosender",
+        "Die Reifenmarke"
+      ],
+      "richtig": 0,
+      "erklaerung": "So stellst du sicher, dass Papiere und Auto zusammenpassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch beim Privatkauf muss eine Zusicherung wie unfallfrei stimmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Zugesichertes gilt trotz Gewährleistungsausschluss."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Händler gilt mindestens ein Jahr Gewährleistung.",
+        "Privat kann sie ausgeschlossen werden.",
+        "Verschwiegene Mängel sind nie ausgeschlossen.",
+        "Probefahrt, Papiere prüfen, schriftlich kaufen."
+      ]
+    }
+  ]
+}

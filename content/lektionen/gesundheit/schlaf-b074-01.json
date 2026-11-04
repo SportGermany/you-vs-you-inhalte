@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b074-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum wachst du morgens mit Kopfschmerzen auf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kopfschmerzen",
+    "aufwachen",
+    "schlafstoerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast geschlafen, aber der Kopf brummt schon beim Aufstehen.",
+        "Morgendliche Kopfschmerzen haben oft mit der Nacht zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Schlaf selbst als Auslöser",
+      "absaetze": [
+        "Zu wenig Schlaf kann Kopfschmerzen auslösen, aber auch deutlich zu viel. Ein unregelmäßiger Rhythmus, etwa am Wochenende, begünstigt sie ebenfalls.",
+        "Auch Alkohol am Abend kann zu Kopfschmerzen am Morgen führen. Wer viel Kaffee gewohnt ist, spürt morgens manchmal einen Koffeinentzug."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hinweis auf eine Schlafstörung",
+      "absaetze": [
+        "Wiederkehrende Kopfschmerzen beim Aufwachen können auf eine Schlafapnoe hindeuten. Dabei setzt die Atmung nachts immer wieder kurz aus. Lautes Schnarchen und Tagesmüdigkeit sind weitere Hinweise.",
+        "Auch nächtliches Zähneknirschen kann Kopf- und Kieferschmerzen am Morgen verursachen."
+      ],
+      "merke": "Häufige Morgenkopfschmerzen können auf eine Schlafapnoe hinweisen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann abklären",
+      "absaetze": [
+        "Wer häufig Schmerzmittel gegen Kopfschmerzen verwendet, kann dadurch selbst Kopfschmerzen bekommen. Fachleute nennen das Kopfschmerz durch Medikamentenübergebrauch.",
+        "Treten Morgenkopfschmerzen oft auf, lass sie ärztlich abklären. Bei neuen, sehr starken Kopfschmerzen oder Ausfällen wie Sehstörungen ruf sofort Hilfe."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Kopfschmerzen am Morgen begünstigen?",
+      "art": "mc",
+      "optionen": [
+        "Zu wenig oder deutlich zu viel Schlaf",
+        "Ein Glas Wasser am Abend",
+        "Ein dunkles Zimmer",
+        "Ein frisch bezogenes Bett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein unregelmäßiger Rhythmus spielt eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welche Schlafstörung können häufige Morgenkopfschmerzen hindeuten?",
+      "art": "mc",
+      "optionen": [
+        "Schlafapnoe",
+        "Klarträume",
+        "Schlafwandeln",
+        "Einschlafzuckungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lautes Schnarchen ist ein weiterer Hinweis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann häufiger Gebrauch von Schmerzmitteln auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Selbst Kopfschmerzen",
+        "Bessere Träume",
+        "Mehr Tiefschlaf",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das heißt Kopfschmerz durch Medikamentenübergebrauch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nächtliches Zähneknirschen kann morgens Kopfschmerzen verursachen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft schmerzt auch der Kiefer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zu wenig oder zu viel Schlaf kann Kopfschmerzen auslösen.",
+        "Auch Alkohol und Koffeinentzug spielen eine Rolle.",
+        "Schlafapnoe und Zähneknirschen sind mögliche Ursachen.",
+        "Häufige Morgenkopfschmerzen ärztlich abklären."
+      ]
+    }
+  ]
+}
