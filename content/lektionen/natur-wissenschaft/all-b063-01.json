@@ -1,0 +1,121 @@
+{
+  "id": "all-b063-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum steht der Polarstern immer im Norden?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sterne",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "polarstern",
+    "orientierung",
+    "sternenhimmel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Während sich alle Sterne über den Himmel drehen, scheint einer stillzustehen.",
+        "Seit Jahrhunderten hilft er Reisenden, den Norden zu finden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Über dem Nordpol",
+      "absaetze": [
+        "Die Erdachse zeigt fast genau auf den Polarstern. Wenn sich die Erde dreht, scheinen alle Sterne um diesen Punkt zu kreisen.",
+        "Der Polarstern selbst bewegt sich deshalb kaum. Er steht immer über dem Nordpunkt des Horizonts. Wie hoch er steht, hängt vom Breitengrad ab, auf dem du dich befindest."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So findest du ihn",
+      "absaetze": [
+        "Der Polarstern ist nicht der hellste Stern am Himmel, wie viele denken. Er ist aber gut zu finden.",
+        "Such den Großen Wagen. Verlängere die Linie der beiden hinteren Kastensterne etwa fünfmal nach oben. Dort steht der Polarstern."
+      ],
+      "merke": "Der Polarstern ist nicht der hellste Stern am Himmel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für immer",
+      "absaetze": [
+        "Die Erdachse taumelt sehr langsam wie ein Kreisel. Ein Umlauf dauert rund 26.000 Jahre. Dadurch wechselt der Polarstern im Lauf der Zeit.",
+        "In etwa 12.000 Jahren wird die helle Wega nahe am Himmelsnordpol stehen. Am Südhimmel gibt es keinen vergleichbar hellen Polarstern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bewegt sich der Polarstern kaum?",
+      "art": "mc",
+      "optionen": [
+        "Die Erdachse zeigt fast genau auf ihn",
+        "Er ist am Himmel festgeklebt",
+        "Er ist besonders schwer",
+        "Er ist ein Planet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alle anderen Sterne scheinen um ihn zu kreisen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist der Polarstern der hellste Stern?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer",
+        "Nur im Winter",
+        "Nur am Äquator"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist aber leicht zu finden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Sternbild findest du ihn leicht?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Großen Wagen",
+        "Mit dem Orion",
+        "Mit dem Kreuz des Südens",
+        "Mit dem Skorpion"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die hinteren Kastensterne zeigen auf ihn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Polarstern bleibt für immer der Polarstern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Erdachse taumelt langsam, der Polarstern wechselt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Erdachse zeigt fast auf den Polarstern.",
+        "Deshalb steht er immer im Norden.",
+        "Er ist nicht der hellste Stern.",
+        "In Tausenden Jahren wird ein anderer Stern Polarstern."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "steu-b063-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie viel Steuer steckt im Benzinpreis?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energiesteuer",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "energiesteuer",
+    "benzinpreis",
+    "co2-preis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Zapfsäule zahlst du nicht nur für den Kraftstoff.",
+        "Ein großer Teil des Preises sind Steuern und Abgaben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Energiesteuer",
+      "absaetze": [
+        "Auf jeden Liter Benzin und Diesel fällt Energiesteuer an. Sie ist ein fester Betrag pro Liter und hängt nicht vom Preis ab. Bei Benzin sind es rund 65 Cent, bei Diesel rund 47 Cent.",
+        "Die Einnahmen fließen an den Bund. Früher hieß die Steuer Mineralölsteuer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "CO2-Preis und Mehrwertsteuer",
+      "absaetze": [
+        "Dazu kommt ein Preis für den Ausstoß von Kohlendioxid. Er soll den Umstieg auf klimafreundlichere Antriebe fördern und steigt über die Jahre.",
+        "Auf den gesamten Betrag wird schließlich noch die Mehrwertsteuer von 19 Prozent erhoben. Sie fällt also auch auf die Energiesteuer an."
+      ],
+      "merke": "Die Mehrwertsteuer fällt auch auf die Energiesteuer an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum der Preis schwankt",
+      "absaetze": [
+        "Weil die Energiesteuer fest ist, entstehen Preisschwankungen vor allem durch den Ölpreis, den Dollarkurs und die Nachfrage.",
+        "Auch die Tageszeit spielt eine Rolle. Tankstellen ändern ihre Preise oft mehrmals täglich. Abends ist Tanken häufig günstiger als morgens."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird die Energiesteuer auf Benzin berechnet?",
+      "art": "mc",
+      "optionen": [
+        "Als fester Betrag pro Liter",
+        "Als Prozentsatz vom Preis",
+        "Nach dem Gewicht des Autos",
+        "Nach dem Wohnort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Benzin sind es rund 65 Cent je Liter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin fließt die Energiesteuer?",
+      "art": "mc",
+      "optionen": [
+        "An den Bund",
+        "An die Gemeinden",
+        "An die Tankstelle",
+        "An die EU"
+      ],
+      "richtig": 0,
+      "erklaerung": "Früher hieß sie Mineralölsteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf wird die Mehrwertsteuer erhoben?",
+      "art": "mc",
+      "optionen": [
+        "Auf den gesamten Preis, inklusive Energiesteuer",
+        "Nur auf den Kraftstoff ohne Steuern",
+        "Gar nicht",
+        "Nur auf Diesel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Steuer auf Steuer, sagen Kritiker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Abends ist Tanken häufig günstiger als morgens.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Preise schwanken im Tagesverlauf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Auf Kraftstoff fällt Energiesteuer pro Liter an.",
+        "Dazu kommt ein CO2-Preis.",
+        "Die Mehrwertsteuer fällt auf alles zusammen an.",
+        "Preise schwanken mit Ölpreis und Tageszeit."
+      ]
+    }
+  ]
+}

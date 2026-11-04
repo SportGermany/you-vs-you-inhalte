@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b063-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was verraten die Nierenwerte im Blut?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nierenwerte",
+    "kreatinin",
+    "blutwerte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei vielen Blutuntersuchungen steht ein Wert namens Kreatinin auf dem Zettel.",
+        "Er gibt Hinweise darauf, wie gut deine Nieren arbeiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kreatinin als Spur",
+      "absaetze": [
+        "Kreatinin ist ein Abbauprodukt aus den Muskeln. Gesunde Nieren filtern es aus dem Blut und scheiden es mit dem Urin aus.",
+        "Arbeiten die Nieren schlechter, steigt der Kreatininwert. Er hängt aber auch von der Muskelmasse ab. Sehr muskulöse Menschen haben oft höhere Werte, ohne krank zu sein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die geschätzte Filterleistung",
+      "absaetze": [
+        "Aus Kreatinin, Alter und Geschlecht wird die eGFR berechnet. Sie schätzt, wie viel Blut die Nieren pro Minute filtern.",
+        "Liegt sie über mehr als drei Monate deutlich unter dem Normalbereich, spricht man von einer chronischen Nierenkrankheit. Ein einzelner Messwert reicht für diese Diagnose nicht."
+      ],
+      "merke": "Für die Diagnose braucht es wiederholte Messungen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frühe Warnzeichen",
+      "absaetze": [
+        "Eiweiß im Urin, vor allem Albumin, kann ein frühes Zeichen für Nierenschäden sein. Es wird mit einem Urintest bestimmt.",
+        "Diabetes und Bluthochdruck sind die häufigsten Ursachen für Nierenschäden. Wer davon betroffen ist, sollte seine Nierenwerte regelmäßig kontrollieren lassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Kreatinin?",
+      "art": "mc",
+      "optionen": [
+        "Aus den Muskeln",
+        "Aus der Leber",
+        "Aus der Haut",
+        "Aus dem Magen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gesunde Nieren scheiden es aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schätzt die eGFR?",
+      "art": "mc",
+      "optionen": [
+        "Die Filterleistung der Nieren",
+        "Den Blutzucker",
+        "Den Puls",
+        "Die Knochendichte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird aus Kreatinin, Alter und Geschlecht berechnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind häufige Ursachen für Nierenschäden?",
+      "art": "mc",
+      "optionen": [
+        "Diabetes und Bluthochdruck",
+        "Zu viel Gemüse",
+        "Viel Schlaf",
+        "Sonnenlicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Betroffene sollten ihre Werte kontrollieren lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sehr muskulöse Menschen können höhere Kreatininwerte haben, ohne krank zu sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Wert hängt von der Muskelmasse ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kreatinin ist ein Abbauprodukt der Muskeln.",
+        "Steigt es, filtern die Nieren eventuell schlechter.",
+        "Die eGFR schätzt die Filterleistung.",
+        "Bei Diabetes und Bluthochdruck regelmäßig kontrollieren.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

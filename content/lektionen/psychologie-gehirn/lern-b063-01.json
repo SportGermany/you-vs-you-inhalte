@@ -1,0 +1,130 @@
+{
+  "id": "lern-b063-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Lernst du morgens oder abends besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tageszeit",
+    "chronotyp",
+    "lernen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche lernen am liebsten früh am Morgen, andere erst spätabends.",
+        "Gibt es eine beste Zeit zum Lernen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lerche oder Eule",
+      "absaetze": [
+        "Menschen haben unterschiedliche innere Uhren. Fachleute sprechen vom Chronotyp. Frühtypen sind morgens fit, Spättypen erst später am Tag.",
+        "Studien deuten darauf hin, dass wir zu unserer bevorzugten Tageszeit oft konzentrierter sind. Jugendliche und junge Erwachsene sind eher Spättypen, ältere Menschen eher Frühtypen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlaf festigt Gelerntes",
+      "absaetze": [
+        "Im Schlaf verarbeitet das Gehirn, was wir am Tag gelernt haben. Lernen am Abend kann deshalb sinnvoll sein, wenn danach genug Schlaf folgt.",
+        "Wer dafür aber bis tief in die Nacht lernt und zu wenig schläft, schadet dem Gedächtnis. Schlaf ist für das Lernen wichtiger als die genaue Uhrzeit."
+      ],
+      "merke": "Ausreichend Schlaf ist wichtiger als die perfekte Lernzeit.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die eigene Zeit finden",
+      "absaetze": [
+        "Beobachte, wann du dich am wachsten fühlst. Leg schwierige Aufgaben in diese Phase. Einfacheres Wiederholen klappt auch zu anderen Zeiten.",
+        "Gleichmäßige Lernzeiten helfen, eine Routine aufzubauen. Kurze Wiederholungen vor dem Schlafen können das Behalten unterstützen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Chronotyp?",
+      "art": "mc",
+      "optionen": [
+        "Die persönliche Tageszeit-Vorliebe der inneren Uhr",
+        "Eine Lernmethode",
+        "Ein Wecker",
+        "Ein Schulfach"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt Früh- und Spättypen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Schlaf mit Gelerntem?",
+      "art": "mc",
+      "optionen": [
+        "Das Gehirn verarbeitet und festigt es",
+        "Es wird gelöscht",
+        "Es wird doppelt so schwer",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlaf ist wichtig für das Gedächtnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schadet dem Lernen?",
+      "art": "mc",
+      "optionen": [
+        "Bis tief in die Nacht lernen und zu wenig schlafen",
+        "Ausreichend schlafen",
+        "Pausen machen",
+        "Kurz vor dem Schlafen wiederholen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlaf ist wichtiger als die genaue Uhrzeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jugendliche sind eher Spättypen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ältere Menschen sind eher Frühtypen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Menschen haben unterschiedliche Chronotypen.",
+        "Zur bevorzugten Tageszeit lernt man oft besser.",
+        "Schlaf festigt Gelerntes.",
+        "Schwierige Aufgaben in die wachste Phase legen."
+      ]
+    }
+  ]
+}

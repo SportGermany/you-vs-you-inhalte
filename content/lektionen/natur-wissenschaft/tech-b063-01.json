@@ -1,0 +1,121 @@
+{
+  "id": "tech-b063-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Echolot?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Vermessung des Meeresbodens",
+      "herausgeber": "Bundesamt für Seeschifffahrt und Hydrographie",
+      "url": "https://www.bsh.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "echolot",
+    "schall",
+    "meeresboden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wie tief ist das Wasser unter dem Schiff?",
+        "Ein Echolot beantwortet diese Frage mit Schall."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rufen und lauschen",
+      "absaetze": [
+        "Ein Echolot sendet einen kurzen Schallimpuls nach unten. Der Schall trifft auf den Grund und wird zurückgeworfen.",
+        "Das Gerät misst, wie lange es dauert, bis das Echo zurückkommt. Weil man weiß, wie schnell sich Schall im Wasser bewegt, lässt sich daraus die Tiefe berechnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell im Wasser",
+      "absaetze": [
+        "Im Wasser ist Schall etwa 1500 Meter pro Sekunde schnell. Das ist mehr als viermal so schnell wie in der Luft.",
+        "Für die Tiefe wird die Laufzeit halbiert, denn der Schall legt den Weg zweimal zurück. Moderne Fächerecholote tasten breite Streifen ab und erstellen genaue Karten des Meeresbodens."
+      ],
+      "merke": "Im Wasser ist Schall mehr als viermal so schnell wie in der Luft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbild Natur",
+      "absaetze": [
+        "Fledermäuse und Delfine nutzen dasselbe Prinzip. Sie orientieren sich mit Echos und finden so Beute.",
+        "Auch Fischer suchen mit Echoloten nach Fischschwärmen. U-Boote nutzen eine verwandte Technik, das Sonar. Selbst Ultraschallbilder in der Medizin beruhen auf Echos."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sendet ein Echolot aus?",
+      "art": "mc",
+      "optionen": [
+        "Schallimpulse",
+        "Lichtstrahlen",
+        "Radiowellen",
+        "Wärme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Echo verrät die Tiefe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell ist Schall im Wasser ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 1500 Meter pro Sekunde",
+        "Etwa 15 Meter pro Sekunde",
+        "So schnell wie Licht",
+        "Etwa 150 Kilometer pro Sekunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr als viermal so schnell wie in der Luft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tiere nutzen dasselbe Prinzip?",
+      "art": "mc",
+      "optionen": [
+        "Fledermäuse und Delfine",
+        "Kühe und Pferde",
+        "Schnecken und Würmer",
+        "Bienen und Ameisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie orientieren sich mit Echos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für die Tiefe wird die Laufzeit des Echos halbiert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Schall legt den Weg hin und zurück."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Echolot misst Tiefe mit Schall.",
+        "Es misst die Laufzeit des Echos.",
+        "Im Wasser ist Schall sehr schnell.",
+        "Fledermäuse und Delfine nutzen dasselbe Prinzip."
+      ]
+    }
+  ]
+}

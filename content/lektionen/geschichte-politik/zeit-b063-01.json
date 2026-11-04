@@ -1,0 +1,127 @@
+{
+  "id": "zeit-b063-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Warum war die Volkszählung 1987 so umstritten?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Volkszählungsurteil",
+      "herausgeber": "Bundesverfassungsgericht",
+      "url": "https://www.bundesverfassungsgericht.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "volkszaehlung",
+    "datenschutz",
+    "grundrechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den 1980er-Jahren protestierten Hunderttausende gegen einen Fragebogen.",
+        "Daraus entstand ein Grundrecht, das bis heute wichtig ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Zählung mit Fragen",
+      "absaetze": [
+        "Die Bundesregierung wollte 1983 alle Menschen in der Bundesrepublik zählen und befragen. Gefragt wurde etwa nach Beruf, Wohnung und Arbeitsweg.",
+        "Viele fürchteten, dass der Staat die Daten zusammenführen und sie überwachen könnte. Es gab große Proteste und Aufrufe zum Boykott."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Volkszählungsurteil",
+      "absaetze": [
+        "Das Bundesverfassungsgericht stoppte die Zählung. Im Dezember 1983 verkündete es das Volkszählungsurteil.",
+        "Darin erkannte es ein Recht auf informationelle Selbstbestimmung an. Jeder Mensch darf grundsätzlich selbst entscheiden, was mit seinen persönlichen Daten geschieht."
+      ],
+      "merke": "Das Volkszählungsurteil begründete das Recht auf informationelle Selbstbestimmung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Zählung 1987",
+      "absaetze": [
+        "1987 fand die Volkszählung mit geänderten Regeln statt. Trotzdem gab es erneut Proteste, und manche verweigerten die Teilnahme.",
+        "Das Urteil prägt den Datenschutz in Deutschland bis heute. Spätere Zählungen, die man heute Zensus nennt, nutzen vor allem vorhandene Register und Stichproben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gericht stoppte die Volkszählung 1983?",
+      "art": "mc",
+      "optionen": [
+        "Das Bundesverfassungsgericht",
+        "Der Europäische Gerichtshof",
+        "Das Amtsgericht Bonn",
+        "Der Bundesgerichtshof"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es verkündete das Volkszählungsurteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Recht erkannte das Urteil an?",
+      "art": "mc",
+      "optionen": [
+        "Das Recht auf informationelle Selbstbestimmung",
+        "Das Recht auf Arbeit",
+        "Das Wahlrecht ab 16",
+        "Das Recht auf Urlaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist eine Grundlage des Datenschutzes."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann fand die Volkszählung schließlich statt?",
+      "art": "mc",
+      "optionen": [
+        "1987",
+        "1983",
+        "1949",
+        "2001"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit geänderten Regeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Heutige Zählungen nutzen vor allem Register und Stichproben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Man nennt sie Zensus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "1983 sollte eine große Volkszählung stattfinden.",
+        "Viele fürchteten Überwachung und protestierten.",
+        "Das Verfassungsgericht stärkte den Datenschutz.",
+        "1987 fand die Zählung mit neuen Regeln statt."
+      ]
+    }
+  ]
+}

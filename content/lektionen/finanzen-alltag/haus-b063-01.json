@@ -1,0 +1,121 @@
+{
+  "id": "haus-b063-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du Handtücher richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "handtuecher",
+    "waesche",
+    "hygiene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Handtücher sollen weich, saugfähig und hygienisch sein.",
+        "Mit der richtigen Pflege bleiben sie das lange."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie oft waschen",
+      "absaetze": [
+        "Handtücher nehmen Hautschuppen, Feuchtigkeit und Keime auf. Ein Duschtuch solltest du nach einigen Benutzungen waschen. Gästehandtücher und Waschlappen öfter.",
+        "Wichtig ist, dass Handtücher zwischen den Benutzungen gut trocknen. Häng sie ausgebreitet auf, nicht zusammengeknüllt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Temperatur und Waschmittel",
+      "absaetze": [
+        "Handtücher kannst du meist bei 60 Grad waschen. Das entfernt Keime zuverlässiger als niedrige Temperaturen. Ein Vollwaschmittel ist dafür gut geeignet.",
+        "Ist jemand im Haushalt krank, sollte jeder ein eigenes Handtuch nutzen. Die Handtücher dann am besten bei 60 Grad waschen."
+      ],
+      "merke": "Handtücher bei 60 Grad waschen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weich und saugfähig",
+      "absaetze": [
+        "Weichspüler macht Handtücher zwar weich, aber weniger saugfähig. Lass ihn besser weg.",
+        "Kurz im Trockner aufgeschüttelt oder nach dem Trocknen an der Luft kräftig ausgeschüttelt, werden sie wieder flauschiger. Zu viel Waschmittel kann sie hart machen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Temperatur kannst du Handtücher meist waschen?",
+      "art": "mc",
+      "optionen": [
+        "60 Grad",
+        "20 Grad",
+        "100 Grad",
+        "Gar nicht, nur lüften"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das entfernt Keime zuverlässig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht Handtücher weniger saugfähig?",
+      "art": "mc",
+      "optionen": [
+        "Weichspüler",
+        "Waschen bei 60 Grad",
+        "Aufhängen",
+        "Ausschütteln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass ihn besser weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sollten Handtücher zwischen den Benutzungen trocknen?",
+      "art": "mc",
+      "optionen": [
+        "Ausgebreitet aufgehängt",
+        "Zusammengeknüllt",
+        "Im Wäschekorb",
+        "Auf dem Boden"
+      ],
+      "richtig": 0,
+      "erklaerung": "So trocknen sie schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Krankheit im Haushalt sollte jeder ein eigenes Handtuch nutzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So verbreiten sich Keime weniger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Handtücher regelmäßig waschen.",
+        "Zwischen den Benutzungen gut trocknen lassen.",
+        "Bei 60 Grad waschen.",
+        "Auf Weichspüler verzichten."
+      ]
+    }
+  ]
+}

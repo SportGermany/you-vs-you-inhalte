@@ -1,0 +1,131 @@
+{
+  "id": "ern-b063-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Käse?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaftliche Informationen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kaese",
+    "milchprodukte",
+    "calcium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob auf dem Brot, im Auflauf oder pur: Käse gehört für viele einfach dazu.",
+        "Aber ist er eher gesund oder eher ein Fettfallstrick?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Käse steckt",
+      "absaetze": [
+        "Käse liefert viel Eiweiß, Calcium und Vitamin B12. Calcium ist wichtig für Knochen und Zähne.",
+        "Gleichzeitig enthalten viele Sorten reichlich Fett und Salz. Die Unterschiede zwischen den Sorten sind groß. Frischkäse light oder Hüttenkäse sind deutlich magerer als ein vollfetter Hartkäse."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Lange galt Käse wegen seines Fetts als Risiko für Herz und Gefäße. Beobachtungsstudien deuten aber darauf hin, dass maßvoller Käsegenuss nicht mit einem höheren Herzrisiko verbunden ist.",
+        "Auf die Menge kommt es trotzdem an. Viel Käse bedeutet auch viel Salz."
+      ],
+      "merke": "Maßvoll genossen passt Käse gut in eine ausgewogene Ernährung.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Laktose und Rohmilch",
+      "absaetze": [
+        "Lang gereifter Hartkäse wie Parmesan oder Bergkäse enthält praktisch keine Laktose mehr. Bei der Reifung wird der Milchzucker abgebaut. Viele Menschen mit Laktoseintoleranz vertragen ihn deshalb gut.",
+        "Käse aus Rohmilch kann Keime wie Listerien enthalten. Schwangere sollten ihn meiden. Bei Weichkäse solltest du in der Schwangerschaft auch die Rinde weglassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Nährstoff im Käse ist wichtig für die Knochen?",
+      "art": "mc",
+      "optionen": [
+        "Calcium",
+        "Vitamin C",
+        "Koffein",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Käse ist eine gute Calciumquelle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum vertragen viele Menschen mit Laktoseintoleranz Hartkäse?",
+      "art": "mc",
+      "optionen": [
+        "Der Milchzucker wird bei der Reifung abgebaut",
+        "Er wird ohne Milch gemacht",
+        "Er enthält extra Enzyme",
+        "Er wird gekocht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lang gereifter Käse ist praktisch laktosefrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte Rohmilchkäse meiden?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere",
+        "Sportler",
+        "Studierende",
+        "Menschen mit Brille"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kann Listerien enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle Käsesorten enthalten gleich viel Fett.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Unterschiede sind groß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Käse liefert Eiweiß, Calcium und Vitamin B12.",
+        "Viele Sorten enthalten viel Fett und Salz.",
+        "Lang gereifter Hartkäse ist praktisch laktosefrei.",
+        "Schwangere sollten Rohmilchkäse meiden."
+      ]
+    }
+  ]
+}

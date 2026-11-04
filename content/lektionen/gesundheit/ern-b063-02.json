@@ -1,0 +1,131 @@
+{
+  "id": "ern-b063-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist eine Heißluftfritteuse gesünder?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Acrylamid und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "heissluftfritteuse",
+    "frittieren",
+    "acrylamid"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knusprige Pommes ohne Fettbad: Das versprechen Heißluftfritteusen.",
+        "Sie stehen inzwischen in vielen Küchen. Was bringen sie wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie das Gerät arbeitet",
+      "absaetze": [
+        "Eine Heißluftfritteuse ist im Grunde ein kleiner Umluftofen. Ein Ventilator bläst heiße Luft schnell um das Essen. Dadurch wird die Oberfläche knusprig.",
+        "Sie braucht wenig oder gar kein Öl. Im Vergleich zum Frittieren im Fettbad sparst du deshalb viel Fett."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das für die Gesundheit heißt",
+      "absaetze": [
+        "Weniger Fett bedeutet weniger Kalorien als bei frittierten Speisen. Gesünder wird das Essen dadurch aber nur, wenn auch die Lebensmittel gut gewählt sind. Tiefkühl-Pommes bleiben ein verarbeitetes Produkt.",
+        "Beim starken Erhitzen stärkehaltiger Lebensmittel kann Acrylamid entstehen. Dieser Stoff gilt als wahrscheinlich krebserregend. Studien deuten darauf hin, dass in der Heißluftfritteuse oft weniger entsteht als im Fettbad."
+      ],
+      "merke": "Vergolden statt verkohlen senkt das Acrylamid.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Praktisch und sparsam",
+      "absaetze": [
+        "Für kleine Portionen braucht die Heißluftfritteuse oft weniger Strom als ein großer Backofen. Auch Gemüse, Kichererbsen oder Fisch lassen sich darin zubereiten.",
+        "Fülle den Korb nicht zu voll, damit die Luft zirkulieren kann. Schüttle das Gargut zwischendurch."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie funktioniert eine Heißluftfritteuse?",
+      "art": "mc",
+      "optionen": [
+        "Wie ein kleiner Umluftofen mit heißer Luft",
+        "Mit einem Ölbad",
+        "Mit Mikrowellen",
+        "Mit Dampf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Ventilator bläst heiße Luft ums Essen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was spart man im Vergleich zum Frittieren?",
+      "art": "mc",
+      "optionen": [
+        "Viel Fett",
+        "Zeit beim Einkaufen",
+        "Salz",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es braucht wenig oder kein Öl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lässt sich Acrylamid verringern?",
+      "art": "mc",
+      "optionen": [
+        "Vergolden statt verkohlen",
+        "Möglichst dunkel rösten",
+        "Länger frittieren",
+        "Mehr Zucker zugeben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je dunkler, desto mehr Acrylamid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tiefkühl-Pommes werden durch die Heißluftfritteuse zu Gemüse.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bleiben ein verarbeitetes Produkt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Heißluftfritteusen sind kleine Umluftöfen.",
+        "Sie sparen viel Fett gegenüber dem Frittieren.",
+        "Vergolden statt verkohlen senkt das Acrylamid.",
+        "Gesund wird es erst mit guten Zutaten."
+      ]
+    }
+  ]
+}

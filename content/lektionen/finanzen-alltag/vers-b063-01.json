@@ -1,0 +1,127 @@
+{
+  "id": "vers-b063-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann darfst du die Miete mindern?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mietminderung",
+    "maengel",
+    "mietrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Heizung fällt im Winter aus, oder es schimmelt im Bad.",
+        "Musst du dann die volle Miete zahlen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Minderung kraft Gesetz",
+      "absaetze": [
+        "Hat die Wohnung einen Mangel, der die Nutzung spürbar einschränkt, mindert sich die Miete automatisch. Das steht im Gesetz. Der Vermieter muss nicht zustimmen.",
+        "Beispiele sind eine ausgefallene Heizung, Schimmel, undichte Fenster oder dauerhafter Baulärm. Kleine Mängel ohne spürbare Einschränkung berechtigen nicht zur Minderung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst den Mangel melden",
+      "absaetze": [
+        "Du musst den Mangel dem Vermieter unverzüglich mitteilen, am besten schriftlich. Sonst kannst du dein Recht auf Minderung verlieren.",
+        "Wie stark die Miete sinken darf, hängt vom Ausmaß des Mangels ab. Gerichte haben dazu viele Einzelfälle entschieden. Pauschale Prozentsätze gibt es nicht."
+      ],
+      "merke": "Mängel immer unverzüglich und schriftlich melden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsichtig vorgehen",
+      "absaetze": [
+        "Minderst du zu stark, droht ein Zahlungsrückstand. Im schlimmsten Fall kann das eine Kündigung nach sich ziehen.",
+        "Sicherer ist es, die volle Miete unter Vorbehalt zu zahlen und die Minderung später zu klären. Mietervereine und Verbraucherzentralen beraten dich dabei."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann mindert sich die Miete?",
+      "art": "mc",
+      "optionen": [
+        "Bei einem Mangel, der die Nutzung spürbar einschränkt",
+        "Bei jeder Kleinigkeit",
+        "Wenn das Wetter schlecht ist",
+        "Wenn der Vermieter zustimmt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt kraft Gesetz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was musst du zuerst tun?",
+      "art": "mc",
+      "optionen": [
+        "Den Mangel dem Vermieter melden",
+        "Die Miete komplett einstellen",
+        "Ausziehen",
+        "Den Mangel verschweigen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten schriftlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist sicherer, wenn du unsicher bist?",
+      "art": "mc",
+      "optionen": [
+        "Die volle Miete unter Vorbehalt zahlen",
+        "Gar keine Miete zahlen",
+        "Die halbe Miete ohne Ankündigung zahlen",
+        "Die Miete verdoppeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Minderung lässt sich später klären."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es gibt feste Prozentsätze für jeden Mangel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es hängt vom Einzelfall ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mängel können die Miete automatisch mindern.",
+        "Den Mangel unverzüglich melden.",
+        "Die Höhe hängt vom Einzelfall ab.",
+        "Im Zweifel unter Vorbehalt zahlen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "supp-b063-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchst du zusätzlich Vitamin E?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Acrylamid und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaftliche Informationen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-e",
+    "antioxidantien",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vitamin E wird gern als Zellschutz-Vitamin beworben.",
+        "In Kapseln steckt es oft in hohen Mengen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein fettlösliches Schutzvitamin",
+      "absaetze": [
+        "Vitamin E schützt die Hüllen unserer Zellen vor Schäden durch aggressive Sauerstoffverbindungen. Es gehört zu den fettlöslichen Vitaminen.",
+        "Gute Quellen sind Pflanzenöle wie Weizenkeimöl, Sonnenblumenöl und Rapsöl. Auch Nüsse, Samen und Vollkorn liefern Vitamin E."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mangel ist selten",
+      "absaetze": [
+        "Ein echter Vitamin-E-Mangel ist bei gesunden Menschen sehr selten. Er tritt vor allem bei Krankheiten auf, bei denen Fett schlecht aufgenommen wird.",
+        "Große Studien mit hoch dosiertem Vitamin E zeigten keinen Schutz vor Herzinfarkt oder Krebs. In einer Studie erkrankten Männer mit Vitamin-E-Präparaten sogar etwas häufiger an Prostatakrebs."
+      ],
+      "merke": "Hoch dosierte Präparate haben in Studien nicht vor Krankheiten geschützt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Blutverdünnern",
+      "absaetze": [
+        "Hohe Mengen Vitamin E können die Blutgerinnung beeinflussen. Zusammen mit blutverdünnenden Medikamenten steigt dann das Blutungsrisiko.",
+        "Das BfR rät, bei Nahrungsergänzungsmitteln auf moderate Mengen zu achten. Über eine abwechslungsreiche Ernährung ist man in der Regel gut versorgt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei blutverdünnenden Medikamenten nur nach ärztlicher Rücksprache verwenden.",
+        "Vor Operationen hoch dosierte Präparate ärztlich besprechen.",
+        "Nahrungsergänzungsmittel ersetzen keine abwechslungsreiche Ernährung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bekommst du viel Vitamin E?",
+      "art": "mc",
+      "optionen": [
+        "Aus Pflanzenölen und Nüssen",
+        "Aus Zucker",
+        "Aus Wasser",
+        "Aus Weißbrot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Weizenkeimöl oder Sonnenblumenöl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie häufig ist ein Vitamin-E-Mangel bei Gesunden?",
+      "art": "mc",
+      "optionen": [
+        "Sehr selten",
+        "Sehr häufig",
+        "Bei jedem zweiten",
+        "Bei allen Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er tritt vor allem bei bestimmten Krankheiten auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten große Studien mit hoch dosiertem Vitamin E?",
+      "art": "mc",
+      "optionen": [
+        "Keinen Schutz vor Herzinfarkt oder Krebs",
+        "Ein deutlich längeres Leben",
+        "Weniger Erkältungen",
+        "Bessere Noten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Männern gab es sogar mehr Prostatakrebs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hohe Mengen Vitamin E können mit Blutverdünnern problematisch sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Blutungsrisiko kann steigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin E schützt die Zellhüllen.",
+        "Pflanzenöle und Nüsse liefern reichlich davon.",
+        "Ein Mangel ist bei Gesunden sehr selten.",
+        "Hoch dosierte Präparate brachten keinen Schutz."
+      ]
+    }
+  ]
+}

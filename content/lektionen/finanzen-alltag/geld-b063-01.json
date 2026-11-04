@@ -1,0 +1,127 @@
+{
+  "id": "geld-b063-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist ein Geldmarktfonds?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Investmentfonds",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "geldmarktfonds",
+    "zinsen",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Geldmarktfonds werden als Alternative zum Tagesgeld beworben.",
+        "Wie funktionieren sie, und wie sicher sind sie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurzfristige Anlagen",
+      "absaetze": [
+        "Ein Geldmarktfonds legt Geld in sehr kurzfristigen Anlagen an. Dazu gehören Einlagen bei Banken und Anleihen mit kurzer Laufzeit.",
+        "Seine Rendite folgt deshalb weitgehend den Leitzinsen der Zentralbank. Steigen die Zinsen, steigt auch der Ertrag des Fonds. Sinken sie, sinkt er."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sicher ist das?",
+      "absaetze": [
+        "Geldmarktfonds schwanken nur wenig. Eine Garantie gibt es aber nicht. Sie fallen auch nicht unter die Einlagensicherung wie ein Tagesgeldkonto.",
+        "Dafür ist das Fondsvermögen ein Sondervermögen. Es gehört den Anlegern und ist bei einer Pleite der Fondsgesellschaft geschützt."
+      ],
+      "merke": "Geldmarktfonds sind kein Bankguthaben und nicht durch die Einlagensicherung geschützt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen sie passen",
+      "absaetze": [
+        "Geldmarktfonds eignen sich als Parkplatz für Geld, das du kurz- bis mittelfristig brauchst. Es gibt sie auch als günstige ETFs.",
+        "Achte auf die Kosten, denn sie schmälern die ohnehin moderate Rendite. Für den langfristigen Vermögensaufbau sind breit gestreute Aktienfonds meist geeigneter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worin legt ein Geldmarktfonds an?",
+      "art": "mc",
+      "optionen": [
+        "In sehr kurzfristigen Anlagen",
+        "In Immobilien",
+        "Nur in Aktien",
+        "In Gold"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Bankeinlagen und kurze Anleihen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach richtet sich seine Rendite weitgehend?",
+      "art": "mc",
+      "optionen": [
+        "Nach den Leitzinsen der Zentralbank",
+        "Nach dem Wetter",
+        "Nach dem Ölpreis",
+        "Nach dem Goldpreis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Steigen die Zinsen, steigt der Ertrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sind Geldmarktfonds durch die Einlagensicherung geschützt?",
+      "art": "mc",
+      "optionen": [
+        "Nein, aber sie sind Sondervermögen",
+        "Ja, bis 100.000 Euro",
+        "Ja, unbegrenzt",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Sondervermögen gehört den Anlegern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geldmarktfonds sind für den langfristigen Vermögensaufbau meist erste Wahl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür sind breit gestreute Aktienfonds meist geeigneter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Geldmarktfonds legen sehr kurzfristig an.",
+        "Ihre Rendite folgt den Leitzinsen.",
+        "Sie sind Sondervermögen, aber kein Bankguthaben.",
+        "Sie eignen sich als Parkplatz für Geld."
+      ]
+    }
+  ]
+}

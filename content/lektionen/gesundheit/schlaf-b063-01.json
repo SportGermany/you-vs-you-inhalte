@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b063-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum weckt uns Rauchgeruch im Schlaf kaum?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "geruchssinn",
+    "rauchmelder",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele glauben, sie würden nachts aufwachen, wenn es brennt.",
+        "Doch unsere Nase schläft gewissermaßen mit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Sinne im Schlaf",
+      "absaetze": [
+        "Im Schlaf nimmt das Gehirn Reize aus der Umgebung weiter auf, filtert aber stark. Geräusche können uns gut wecken, besonders wenn sie ungewohnt oder laut sind.",
+        "Für Gerüche gilt das kaum. In einer Laborstudie wachten Schlafende auf starke Gerüche im Tiefschlaf praktisch nie auf. Ein lauter Ton weckte sie dagegen zuverlässig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr bei Bränden",
+      "absaetze": [
+        "Bei Bränden in Wohnungen ist meist der Rauch die größte Gefahr, nicht das Feuer. Schon wenige Atemzüge giftiger Brandgase können bewusstlos machen.",
+        "Weil die Nase uns im Schlaf nicht warnt, passieren viele tödliche Brände nachts. Deshalb sind Rauchmelder so wichtig. Ihr lauter Alarm weckt, wo der Geruch es nicht schafft."
+      ],
+      "merke": "Rauchmelder wecken, wo die Nase versagt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "In Deutschland sind Rauchmelder in Wohnungen Pflicht, vor allem in Schlafzimmern, Kinderzimmern und Fluren. Teste sie regelmäßig mit dem Prüfknopf.",
+        "Wer schwer hört, kann Rauchmelder mit Blitzlicht oder Vibrationskissen nutzen. Schlafe mit geschlossener Schlafzimmertür, das bremst Rauch im Ernstfall."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was weckte Schlafende in einer Studie zuverlässig?",
+      "art": "mc",
+      "optionen": [
+        "Ein lauter Ton",
+        "Starker Geruch",
+        "Ein leichter Lufthauch",
+        "Dämmriges Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf Gerüche reagierten sie im Tiefschlaf kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Wohnungsbränden meist die größte Gefahr?",
+      "art": "mc",
+      "optionen": [
+        "Der giftige Rauch",
+        "Die Hitze der Heizung",
+        "Das Löschwasser",
+        "Der Lärm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wenige Atemzüge können bewusstlos machen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sind Rauchmelder in Wohnungen besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "In Schlafzimmern, Kinderzimmern und Fluren",
+        "Nur im Keller",
+        "Nur auf dem Balkon",
+        "Nur in der Garage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort, wo Menschen schlafen und flüchten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Nase weckt uns zuverlässig, wenn es brennt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Im Schlaf reagieren wir auf Gerüche kaum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Schlaf wecken uns Gerüche kaum.",
+        "Laute Geräusche wecken zuverlässiger.",
+        "Rauch ist bei Bränden die größte Gefahr.",
+        "Rauchmelder sind Pflicht und retten Leben."
+      ]
+    }
+  ]
+}
