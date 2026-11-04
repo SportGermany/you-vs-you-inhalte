@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b084-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schlafen wir im Urlaub oft besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "urlaub",
+    "erholung",
+    "stress"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zu Hause wälzt du dich oft im Bett, im Urlaub schläfst du wie ein Stein.",
+        "Das hat mehrere Gründe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger Stress, kein Wecker",
+      "absaetze": [
+        "Im Urlaub fallen viele Sorgen und Termine weg. Das Gedankenkarussell am Abend dreht sich langsamer. Wer entspannt ist, schläft leichter ein.",
+        "Ohne Wecker darfst du so lange schlafen, wie dein Körper braucht. Viele merken erst dann, wie viel Schlaf ihnen im Alltag fehlt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht, Bewegung, Müdigkeit",
+      "absaetze": [
+        "Im Urlaub sind viele Menschen mehr draußen. Tageslicht stellt die innere Uhr gut ein. Bewegung, etwa Wandern oder Schwimmen, steigert die natürliche Müdigkeit am Abend.",
+        "In den ersten Urlaubstagen holen viele außerdem Schlaf nach. Danach pendelt sich der Rhythmus oft ein."
+      ],
+      "merke": "Licht und Bewegung im Urlaub fördern einen guten Schlaf.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Etwas für den Alltag mitnehmen",
+      "absaetze": [
+        "Nicht alles lässt sich in den Alltag übertragen. Manches aber schon: mehr Zeit draußen, Bewegung am Tag und feste Abendrituale ohne Arbeit.",
+        "Wer im Urlaub regelmäßig deutlich länger schläft, sollte prüfen, ob er im Alltag genug Schlaf bekommt. Vielleicht hilft es, früher ins Bett zu gehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fällt im Urlaub oft weg?",
+      "art": "mc",
+      "optionen": [
+        "Stress und der Wecker",
+        "Das Bett",
+        "Die Nacht",
+        "Das Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch schläft man leichter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stellt die innere Uhr gut ein?",
+      "art": "mc",
+      "optionen": [
+        "Tageslicht",
+        "Dunkelheit am Tag",
+        "Bildschirme am Abend",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Urlaub sind viele mehr draußen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann regelmäßig langer Urlaubsschlaf bedeuten?",
+      "art": "mc",
+      "optionen": [
+        "Dass im Alltag Schlaf fehlt",
+        "Dass man krank ist",
+        "Dass das Hotelbett schlecht ist",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Früher ins Bett zu gehen, kann helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bewegung am Tag kann die Müdigkeit am Abend steigern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa durch Wandern oder Schwimmen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Urlaub fallen Stress und Wecker weg.",
+        "Tageslicht und Bewegung fördern den Schlaf.",
+        "Viele holen anfangs Schlaf nach.",
+        "Draußen sein und Rituale in den Alltag mitnehmen."
+      ]
+    }
+  ]
+}

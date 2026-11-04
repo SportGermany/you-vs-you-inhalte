@@ -1,0 +1,121 @@
+{
+  "id": "all-b084-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wo beginnt der Weltraum?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "weltraum",
+    "atmosphaere",
+    "karman-linie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Erde hat keine scharfe Grenze zum All.",
+        "Trotzdem braucht man eine Linie, ab der man vom Weltraum spricht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Luft wird immer dünner",
+      "absaetze": [
+        "Die Lufthülle der Erde wird mit zunehmender Höhe allmählich dünner. Sie hört nicht plötzlich auf, sondern geht langsam in den Weltraum über.",
+        "Schon in zehn Kilometern Höhe, wo Flugzeuge fliegen, ist die Luft so dünn, dass Menschen ohne Hilfe kaum atmen könnten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Kármán-Linie",
+      "absaetze": [
+        "International gilt meist eine Höhe von 100 Kilometern als Grenze zum Weltraum. Sie heißt Kármán-Linie, nach dem Physiker Theodore von Kármán.",
+        "In dieser Höhe ist die Luft so dünn, dass ein Flugzeug keinen Auftrieb mehr bekommen würde. Es müsste so schnell fliegen wie ein Satellit, um nicht abzustürzen."
+      ],
+      "merke": "Als Grenze zum Weltraum gelten meist 100 Kilometer Höhe."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Andere Grenzen",
+      "absaetze": [
+        "In den USA gilt teilweise schon eine Höhe von etwa 80 Kilometern als Weltraumgrenze. Wer sie überschreitet, bekommt dort Astronautenabzeichen.",
+        "Die Internationale Raumstation kreist in etwa 400 Kilometern Höhe. Auch dort gibt es noch winzige Reste der Atmosphäre. Sie bremsen die Station leicht ab."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hat die Erde eine scharfe Grenze zum Weltraum?",
+      "art": "mc",
+      "optionen": [
+        "Nein, die Luft wird allmählich dünner",
+        "Ja, eine feste Schicht",
+        "Ja, eine Glaskuppel",
+        "Ja, bei genau 10 Kilometern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man legt die Grenze deshalb fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch liegt die Kármán-Linie?",
+      "art": "mc",
+      "optionen": [
+        "100 Kilometer",
+        "10 Kilometer",
+        "1.000 Kilometer",
+        "400 Kilometer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist nach Theodore von Kármán benannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Höhe kreist die Internationale Raumstation etwa?",
+      "art": "mc",
+      "optionen": [
+        "In etwa 400 Kilometern",
+        "In 10 Kilometern",
+        "In 36.000 Kilometern",
+        "In 100 Metern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort gibt es noch winzige Reste der Atmosphäre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In den USA gilt teilweise eine niedrigere Weltraumgrenze.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa 80 Kilometer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Atmosphäre wird allmählich dünner.",
+        "Meist gelten 100 Kilometer als Grenze.",
+        "Die Linie heißt Kármán-Linie.",
+        "In den USA gelten teils 80 Kilometer."
+      ]
+    }
+  ]
+}

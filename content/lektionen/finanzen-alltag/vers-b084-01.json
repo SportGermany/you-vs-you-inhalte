@@ -1,0 +1,127 @@
+{
+  "id": "vers-b084-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was tun, wenn die Krankenkasse eine Leistung ablehnt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rechte von Versicherten",
+      "herausgeber": "Bundesministerium für Gesundheit",
+      "url": "https://www.bundesgesundheitsministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "krankenkasse",
+    "widerspruch",
+    "antrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Ärztin hat eine Reha empfohlen, doch die Krankenkasse lehnt ab.",
+        "Damit musst du dich nicht abfinden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Kasse muss schnell entscheiden",
+      "absaetze": [
+        "Stellst du bei der gesetzlichen Krankenkasse einen Antrag, muss sie meist innerhalb von drei Wochen entscheiden. Holt sie ein Gutachten ein, sind es fünf Wochen.",
+        "Hält sie die Frist ohne ausreichende Begründung nicht ein, kann der Antrag in bestimmten Fällen als genehmigt gelten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Widerspruch einlegen",
+      "absaetze": [
+        "Gegen einen ablehnenden Bescheid kannst du Widerspruch einlegen. Die Frist beträgt in der Regel einen Monat nach Zugang des Bescheids. Schreib den Widerspruch schriftlich und bewahre einen Nachweis auf.",
+        "Begründe, warum du die Leistung brauchst. Eine ärztliche Stellungnahme macht den Widerspruch stärker. Viele Ablehnungen werden im Widerspruchsverfahren noch geändert."
+      ],
+      "merke": "Gegen eine Ablehnung kannst du innerhalb eines Monats Widerspruch einlegen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es weitergeht",
+      "absaetze": [
+        "Bleibt die Kasse bei ihrer Ablehnung, kannst du vor dem Sozialgericht klagen. Für Versicherte ist das Verfahren in der Regel kostenfrei.",
+        "Hilfe bekommst du etwa bei der Unabhängigen Patientenberatung, bei Sozialverbänden oder bei den Verbraucherzentralen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hat die Kasse meist für eine Entscheidung?",
+      "art": "mc",
+      "optionen": [
+        "Drei Wochen, mit Gutachten fünf",
+        "Ein Jahr",
+        "Einen Tag",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst kann der Antrag als genehmigt gelten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange ist die Widerspruchsfrist in der Regel?",
+      "art": "mc",
+      "optionen": [
+        "Einen Monat",
+        "Eine Woche",
+        "Zehn Jahre",
+        "Es gibt keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ab Zugang des Bescheids."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stärkt einen Widerspruch?",
+      "art": "mc",
+      "optionen": [
+        "Eine ärztliche Stellungnahme",
+        "Ein Brief an die Zeitung",
+        "Eine Beschwerde beim Bürgermeister",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie begründet, warum du die Leistung brauchst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Klagen vor dem Sozialgericht ist für Versicherte meist kostenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das senkt die Hürde."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kasse muss Fristen einhalten.",
+        "Widerspruch binnen eines Monats einlegen.",
+        "Eine ärztliche Begründung stärkt den Widerspruch.",
+        "Danach ist eine kostenfreie Klage möglich."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tech-b084-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie hält eine Thermoskanne warm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik verstehen",
+      "herausgeber": "Deutsche Physikalische Gesellschaft",
+      "url": "https://www.dpg-physik.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "thermoskanne",
+    "vakuum",
+    "waerme"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Morgens heißer Tee hineingefüllt, nachmittags immer noch warm.",
+        "Das schafft eine Thermoskanne mit einem einfachen Prinzip."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme hat drei Wege",
+      "absaetze": [
+        "Wärme gelangt auf drei Arten von heiß zu kalt. Durch Leitung, etwa über eine Metallwand. Durch Strömung von Luft oder Wasser. Und durch Strahlung.",
+        "Eine Thermoskanne bremst alle drei Wege so gut wie möglich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Doppelte Wand mit Vakuum",
+      "absaetze": [
+        "Eine Thermoskanne hat zwei Wände. Dazwischen ist fast keine Luft, also ein Vakuum. Ohne Luft kann Wärme kaum geleitet werden und keine Luftströmung entstehen.",
+        "Die Innenseiten sind oft verspiegelt. Sie werfen die Wärmestrahlung zurück. Ein gut schließender Deckel verhindert, dass warme Luft oben entweicht."
+      ],
+      "merke": "Das Vakuum zwischen zwei Wänden stoppt fast jede Wärmeleitung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Erfindung aus dem Labor",
+      "absaetze": [
+        "Das Prinzip erfand der schottische Forscher James Dewar Ende des 19. Jahrhunderts. Er wollte damit sehr kalte Flüssigkeiten im Labor aufbewahren.",
+        "Eine Thermoskanne hält deshalb nicht nur warm, sondern auch kalt. Ein Tipp: Spüle sie vorher mit heißem Wasser vor, dann bleibt der Inhalt länger heiß."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt zwischen den zwei Wänden einer Thermoskanne?",
+      "art": "mc",
+      "optionen": [
+        "Ein Vakuum",
+        "Wasser",
+        "Watte",
+        "Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Luft wird kaum Wärme geleitet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu sind die Innenseiten verspiegelt?",
+      "art": "mc",
+      "optionen": [
+        "Um Wärmestrahlung zurückzuwerfen",
+        "Zur Dekoration",
+        "Damit man hineinsehen kann",
+        "Um Licht zu erzeugen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So geht weniger Wärme verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erfand das Prinzip?",
+      "art": "mc",
+      "optionen": [
+        "James Dewar",
+        "Thomas Edison",
+        "Isaac Newton",
+        "Nikola Tesla"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wollte kalte Flüssigkeiten aufbewahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Thermoskanne kann auch Getränke kalt halten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Prinzip wirkt in beide Richtungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wärme wandert durch Leitung, Strömung und Strahlung.",
+        "Ein Vakuum zwischen zwei Wänden bremst sie.",
+        "Verspiegelte Innenseiten werfen Strahlung zurück.",
+        "Vorspülen mit heißem Wasser hält länger warm."
+      ]
+    }
+  ]
+}

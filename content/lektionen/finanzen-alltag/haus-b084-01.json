@@ -1,0 +1,121 @@
+{
+  "id": "haus-b084-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wirst du Kleidermotten los?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kleidermotten",
+    "wolle",
+    "schaedlinge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleines Loch im Lieblingspullover, dann noch eins.",
+        "Oft stecken Kleidermotten dahinter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Larven sind das Problem",
+      "absaetze": [
+        "Nicht die kleinen Falter fressen Löcher, sondern ihre Larven. Sie ernähren sich von tierischen Fasern wie Wolle, Seide, Kaschmir oder Pelz.",
+        "Besonders mögen sie getragene, verschmutzte Kleidung in dunklen, ruhigen Ecken. Schweiß- und Essensreste locken sie an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Befall bekämpfen",
+      "absaetze": [
+        "Wasch befallene Kleidung bei mindestens 60 Grad, wenn das Material es verträgt. Empfindliche Stücke legst du eine Woche oder länger in den Gefrierschrank. Kälte tötet Eier und Larven.",
+        "Sauge den Schrank gründlich aus, auch Ritzen und Ecken, und wische ihn danach mit Essigwasser aus. Entsorge den Staubsaugerbeutel sofort."
+      ],
+      "merke": "Hitze oder mehrere Tage Kälte töten Eier und Larven."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Lege nur saubere Kleidung in den Schrank. Woll- und Seidensachen bewahrst du am besten in gut schließenden Beuteln oder Boxen auf.",
+        "Pheromonfallen zeigen, ob noch Motten da sind. Lavendel oder Zedernholz können abschrecken, beseitigen aber keinen Befall. Gegen hartnäckige Plagen gibt es auch winzige Schlupfwespen als natürliche Gegenspieler."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was frisst die Löcher in die Kleidung?",
+      "art": "mc",
+      "optionen": [
+        "Die Larven der Kleidermotte",
+        "Die Falter",
+        "Spinnen",
+        "Silberfischchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie fressen tierische Fasern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kleidung mögen Kleidermotten besonders?",
+      "art": "mc",
+      "optionen": [
+        "Getragene, verschmutzte Wolle",
+        "Frisch gewaschene Baumwolle",
+        "Plastikjacken",
+        "Neue Schuhe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schweiß- und Essensreste locken sie an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tötet Eier und Larven in empfindlicher Kleidung?",
+      "art": "mc",
+      "optionen": [
+        "Mehrere Tage im Gefrierschrank",
+        "Ein kurzes Lüften",
+        "Parfüm",
+        "Bügeln ohne Hitze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kälte wirkt zuverlässig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lavendel beseitigt einen bestehenden Mottenbefall zuverlässig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kann höchstens abschrecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Larven fressen tierische Fasern.",
+        "Waschen bei 60 Grad oder Einfrieren hilft.",
+        "Schrank gründlich aussaugen und auswischen.",
+        "Nur saubere Kleidung gut verschlossen lagern."
+      ]
+    }
+  ]
+}

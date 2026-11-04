@@ -1,0 +1,140 @@
+{
+  "id": "supp-b084-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft Lysin gegen Lippenherpes?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lysin",
+    "lippenherpes",
+    "aminosaeure"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Kribbeln an der Lippe, und schon kündigt sich das nächste Bläschen an.",
+        "Manche schwören auf Lysin-Tabletten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Aminosäure",
+      "absaetze": [
+        "Lysin ist ein Eiweißbaustein, den der Körper nicht selbst bilden kann. Er steckt in vielen Lebensmitteln, etwa in Milchprodukten, Fleisch, Fisch und Hülsenfrüchten.",
+        "Ein Mangel ist bei normaler Ernährung selten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee hinter Lysin",
+      "absaetze": [
+        "Herpesviren brauchen für ihre Vermehrung einen anderen Eiweißbaustein, Arginin. Die Vermutung ist, dass viel Lysin dem Arginin Konkurrenz macht.",
+        "Einige ältere, kleine Studien deuten darauf hin, dass Lysin die Zahl der Ausbrüche verringern könnte. Andere Studien fanden keinen Effekt. Gut belegt ist die Wirkung nicht."
+      ],
+      "merke": "Ob Lysin vor Lippenherpes schützt, ist nicht gut belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was bei Herpes hilft",
+      "absaetze": [
+        "Bei den ersten Anzeichen helfen Cremes mit Wirkstoffen gegen Viren, etwa aus der Apotheke. Sie wirken am besten, wenn sie früh aufgetragen werden.",
+        "Bei sehr häufigen oder schweren Ausbrüchen, bei Bläschen am Auge oder bei Säuglingen ist ärztlicher Rat wichtig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Nierenerkrankungen nicht ohne ärztlichen Rat verwenden.",
+        "In Schwangerschaft und Stillzeit nicht ohne Rücksprache verwenden.",
+        "Herpes am Auge oder bei Säuglingen immer ärztlich behandeln lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Lysin?",
+      "art": "mc",
+      "optionen": [
+        "Ein Eiweißbaustein",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Hormon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper kann ihn nicht selbst bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Eiweißbaustein brauchen Herpesviren?",
+      "art": "mc",
+      "optionen": [
+        "Arginin",
+        "Lysin",
+        "Glutamin",
+        "Glycin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lysin soll ihm Konkurrenz machen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist die Wirkung von Lysin belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nicht gut",
+        "Sehr gut",
+        "Eindeutig",
+        "Durch große Studien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind widersprüchlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Bläschen am Auge solltest du ärztlichen Rat suchen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch bei Säuglingen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lysin ist ein Eiweißbaustein.",
+        "Es soll Herpesviren bremsen.",
+        "Die Wirkung ist nicht gut belegt.",
+        "Früh aufgetragene Cremes gegen Viren helfen."
+      ]
+    }
+  ]
+}
