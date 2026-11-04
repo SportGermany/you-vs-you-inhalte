@@ -1,0 +1,121 @@
+{
+  "id": "tech-b065-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Aufzug?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Aufzugsanlagen",
+      "herausgeber": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)",
+      "url": "https://www.baua.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "aufzug",
+    "gegengewicht",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ohne Aufzüge gäbe es keine Hochhäuser.",
+        "Ihre Technik ist erstaunlich einfach und sehr sicher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Seile und Gegengewicht",
+      "absaetze": [
+        "Bei den meisten Aufzügen hängt die Kabine an Stahlseilen. Diese laufen über eine Antriebsscheibe zu einem Gegengewicht auf der anderen Seite.",
+        "Das Gegengewicht wiegt etwa so viel wie die Kabine plus halbe Beladung. Der Motor muss deshalb nur den Unterschied bewegen. Das spart viel Energie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Fangvorrichtung",
+      "absaetze": [
+        "Früher fürchteten viele, ein Seil könnte reißen. 1854 führte Elisha Otis in New York eine Sicherheitsbremse vor. Er ließ das Seil seiner Plattform durchtrennen, und sie blieb hängen.",
+        "Heute hat jeder Aufzug eine solche Fangvorrichtung. Wird die Kabine zu schnell, klemmt sie sich an den Führungsschienen fest. Außerdem trägt meist jedes einzelne Seil die Kabine allein."
+      ],
+      "merke": "Eine Fangvorrichtung stoppt die Kabine, wenn sie zu schnell wird."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher unterwegs",
+      "absaetze": [
+        "Aufzüge werden regelmäßig von Sachverständigen geprüft. Bleibt einer stecken, hilft der Notruf in der Kabine. Versuche nicht, selbst herauszuklettern.",
+        "Bei einem Brand solltest du Aufzüge nie benutzen. Nimm dann immer die Treppe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient das Gegengewicht?",
+      "art": "mc",
+      "optionen": [
+        "Es gleicht das Gewicht der Kabine aus und spart Energie",
+        "Es bremst den Aufzug im Notfall",
+        "Es öffnet die Türen",
+        "Es beleuchtet den Schacht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Motor bewegt nur den Unterschied."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer führte 1854 eine Sicherheitsbremse vor?",
+      "art": "mc",
+      "optionen": [
+        "Elisha Otis",
+        "Thomas Edison",
+        "Carl Benz",
+        "Nikola Tesla"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ließ das Seil durchtrennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei einem Brand tun?",
+      "art": "mc",
+      "optionen": [
+        "Die Treppe nehmen",
+        "Den Aufzug nehmen",
+        "Im Aufzug warten",
+        "Den Aufzug blockieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aufzüge bei Brand nie benutzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Meist trägt jedes einzelne Seil die Kabine allein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das macht Aufzüge sehr sicher."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kabine hängt an Seilen mit Gegengewicht.",
+        "Das Gegengewicht spart Energie.",
+        "Eine Fangvorrichtung verhindert Abstürze.",
+        "Bei Brand immer die Treppe nehmen."
+      ]
+    }
+  ]
+}

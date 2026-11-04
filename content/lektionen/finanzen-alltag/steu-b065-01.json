@@ -1,0 +1,121 @@
+{
+  "id": "steu-b065-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Warum zahlst du auf Versicherungen Steuern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Versicherungsteuer",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "versicherungsteuer",
+    "verbrauchsteuer",
+    "versicherungen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf deiner Versicherungsrechnung steht oft ein Posten namens Versicherungsteuer.",
+        "Viele übersehen, dass im Beitrag eine Steuer steckt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Steuer auf Beiträge",
+      "absaetze": [
+        "Für viele Versicherungen zahlst du zusätzlich zum Beitrag Versicherungsteuer. Der übliche Satz liegt bei 19 Prozent des Beitrags.",
+        "Die Steuer betrifft etwa Haftpflicht-, Hausrat-, Kfz- und Rechtsschutzversicherungen. Der Versicherer zieht sie ein und führt sie an den Staat ab. Die Einnahmen fließen an den Bund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was steuerfrei ist",
+      "absaetze": [
+        "Nicht alle Versicherungen sind betroffen. Kranken-, Pflege- und Lebensversicherungen sind in der Regel von der Versicherungsteuer befreit.",
+        "Damit sollen Absicherungen, die besonders wichtig für die Existenz sind, nicht zusätzlich verteuert werden."
+      ],
+      "merke": "Kranken- und Lebensversicherungen sind meist steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Feuerschutzsteuer",
+      "absaetze": [
+        "Bei Versicherungen gegen Feuer, etwa in der Wohngebäude- oder Hausratversicherung, fällt teilweise zusätzlich die Feuerschutzsteuer an.",
+        "Ihre Einnahmen gehen an die Bundesländer. Sie unterstützen damit den Brandschutz und die Feuerwehren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der übliche Satz der Versicherungsteuer?",
+      "art": "mc",
+      "optionen": [
+        "19 Prozent",
+        "1 Prozent",
+        "50 Prozent",
+        "0 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird auf den Beitrag erhoben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung ist in der Regel steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Die Krankenversicherung",
+        "Die Hausratversicherung",
+        "Die Kfz-Versicherung",
+        "Die Rechtsschutzversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Lebensversicherungen sind meist befreit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird die Feuerschutzsteuer verwendet?",
+      "art": "mc",
+      "optionen": [
+        "Für Brandschutz und Feuerwehren",
+        "Für Autobahnen",
+        "Für Schulen",
+        "Für die Rente"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Einnahmen gehen an die Länder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Versicherungsteuer führt der Versicherer an den Staat ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Du zahlst sie mit dem Beitrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Auf viele Versicherungsbeiträge fällt Steuer an.",
+        "Der übliche Satz liegt bei 19 Prozent.",
+        "Kranken- und Lebensversicherungen sind meist befreit.",
+        "Die Feuerschutzsteuer finanziert Feuerwehren mit."
+      ]
+    }
+  ]
+}

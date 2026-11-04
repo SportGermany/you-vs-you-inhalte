@@ -1,0 +1,121 @@
+{
+  "id": "koer-b065-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie funktioniert das Hören?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hoeren",
+    "ohr",
+    "sinne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Flüstern, ein Vogelruf, ein Donnerschlag: Unsere Ohren verarbeiten eine riesige Bandbreite an Tönen.",
+        "Dahinter steckt eine erstaunliche Mechanik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Schall zur Bewegung",
+      "absaetze": [
+        "Schall ist eine Schwingung der Luft. Die Ohrmuschel fängt sie auf und leitet sie durch den Gehörgang zum Trommelfell. Das Trommelfell beginnt zu schwingen.",
+        "Dahinter sitzen drei winzige Knochen: Hammer, Amboss und Steigbügel. Der Steigbügel ist der kleinste Knochen des Körpers. Die Knöchelchen verstärken die Schwingung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Hörschnecke",
+      "absaetze": [
+        "Die Schwingungen gelangen ins Innenohr, in die mit Flüssigkeit gefüllte Hörschnecke. Dort sitzen Tausende Haarsinneszellen.",
+        "Sie wandeln die Bewegung in Nervensignale um. Je nach Tonhöhe werden andere Zellen gereizt. Das Gehirn setzt daraus Töne, Sprache und Musik zusammen."
+      ],
+      "merke": "Haarsinneszellen in der Hörschnecke wandeln Schall in Nervensignale um."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wir hören können",
+      "absaetze": [
+        "Junge Menschen hören Töne von etwa 20 bis 20.000 Schwingungen pro Sekunde. Mit dem Alter lässt das Hören hoher Töne nach.",
+        "Die Haarsinneszellen wachsen beim Menschen nicht nach. Deshalb ist es wichtig, die Ohren vor zu großem Lärm zu schützen. Im Innenohr liegt übrigens auch das Gleichgewichtsorgan."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Knochen ist der kleinste des Körpers?",
+      "art": "mc",
+      "optionen": [
+        "Der Steigbügel",
+        "Der Hammer",
+        "Das Schlüsselbein",
+        "Der kleine Zeh"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er sitzt im Mittelohr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird Schall in Nervensignale umgewandelt?",
+      "art": "mc",
+      "optionen": [
+        "In der Hörschnecke",
+        "Im Trommelfell",
+        "In der Ohrmuschel",
+        "Im Gehörgang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort sitzen Haarsinneszellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Tonbereich hören junge Menschen etwa?",
+      "art": "mc",
+      "optionen": [
+        "20 bis 20.000 Schwingungen pro Sekunde",
+        "1 bis 10 Schwingungen pro Sekunde",
+        "Nur tiefe Töne",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hohe Töne gehen mit dem Alter verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Haarsinneszellen wachsen beim Menschen nach.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Deshalb ist Lärmschutz so wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Trommelfell schwingt mit dem Schall.",
+        "Drei Gehörknöchelchen verstärken die Schwingung.",
+        "In der Hörschnecke entstehen Nervensignale.",
+        "Haarsinneszellen wachsen nicht nach."
+      ]
+    }
+  ]
+}

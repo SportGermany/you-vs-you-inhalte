@@ -1,0 +1,121 @@
+{
+  "id": "geld-b065-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was passiert bei einem Aktiensplit?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wertpapiere",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "aktiensplit",
+    "aktien",
+    "boerse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich hast du viermal so viele Aktien im Depot, aber jede kostet nur noch ein Viertel.",
+        "Das ist ein Aktiensplit. Reicher wirst du dadurch nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Stücke, gleicher Wert",
+      "absaetze": [
+        "Bei einem Aktiensplit teilt ein Unternehmen seine Aktien auf. Bei einem Split im Verhältnis eins zu vier wird aus einer Aktie vier.",
+        "Der Kurs pro Aktie sinkt entsprechend auf ein Viertel. Der Gesamtwert deiner Aktien und der Wert des Unternehmens bleiben gleich."
+      ],
+      "merke": "Ein Split ändert den Wert deiner Anlage nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Unternehmen splitten",
+      "absaetze": [
+        "Ist eine Aktie sehr teuer geworden, schreckt das manche Kleinanleger ab. Nach einem Split ist eine einzelne Aktie günstiger und leichter zu handeln.",
+        "Manchmal steigt der Kurs nach einem Split kurzfristig, weil mehr Menschen kaufen. Ein dauerhafter Vorteil ist das nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der umgekehrte Fall",
+      "absaetze": [
+        "Es gibt auch einen umgekehrten Aktiensplit. Dabei werden mehrere Aktien zu einer zusammengelegt. Das machen oft Unternehmen, deren Kurs sehr niedrig ist.",
+        "Ein solcher Schritt kann ein Warnsignal sein. Schau dir dann die Lage des Unternehmens genauer an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei einem Split eins zu vier?",
+      "art": "mc",
+      "optionen": [
+        "Aus einer Aktie werden vier, der Kurs sinkt auf ein Viertel",
+        "Der Wert vervierfacht sich",
+        "Die Aktie verschwindet",
+        "Die Dividende vervierfacht sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Gesamtwert bleibt gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum splitten Unternehmen ihre Aktien?",
+      "art": "mc",
+      "optionen": [
+        "Damit einzelne Aktien günstiger und leichter handelbar sind",
+        "Um Steuern zu sparen",
+        "Um die Firma zu verkaufen",
+        "Um Mitarbeitende zu entlassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sehr teure Aktien schrecken manche ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein umgekehrter Split?",
+      "art": "mc",
+      "optionen": [
+        "Mehrere Aktien werden zu einer zusammengelegt",
+        "Eine Aktie wird verschenkt",
+        "Die Börse schließt",
+        "Die Aktie wird in Gold getauscht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann ein Warnsignal sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Durch einen Aktiensplit wirst du reicher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Gesamtwert bleibt gleich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Split teilt Aktien in mehr Stücke.",
+        "Der Gesamtwert bleibt gleich.",
+        "Einzelne Aktien werden günstiger.",
+        "Ein umgekehrter Split kann ein Warnsignal sein."
+      ]
+    }
+  ]
+}

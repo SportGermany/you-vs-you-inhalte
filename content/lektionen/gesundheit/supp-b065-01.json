@@ -1,0 +1,140 @@
+{
+  "id": "supp-b065-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Gelée Royale zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gelee-royale",
+    "bienenprodukte",
+    "allergie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit Gelée Royale füttern Bienen ihre Königin.",
+        "Als Kapsel soll der Saft auch Menschen Kraft und Jugend schenken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Futter der Königin",
+      "absaetze": [
+        "Gelée Royale ist ein Sekret aus Drüsen junger Arbeitsbienen. Alle Larven bekommen es anfangs. Nur die künftige Königin wird ihr ganzes Leben damit gefüttert.",
+        "Die Königin wird größer und lebt viel länger als die Arbeiterinnen. Daraus entstand die Idee, Gelée Royale könne auch beim Menschen Wunder wirken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was belegt ist",
+      "absaetze": [
+        "Für Menschen sind die beworbenen Wirkungen nicht belegt, etwa mehr Energie, bessere Abwehrkräfte oder ein jugendliches Aussehen. Einzelne kleine Studien deuten auf mögliche Effekte hin, sind aber wenig aussagekräftig.",
+        "Gesundheitsbezogene Werbeaussagen für Gelée Royale sind in der EU nicht zugelassen."
+      ],
+      "merke": "Die beworbenen Wirkungen sind beim Menschen nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Allergierisiko",
+      "absaetze": [
+        "Gelée Royale kann allergische Reaktionen auslösen, bis hin zu Asthmaanfällen und allergischem Schock.",
+        "Menschen mit Allergien, Asthma oder Neurodermitis sollten besonders vorsichtig sein. Bei Atemnot nach der Verwendung sofort den Notruf wählen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Allergien, Asthma oder Neurodermitis nicht verwenden.",
+        "In Schwangerschaft und Stillzeit nicht ohne ärztliche Rücksprache verwenden.",
+        "Bei Atemnot oder Schwellungen sofort den Notruf wählen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer wird bei Bienen dauerhaft mit Gelée Royale gefüttert?",
+      "art": "mc",
+      "optionen": [
+        "Die künftige Königin",
+        "Alle Drohnen",
+        "Die Wächterinnen",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird größer und lebt länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut sind die Wirkungen beim Menschen belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nicht belegt",
+        "Sehr gut",
+        "Wie bei Medikamenten",
+        "Durch große Langzeitstudien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt nur kleine Studien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Risiko ist bekannt?",
+      "art": "mc",
+      "optionen": [
+        "Allergische Reaktionen bis zu Asthmaanfällen",
+        "Haarwuchs am ganzen Körper",
+        "Bessere Sehkraft",
+        "Keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem für Allergiker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gesundheitsbezogene Werbeaussagen für Gelée Royale sind in der EU zugelassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind nicht zugelassen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gelée Royale ist das Futter der Bienenkönigin.",
+        "Wirkungen beim Menschen sind nicht belegt.",
+        "Es kann schwere Allergien auslösen.",
+        "Allergiker sollten es meiden."
+      ]
+    }
+  ]
+}

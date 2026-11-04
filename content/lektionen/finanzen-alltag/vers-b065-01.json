@@ -1,0 +1,127 @@
+{
+  "id": "vers-b065-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Musst du beim Auszug renovieren?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schoenheitsreparaturen",
+    "auszug",
+    "mietrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Umzug steht an, und der Vermieter verlangt frisch gestrichene Wände.",
+        "Ob du wirklich renovieren musst, hängt vom Mietvertrag ab, und viele Klauseln sind unwirksam."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Schönheitsreparaturen sind",
+      "absaetze": [
+        "Zu den Schönheitsreparaturen gehören etwa das Streichen von Wänden, Decken, Heizkörpern und Innentüren. Eigentlich ist der Vermieter dafür zuständig.",
+        "Er darf sie aber per Mietvertrag auf die Mieter übertragen. Dafür gelten strenge Regeln, die der Bundesgerichtshof in vielen Urteilen festgelegt hat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Klauseln sind unwirksam",
+      "absaetze": [
+        "Starre Fristen, etwa alle drei Jahre die Küche streichen, sind unwirksam. Auch eine Pflicht zur Renovierung beim Auszug, egal wie die Wohnung aussieht, gilt nicht.",
+        "Hast du eine unrenovierte Wohnung übernommen, musst du in der Regel nicht renovieren. Das gilt, wenn du dafür keinen angemessenen Ausgleich bekommen hast."
+      ],
+      "merke": "Ist die Klausel unwirksam, musst du nicht renovieren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was trotzdem gilt",
+      "absaetze": [
+        "Schäden, die du verursacht hast, musst du beheben. Auch sehr kräftige Wandfarben solltest du vor dem Auszug in neutrale Töne zurückstreichen.",
+        "Lass deinen Mietvertrag prüfen, bevor du zum Pinsel greifst. Mietervereine und Verbraucherzentralen helfen dabei."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist eigentlich für Schönheitsreparaturen zuständig?",
+      "art": "mc",
+      "optionen": [
+        "Der Vermieter",
+        "Die Gemeinde",
+        "Der Nachmieter",
+        "Die Hausverwaltung allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er darf sie aber übertragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Klausel ist unwirksam?",
+      "art": "mc",
+      "optionen": [
+        "Starre Fristen für das Streichen",
+        "Eine Regelung zur Hausordnung",
+        "Die Angabe der Miethöhe",
+        "Die Adresse der Wohnung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Renovierung beim Auszug ohne Rücksicht auf den Zustand gilt nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was musst du vor dem Auszug trotzdem tun?",
+      "art": "mc",
+      "optionen": [
+        "Selbst verursachte Schäden beheben",
+        "Die ganze Wohnung neu fliesen",
+        "Neue Fenster einbauen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch knallige Farben neutral streichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer unrenoviert eingezogen ist, muss meist nicht renovieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wenn es keinen angemessenen Ausgleich gab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schönheitsreparaturen sind eigentlich Vermietersache.",
+        "Viele Renovierungsklauseln sind unwirksam.",
+        "Selbst verursachte Schäden musst du beheben.",
+        "Den Vertrag vor dem Streichen prüfen lassen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "ern-b065-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Rosenkohl?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rosenkohl",
+    "wintergemuese",
+    "vitamin-c"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rosenkohl gehört zu den Gemüsen, die man liebt oder meidet.",
+        "Dabei steckt in den kleinen Röschen erstaunlich viel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Vitamin C im Winter",
+      "absaetze": [
+        "Rosenkohl enthält mehr Vitamin C als Orangen. Dazu kommen Vitamin K, Folsäure und reichlich Ballaststoffe.",
+        "Er hat Saison von etwa Oktober bis Februar. Wie beim Grünkohl macht Frost ihn milder, weil die Pflanze dann mehr Zucker bildet."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der typische Geschmack",
+      "absaetze": [
+        "Rosenkohl enthält Senfölglykoside. Diese Pflanzenstoffe sorgen für den leicht bitteren Geschmack. Sie werden in Studien auf mögliche Schutzwirkungen untersucht.",
+        "Wird Rosenkohl zu lange gekocht, entsteht ein unangenehmer Schwefelgeruch. Kurz gegart oder im Ofen geröstet schmeckt er milder und leicht nussig."
+      ],
+      "merke": "Kurz garen oder rösten macht Rosenkohl milder.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut verträglich machen",
+      "absaetze": [
+        "Wie andere Kohlsorten kann Rosenkohl Blähungen verursachen. Kümmel oder Fenchelsamen im Gericht können helfen. Wer ihn selten isst, beginnt mit kleinen Portionen.",
+        "Wer Blutverdünner vom Typ Vitamin-K-Gegenspieler bekommt, sollte größere Mengen mit der Arztpraxis absprechen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin steckt in Rosenkohl besonders reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B12",
+        "Keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr als in Orangen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht Rosenkohl milder?",
+      "art": "mc",
+      "optionen": [
+        "Frost und kurzes Garen",
+        "Sehr langes Kochen",
+        "Viel Zucker",
+        "Einfrieren im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Langes Kochen erzeugt Schwefelgeruch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann gegen Blähungen helfen?",
+      "art": "mc",
+      "optionen": [
+        "Kümmel oder Fenchelsamen",
+        "Mehr Kohlensäure",
+        "Kalte Getränke",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch kleine Portionen helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rosenkohl hat vor allem im Sommer Saison.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Saison ist etwa Oktober bis Februar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rosenkohl enthält mehr Vitamin C als Orangen.",
+        "Frost macht ihn milder.",
+        "Kurz garen oder rösten verbessert den Geschmack.",
+        "Bei Blutverdünnern Vitamin K beachten."
+      ]
+    }
+  ]
+}

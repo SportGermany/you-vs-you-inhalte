@@ -1,0 +1,131 @@
+{
+  "id": "ern-b065-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist bei Holunder zu beachten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "holunder",
+    "wildfruechte",
+    "giftpflanzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Frühsommer duften die weißen Holunderblüten, im Spätsommer hängen schwarze Beeren an den Sträuchern.",
+        "Holunder ist beliebt, roh aber nicht harmlos."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Roh unverträglich",
+      "absaetze": [
+        "Blätter, Stiele, unreife und auch rohe reife Beeren des Schwarzen Holunders enthalten Stoffe, die Übelkeit, Erbrechen und Durchfall auslösen können.",
+        "Beim Erhitzen werden diese Stoffe abgebaut. Holunderbeeren sollten deshalb immer gekocht werden, etwa zu Saft, Gelee oder Suppe."
+      ],
+      "merke": "Holunderbeeren nur gekocht verwenden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Blüten und Beeren nutzen",
+      "absaetze": [
+        "Die Blüten werden von Mai bis Juni für Sirup oder Tee gesammelt. Die Beeren reifen etwa im August und September.",
+        "Entferne vor dem Kochen die Stiele gründlich. Gekochter Holundersaft liefert Vitamin C und viele Farbstoffe aus der Gruppe der Anthocyane."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht verwechseln",
+      "absaetze": [
+        "Neben dem Schwarzen Holunder gibt es den Zwerg-Holunder, auch Attich genannt. Er wächst nicht als Strauch, sondern als hohe Staude, und gilt als giftig.",
+        "Sammle nur, was du sicher erkennst. Wer nach dem Verzehr starke Beschwerden bekommt, sollte den Giftnotruf anrufen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sollten Holunderbeeren verwendet werden?",
+      "art": "mc",
+      "optionen": [
+        "Gekocht",
+        "Roh vom Strauch",
+        "Unreif",
+        "Mit den Stielen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Erhitzen werden unverträgliche Stoffe abgebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann roher Holunder auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Übelkeit und Erbrechen",
+        "Bessere Sehkraft",
+        "Müdigkeit allein",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das betrifft auch reife Beeren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welcher Pflanze kann Schwarzer Holunder verwechselt werden?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem giftigen Zwerg-Holunder",
+        "Mit Petersilie",
+        "Mit Brombeeren",
+        "Mit Basilikum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wächst als hohe Staude."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Holunderblüten werden etwa von Mai bis Juni gesammelt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Beeren folgen im Spätsommer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Roher Holunder kann Übelkeit auslösen.",
+        "Beeren immer kochen und Stiele entfernen.",
+        "Blüten eignen sich für Sirup.",
+        "Zwerg-Holunder ist giftig."
+      ]
+    }
+  ]
+}

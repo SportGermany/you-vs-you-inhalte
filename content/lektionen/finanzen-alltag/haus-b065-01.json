@@ -1,0 +1,121 @@
+{
+  "id": "haus-b065-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bekommst du Kalk im Bad weg?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kalk",
+    "badreinigung",
+    "hausmittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weiße Flecken auf Fliesen, Armaturen und der Duschwand ärgern viele.",
+        "Kalk lässt sich mit einfachen Mitteln entfernen und vermeiden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher der Kalk kommt",
+      "absaetze": [
+        "Leitungswasser enthält gelöste Mineralstoffe, vor allem Calcium. Verdunstet das Wasser, bleiben sie als weißer Belag zurück.",
+        "In Regionen mit hartem Wasser bildet sich besonders viel Kalk. Wie hart dein Wasser ist, erfährst du bei deinem Wasserversorger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanft entfernen",
+      "absaetze": [
+        "Säure löst Kalk. Verdünnte Essigessenz oder Zitronensäure aus der Drogerie sind wirksam und günstig. Lass sie kurz einwirken und spüle dann gründlich nach.",
+        "Den Duschkopf kannst du abschrauben und in eine Lösung legen. Bei Naturstein wie Marmor dürfen keine Säuren verwendet werden, sie greifen die Oberfläche an. Auch empfindliche Armaturen solltest du nur kurz behandeln."
+      ],
+      "merke": "Keine Säuren auf Naturstein wie Marmor verwenden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen ist leichter",
+      "absaetze": [
+        "Zieh Duschwand und Fliesen nach dem Duschen mit einem Abzieher ab. Wo kein Wasser stehen bleibt, bildet sich kaum Kalk.",
+        "Ein Mikrofasertuch für die Armaturen nach dem Benutzen spart später viel Putzarbeit. Mische Reiniger nie miteinander, vor allem keine säurehaltigen mit chlorhaltigen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Kalk im Bad vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Aus Mineralstoffen wie Calcium aus dem Wasser",
+        "Aus Seife",
+        "Aus Schimmel",
+        "Aus Staub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er bleibt beim Verdunsten zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst Kalk?",
+      "art": "mc",
+      "optionen": [
+        "Säuren wie Essig oder Zitronensäure",
+        "Öl",
+        "Salz",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gründlich nachspülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo darfst du keine Säure verwenden?",
+      "art": "mc",
+      "optionen": [
+        "Auf Naturstein wie Marmor",
+        "Auf Glas",
+        "Auf Keramikfliesen",
+        "Im Duschkopf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Säure greift den Stein an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Abzieher nach dem Duschen beugt Kalk vor.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wo kein Wasser steht, bildet sich kaum Kalk."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kalk entsteht, wenn hartes Wasser verdunstet.",
+        "Essig oder Zitronensäure lösen ihn.",
+        "Keine Säure auf Naturstein.",
+        "Nach dem Duschen abziehen beugt vor."
+      ]
+    }
+  ]
+}

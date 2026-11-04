@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b065-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schlafen Tiere?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tiere",
+    "schlafforschung",
+    "evolution"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast alle Tiere schlafen, aber auf sehr unterschiedliche Weise.",
+        "Manche sogar mit nur einer Hälfte ihres Gehirns."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Große Unterschiede",
+      "absaetze": [
+        "Manche Fledermäuse schlafen bis zu 20 Stunden am Tag. Giraffen kommen dagegen mit wenigen Stunden aus, oft in kurzen Abschnitten.",
+        "Pflanzenfresser, die viel fressen müssen und gejagt werden, schlafen oft weniger. Raubtiere schlafen häufig länger."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Halb wach, halb im Schlaf",
+      "absaetze": [
+        "Delfine schlafen mit nur einer Gehirnhälfte. Die andere bleibt wach, damit sie zum Atmen auftauchen und auf Gefahren achten können. Dabei ist oft ein Auge geöffnet.",
+        "Auch manche Vögel können so schlafen. Fregattvögel schlafen sogar im Flug, allerdings nur sehr kurz."
+      ],
+      "merke": "Delfine schlafen mit nur einer Gehirnhälfte.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum alle schlafen",
+      "absaetze": [
+        "Schlaf ist riskant, weil Tiere dann leichter angreifbar sind. Dass er sich trotzdem bei fast allen Tieren gehalten hat, zeigt seine Bedeutung.",
+        "Schlaf dient unter anderem der Erholung des Gehirns und der Verarbeitung von Erfahrungen. Selbst Fruchtfliegen zeigen Ruhephasen, die dem Schlaf ähneln."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schlafen Delfine?",
+      "art": "mc",
+      "optionen": [
+        "Mit nur einer Gehirnhälfte",
+        "Gar nicht",
+        "Nur an Land",
+        "Im Winterschlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die andere Hälfte bleibt wach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tiere schlafen besonders lange?",
+      "art": "mc",
+      "optionen": [
+        "Manche Fledermäuse",
+        "Giraffen",
+        "Pferde",
+        "Elefanten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis zu 20 Stunden am Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vögel können im Flug schlafen?",
+      "art": "mc",
+      "optionen": [
+        "Fregattvögel",
+        "Hühner",
+        "Strauße",
+        "Pinguine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Allerdings nur sehr kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fast alle Tiere schlafen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das zeigt, wie wichtig Schlaf ist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tiere schlafen sehr unterschiedlich lange.",
+        "Delfine schlafen mit einer Gehirnhälfte.",
+        "Manche Vögel schlafen im Flug.",
+        "Schlaf ist trotz Risiken überall verbreitet."
+      ]
+    }
+  ]
+}

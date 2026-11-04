@@ -1,0 +1,121 @@
+{
+  "id": "all-b065-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was sind Doppelsterne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sterne",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "doppelsterne",
+    "sterne",
+    "astronomie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Unsere Sonne ist ein Einzelgänger.",
+        "Viele andere Sterne haben dagegen einen oder mehrere Partner."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sterne im Paar",
+      "absaetze": [
+        "Doppelsterne sind zwei Sterne, die sich gegenseitig umkreisen. Sie werden durch ihre Schwerkraft zusammengehalten. Bei Sternen wie der Sonne lebt etwa jeder zweite in einem solchen System.",
+        "Manche Systeme bestehen sogar aus drei oder mehr Sternen. Unser nächster Nachbar Alpha Centauri ist ein Dreifachsystem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unsichtbare Partner",
+      "absaetze": [
+        "Viele Doppelsterne sind so eng, dass man sie mit dem Auge nicht trennen kann. Sirius, der hellste Stern am Nachthimmel, hat einen kleinen Begleiter. Er ist ein Weißer Zwerg.",
+        "Manche Doppelsterne verraten sich, weil sie sich gegenseitig verdecken. Ihre Helligkeit schwankt dann regelmäßig."
+      ],
+      "merke": "Sirius hat einen kleinen Begleiter, einen Weißen Zwerg."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtig für die Forschung",
+      "absaetze": [
+        "Aus den Bahnen von Doppelsternen lässt sich berechnen, wie schwer die Sterne sind. So haben Astronomen viel über Sterne gelernt.",
+        "Manche Doppelsterne tauschen Materie aus. Das kann zu spektakulären Ausbrüchen führen, etwa zu bestimmten Arten von Supernovae."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Doppelstern?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Sterne, die sich gegenseitig umkreisen",
+        "Ein besonders heller Stern",
+        "Ein Stern mit zwei Namen",
+        "Ein Planet und ein Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schwerkraft hält sie zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Alpha Centauri?",
+      "art": "mc",
+      "optionen": [
+        "Ein Dreifachsternsystem",
+        "Ein Einzelstern",
+        "Ein Komet",
+        "Eine Galaxie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist unser nächster Sternnachbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was lässt sich aus den Bahnen von Doppelsternen berechnen?",
+      "art": "mc",
+      "optionen": [
+        "Wie schwer die Sterne sind",
+        "Wie alt das Universum ist",
+        "Wie das Wetter wird",
+        "Wie viele Planeten es gibt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist für die Forschung sehr wertvoll."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sirius hat einen kleinen Begleitstern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist ein Weißer Zwerg."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Doppelsterne umkreisen sich gegenseitig.",
+        "Viele Sterne leben in solchen Systemen.",
+        "Sirius hat einen kleinen Begleiter.",
+        "Ihre Bahnen verraten die Sternmassen."
+      ]
+    }
+  ]
+}
