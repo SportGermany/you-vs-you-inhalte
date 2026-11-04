@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b076-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Träumen wir in Farbe?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "traeume",
+    "farbe",
+    "schlafforschung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Erinnerst du dich, welche Farbe das Auto in deinem letzten Traum hatte?",
+        "Die meisten wissen es nicht, und das hat Gründe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Meistens ja",
+      "absaetze": [
+        "Heute berichten die meisten Menschen, dass sie überwiegend in Farbe träumen. Werden sie direkt nach einem Traum geweckt, nennen viele auch Farben.",
+        "Oft spielen Farben im Traum aber keine große Rolle. Deshalb erinnern wir uns kaum an sie, selbst wenn sie da waren."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Einfluss des Fernsehens",
+      "absaetze": [
+        "In Befragungen aus der Mitte des 20. Jahrhunderts gaben auffallend viele Menschen an, in Schwarz-Weiß zu träumen. Später sank dieser Anteil deutlich.",
+        "Eine Studie deutete darauf hin, dass Menschen, die mit Schwarz-Weiß-Fernsehen aufwuchsen, häufiger von grauen Träumen berichten. Ob das an den Medien oder an der Art der Befragung liegt, ist nicht sicher."
+      ],
+      "merke": "Medien könnten beeinflussen, wie wir uns an Träume erinnern.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Träume fühlen sich echt an",
+      "absaetze": [
+        "Unabhängig von Farben wirken Träume oft lebendig. Das Gehirn nutzt im Traum ähnliche Bereiche wie beim echten Sehen.",
+        "Menschen, die von Geburt an blind sind, sehen im Traum keine Bilder. Ihre Träume bestehen aus Geräuschen, Berührungen und Gerüchen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie träumen die meisten Menschen heute?",
+      "art": "mc",
+      "optionen": [
+        "Überwiegend in Farbe",
+        "Nur in Schwarz-Weiß",
+        "Nur in Rot",
+        "Gar nicht in Bildern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Farben spielen aber oft keine große Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum erinnern wir uns kaum an Farben im Traum?",
+      "art": "mc",
+      "optionen": [
+        "Sie spielen oft keine große Rolle",
+        "Es gibt keine",
+        "Sie sind zu hell",
+        "Wir schlafen zu kurz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unwichtiges vergessen wir schnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon berichteten Menschen, die mit Schwarz-Weiß-Fernsehen aufwuchsen, häufiger?",
+      "art": "mc",
+      "optionen": [
+        "Von grauen Träumen",
+        "Von Albträumen",
+        "Von Klarträumen",
+        "Von gar keinen Träumen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ursache ist nicht sicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von Geburt an blinde Menschen träumen mit Geräuschen und Berührungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bilder sehen sie im Traum nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die meisten träumen überwiegend in Farbe.",
+        "Farben im Traum vergessen wir schnell.",
+        "Medien könnten die Erinnerung beeinflussen.",
+        "Blinde träumen mit anderen Sinnen."
+      ]
+    }
+  ]
+}

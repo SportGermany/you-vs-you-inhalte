@@ -1,0 +1,121 @@
+{
+  "id": "tech-b076-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Mikrofon?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik verstehen",
+      "herausgeber": "Deutsche Physikalische Gesellschaft",
+      "url": "https://www.dpg-physik.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mikrofon",
+    "schall",
+    "technik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du sprichst, und dein Handy macht daraus eine Sprachnachricht.",
+        "Den ersten Schritt erledigt ein winziges Mikrofon."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schall bewegt eine Membran",
+      "absaetze": [
+        "Schall besteht aus winzigen Druckschwankungen in der Luft. In jedem Mikrofon steckt eine dünne Membran. Sie schwingt im Takt dieser Druckschwankungen.",
+        "Das Mikrofon wandelt die Bewegung der Membran in ein elektrisches Signal um. So wird aus Schall Strom, den man speichern oder verstärken kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei klassische Bauarten",
+      "absaetze": [
+        "Beim dynamischen Mikrofon hängt an der Membran eine kleine Spule in einem Magnetfeld. Schwingt sie, entsteht Strom. Es funktioniert wie ein Lautsprecher, nur umgekehrt.",
+        "Beim Kondensatormikrofon bildet die Membran eine Platte eines Kondensators. Schwingt sie, ändert sich der Abstand zur zweiten Platte und damit das elektrische Signal. Es braucht dafür Strom."
+      ],
+      "merke": "Ein dynamisches Mikrofon ist ein umgekehrter Lautsprecher."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Winzig im Handy",
+      "absaetze": [
+        "In Smartphones stecken winzige Mikrofone auf Chips, nur wenige Millimeter groß. Meist sind es mehrere.",
+        "Mit mehreren Mikrofonen kann das Handy Umgebungsgeräusche herausrechnen. So klingt deine Stimme beim Telefonieren klarer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schwingt in einem Mikrofon im Takt des Schalls?",
+      "art": "mc",
+      "optionen": [
+        "Eine dünne Membran",
+        "Ein Zahnrad",
+        "Eine Glühbirne",
+        "Ein Magnetband"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihre Bewegung wird zu Strom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ähnelt ein dynamisches Mikrofon einem Lautsprecher?",
+      "art": "mc",
+      "optionen": [
+        "Es funktioniert wie ein Lautsprecher, nur umgekehrt",
+        "Es ist genau dasselbe Gerät",
+        "Es hat keine Spule",
+        "Es braucht Batterien zum Leuchten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Spule im Magnetfeld erzeugt Strom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum haben Handys mehrere Mikrofone?",
+      "art": "mc",
+      "optionen": [
+        "Um Umgebungsgeräusche herauszurechnen",
+        "Um schwerer zu sein",
+        "Zur Dekoration",
+        "Um Musik lauter abzuspielen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Stimme klingt dann klarer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kondensatormikrofon braucht Strom zum Arbeiten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ohne Spannung entsteht kein Signal."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schall lässt eine Membran schwingen.",
+        "Das Mikrofon macht daraus ein elektrisches Signal.",
+        "Dynamische Mikrofone nutzen eine Spule im Magnetfeld.",
+        "Handys nutzen mehrere winzige Mikrofone."
+      ]
+    }
+  ]
+}

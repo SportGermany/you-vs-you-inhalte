@@ -1,0 +1,121 @@
+{
+  "id": "haus-b076-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du angelaufenes Silber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "silber",
+    "schmuck",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Silberbesteck aus der Schublade ist dunkel geworden.",
+        "Mit einem einfachen Trick glänzt es wieder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Silber anläuft",
+      "absaetze": [
+        "Silber reagiert mit Schwefelverbindungen aus der Luft, aus Eiern oder bestimmten Lebensmitteln. Dabei bildet sich eine dunkle Schicht aus Silbersulfid.",
+        "Das ist kein Schmutz im eigentlichen Sinn, sondern eine chemische Verbindung auf der Oberfläche."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Alufolien-Trick",
+      "absaetze": [
+        "Leg eine Schüssel mit Alufolie aus und gib das Silber hinein. Gieß heißes Wasser darüber und streue einige Löffel Natron oder Salz dazu.",
+        "Dabei wandert der Schwefel vom Silber zum Aluminium. Nach einigen Minuten ist das Silber deutlich heller. Spüle es ab und trockne es gut."
+      ],
+      "merke": "Alufolie, Natron und heißes Wasser lösen den dunklen Belag."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du vorsichtig sein solltest",
+      "absaetze": [
+        "Schmuck mit Perlen, Edelsteinen oder geklebten Teilen gehört nicht ins heiße Bad. Auch bewusst dunkel gefärbte Verzierungen können verschwinden.",
+        "Für solche Stücke eignet sich ein spezielles Silberputztuch. Bewahre Silber trocken und möglichst luftdicht auf, dann läuft es langsamer an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum läuft Silber an?",
+      "art": "mc",
+      "optionen": [
+        "Es reagiert mit Schwefelverbindungen",
+        "Es rostet wie Eisen",
+        "Es wird zu Gold",
+        "Es nimmt Farbe aus dem Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es bildet sich Silbersulfid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du für den Alufolien-Trick?",
+      "art": "mc",
+      "optionen": [
+        "Alufolie, heißes Wasser und Natron",
+        "Essig und Öl",
+        "Nur kaltes Wasser",
+        "Zucker und Milch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schwefel wandert zum Aluminium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sollte nicht ins heiße Natronbad?",
+      "art": "mc",
+      "optionen": [
+        "Schmuck mit Perlen oder Edelsteinen",
+        "Silberlöffel",
+        "Silbergabeln",
+        "Silbermesser ohne Verzierung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür eignet sich ein Silberputztuch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Luftdichte Aufbewahrung verlangsamt das Anlaufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann gelangt weniger Schwefel an das Silber."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Silber läuft durch Schwefelverbindungen an.",
+        "Alufolie und Natron lösen den Belag.",
+        "Schmuck mit Steinen schonend reinigen.",
+        "Trocken und luftdicht lagern."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "vers-b076-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Brauchst du eine Reisegepäckversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "reisegepaeck",
+    "koffer",
+    "flugreise"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Gepäckband dreht sich alles, nur dein Koffer kommt nicht.",
+        "Zahlt dann eine Versicherung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie verspricht",
+      "absaetze": [
+        "Eine Reisegepäckversicherung soll zahlen, wenn Gepäck gestohlen, beschädigt oder verloren wird.",
+        "Die Bedingungen enthalten aber oft viele Ausschlüsse. Wertsachen, Elektronik oder unbeaufsichtigtes Gepäck sind häufig nur eingeschränkt oder gar nicht versichert. Verbraucherschützer halten sie meist für entbehrlich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Andere Wege zum Ersatz",
+      "absaetze": [
+        "Geht ein Koffer bei einer Flugreise verloren oder wird beschädigt, haftet zunächst die Fluggesellschaft. Ihre Haftung ist aber auf einen Höchstbetrag begrenzt.",
+        "Auch die Hausratversicherung zahlt oft bei Diebstahl unterwegs, etwa aus dem Hotelzimmer. Diese Außenversicherung gilt meist nur begrenzt und für eine bestimmte Zeit."
+      ],
+      "merke": "Fluggesellschaft und Hausratversicherung decken oft schon einiges ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schaden richtig melden",
+      "absaetze": [
+        "Melde fehlendes oder beschädigtes Gepäck sofort am Schalter am Flughafen. Lass dir eine Schadensmeldung geben.",
+        "Für beschädigtes Gepäck gilt bei Flügen meist eine Frist von sieben Tagen, bei verspätetem Gepäck von 21 Tagen. Bewahre Belege für Ersatzkäufe auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bewerten Verbraucherschützer Reisegepäckversicherungen meist?",
+      "art": "mc",
+      "optionen": [
+        "Als oft entbehrlich",
+        "Als unverzichtbar",
+        "Als Pflicht",
+        "Als besonders günstig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt viele Ausschlüsse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer haftet zuerst, wenn ein Koffer beim Flug verloren geht?",
+      "art": "mc",
+      "optionen": [
+        "Die Fluggesellschaft",
+        "Der Flughafen-Parkplatz",
+        "Das Reisebüro immer",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihre Haftung ist aber begrenzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt oft bei Diebstahl aus dem Hotelzimmer?",
+      "art": "mc",
+      "optionen": [
+        "Die Hausratversicherung",
+        "Die Kfz-Versicherung",
+        "Die Rentenversicherung",
+        "Die Zahnzusatzversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man Außenversicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beschädigtes Fluggepäck solltest du sofort am Flughafen melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Lass dir eine Schadensmeldung geben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reisegepäckversicherungen haben viele Ausschlüsse.",
+        "Die Fluggesellschaft haftet bis zu einem Höchstbetrag.",
+        "Die Hausrat hilft oft bei Diebstahl unterwegs.",
+        "Schäden sofort und fristgerecht melden."
+      ]
+    }
+  ]
+}

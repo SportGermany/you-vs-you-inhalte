@@ -1,0 +1,127 @@
+{
+  "id": "geo-b076-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Warum streiten Äthiopien und Ägypten um den Nil?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Länderinformationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nil",
+    "staudamm",
+    "wasser"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ohne den Nil gäbe es Ägypten, wie wir es kennen, nicht.",
+        "Doch weiter flussaufwärts staut Äthiopien das Wasser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein riesiger Staudamm",
+      "absaetze": [
+        "Seit 2011 baute Äthiopien am Blauen Nil einen gewaltigen Staudamm, den Grand Ethiopian Renaissance Dam. 2025 wurde er offiziell eingeweiht. Er beherbergt das größte Wasserkraftwerk Afrikas.",
+        "Für Äthiopien ist der Damm ein Symbol des Aufbruchs. Viele Menschen dort haben noch keinen Stromanschluss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ägyptens Sorge",
+      "absaetze": [
+        "Der Blaue Nil liefert den größten Teil des Nilwassers, das in Ägypten ankommt. Ägypten bezieht fast sein gesamtes Süßwasser aus dem Nil.",
+        "Die Regierung in Kairo fürchtet, dass in Dürrejahren zu wenig Wasser ankommt. Sie verlangt verbindliche Regeln dafür, wie der Stausee befüllt und betrieben wird."
+      ],
+      "merke": "Ägypten hängt fast vollständig vom Nilwasser ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Einigung",
+      "absaetze": [
+        "Auch der Sudan liegt am Fluss zwischen beiden Ländern und ist betroffen. Jahrelange Verhandlungen brachten bisher kein verbindliches Abkommen.",
+        "Der Streit zeigt ein Problem, das mit dem Klimawandel wächst. Wenn Wasser knapp wird, steigt das Konfliktpotenzial an Flüssen, die durch mehrere Staaten fließen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land baute den großen Staudamm am Blauen Nil?",
+      "art": "mc",
+      "optionen": [
+        "Äthiopien",
+        "Ägypten",
+        "Kenia",
+        "Marokko"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wurde 2025 eingeweiht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher bezieht Ägypten fast sein gesamtes Süßwasser?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Nil",
+        "Aus Gletschern",
+        "Aus dem Mittelmeer",
+        "Aus Regenwasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist die Sorge so groß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land liegt zwischen Äthiopien und Ägypten am Fluss?",
+      "art": "mc",
+      "optionen": [
+        "Der Sudan",
+        "Libyen",
+        "Saudi-Arabien",
+        "Tschad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch er ist betroffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es gibt ein verbindliches Abkommen über den Betrieb des Damms.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Verhandlungen brachten bisher keine Einigung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Äthiopien hat am Blauen Nil einen riesigen Damm gebaut.",
+        "Ägypten hängt fast ganz vom Nil ab.",
+        "Kairo fürchtet Wassermangel in Dürrejahren.",
+        "Ein verbindliches Abkommen fehlt."
+      ]
+    }
+  ]
+}

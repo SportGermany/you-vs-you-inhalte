@@ -1,0 +1,127 @@
+{
+  "id": "steu-b076-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die Stromsteuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energiesteuern",
+      "herausgeber": "Generalzolldirektion (Zoll)",
+      "url": "https://www.zoll.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stromsteuer",
+    "energie",
+    "oekosteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf deiner Stromrechnung stecken viele Bestandteile.",
+        "Einer davon ist eine eigene Steuer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teil der Ökosteuer",
+      "absaetze": [
+        "Die Stromsteuer wurde 1999 im Rahmen der ökologischen Steuerreform eingeführt. Sie sollte Energie verteuern und zum Sparen anregen.",
+        "Ein großer Teil der Einnahmen fließt in die Rentenversicherung. So konnten die Rentenbeiträge niedriger gehalten werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie viel sie ausmacht",
+      "absaetze": [
+        "Der normale Satz beträgt 2,05 Cent je Kilowattstunde. Darauf kommt noch die Mehrwertsteuer.",
+        "Für einen Haushalt, der im Jahr 2.500 Kilowattstunden verbraucht, sind das gut 50 Euro Stromsteuer, plus Mehrwertsteuer darauf. Erhoben wird sie vom Zoll, die Stromanbieter führen sie ab."
+      ],
+      "merke": "Der normale Stromsteuersatz beträgt 2,05 Cent je Kilowattstunde."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen und Debatten",
+      "absaetze": [
+        "Für Unternehmen des produzierenden Gewerbes und die Landwirtschaft gelten deutlich niedrigere Sätze. Strom aus kleinen eigenen Anlagen, etwa vom Hausdach, ist oft befreit.",
+        "Ob auch private Haushalte entlastet werden sollen, wird politisch immer wieder diskutiert."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde die Stromsteuer eingeführt?",
+      "art": "mc",
+      "optionen": [
+        "1999",
+        "1950",
+        "1871",
+        "2020"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Rahmen der ökologischen Steuerreform."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin fließt ein großer Teil der Einnahmen?",
+      "art": "mc",
+      "optionen": [
+        "In die Rentenversicherung",
+        "In den Straßenbau",
+        "An die Kirchen",
+        "An die Stromanbieter"
+      ],
+      "richtig": 0,
+      "erklaerung": "So blieben die Rentenbeiträge niedriger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der normale Satz?",
+      "art": "mc",
+      "optionen": [
+        "2,05 Cent je Kilowattstunde",
+        "20 Cent je Kilowattstunde",
+        "1 Euro je Kilowattstunde",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommt die Mehrwertsteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für das produzierende Gewerbe gelten niedrigere Sätze.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch die Landwirtschaft wird entlastet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Stromsteuer entstand 1999 als Ökosteuer.",
+        "Viel davon fließt in die Rentenversicherung.",
+        "Der normale Satz liegt bei 2,05 Cent je kWh.",
+        "Für Industrie und Landwirtschaft gelten Ermäßigungen."
+      ]
+    }
+  ]
+}
