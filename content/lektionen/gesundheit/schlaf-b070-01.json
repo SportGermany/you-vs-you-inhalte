@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b070-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum macht Schlafmangel schlechte Laune?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafmangel",
+    "stimmung",
+    "gefuehle"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer kurzen Nacht nervt alles ein bisschen mehr.",
+        "Das ist nicht nur ein Gefühl, sondern hat Gründe im Gehirn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gehirn reagiert stärker",
+      "absaetze": [
+        "Schlaf hilft dem Gehirn, Gefühle zu verarbeiten. Fehlt er, reagiert ein Bereich für Gefühle, die Amygdala, stärker auf negative Reize.",
+        "Gleichzeitig arbeitet der vordere Teil des Gehirns, der Gefühle bremst, schlechter. Studien deuten darauf hin, dass Menschen nach Schlafmangel gereizter und weniger geduldig sind."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Stress, weniger Freude",
+      "absaetze": [
+        "Nach wenig Schlaf erleben viele kleine Ärgernisse als größer. Sie fühlen sich schneller gestresst.",
+        "Auch positive Gefühle leiden. Freude und Motivation sind nach schlechten Nächten oft gedämpft."
+      ],
+      "merke": "Nach Schlafmangel wirken kleine Ärgernisse größer.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kreislauf",
+      "absaetze": [
+        "Dauerhaft zu wenig Schlaf hängt mit einem höheren Risiko für Depressionen und Angststörungen zusammen. Umgekehrt stören seelische Belastungen den Schlaf.",
+        "Wer merkt, dass schlechte Stimmung und schlechter Schlaf über Wochen anhalten, sollte sich Hilfe holen. Ausreichend Schlaf ist eine einfache Unterstützung für die Psyche."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Gehirnbereich reagiert nach Schlafmangel stärker auf Negatives?",
+      "art": "mc",
+      "optionen": [
+        "Die Amygdala",
+        "Das Kleinhirn",
+        "Der Sehnerv",
+        "Das Rückenmark"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist an Gefühlen beteiligt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirken kleine Ärgernisse nach wenig Schlaf?",
+      "art": "mc",
+      "optionen": [
+        "Größer",
+        "Kleiner",
+        "Gar nicht",
+        "Lustiger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man ist schneller gestresst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit hängt dauerhafter Schlafmangel zusammen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem höheren Risiko für Depressionen",
+        "Mit besserer Laune",
+        "Mit mehr Geduld",
+        "Mit nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schlaf und Psyche beeinflussen sich gegenseitig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch positive Gefühle können unter Schlafmangel leiden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Freude und Motivation sind oft gedämpft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafmangel verstärkt negative Gefühle.",
+        "Die Gefühlsbremse im Gehirn arbeitet schlechter.",
+        "Kleine Ärgernisse wirken größer.",
+        "Schlaf und Psyche hängen eng zusammen."
+      ]
+    }
+  ]
+}

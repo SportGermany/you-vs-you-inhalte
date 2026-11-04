@@ -1,0 +1,121 @@
+{
+  "id": "all-b070-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist auf der Rückseite des Mondes?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Der Mond",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mondrueckseite",
+    "mond",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wir sehen vom Mond immer nur dieselbe Seite.",
+        "Lange war die andere Hälfte völlig unbekannt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Immer dasselbe Gesicht",
+      "absaetze": [
+        "Der Mond dreht sich in derselben Zeit einmal um sich selbst, in der er die Erde umrundet. Deshalb zeigt er uns immer dieselbe Seite.",
+        "Fachleute nennen das gebundene Rotation. Die Anziehungskraft der Erde hat den Mond im Laufe der Zeit so abgebremst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht dunkel",
+      "absaetze": [
+        "Oft spricht man von der dunklen Seite des Mondes. Das stimmt nicht. Die Rückseite bekommt genauso viel Sonnenlicht wie die Vorderseite. Wir sehen sie nur nie.",
+        "Sie sieht aber anders aus. Es gibt dort viel mehr Krater und kaum die großen dunklen Flächen, die wir als Mondmeere kennen."
+      ],
+      "merke": "Die Rückseite des Mondes ist nicht dunkel, wir sehen sie nur nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erkundung der Rückseite",
+      "absaetze": [
+        "1959 fotografierte eine sowjetische Raumsonde erstmals die Rückseite. 2019 landete die chinesische Sonde Chang'e 4 als erste dort.",
+        "2024 brachte eine weitere chinesische Mission Gesteinsproben von der Rückseite zur Erde. Weil Funksignale dort von der Erde abgeschirmt sind, braucht man für Landungen einen Relaissatelliten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sehen wir immer dieselbe Seite des Mondes?",
+      "art": "mc",
+      "optionen": [
+        "Er dreht sich so schnell um sich selbst, wie er die Erde umrundet",
+        "Er dreht sich gar nicht",
+        "Die Erde verdeckt die andere Seite",
+        "Die Sonne verdeckt sie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man gebundene Rotation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist die Rückseite des Mondes dunkel?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie bekommt genauso viel Sonnenlicht",
+        "Ja, immer",
+        "Nur im Winter",
+        "Nur bei Vollmond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wir sehen sie nur nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sonde landete 2019 als erste auf der Rückseite?",
+      "art": "mc",
+      "optionen": [
+        "Chang'e 4",
+        "Apollo 11",
+        "Voyager 1",
+        "Sputnik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stammt aus China."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf der Rückseite gibt es mehr Krater als auf der Vorderseite.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Und kaum dunkle Mondmeere."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Mond zeigt uns immer dieselbe Seite.",
+        "Die Rückseite ist nicht dunkel.",
+        "Sie hat mehr Krater und kaum Mondmeere.",
+        "2019 landete erstmals eine Sonde dort."
+      ]
+    }
+  ]
+}

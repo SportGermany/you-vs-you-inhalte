@@ -1,0 +1,121 @@
+{
+  "id": "welt-b070-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Johannes Kepler?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kepler",
+    "astronomie",
+    "wissenschaftsgeschichte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Er entdeckte, dass Planeten keine Kreise, sondern Ellipsen um die Sonne ziehen.",
+        "Johannes Kepler veränderte unser Bild vom Himmel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Mathematiker des Himmels",
+      "absaetze": [
+        "Kepler wurde 1571 in Weil der Stadt in Württemberg geboren. Er wurde Mathematiker und Astronom.",
+        "In Prag arbeitete er mit dem dänischen Astronomen Tycho Brahe zusammen. Brahe hatte die Bahnen der Planeten jahrelang sehr genau beobachtet. Nach dessen Tod konnte Kepler diese Daten auswerten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Keplerschen Gesetze",
+      "absaetze": [
+        "Aus den Daten zum Mars leitete Kepler ab, dass Planeten auf Ellipsen um die Sonne laufen. Er stellte drei Gesetze der Planetenbewegung auf.",
+        "Sie beschreiben unter anderem, dass Planeten in Sonnennähe schneller sind. Isaac Newton erklärte später mit seiner Schwerkraft, warum diese Gesetze gelten."
+      ],
+      "merke": "Kepler zeigte, dass Planeten auf Ellipsen um die Sonne laufen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein bewegtes Leben",
+      "absaetze": [
+        "Kepler beschäftigte sich auch mit Optik und erklärte, wie Brillen funktionieren. Er veröffentlichte genaue Tabellen der Planetenpositionen.",
+        "Seine Mutter wurde als Hexe angeklagt. Kepler verteidigte sie über Jahre, bis sie freigelassen wurde. Er starb 1630 in Regensburg."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Form haben Planetenbahnen nach Kepler?",
+      "art": "mc",
+      "optionen": [
+        "Ellipsen",
+        "Exakte Kreise",
+        "Quadrate",
+        "Spiralen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das leitete er aus den Marsdaten ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Astronomen arbeitete Kepler in Prag?",
+      "art": "mc",
+      "optionen": [
+        "Tycho Brahe",
+        "Galileo Galilei",
+        "Kopernikus",
+        "Newton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Brahe hatte sehr genaue Beobachtungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erklärte später, warum Keplers Gesetze gelten?",
+      "art": "mc",
+      "optionen": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Aristoteles",
+        "Ptolemäus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit seiner Theorie der Schwerkraft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kepler verteidigte seine Mutter in einem Hexenprozess.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie wurde freigelassen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kepler war Mathematiker und Astronom.",
+        "Er nutzte Tycho Brahes genaue Beobachtungen.",
+        "Er zeigte, dass Planeten auf Ellipsen laufen.",
+        "Newton erklärte später seine Gesetze."
+      ]
+    }
+  ]
+}

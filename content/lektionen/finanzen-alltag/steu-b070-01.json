@@ -1,0 +1,121 @@
+{
+  "id": "steu-b070-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Laptop und Arbeitsmittel absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "arbeitsmittel",
+    "werbungskosten",
+    "computer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein neuer Laptop für die Arbeit, ein Schreibtischstuhl oder Fachbücher.",
+        "Solche Ausgaben kannst du oft von der Steuer absetzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Arbeitsmittel sind",
+      "absaetze": [
+        "Arbeitsmittel sind Gegenstände, die du für deinen Beruf nutzt. Dazu gehören etwa Computer, Fachliteratur, Werkzeug oder Berufskleidung.",
+        "Du kannst sie als Werbungskosten in der Steuererklärung angeben. Wichtig ist, dass sie überwiegend beruflich genutzt werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Computer sofort absetzen",
+      "absaetze": [
+        "Für Computer, Laptops und Software gilt seit 2021 eine Erleichterung. Sie können im Jahr der Anschaffung vollständig abgesetzt werden.",
+        "Andere teure Arbeitsmittel werden über mehrere Jahre verteilt abgeschrieben. Günstigere Gegenstände bis zu einer bestimmten Preisgrenze kannst du sofort ganz absetzen."
+      ],
+      "merke": "Computer und Software lassen sich seit 2021 im Anschaffungsjahr voll absetzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Private Nutzung und Pauschbetrag",
+      "absaetze": [
+        "Nutzt du den Laptop auch privat, kannst du nur den beruflichen Anteil absetzen. Oft wird ein angemessener Anteil geschätzt.",
+        "Für alle Arbeitnehmer gibt es außerdem einen Pauschbetrag für Werbungskosten. Einzelne Ausgaben lohnen sich steuerlich erst, wenn sie zusammen darüber liegen. Bewahre Rechnungen gut auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zählt zu Arbeitsmitteln?",
+      "art": "mc",
+      "optionen": [
+        "Computer, Fachbücher und Werkzeug für den Beruf",
+        "Urlaubsreisen",
+        "Lebensmittel",
+        "Kinokarten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie müssen überwiegend beruflich genutzt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt seit 2021 für Computer und Software?",
+      "art": "mc",
+      "optionen": [
+        "Sie können im Anschaffungsjahr voll abgesetzt werden",
+        "Sie sind nicht mehr absetzbar",
+        "Sie müssen über zehn Jahre verteilt werden",
+        "Nur Software ist absetzbar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine Erleichterung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei privater Mitnutzung?",
+      "art": "mc",
+      "optionen": [
+        "Nur der berufliche Anteil ist absetzbar",
+        "Alles ist absetzbar",
+        "Gar nichts ist absetzbar",
+        "Der doppelte Betrag ist absetzbar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft wird ein Anteil geschätzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einzelne Ausgaben lohnen sich erst über dem Werbungskosten-Pauschbetrag.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Pauschbetrag gilt ohnehin für alle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Arbeitsmittel sind Werbungskosten.",
+        "Computer und Software sind sofort voll absetzbar.",
+        "Bei privater Nutzung nur den beruflichen Anteil angeben.",
+        "Es lohnt sich über dem Pauschbetrag."
+      ]
+    }
+  ]
+}

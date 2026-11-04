@@ -1,0 +1,121 @@
+{
+  "id": "koer-b070-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum müssen wir niesen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "niesen",
+    "nase",
+    "reflex"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es kitzelt in der Nase, und plötzlich kommt ein lautes Hatschi.",
+        "Niesen ist ein Schutzreflex."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Nase wird freigepustet",
+      "absaetze": [
+        "Reizen Staub, Pollen oder Krankheitserreger die Nasenschleimhaut, löst das Gehirn einen Reflex aus. Mit einem kräftigen Luftstoß werden die Störenfriede hinausgeschleudert.",
+        "Dabei ziehen sich viele Muskeln gleichzeitig zusammen, im Gesicht, in der Brust und im Bauch. Die Augen schließen sich fast immer automatisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Niesen in die Sonne",
+      "absaetze": [
+        "Manche Menschen müssen niesen, wenn sie plötzlich in helles Licht schauen. Das nennt man photischen Niesreflex. Er ist vererbbar und harmlos.",
+        "Vermutlich liegen die Nervenbahnen für Augen und Nase so dicht beieinander, dass ein Lichtreiz den Niesreflex mit auslöst."
+      ],
+      "merke": "Manche Menschen müssen bei hellem Licht niesen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig niesen",
+      "absaetze": [
+        "Beim Niesen werden viele Tröpfchen in die Luft geschleudert. Niese deshalb in die Armbeuge oder in ein Taschentuch, nicht in die Hand.",
+        "Ein Niesen mit zugehaltener Nase und geschlossenem Mund zu unterdrücken, ist keine gute Idee. Der Druck kann in seltenen Fällen Ohren oder Gewebe verletzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient das Niesen?",
+      "art": "mc",
+      "optionen": [
+        "Es befreit die Nase von Reizstoffen",
+        "Es wärmt den Körper",
+        "Es stärkt die Muskeln",
+        "Es hat keinen Zweck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist ein Schutzreflex."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der photische Niesreflex?",
+      "art": "mc",
+      "optionen": [
+        "Niesen bei plötzlichem hellem Licht",
+        "Niesen beim Essen",
+        "Niesen im Schlaf",
+        "Niesen bei Kälte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist vererbbar und harmlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin solltest du niesen?",
+      "art": "mc",
+      "optionen": [
+        "In die Armbeuge oder ein Taschentuch",
+        "In die Hand",
+        "In die Luft",
+        "Ins Gesicht anderer"
+      ],
+      "richtig": 0,
+      "erklaerung": "So verbreiten sich weniger Tröpfchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Niesen schließen sich die Augen fast immer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das passiert automatisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Niesen ist ein Schutzreflex der Nase.",
+        "Viele Muskeln arbeiten dabei zusammen.",
+        "Manche niesen bei hellem Licht.",
+        "In die Armbeuge niesen."
+      ]
+    }
+  ]
+}

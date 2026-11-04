@@ -1,0 +1,131 @@
+{
+  "id": "ern-b070-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was musst du beim Pilzesammeln beachten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pilzvergiftungen und Pflanzenstoffe",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pilzsachverständige",
+      "herausgeber": "Deutsche Gesellschaft für Mykologie",
+      "url": "https://www.dgfm-ev.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pilze-sammeln",
+    "knollenblaetterpilz",
+    "vergiftung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Herbst zieht es viele mit Korb und Messer in den Wald.",
+        "Selbst gesammelte Pilze sind ein Genuss, Fehler können aber lebensgefährlich sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der gefährlichste Pilz",
+      "absaetze": [
+        "Der Grüne Knollenblätterpilz verursacht die meisten tödlichen Pilzvergiftungen. Schon ein einzelner Pilz kann schwere Leberschäden auslösen.",
+        "Tückisch ist, dass die Beschwerden erst viele Stunden nach dem Essen beginnen. Dann ist das Gift oft schon in die Leber gelangt. Junge Knollenblätterpilze werden leicht mit Champignons verwechselt."
+      ],
+      "merke": "Knollenblätterpilze werden oft mit Champignons verwechselt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur sammeln, was du sicher kennst",
+      "absaetze": [
+        "Sammle nur Pilze, die du ohne jeden Zweifel bestimmen kannst. Apps zur Pilzbestimmung sind dafür nicht zuverlässig genug.",
+        "Pilzsachverständige prüfen gesammelte Pilze, oft kostenlos oder gegen eine kleine Gebühr. Lass dir im Zweifel jeden einzelnen Pilz zeigen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig zubereiten",
+      "absaetze": [
+        "Die meisten Wildpilze sollten gut gegart werden, roh sind viele unverträglich. Verarbeite die Pilze bald nach dem Sammeln und bewahre sie gekühlt auf.",
+        "Bei Übelkeit, Erbrechen oder Durchfall nach einer Pilzmahlzeit ruf sofort den Giftnotruf oder den Notarzt. Bewahre Reste der Mahlzeit für die Untersuchung auf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Pilz verursacht die meisten tödlichen Vergiftungen?",
+      "art": "mc",
+      "optionen": [
+        "Der Grüne Knollenblätterpilz",
+        "Der Steinpilz",
+        "Der Pfifferling",
+        "Der Champignon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schon ein Pilz kann gefährlich sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist eine Knollenblätterpilz-Vergiftung so tückisch?",
+      "art": "mc",
+      "optionen": [
+        "Die Beschwerden beginnen erst nach vielen Stunden",
+        "Sie macht sofort Schmerzen",
+        "Sie ist immer harmlos",
+        "Man merkt sie nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist die Leber oft schon geschädigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer kann gesammelte Pilze zuverlässig prüfen?",
+      "art": "mc",
+      "optionen": [
+        "Pilzsachverständige",
+        "Eine Handy-App",
+        "Der Supermarkt",
+        "Ein Kochbuch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Apps sind nicht zuverlässig genug."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Beschwerden nach einer Pilzmahlzeit sollte man sofort den Giftnotruf anrufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Reste der Mahlzeit aufbewahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Knollenblätterpilz ist besonders gefährlich.",
+        "Vergiftungszeichen treten oft spät auf.",
+        "Nur sicher bekannte Pilze sammeln.",
+        "Im Zweifel Pilzsachverständige fragen."
+      ]
+    }
+  ]
+}

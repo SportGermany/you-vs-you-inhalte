@@ -1,0 +1,134 @@
+{
+  "id": "supp-b070-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Brennnessel-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Arzneimittel",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "brennnessel",
+    "heilpflanzen",
+    "harnwege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Brennnessel ist ein Unkraut, das jeder kennt.",
+        "Als Tee und Kapsel wird sie seit Langem in der Heilkunde verwendet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Blätter und Wurzel",
+      "absaetze": [
+        "Von der Brennnessel werden vor allem Blätter und Wurzeln genutzt. Brennnesseltee aus den Blättern wirkt leicht harntreibend.",
+        "Er wird traditionell eingesetzt, um die Harnwege bei leichten Beschwerden durchzuspülen. Zubereitungen aus der Wurzel werden bei Beschwerden durch eine gutartig vergrößerte Prostata angeboten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was belegt ist",
+      "absaetze": [
+        "Die Anwendung der Blätter beruht vor allem auf langjähriger Erfahrung. Für die Wurzel deuten einige Studien darauf hin, dass sie Beschwerden beim Wasserlassen etwas lindern kann.",
+        "Viele Präparate sind als traditionelle pflanzliche Arzneimittel zugelassen. Für andere Wirkungen, wie sie manchmal beworben werden, fehlen Belege."
+      ],
+      "merke": "Die Wirkung beruht vor allem auf langjähriger Erfahrung.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht ist geboten",
+      "absaetze": [
+        "Bei Wassereinlagerungen durch Herz- oder Nierenschwäche sollte keine Durchspülungstherapie gemacht werden. Hier kann zusätzliche Flüssigkeit schaden.",
+        "Beschwerden beim Wasserlassen sollten immer ärztlich abgeklärt werden, bevor man sie selbst behandelt. Dahinter können auch ernste Ursachen stecken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Wassereinlagerungen durch Herz- oder Nierenschwäche nicht zur Durchspülung verwenden.",
+        "Beschwerden beim Wasserlassen vorher ärztlich abklären lassen.",
+        "In Schwangerschaft und Stillzeit nicht ohne Rücksprache verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Brennnesseltee aus den Blättern?",
+      "art": "mc",
+      "optionen": [
+        "Leicht harntreibend",
+        "Stark abführend",
+        "Einschläfernd",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird zum Durchspülen der Harnwege genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür werden Zubereitungen aus der Wurzel angeboten?",
+      "art": "mc",
+      "optionen": [
+        "Bei Beschwerden durch eine vergrößerte Prostata",
+        "Gegen Sonnenbrand",
+        "Gegen Kurzsichtigkeit",
+        "Zum Muskelaufbau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Einige Studien deuten auf eine Linderung hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollte keine Durchspülungstherapie gemacht werden?",
+      "art": "mc",
+      "optionen": [
+        "Bei Wassereinlagerungen durch Herz- oder Nierenschwäche",
+        "Bei Durst",
+        "Im Sommer",
+        "Nach dem Sport"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zusätzliche Flüssigkeit kann dann schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beschwerden beim Wasserlassen sollten ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es können ernste Ursachen dahinterstecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Brennnesselblätter wirken leicht harntreibend.",
+        "Die Wurzel wird bei Prostatabeschwerden angeboten.",
+        "Die Wirkung beruht vor allem auf Erfahrung.",
+        "Bei Herz- oder Nierenschwäche Vorsicht."
+      ]
+    }
+  ]
+}

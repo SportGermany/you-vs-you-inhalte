@@ -1,0 +1,121 @@
+{
+  "id": "geld-b070-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wann musst du nachweisen, woher dein Bargeld stammt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldwäscheprävention",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bargeld",
+    "geldwaesche",
+    "nachweis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du willst Ersparnisse aus dem Sparstrumpf auf das Konto einzahlen.",
+        "Bei größeren Summen fragt die Bank dann nach der Herkunft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz vor Geldwäsche",
+      "absaetze": [
+        "Banken sind gesetzlich verpflichtet, Geldwäsche zu verhindern. Dabei wird Geld aus Straftaten so verschleiert, dass es legal aussieht.",
+        "Deshalb fragen sie bei hohen Bargeldeinzahlungen nach, woher das Geld stammt. Bei der eigenen Bank gilt das in der Regel ab 10.000 Euro."
+      ],
+      "merke": "Ab 10.000 Euro Bargeld fragt die Bank meist nach der Herkunft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Welche Nachweise helfen",
+      "absaetze": [
+        "Als Nachweis eignen sich etwa ein Kontoauszug über eine frühere Abhebung, ein Kaufvertrag, eine Schenkungsurkunde oder Belege über einen Erbfall.",
+        "Kannst du die Herkunft nicht belegen, kann die Bank die Einzahlung ablehnen. In Verdachtsfällen muss sie eine Meldung abgeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch beim Einkaufen",
+      "absaetze": [
+        "Wer teure Waren wie ein Auto oder Schmuck für 10.000 Euro oder mehr bar bezahlt, muss sich ausweisen. Für Gold liegt die Grenze für anonyme Barkäufe deutlich niedriger.",
+        "Bewahre Belege über größere Geldbewegungen auf. Das erspart später Ärger."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum fragen Banken nach der Herkunft von Bargeld?",
+      "art": "mc",
+      "optionen": [
+        "Um Geldwäsche zu verhindern",
+        "Aus Neugier",
+        "Um Gebühren zu erhöhen",
+        "Wegen des Datenschutzes"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu sind sie gesetzlich verpflichtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem Betrag fragt die eigene Bank meist nach?",
+      "art": "mc",
+      "optionen": [
+        "Ab 10.000 Euro",
+        "Ab 10 Euro",
+        "Ab 1 Million Euro",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist ein Nachweis nötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was eignet sich als Nachweis?",
+      "art": "mc",
+      "optionen": [
+        "Ein Kontoauszug über eine frühere Abhebung",
+        "Ein Kinoticket",
+        "Ein Foto vom Geld",
+        "Eine Postkarte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Kaufverträge oder Erbschaftsbelege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei teuren Barkäufen ab 10.000 Euro musst du dich ausweisen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch das dient der Geldwäschebekämpfung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Banken müssen Geldwäsche verhindern.",
+        "Ab 10.000 Euro Bargeld wird nach der Herkunft gefragt.",
+        "Belege über Geldbewegungen aufbewahren.",
+        "Auch teure Barkäufe erfordern einen Ausweis."
+      ]
+    }
+  ]
+}

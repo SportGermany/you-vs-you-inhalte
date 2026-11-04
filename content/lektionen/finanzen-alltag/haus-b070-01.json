@@ -1,0 +1,127 @@
+{
+  "id": "haus-b070-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bewahrst du Gewürze richtig auf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gewuerze",
+    "vorrat",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Paprikapulver im Schrank ist schon ein paar Jahre alt.",
+        "Verdorben ist es vermutlich nicht, aber das Aroma ist weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feinde des Aromas",
+      "absaetze": [
+        "Gewürze verlieren ihr Aroma durch Licht, Wärme, Luft und Feuchtigkeit. Bewahre sie deshalb dunkel, kühl und in gut schließenden Behältern auf.",
+        "Der Platz direkt über dem Herd ist ungünstig. Dort sind sie Hitze und Dampf ausgesetzt. Streue Gewürze auch nicht direkt aus der Dose in den dampfenden Topf."
+      ],
+      "merke": "Gewürze dunkel, kühl und luftdicht lagern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ganz hält länger",
+      "absaetze": [
+        "Ganze Gewürze wie Pfefferkörner, Kümmel oder Zimtstangen halten ihr Aroma deutlich länger als gemahlene. Mahle sie am besten erst kurz vor der Verwendung.",
+        "Gemahlene Gewürze verlieren meist innerhalb von ein bis zwei Jahren viel Aroma. Ein kurzer Riechtest zeigt, ob sie noch taugen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Mengen kaufen",
+      "absaetze": [
+        "Kaufe Gewürze, die du selten nutzt, lieber in kleinen Packungen. So bleiben sie frischer.",
+        "Getrocknete Kräuter kannst du auch selbst herstellen. Frische Kräuter lassen sich zudem gut einfrieren und behalten dabei viel Geschmack."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch verlieren Gewürze ihr Aroma?",
+      "art": "mc",
+      "optionen": [
+        "Durch Licht, Wärme, Luft und Feuchtigkeit",
+        "Durch Kälte im Schrank",
+        "Durch Dunkelheit",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb dunkel und luftdicht lagern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Platz über dem Herd ungünstig?",
+      "art": "mc",
+      "optionen": [
+        "Wegen Hitze und Dampf",
+        "Weil es dort zu dunkel ist",
+        "Weil es dort zu kalt ist",
+        "Er ist ideal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das schadet dem Aroma."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Gewürze halten ihr Aroma länger?",
+      "art": "mc",
+      "optionen": [
+        "Ganze Gewürze",
+        "Gemahlene Gewürze",
+        "Alle gleich",
+        "Nur Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten kurz vor dem Kochen mahlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Riechtest zeigt, ob Gewürze noch Aroma haben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Riecht es kaum noch, ist das Aroma weg."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gewürze dunkel, kühl und luftdicht lagern.",
+        "Nicht über dem Herd aufbewahren.",
+        "Ganze Gewürze halten länger.",
+        "Seltene Gewürze in kleinen Mengen kaufen."
+      ]
+    }
+  ]
+}

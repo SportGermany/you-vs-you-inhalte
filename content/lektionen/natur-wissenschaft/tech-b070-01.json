@@ -1,0 +1,121 @@
+{
+  "id": "tech-b070-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie wäscht eine Waschmaschine sauber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waschmaschine",
+    "waschen",
+    "energiesparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schmutzige Wäsche rein, saubere raus.",
+        "Dahinter steckt ein Zusammenspiel aus vier Faktoren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vier Faktoren",
+      "absaetze": [
+        "Für saubere Wäsche sorgen Chemie, Temperatur, Mechanik und Zeit. Das Waschmittel löst Schmutz und Fett. Wärme hilft dabei. Die Trommelbewegung lockert den Schmutz, und die Zeit gibt allem Gelegenheit zu wirken.",
+        "Wird ein Faktor kleiner, müssen die anderen größer werden. Bei niedriger Temperatur wäscht die Maschine deshalb länger."
+      ],
+      "merke": "Chemie, Temperatur, Mechanik und Zeit wirken zusammen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in der Maschine passiert",
+      "absaetze": [
+        "Die Maschine lässt Wasser einlaufen und erwärmt es mit einem Heizstab. Die Trommel dreht sich mal in die eine, mal in die andere Richtung. So reibt die Wäsche aneinander.",
+        "Nach dem Spülen schleudert die Trommel sehr schnell. Das Wasser wird nach außen gedrückt und läuft ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sparsam waschen",
+      "absaetze": [
+        "Den meisten Strom braucht das Aufheizen des Wassers. Eco-Programme waschen bei niedrigeren Temperaturen, dafür länger. Sie sparen trotzdem deutlich Energie.",
+        "Für normal verschmutzte Wäsche reichen oft 30 bis 40 Grad. Fülle die Trommel gut, aber nicht zu voll, damit die Wäsche sich noch bewegen kann."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche vier Faktoren sorgen für saubere Wäsche?",
+      "art": "mc",
+      "optionen": [
+        "Chemie, Temperatur, Mechanik und Zeit",
+        "Licht, Luft, Lärm und Laune",
+        "Nur das Waschmittel",
+        "Nur das Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gleichen sich gegenseitig aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür braucht die Waschmaschine den meisten Strom?",
+      "art": "mc",
+      "optionen": [
+        "Für das Aufheizen des Wassers",
+        "Für die Beleuchtung",
+        "Für das Display",
+        "Für das Türschloss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb sparen niedrige Temperaturen Energie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum dauern Eco-Programme länger?",
+      "art": "mc",
+      "optionen": [
+        "Weil sie mit niedrigerer Temperatur waschen",
+        "Weil sie kaputt sind",
+        "Weil sie mehr Wasser erhitzen",
+        "Weil sie zweimal waschen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Zeit gleicht die geringere Wärme aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Schleudern wird das Wasser nach außen gedrückt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Trommel dreht sich dann sehr schnell."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vier Faktoren machen Wäsche sauber.",
+        "Weniger Wärme braucht mehr Zeit.",
+        "Aufheizen kostet den meisten Strom.",
+        "Eco-Programme sparen Energie."
+      ]
+    }
+  ]
+}

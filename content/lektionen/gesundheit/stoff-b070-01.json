@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b070-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Kann man zu viel Wasser trinken?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "wasser",
+    "natrium",
+    "elektrolyte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viel trinken gilt als gesund.",
+        "Doch in seltenen Fällen kann zu viel Wasser gefährlich werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn das Salz im Blut verdünnt wird",
+      "absaetze": [
+        "Der Körper braucht ein bestimmtes Verhältnis von Wasser und Natrium im Blut. Natrium ist ein Bestandteil von Kochsalz.",
+        "Wer in kurzer Zeit sehr große Mengen Wasser trinkt, verdünnt das Natrium. Fachleute sprechen von einer Hyponatriämie. Die Nieren können das Wasser dann nicht schnell genug ausscheiden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer gefährdet ist",
+      "absaetze": [
+        "Bei gesunden Menschen im Alltag ist das sehr selten. Gefährdet sind zum Beispiel Menschen bei langen Ausdauerwettkämpfen, die übermäßig viel trinken.",
+        "Auch manche Erkrankungen und Medikamente erhöhen das Risiko. Erste Zeichen sind Kopfschmerzen, Übelkeit und Verwirrtheit. In schweren Fällen kommt es zu Krampfanfällen, das ist ein Notfall."
+      ],
+      "merke": "Bei Ausdauersport nach Durst trinken statt übermäßig viel.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gesund trinken",
+      "absaetze": [
+        "Für die meisten Menschen ist der Durst ein guter Ratgeber. Wasser und ungesüßte Tees eignen sich gut, über den Tag verteilt.",
+        "Bei langen Wettkämpfen empfehlen Fachleute, nach Durst zu trinken. Bei großer Hitze und starkem Schwitzen können Getränke mit etwas Salz sinnvoll sein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird bei zu viel Wasser im Blut verdünnt?",
+      "art": "mc",
+      "optionen": [
+        "Natrium",
+        "Zucker",
+        "Eisen",
+        "Vitamin C"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man spricht von Hyponatriämie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist besonders gefährdet?",
+      "art": "mc",
+      "optionen": [
+        "Menschen, die bei langen Ausdauerwettkämpfen übermäßig trinken",
+        "Alle, die täglich Wasser trinken",
+        "Menschen, die Tee mögen",
+        "Kinder beim Zähneputzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Alltag ist es sehr selten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für die meisten Menschen ein guter Ratgeber beim Trinken?",
+      "art": "mc",
+      "optionen": [
+        "Der Durst",
+        "Eine feste Literzahl für alle",
+        "Die Uhrzeit",
+        "Das Wetter allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser und ungesüßte Tees sind ideal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Krampfanfälle durch Wasservergiftung sind ein Notfall.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann sofort Hilfe holen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zu viel Wasser in kurzer Zeit verdünnt das Natrium.",
+        "Bei Gesunden im Alltag ist das sehr selten.",
+        "Bei Ausdauersport nach Durst trinken.",
+        "Krampfanfälle sind ein Notfall.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

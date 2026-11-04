@@ -1,0 +1,127 @@
+{
+  "id": "zeit-b070-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was geschah 1976 in Seveso?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Störfallvorsorge",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "seveso",
+    "dioxin",
+    "chemieunfall"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am 10. Juli 1976 trat in einer Chemiefabrik nahe Mailand eine giftige Wolke aus.",
+        "Der Name des Ortes steht bis heute für Industriesicherheit in Europa."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Giftwolke",
+      "absaetze": [
+        "In einem Chemiewerk bei der Kleinstadt Seveso überhitzte ein Reaktor. Ein Sicherheitsventil öffnete sich, und eine Wolke mit dem hochgiftigen Dioxin TCDD zog über die Umgebung.",
+        "Die Behörden reagierten erst nach Tagen. Tausende Tiere starben. Viele Menschen, vor allem Kinder, bekamen eine schwere Hauterkrankung namens Chlorakne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für die Region",
+      "absaetze": [
+        "Hunderte Menschen mussten ihre Häuser verlassen. Die am stärksten belasteten Flächen wurden abgetragen, Häuser abgerissen.",
+        "Fässer mit giftigem Abfall verschwanden später und wurden erst Jahre danach in Frankreich gefunden. Das löste einen Skandal aus."
+      ],
+      "merke": "Seveso zeigte, wie gefährlich mangelnde Vorsorge in Chemiewerken ist."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Seveso-Richtlinie",
+      "absaetze": [
+        "Als Reaktion beschloss die Europäische Gemeinschaft 1982 die sogenannte Seveso-Richtlinie. Sie verpflichtet Betriebe mit gefährlichen Stoffen zu strengen Sicherheitsvorkehrungen.",
+        "Die Bevölkerung muss informiert und Notfallpläne müssen vorbereitet werden. Die Richtlinie wurde seitdem mehrmals verschärft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Giftstoff trat 1976 in Seveso aus?",
+      "art": "mc",
+      "optionen": [
+        "Dioxin",
+        "Kohlenmonoxid",
+        "Chlorgas",
+        "Radioaktives Material"
+      ],
+      "richtig": 0,
+      "erklaerung": "Genauer gesagt TCDD."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Krankheit bekamen viele Kinder?",
+      "art": "mc",
+      "optionen": [
+        "Chlorakne",
+        "Masern",
+        "Diabetes",
+        "Grippe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine schwere Hauterkrankung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verpflichtet Betriebe seit 1982 zu mehr Sicherheit?",
+      "art": "mc",
+      "optionen": [
+        "Die Seveso-Richtlinie",
+        "Der Maastricht-Vertrag",
+        "Das Kyoto-Protokoll",
+        "Die Magna Carta"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wurde mehrmals verschärft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fässer mit giftigem Abfall wurden später in Frankreich gefunden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das löste einen Skandal aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "1976 trat in Seveso eine Dioxinwolke aus.",
+        "Tiere starben, Menschen erkrankten.",
+        "Giftige Abfälle verschwanden zeitweise.",
+        "Die Seveso-Richtlinie soll solche Unfälle verhindern."
+      ]
+    }
+  ]
+}
