@@ -1,0 +1,121 @@
+{
+  "id": "lern-b078-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie wirst du besser im Kopfrechnen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kopfrechnen",
+    "mathematik",
+    "uebung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Kasse schnell überschlagen, ob das Geld reicht.",
+        "Kopfrechnen ist weniger Talent als Technik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zahlen zerlegen",
+      "absaetze": [
+        "Große Aufgaben werden leichter, wenn du sie zerlegst. Bei 47 plus 38 rechnest du zuerst 40 plus 30 und dann 7 plus 8.",
+        "Beim Multiplizieren hilft das ebenso. 6 mal 24 ist 6 mal 20 plus 6 mal 4. So bleibt jeder Schritt überschaubar."
+      ],
+      "merke": "Zerlege schwierige Aufgaben in einfache Teile."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Runden und korrigieren",
+      "absaetze": [
+        "Rechne mit runden Zahlen und korrigiere danach. 99 mal 7 ist 100 mal 7 minus 7, also 693.",
+        "Auch Verdoppeln und Halbieren hilft. 25 mal 16 ist dasselbe wie 50 mal 8 oder 100 mal 4."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Arbeitsgedächtnis entlasten",
+      "absaetze": [
+        "Beim Kopfrechnen musst du Zwischenergebnisse im Kopf behalten. Das Arbeitsgedächtnis kann aber nur wenig gleichzeitig speichern. Sprich Zwischenergebnisse deshalb leise mit.",
+        "Übung macht viel aus. Überschlage im Alltag Preise, Zeiten und Entfernungen. Mit der Zeit werden viele Rechnungen automatisch."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie rechnest du 47 plus 38 im Kopf am leichtesten?",
+      "art": "mc",
+      "optionen": [
+        "Zehner und Einer getrennt addieren",
+        "Alles auf einmal",
+        "Mit einem Würfel",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "40 plus 30, dann 7 plus 8."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie rechnest du 99 mal 7 einfacher?",
+      "art": "mc",
+      "optionen": [
+        "100 mal 7 minus 7",
+        "99 mal 10",
+        "9 mal 7",
+        "99 plus 7"
+      ],
+      "richtig": 0,
+      "erklaerung": "Runden und korrigieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hilft es, Zwischenergebnisse leise mitzusprechen?",
+      "art": "mc",
+      "optionen": [
+        "Es entlastet das Arbeitsgedächtnis",
+        "Es macht schneller müde",
+        "Es stört nur",
+        "Es ersetzt das Rechnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Arbeitsgedächtnis speichert nur wenig gleichzeitig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kopfrechnen ist vor allem eine Frage der Technik und Übung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Mit Übung werden viele Rechnungen automatisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aufgaben in einfache Teile zerlegen.",
+        "Runden und danach korrigieren.",
+        "Verdoppeln und Halbieren nutzen.",
+        "Im Alltag regelmäßig üben."
+      ]
+    }
+  ]
+}

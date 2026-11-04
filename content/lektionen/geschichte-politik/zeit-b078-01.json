@@ -1,0 +1,127 @@
+{
+  "id": "zeit-b078-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was war die Spanische Grippe?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Influenza",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spanische-grippe",
+    "pandemie",
+    "1918"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Ende des Ersten Weltkriegs breitete sich eine Krankheit über die ganze Welt aus.",
+        "Sie forderte mehr Todesopfer als der Krieg selbst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine weltweite Pandemie",
+      "absaetze": [
+        "Die Spanische Grippe war eine Grippe-Pandemie in den Jahren 1918 bis 1920. Sie verbreitete sich in mehreren Wellen rund um den Globus. Schätzungen zufolge erkrankte etwa ein Drittel der Weltbevölkerung.",
+        "Die Zahl der Toten wird auf mindestens 20 bis 50 Millionen geschätzt. Manche Schätzungen liegen noch höher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum spanisch?",
+      "absaetze": [
+        "Mit Spanien hatte die Krankheit wenig zu tun. Im Krieg zensierten viele Länder Berichte, um die Stimmung nicht zu gefährden. Das neutrale Spanien berichtete dagegen offen.",
+        "So entstand der Eindruck, die Grippe sei dort besonders schlimm. Wo sie tatsächlich ihren Anfang nahm, ist bis heute nicht sicher geklärt."
+      ],
+      "merke": "Der Name stammt von der offenen Berichterstattung in Spanien."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besonders tödlich für Junge",
+      "absaetze": [
+        "Ungewöhnlich war, dass viele junge, gesunde Erwachsene starben. Oft kam es zu schweren Lungenentzündungen. Antibiotika und Grippeimpfungen gab es damals noch nicht.",
+        "Truppenbewegungen und überfüllte Lager beschleunigten die Ausbreitung. Viele Lehren aus dieser Pandemie, etwa zur Isolation von Kranken, gelten bis heute."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wütete die Spanische Grippe?",
+      "art": "mc",
+      "optionen": [
+        "1918 bis 1920",
+        "1348 bis 1350",
+        "1945 bis 1947",
+        "2009"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am Ende des Ersten Weltkriegs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hieß sie Spanische Grippe?",
+      "art": "mc",
+      "optionen": [
+        "Weil Spanien offen darüber berichtete",
+        "Weil sie sicher in Spanien begann",
+        "Weil nur Spanier erkrankten",
+        "Wegen eines spanischen Arztes"
+      ],
+      "richtig": 0,
+      "erklaerung": "Andere Länder zensierten im Krieg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was war ungewöhnlich an dieser Pandemie?",
+      "art": "mc",
+      "optionen": [
+        "Viele junge, gesunde Erwachsene starben",
+        "Nur Kinder erkrankten",
+        "Niemand starb",
+        "Sie blieb auf ein Land begrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft durch schwere Lungenentzündungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es gab damals schon Grippeimpfungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Weder Impfungen noch Antibiotika gab es damals."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Spanische Grippe wütete von 1918 bis 1920.",
+        "Sie forderte zig Millionen Tote.",
+        "Der Name kam von Spaniens offener Presse.",
+        "Viele junge Erwachsene starben."
+      ]
+    }
+  ]
+}

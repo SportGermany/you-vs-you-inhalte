@@ -1,0 +1,127 @@
+{
+  "id": "tech-b078-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Kugelschreiber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik verstehen",
+      "herausgeber": "Deutsche Physikalische Gesellschaft",
+      "url": "https://www.dpg-physik.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kugelschreiber",
+    "erfindung",
+    "tinte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Klick, und schon kannst du schreiben.",
+        "In der Spitze arbeitet eine winzige Kugel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine rollende Kugel",
+      "absaetze": [
+        "In der Spitze eines Kugelschreibers sitzt eine kleine Kugel aus Metall. Sie ist so in eine Fassung eingepasst, dass sie sich frei drehen kann.",
+        "Beim Schreiben rollt die Kugel über das Papier. Auf der Innenseite benetzt sie sich dabei mit Tinte aus der Mine und streicht sie außen auf das Papier."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zähe Tinte",
+      "absaetze": [
+        "Kugelschreiber nutzen eine zähe, ölhaltige Tinte. Sie läuft nicht aus, trocknet aber auf dem Papier schnell.",
+        "Erfunden hat die moderne Form der ungarische Journalist László Bíró. Er meldete sie Ende der 1930er-Jahre zum Patent an. In manchen Ländern heißt der Kugelschreiber deshalb bis heute einfach Biro."
+      ],
+      "merke": "Die Kugel verteilt eine zähe, schnell trocknende Tinte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schreiben im All",
+      "absaetze": [
+        "Normale Kugelschreiber brauchen die Schwerkraft, damit die Tinte nach vorn fließt. Deshalb funktionieren sie kopfüber oft nicht lange.",
+        "Spezielle Minen stehen unter Druck und schreiben auch im Weltall oder über Kopf."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Die NASA gab Millionen für einen Weltraumkuli aus, die Russen nahmen einfach Bleistifte.",
+      "urteil": "mythos",
+      "erklaerung": "Den Druckkugelschreiber entwickelte ein Unternehmer mit eigenem Geld. Die NASA kaufte die Stifte danach zu normalen Preisen, später auch die sowjetische Raumfahrt. Bleistifte waren im All sogar problematisch, weil abbrechende Spitzen und Graphitstaub umherschweben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sitzt in der Spitze eines Kugelschreibers?",
+      "art": "mc",
+      "optionen": [
+        "Eine kleine, frei drehbare Kugel",
+        "Ein Pinsel",
+        "Ein Schwamm",
+        "Ein Magnet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie verteilt die Tinte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erfand die moderne Form des Kugelschreibers?",
+      "art": "mc",
+      "optionen": [
+        "László Bíró",
+        "Thomas Edison",
+        "Johannes Gutenberg",
+        "Alexander Graham Bell"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er meldete sie Ende der 1930er-Jahre zum Patent an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schreiben normale Kugelschreiber kopfüber schlecht?",
+      "art": "mc",
+      "optionen": [
+        "Die Tinte braucht die Schwerkraft",
+        "Die Kugel fällt heraus",
+        "Das Papier wird nass",
+        "Die Mine friert ein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Druckminen lösen das Problem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bleistifte waren im All völlig unproblematisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Abbrechende Spitzen und Graphitstaub schweben umher."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine rollende Kugel verteilt die Tinte.",
+        "Die Tinte ist zäh und trocknet schnell.",
+        "László Bíró erfand die moderne Form.",
+        "Druckminen schreiben auch im All."
+      ]
+    }
+  ]
+}

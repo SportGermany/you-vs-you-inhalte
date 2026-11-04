@@ -1,0 +1,121 @@
+{
+  "id": "vers-b078-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was ist eine GAP-Versicherung beim Leasing?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kfz-Versicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gap-versicherung",
+    "leasing",
+    "totalschaden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Leasingauto wird gestohlen, die Vollkasko zahlt.",
+        "Und trotzdem bleibt eine Rechnung übrig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lücke beim Totalschaden",
+      "absaetze": [
+        "Bei einem Totalschaden oder Diebstahl zahlt die Vollkasko den Wiederbeschaffungswert. Das ist der Betrag, den ein vergleichbares Auto gerade kostet.",
+        "Die Leasinggesellschaft verlangt aber oft mehr, nämlich den noch offenen Betrag aus dem Vertrag. Die Differenz musst du selbst zahlen. Gerade in den ersten Jahren kann sie groß sein, weil Neuwagen schnell an Wert verlieren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die GAP-Versicherung macht",
+      "absaetze": [
+        "GAP ist das englische Wort für Lücke. Eine GAP-Versicherung zahlt genau diese Differenz zwischen Wiederbeschaffungswert und offener Leasingsumme.",
+        "Sie gilt nur in Verbindung mit einer Vollkasko. Auch bei finanzierten Autos gibt es ähnliche Angebote."
+      ],
+      "merke": "Die GAP-Versicherung schließt die Lücke zur offenen Leasingsumme."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorher prüfen",
+      "absaetze": [
+        "Viele Leasingverträge verlangen eine GAP-Deckung oder bieten sie gleich mit an. Manche Vollkaskoverträge enthalten sie bereits.",
+        "Prüfe deshalb, ob du sie schon hast, bevor du sie zusätzlich abschließt. Vergleiche Preise, denn über den Händler ist sie nicht immer günstig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zahlt die Vollkasko bei einem Totalschaden?",
+      "art": "mc",
+      "optionen": [
+        "Den Wiederbeschaffungswert",
+        "Den Neupreis immer",
+        "Gar nichts",
+        "Nur die Reparatur der Reifen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist der aktuelle Wert eines vergleichbaren Autos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet GAP?",
+      "art": "mc",
+      "optionen": [
+        "Lücke",
+        "Garantie",
+        "Gebühr",
+        "Geschwindigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeint ist die Lücke zur offenen Leasingsumme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran ist die GAP-Versicherung gebunden?",
+      "art": "mc",
+      "optionen": [
+        "An eine Vollkasko",
+        "An eine Haftpflicht allein",
+        "An eine Hausrat",
+        "An keine Versicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ergänzt die Vollkasko."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Vollkaskoverträge enthalten die GAP-Deckung schon.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vorher prüfen spart doppelte Kosten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Totalschaden zahlt die Vollkasko den Wiederbeschaffungswert.",
+        "Zur Leasingsumme kann eine Lücke bleiben.",
+        "Die GAP-Versicherung schließt diese Lücke.",
+        "Prüfen, ob sie schon enthalten ist."
+      ]
+    }
+  ]
+}

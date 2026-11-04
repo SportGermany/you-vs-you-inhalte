@@ -1,0 +1,121 @@
+{
+  "id": "haus-b078-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie taust du den Gefrierschrank richtig ab?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gefrierschrank",
+    "abtauen",
+    "strom-sparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Schubladen klemmen, überall wächst Eis.",
+        "Zeit, den Gefrierschrank abzutauen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Eis Strom kostet",
+      "absaetze": [
+        "Eis an den Wänden wirkt wie eine Isolierschicht. Das Gerät muss stärker arbeiten, um die Kälte zu halten. Das treibt den Stromverbrauch.",
+        "Taue deshalb ab, sobald sich eine dickere Eisschicht gebildet hat. Geräte mit NoFrost-Technik verhindern das Vereisen weitgehend."
+      ],
+      "merke": "Eine dicke Eisschicht erhöht den Stromverbrauch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schritt für Schritt",
+      "absaetze": [
+        "Räume die Lebensmittel in eine Kühlbox oder wickle sie in Zeitungspapier und Decken. Schalte das Gerät aus und zieh den Stecker. Lass die Tür offen und leg Handtücher davor.",
+        "Eine Schüssel mit heißem Wasser im Fach beschleunigt das Tauen. Kratze das Eis nicht mit Messern oder spitzen Werkzeugen ab. Dabei können Leitungen mit Kältemittel beschädigt werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Danach",
+      "absaetze": [
+        "Wische das Gerät mit warmem Wasser und etwas Spülmittel aus und trockne es gut. Schalte es dann wieder ein und warte, bis es kalt ist, bevor du die Lebensmittel zurücklegst.",
+        "Prüfe auch die Türdichtung. Klemmst du ein Blatt Papier ein und lässt es sich leicht herausziehen, schließt die Tür nicht mehr dicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum lohnt sich das Abtauen?",
+      "art": "mc",
+      "optionen": [
+        "Eis erhöht den Stromverbrauch",
+        "Eis macht Lebensmittel süß",
+        "Eis verbessert die Kühlung",
+        "Es ist gesetzlich vorgeschrieben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wirkt wie eine Isolierschicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschleunigt das Tauen?",
+      "art": "mc",
+      "optionen": [
+        "Eine Schüssel mit heißem Wasser",
+        "Ein Messer",
+        "Ein Föhn direkt an der Wand",
+        "Salz auf das Eis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu die Tür offen lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du das Eis nicht mit Messern abkratzen?",
+      "art": "mc",
+      "optionen": [
+        "Kältemittelleitungen können beschädigt werden",
+        "Das Eis wird härter",
+        "Die Lampe geht aus",
+        "Der Strom wird teurer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lieber in Ruhe tauen lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit einem Blatt Papier kannst du die Türdichtung prüfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Lässt es sich leicht herausziehen, ist die Dichtung undicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eis erhöht den Stromverbrauch.",
+        "Gerät ausschalten und Lebensmittel kühlen.",
+        "Kein spitzes Werkzeug verwenden.",
+        "Türdichtung regelmäßig prüfen."
+      ]
+    }
+  ]
+}

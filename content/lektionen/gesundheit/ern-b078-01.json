@@ -1,0 +1,131 @@
+{
+  "id": "ern-b078-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Rucola?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nitrat und Pflanzengifte",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rucola",
+    "salat",
+    "nitrat"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rucola schmeckt nussig und leicht scharf.",
+        "Aus der italienischen Küche ist er kaum wegzudenken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein würziges Blattgemüse",
+      "absaetze": [
+        "Rucola, auch Rauke genannt, gehört zu den Kreuzblütlern, wie Senf und Kohl. Seine Schärfe kommt von Senfölen.",
+        "Er liefert Vitamin K, Folat, Kalzium und Betacarotin. Als Salat, auf Pizza oder im Pesto bringt er viel Geschmack."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Nitrat",
+      "absaetze": [
+        "Rucola gehört zu den Gemüsen mit dem höchsten Nitratgehalt. Besonders im Winter und bei wenig Licht kann er viel davon enthalten.",
+        "Für Erwachsene ist das in üblichen Mengen kein Problem. Iss Rucola aber am besten frisch und bewahre Reste nicht lange warm auf. Für Babys ist stark nitrathaltiges Gemüse ungeeignet."
+      ],
+      "merke": "Rucola kann viel Nitrat enthalten, frisch essen ist sinnvoll.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut waschen und prüfen",
+      "absaetze": [
+        "Wasche Rucola gründlich und sortiere welke Blätter aus. Er verdirbt schnell und hält im Kühlschrank nur wenige Tage.",
+        "In seltenen Fällen gerieten giftige Wildkräuter wie Greiskraut in Rucola-Packungen. Achte auf Blätter, die anders aussehen, und sortiere sie aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt die Schärfe von Rucola?",
+      "art": "mc",
+      "optionen": [
+        "Von Senfölen",
+        "Von Chili",
+        "Von Pfeffer",
+        "Von Essig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rucola ist mit Senf verwandt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält Rucola besonders reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Nitrat",
+        "Vitamin B12",
+        "Fett",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders im Winter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei Rucola-Packungen beachten?",
+      "art": "mc",
+      "optionen": [
+        "Blätter, die anders aussehen, aussortieren",
+        "Nie waschen",
+        "Wochenlang lagern",
+        "Immer erhitzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Selten geraten giftige Wildkräuter hinein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Stark nitrathaltiges Gemüse ist für Babys ungeeignet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für Erwachsene ist es in üblichen Mengen kein Problem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rucola ist ein würziger Kreuzblütler.",
+        "Er liefert Vitamin K, Folat und Kalzium.",
+        "Er kann viel Nitrat enthalten.",
+        "Gründlich waschen und frisch essen."
+      ]
+    }
+  ]
+}

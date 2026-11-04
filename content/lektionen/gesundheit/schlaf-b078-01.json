@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b078-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Gibt es Frühjahrsmüdigkeit wirklich?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fruehjahrsmuedigkeit",
+    "jahreszeiten",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Tage werden länger, die Sonne kommt heraus.",
+        "Und trotzdem fühlen sich viele im Frühling schlapp."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein medizinischer Begriff",
+      "absaetze": [
+        "Frühjahrsmüdigkeit ist keine Krankheit und keine medizinische Diagnose. Viele Menschen berichten aber, dass sie sich im März und April müder fühlen.",
+        "Gut untersucht ist das Phänomen bisher kaum. Es gibt eher Vermutungen als gesicherte Erklärungen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Erklärungen",
+      "absaetze": [
+        "Einiges deutet darauf hin, dass sich der Körper an mehr Licht und Wärme anpassen muss. Die Hormone, die Schlaf und Wachsein steuern, stellen sich um. Bei Wärme weiten sich zudem die Blutgefäße, und der Blutdruck kann etwas sinken.",
+        "Auch die Umstellung auf die Sommerzeit Ende März bringt den Rhythmus vieler Menschen durcheinander."
+      ],
+      "merke": "Die Umstellung auf mehr Licht und Wärme könnte müde machen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Geh viel nach draußen ans Tageslicht und bewege dich. Feste Schlafzeiten helfen dem Körper, sich schneller anzupassen.",
+        "Meist ist die Müdigkeit nach ein paar Wochen vorbei. Hält sie lange an oder ist sie sehr stark, solltest du die Ursache ärztlich abklären lassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Frühjahrsmüdigkeit eine medizinische Diagnose?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, eine schwere Krankheit",
+        "Ja, eine Infektion",
+        "Ja, eine Allergie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele berichten aber davon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was könnte im Frühling müde machen?",
+      "art": "mc",
+      "optionen": [
+        "Die Umstellung auf mehr Licht und Wärme",
+        "Zu wenig Tageslicht",
+        "Mehr Kälte",
+        "Weniger Vögel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch die Zeitumstellung spielt mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen das Schlappsein?",
+      "art": "mc",
+      "optionen": [
+        "Tageslicht und Bewegung",
+        "Den ganzen Tag drinnen bleiben",
+        "Viel länger schlafen am Wochenende",
+        "Mehr Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Feste Schlafzeiten helfen ebenfalls."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Anhaltende starke Müdigkeit sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dahinter können andere Ursachen stecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Frühjahrsmüdigkeit ist keine Diagnose.",
+        "Gesicherte Erklärungen fehlen bisher.",
+        "Licht, Bewegung und feste Zeiten helfen.",
+        "Anhaltende Müdigkeit abklären lassen."
+      ]
+    }
+  ]
+}

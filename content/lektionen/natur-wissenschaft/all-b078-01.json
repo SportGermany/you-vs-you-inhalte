@@ -1,0 +1,121 @@
+{
+  "id": "all-b078-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum sieht man den Mond manchmal am Tag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mond",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mond",
+    "tageshimmel",
+    "mondphasen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Nachmittag steht blass der Mond am blauen Himmel.",
+        "Viele wundern sich, denn der Mond gehört doch in die Nacht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mond ist nicht nur nachts da",
+      "absaetze": [
+        "Der Mond kreist in etwa einem Monat einmal um die Erde. Er geht wie die Sonne jeden Tag auf und unter, aber zu wechselnden Zeiten.",
+        "Deshalb steht er an vielen Tagen auch dann über dem Horizont, wenn die Sonne scheint."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hell genug für den Tag",
+      "absaetze": [
+        "Der Mond leuchtet nicht selbst. Er wirft Sonnenlicht zurück. Das reicht, um ihn auch am hellen Tageshimmel zu sehen.",
+        "Sterne sind dagegen viel zu lichtschwach. Ihr Licht geht im hellen Himmel unter."
+      ],
+      "merke": "Der Mond ist hell genug, um am Tageshimmel sichtbar zu sein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Es hängt von der Phase ab",
+      "absaetze": [
+        "Rund um den Halbmond sieht man den Mond besonders oft am Tag. Bei zunehmendem Mond meist am Nachmittag, bei abnehmendem Mond am Vormittag.",
+        "Bei Neumond steht er nahe der Sonne und ist nicht zu sehen. Der Vollmond geht ungefähr bei Sonnenuntergang auf und ist deshalb vor allem nachts am Himmel."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Mond auch am Tag zu sehen?",
+      "art": "mc",
+      "optionen": [
+        "Er wirft genug Sonnenlicht zurück",
+        "Er leuchtet selbst",
+        "Er ist näher als die Sonne",
+        "Er ist aus Glas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sterne sind dafür zu lichtschwach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sieht man den Mond besonders oft am Tag?",
+      "art": "mc",
+      "optionen": [
+        "Rund um den Halbmond",
+        "Nur bei Vollmond",
+        "Nur bei Neumond",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zunehmend eher nachmittags."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sieht man den Neumond nicht?",
+      "art": "mc",
+      "optionen": [
+        "Er steht nahe der Sonne",
+        "Er ist verschwunden",
+        "Er ist hinter der Erde",
+        "Er leuchtet rot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seine beleuchtete Seite zeigt von uns weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Vollmond geht ungefähr bei Sonnenuntergang auf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb sieht man ihn vor allem nachts."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Mond steht oft auch am Tag über dem Horizont.",
+        "Er wirft genug Licht zurück, um sichtbar zu sein.",
+        "Rund um den Halbmond sieht man ihn oft am Tag.",
+        "Neumond ist nicht sichtbar."
+      ]
+    }
+  ]
+}

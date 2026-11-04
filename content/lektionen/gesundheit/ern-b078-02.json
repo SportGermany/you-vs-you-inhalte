@@ -1,0 +1,124 @@
+{
+  "id": "ern-b078-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Spargel?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "spargel",
+    "saison",
+    "gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Frühling beginnt in Deutschland die Spargelzeit.",
+        "Sie endet traditionell am Johannistag, dem 24. Juni."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weiß oder grün",
+      "absaetze": [
+        "Weißer und grüner Spargel stammen von derselben Pflanze. Weißer Spargel wächst unter Erdhügeln im Dunkeln. Grüner Spargel wächst im Licht und bildet deshalb den grünen Farbstoff Chlorophyll.",
+        "Grüner Spargel schmeckt kräftiger und muss meist nicht geschält werden. Weißer Spargel ist milder und wird geschält."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Spargel steckt",
+      "absaetze": [
+        "Spargel besteht zum großen Teil aus Wasser und hat wenig Kalorien. Er liefert Folat, Kalium und Ballaststoffe.",
+        "Grüner Spargel enthält meist mehr Vitamine als weißer, weil er im Licht wächst."
+      ],
+      "merke": "Spargel ist kalorienarm und liefert Folat und Kalium.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der besondere Geruch",
+      "absaetze": [
+        "Nach dem Spargelessen riecht der Urin bei vielen Menschen auffällig. Das liegt an Schwefelverbindungen, die beim Abbau bestimmter Stoffe im Spargel entstehen.",
+        "Nicht jeder kann diesen Geruch wahrnehmen. Das hängt mit den Genen zusammen. Der Geruch ist harmlos."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann endet die Spargelzeit traditionell?",
+      "art": "mc",
+      "optionen": [
+        "Am 24. Juni",
+        "Am 1. Mai",
+        "Zu Weihnachten",
+        "Am 1. September"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist der Johannistag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist grüner Spargel grün?",
+      "art": "mc",
+      "optionen": [
+        "Er wächst im Licht und bildet Chlorophyll",
+        "Er wird gefärbt",
+        "Er ist eine andere Pflanze",
+        "Er ist unreif"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weißer Spargel wächst im Dunkeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt der Geruch des Urins nach Spargel?",
+      "art": "mc",
+      "optionen": [
+        "Von Schwefelverbindungen",
+        "Von zu viel Salz",
+        "Von einer Krankheit",
+        "Von der Butter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist harmlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jeder Mensch kann den Spargelgeruch im Urin wahrnehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das hängt von den Genen ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weißer und grüner Spargel sind dieselbe Pflanze.",
+        "Spargel ist kalorienarm.",
+        "Grüner Spargel enthält oft mehr Vitamine.",
+        "Der Uringeruch ist harmlos."
+      ]
+    }
+  ]
+}

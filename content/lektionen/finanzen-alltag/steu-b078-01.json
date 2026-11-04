@@ -1,0 +1,121 @@
+{
+  "id": "steu-b078-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wird ein Nebenjob besteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nebenjob",
+    "steuerklasse",
+    "nebeneinkuenfte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Neben dem Hauptjob noch ein paar Stunden im Café oder als Freelancer.",
+        "Was bleibt davon nach Steuern übrig?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Minijob oder zweiter Job",
+      "absaetze": [
+        "Ein Minijob bis zur geltenden Verdienstgrenze ist für dich meist steuer- und abgabenfrei. Der Arbeitgeber zahlt pauschale Abgaben.",
+        "Ein zweiter regulärer Job neben dem Hauptjob läuft in der Steuerklasse VI. Dort werden hohe Abzüge einbehalten, weil kein Freibetrag berücksichtigt wird. Zu viel gezahlte Steuer bekommst du über die Steuererklärung zurück."
+      ],
+      "merke": "Ein zweiter regulärer Job läuft in Steuerklasse VI."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selbstständig nebenbei",
+      "absaetze": [
+        "Arbeitest du nebenbei selbstständig, etwa als Grafikerin oder Nachhilfelehrer, musst du die Einnahmen in der Steuererklärung angeben. Die Ausgaben dafür kannst du abziehen.",
+        "Für Angestellte gilt: Bleiben die Nebeneinkünfte nach Abzug der Kosten bei höchstens 410 Euro im Jahr, sind sie steuerfrei. Bei etwas mehr gibt es einen gleitenden Ausgleich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Informiere deinen Hauptarbeitgeber, wenn dein Vertrag das verlangt. Achte auch auf Arbeitszeitgrenzen.",
+        "Für gemeinnützige Tätigkeiten wie Trainerjobs gibt es eigene Freibeträge. Lege für mögliche Nachzahlungen etwas Geld zurück."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Steuerklasse läuft ein zweiter regulärer Job?",
+      "art": "mc",
+      "optionen": [
+        "In Steuerklasse VI",
+        "In Steuerklasse I",
+        "In Steuerklasse III",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort werden hohe Abzüge einbehalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bekommst du zu viel gezahlte Steuer zurück?",
+      "art": "mc",
+      "optionen": [
+        "Über die Steuererklärung",
+        "Automatisch jeden Monat",
+        "Vom Arbeitgeber in bar",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Finanzamt rechnet alles zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welchem Betrag sind Nebeneinkünfte für Angestellte steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Bis 410 Euro im Jahr",
+        "Bis 10.000 Euro",
+        "Bis 5 Euro",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeint ist der Betrag nach Abzug der Kosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Minijob ist für dich meist steuerfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Arbeitgeber zahlt pauschale Abgaben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Minijobs sind für dich meist steuerfrei.",
+        "Ein zweiter Job läuft in Steuerklasse VI.",
+        "Selbstständige Einnahmen gehören in die Erklärung.",
+        "Kleine Nebeneinkünfte bis 410 Euro sind steuerfrei."
+      ]
+    }
+  ]
+}
