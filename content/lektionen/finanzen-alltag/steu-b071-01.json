@@ -1,0 +1,121 @@
+{
+  "id": "steu-b071-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Unterhalt für Angehörige absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "unterhalt",
+    "aussergewoehnliche-belastungen",
+    "familie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du unterstützt deine Eltern finanziell oder dein erwachsenes Kind im Studium.",
+        "Solche Zahlungen können die Steuer senken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterhalt als Belastung",
+      "absaetze": [
+        "Unterhalt an Angehörige, denen du gesetzlich Unterhalt schuldest, kannst du als außergewöhnliche Belastung angeben. Dazu gehören etwa bedürftige Eltern oder Kinder.",
+        "Voraussetzung ist, dass die unterstützte Person kaum eigenes Einkommen oder Vermögen hat. Für Kinder, für die es noch Kindergeld gibt, gilt diese Regel nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Es gibt einen Höchstbetrag",
+      "absaetze": [
+        "Absetzbar sind Unterhaltszahlungen nur bis zu einem jährlichen Höchstbetrag. Er orientiert sich am Grundfreibetrag. Zahlst du Beiträge zur Kranken- und Pflegeversicherung der Person, erhöht sich der Betrag.",
+        "Eigene Einkünfte der unterstützten Person mindern den absetzbaren Betrag. Bewahre Überweisungsbelege gut auf."
+      ],
+      "merke": "Unterhalt ist bis zu einem Höchstbetrag absetzbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterhalt an Ex-Partner",
+      "absaetze": [
+        "Für Unterhalt an geschiedene oder getrennt lebende Ehepartner gibt es eine eigene Möglichkeit. Er kann als Sonderausgabe abgezogen werden, wenn der Empfänger zustimmt.",
+        "Der Empfänger muss den Unterhalt dann aber selbst versteuern. Dieses Verfahren nennt man Realsplitting. Lass dich im Zweifel beraten, welche Lösung günstiger ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du Unterhalt an bedürftige Eltern angeben?",
+      "art": "mc",
+      "optionen": [
+        "Als außergewöhnliche Belastung",
+        "Als Werbungskosten",
+        "Gar nicht",
+        "Als Gewerbesteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis zu einem Höchstbetrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was mindert den absetzbaren Betrag?",
+      "art": "mc",
+      "optionen": [
+        "Eigene Einkünfte der unterstützten Person",
+        "Dein Urlaub",
+        "Die Farbe des Kontos",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Person muss bedürftig sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Realsplitting?",
+      "art": "mc",
+      "optionen": [
+        "Abzug von Unterhalt an Ex-Partner als Sonderausgabe",
+        "Ein Aktiensplit",
+        "Eine Erbteilung",
+        "Ein Mietvertrag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Empfänger muss zustimmen und versteuern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Kinder mit Kindergeldanspruch gilt diese Unterhaltsregel nicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dafür gibt es Kindergeld oder Kinderfreibetrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Unterhalt an bedürftige Angehörige ist absetzbar.",
+        "Es gilt ein Höchstbetrag.",
+        "Eigene Einkünfte der Person mindern ihn.",
+        "Für Ex-Partner gibt es das Realsplitting."
+      ]
+    }
+  ]
+}

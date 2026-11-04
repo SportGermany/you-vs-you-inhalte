@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b071-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum wachen Babys nachts so oft auf?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Schlaf bei Babys",
+      "herausgeber": "Kindergesundheit-info.de",
+      "url": "https://www.kindergesundheit-info.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "babys",
+    "durchschlafen",
+    "eltern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kaum eingeschlafen, schon wieder wach.",
+        "Viele junge Eltern fragen sich, ob mit ihrem Baby etwas nicht stimmt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurze Schlafzyklen",
+      "absaetze": [
+        "Babys schlafen in kürzeren Zyklen als Erwachsene. Nach jedem Zyklus wachen sie leicht auf. Manche schlafen dann von selbst weiter, andere melden sich.",
+        "Außerdem verbringen Babys viel Zeit im leichten Traumschlaf. Aus ihm wacht man leichter auf als aus dem Tiefschlaf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunger und Entwicklung",
+      "absaetze": [
+        "In den ersten Monaten haben Babys einen kleinen Magen. Sie brauchen auch nachts Nahrung. Das nächtliche Aufwachen schützt sie davor, zu lange nichts zu bekommen.",
+        "Auch Entwicklungsschritte, Zahnen oder Infekte können den Schlaf stören. Das ist normal und meist vorübergehend."
+      ],
+      "merke": "Nächtliches Aufwachen ist bei Babys ganz normal.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Durchschlafen braucht Zeit",
+      "absaetze": [
+        "Viele Babys schlafen im ersten Lebensjahr noch nicht durch. Fachleute sprechen schon von Durchschlafen, wenn ein Baby etwa fünf bis sechs Stunden am Stück schläft.",
+        "Feste Abendrituale und ein ruhiger, dunkler Schlafplatz können helfen. Wenn du dir Sorgen machst oder sehr erschöpft bist, sprich mit der Kinderarztpraxis oder einer Hebamme."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wachen Babys häufiger auf?",
+      "art": "mc",
+      "optionen": [
+        "Sie haben kürzere Schlafzyklen",
+        "Sie schlafen nie tief",
+        "Sie mögen keine Nacht",
+        "Sie sind immer krank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach jedem Zyklus wachen sie leicht auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum brauchen Babys nachts Nahrung?",
+      "art": "mc",
+      "optionen": [
+        "Ihr Magen ist noch klein",
+        "Sie sind gelangweilt",
+        "Sie wollen spielen",
+        "Sie haben Durst auf Saft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist in den ersten Monaten normal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab wann spricht man bei Babys oft schon von Durchschlafen?",
+      "art": "mc",
+      "optionen": [
+        "Ab etwa fünf bis sechs Stunden am Stück",
+        "Ab zwölf Stunden",
+        "Ab einer Stunde",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele schaffen das im ersten Jahr noch nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Abendrituale können Babys beim Schlafen helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch ein ruhiger, dunkler Schlafplatz."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Babys haben kürzere Schlafzyklen.",
+        "Sie brauchen anfangs auch nachts Nahrung.",
+        "Nächtliches Aufwachen ist normal.",
+        "Abendrituale können helfen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "vers-b071-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann haften Eltern für ihre Kinder?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Haftungsrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "aufsichtspflicht",
+    "haftung",
+    "kinder"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eltern haften für ihre Kinder, steht auf vielen Bauzaunschildern.",
+        "Ganz so einfach ist die Rechtslage aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kinder unter sieben Jahren",
+      "absaetze": [
+        "Kinder unter sieben Jahren haften nicht für Schäden, die sie anrichten. Im Straßenverkehr gilt das sogar bis zum zehnten Geburtstag, solange sie nicht absichtlich handeln.",
+        "Ältere Kinder und Jugendliche können haften, wenn sie die Folgen ihres Handelns einsehen konnten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eltern haften nur bei verletzter Aufsicht",
+      "absaetze": [
+        "Eltern haften nicht automatisch. Sie müssen nur zahlen, wenn sie ihre Aufsichtspflicht verletzt haben.",
+        "Wie viel Aufsicht nötig ist, hängt vom Alter und der Situation ab. Ein Kleinkind am Straßenrand braucht mehr Aufsicht als ein Zwölfjähriger auf dem Schulweg."
+      ],
+      "merke": "Eltern haften nur, wenn sie ihre Aufsichtspflicht verletzt haben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Absicherung",
+      "absaetze": [
+        "Oft bleibt der Geschädigte deshalb auf seinem Schaden sitzen. Viele private Haftpflichtversicherungen zahlen auf Wunsch trotzdem, auch wenn das Kind nicht haftet.",
+        "Achte beim Abschluss auf einen Einschluss von Schäden durch deliktunfähige Kinder. So vermeidest du Ärger mit Nachbarn oder Freunden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welchem Alter haften Kinder grundsätzlich nicht?",
+      "art": "mc",
+      "optionen": [
+        "Bis sieben Jahre",
+        "Bis 18 Jahre",
+        "Bis drei Jahre",
+        "Bis 25 Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Straßenverkehr bis zehn Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann haften Eltern für Schäden ihrer Kinder?",
+      "art": "mc",
+      "optionen": [
+        "Wenn sie ihre Aufsichtspflicht verletzt haben",
+        "Immer",
+        "Nie",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Aufsicht hängt vom Alter ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, damit Geschädigte trotzdem entschädigt werden?",
+      "art": "mc",
+      "optionen": [
+        "Ein Einschluss deliktunfähiger Kinder in der Haftpflicht",
+        "Ein Bauzaunschild",
+        "Eine Rechtsschutzversicherung allein",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Tarife bieten das an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eltern haften automatisch für jeden Schaden ihrer Kinder.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur bei verletzter Aufsichtspflicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kinder unter sieben haften nicht.",
+        "Im Straßenverkehr gilt das bis zehn Jahre.",
+        "Eltern haften nur bei verletzter Aufsicht.",
+        "Eine passende Haftpflicht hilft trotzdem."
+      ]
+    }
+  ]
+}

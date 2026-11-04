@@ -1,0 +1,127 @@
+{
+  "id": "haus-b071-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du den Kühlschrank richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuehlschrank",
+    "reinigung",
+    "hygiene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein ausgelaufener Joghurt, ein vergessenes Gemüse: Im Kühlschrank sammelt sich einiges an.",
+        "Regelmäßiges Putzen hält Lebensmittel länger frisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie oft putzen",
+      "absaetze": [
+        "Wische ausgelaufene Lebensmittel sofort weg. Gründlich reinigen solltest du den Kühlschrank etwa einmal im Monat.",
+        "Nimm dafür alle Lebensmittel heraus und prüfe dabei gleich, was weg muss. Empfindliche Produkte stellst du so lange in eine Kühltasche."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanft und gründlich",
+      "absaetze": [
+        "Für die Reinigung reicht warmes Wasser mit etwas Spülmittel oder Essig. Scharfe Reiniger sind unnötig und können Gerüche hinterlassen.",
+        "Nimm Fächer und Schubladen heraus und spüle sie einzeln. Vergiss die Türdichtungen nicht. Auch die kleine Ablaufrinne für Tauwasser an der Rückwand sollte frei sein."
+      ],
+      "merke": "Warmes Wasser mit Spülmittel oder Essig reicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abtauen spart Strom",
+      "absaetze": [
+        "Bildet sich im Gefrierfach eine dicke Eisschicht, braucht das Gerät mehr Strom. Dann lohnt sich das Abtauen.",
+        "Trockne alles gründlich ab, bevor du die Lebensmittel zurückräumst. Ein Schälchen mit Natron kann unangenehme Gerüche binden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du den Kühlschrank gründlich reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Etwa einmal im Monat",
+        "Einmal im Jahr",
+        "Nie",
+        "Jede Stunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ausgelaufenes sofort wegwischen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit reinigst du den Kühlschrank am besten?",
+      "art": "mc",
+      "optionen": [
+        "Warmes Wasser mit Spülmittel oder Essig",
+        "Scharfer Backofenreiniger",
+        "Benzin",
+        "Chlorbleiche pur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Scharfe Mittel sind unnötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum lohnt sich das Abtauen?",
+      "art": "mc",
+      "optionen": [
+        "Eine dicke Eisschicht erhöht den Stromverbrauch",
+        "Damit der Kühlschrank wärmer wird",
+        "Damit er lauter läuft",
+        "Es lohnt sich nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Eis arbeitet das Gerät effizienter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Ablaufrinne für Tauwasser sollte frei sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonst sammelt sich Wasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ausgelaufenes sofort wegwischen.",
+        "Etwa monatlich gründlich reinigen.",
+        "Mildes Wasser mit Spülmittel oder Essig nutzen.",
+        "Bei dicker Eisschicht abtauen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "ern-b071-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist beim Aufwärmen von Reis zu beachten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelhygiene",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "reis",
+    "reste",
+    "lebensmittelhygiene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Reis vom Vortag ist schnell aufgewärmt.",
+        "Doch gerade bei Reis kommt es auf die richtige Lagerung an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hitzefeste Sporen",
+      "absaetze": [
+        "Reis kann Sporen eines Bakteriums namens Bacillus cereus enthalten. Diese Sporen überstehen das Kochen.",
+        "Bleibt gekochter Reis lange warm oder bei Zimmertemperatur stehen, keimen die Sporen aus. Die Bakterien vermehren sich und bilden Giftstoffe. Manche davon werden auch durch erneutes Erhitzen nicht zerstört."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rasch abkühlen",
+      "absaetze": [
+        "Kühle Reisreste deshalb schnell ab und stell sie innerhalb kurzer Zeit in den Kühlschrank. Flache Behälter helfen, dass der Reis schneller abkühlt.",
+        "Iss gekühlten Reis innerhalb von ein bis zwei Tagen. Erhitze ihn beim Aufwärmen gründlich."
+      ],
+      "merke": "Reisreste schnell abkühlen und in den Kühlschrank stellen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es doch passiert",
+      "absaetze": [
+        "Eine Lebensmittelvergiftung durch diese Bakterien zeigt sich oft mit Übelkeit und Erbrechen, manchmal schon kurz nach dem Essen. Meist klingt sie nach einem Tag wieder ab.",
+        "Bei Kleinkindern, älteren Menschen oder starken Beschwerden solltest du ärztliche Hilfe suchen. Dasselbe gilt übrigens für andere stärkehaltige Reste wie Nudeln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was überlebt beim Kochen von Reis?",
+      "art": "mc",
+      "optionen": [
+        "Sporen eines Bakteriums",
+        "Gar nichts",
+        "Nur Vitamine",
+        "Nur Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie heißen Bacillus cereus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du mit Reisresten tun?",
+      "art": "mc",
+      "optionen": [
+        "Schnell abkühlen und kühl lagern",
+        "Über Nacht auf dem Herd lassen",
+        "In der Sonne trocknen",
+        "Im warmen Ofen aufbewahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Flache Behälter kühlen schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange kannst du gekühlten Reis etwa aufbewahren?",
+      "art": "mc",
+      "optionen": [
+        "Ein bis zwei Tage",
+        "Zwei Wochen",
+        "Einen Monat",
+        "Ein Jahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann gründlich erhitzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Giftstoffe aus diesen Bakterien übersteht auch das Aufwärmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb ist schnelles Kühlen so wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reis kann hitzefeste Sporen enthalten.",
+        "Warm stehender Reis begünstigt Giftstoffe.",
+        "Reste schnell kühlen und bald essen.",
+        "Gründlich aufwärmen."
+      ]
+    }
+  ]
+}
