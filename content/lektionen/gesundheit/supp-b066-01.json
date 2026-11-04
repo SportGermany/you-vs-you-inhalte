@@ -1,0 +1,140 @@
+{
+  "id": "supp-b066-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was bringen Vitamin-C-Infusionen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "IGeL-Monitor",
+      "herausgeber": "Medizinischer Dienst Bund",
+      "url": "https://www.igel-monitor.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pflanzliche Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-c",
+    "infusionen",
+    "igel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In manchen Praxen werden hoch dosierte Vitamin-C-Infusionen angeboten.",
+        "Sie sollen das Immunsystem stärken, Müdigkeit vertreiben oder sogar gegen Krebs helfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Selbstzahlerleistung",
+      "absaetze": [
+        "Bei einer Infusion gelangt Vitamin C direkt in die Vene. So werden viel höhere Blutwerte erreicht als über Lebensmittel oder Tabletten.",
+        "Die gesetzlichen Krankenkassen zahlen solche Infusionen in der Regel nicht. Sie gehören zu den sogenannten individuellen Gesundheitsleistungen, die selbst bezahlt werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was belegt ist",
+      "absaetze": [
+        "Für die meisten beworbenen Wirkungen fehlen gute Belege, etwa gegen Erschöpfung oder Infekte. Bei Krebs wird hoch dosiertes Vitamin C erforscht. Einzelne Studien deuten darauf hin, dass es Nebenwirkungen lindern könnte, ein Nutzen ist aber nicht nachgewiesen.",
+        "Ein Vitamin-C-Mangel ist in Deutschland selten. Obst und Gemüse liefern in der Regel genug."
+      ],
+      "merke": "Ein Nutzen von Vitamin-C-Infusionen ist für die meisten Beschwerden nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Risiken",
+      "absaetze": [
+        "Hohe Mengen Vitamin C können bei manchen Menschen Nierensteine fördern. Bei einer bestimmten angeborenen Enzymstörung kann es rote Blutkörperchen schädigen.",
+        "Wer eine Krebsbehandlung bekommt, sollte zusätzliche Behandlungen immer mit dem Behandlungsteam absprechen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Nierenerkrankungen oder Neigung zu Nierensteinen nicht ohne ärztliche Rücksprache.",
+        "Bei einem Glukose-6-Phosphat-Dehydrogenase-Mangel nicht anwenden.",
+        "Während einer Krebsbehandlung nur nach Absprache mit dem Behandlungsteam."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bezahlt Vitamin-C-Infusionen meist?",
+      "art": "mc",
+      "optionen": [
+        "Die Patientinnen und Patienten selbst",
+        "Immer die gesetzliche Krankenkasse",
+        "Der Arbeitgeber",
+        "Der Staat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind eine individuelle Gesundheitsleistung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Nutzen bei Krebs nachgewiesen?",
+      "art": "mc",
+      "optionen": [
+        "Nein, er wird erforscht",
+        "Ja, eindeutig",
+        "Ja, sie ersetzen eine Chemotherapie",
+        "Ja, bei allen Krebsarten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zusätzliche Behandlungen immer absprechen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Risiko kann hoch dosiertes Vitamin C haben?",
+      "art": "mc",
+      "optionen": [
+        "Es kann Nierensteine fördern",
+        "Es macht kurzsichtig",
+        "Es färbt die Haare",
+        "Keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das betrifft vor allem gefährdete Menschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Vitamin-C-Mangel ist in Deutschland häufig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist selten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin-C-Infusionen sind meist Selbstzahlerleistungen.",
+        "Für die meisten Wirkungen fehlen Belege.",
+        "Bei Krebs ist ein Nutzen nicht nachgewiesen.",
+        "Hohe Mengen können Risiken haben."
+      ]
+    }
+  ]
+}

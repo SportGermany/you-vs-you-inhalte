@@ -1,0 +1,121 @@
+{
+  "id": "tech-b066-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Klimaanlage?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Klimaanlagen und Kältemittel",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "klimaanlage",
+    "kaeltemittel",
+    "waermepumpe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An heißen Tagen sorgt eine Klimaanlage für angenehme Kühle.",
+        "Sie funktioniert ähnlich wie ein Kühlschrank."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme nach draußen pumpen",
+      "absaetze": [
+        "Eine Klimaanlage erzeugt keine Kälte, sondern transportiert Wärme aus dem Raum nach draußen. Dafür nutzt sie ein Kältemittel, das in einem Kreislauf fließt.",
+        "Im Innengerät verdampft das Kältemittel und nimmt dabei Wärme aus der Raumluft auf. Ein Kompressor verdichtet es. Im Außengerät gibt es die Wärme wieder ab."
+      ],
+      "merke": "Eine Klimaanlage bringt Wärme aus dem Raum nach draußen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühlen und Entfeuchten",
+      "absaetze": [
+        "Beim Abkühlen der Luft kondensiert Wasser, ähnlich wie an einem kalten Glas. Deshalb machen Klimaanlagen die Luft auch trockener. Das Wasser läuft über einen Schlauch ab.",
+        "Viele Geräte können auch heizen, indem sie den Kreislauf umkehren. Dann arbeiten sie wie eine Wärmepumpe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sparsam nutzen",
+      "absaetze": [
+        "Split-Geräte mit getrenntem Innen- und Außenteil sind meist deutlich effizienter als mobile Geräte mit Abluftschlauch.",
+        "Stell die Klimaanlage nicht zu kalt ein und halte Fenster und Türen geschlossen. Tagsüber Rollläden schließen hilft, dass sich der Raum gar nicht erst so stark aufheizt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht eine Klimaanlage eigentlich?",
+      "art": "mc",
+      "optionen": [
+        "Sie transportiert Wärme nach draußen",
+        "Sie erzeugt Kälte aus dem Nichts",
+        "Sie saugt Luft aus dem Raum",
+        "Sie kühlt mit Eis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür nutzt sie ein Kältemittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist die Luft nach dem Kühlen trockener?",
+      "art": "mc",
+      "optionen": [
+        "Wasser kondensiert beim Abkühlen",
+        "Die Anlage verbrennt Wasser",
+        "Die Luft wird heißer",
+        "Weil Salz zugesetzt wird"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie an einem kalten Glas."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Geräte sind meist effizienter?",
+      "art": "mc",
+      "optionen": [
+        "Split-Geräte mit Außenteil",
+        "Mobile Geräte mit Schlauch",
+        "Ventilatoren mit Eis",
+        "Heizlüfter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie trennen Innen- und Außenteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Klimaanlagen können auch heizen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann arbeiten sie wie eine Wärmepumpe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Klimaanlage pumpt Wärme nach draußen.",
+        "Ein Kältemittel transportiert die Wärme.",
+        "Sie entfeuchtet die Luft.",
+        "Split-Geräte sind meist effizienter."
+      ]
+    }
+  ]
+}

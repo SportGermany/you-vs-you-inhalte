@@ -1,0 +1,125 @@
+{
+  "id": "ern-b066-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Äpfel?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "aepfel",
+    "obst",
+    "allergie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Apfel ist das beliebteste Obst in Deutschland.",
+        "Ein englisches Sprichwort verspricht: Ein Apfel am Tag hält den Doktor fern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Apfel steckt",
+      "absaetze": [
+        "Äpfel liefern Ballaststoffe, vor allem Pektin. Es quillt im Darm auf und macht satt. Dazu kommen Vitamin C und viele Pflanzenstoffe.",
+        "Ein großer Teil dieser Pflanzenstoffe sitzt in und direkt unter der Schale. Gut gewaschen kannst du Äpfel deshalb mit Schale essen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hält er den Doktor fern?",
+      "absaetze": [
+        "Eine Studie verglich Menschen, die täglich einen Apfel aßen, mit anderen. Bei der Zahl der Arztbesuche fand sie kaum einen Unterschied.",
+        "Trotzdem passen Äpfel sehr gut zu einer gesunden Ernährung. Wer viel Obst und Gemüse isst, hat Beobachtungsstudien zufolge ein geringeres Risiko für viele Krankheiten."
+      ],
+      "merke": "Äpfel sind gesund, aber kein Ersatz für Arztbesuche.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Apfelallergie",
+      "absaetze": [
+        "Viele Menschen mit Birkenpollenallergie vertragen rohe Äpfel nicht. Mund und Rachen kribbeln oder jucken. Das ist eine Kreuzallergie.",
+        "Gekocht oder gebacken werden Äpfel meist vertragen, weil Hitze den Auslöser zerstört. Manche Betroffene berichten, dass sie alte Sorten besser vertragen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Ballaststoff steckt besonders im Apfel?",
+      "art": "mc",
+      "optionen": [
+        "Pektin",
+        "Zellulose aus Holz",
+        "Gluten",
+        "Laktose"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es quillt im Darm auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt ein großer Teil der Pflanzenstoffe?",
+      "art": "mc",
+      "optionen": [
+        "In und unter der Schale",
+        "Nur im Kerngehäuse",
+        "Im Stiel",
+        "Gar nicht im Apfel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb lohnt es sich, die Schale mitzuessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum vertragen viele Birkenpollenallergiker rohe Äpfel nicht?",
+      "art": "mc",
+      "optionen": [
+        "Wegen einer Kreuzallergie",
+        "Wegen zu viel Zucker",
+        "Weil Äpfel giftig sind",
+        "Wegen der Farbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gekochte Äpfel werden oft vertragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hitze kann den Allergieauslöser im Apfel zerstören.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Apfelkuchen wird deshalb oft vertragen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Äpfel liefern Ballaststoffe und Vitamin C.",
+        "Viele Pflanzenstoffe sitzen in der Schale.",
+        "Bei Birkenpollenallergie können rohe Äpfel Beschwerden machen.",
+        "Gekocht werden sie meist vertragen."
+      ]
+    }
+  ]
+}

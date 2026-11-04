@@ -1,0 +1,127 @@
+{
+  "id": "vers-b066-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie kündigst du deine Mietwohnung richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mietvertrag",
+    "kuendigung",
+    "auszug"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die neue Wohnung ist gefunden, jetzt muss die alte gekündigt werden.",
+        "Dabei passieren leicht Fehler, die teuer werden können."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frist und Form",
+      "absaetze": [
+        "Als Mieter kannst du einen unbefristeten Mietvertrag in der Regel mit drei Monaten Frist kündigen. Das gilt unabhängig davon, wie lange du dort wohnst.",
+        "Die Kündigung muss schriftlich auf Papier erfolgen und von dir unterschrieben sein. Eine E-Mail oder Kurznachricht reicht nicht. Stehen mehrere Personen im Vertrag, müssen alle unterschreiben."
+      ],
+      "merke": "Eine Kündigung per E-Mail ist unwirksam."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechtzeitig zustellen",
+      "absaetze": [
+        "Die Kündigung muss dem Vermieter spätestens am dritten Werktag eines Monats zugehen. Dann zählt dieser Monat bereits zur Frist.",
+        "Schicke sie am besten per Einschreiben oder übergib sie persönlich mit einem Zeugen. So kannst du den Zugang beweisen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du noch beachten solltest",
+      "absaetze": [
+        "Manche Verträge enthalten einen Kündigungsverzicht für eine bestimmte Zeit. Er darf höchstens vier Jahre betragen.",
+        "Einen Nachmieter muss der Vermieter nur akzeptieren, wenn das vereinbart wurde. Vereinbare einen Termin für die Wohnungsübergabe und halte den Zustand in einem Protokoll fest."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welcher Frist kannst du als Mieter meist kündigen?",
+      "art": "mc",
+      "optionen": [
+        "Drei Monate",
+        "Ein Jahr",
+        "Zwei Wochen",
+        "Sechs Monate"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unabhängig von der Mietdauer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Form muss die Kündigung haben?",
+      "art": "mc",
+      "optionen": [
+        "Schriftlich auf Papier mit Unterschrift",
+        "Eine E-Mail",
+        "Eine Sprachnachricht",
+        "Ein Anruf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alle Mieter im Vertrag müssen unterschreiben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis wann muss die Kündigung zugehen, damit der Monat zählt?",
+      "art": "mc",
+      "optionen": [
+        "Bis zum dritten Werktag",
+        "Bis zum letzten Tag des Monats",
+        "Bis zum 20.",
+        "Egal wann"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann zählt der Monat zur Frist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Vermieter muss jeden Nachmieter akzeptieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur wenn das vereinbart wurde."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mieter kündigen meist mit drei Monaten Frist.",
+        "Die Kündigung braucht Papier und Unterschrift.",
+        "Sie muss bis zum dritten Werktag zugehen.",
+        "Übergabe mit Protokoll festhalten."
+      ]
+    }
+  ]
+}

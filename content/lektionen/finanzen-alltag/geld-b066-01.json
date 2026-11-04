@@ -1,0 +1,127 @@
+{
+  "id": "geld-b066-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Revolving-Kreditkarte?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zahlungskarten",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kreditkarte",
+    "teilzahlung",
+    "zinsen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit manchen Kreditkarten zahlst du am Monatsende nur einen kleinen Teil zurück.",
+        "Das klingt bequem, kann aber sehr teuer werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sie funktioniert",
+      "absaetze": [
+        "Bei einer Revolving-Kreditkarte musst du am Monatsende nicht alles zurückzahlen. Es reicht ein Mindestbetrag. Der Rest wird zu einem Kredit.",
+        "Für diesen Kredit verlangt die Bank Zinsen. Sie sind oft sehr hoch, deutlich höher als bei einem normalen Ratenkredit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schuldenfalle",
+      "absaetze": [
+        "Wer immer nur den Mindestbetrag zahlt, tilgt kaum etwas. Die Zinsen fressen einen großen Teil der Raten auf. So können sich Schulden über Jahre halten.",
+        "Manche Karten sind schon voreingestellt auf Teilzahlung. Viele Kunden merken das erst spät."
+      ],
+      "merke": "Nur den Mindestbetrag zu zahlen, kann in die Schuldenfalle führen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du dich",
+      "absaetze": [
+        "Prüfe in den Kartenbedingungen oder im Online-Banking, ob Teilzahlung eingestellt ist. Wechsle wenn möglich auf vollständige Rückzahlung.",
+        "Viele Kreditkarten in Deutschland werden ohnehin einmal im Monat komplett vom Girokonto abgebucht. Bei Zahlungsproblemen helfen Schuldnerberatungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei einer Revolving-Kreditkarte?",
+      "art": "mc",
+      "optionen": [
+        "Der nicht gezahlte Rest wird zu einem Kredit mit Zinsen",
+        "Alles wird sofort abgebucht",
+        "Die Bank schenkt dir den Rest",
+        "Die Karte wird gesperrt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es reicht ein Mindestbetrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch sind die Zinsen meist?",
+      "art": "mc",
+      "optionen": [
+        "Oft sehr hoch",
+        "Immer null",
+        "Niedriger als beim Sparbuch",
+        "Negativ"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deutlich höher als beim Ratenkredit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du prüfen?",
+      "art": "mc",
+      "optionen": [
+        "Ob Teilzahlung voreingestellt ist",
+        "Die Farbe der Karte",
+        "Den Namen der Bankfiliale",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wechsle auf vollständige Rückzahlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer nur den Mindestbetrag zahlt, tilgt oft kaum etwas.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Zinsen fressen viel auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Revolving-Karten erlauben Teilzahlung.",
+        "Der Rest wird teuer verzinst.",
+        "Nur Mindestbeträge können in Schulden führen.",
+        "Auf vollständige Rückzahlung umstellen."
+      ]
+    }
+  ]
+}

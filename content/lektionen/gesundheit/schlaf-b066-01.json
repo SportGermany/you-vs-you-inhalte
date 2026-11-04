@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b066-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du gut im Zelt?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "camping",
+    "zelt",
+    "schlafumgebung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer Nacht im Zelt wachen viele steif und durchgefroren auf.",
+        "Mit ein paar Kniffen wird Camping erholsamer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kälte kommt von unten",
+      "absaetze": [
+        "Der Boden entzieht dem Körper nachts viel Wärme. Eine gut isolierende Isomatte ist deshalb oft wichtiger als ein dicker Schlafsack.",
+        "Achte beim Schlafsack auf die Komforttemperatur. Sie zeigt, bis zu welcher Temperatur du darin angenehm schläfst. Eine Mütze hält zusätzlich warm."
+      ],
+      "merke": "Eine gut isolierende Isomatte schützt vor Bodenkälte.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht und Geräusche",
+      "absaetze": [
+        "Im Zelt wecken dich früh das Morgenlicht und Geräusche wie Vögel oder Wind. Ohrstöpsel und eine Schlafmaske helfen.",
+        "Viele schlafen in der ersten Nacht an einem neuen Ort schlechter. Das Gehirn bleibt dann etwas wachsamer. Ab der zweiten Nacht wird es meist besser."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Neustart für die innere Uhr",
+      "absaetze": [
+        "Eine Studie deutet darauf hin, dass schon ein Wochenende beim Camping die innere Uhr nach vorne verschiebt. Ohne Kunstlicht werden Menschen abends früher müde.",
+        "Geh warm ins Bett, etwa nach einem kurzen Spaziergang. Trink abends nicht zu viel, damit du nachts nicht raus musst."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist im Zelt oft wichtiger als ein dicker Schlafsack?",
+      "art": "mc",
+      "optionen": [
+        "Eine gut isolierende Isomatte",
+        "Ein großes Kissen",
+        "Eine Taschenlampe",
+        "Ein Wecker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Boden entzieht viel Wärme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die Komforttemperatur eines Schlafsacks?",
+      "art": "mc",
+      "optionen": [
+        "Bis zu welcher Temperatur du angenehm darin schläfst",
+        "Wie schwer er ist",
+        "Wie teuer er war",
+        "Wie groß er ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daran kannst du dich orientieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen frühes Morgenlicht?",
+      "art": "mc",
+      "optionen": [
+        "Eine Schlafmaske",
+        "Ein heller Stirnlampe",
+        "Kaffee vor dem Schlafen",
+        "Ein offenes Zelt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Ohrstöpsel helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohne Kunstlicht werden viele abends früher müde.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die innere Uhr verschiebt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine gute Isomatte schützt vor Bodenkälte.",
+        "Auf die Komforttemperatur des Schlafsacks achten.",
+        "Schlafmaske und Ohrstöpsel helfen.",
+        "Camping kann die innere Uhr nach vorne verschieben."
+      ]
+    }
+  ]
+}

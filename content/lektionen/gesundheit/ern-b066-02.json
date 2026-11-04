@@ -1,0 +1,131 @@
+{
+  "id": "ern-b066-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wann ist Kürbis gefährlich?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kuerbis",
+    "bitterstoffe",
+    "cucurbitacine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Herbst ist Kürbis überall: als Suppe, aus dem Ofen oder als Deko vor der Tür.",
+        "Speisekürbis ist gesund. Ein bitterer Geschmack ist aber ein Alarmzeichen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gesundes Herbstgemüse",
+      "absaetze": [
+        "Speisekürbisse liefern viel Beta-Carotin, das der Körper zu Vitamin A umbaut. Dazu kommen Kalium und Ballaststoffe.",
+        "Beim Hokkaido-Kürbis kannst du die Schale mitessen. Sie wird beim Garen weich. Bei anderen Sorten wie dem Butternut-Kürbis wird sie meist entfernt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bitter heißt giftig",
+      "absaetze": [
+        "Zierkürbisse enthalten Bitterstoffe, die Cucurbitacine heißen. Sie können Übelkeit, Erbrechen und starke Durchfälle auslösen, im Extremfall lebensgefährliche Vergiftungen.",
+        "Auch Speisekürbisse und Zucchini können diese Stoffe bilden, etwa wenn sie sich im Garten mit Zierkürbissen gekreuzt haben. Kochen zerstört die Bitterstoffe nicht."
+      ],
+      "merke": "Schmeckt ein Kürbis oder eine Zucchini bitter, wegwerfen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "So bleibst du sicher",
+      "absaetze": [
+        "Probier vor dem Kochen ein kleines Stück roh. Schmeckt es bitter, spuck es aus und wirf das ganze Gemüse weg.",
+        "Verwende keine Samen von selbst geernteten Kürbissen für die nächste Aussaat, wenn Zierkürbisse in der Nähe wuchsen. Kaufe lieber neues Saatgut."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff macht manche Kürbisse giftig?",
+      "art": "mc",
+      "optionen": [
+        "Cucurbitacine",
+        "Beta-Carotin",
+        "Kalium",
+        "Pektin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind Bitterstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du tun, wenn ein Kürbis bitter schmeckt?",
+      "art": "mc",
+      "optionen": [
+        "Ihn wegwerfen",
+        "Ihn länger kochen",
+        "Mehr Salz zugeben",
+        "Ihn mit Zucker essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kochen zerstört die Bitterstoffe nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Sorte kannst du die Schale mitessen?",
+      "art": "mc",
+      "optionen": [
+        "Beim Hokkaido",
+        "Bei allen Zierkürbissen",
+        "Bei keiner Sorte",
+        "Nur bei Wassermelonen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird beim Garen weich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Zucchini können giftige Bitterstoffe bilden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bitter schmeckende Zucchini nicht essen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Speisekürbis liefert viel Beta-Carotin.",
+        "Bitterer Geschmack ist ein Warnzeichen.",
+        "Kochen zerstört die Bitterstoffe nicht.",
+        "Keine Samen aus dem eigenen Garten nachziehen."
+      ]
+    }
+  ]
+}

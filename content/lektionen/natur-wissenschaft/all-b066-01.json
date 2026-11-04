@@ -1,0 +1,121 @@
+{
+  "id": "all-b066-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum gibt es Schaltjahre?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zeit und Kalender",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schaltjahr",
+    "kalender",
+    "erdumlauf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Alle vier Jahre hat der Februar einen Tag mehr.",
+        "Ohne diesen Extratag würde unser Kalender langsam aus dem Takt geraten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Jahr ist nicht glatt",
+      "absaetze": [
+        "Die Erde braucht für eine Runde um die Sonne etwa 365 Tage und knapp sechs Stunden. Unser Kalender hat aber nur 365 Tage.",
+        "Nach vier Jahren fehlt deshalb fast ein ganzer Tag. Ohne Ausgleich würden sich die Jahreszeiten im Kalender langsam verschieben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von Caesar zu Papst Gregor",
+      "absaetze": [
+        "Schon Julius Caesar führte einen Kalender mit einem Schalttag alle vier Jahre ein. Damit war das Jahr aber etwas zu lang.",
+        "1582 korrigierte Papst Gregor der Dreizehnte den Kalender. Dafür ließ man zehn Tage ausfallen. Auf den 4. folgte direkt der 15. Oktober."
+      ],
+      "merke": "1582 wurden zehn Tage übersprungen, um den Kalender zu korrigieren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die genaue Regel",
+      "absaetze": [
+        "Ein Schaltjahr ist jedes Jahr, das durch vier teilbar ist. Volle Jahrhunderte sind aber keine Schaltjahre, außer sie sind durch 400 teilbar.",
+        "Deshalb war 2000 ein Schaltjahr, 1900 jedoch nicht. Mit dieser Regel stimmt der Kalender über Jahrtausende sehr genau."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht die Erde ungefähr für eine Runde um die Sonne?",
+      "art": "mc",
+      "optionen": [
+        "365 Tage und knapp sechs Stunden",
+        "Genau 365 Tage",
+        "360 Tage",
+        "400 Tage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daher fehlt nach vier Jahren fast ein Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer korrigierte 1582 den Kalender?",
+      "art": "mc",
+      "optionen": [
+        "Papst Gregor der Dreizehnte",
+        "Julius Caesar",
+        "Karl der Große",
+        "Napoleon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zehn Tage wurden übersprungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "War das Jahr 1900 ein Schaltjahr?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja",
+        "Nur in Europa",
+        "Nur halb"
+      ],
+      "richtig": 0,
+      "erklaerung": "Volle Jahrhunderte nur, wenn durch 400 teilbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Jahr 2000 war ein Schaltjahr.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es ist durch 400 teilbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Erdenjahr ist knapp sechs Stunden länger als 365 Tage.",
+        "Der Schalttag gleicht das aus.",
+        "1582 wurde der Kalender korrigiert.",
+        "Volle Jahrhunderte sind nur bei Teilbarkeit durch 400 Schaltjahre."
+      ]
+    }
+  ]
+}
