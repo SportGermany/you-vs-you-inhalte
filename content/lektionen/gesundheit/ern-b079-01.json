@@ -1,0 +1,130 @@
+{
+  "id": "ern-b079-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt im Rooibos-Tee?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pflanzengifte in Tee",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rooibos",
+    "tee",
+    "koffeinfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rotbraun in der Tasse, mild und leicht süßlich im Geschmack.",
+        "Rooibos ist eigentlich gar kein Tee."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Strauch aus Südafrika",
+      "absaetze": [
+        "Rooibos stammt von einem Strauch, der fast nur in einer Bergregion Südafrikas wächst. Mit dem Teestrauch für Schwarztee ist er nicht verwandt. Streng genommen ist Rooibos also ein Kräutertee.",
+        "Die typische rote Farbe entsteht durch Fermentation. Dabei reagieren die Blätter mit Luft. Es gibt auch grünen, unfermentierten Rooibos."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Koffeinfrei und mild",
+      "absaetze": [
+        "Rooibos enthält kein Koffein und nur wenige Gerbstoffe. Deshalb wird er selten bitter, auch wenn er länger zieht. Er eignet sich gut für den Abend.",
+        "Er enthält Pflanzenstoffe, die als Antioxidantien wirken können. Besondere gesundheitliche Wirkungen sind beim Menschen aber nicht ausreichend belegt."
+      ],
+      "merke": "Rooibos ist koffeinfrei und wird kaum bitter.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abwechslung im Teeschrank",
+      "absaetze": [
+        "In Kräutertees, auch in Rooibos, wurden immer wieder Pyrrolizidinalkaloide gefunden. Das sind Pflanzengifte aus Beikräutern, die bei der Ernte mit hineingeraten.",
+        "Fachleute raten deshalb, verschiedene Teesorten abzuwechseln. Das gilt besonders für Kinder, Schwangere und Stillende."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Rooibos?",
+      "art": "mc",
+      "optionen": [
+        "Aus Südafrika",
+        "Aus China",
+        "Aus Indien",
+        "Aus Japan"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wächst fast nur in einer Bergregion dort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält Rooibos nicht?",
+      "art": "mc",
+      "optionen": [
+        "Koffein",
+        "Wasser",
+        "Pflanzenstoffe",
+        "Farbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb eignet er sich gut für den Abend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was empfehlen Fachleute wegen möglicher Pflanzengifte?",
+      "art": "mc",
+      "optionen": [
+        "Verschiedene Teesorten abwechseln",
+        "Nur Rooibos trinken",
+        "Tee immer roh essen",
+        "Gar keinen Tee mehr trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt besonders für Kinder und Schwangere."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rooibos stammt vom selben Strauch wie Schwarztee.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist ein Kräutertee."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rooibos stammt aus Südafrika.",
+        "Er ist koffeinfrei und mild.",
+        "Gesundheitliche Wirkungen sind kaum belegt.",
+        "Teesorten am besten abwechseln."
+      ]
+    }
+  ]
+}

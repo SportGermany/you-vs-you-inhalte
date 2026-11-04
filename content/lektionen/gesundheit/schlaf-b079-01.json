@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b079-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft es, mit Socken zu schlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "socken",
+    "kalte-fuesse",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kalte Füße halten viele Menschen abends wach.",
+        "Ein paar warme Socken könnten helfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warme Füße, kühler Körper",
+      "absaetze": [
+        "Zum Einschlafen sinkt die Körpertemperatur im Inneren leicht ab. Dafür gibt der Körper Wärme über Hände und Füße ab. Die Blutgefäße dort weiten sich.",
+        "Sind die Füße kalt, sind diese Gefäße eng. Die Wärme kann schlechter entweichen. Das Einschlafen dauert dann oft länger."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass warme Socken im Bett das Einschlafen etwas beschleunigen könnten. Die Füße werden warm, die Gefäße öffnen sich, der Körper kann besser abkühlen.",
+        "Gut belegt ist das aber nicht. Die Studien waren klein, und der Effekt war eher gering."
+      ],
+      "merke": "Warme Füße könnten das Einschlafen erleichtern.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Wähle lockere, atmungsaktive Socken aus Baumwolle oder Wolle. Zu enge Bündchen können die Durchblutung stören. Wird dir nachts zu warm, zieh sie einfach aus.",
+        "Häufig sehr kalte Füße können auch mit der Durchblutung zusammenhängen. Bei weiteren Beschwerden lass das ärztlich abklären."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worüber gibt der Körper beim Einschlafen Wärme ab?",
+      "art": "mc",
+      "optionen": [
+        "Über Hände und Füße",
+        "Über die Haare",
+        "Über die Zähne",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gefäße dort weiten sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum können kalte Füße das Einschlafen erschweren?",
+      "art": "mc",
+      "optionen": [
+        "Die Wärme kann schlechter entweichen",
+        "Sie machen hungrig",
+        "Sie erhöhen den Puls stark",
+        "Sie verursachen Träume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Blutgefäße sind dann eng."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Socken eignen sich am besten?",
+      "art": "mc",
+      "optionen": [
+        "Lockere, atmungsaktive Socken",
+        "Sehr enge Kompressionssocken ohne Grund",
+        "Nasse Socken",
+        "Gummistiefel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Enge Bündchen können die Durchblutung stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Wirkung von Socken auf den Schlaf ist sehr gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt nur kleine Studien mit eher geringem Effekt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zum Einschlafen gibt der Körper Wärme über die Füße ab.",
+        "Kalte Füße können das erschweren.",
+        "Warme Socken könnten etwas helfen.",
+        "Lockere, atmungsaktive Socken wählen."
+      ]
+    }
+  ]
+}

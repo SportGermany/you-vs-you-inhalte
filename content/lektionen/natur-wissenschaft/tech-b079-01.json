@@ -1,0 +1,121 @@
+{
+  "id": "tech-b079-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Rolltreppe?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik verstehen",
+      "herausgeber": "Deutsche Physikalische Gesellschaft",
+      "url": "https://www.dpg-physik.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rolltreppe",
+    "mechanik",
+    "kaufhaus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du stehst still und fährst trotzdem in den nächsten Stock.",
+        "Unter den Stufen arbeitet eine ausgeklügelte Mechanik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Kette aus Stufen",
+      "absaetze": [
+        "Die Stufen einer Rolltreppe hängen an einer Kette, die wie bei einem Fahrrad über Zahnräder läuft. Ein Elektromotor, meist oben in der Rolltreppe, treibt die Kette an.",
+        "Die Stufen laufen in einer endlosen Schleife. Unten auf dem Rückweg fahren sie umgedreht zurück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum die Stufen eben bleiben",
+      "absaetze": [
+        "Jede Stufe hat zwei Paar Rollen, die auf getrennten Schienen laufen. Der Abstand dieser Schienen ändert sich auf dem Weg.",
+        "Dadurch bleibt die Trittfläche immer waagerecht. An den Enden werden die Stufen flach und bilden eine ebene Fläche, damit du sicher auf- und absteigen kannst."
+      ],
+      "merke": "Zwei Schienen halten jede Stufe waagerecht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit und Geschichte",
+      "absaetze": [
+        "Der Handlauf läuft mit derselben Geschwindigkeit wie die Stufen. Am Ende greifen Kammplatten in die Rillen der Stufen, damit nichts eingeklemmt wird.",
+        "Erste Rolltreppen gab es Ende des 19. Jahrhunderts. Bekannt wurde sie unter anderem auf der Weltausstellung 1900 in Paris."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was treibt die Stufen einer Rolltreppe an?",
+      "art": "mc",
+      "optionen": [
+        "Ein Elektromotor über eine Kette",
+        "Ein Wasserrad",
+        "Die Fahrgäste",
+        "Ein Magnet im Boden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kette läuft über Zahnräder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bleibt die Trittfläche waagerecht?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Rollenpaare laufen auf getrennten Schienen",
+        "Die Stufen sind aus Gummi",
+        "Ein Gyroskop hält sie",
+        "Sie bleibt nicht waagerecht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schienenabstand ändert sich auf dem Weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen die Kammplatten am Ende?",
+      "art": "mc",
+      "optionen": [
+        "Damit nichts eingeklemmt wird",
+        "Zum Kämmen der Haare",
+        "Zur Beleuchtung",
+        "Zum Bremsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie greifen in die Rillen der Stufen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Handlauf läuft mit derselben Geschwindigkeit wie die Stufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So kannst du dich sicher festhalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Stufen hängen an einer angetriebenen Kette.",
+        "Zwei Schienen halten sie waagerecht.",
+        "An den Enden werden sie flach.",
+        "Kammplatten schützen vor Einklemmen."
+      ]
+    }
+  ]
+}

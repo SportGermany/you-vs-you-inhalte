@@ -1,0 +1,121 @@
+{
+  "id": "steu-b079-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Musst du für deine Solaranlage Steuern zahlen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "photovoltaik",
+    "solaranlage",
+    "steuerbefreiung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher war eine Solaranlage auf dem Dach ein kleiner Bürokratie-Marathon.",
+        "Seit 2023 ist es für viele deutlich einfacher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Mehrwertsteuer beim Kauf",
+      "absaetze": [
+        "Seit 2023 fällt beim Kauf und bei der Installation vieler Solaranlagen keine Mehrwertsteuer mehr an. Das gilt für Anlagen auf oder in der Nähe von Wohngebäuden.",
+        "Auch Speicher und Balkonkraftwerke sind davon erfasst. Der Preis wird dadurch spürbar günstiger."
+      ],
+      "merke": "Seit 2023 gilt für viele Solaranlagen ein Mehrwertsteuersatz von null Prozent."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einnahmen meist steuerfrei",
+      "absaetze": [
+        "Einnahmen aus dem Verkauf von Solarstrom sind für kleine Anlagen von der Einkommensteuer befreit. Bei Einfamilienhäusern gilt das für Anlagen bis zu einer bestimmten Größe.",
+        "Für die meisten privaten Dachanlagen musst du die Einnahmen daher nicht mehr in der Steuererklärung angeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was trotzdem zu tun ist",
+      "absaetze": [
+        "Eine Solaranlage musst du weiterhin im Marktstammdatenregister der Bundesnetzagentur anmelden, auch ein Balkonkraftwerk.",
+        "Bei sehr großen Anlagen oder mehreren Gebäuden können andere Regeln gelten. Im Zweifel hilft eine Steuerberatung oder ein Lohnsteuerhilfeverein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Mehrwertsteuer seit 2023 für viele Solaranlagen?",
+      "art": "mc",
+      "optionen": [
+        "Null Prozent",
+        "19 Prozent",
+        "7 Prozent",
+        "50 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt für Anlagen an Wohngebäuden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für Einnahmen aus kleinen privaten Anlagen?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind von der Einkommensteuer befreit",
+        "Sie werden doppelt besteuert",
+        "Sie sind verboten",
+        "Sie müssen an die Gemeinde gehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis zu einer bestimmten Anlagengröße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo musst du eine Solaranlage anmelden?",
+      "art": "mc",
+      "optionen": [
+        "Im Marktstammdatenregister",
+        "Beim Einwohnermeldeamt",
+        "Beim Standesamt",
+        "Nirgends"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt auch für Balkonkraftwerke."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Balkonkraftwerke profitieren vom Nullsteuersatz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind davon erfasst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Seit 2023 gilt für viele Anlagen null Prozent Mehrwertsteuer.",
+        "Einnahmen kleiner Anlagen sind meist steuerfrei.",
+        "Die Anmeldung im Register bleibt Pflicht.",
+        "Bei großen Anlagen können andere Regeln gelten."
+      ]
+    }
+  ]
+}

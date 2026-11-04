@@ -1,0 +1,127 @@
+{
+  "id": "vers-b079-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was zahlt die Krankenkasse beim Zahnersatz?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zahnersatz",
+      "herausgeber": "Bundesministerium für Gesundheit",
+      "url": "https://www.bundesgesundheitsministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zahnersatz",
+    "festzuschuss",
+    "bonusheft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Krone, eine Brücke, ein Implantat: Zahnersatz kann teuer werden.",
+        "Wie viel die gesetzliche Krankenkasse übernimmt, ist klar geregelt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Festzuschuss",
+      "absaetze": [
+        "Die gesetzliche Krankenkasse zahlt beim Zahnersatz einen Festzuschuss. Er richtet sich nach der Regelversorgung, also der üblichen, medizinisch ausreichenden Behandlung.",
+        "Der Zuschuss beträgt 60 Prozent der Kosten dieser Regelversorgung. Wählst du eine aufwendigere Lösung, etwa ein Implantat, zahlst du die Differenz selbst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Bonusheft lohnt sich",
+      "absaetze": [
+        "Wer regelmäßig zur Kontrolle geht und das im Bonusheft eintragen lässt, bekommt mehr. Nach fünf Jahren lückenloser Vorsorge steigt der Zuschuss auf 70 Prozent, nach zehn Jahren auf 75 Prozent.",
+        "Menschen mit geringem Einkommen können als Härtefall die vollen Kosten der Regelversorgung erstattet bekommen."
+      ],
+      "merke": "Mit lückenlosem Bonusheft steigt der Zuschuss auf bis zu 75 Prozent."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor der Behandlung",
+      "absaetze": [
+        "Vor jeder Versorgung erstellt die Zahnarztpraxis einen Heil- und Kostenplan. Die Krankenkasse muss ihn genehmigen, bevor die Behandlung beginnt.",
+        "Bei hohen Eigenanteilen lohnt sich eine Zweitmeinung. Manche Krankenkassen bieten dafür eine Beratung an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der normale Festzuschuss?",
+      "art": "mc",
+      "optionen": [
+        "60 Prozent der Regelversorgung",
+        "100 Prozent aller Kosten",
+        "10 Prozent",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit Bonusheft gibt es mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bringt ein lückenloses Bonusheft über zehn Jahre?",
+      "art": "mc",
+      "optionen": [
+        "75 Prozent Zuschuss",
+        "Kostenlose Implantate",
+        "Nichts",
+        "50 Prozent Zuschuss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach fünf Jahren sind es 70 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was muss die Krankenkasse vor der Behandlung genehmigen?",
+      "art": "mc",
+      "optionen": [
+        "Den Heil- und Kostenplan",
+        "Die Zahnpasta",
+        "Den Termin",
+        "Die Zahnbürste"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst danach beginnt die Behandlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei geringem Einkommen kann es eine Härtefallregelung geben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann werden die Kosten der Regelversorgung voll erstattet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Kasse zahlt einen Festzuschuss von 60 Prozent.",
+        "Mit Bonusheft steigt er auf bis zu 75 Prozent.",
+        "Aufwendigere Lösungen kosten extra.",
+        "Den Heil- und Kostenplan vorher genehmigen lassen."
+      ]
+    }
+  ]
+}

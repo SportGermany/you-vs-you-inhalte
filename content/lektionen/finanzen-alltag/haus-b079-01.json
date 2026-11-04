@@ -1,0 +1,121 @@
+{
+  "id": "haus-b079-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du Holzmöbel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "holzmoebel",
+    "pflege",
+    "langlebigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Esstisch aus Holz kann Generationen überdauern.",
+        "Wenn er richtig gepflegt wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst die Oberfläche kennen",
+      "absaetze": [
+        "Holzmöbel sind meist lackiert, geölt oder gewachst. Davon hängt die Pflege ab.",
+        "Lackierte Möbel brauchen kaum Pflege. Geölte und gewachste Oberflächen sind offenporiger. Sie müssen ab und zu mit passendem Öl oder Wachs aufgefrischt werden."
+      ],
+      "merke": "Die richtige Pflege hängt von der Oberfläche ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanft reinigen",
+      "absaetze": [
+        "Wische Holz nur nebelfeucht ab, also mit einem gut ausgewrungenen Tuch. Zu viel Wasser lässt das Holz aufquellen. Trockne danach nach.",
+        "Verzichte auf scharfe Reiniger und Mikrofasertücher mit grober Struktur. Sie können die Oberfläche angreifen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schützen vor Flecken und Licht",
+      "absaetze": [
+        "Heiße Töpfe und nasse Gläser hinterlassen schnell Ränder. Nutze Untersetzer.",
+        "Starke Sonne kann Holz ausbleichen oder nachdunkeln lassen. Auch sehr trockene Heizungsluft schadet. Kleine Kratzer lassen sich bei geölten Möbeln oft mit etwas Öl und feinem Schleifpapier ausbessern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Oberflächen müssen ab und zu aufgefrischt werden?",
+      "art": "mc",
+      "optionen": [
+        "Geölte und gewachste",
+        "Nur lackierte",
+        "Keine",
+        "Nur bemalte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind offenporiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du Holz abwischen?",
+      "art": "mc",
+      "optionen": [
+        "Nebelfeucht mit einem gut ausgewrungenen Tuch",
+        "Mit viel Wasser",
+        "Mit Scheuermittel",
+        "Mit Essigessenz pur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu viel Wasser lässt Holz aufquellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt vor Rändern durch Gläser?",
+      "art": "mc",
+      "optionen": [
+        "Untersetzer",
+        "Mehr Sonne",
+        "Heizungsluft",
+        "Plastikfolie dauerhaft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch heiße Töpfe hinterlassen Spuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Starke Sonne kann Holz ausbleichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch sehr trockene Luft schadet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflege hängt von Lack, Öl oder Wachs ab.",
+        "Nur nebelfeucht wischen.",
+        "Untersetzer schützen vor Rändern.",
+        "Sonne und trockene Luft vermeiden."
+      ]
+    }
+  ]
+}
