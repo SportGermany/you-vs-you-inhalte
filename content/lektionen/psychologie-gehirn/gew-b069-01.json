@@ -1,0 +1,130 @@
+{
+  "id": "gew-b069-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie wird gründliches Händewaschen zur Gewohnheit?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hygiene",
+      "herausgeber": "Infektionsschutz.de",
+      "url": "https://www.infektionsschutz.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haendewaschen",
+    "hygiene",
+    "routinen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Händewaschen gehört zu den einfachsten Mitteln gegen Infektionen.",
+        "Trotzdem waschen viele zu kurz oder vergessen es."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gründlich statt schnell",
+      "absaetze": [
+        "Gründliches Händewaschen dauert etwa 20 bis 30 Sekunden. Seife gehört dazu, auch zwischen die Finger, an die Daumen und unter die Nägel.",
+        "Kurz unter Wasser halten reicht nicht. Viele Keime bleiben dann auf der Haut."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feste Auslöser",
+      "absaetze": [
+        "Gewohnheiten brauchen feste Auslöser. Beim Händewaschen sind das zum Beispiel der Gang zur Toilette, das Nachhausekommen und die Zubereitung von Essen.",
+        "Studien deuten darauf hin, dass Hinweise am richtigen Ort das Händewaschen fördern. Ein kleiner Zettel neben der Haustür kann anfangs helfen."
+      ],
+      "merke": "Nach dem Nachhausekommen die Hände waschen ist ein guter fester Auslöser.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dauer ohne Zählen",
+      "absaetze": [
+        "Damit du nicht mitzählen musst, kannst du in Gedanken zweimal ein kurzes Lied summen. Mit der Zeit bekommst du ein Gefühl für die Dauer.",
+        "Seife in Griffweite und ein eigenes Handtuch machen es leichter. Bei Kindern helfen Vorbilder und kleine Rituale."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert gründliches Händewaschen etwa?",
+      "art": "mc",
+      "optionen": [
+        "20 bis 30 Sekunden",
+        "2 Sekunden",
+        "5 Minuten",
+        "1 Sekunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit Seife und auch zwischen den Fingern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein guter fester Auslöser fürs Händewaschen?",
+      "art": "mc",
+      "optionen": [
+        "Das Nachhausekommen",
+        "Das Fernsehen",
+        "Das Schlafengehen allein",
+        "Der Blick aufs Handy"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch der Gang zur Toilette und das Kochen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du die Dauer abschätzen, ohne zu zählen?",
+      "art": "mc",
+      "optionen": [
+        "Zweimal ein kurzes Lied summen",
+        "Die Luft anhalten",
+        "Auf die Uhr starren",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit der Zeit bekommst du ein Gefühl dafür."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kurz unter Wasser halten reicht, um die meisten Keime zu entfernen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Seife und genug Zeit sind wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gründliches Händewaschen dauert 20 bis 30 Sekunden.",
+        "Seife überall verteilen.",
+        "Feste Auslöser machen es zur Gewohnheit.",
+        "Ein Lied hilft beim Abschätzen der Dauer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "umw-b069-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum geht es dem Igel schlecht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Igel",
+      "herausgeber": "Bundesamt für Naturschutz (BfN)",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "igel",
+    "artenschutz",
+    "garten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Igel ist eines der bekanntesten Wildtiere in unseren Gärten.",
+        "Doch er wird seltener."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein nächtlicher Insektenjäger",
+      "absaetze": [
+        "Igel sind nachtaktiv. Sie fressen vor allem Käfer, Raupen, Regenwürmer und andere Kleintiere. Im Winter halten sie Winterschlaf.",
+        "Auf der internationalen Roten Liste wird der Braunbrustigel inzwischen als potenziell gefährdet eingestuft. Auch in Deutschland gehen die Bestände zurück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Gefahren",
+      "absaetze": [
+        "Viele Igel sterben im Straßenverkehr. In aufgeräumten Gärten mit Schotter und Rasen finden sie kaum Nahrung und Verstecke.",
+        "Gefährlich sind auch Mähroboter, vor allem, wenn sie nachts fahren. Igel rollen sich bei Gefahr zusammen, statt zu fliehen. Weniger Insekten bedeuten zudem weniger Futter."
+      ],
+      "merke": "Mähroboter sollten nicht nachts fahren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So hilfst du",
+      "absaetze": [
+        "Lass Laubhaufen und wilde Ecken im Garten liegen. Sie dienen als Versteck und Winterquartier. Kleine Durchgänge in Zäunen erlauben Igeln, mehrere Gärten zu nutzen.",
+        "Lass den Mähroboter nur tagsüber fahren. Gib Igeln keine Milch, sie vertragen sie nicht. Eine flache Schale mit Wasser hilft im Sommer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sind Igel aktiv?",
+      "art": "mc",
+      "optionen": [
+        "Nachts",
+        "Mittags",
+        "Nur im Winter",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Winter halten sie Winterschlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Mähroboter für Igel gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Igel rollen sich zusammen, statt zu fliehen",
+        "Igel fressen Mähroboter",
+        "Mähroboter locken Igel an",
+        "Sie sind ungefährlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem nachts ist das Risiko groß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du Igeln nicht geben?",
+      "art": "mc",
+      "optionen": [
+        "Milch",
+        "Wasser",
+        "Ein Versteck",
+        "Laub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie vertragen Milch nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laubhaufen im Garten helfen Igeln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie dienen als Versteck und Winterquartier."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Igel werden seltener.",
+        "Straßen, aufgeräumte Gärten und Mähroboter gefährden sie.",
+        "Laubhaufen und Zaundurchgänge helfen.",
+        "Keine Milch geben, Mähroboter nur tagsüber."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tech-b069-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was ist anders an einem OLED-Bildschirm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "oled",
+    "bildschirm",
+    "display"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Smartphones und Fernseher werben mit OLED.",
+        "Der Unterschied zu anderen Bildschirmen steckt in jedem einzelnen Bildpunkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Jeder Punkt leuchtet selbst",
+      "absaetze": [
+        "OLED steht für organische Leuchtdiode. Jeder Bildpunkt besteht aus einer dünnen Schicht, die selbst leuchtet, wenn Strom fließt.",
+        "Bei herkömmlichen LCD-Bildschirmen leuchtet dagegen eine Hintergrundbeleuchtung. Flüssigkristalle davor lassen mehr oder weniger Licht durch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Echtes Schwarz",
+      "absaetze": [
+        "Ein OLED-Bildpunkt kann ganz ausgeschaltet werden. Dann ist er wirklich schwarz. Das sorgt für starke Kontraste.",
+        "Weil keine Hintergrundbeleuchtung nötig ist, können OLED-Bildschirme sehr dünn und sogar biegsam sein. Das nutzen faltbare Smartphones."
+      ],
+      "merke": "OLED-Bildpunkte leuchten selbst und können ganz schwarz sein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwächen",
+      "absaetze": [
+        "Wird lange dasselbe Bild angezeigt, kann es sich leicht einbrennen. Hersteller wirken dem mit verschiedenen Tricks entgegen.",
+        "OLED-Bildschirme sind meist teurer. Bei hellen Inhalten verbrauchen sie mehr Strom, bei dunklen dagegen weniger."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht OLED?",
+      "art": "mc",
+      "optionen": [
+        "Organische Leuchtdiode",
+        "Optischer Laser",
+        "Offene Lampe",
+        "Oberflächen-LED"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder Bildpunkt leuchtet selbst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was braucht ein LCD-Bildschirm im Gegensatz zu OLED?",
+      "art": "mc",
+      "optionen": [
+        "Eine Hintergrundbeleuchtung",
+        "Keinen Strom",
+        "Eine Batterie im Bildpunkt",
+        "Ein Prisma"
+      ],
+      "richtig": 0,
+      "erklaerung": "Flüssigkristalle regeln das Licht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Schwäche von OLED?",
+      "art": "mc",
+      "optionen": [
+        "Bilder können sich einbrennen",
+        "Sie zeigen kein Schwarz",
+        "Sie sind immer dick",
+        "Sie leuchten nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem bei lange gleichem Bild."
+    },
+    {
+      "typ": "quiz",
+      "frage": "OLED-Bildschirme können biegsam sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das nutzen faltbare Smartphones."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei OLED leuchtet jeder Bildpunkt selbst.",
+        "Ausgeschaltete Punkte sind echtes Schwarz.",
+        "OLED-Bildschirme können dünn und biegsam sein.",
+        "Einbrennen ist eine mögliche Schwäche."
+      ]
+    }
+  ]
+}

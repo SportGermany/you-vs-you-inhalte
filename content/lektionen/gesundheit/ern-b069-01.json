@@ -1,0 +1,131 @@
+{
+  "id": "ern-b069-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist bei Sushi zu beachten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sushi",
+    "roher-fisch",
+    "lebensmittelsicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sushi ist leicht, frisch und beliebt.",
+        "Weil der Fisch oft roh ist, gelten aber ein paar Regeln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fisch muss vorher tiefgekühlt sein",
+      "absaetze": [
+        "Roher Fisch kann Larven von Fadenwürmern enthalten. Sie heißen Anisakis und können Magen-Darm-Beschwerden auslösen.",
+        "In der EU muss Fisch, der roh gegessen werden soll, deshalb vorher tiefgefroren werden. Die Kälte tötet die Larven ab. Seriöse Restaurants und Händler halten sich daran."
+      ],
+      "merke": "Fisch für Sushi muss vorher tiefgefroren worden sein.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für alle geeignet",
+      "absaetze": [
+        "Roher Fisch kann außerdem Bakterien wie Listerien enthalten. Für Schwangere, ältere Menschen und Menschen mit geschwächtem Immunsystem kann das gefährlich sein.",
+        "Sie sollten auf Sushi mit rohem Fisch verzichten. Gute Alternativen sind Sushi mit Gemüse, gegartem Fisch oder Garnelen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühl und frisch",
+      "absaetze": [
+        "Sushi aus dem Supermarkt solltest du gekühlt kaufen und bald essen. Auch der Reis kann verderben, wenn er zu lange warm steht.",
+        "Selbst gemachtes Sushi ist am besten frisch zubereitet. Verwende dafür nur Fisch, der ausdrücklich für den Rohverzehr geeignet ist."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum muss Fisch für Sushi tiefgefroren werden?",
+      "art": "mc",
+      "optionen": [
+        "Damit mögliche Wurmlarven abgetötet werden",
+        "Damit er besser schmeckt",
+        "Damit er länger hart bleibt",
+        "Weil es billiger ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Larven heißen Anisakis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte auf Sushi mit rohem Fisch verzichten?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere",
+        "Sportler",
+        "Studierende",
+        "Brillenträger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Roher Fisch kann Listerien enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine gute Alternative?",
+      "art": "mc",
+      "optionen": [
+        "Sushi mit Gemüse oder gegartem Fisch",
+        "Sushi mit rohem Schweinefleisch",
+        "Sushi vom Vortag",
+        "Ungekühltes Sushi"
+      ],
+      "richtig": 0,
+      "erklaerung": "So entfällt das Risiko durch rohen Fisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch der Sushi-Reis kann verderben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er sollte nicht lange warm stehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Roher Fisch kann Wurmlarven enthalten.",
+        "Fisch für Sushi muss vorher tiefgefroren sein.",
+        "Schwangere sollten rohen Fisch meiden.",
+        "Sushi gekühlt kaufen und frisch essen."
+      ]
+    }
+  ]
+}

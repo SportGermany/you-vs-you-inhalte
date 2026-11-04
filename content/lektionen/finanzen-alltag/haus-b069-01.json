@@ -1,0 +1,121 @@
+{
+  "id": "haus-b069-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du Pfannen richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pfannen",
+    "kochgeschirr",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine gute Pfanne kann viele Jahre halten.",
+        "Wie lange, hängt stark von der Pflege ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beschichtete Pfannen",
+      "absaetze": [
+        "Pfannen mit Antihaftbeschichtung sind praktisch, aber empfindlich. Erhitze sie nicht leer auf höchster Stufe. Zu starke Hitze schadet der Beschichtung.",
+        "Nutze Holz- oder Kunststoffwender statt Metall. Ist die Beschichtung stark zerkratzt oder löst sich, solltest du die Pfanne ersetzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gusseisen und Eisen",
+      "absaetze": [
+        "Pfannen aus Gusseisen oder Schmiedeeisen werden vor dem ersten Gebrauch eingebrannt. Dabei bildet sich durch Erhitzen mit Öl eine Schutzschicht.",
+        "Spüle sie nur mit heißem Wasser und ohne viel Spülmittel. Trockne sie sofort gründlich ab und reibe sie dünn mit Öl ein, sonst rosten sie."
+      ],
+      "merke": "Eisenpfannen sofort trocknen und dünn einölen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Edelstahl",
+      "absaetze": [
+        "Edelstahlpfannen sind robust und spülmaschinenfest. Damit nichts anhaftet, solltest du sie gut vorheizen, bevor das Fett und das Bratgut hineinkommen.",
+        "Eingebranntes lässt sich mit etwas Wasser und Natron lösen. Lass die Pfanne dafür kurz einweichen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schadet beschichteten Pfannen?",
+      "art": "mc",
+      "optionen": [
+        "Leeres Erhitzen auf höchster Stufe",
+        "Holzwender",
+        "Mildes Spülmittel",
+        "Mittlere Hitze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu starke Hitze greift die Beschichtung an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie pflegst du Gusseisenpfannen?",
+      "art": "mc",
+      "optionen": [
+        "Gründlich trocknen und dünn einölen",
+        "In die Spülmaschine geben",
+        "Nass stehen lassen",
+        "Mit Stahlwolle täglich scheuern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst rosten sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Edelstahl gegen Anhaften?",
+      "art": "mc",
+      "optionen": [
+        "Die Pfanne gut vorheizen",
+        "Kalt anbraten",
+        "Viel Wasser zugeben",
+        "Zucker hineinstreuen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst dann Fett und Bratgut hinein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Stark zerkratzte beschichtete Pfannen sollten ersetzt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Beschichtung ist dann beschädigt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beschichtete Pfannen nicht leer überhitzen.",
+        "Holz- oder Kunststoffwender verwenden.",
+        "Eisenpfannen trocknen und einölen.",
+        "Edelstahl gut vorheizen."
+      ]
+    }
+  ]
+}

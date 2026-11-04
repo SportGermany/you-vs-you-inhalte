@@ -1,0 +1,121 @@
+{
+  "id": "all-b069-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie misst man Entfernungen im All?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gaia und kosmische Entfernungen",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "entfernungen",
+    "astronomie",
+    "parallaxe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wie weit ist ein Stern entfernt, den man nie besuchen kann?",
+        "Astronomen haben dafür eine ganze Leiter von Methoden entwickelt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Daumensprung",
+      "absaetze": [
+        "Halte einen Daumen vor dein Gesicht und schließe abwechselnd ein Auge. Der Daumen scheint zu springen. Diesen Effekt nennt man Parallaxe.",
+        "Ähnlich verschieben sich nahe Sterne leicht vor dem Hintergrund, während die Erde um die Sonne läuft. Aus dieser Verschiebung lässt sich ihre Entfernung berechnen. Die Raumsonde Gaia hat so Milliarden Sterne vermessen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sterne als Messlatte",
+      "absaetze": [
+        "Für weiter entfernte Objekte nutzt man sogenannte Standardkerzen. Das sind Sterne, deren wahre Helligkeit man kennt. Je schwächer sie erscheinen, desto weiter sind sie weg.",
+        "Bestimmte pulsierende Sterne und eine Art von Sternexplosionen eignen sich dafür. Mit ihnen lassen sich Entfernungen zu fernen Galaxien bestimmen."
+      ],
+      "merke": "Standardkerzen sind Sterne mit bekannter Helligkeit."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Licht wird röter",
+      "absaetze": [
+        "Sehr ferne Galaxien entfernen sich von uns, weil sich das Weltall ausdehnt. Ihr Licht wird dabei zu längeren Wellen verschoben. Man spricht von Rotverschiebung.",
+        "Je stärker die Rotverschiebung, desto weiter ist die Galaxie entfernt. So messen Astronomen die größten Entfernungen im Universum."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Parallaxe?",
+      "art": "mc",
+      "optionen": [
+        "Die scheinbare Verschiebung eines Objekts bei Blick von zwei Orten",
+        "Ein Teleskop",
+        "Eine Sternexplosion",
+        "Ein Planet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie beim springenden Daumen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Standardkerzen?",
+      "art": "mc",
+      "optionen": [
+        "Sterne mit bekannter wahrer Helligkeit",
+        "Kerzen auf der Raumstation",
+        "Kometen",
+        "Monde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aus ihrer scheinbaren Helligkeit ergibt sich die Entfernung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die Rotverschiebung?",
+      "art": "mc",
+      "optionen": [
+        "Dass sich ferne Galaxien entfernen",
+        "Dass Sterne rot sind",
+        "Dass der Mars nah ist",
+        "Dass Licht stehen bleibt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Weltall dehnt sich aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Raumsonde Gaia hat Milliarden Sterne vermessen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Mit der Parallaxe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nahe Sterne vermisst man mit der Parallaxe.",
+        "Standardkerzen helfen bei fernen Galaxien.",
+        "Die Rotverschiebung misst die größten Entfernungen.",
+        "Gaia hat Milliarden Sterne vermessen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "supp-b069-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Bockshornklee zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bockshornklee",
+    "heilpflanzen",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bockshornklee wird für Haare, Blutzucker und die Milchbildung beim Stillen beworben.",
+        "Was ist dran an dem alten Gewürz?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Gewürz mit langer Geschichte",
+      "absaetze": [
+        "Bockshornklee ist eine Pflanze aus der Familie der Hülsenfrüchte. Ihre Samen werden in der indischen Küche als Gewürz verwendet, etwa in Currymischungen.",
+        "In der Volksheilkunde wird Bockshornklee seit Langem eingesetzt. Heute gibt es ihn als Kapseln, Tee und Pulver."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass Bockshornklee den Blutzucker etwas senken könnte. Für schöneres Haar oder mehr Muttermilch sind die Belege schwach.",
+        "Die Studien sind oft klein und von unterschiedlicher Qualität. Gesundheitsbezogene Werbeaussagen dazu sind in der EU nicht zugelassen."
+      ],
+      "merke": "Für die meisten beworbenen Wirkungen sind die Belege schwach.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nebenwirkungen",
+      "absaetze": [
+        "Bockshornklee kann Blähungen und Durchfall verursachen. Bei manchen riechen Schweiß und Urin danach nach Ahornsirup.",
+        "Allergische Reaktionen sind möglich, besonders bei einer Allergie gegen Erdnüsse oder andere Hülsenfrüchte. Wer Medikamente gegen Diabetes bekommt, sollte vorher ärztlich nachfragen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "In der Schwangerschaft nicht verwenden.",
+        "Bei Diabetes-Medikamenten oder Blutverdünnern vorher ärztlich beraten lassen.",
+        "Bei Allergien gegen Erdnüsse oder andere Hülsenfrüchte meiden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Pflanzenfamilie gehört Bockshornklee?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Hülsenfrüchten",
+        "Zu den Gräsern",
+        "Zu den Pilzen",
+        "Zu den Nadelbäumen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie Erbsen und Erdnüsse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür gibt es kleine Hinweise auf eine Wirkung?",
+      "art": "mc",
+      "optionen": [
+        "Für eine leichte Senkung des Blutzuckers",
+        "Für Haarwachstum über Nacht",
+        "Für bessere Sehkraft",
+        "Für mehr Körpergröße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind aber klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche ungewöhnliche Nebenwirkung ist bekannt?",
+      "art": "mc",
+      "optionen": [
+        "Schweiß riecht nach Ahornsirup",
+        "Haare werden grün",
+        "Die Stimme wird tiefer",
+        "Die Nägel wachsen schneller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist harmlos, aber auffällig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Erdnussallergie ist Vorsicht mit Bockshornklee geboten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kreuzallergien sind möglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bockshornklee ist ein Gewürz aus der Familie der Hülsenfrüchte.",
+        "Die Belege für die meisten Wirkungen sind schwach.",
+        "Er kann den Blutzucker beeinflussen.",
+        "Allergien und Verdauungsbeschwerden sind möglich."
+      ]
+    }
+  ]
+}

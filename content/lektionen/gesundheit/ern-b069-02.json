@@ -1,0 +1,131 @@
+{
+  "id": "ern-b069-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Sonnenblumenkerne?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sonnenblumenkerne",
+    "samen",
+    "cadmium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Müsli, auf dem Brot oder im Salat: Sonnenblumenkerne sind vielseitig.",
+        "Die kleinen Kerne stecken voller Nährstoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein, aber nährstoffreich",
+      "absaetze": [
+        "Sonnenblumenkerne liefern viel Vitamin E, Magnesium und Eiweiß. Dazu kommen ungesättigte Fettsäuren und Ballaststoffe.",
+        "Sie enthalten viel Fett und damit viele Kalorien. Eine kleine Handvoll reicht, um ein Gericht aufzuwerten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hinweis zu Cadmium",
+      "absaetze": [
+        "Sonnenblumen ziehen das Schwermetall Cadmium aus dem Boden. Deshalb können die Kerne vergleichsweise viel davon enthalten.",
+        "Das BfR rät, Sonnenblumenkerne nicht in großen Mengen täglich zu verzehren. Als gelegentliche Zutat sind sie unbedenklich."
+      ],
+      "merke": "Sonnenblumenkerne besser in kleinen Mengen genießen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut verwenden",
+      "absaetze": [
+        "Ohne Fett geröstet schmecken die Kerne besonders nussig. Gesalzene Snack-Kerne enthalten oft viel Salz.",
+        "Wer Abwechslung möchte, kann auch Kürbiskerne, Leinsamen oder Nüsse verwenden. Bewahre Kerne kühl und trocken auf, damit sie nicht ranzig werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin steckt reichlich in Sonnenblumenkernen?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin E",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin K2"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Magnesium und Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sollten Sonnenblumenkerne nicht in großen Mengen täglich gegessen werden?",
+      "art": "mc",
+      "optionen": [
+        "Sie können viel Cadmium enthalten",
+        "Sie sind giftig",
+        "Sie enthalten Koffein",
+        "Sie machen müde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflanze zieht es aus dem Boden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schmecken die Kerne besonders nussig?",
+      "art": "mc",
+      "optionen": [
+        "Ohne Fett geröstet",
+        "Roh eingefroren",
+        "In Zucker gekocht",
+        "Mit Essig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kurz in der Pfanne anrösten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Als gelegentliche Zutat sind Sonnenblumenkerne unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auf die Menge kommt es an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sonnenblumenkerne liefern Vitamin E und Magnesium.",
+        "Sie enthalten viel Fett.",
+        "Sie können Cadmium enthalten.",
+        "Kleine Mengen sind unbedenklich."
+      ]
+    }
+  ]
+}

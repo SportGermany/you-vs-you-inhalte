@@ -1,0 +1,121 @@
+{
+  "id": "steu-b069-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Muss man Lottogewinne versteuern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lottogewinn",
+    "einkommensteuer",
+    "schenkung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sechs Richtige und plötzlich Millionär.",
+        "Will dann auch das Finanzamt etwas abhaben?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewinne sind steuerfrei",
+      "absaetze": [
+        "Lottogewinne gelten in Deutschland nicht als Einkommen. Du musst sie deshalb nicht versteuern, egal wie hoch sie sind.",
+        "Der Staat verdient trotzdem mit. Die Lotteriegesellschaften zahlen eine Steuer auf die Einsätze. Ein Teil des Geldes fließt außerdem an gemeinnützige Zwecke."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aber nicht die Zinsen",
+      "absaetze": [
+        "Legst du den Gewinn an, sind die Erträge steuerpflichtig. Zinsen, Dividenden und Kursgewinne werden wie bei anderen Geldanlagen besteuert.",
+        "Auch wenn du von dem Geld eine Wohnung kaufst und vermietest, sind die Mieteinnahmen steuerpflichtig."
+      ],
+      "merke": "Der Gewinn ist steuerfrei, Erträge daraus nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht beim Verschenken",
+      "absaetze": [
+        "Gibst du einen Teil an Familie oder Freunde weiter, kann Schenkungsteuer anfallen. Es gelten aber Freibeträge, die je nach Verwandtschaft unterschiedlich hoch sind.",
+        "Bei großen Gewinnen lohnt sich eine Beratung, bevor du Geld verteilst oder anlegst. Unseriöse Anrufe, die einen Gewinn gegen Gebühr versprechen, sind dagegen fast immer Betrug."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Muss man Lottogewinne in Deutschland versteuern?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer zur Hälfte",
+        "Ja, ab 100 Euro",
+        "Nur im Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gelten nicht als Einkommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist nach dem Gewinn steuerpflichtig?",
+      "art": "mc",
+      "optionen": [
+        "Zinsen und andere Erträge aus dem Geld",
+        "Der Lottoschein",
+        "Der Gewinn selbst",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie bei anderen Geldanlagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann beim Weitergeben des Gewinns anfallen?",
+      "art": "mc",
+      "optionen": [
+        "Schenkungsteuer",
+        "Hundesteuer",
+        "Kfz-Steuer",
+        "Grundsteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gelten aber Freibeträge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Anrufe, die einen Gewinn gegen Gebühr versprechen, sind fast immer Betrug.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Echte Gewinne kosten keine Gebühr."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lottogewinne sind in Deutschland steuerfrei.",
+        "Zinsen und Erträge daraus sind steuerpflichtig.",
+        "Beim Verschenken kann Schenkungsteuer anfallen.",
+        "Gewinnversprechen gegen Gebühr sind Betrug."
+      ]
+    }
+  ]
+}

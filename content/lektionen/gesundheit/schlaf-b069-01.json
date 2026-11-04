@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b069-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläfst du sonntags oft schlecht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sonntag",
+    "einschlafen",
+    "wochenrhythmus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Sonntagabend liegt man wach, obwohl man früh aufstehen muss.",
+        "Viele kennen dieses Problem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu lange ausgeschlafen",
+      "absaetze": [
+        "Wer am Wochenende länger schläft, verschiebt seine innere Uhr nach hinten. Am Sonntagabend ist man deshalb oft noch nicht müde.",
+        "Außerdem baut sich weniger Schlafdruck auf, wenn man spät aufgestanden ist. Das Einschlafen fällt dann schwerer."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gedanken an die Woche",
+      "absaetze": [
+        "Am Sonntagabend denken viele an die kommende Woche. Termine, Aufgaben und Sorgen tauchen auf.",
+        "Diese Vorfreude oder Anspannung hält wach. Befragungen deuten darauf hin, dass gerade Menschen mit hoher Arbeitsbelastung sonntags schlechter schlafen."
+      ],
+      "merke": "Sorgen um die neue Woche können wach halten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Steh auch am Wochenende ungefähr zur gleichen Zeit auf, höchstens etwa eine Stunde später als sonst. So bleibt die innere Uhr im Takt.",
+        "Schreib am Sonntagnachmittag kurz auf, was in der Woche ansteht. Dann musst du es nicht im Bett durchdenken. Plane für den Sonntagabend etwas Entspannendes ein."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist man am Sonntagabend oft nicht müde?",
+      "art": "mc",
+      "optionen": [
+        "Wegen langem Ausschlafen am Wochenende",
+        "Wegen zu viel Sport",
+        "Wegen des Wetters",
+        "Wegen zu wenig Essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die innere Uhr verschiebt sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält am Sonntagabend zusätzlich wach?",
+      "art": "mc",
+      "optionen": [
+        "Gedanken an die kommende Woche",
+        "Zu viel Ruhe",
+        "Dunkelheit",
+        "Ein warmes Bad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Anspannung erschwert das Einschlafen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Sonntagabend-Schlafprobleme?",
+      "art": "mc",
+      "optionen": [
+        "Am Wochenende ähnlich früh aufstehen",
+        "Bis mittags schlafen",
+        "Am Sonntag viel Kaffee trinken",
+        "Spät abends arbeiten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Höchstens etwa eine Stunde später als sonst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aufgaben vorher aufzuschreiben, kann das Grübeln im Bett verringern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann musst du sie nicht nachts durchdenken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ausschlafen verschiebt die innere Uhr.",
+        "Gedanken an die Woche halten wach.",
+        "Auch am Wochenende ähnlich früh aufstehen.",
+        "Aufgaben vorher aufschreiben."
+      ]
+    }
+  ]
+}
