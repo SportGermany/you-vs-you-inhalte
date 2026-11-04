@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b068-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie helfen Insulinpumpen und Glukosesensoren?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes-Technologie",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.ddg.info",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "insulinpumpe",
+    "glukosesensor",
+    "typ-1-diabetes"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Menschen mit Typ-1-Diabetes müssen ihr Insulin von außen zuführen.",
+        "Moderne Technik nimmt ihnen dabei immer mehr Arbeit ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pen oder Pumpe",
+      "absaetze": [
+        "Viele spritzen Insulin mehrmals am Tag mit einem Insulinpen. Eine Insulinpumpe gibt dagegen über einen dünnen Schlauch oder ein Pflaster ständig kleine Mengen ab.",
+        "Zu den Mahlzeiten wird zusätzlich Insulin abgerufen. Pumpen erleichtern eine fein abgestimmte Behandlung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sensoren statt Fingerpieks",
+      "absaetze": [
+        "Ein Glukosesensor sitzt mit einem winzigen Fühler unter der Haut. Er misst den Zucker im Gewebe alle paar Minuten und schickt die Werte an ein Lesegerät oder Handy.",
+        "So sehen Betroffene, wohin sich ihr Zucker entwickelt. Warnungen helfen, Unterzucker rechtzeitig zu bemerken."
+      ],
+      "merke": "Glukosesensoren messen den Zucker laufend und warnen vor Unterzucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pumpe und Sensor im Verbund",
+      "absaetze": [
+        "Bei sogenannten automatisierten Systemen sprechen Sensor und Pumpe miteinander. Ein Rechenprogramm passt die Insulinabgabe selbstständig an.",
+        "Das senkt bei vielen die Belastung im Alltag. Die Mahlzeiten müssen meist trotzdem eingegeben werden. Ob und welche Technik passt, wird mit dem Diabetesteam entschieden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gibt eine Insulinpumpe Insulin ab?",
+      "art": "mc",
+      "optionen": [
+        "Ständig in kleinen Mengen",
+        "Einmal pro Woche",
+        "Nur nachts",
+        "Über die Nahrung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu Mahlzeiten kommt zusätzlich Insulin dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was misst ein Glukosesensor?",
+      "art": "mc",
+      "optionen": [
+        "Den Zucker im Gewebe alle paar Minuten",
+        "Den Blutdruck",
+        "Die Körpertemperatur",
+        "Den Puls"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Werte gehen ans Lesegerät oder Handy."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machen automatisierte Systeme?",
+      "art": "mc",
+      "optionen": [
+        "Sie passen die Insulinabgabe selbstständig an",
+        "Sie ersetzen jede Ernährung",
+        "Sie heilen Diabetes",
+        "Sie messen nur einmal am Tag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sensor und Pumpe sprechen miteinander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mahlzeiten müssen bei den meisten Systemen trotzdem eingegeben werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ganz von allein läuft es noch nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Insulinpumpen geben Insulin laufend ab.",
+        "Glukosesensoren messen ständig den Zucker.",
+        "Warnungen helfen gegen Unterzucker.",
+        "Automatisierte Systeme verbinden beides.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "gew-b068-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie wird Sonnenschutz zur Gewohnheit?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "UV-Schutz",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnenschutz",
+    "uv-strahlung",
+    "routinen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Urlaub denken viele an Sonnencreme, im Alltag kaum.",
+        "Dabei wirkt UV-Strahlung auch beim Spaziergang oder auf dem Fahrrad."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Sonnenschutz wichtig ist",
+      "absaetze": [
+        "UV-Strahlung schädigt die Haut, auch ohne Sonnenbrand. Sie lässt die Haut schneller altern und erhöht das Risiko für Hautkrebs.",
+        "Fachleute empfehlen Sonnenschutz ab einem UV-Index von 3. Den aktuellen Wert zeigen viele Wetter-Apps."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "An eine feste Gewohnheit koppeln",
+      "absaetze": [
+        "Leichter wird es, wenn Sonnencreme an eine bestehende Gewohnheit gekoppelt ist. Stell sie zum Beispiel neben die Zahnbürste und creme dich nach dem Zähneputzen ein.",
+        "Eine Tagescreme mit Lichtschutzfaktor kann den Schritt vereinfachen. Studien deuten darauf hin, dass sichtbare Erinnerungen das Eincremen fördern."
+      ],
+      "merke": "Sonnencreme neben die Zahnbürste stellen erleichtert das Eincremen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als Creme",
+      "absaetze": [
+        "Schatten, Kleidung, Hut und Sonnenbrille schützen ebenfalls. In der Mittagszeit ist die UV-Strahlung am stärksten.",
+        "Für unterwegs hilft eine kleine Tube in der Tasche. Nach dem Baden oder starkem Schwitzen solltest du erneut eincremen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem UV-Index wird Sonnenschutz empfohlen?",
+      "art": "mc",
+      "optionen": [
+        "Ab 3",
+        "Ab 10",
+        "Ab 1",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Wetter-Apps zeigen den Wert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Eincremen leichter zur Gewohnheit?",
+      "art": "mc",
+      "optionen": [
+        "Die Creme neben die Zahnbürste stellen",
+        "Die Creme im Keller lagern",
+        "Nur im Urlaub eincremen",
+        "Nie daran denken"
+      ],
+      "richtig": 0,
+      "erklaerung": "So koppelst du sie an das Zähneputzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist die UV-Strahlung am stärksten?",
+      "art": "mc",
+      "optionen": [
+        "In der Mittagszeit",
+        "Am frühen Morgen",
+        "Nachts",
+        "Am Abend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist Schatten besonders wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "UV-Strahlung schädigt die Haut auch ohne Sonnenbrand.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie lässt die Haut schneller altern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "UV-Strahlung schadet der Haut auch im Alltag.",
+        "Ab UV-Index 3 Sonnenschutz nutzen.",
+        "Sonnencreme an feste Gewohnheiten koppeln.",
+        "Schatten und Kleidung schützen zusätzlich."
+      ]
+    }
+  ]
+}

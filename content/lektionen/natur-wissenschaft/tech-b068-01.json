@@ -1,0 +1,121 @@
+{
+  "id": "tech-b068-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Espressomaschine?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "espresso",
+    "kaffee",
+    "druck"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleiner, starker Kaffee mit goldbrauner Schaumschicht.",
+        "Für einen Espresso braucht es vor allem eins: Druck."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser unter Druck",
+      "absaetze": [
+        "Bei einer Espressomaschine wird heißes Wasser mit hohem Druck durch fein gemahlenen Kaffee gepresst. Üblich ist ein Druck von etwa 9 bar, das ist etwa neunmal so viel wie der Luftdruck.",
+        "Das Wasser hat dabei knapp unter 100 Grad. In rund 25 bis 30 Sekunden fließt eine kleine Tasse Espresso durch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Crema",
+      "absaetze": [
+        "Der hohe Druck löst Öle und Gase aus dem Kaffeepulver. Daraus entsteht die Crema, der feine Schaum auf dem Espresso.",
+        "Mahlgrad, Menge und Anpressdruck des Pulvers bestimmen den Geschmack. Ist das Pulver zu fein, läuft der Espresso zu langsam und schmeckt bitter."
+      ],
+      "merke": "Hoher Druck löst Öle und erzeugt die Crema."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verschiedene Maschinen",
+      "absaetze": [
+        "Siebträgermaschinen bedient man von Hand. Vollautomaten mahlen die Bohnen selbst und bereiten den Kaffee auf Knopfdruck zu.",
+        "Kapselmaschinen sind bequem, verursachen aber viel Verpackungsmüll und machen den Kaffee meist teurer. Regelmäßiges Entkalken verlängert die Lebensdauer jeder Maschine."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Druck arbeitet eine Espressomaschine üblicherweise?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 9 bar",
+        "Etwa 1 bar",
+        "Etwa 100 bar",
+        "Ohne Druck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist etwa neunmal der Luftdruck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Crema?",
+      "art": "mc",
+      "optionen": [
+        "Der feine Schaum auf dem Espresso",
+        "Milchschaum",
+        "Zucker",
+        "Ein Kaffeefilter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie entsteht durch gelöste Öle und Gase."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn das Pulver zu fein ist?",
+      "art": "mc",
+      "optionen": [
+        "Der Espresso läuft zu langsam und schmeckt bitter",
+        "Er schmeckt süßer",
+        "Er wird kalt",
+        "Er läuft schneller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Mahlgrad bestimmt den Geschmack."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kapselmaschinen verursachen viel Verpackungsmüll.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Und der Kaffee ist meist teurer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Espresso entsteht durch Wasser unter hohem Druck.",
+        "Der Druck erzeugt die Crema.",
+        "Mahlgrad und Menge bestimmen den Geschmack.",
+        "Regelmäßiges Entkalken hilft der Maschine."
+      ]
+    }
+  ]
+}

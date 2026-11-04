@@ -1,0 +1,131 @@
+{
+  "id": "ern-b068-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Oliven?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "oliven",
+    "mittelmeerkost",
+    "salz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Oliven gehören zur Mittelmeerküche wie Tomaten und Brot.",
+        "Frisch vom Baum könnte man sie allerdings kaum essen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst nach der Behandlung genießbar",
+      "absaetze": [
+        "Frische Oliven sind sehr bitter. Erst durch Einlegen in Salzlake, Wasser oder durch Fermentation werden sie genießbar.",
+        "Dabei saugen sie sich mit Salz voll. Eingelegte Oliven enthalten deshalb reichlich Salz. Wer auf seinen Salzkonsum achten muss, isst sie besser in kleinen Mengen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gesunde Fette",
+      "absaetze": [
+        "Oliven liefern vor allem einfach ungesättigte Fettsäuren, wie Olivenöl. Diese gelten als günstig für Herz und Gefäße. Dazu kommen Vitamin E und Pflanzenstoffe.",
+        "Oliven passen gut in eine Ernährung nach Mittelmeer-Vorbild, die in Studien mit Vorteilen für die Gesundheit verbunden ist."
+      ],
+      "merke": "Oliven liefern günstige Fette, aber auch viel Salz.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwarz ist nicht gleich schwarz",
+      "absaetze": [
+        "Grüne Oliven werden unreif geerntet, schwarze sind reif. Manche schwarzen Oliven sind aber eigentlich grüne Oliven, die künstlich geschwärzt wurden.",
+        "Dafür werden sie mit Sauerstoff und einem Eisensalz behandelt. Auf der Zutatenliste steht dann geschwärzt oder der Zusatzstoff Eisengluconat."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann man frische Oliven kaum essen?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind sehr bitter",
+        "Sie sind zu süß",
+        "Sie sind giftig",
+        "Sie sind zu hart"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst Einlegen macht sie genießbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fette liefern Oliven vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Einfach ungesättigte Fettsäuren",
+        "Transfette",
+        "Gar keine",
+        "Nur gesättigte Fette"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie Olivenöl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran erkennst du künstlich geschwärzte Oliven?",
+      "art": "mc",
+      "optionen": [
+        "Am Hinweis geschwärzt oder Eisengluconat",
+        "An der Größe",
+        "Am Preis",
+        "Am Glas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Blick auf die Zutatenliste hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eingelegte Oliven enthalten viel Salz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Beim Einlegen gelangt viel Salz hinein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Frische Oliven sind bitter und müssen eingelegt werden.",
+        "Sie liefern günstige Fette.",
+        "Sie enthalten aber viel Salz.",
+        "Manche schwarzen Oliven sind geschwärzt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "vers-b068-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was ist die Mietpreisbremse?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-12-31",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietpreisbremse",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mietpreisbremse",
+    "mietrecht",
+    "neuvermietung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In vielen Städten sind Mieten bei neuen Verträgen stark gestiegen.",
+        "Die Mietpreisbremse soll das begrenzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo und wie sie gilt",
+      "absaetze": [
+        "Die Mietpreisbremse gilt in Gebieten, die das jeweilige Bundesland als angespannten Wohnungsmarkt festgelegt hat. Das sind vor allem große Städte und Ballungsräume.",
+        "Dort darf die Miete bei einer neuen Vermietung höchstens zehn Prozent über der ortsüblichen Vergleichsmiete liegen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtige Ausnahmen",
+      "absaetze": [
+        "Für Neubauten, die nach Oktober 2014 erstmals vermietet wurden, gilt die Bremse nicht. Auch nach einer umfassenden Modernisierung ist die erste Vermietung ausgenommen.",
+        "War die Miete des Vormieters schon höher, darf der Vermieter diese Miete weiter verlangen."
+      ],
+      "merke": "Neubauten und umfassend modernisierte Wohnungen sind ausgenommen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu viel Miete zurückholen",
+      "absaetze": [
+        "Zahlst du mehr als erlaubt, musst du die zu hohe Miete gegenüber dem Vermieter in Textform beanstanden. Das nennt man Rüge.",
+        "Danach kannst du zu viel gezahlte Miete zurückfordern. Mietervereine helfen bei der Berechnung. Die Mietpreisbremse wurde mehrfach verlängert, die Regeln können sich ändern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo gilt die Mietpreisbremse?",
+      "art": "mc",
+      "optionen": [
+        "In Gebieten mit angespanntem Wohnungsmarkt",
+        "Überall in Deutschland",
+        "Nur auf dem Land",
+        "Nur für Gewerberäume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das legen die Bundesländer fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch darf die Miete bei Neuvermietung höchstens sein?",
+      "art": "mc",
+      "optionen": [
+        "Zehn Prozent über der ortsüblichen Vergleichsmiete",
+        "Doppelt so hoch",
+        "Beliebig",
+        "Fünfzig Prozent darüber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt aber Ausnahmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was musst du tun, um zu viel gezahlte Miete zurückzuholen?",
+      "art": "mc",
+      "optionen": [
+        "Die Miete in Textform rügen",
+        "Einfach weniger zahlen ohne Hinweis",
+        "Ausziehen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach kannst du zurückfordern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Neubauten gilt die Mietpreisbremse nicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wenn sie nach Oktober 2014 erstmals vermietet wurden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Mietpreisbremse gilt in angespannten Wohnungsmärkten.",
+        "Neue Mieten dürfen höchstens zehn Prozent über der Vergleichsmiete liegen.",
+        "Neubauten sind ausgenommen.",
+        "Zu hohe Miete muss gerügt werden."
+      ]
+    }
+  ]
+}

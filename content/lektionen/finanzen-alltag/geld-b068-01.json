@@ -1,0 +1,127 @@
+{
+  "id": "geld-b068-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind Zertifikate?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zertifikate",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zertifikate",
+    "wertpapiere",
+    "risiko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bonuszertifikat, Discountzertifikat, Hebelzertifikat: Banken bieten viele Varianten an.",
+        "Für Laien sind sie oft schwer zu durchschauen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Versprechen der Bank",
+      "absaetze": [
+        "Ein Zertifikat ist eine Schuldverschreibung. Du leihst der Bank Geld, die dir dafür eine Auszahlung verspricht. Wie hoch sie ist, hängt von einem Basiswert ab, etwa einer Aktie oder einem Index.",
+        "Die Regeln für die Auszahlung können sehr kompliziert sein. Oft gibt es Schwellen, bei deren Überschreiten sich alles ändert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Emittentenrisiko",
+      "absaetze": [
+        "Geht die Bank pleite, die das Zertifikat ausgegeben hat, kann dein Geld verloren sein. Anders als bei Fonds ist das Geld kein geschütztes Sondervermögen.",
+        "In der Finanzkrise 2008 verloren viele Anleger so ihr Geld, als eine große US-Bank zusammenbrach."
+      ],
+      "merke": "Bei einer Pleite der ausgebenden Bank droht der Totalverlust."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kosten und Alternativen",
+      "absaetze": [
+        "In Zertifikaten stecken oft versteckte Kosten, die die Rendite schmälern. Hebelzertifikate können schnell zu großen Verlusten führen.",
+        "Verbraucherschützer raten Laien meist zu einfacheren Anlagen wie breit gestreuten ETFs. Kaufe nur, was du wirklich verstehst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Zertifikat rechtlich?",
+      "art": "mc",
+      "optionen": [
+        "Eine Schuldverschreibung der Bank",
+        "Eine Aktie",
+        "Ein Sparbuch",
+        "Eine Versicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du leihst der Bank Geld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Emittentenrisiko?",
+      "art": "mc",
+      "optionen": [
+        "Das Risiko, dass die ausgebende Bank pleitegeht",
+        "Das Risiko von Regen",
+        "Das Risiko hoher Zinsen",
+        "Das Risiko eines Umzugs"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann kann das Geld verloren sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was raten Verbraucherschützer Laien meist?",
+      "art": "mc",
+      "optionen": [
+        "Einfachere Anlagen wie breit gestreute ETFs",
+        "Möglichst viele Hebelzertifikate",
+        "Nur Zertifikate",
+        "Gar nicht anzulegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kaufe nur, was du verstehst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zertifikate sind wie Fonds als Sondervermögen geschützt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei einer Bankpleite droht der Verlust."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zertifikate sind Schuldverschreibungen von Banken.",
+        "Ihre Regeln sind oft kompliziert.",
+        "Bei einer Bankpleite droht der Totalverlust.",
+        "Einfache Anlagen sind für Laien oft besser."
+      ]
+    }
+  ]
+}

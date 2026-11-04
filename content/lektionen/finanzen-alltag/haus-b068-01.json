@@ -1,0 +1,121 @@
+{
+  "id": "haus-b068-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entfernst du Rost?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rost",
+    "hausmittel",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein rostiges Werkzeug, Flecken auf dem Fahrrad oder ein angerostetes Messer.",
+        "Rost lässt sich oft mit einfachen Mitteln entfernen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Rost entsteht",
+      "absaetze": [
+        "Rost entsteht, wenn Eisen mit Sauerstoff und Wasser reagiert. Feuchtigkeit und Salz beschleunigen das.",
+        "Rost ist porös und hält Feuchtigkeit fest. Deshalb frisst er sich immer weiter ins Metall, wenn man ihn nicht entfernt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hausmittel gegen leichten Rost",
+      "absaetze": [
+        "Kleine Gegenstände kannst du in Essig oder eine Lösung mit Zitronensäure legen. Die Säure löst den Rost. Danach mit einer Bürste oder Stahlwolle abreiben und gut abspülen.",
+        "Für Flächen hilft eine Paste aus Natron und etwas Wasser. Trag sie auf, lass sie wirken und reibe dann ab. Bei starkem Rost helfen Schleifpapier oder spezielle Rostumwandler."
+      ],
+      "merke": "Säure wie Essig oder Zitronensäure löst leichten Rost."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Trockne Werkzeuge und Messer nach dem Gebrauch gründlich ab. Ein dünner Ölfilm schützt Metall vor Feuchtigkeit.",
+        "Bewahre Gegenstände trocken auf. Beschädigte Lackstellen am Fahrrad oder Auto solltest du bald ausbessern, damit kein Wasser ans Metall gelangt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht Rost?",
+      "art": "mc",
+      "optionen": [
+        "Wenn Eisen mit Sauerstoff und Wasser reagiert",
+        "Wenn Metall gefriert",
+        "Wenn Licht darauf fällt",
+        "Wenn es zu trocken ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Salz beschleunigt das."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst leichten Rost?",
+      "art": "mc",
+      "optionen": [
+        "Essig oder Zitronensäure",
+        "Zucker",
+        "Öl",
+        "Wasser allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach abbürsten und abspülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt Werkzeug vor Rost?",
+      "art": "mc",
+      "optionen": [
+        "Gründliches Abtrocknen und ein dünner Ölfilm",
+        "Feuchte Lagerung",
+        "Salzwasser",
+        "Im Regen liegen lassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Feuchtigkeit ist der Feind."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rost frisst sich ohne Behandlung weiter ins Metall.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er hält Feuchtigkeit fest."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rost entsteht durch Eisen, Sauerstoff und Wasser.",
+        "Essig oder Zitronensäure lösen leichten Rost.",
+        "Natronpaste hilft auf Flächen.",
+        "Trocken lagern und einölen beugt vor."
+      ]
+    }
+  ]
+}

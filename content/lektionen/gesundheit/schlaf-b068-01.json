@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b068-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schlafen manche mit offenen Augen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "augen",
+    "schlaf",
+    "trockene-augen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Menschen schlafen tief und fest, während ihre Augen einen Spalt offen bleiben.",
+        "Das sieht seltsam aus, ist aber gar nicht so selten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn die Lider nicht ganz schließen",
+      "absaetze": [
+        "Fachleute nennen das nächtlichen Lagophthalmus. Die Augenlider schließen sich im Schlaf nicht vollständig.",
+        "Oft liegt es an der Form der Lider. Es kann aber auch nach einer Lidoperation, bei einer Lähmung des Gesichtsnervs oder bei bestimmten Schilddrüsenerkrankungen auftreten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für die Augen",
+      "absaetze": [
+        "Bleibt das Auge offen, trocknet die Oberfläche nachts aus. Morgens fühlen sich die Augen dann oft gereizt, brennend oder gerötet an.",
+        "Über längere Zeit kann die Hornhaut Schaden nehmen. Viele Betroffene wissen gar nicht, dass sie mit offenen Augen schlafen. Oft bemerkt es zuerst der Partner."
+      ],
+      "merke": "Trockene, gereizte Augen am Morgen können ein Hinweis sein.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Lass die Ursache in einer Augenarztpraxis abklären. Häufig helfen befeuchtende Augentropfen oder ein Gel vor dem Schlafen.",
+        "Manchmal werden Schutzbrillen für die Nacht empfohlen. Nur in seltenen Fällen ist eine Operation nötig. Eine ruhige, nicht zu trockene Raumluft unterstützt zusätzlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man Schlafen mit offenen Augen?",
+      "art": "mc",
+      "optionen": [
+        "Nächtlicher Lagophthalmus",
+        "Schlafapnoe",
+        "Narkolepsie",
+        "Bruxismus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Lider schließen nicht vollständig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine mögliche Folge?",
+      "art": "mc",
+      "optionen": [
+        "Trockene, gereizte Augen",
+        "Besseres Sehen",
+        "Längerer Schlaf",
+        "Weniger Träume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Augenoberfläche trocknet aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft häufig?",
+      "art": "mc",
+      "optionen": [
+        "Befeuchtende Augentropfen oder Gel",
+        "Mehr Kaffee",
+        "Später ins Bett gehen",
+        "Licht anlassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ursache sollte abgeklärt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Oft bemerkt zuerst der Partner das Schlafen mit offenen Augen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Betroffene merken es meist nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Manche Menschen schließen im Schlaf die Augen nicht ganz.",
+        "Das kann die Augen austrocknen.",
+        "Gereizte Augen am Morgen sind ein Hinweis.",
+        "Augentropfen und Gel helfen häufig."
+      ]
+    }
+  ]
+}

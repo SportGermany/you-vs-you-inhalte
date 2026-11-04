@@ -1,0 +1,121 @@
+{
+  "id": "all-b068-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was passiert, wenn ein Meteorit einschlägt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Planetare Verteidigung",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "meteoriten",
+    "einschlagkrater",
+    "planetare-verteidigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeden Tag fällt Material aus dem All auf die Erde.",
+        "Meist sind es winzige Staubkörner. Selten aber auch große Brocken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Meteoroiden zum Meteoriten",
+      "absaetze": [
+        "Im All heißt ein Gesteinsbrocken Meteoroid. Verglüht er in der Atmosphäre, sehen wir ihn als Sternschnuppe. Erreicht ein Rest den Boden, nennt man ihn Meteorit.",
+        "Die meisten Meteoriten sind klein und fallen ins Meer oder in unbewohnte Gebiete. Funde sind für die Forschung wertvoll, weil sie aus der Frühzeit des Sonnensystems stammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Große Einschläge",
+      "absaetze": [
+        "Vor rund 15 Millionen Jahren schlug in Süddeutschland ein Asteroid ein. Er hinterließ das Nördlinger Ries, einen Krater mit rund 24 Kilometern Durchmesser.",
+        "Vor etwa 66 Millionen Jahren traf ein noch viel größerer Brocken die Erde im heutigen Mexiko. Er trug wesentlich zum Aussterben der Dinosaurier bei."
+      ],
+      "merke": "Das Nördlinger Ries ist ein Einschlagkrater."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Erde verteidigen",
+      "absaetze": [
+        "Weltraumagenturen suchen den Himmel nach Asteroiden ab, die der Erde gefährlich werden könnten. Derzeit ist keiner bekannt, der in absehbarer Zeit einschlagen wird.",
+        "2022 lenkte die Raumsonde DART einen kleinen Asteroiden durch einen Aufprall leicht von seiner Bahn ab. Der Test zeigte, dass so etwas grundsätzlich möglich ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt ein Gesteinsbrocken, der den Boden erreicht?",
+      "art": "mc",
+      "optionen": [
+        "Meteorit",
+        "Meteoroid",
+        "Komet",
+        "Planet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im All heißt er Meteoroid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Nördlinger Ries?",
+      "art": "mc",
+      "optionen": [
+        "Ein Einschlagkrater in Süddeutschland",
+        "Ein Vulkan",
+        "Ein See in Norwegen",
+        "Ein Gebirge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er entstand vor rund 15 Millionen Jahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte die Mission DART 2022?",
+      "art": "mc",
+      "optionen": [
+        "Ein Asteroid lässt sich leicht von seiner Bahn ablenken",
+        "Asteroiden sind hohl",
+        "Die Erde ist flach",
+        "Kometen bestehen aus Gold"
+      ],
+      "richtig": 0,
+      "erklaerung": "Durch einen gezielten Aufprall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein großer Einschlag trug zum Aussterben der Dinosaurier bei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vor etwa 66 Millionen Jahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Meteoriten sind Gesteinsbrocken aus dem All, die den Boden erreichen.",
+        "Die meisten sind klein.",
+        "Das Nördlinger Ries ist ein Einschlagkrater.",
+        "Asteroiden lassen sich grundsätzlich ablenken."
+      ]
+    }
+  ]
+}

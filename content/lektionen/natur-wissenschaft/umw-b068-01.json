@@ -1,0 +1,121 @@
+{
+  "id": "umw-b068-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist Nitrat im Grundwasser ein Problem?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nitrat im Grundwasser",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nitrat",
+    "grundwasser",
+    "landwirtschaft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grundwasser ist die wichtigste Quelle für unser Trinkwasser.",
+        "An vielen Orten in Deutschland ist es mit zu viel Nitrat belastet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher das Nitrat kommt",
+      "absaetze": [
+        "Nitrat ist eine Stickstoffverbindung. Pflanzen brauchen Stickstoff zum Wachsen. Deshalb wird auf Feldern mit Mineraldünger und Gülle gedüngt.",
+        "Was die Pflanzen nicht verwerten, wird mit dem Regen in den Boden gespült. So gelangt es ins Grundwasser. Besonders betroffen sind Regionen mit viel Tierhaltung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es schadet",
+      "absaetze": [
+        "Für Trinkwasser gilt ein Grenzwert für Nitrat. Wird er überschritten, müssen Wasserwerke das Wasser aufbereiten oder mit sauberem mischen. Das kostet Geld.",
+        "Im Körper kann aus Nitrat Nitrit entstehen. Das ist vor allem für Säuglinge bedenklich. Zu viel Nitrat schadet außerdem Gewässern, weil es Algenwachstum fördert."
+      ],
+      "merke": "Zu viel Dünger auf Feldern belastet das Grundwasser."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Strengere Regeln",
+      "absaetze": [
+        "An vielen Messstellen wird der Grenzwert seit Jahren überschritten. Der Europäische Gerichtshof verurteilte Deutschland deshalb 2018.",
+        "Seitdem gelten strengere Regeln fürs Düngen, vor allem in belasteten Gebieten. Bis sich das Grundwasser erholt, können aber viele Jahre vergehen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt das meiste Nitrat im Grundwasser?",
+      "art": "mc",
+      "optionen": [
+        "Aus Dünger und Gülle in der Landwirtschaft",
+        "Aus dem Meer",
+        "Aus Vulkanen",
+        "Aus Autobahnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Was Pflanzen nicht verwerten, sickert ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist Nitrit besonders bedenklich?",
+      "art": "mc",
+      "optionen": [
+        "Für Säuglinge",
+        "Für Sportler",
+        "Für Bäume",
+        "Für Fische im Aquarium allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Körper kann aus Nitrat Nitrit entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was geschah 2018?",
+      "art": "mc",
+      "optionen": [
+        "Der Europäische Gerichtshof verurteilte Deutschland",
+        "Nitrat wurde verboten",
+        "Das Grundwasser war plötzlich sauber",
+        "Alle Bauern hörten auf zu düngen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wegen zu hoher Nitratwerte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Grundwasser erholt sich innerhalb weniger Wochen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das kann viele Jahre dauern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nitrat stammt vor allem aus der Landwirtschaft.",
+        "Es belastet Grundwasser und Gewässer.",
+        "Für Säuglinge ist Nitrit bedenklich.",
+        "Strengere Düngeregeln sollen helfen."
+      ]
+    }
+  ]
+}

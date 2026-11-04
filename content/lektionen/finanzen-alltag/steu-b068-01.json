@@ -1,0 +1,121 @@
+{
+  "id": "steu-b068-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie werden Mieteinnahmen besteuert?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mieteinnahmen",
+    "vermietung",
+    "einkommensteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer eine Wohnung vermietet, hat zusätzliche Einnahmen.",
+        "Diese müssen in der Steuererklärung angegeben werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine eigene Einkunftsart",
+      "absaetze": [
+        "Mieteinnahmen gehören zu den Einkünften aus Vermietung und Verpachtung. Sie werden mit deinem persönlichen Einkommensteuersatz besteuert.",
+        "In der Steuererklärung trägst du sie in einer eigenen Anlage ein. Besteuert wird nicht die gesamte Miete, sondern der Überschuss nach Abzug der Kosten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du abziehen kannst",
+      "absaetze": [
+        "Abziehbar sind zum Beispiel Schuldzinsen für den Immobilienkredit, Reparaturen, Versicherungen und Verwaltungskosten.",
+        "Auch das Gebäude selbst wird über viele Jahre abgeschrieben. Man spricht von Abschreibung. Ein fester Prozentsatz der Gebäudekosten mindert jedes Jahr die Steuer."
+      ],
+      "merke": "Besteuert wird der Überschuss nach Abzug der Kosten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vermietung an Angehörige",
+      "absaetze": [
+        "Vermietest du günstiger an Verwandte, darf die Miete nicht zu niedrig sein. Sonst kannst du deine Kosten nicht voll abziehen.",
+        "Wer vermietet, sollte alle Belege aufbewahren. Bei größeren Objekten oder Unsicherheiten lohnt sich eine Steuerberatung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Einkunftsart gehören Mieteinnahmen?",
+      "art": "mc",
+      "optionen": [
+        "Vermietung und Verpachtung",
+        "Gewerbebetrieb",
+        "Kapitalvermögen",
+        "Nichtselbstständige Arbeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür gibt es eine eigene Anlage."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird besteuert?",
+      "art": "mc",
+      "optionen": [
+        "Der Überschuss nach Abzug der Kosten",
+        "Die gesamte Miete ohne Abzüge",
+        "Nur die Nebenkosten",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kosten mindern die Steuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Abschreibung?",
+      "art": "mc",
+      "optionen": [
+        "Ein jährlicher Abzug für das Gebäude",
+        "Eine Strafe",
+        "Eine Mieterhöhung",
+        "Ein Kredit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gebäudekosten werden über Jahre verteilt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei sehr günstiger Vermietung an Verwandte drohen Nachteile beim Kostenabzug.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Miete darf nicht zu niedrig sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mieteinnahmen sind steuerpflichtig.",
+        "Besteuert wird der Überschuss.",
+        "Zinsen, Reparaturen und Abschreibung mindern die Steuer.",
+        "Bei Vermietung an Angehörige auf die Miethöhe achten."
+      ]
+    }
+  ]
+}
