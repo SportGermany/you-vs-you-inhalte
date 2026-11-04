@@ -1,0 +1,121 @@
+{
+  "id": "haus-b067-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du Wolle richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wolle",
+    "waesche",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Lieblingspulli kommt aus der Waschmaschine und passt nur noch einem Kind.",
+        "Wolle braucht eine besondere Behandlung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Wolle verfilzt",
+      "absaetze": [
+        "Wollfasern haben eine schuppige Oberfläche. Bei Wärme, Nässe und Reibung verhaken sich die Schuppen ineinander. Die Wolle verfilzt und läuft ein.",
+        "Deshalb ist vor allem starke Bewegung beim Waschen gefährlich, nicht nur die Temperatur."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanft waschen",
+      "absaetze": [
+        "Nutze ein spezielles Wollwaschmittel und das Wollprogramm der Maschine, meist kalt oder bei 30 Grad. Schau vorher auf das Pflegeetikett.",
+        "Wäschst du von Hand, drücke die Wolle nur sanft im Wasser aus. Nicht reiben oder auswringen. Weichspüler brauchst du nicht."
+      ],
+      "merke": "Bei Wolle sind Reibung und Wärme die größten Feinde."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig trocknen",
+      "absaetze": [
+        "Wickel den Pulli in ein Handtuch und drück das Wasser heraus. Dann leg ihn flach auf ein Handtuch oder einen Wäscheständer zum Trocknen.",
+        "Aufhängen lässt Wolle ausleiern. Oft reicht es, Wollsachen nur auszulüften. Wolle nimmt Gerüche wenig an und muss selten gewaschen werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum verfilzt Wolle?",
+      "art": "mc",
+      "optionen": [
+        "Die schuppigen Fasern verhaken sich bei Wärme, Nässe und Reibung",
+        "Weil sie zu trocken ist",
+        "Weil sie Licht nicht mag",
+        "Weil sie zu alt ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Starke Bewegung ist besonders gefährlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du Wolle trocknen?",
+      "art": "mc",
+      "optionen": [
+        "Flach liegend",
+        "Im heißen Trockner",
+        "Auf der Heizung",
+        "An der Wäscheleine hängend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aufhängen lässt sie ausleiern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei der Handwäsche vermeiden?",
+      "art": "mc",
+      "optionen": [
+        "Reiben und Auswringen",
+        "Kaltes Wasser",
+        "Wollwaschmittel",
+        "Sanftes Ausdrücken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur sanft drücken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wolle muss oft nur ausgelüftet werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie nimmt Gerüche wenig an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wärme, Nässe und Reibung lassen Wolle verfilzen.",
+        "Wollprogramm und Wollwaschmittel nutzen.",
+        "Nicht reiben oder auswringen.",
+        "Flach liegend trocknen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b067-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Welche Matratze passt zu dir?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "matratze",
+    "liegekomfort",
+    "rueckenschmerzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Federkern, Kaltschaum oder Latex: Die Auswahl im Matratzenladen ist riesig.",
+        "Die eine perfekte Matratze für alle gibt es nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was eine Matratze leisten soll",
+      "absaetze": [
+        "Eine gute Matratze stützt den Körper so, dass die Wirbelsäule möglichst gerade liegt. Schultern und Becken sollen etwas einsinken können.",
+        "Wie fest sie sein sollte, hängt von Körpergewicht, Schlafposition und persönlichem Empfinden ab."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mittelfest statt bretthart",
+      "absaetze": [
+        "Lange galt eine sehr harte Matratze als gut für den Rücken. Eine Studie mit Menschen mit Rückenschmerzen deutet aber darauf hin, dass mittelfeste Matratzen günstiger sind als sehr harte.",
+        "Allgemeingültige Regeln gibt es trotzdem kaum. Teure Werbeversprechen sind oft nicht wissenschaftlich belegt."
+      ],
+      "merke": "Mittelfeste Matratzen waren in einer Studie günstiger als sehr harte.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausprobieren",
+      "absaetze": [
+        "Leg dich im Geschäft mindestens zehn Minuten in deiner üblichen Schlafposition auf die Matratze. Viele Händler bieten auch Probeschlafen zu Hause an.",
+        "Eine Matratze hält nicht ewig. Ist sie durchgelegen oder wachst du regelmäßig mit Verspannungen auf, kann eine neue helfen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was soll eine gute Matratze leisten?",
+      "art": "mc",
+      "optionen": [
+        "Den Körper so stützen, dass die Wirbelsäule gerade liegt",
+        "Möglichst hart sein",
+        "Möglichst weich sein",
+        "Nur gut aussehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schultern und Becken dürfen etwas einsinken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deutet eine Studie bei Rückenschmerzen an?",
+      "art": "mc",
+      "optionen": [
+        "Mittelfeste Matratzen sind günstiger als sehr harte",
+        "Sehr harte Matratzen sind immer am besten",
+        "Schlafen auf dem Boden ist immer ideal",
+        "Die Matratze spielt keine Rolle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Allgemeine Regeln gibt es trotzdem kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange solltest du im Geschäft probeliegen?",
+      "art": "mc",
+      "optionen": [
+        "Mindestens zehn Minuten",
+        "Zehn Sekunden",
+        "Gar nicht",
+        "Eine Nacht im Laden"
+      ],
+      "richtig": 0,
+      "erklaerung": "In deiner üblichen Schlafposition."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine durchgelegene Matratze kann zu Verspannungen beitragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann kann eine neue helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die perfekte Matratze für alle gibt es nicht.",
+        "Die Wirbelsäule soll möglichst gerade liegen.",
+        "Mittelfest ist oft günstiger als sehr hart.",
+        "Ausgiebig probeliegen."
+      ]
+    }
+  ]
+}

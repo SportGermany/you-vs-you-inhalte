@@ -1,0 +1,131 @@
+{
+  "id": "ern-b067-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Ketchup?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ketchup",
+    "zucker",
+    "lycopin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Pommes, Würstchen, Burger: Für viele gehört Ketchup einfach dazu.",
+        "Er besteht aus Tomaten, enthält aber auch einiges anderes."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Ketchup steckt",
+      "absaetze": [
+        "Ketchup wird aus Tomatenmark, Essig, Gewürzen, Salz und Zucker hergestellt. Oft steckt erstaunlich viel Zucker darin.",
+        "Ein Blick auf die Nährwerttabelle zeigt, wie viel es bei deinem Produkt ist. Es gibt auch Sorten mit weniger Zucker."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Pluspunkt: Lycopin",
+      "absaetze": [
+        "Tomaten enthalten den roten Pflanzenstoff Lycopin. Aus verarbeiteten Tomaten wie Mark oder Soße kann der Körper ihn besser aufnehmen als aus rohen.",
+        "Das macht Ketchup aber nicht zum Gesundheitsprodukt. Für Lycopin sind Tomatensoße oder geschmorte Tomaten die bessere Wahl."
+      ],
+      "merke": "Aus verarbeiteten Tomaten nimmt der Körper Lycopin besser auf.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Maßvoll genießen",
+      "absaetze": [
+        "In kleinen Mengen ist Ketchup unproblematisch. Wer große Portionen nimmt, isst damit aber viel Zucker und Salz.",
+        "Selbst gemachter Ketchup aus Tomatenmark, Gewürzen und etwas Essig lässt sich nach Geschmack süßen. Auch Tomatensalsa ist eine frische Alternative."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt oft reichlich im Ketchup?",
+      "art": "mc",
+      "optionen": [
+        "Zucker",
+        "Vitamin B12",
+        "Eisen",
+        "Ballaststoffe aus Vollkorn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Blick auf die Nährwerte lohnt sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nimmt der Körper Lycopin besser auf?",
+      "art": "mc",
+      "optionen": [
+        "Aus verarbeiteten Tomaten",
+        "Nur aus grünen Tomaten",
+        "Gar nicht",
+        "Nur aus Tomatenblättern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa aus Mark oder Soße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine gute Alternative zu Ketchup?",
+      "art": "mc",
+      "optionen": [
+        "Frische Tomatensalsa",
+        "Mehr Zucker",
+        "Mayonnaise mit Zucker",
+        "Schokoladensoße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oder selbst gemachter Ketchup."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In kleinen Mengen ist Ketchup unproblematisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auf die Menge kommt es an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ketchup enthält oft viel Zucker und Salz.",
+        "Lycopin aus Tomaten ist ein Pluspunkt.",
+        "Für Lycopin ist Tomatensoße besser.",
+        "In Maßen ist Ketchup unproblematisch."
+      ]
+    }
+  ]
+}

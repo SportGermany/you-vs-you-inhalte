@@ -1,0 +1,130 @@
+{
+  "id": "gew-b067-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie wird Mülltrennung zur Gewohnheit?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Abfall",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "muelltrennung",
+    "umwelt",
+    "routinen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Joghurtbecher in die Gelbe Tonne, Kaffeesatz in den Bioabfall, Glas zum Container.",
+        "Mülltrennung klappt am besten, wenn man nicht mehr darüber nachdenken muss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Umgebung entscheidet",
+      "absaetze": [
+        "Gewohnheiten entstehen leichter, wenn das richtige Verhalten bequem ist. Stehen die Behälter nah beieinander und gut erreichbar, trennen Menschen eher richtig.",
+        "Studien deuten darauf hin, dass gut sichtbare und beschriftete Behälter die Trennung verbessern. Steht nur ein Mülleimer in der Küche, landet alles darin."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klare Regeln helfen",
+      "absaetze": [
+        "Unsicherheit bremst. Wer nicht weiß, wohin ein Gegenstand gehört, wirft ihn oft in den Restmüll. Häng dir eine kleine Übersicht deiner Gemeinde an den Kühlschrank.",
+        "Mit der Zeit lernst du die Regeln auswendig. Dann läuft das Trennen automatisch."
+      ],
+      "merke": "Eine Übersicht am Kühlschrank verringert Unsicherheit.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feste Abläufe",
+      "absaetze": [
+        "Verknüpfe das Rausbringen mit einer bestehenden Gewohnheit, etwa mit dem Weg zur Arbeit oder zum Einkaufen.",
+        "Im Haushalt mit mehreren Personen helfen klare Zuständigkeiten. Wer welche Tonne leert, sollte feststehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erleichtert richtiges Mülltrennen?",
+      "art": "mc",
+      "optionen": [
+        "Gut erreichbare, beschriftete Behälter",
+        "Nur ein Mülleimer",
+        "Behälter im Keller versteckt",
+        "Gar keine Behälter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bequemlichkeit fördert Gewohnheiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Unsicherheit über die Regeln?",
+      "art": "mc",
+      "optionen": [
+        "Eine Übersicht am Kühlschrank",
+        "Alles in den Restmüll",
+        "Raten",
+        "Nicht trennen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit der Zeit kennst du die Regeln auswendig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit kannst du das Rausbringen verknüpfen?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Weg zur Arbeit oder zum Einkaufen",
+        "Mit dem Schlafen",
+        "Mit dem Duschen",
+        "Mit dem Fernsehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird es zur Routine."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Klare Zuständigkeiten helfen im Haushalt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann weiß jeder, was zu tun ist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bequeme Behälter fördern das Trennen.",
+        "Klare Regeln verringern Unsicherheit.",
+        "Das Rausbringen mit Routinen verknüpfen.",
+        "Zuständigkeiten im Haushalt festlegen."
+      ]
+    }
+  ]
+}

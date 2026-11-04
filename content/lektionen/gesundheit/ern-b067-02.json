@@ -1,0 +1,125 @@
+{
+  "id": "ern-b067-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Ghee?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ghee",
+    "butterschmalz",
+    "fette"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ghee stammt aus der indischen Küche und ist inzwischen auch bei uns beliebt.",
+        "Manche schreiben ihm besondere Heilkräfte zu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geklärte Butter",
+      "absaetze": [
+        "Für Ghee wird Butter langsam erhitzt. Dabei verdampft das Wasser, und Milcheiweiß setzt sich ab. Übrig bleibt fast reines Butterfett.",
+        "Hierzulande kennt man etwas Ähnliches als Butterschmalz. Ghee wird oft etwas länger erhitzt und schmeckt deshalb leicht nussig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zum Braten",
+      "absaetze": [
+        "Weil Wasser und Eiweiß fehlen, verträgt Ghee hohe Temperaturen gut. Es eignet sich zum Braten und Anbraten.",
+        "Es enthält kaum noch Laktose. Manche Menschen mit Laktoseintoleranz vertragen es deshalb besser als Butter."
+      ],
+      "merke": "Ghee verträgt hohe Temperaturen und enthält kaum Laktose.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine besonderen Heilkräfte",
+      "absaetze": [
+        "Ghee besteht größtenteils aus gesättigten Fettsäuren, wie Butter. Für besondere Gesundheitswirkungen, wie sie oft behauptet werden, gibt es keine guten Belege.",
+        "Für den Alltag empfehlen Fachleute vor allem pflanzliche Öle wie Rapsöl oder Olivenöl. Ghee kann gelegentlich für bestimmte Gerichte verwendet werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Ghee hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Butter wird erhitzt, Wasser und Eiweiß werden entfernt",
+        "Aus Kokosnüssen gepresst",
+        "Aus Sonnenblumen gewonnen",
+        "Aus Milch gefroren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Übrig bleibt fast reines Butterfett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum verträgt Ghee hohe Temperaturen?",
+      "art": "mc",
+      "optionen": [
+        "Weil Wasser und Eiweiß fehlen",
+        "Weil es Zucker enthält",
+        "Weil es kalt ist",
+        "Weil es flüssig ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es eignet sich zum Braten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fette empfehlen Fachleute für den Alltag?",
+      "art": "mc",
+      "optionen": [
+        "Pflanzliche Öle wie Rapsöl",
+        "Nur Ghee",
+        "Nur Butter",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ghee kann gelegentlich verwendet werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ghee besteht größtenteils aus gesättigten Fettsäuren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wie Butter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ghee ist geklärte Butter.",
+        "Es verträgt hohe Temperaturen.",
+        "Es enthält kaum Laktose.",
+        "Besondere Gesundheitswirkungen sind nicht belegt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "vers-b067-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Darfst du deine Wohnung untervermieten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "untermiete",
+    "mietrecht",
+    "wohnung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Zimmer steht leer, oder du gehst für ein halbes Jahr ins Ausland.",
+        "Untervermieten liegt nahe, aber nicht ohne Erlaubnis."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erlaubnis ist Pflicht",
+      "absaetze": [
+        "Als Mieter brauchst du für eine Untervermietung die Erlaubnis deines Vermieters. Ohne sie riskierst du eine Abmahnung oder sogar die Kündigung.",
+        "Hol die Zustimmung am besten schriftlich ein. Nenne dabei, wer einziehen soll."
+      ],
+      "merke": "Ohne Erlaubnis des Vermieters droht die Kündigung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du einen Anspruch hast",
+      "absaetze": [
+        "Willst du nur einen Teil der Wohnung untervermieten, etwa ein Zimmer, hast du oft einen Anspruch auf Erlaubnis. Dafür brauchst du ein berechtigtes Interesse, das nach Vertragsschluss entstanden ist.",
+        "Das kann zum Beispiel ein längerer Auslandsaufenthalt, eine Trennung oder eine finanzielle Notlage sein. Die ganze Wohnung untervermieten darfst du nur, wenn der Vermieter freiwillig zustimmt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du bedenken solltest",
+      "absaetze": [
+        "Der Vermieter darf unter Umständen einen Zuschlag zur Miete verlangen. Gegenüber dem Vermieter haftest du weiter für alles, auch für Schäden durch Untermieter.",
+        "Schließe mit Untermietern einen schriftlichen Vertrag. Einnahmen aus Untervermietung können steuerpflichtig sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du für eine Untervermietung?",
+      "art": "mc",
+      "optionen": [
+        "Die Erlaubnis des Vermieters",
+        "Eine Genehmigung der Stadt",
+        "Gar nichts",
+        "Die Zustimmung der Nachbarn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten schriftlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann hast du oft einen Anspruch auf Erlaubnis?",
+      "art": "mc",
+      "optionen": [
+        "Bei einem Teil der Wohnung und berechtigtem Interesse",
+        "Immer bei der ganzen Wohnung",
+        "Nur im Sommer",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Interesse muss nach Vertragsschluss entstanden sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer haftet gegenüber dem Vermieter für Schäden?",
+      "art": "mc",
+      "optionen": [
+        "Du als Hauptmieter",
+        "Nur der Untermieter",
+        "Die Versicherung allein",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist ein Vertrag mit dem Untermieter wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einnahmen aus Untervermietung können steuerpflichtig sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie gelten als Einkünfte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Untervermieten braucht die Erlaubnis des Vermieters.",
+        "Für ein Zimmer gibt es oft einen Anspruch.",
+        "Du haftest weiter für Schäden.",
+        "Einnahmen können steuerpflichtig sein."
+      ]
+    }
+  ]
+}

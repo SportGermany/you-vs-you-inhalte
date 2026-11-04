@@ -1,0 +1,121 @@
+{
+  "id": "all-b067-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Sonnensturm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Weltraumwetter",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnensturm",
+    "weltraumwetter",
+    "polarlichter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Mai 2024 leuchteten Polarlichter sogar über Süddeutschland.",
+        "Ursache war ein starker Sonnensturm."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausbrüche auf der Sonne",
+      "absaetze": [
+        "Auf der Sonne kommt es immer wieder zu gewaltigen Ausbrüchen. Dabei werden riesige Wolken aus geladenen Teilchen ins All geschleudert.",
+        "Treffen sie die Erde, stören sie ihr Magnetfeld. Fachleute sprechen dann von einem Sonnensturm oder geomagnetischen Sturm."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für die Technik",
+      "absaetze": [
+        "Starke Sonnenstürme können Satelliten beschädigen, Funk und GPS stören und Stromnetze belasten. 1989 fiel deshalb in Teilen Kanadas für Stunden der Strom aus.",
+        "Der stärkste bekannte Sonnensturm ereignete sich 1859. Damals sprühten Telegrafenleitungen Funken. Heute wäre ein solcher Sturm für unsere Technik viel folgenreicher."
+      ],
+      "merke": "Sonnenstürme können Satelliten, GPS und Stromnetze stören."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorhersage und Schutz",
+      "absaetze": [
+        "Raumsonden beobachten die Sonne ständig. Bis eine Teilchenwolke die Erde erreicht, vergehen meist ein bis drei Tage. So bleibt Zeit für Warnungen.",
+        "Betreiber von Satelliten und Stromnetzen können dann Schutzmaßnahmen ergreifen. Für Menschen am Boden sind Sonnenstürme ungefährlich. Sie bescheren oft schöne Polarlichter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst einen Sonnensturm aus?",
+      "art": "mc",
+      "optionen": [
+        "Wolken aus geladenen Teilchen von der Sonne",
+        "Gewitter auf der Erde",
+        "Der Mond",
+        "Meteoriten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stören das Magnetfeld der Erde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was geschah 1989 in Kanada?",
+      "art": "mc",
+      "optionen": [
+        "Ein Stromausfall durch einen Sonnensturm",
+        "Ein Erdbeben",
+        "Eine Mondlandung",
+        "Ein Vulkanausbruch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Teile des Netzes fielen für Stunden aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht eine Teilchenwolke meist bis zur Erde?",
+      "art": "mc",
+      "optionen": [
+        "Ein bis drei Tage",
+        "Eine Sekunde",
+        "Ein Jahr",
+        "Hundert Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt Zeit für Warnungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sonnenstürme sind für Menschen am Boden ungefährlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sorgen oft für Polarlichter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sonnenstürme entstehen durch Ausbrüche auf der Sonne.",
+        "Sie stören das Magnetfeld der Erde.",
+        "Satelliten und Stromnetze können betroffen sein.",
+        "Für Menschen am Boden sind sie ungefährlich."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "supp-b067-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von OPC aus Traubenkernen zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "opc",
+    "traubenkernextrakt",
+    "antioxidantien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "OPC-Kapseln werden als starke Zellschützer beworben.",
+        "Gewonnen werden sie meist aus Traubenkernen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was OPC ist",
+      "absaetze": [
+        "OPC steht für oligomere Proanthocyanidine. Das sind Pflanzenstoffe, die in Traubenkernen, Äpfeln, Kakao und Tee vorkommen.",
+        "Im Labor wirken sie als Antioxidantien. Sie fangen also bestimmte aggressive Sauerstoffverbindungen ab."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Dass OPC-Präparate beim Menschen vor Krankheiten schützen oder das Altern bremsen, ist nicht belegt. Einzelne kleine Studien deuten auf mögliche Effekte hin, sind aber wenig aussagekräftig.",
+        "Ergebnisse aus dem Labor lassen sich nicht einfach auf den Menschen übertragen. Werbeaussagen gehen oft weit über die Studienlage hinaus."
+      ],
+      "merke": "Ein Schutz vor Krankheiten durch OPC ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lieber über das Essen",
+      "absaetze": [
+        "Wer viel Obst, Gemüse, Hülsenfrüchte und Vollkorn isst, nimmt viele Pflanzenstoffe auf. Das ist gut untersucht und sinnvoll.",
+        "Bei Präparaten schwankt die Qualität stark. Wer Blutverdünner bekommt, sollte vorher ärztlichen Rat einholen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei blutverdünnenden Medikamenten vorher ärztlich beraten lassen.",
+        "In Schwangerschaft und Stillzeit nicht ohne Rücksprache verwenden.",
+        "Nahrungsergänzungsmittel ersetzen keine abwechslungsreiche Ernährung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird OPC meist gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus Traubenkernen",
+        "Aus Fisch",
+        "Aus Milch",
+        "Aus Getreide"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kommt auch in Äpfeln und Tee vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut sind die beworbenen Wirkungen belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nicht belegt",
+        "Sehr gut",
+        "Wie bei Medikamenten",
+        "Durch große Langzeitstudien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt nur kleine Studien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher bekommst du Pflanzenstoffe am besten?",
+      "art": "mc",
+      "optionen": [
+        "Aus Obst, Gemüse und Vollkorn",
+        "Nur aus Kapseln",
+        "Aus Süßigkeiten",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist gut untersucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laborergebnisse lassen sich einfach auf den Menschen übertragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ist oft nicht der Fall."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "OPC sind Pflanzenstoffe aus Traubenkernen.",
+        "Im Labor wirken sie antioxidativ.",
+        "Ein Schutz vor Krankheiten ist nicht belegt.",
+        "Obst und Gemüse liefern viele Pflanzenstoffe."
+      ]
+    }
+  ]
+}

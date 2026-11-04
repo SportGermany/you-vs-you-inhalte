@@ -1,0 +1,127 @@
+{
+  "id": "koer-b067-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was passiert bei der Wundheilung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Tetanus-Impfung",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wundheilung",
+    "haut",
+    "erste-hilfe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Schnitt in den Finger, ein aufgeschürftes Knie: Kleine Wunden heilen meist von allein.",
+        "Dahinter steckt ein gut abgestimmtes Programm des Körpers."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst die Blutung stoppen",
+      "absaetze": [
+        "Direkt nach einer Verletzung ziehen sich Blutgefäße zusammen. Blutplättchen verkleben die Wunde, und es bildet sich ein Gerinnsel. Daraus wird später der Schorf.",
+        "Dann wandern Abwehrzellen ein. Sie beseitigen Keime und Zellreste. Die Wunde ist dabei oft etwas gerötet und warm."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neues Gewebe entsteht",
+      "absaetze": [
+        "In den folgenden Tagen bildet der Körper neues Gewebe und neue Blutgefäße. Die Wundränder ziehen sich zusammen, und neue Haut wächst über die Wunde.",
+        "Über Wochen bis Monate wird das Gewebe umgebaut. Bei tieferen Wunden bleibt eine Narbe."
+      ],
+      "merke": "Wundheilung läuft in mehreren Phasen ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig versorgen",
+      "absaetze": [
+        "Spüle kleine Wunden mit sauberem Wasser und deck sie mit einem Pflaster ab. Ein leicht feuchtes Wundklima fördert die Heilung.",
+        "Zeichen einer Infektion sind zunehmende Schmerzen, Schwellung, Eiter oder Fieber. Dann solltest du ärztlichen Rat suchen. Prüfe auch, ob dein Tetanusschutz aktuell ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert direkt nach einer Verletzung?",
+      "art": "mc",
+      "optionen": [
+        "Blutplättchen verkleben die Wunde",
+        "Die Haut fällt ab",
+        "Die Wunde wird größer",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es bildet sich ein Gerinnsel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tun Abwehrzellen in der Wunde?",
+      "art": "mc",
+      "optionen": [
+        "Sie beseitigen Keime und Zellreste",
+        "Sie bilden Knochen",
+        "Sie färben die Haut",
+        "Sie produzieren Haare"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist die Wunde oft gerötet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Zeichen einer Infektion?",
+      "art": "mc",
+      "optionen": [
+        "Zunehmende Schmerzen und Eiter",
+        "Ein trockener Schorf",
+        "Eine kleine Narbe",
+        "Leichtes Jucken beim Heilen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ärztlichen Rat suchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Wunden lohnt ein Blick auf den Tetanusschutz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er sollte regelmäßig aufgefrischt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zuerst stoppt der Körper die Blutung.",
+        "Abwehrzellen beseitigen Keime.",
+        "Neues Gewebe schließt die Wunde.",
+        "Bei Infektionszeichen zum Arzt."
+      ]
+    }
+  ]
+}

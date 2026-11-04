@@ -1,0 +1,127 @@
+{
+  "id": "tech-b067-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Saugroboter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Smart Home",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "saugroboter",
+    "sensoren",
+    "smart-home"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleiner Roboter fährt durch die Wohnung und saugt selbstständig.",
+        "Woher weiß er, wo er schon war?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sensoren als Sinne",
+      "absaetze": [
+        "Saugroboter haben viele Sensoren. Stoßsensoren merken, wenn sie gegen ein Hindernis fahren. Absturzsensoren an der Unterseite verhindern, dass sie Treppen hinunterfallen.",
+        "Bürsten kehren den Schmutz zur Saugöffnung, ein Gebläse saugt ihn in einen kleinen Behälter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Karten der Wohnung",
+      "absaetze": [
+        "Moderne Geräte erstellen eine Karte der Wohnung. Dafür nutzen sie oft einen drehenden Laser auf der Oberseite oder eine Kamera.",
+        "So wissen sie, wo sie schon gesaugt haben, und fahren gezielte Bahnen. Ist der Akku fast leer, kehren sie selbstständig zur Ladestation zurück."
+      ],
+      "merke": "Viele Saugroboter erstellen mit Laser oder Kamera eine Karte der Wohnung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bequem, aber an Daten denken",
+      "absaetze": [
+        "Die Karte und manchmal auch Kamerabilder werden oft über eine App und Server des Herstellers verarbeitet. Damit gelangen Informationen über deine Wohnung ins Internet.",
+        "Schau in die Datenschutzeinstellungen und halte die Software aktuell. Kabel und kleine Gegenstände räumst du vor dem Saugen am besten weg."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verhindert, dass ein Saugroboter die Treppe hinunterfällt?",
+      "art": "mc",
+      "optionen": [
+        "Absturzsensoren an der Unterseite",
+        "Ein Fallschirm",
+        "Ein Seil",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie erkennen Kanten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit erstellen viele Saugroboter eine Karte?",
+      "art": "mc",
+      "optionen": [
+        "Mit Laser oder Kamera",
+        "Mit einem Kompass",
+        "Mit Wärmebildern",
+        "Mit Sprachbefehlen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So fahren sie gezielte Bahnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du aus Datenschutzgründen prüfen?",
+      "art": "mc",
+      "optionen": [
+        "Die Datenschutzeinstellungen der App",
+        "Die Farbe des Geräts",
+        "Den Staubbehälter",
+        "Die Bürsten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Karten werden oft auf Servern verarbeitet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Saugroboter fahren bei leerem Akku zur Ladestation zurück.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie finden selbstständig zurück."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sensoren erkennen Hindernisse und Kanten.",
+        "Laser oder Kamera erstellen eine Karte.",
+        "Bei leerem Akku fahren sie zur Station.",
+        "An den Datenschutz denken."
+      ]
+    }
+  ]
+}

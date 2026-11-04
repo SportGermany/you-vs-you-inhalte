@@ -1,0 +1,127 @@
+{
+  "id": "geld-b067-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie eröffnest du ein Depot?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wertpapierdepot",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "depot",
+    "geldanlage",
+    "wertpapiere"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer in Aktien, Fonds oder ETFs anlegen will, braucht ein Depot.",
+        "Die Eröffnung ist heute meist in wenigen Minuten erledigt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ein Depot ist",
+      "absaetze": [
+        "Ein Depot ist eine Art Konto für Wertpapiere. Dort werden deine Aktien, Fonds und Anleihen verwahrt.",
+        "Dazu gehört meist ein Verrechnungskonto für das Geld, mit dem du kaufst und auf das Erträge fließen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo und wie",
+      "absaetze": [
+        "Depots gibt es bei Hausbanken, Direktbanken und sogenannten Neobrokern, die vor allem per App arbeiten. Die Kosten unterscheiden sich stark.",
+        "Achte auf Depotgebühren, Kosten pro Kauf und Sparplangebühren. Für die Eröffnung brauchst du deinen Ausweis und deine Steuer-Identifikationsnummer."
+      ],
+      "merke": "Vergleiche vor allem die Kosten pro Kauf und für Sparpläne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit und Steuern",
+      "absaetze": [
+        "Wertpapiere im Depot bleiben dein Eigentum. Geht die Bank pleite, gehören sie nicht zu ihrem Vermögen. Das Guthaben auf dem Verrechnungskonto ist durch die Einlagensicherung geschützt.",
+        "Denk an einen Freistellungsauftrag. So bleiben Erträge bis zum Sparerpauschbetrag steuerfrei, ohne dass erst Steuern abgezogen werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient ein Depot?",
+      "art": "mc",
+      "optionen": [
+        "Zur Verwahrung von Wertpapieren",
+        "Zur Aufbewahrung von Bargeld",
+        "Zum Bezahlen im Supermarkt",
+        "Für Kredite"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Aktien, Fonds und Anleihen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du für die Eröffnung?",
+      "art": "mc",
+      "optionen": [
+        "Ausweis und Steuer-Identifikationsnummer",
+        "Einen Führerschein allein",
+        "Eine Mietbescheinigung",
+        "Ein Zeugnis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Eröffnung geht oft online."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit deinen Wertpapieren bei einer Bankpleite?",
+      "art": "mc",
+      "optionen": [
+        "Sie bleiben dein Eigentum",
+        "Sie gehören dann der Bank",
+        "Sie verschwinden",
+        "Sie werden halbiert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gehören nicht zum Vermögen der Bank."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Freistellungsauftrag hilft, Steuern auf Erträge zu vermeiden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bis zum Sparerpauschbetrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Depot verwahrt deine Wertpapiere.",
+        "Kosten unterscheiden sich stark je nach Anbieter.",
+        "Wertpapiere bleiben auch bei einer Bankpleite dein Eigentum.",
+        "Einen Freistellungsauftrag nicht vergessen."
+      ]
+    }
+  ]
+}

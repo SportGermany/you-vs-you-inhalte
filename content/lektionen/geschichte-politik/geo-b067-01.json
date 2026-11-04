@@ -1,0 +1,127 @@
+{
+  "id": "geo-b067-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Warum ist die Ostsee strategisch so wichtig?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Länderinformationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ostsee",
+    "nato",
+    "russland"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Ostsee ist ein vergleichsweise kleines Meer.",
+        "Trotzdem ist sie zu einem Brennpunkt der europäischen Sicherheit geworden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fast vollständig von NATO-Staaten umgeben",
+      "absaetze": [
+        "Seit Finnland 2023 und Schweden 2024 der NATO beigetreten sind, liegen fast alle Ostsee-Anrainer im Bündnis. Nur Russland hat mit St. Petersburg und Kaliningrad ebenfalls Zugang.",
+        "Für Russland bleibt die Ostsee ein wichtiger Weg für Handel und Marine. Für die NATO ist sie wichtig, um die baltischen Staaten zu schützen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kabel und Leitungen unter Wasser",
+      "absaetze": [
+        "Am Meeresgrund verlaufen Strom- und Datenkabel sowie Gasleitungen. Sie sind für die Versorgung vieler Länder wichtig.",
+        "In den letzten Jahren wurden mehrfach Kabel und Leitungen beschädigt. In einigen Fällen besteht der Verdacht auf Sabotage. Die NATO überwacht die Region deshalb verstärkt."
+      ],
+      "merke": "Unterseekabel in der Ostsee gelten als verwundbare Infrastruktur."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schattenflotte",
+      "absaetze": [
+        "Russland exportiert trotz Sanktionen Öl über die Ostsee. Dafür werden oft alte Tanker mit unklaren Eigentümern genutzt. Man spricht von einer Schattenflotte.",
+        "Viele dieser Schiffe sind schlecht versichert und in schlechtem Zustand. Fachleute warnen vor der Gefahr einer Ölpest."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Länder traten 2023 und 2024 der NATO bei?",
+      "art": "mc",
+      "optionen": [
+        "Finnland und Schweden",
+        "Norwegen und Dänemark",
+        "Polen und Litauen",
+        "Island und Irland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seitdem liegen fast alle Anrainer im Bündnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verläuft am Grund der Ostsee?",
+      "art": "mc",
+      "optionen": [
+        "Strom- und Datenkabel sowie Gasleitungen",
+        "Autobahnen",
+        "Eisenbahnen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gelten als verwundbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist mit der Schattenflotte gemeint?",
+      "art": "mc",
+      "optionen": [
+        "Alte Tanker, die trotz Sanktionen Öl transportieren",
+        "U-Boote der NATO",
+        "Segelboote im Urlaub",
+        "Fischerboote"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele sind schlecht versichert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Russland hat über Kaliningrad Zugang zur Ostsee.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Und über St. Petersburg."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fast alle Ostsee-Anrainer sind NATO-Mitglieder.",
+        "Russland nutzt die Ostsee für Handel und Marine.",
+        "Unterseekabel gelten als verwundbar.",
+        "Eine Schattenflotte birgt Umweltrisiken."
+      ]
+    }
+  ]
+}
