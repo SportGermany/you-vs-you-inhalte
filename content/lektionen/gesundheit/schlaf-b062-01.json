@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b062-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum sieht man beim Einschlafen manchmal seltsame Bilder?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "einschlafen",
+    "halluzinationen",
+    "halbschlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kurz vor dem Einschlafen tauchen plötzlich Gesichter, Muster oder Stimmen auf.",
+        "Das kann irritieren, ist aber meist ganz normal."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bilder an der Schwelle zum Schlaf",
+      "absaetze": [
+        "Im Übergang zwischen Wachsein und Schlaf erleben viele Menschen kurze, lebhafte Eindrücke. Fachleute nennen sie hypnagoge Halluzinationen. Treten sie beim Aufwachen auf, heißen sie hypnopomp.",
+        "Man sieht Farben oder Gestalten, hört seinen Namen oder fühlt sich fallen. Das Gehirn ist dann teils schon im Traummodus, teils noch wach."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufig und meist harmlos",
+      "absaetze": [
+        "Solche Erlebnisse sind weit verbreitet. Schlafmangel, ein unregelmäßiger Schlafrhythmus und Stress machen sie wahrscheinlicher.",
+        "Auch der Tag spielt hinein. In einer bekannten Studie sahen viele Menschen nach stundenlangem Tetris-Spielen beim Einschlafen fallende Bausteine."
+      ],
+      "merke": "Hypnagoge Bilder sind meist harmlos.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du ärztlichen Rat suchst",
+      "absaetze": [
+        "Treten die Erlebnisse sehr häufig auf, machen sie Angst oder kommen starke Tagesmüdigkeit hinzu, lass dich untersuchen. Dahinter kann selten eine Schlafkrankheit wie Narkolepsie stecken.",
+        "Meist hilft schon ein regelmäßiger Schlafrhythmus mit ausreichend Schlaf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man Halluzinationen beim Einschlafen?",
+      "art": "mc",
+      "optionen": [
+        "Hypnagoge Halluzinationen",
+        "Albträume",
+        "Schlafwandeln",
+        "Migräne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Aufwachen heißen sie hypnopomp."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht solche Erlebnisse wahrscheinlicher?",
+      "art": "mc",
+      "optionen": [
+        "Schlafmangel und unregelmäßiger Rhythmus",
+        "Viel Gemüse",
+        "Ein ruhiger Tag",
+        "Kaltes Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Stress spielt mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sahen viele nach langem Tetris-Spielen beim Einschlafen?",
+      "art": "mc",
+      "optionen": [
+        "Fallende Bausteine",
+        "Nur Schwarz",
+        "Bekannte Gesichter",
+        "Zahlen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Tag wirkt in diese Bilder hinein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hypnagoge Bilder sind meist harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Nur bei häufigen Beschwerden abklären."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Einschlafen entstehen manchmal lebhafte Bilder.",
+        "Sie heißen hypnagoge Halluzinationen.",
+        "Schlafmangel macht sie wahrscheinlicher.",
+        "Bei Tagesmüdigkeit ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

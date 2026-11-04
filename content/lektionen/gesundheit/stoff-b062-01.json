@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b062-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Phenylketonurie?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Neugeborenen-Screening",
+      "herausgeber": "Gemeinsamer Bundesausschuss",
+      "url": "https://www.g-ba.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "phenylketonurie",
+    "neugeborenen-screening",
+    "stoffwechselerkrankung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenige Tage nach der Geburt wird jedem Baby ein Tropfen Blut aus der Ferse entnommen.",
+        "Damit lassen sich seltene Stoffwechselerkrankungen früh erkennen, etwa die Phenylketonurie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Eiweißbaustein, der sich staut",
+      "absaetze": [
+        "Phenylalanin ist ein Baustein von Eiweiß. Normalerweise wandelt ein Enzym in der Leber ihn in andere Stoffe um.",
+        "Bei der Phenylketonurie, kurz PKU, fehlt dieses Enzym oder arbeitet kaum. Phenylalanin sammelt sich dann im Blut an. Unbehandelt schädigt das die Entwicklung des Gehirns."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Früh entdeckt, gut behandelbar",
+      "absaetze": [
+        "Durch das Neugeborenen-Screening wird PKU in den ersten Lebenstagen erkannt. Die Behandlung beginnt sofort.",
+        "Betroffene ernähren sich sehr eiweißarm und bekommen eine spezielle Mischung aus Eiweißbausteinen ohne Phenylalanin. So können sie sich normal entwickeln."
+      ],
+      "merke": "Das Neugeborenen-Screening erkennt PKU in den ersten Lebenstagen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Leben lang achtsam",
+      "absaetze": [
+        "Die besondere Ernährung ist meist lebenslang nötig, besonders streng in der Kindheit und in der Schwangerschaft.",
+        "Auch der Süßstoff Aspartam enthält Phenylalanin. Deshalb steht auf manchen Lebensmitteln der Hinweis: enthält eine Phenylalaninquelle."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sammelt sich bei Phenylketonurie im Blut an?",
+      "art": "mc",
+      "optionen": [
+        "Phenylalanin",
+        "Zucker",
+        "Eisen",
+        "Kalium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Baustein von Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird PKU in Deutschland früh erkannt?",
+      "art": "mc",
+      "optionen": [
+        "Durch das Neugeborenen-Screening",
+        "Durch einen Sehtest",
+        "Durch Röntgen",
+        "Erst in der Schule"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Tropfen Blut aus der Ferse reicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Süßstoff enthält Phenylalanin?",
+      "art": "mc",
+      "optionen": [
+        "Aspartam",
+        "Stevia",
+        "Xylit",
+        "Erythrit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daher der Hinweis auf manchen Verpackungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit früher Behandlung können sich Kinder mit PKU normal entwickeln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Entscheidend ist der frühe Beginn."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei PKU kann der Körper Phenylalanin nicht richtig abbauen.",
+        "Unbehandelt schädigt das die Gehirnentwicklung.",
+        "Das Neugeborenen-Screening erkennt PKU früh.",
+        "Eine eiweißarme Ernährung ermöglicht normale Entwicklung.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

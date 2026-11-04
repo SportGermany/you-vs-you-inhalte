@@ -1,0 +1,127 @@
+{
+  "id": "all-b062-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie wurde der Neptun entdeckt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Neptune",
+      "herausgeber": "NASA",
+      "url": "https://www.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Planeten",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "neptun",
+    "planeten",
+    "astronomie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Neptun ist der einzige Planet, der zuerst berechnet und dann gefunden wurde.",
+        "Die Mathematik zeigte den Astronomen den Weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Planet aus der Rechnung",
+      "absaetze": [
+        "Der Planet Uranus bewegte sich nicht genau so, wie die Astronomen es berechnet hatten. Sie vermuteten, dass ein unbekannter Planet an ihm zog.",
+        "Der Franzose Urbain Le Verrier berechnete, wo dieser Planet stehen müsste. 1846 fand Johann Galle an der Berliner Sternwarte ihn genau dort."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein stürmischer Eisriese",
+      "absaetze": [
+        "Neptun ist der äußerste Planet unseres Sonnensystems. Wie Uranus ist er ein Eisriese. Methan in seiner Atmosphäre lässt ihn blau erscheinen.",
+        "Auf Neptun toben die schnellsten Winde im Sonnensystem, mit bis zu etwa 2000 Kilometern pro Stunde. Für eine Runde um die Sonne braucht er rund 165 Jahre."
+      ],
+      "merke": "Auf Neptun wehen die schnellsten Winde im Sonnensystem."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mond Triton",
+      "absaetze": [
+        "Neptuns größter Mond Triton umkreist ihn in entgegengesetzter Richtung. Wahrscheinlich ist er ein eingefangener Himmelskörper aus dem äußeren Sonnensystem.",
+        "Bisher hat nur Voyager 2 Neptun besucht, im Jahr 1989. Sie entdeckte dabei Geysire auf Triton."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wurde Neptun gefunden?",
+      "art": "mc",
+      "optionen": [
+        "Zuerst berechnet, dann beobachtet",
+        "Zufällig mit bloßem Auge",
+        "Durch eine Raumsonde",
+        "Durch ein Radioteleskop"
+      ],
+      "richtig": 0,
+      "erklaerung": "Le Verrier berechnete seine Position."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurde Neptun 1846 entdeckt?",
+      "art": "mc",
+      "optionen": [
+        "An der Berliner Sternwarte",
+        "In Paris auf dem Eiffelturm",
+        "In Rom",
+        "In Tokio"
+      ],
+      "richtig": 0,
+      "erklaerung": "Johann Galle fand ihn dort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht Neptun für eine Runde um die Sonne?",
+      "art": "mc",
+      "optionen": [
+        "Rund 165 Jahre",
+        "Ein Jahr",
+        "88 Tage",
+        "Rund 12 Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seit seiner Entdeckung hat er erst eine Runde geschafft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Triton umkreist Neptun in entgegengesetzter Richtung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist wohl ein eingefangener Himmelskörper."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Neptun wurde zuerst berechnet und 1846 gefunden.",
+        "Er ist ein blauer Eisriese.",
+        "Auf ihm wehen extrem schnelle Winde.",
+        "Nur Voyager 2 hat ihn besucht."
+      ]
+    }
+  ]
+}

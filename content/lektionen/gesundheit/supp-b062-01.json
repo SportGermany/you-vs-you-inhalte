@@ -1,0 +1,140 @@
+{
+  "id": "supp-b062-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von NMN-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Neuartige Lebensmittel",
+      "herausgeber": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)",
+      "url": "https://www.bvl.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pflanzliche Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nmn",
+    "anti-aging",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "NMN wird im Internet als Mittel für ein längeres, jüngeres Leben beworben.",
+        "Die Wissenschaft ist da deutlich vorsichtiger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Baustein im Energiestoffwechsel",
+      "absaetze": [
+        "NMN steht für Nicotinamidmononukleotid. Der Körper nutzt es, um NAD zu bilden. Dieser Stoff ist an der Energiegewinnung in den Zellen beteiligt.",
+        "Mit dem Alter sinkt der NAD-Spiegel. Daraus entstand die Idee, das Altern mit NMN zu bremsen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mäuse sind keine Menschen",
+      "absaetze": [
+        "Versuche an Mäusen deuten darauf hin, dass NMN manche Alterszeichen beeinflussen könnte. Studien mit Menschen sind bisher klein und kurz.",
+        "Ein Nutzen für ein längeres oder gesünderes Leben ist beim Menschen nicht belegt. Auch über Langzeitfolgen ist wenig bekannt."
+      ],
+      "merke": "Eine Anti-Aging-Wirkung ist beim Menschen nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechtlich nicht zugelassen",
+      "absaetze": [
+        "NMN gilt in der EU als neuartiges Lebensmittel. Dafür ist eine Zulassung nötig, die bisher nicht erteilt wurde. Als Nahrungsergänzungsmittel darf NMN deshalb nicht verkauft werden.",
+        "Angebote stammen oft aus Onlineshops außerhalb der EU. Inhalt und Reinheit sind dort nicht kontrolliert."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "In der EU nicht als Lebensmittel zugelassen, Produkte aus dem Internet sind unkontrolliert.",
+        "In Schwangerschaft, Stillzeit und bei Krebserkrankungen nicht verwenden.",
+        "Bei regelmäßigen Medikamenten ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu nutzt der Körper NMN?",
+      "art": "mc",
+      "optionen": [
+        "Um NAD für den Energiestoffwechsel zu bilden",
+        "Um Knochen zu färben",
+        "Um Haare zu verlängern",
+        "Um Zucker zu speichern"
+      ],
+      "richtig": 0,
+      "erklaerung": "NAD ist an der Energiegewinnung beteiligt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen die meisten Hinweise auf eine Wirkung?",
+      "art": "mc",
+      "optionen": [
+        "Aus Versuchen an Mäusen",
+        "Aus großen Langzeitstudien an Menschen",
+        "Aus Umfragen",
+        "Aus Werbung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Studien mit Menschen sind klein und kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Darf NMN in der EU als Nahrungsergänzungsmittel verkauft werden?",
+      "art": "mc",
+      "optionen": [
+        "Nein, es ist nicht zugelassen",
+        "Ja, ohne Einschränkung",
+        "Ja, aber nur in Apotheken",
+        "Nur an Sportler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gilt als neuartiges Lebensmittel ohne Zulassung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Anti-Aging-Effekt beim Menschen ist belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür fehlen Belege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "NMN ist eine Vorstufe von NAD.",
+        "Hinweise stammen vor allem aus Tierversuchen.",
+        "Eine Anti-Aging-Wirkung ist nicht belegt.",
+        "In der EU ist NMN nicht zugelassen."
+      ]
+    }
+  ]
+}

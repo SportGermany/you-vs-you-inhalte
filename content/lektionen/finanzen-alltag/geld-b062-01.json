@@ -1,0 +1,121 @@
+{
+  "id": "geld-b062-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist der DAX?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wertpapiere und Indizes",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dax",
+    "aktienindex",
+    "boerse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten heißt es oft: Der DAX hat heute zugelegt.",
+        "Doch was misst diese Zahl eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Index für Deutschland",
+      "absaetze": [
+        "DAX steht für Deutscher Aktienindex. Er bildet die Kursentwicklung der 40 größten börsennotierten Unternehmen Deutschlands ab. Bis 2021 waren es 30.",
+        "Ein Index ist wie ein Fieberthermometer für einen Markt. Steigen die Aktien der enthaltenen Firmen im Schnitt, steigt auch der DAX."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Besonderheit",
+      "absaetze": [
+        "Der DAX ist ein sogenannter Performanceindex. Dividenden, also Gewinnausschüttungen der Firmen, werden rechnerisch wieder angelegt.",
+        "Viele andere Indizes, etwa der amerikanische Dow Jones, sind reine Kursindizes. Ihre Zahlen lassen sich deshalb nicht direkt vergleichen."
+      ],
+      "merke": "Der DAX rechnet Dividenden mit ein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geldanlage mit dem DAX",
+      "absaetze": [
+        "Mit einem ETF auf den DAX kannst du auf einen Schlag in alle 40 Unternehmen investieren. Das ist günstiger als einzelne Aktien zu kaufen.",
+        "Der DAX bildet aber nur deutsche Großunternehmen ab. Für eine breite Streuung kombinieren viele Anleger ihn mit weltweiten Indizes. Kurzfristig kann der DAX stark schwanken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Unternehmen enthält der DAX heute?",
+      "art": "mc",
+      "optionen": [
+        "40",
+        "30",
+        "100",
+        "500"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis 2021 waren es 30."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Besondere am DAX als Performanceindex?",
+      "art": "mc",
+      "optionen": [
+        "Dividenden werden rechnerisch wieder angelegt",
+        "Er misst nur Banken",
+        "Er misst Rohstoffpreise",
+        "Er ändert sich nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist er nicht direkt mit Kursindizes vergleichbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du in alle DAX-Unternehmen gleichzeitig investieren?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem ETF auf den DAX",
+        "Mit einem Sparbuch",
+        "Mit Bargeld",
+        "Mit einer Kreditkarte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist günstiger als viele Einzelaktien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der DAX allein bietet eine weltweite Streuung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er bildet nur deutsche Großunternehmen ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der DAX umfasst 40 große deutsche Unternehmen.",
+        "Er zeigt, wie sich ihre Aktien entwickeln.",
+        "Dividenden werden rechnerisch eingerechnet.",
+        "Für breite Streuung reicht er allein nicht."
+      ]
+    }
+  ]
+}

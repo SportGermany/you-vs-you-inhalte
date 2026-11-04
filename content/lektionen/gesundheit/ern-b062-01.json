@@ -1,0 +1,131 @@
+{
+  "id": "ern-b062-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Fenchel?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Pflanzliche Lebensmittel und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fenchel",
+    "gemuese",
+    "fencheltee"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fenchel schmeckt leicht nach Anis und teilt die Meinungen.",
+        "Als Gemüse und als Tee hat er eine lange Tradition."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Knolle voller Nährstoffe",
+      "absaetze": [
+        "Knollenfenchel liefert Vitamin C, Folsäure, Kalium und Ballaststoffe. Er hat wenig Kalorien und lässt sich roh im Salat, gedünstet oder gebacken essen.",
+        "Der typische Geschmack stammt von ätherischen Ölen, vor allem von Anethol. Beim Garen wird er milder."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fencheltee bei Bauchbeschwerden",
+      "absaetze": [
+        "Fencheltee wird seit Langem bei Blähungen und leichten Magen-Darm-Beschwerden getrunken. Die Wirkung beruht vor allem auf Erfahrung. Gute Studien gibt es kaum.",
+        "Die Samen enthalten den Stoff Estragol. Für Säuglinge und Kleinkinder raten Fachgremien deshalb zur Zurückhaltung bei Fencheltee. Für Erwachsene gilt gelegentlicher Genuss als unbedenklich."
+      ],
+      "merke": "Bei Fencheltee für Babys und Kleinkinder vorher in der Kinderarztpraxis fragen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zubereitung",
+      "absaetze": [
+        "Schneide die Knolle der Länge nach auf und entferne den harten Strunk. Das Grün kannst du wie Dill verwenden.",
+        "Fenchel passt gut zu Orangen, Fisch und Tomaten. Dünn gehobelt mit etwas Zitrone wird er zu einem frischen Salat."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt der Anisgeschmack des Fenchels?",
+      "art": "mc",
+      "optionen": [
+        "Von ätherischen Ölen wie Anethol",
+        "Von Zucker",
+        "Von Salz",
+        "Von Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Garen wird er milder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei wird Fencheltee traditionell getrunken?",
+      "art": "mc",
+      "optionen": [
+        "Bei Blähungen und leichten Bauchbeschwerden",
+        "Gegen Sonnenbrand",
+        "Zum Muskelaufbau",
+        "Gegen Kurzsichtigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wirkung beruht vor allem auf Erfahrung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum raten Fachgremien bei Kleinkindern zur Zurückhaltung mit Fencheltee?",
+      "art": "mc",
+      "optionen": [
+        "Wegen des Inhaltsstoffs Estragol",
+        "Weil er zu süß ist",
+        "Weil er Koffein enthält",
+        "Weil er zu kalt ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten vorher ärztlich beraten lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Fenchelgrün lässt sich wie ein Kraut verwenden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ähnlich wie Dill."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fenchel liefert Vitamin C, Kalium und Ballaststoffe.",
+        "Der Anisgeschmack stammt von ätherischen Ölen.",
+        "Fencheltee beruht vor allem auf Erfahrung.",
+        "Bei Kleinkindern mit Fencheltee zurückhaltend sein."
+      ]
+    }
+  ]
+}

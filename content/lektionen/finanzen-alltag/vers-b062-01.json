@@ -1,0 +1,127 @@
+{
+  "id": "vers-b062-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann darf die Miete erhöht werden?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mieterhoehung",
+    "mietspiegel",
+    "mietrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Brief vom Vermieter: Die Miete soll steigen.",
+        "Ganz so frei ist er dabei aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bis zur ortsüblichen Miete",
+      "absaetze": [
+        "Vermieter dürfen die Miete bis zur ortsüblichen Vergleichsmiete anheben. Was ortsüblich ist, zeigt oft ein Mietspiegel. Er listet, was für ähnliche Wohnungen in der Gegend gezahlt wird.",
+        "Die Miete muss vorher mindestens 15 Monate unverändert gewesen sein. Die Erhöhung muss schriftlich begründet werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen nach oben",
+      "absaetze": [
+        "Innerhalb von drei Jahren darf die Miete höchstens um 20 Prozent steigen. In vielen Städten mit knappem Wohnraum liegt diese Kappungsgrenze bei 15 Prozent.",
+        "Du musst einer solchen Erhöhung zustimmen. Dafür hast du Zeit bis zum Ende des zweiten Monats nach Zugang des Schreibens. Prüfe in dieser Zeit, ob alles stimmt."
+      ],
+      "merke": "In drei Jahren darf die Miete höchstens um 20 Prozent steigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sonderfälle",
+      "absaetze": [
+        "Nach einer Modernisierung darf der Vermieter einen Teil der Kosten auf die Miete umlegen. Dafür gelten eigene Regeln und Obergrenzen.",
+        "Bei Staffelmieten oder Indexmieten ist die Erhöhung schon im Vertrag festgelegt. Bei Unsicherheit helfen Mietervereine und Verbraucherzentralen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welcher Grenze darf die Miete erhöht werden?",
+      "art": "mc",
+      "optionen": [
+        "Bis zur ortsüblichen Vergleichsmiete",
+        "Beliebig hoch",
+        "Nur um einen Euro",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Mietspiegel hilft bei der Einschätzung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stark darf die Miete in drei Jahren höchstens steigen?",
+      "art": "mc",
+      "optionen": [
+        "Um 20 Prozent, in manchen Städten um 15 Prozent",
+        "Um 100 Prozent",
+        "Um 50 Prozent",
+        "Um 5 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man Kappungsgrenze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange muss die Miete vorher unverändert gewesen sein?",
+      "art": "mc",
+      "optionen": [
+        "Mindestens 15 Monate",
+        "Eine Woche",
+        "Zehn Jahre",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Erhöhung muss außerdem begründet sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einer Staffelmiete steht die Erhöhung schon im Vertrag.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann gelten andere Regeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Miete darf bis zur ortsüblichen Vergleichsmiete steigen.",
+        "Die Kappungsgrenze begrenzt Erhöhungen.",
+        "Du hast Zeit, die Erhöhung zu prüfen.",
+        "Mietervereine helfen bei Fragen."
+      ]
+    }
+  ]
+}

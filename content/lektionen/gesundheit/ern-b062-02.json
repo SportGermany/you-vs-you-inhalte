@@ -1,0 +1,131 @@
+{
+  "id": "ern-b062-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Quark?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaftliche Informationen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "quark",
+    "milchprodukte",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Quark gibt es pur, mit Kräutern oder als süße Nachspeise.",
+        "Was steckt in dem weißen Klassiker?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Eiweiß",
+      "absaetze": [
+        "Quark wird aus Milch hergestellt, die mit Milchsäurebakterien und Lab dick gelegt wird. Dann wird ein Teil der Molke abgetrennt.",
+        "Dadurch ist Quark besonders eiweißreich. Er liefert außerdem Calcium, Vitamin B2 und Vitamin B12. Magerquark enthält kaum Fett."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fettstufen verstehen",
+      "absaetze": [
+        "Es gibt Magerquark, Quark mit 20 Prozent und mit 40 Prozent Fett. Diese Angaben beziehen sich auf das Fett in der Trockenmasse, also ohne Wasser.",
+        "Der tatsächliche Fettgehalt ist deshalb deutlich niedriger. Quark mit 40 Prozent Fett in der Trockenmasse enthält nur rund zehn Prozent Fett."
+      ],
+      "merke": "Fett in der Trockenmasse ist mehr als der tatsächliche Fettgehalt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Clever kombinieren",
+      "absaetze": [
+        "Fertiger Fruchtquark enthält oft viel Zucker. Naturquark mit frischem Obst, Nüssen oder Haferflocken ist die bessere Wahl.",
+        "Mit Kräutern, Leinöl oder Gemüse wird Quark zu einem herzhaften Aufstrich oder Dip. Mit etwas Milch oder Wasser verrührt wird er cremiger."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch ist Quark besonders eiweißreich?",
+      "art": "mc",
+      "optionen": [
+        "Weil Molke abgetrennt wird",
+        "Weil Zucker zugesetzt wird",
+        "Weil er aus Soja ist",
+        "Weil er gebacken wird"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Eiweiß bleibt im Quark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf beziehen sich Angaben wie 40 Prozent Fett beim Quark?",
+      "art": "mc",
+      "optionen": [
+        "Auf das Fett in der Trockenmasse",
+        "Auf das Gesamtgewicht",
+        "Auf den Zuckeranteil",
+        "Auf die Kalorien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der echte Fettgehalt ist niedriger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine gute Alternative zu Fruchtquark?",
+      "art": "mc",
+      "optionen": [
+        "Naturquark mit frischem Obst",
+        "Quark mit Schokoladensoße",
+        "Quark mit viel Zucker",
+        "Pudding"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fertiger Fruchtquark enthält oft viel Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Magerquark enthält kaum Fett.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Aber viel Eiweiß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Quark ist reich an Eiweiß und Calcium.",
+        "Fettangaben beziehen sich auf die Trockenmasse.",
+        "Fruchtquark enthält oft viel Zucker.",
+        "Naturquark lässt sich vielseitig kombinieren."
+      ]
+    }
+  ]
+}

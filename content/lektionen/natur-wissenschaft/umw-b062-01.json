@@ -1,0 +1,121 @@
+{
+  "id": "umw-b062-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum schmelzen die Alpengletscher?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Klimafolgen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gletscher",
+    "alpen",
+    "klimawandel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Alte Fotos aus den Alpen zeigen mächtige Eisströme, wo heute nur noch Geröll liegt.",
+        "Die Gletscher schrumpfen schneller als je zuvor gemessen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie ein Gletscher lebt",
+      "absaetze": [
+        "Ein Gletscher entsteht aus Schnee, der sich über viele Jahre zu Eis verdichtet. Oben kommt im Winter neuer Schnee hinzu, unten schmilzt im Sommer Eis ab.",
+        "Bleibt mehr Eis liegen, als schmilzt, wächst er. Schmilzt mehr, als nachkommt, schrumpft er."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärmere Sommer, weniger Schnee",
+      "absaetze": [
+        "Durch den Klimawandel sind die Sommer in den Alpen deutlich wärmer geworden. Außerdem fällt in manchen Wintern weniger Schnee.",
+        "Besonders heiße Sommer lassen die Gletscher stark schrumpfen. Wo das Eis dunkel und schmutzig wird, schluckt es mehr Sonnenlicht und schmilzt noch schneller."
+      ],
+      "merke": "Wärmere Sommer lassen die Gletscher schrumpfen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Folgen",
+      "absaetze": [
+        "Gletscher sind Wasserspeicher. Im Sommer speisen sie Flüsse, wenn es wenig regnet. Fehlen sie, kann es in heißen Sommern zu Wassermangel kommen.",
+        "Auch Berge werden instabiler, wenn Eis und gefrorener Boden tauen. Fachleute erwarten, dass Deutschlands letzte kleine Gletscher in den nächsten Jahrzehnten weitgehend verschwinden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht ein Gletscher?",
+      "art": "mc",
+      "optionen": [
+        "Aus Schnee, der sich zu Eis verdichtet",
+        "Aus gefrorenem Meerwasser",
+        "Aus Regen im Sommer",
+        "Aus Nebel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das dauert viele Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schmilzt dunkles Eis schneller?",
+      "art": "mc",
+      "optionen": [
+        "Es schluckt mehr Sonnenlicht",
+        "Es ist leichter",
+        "Es ist salziger",
+        "Es ist kälter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Helles Eis wirft mehr Licht zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Rolle spielen Gletscher für Flüsse?",
+      "art": "mc",
+      "optionen": [
+        "Sie speisen sie im Sommer mit Wasser",
+        "Sie stauen sie dauerhaft",
+        "Sie haben keine Rolle",
+        "Sie machen sie salzig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gletscher sind Wasserspeicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Alpengletscher wachsen derzeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie schrumpfen stark."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gletscher entstehen aus verdichtetem Schnee.",
+        "Wärmere Sommer lassen sie schrumpfen.",
+        "Sie sind wichtige Wasserspeicher.",
+        "Deutschlands Gletscher könnten bald verschwinden."
+      ]
+    }
+  ]
+}

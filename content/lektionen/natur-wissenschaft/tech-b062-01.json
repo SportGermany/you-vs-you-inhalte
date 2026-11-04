@@ -1,0 +1,121 @@
+{
+  "id": "tech-b062-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein MRT?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Magnetresonanztomografie",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mrt",
+    "medizintechnik",
+    "magnetfeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Man liegt in einer engen Röhre, und es klopft und brummt laut.",
+        "Trotzdem entstehen dabei sehr genaue Bilder aus dem Körperinneren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein riesiger Magnet",
+      "absaetze": [
+        "MRT steht für Magnetresonanztomografie. Das Gerät erzeugt ein sehr starkes Magnetfeld. Es ist um ein Vielfaches stärker als das Magnetfeld der Erde.",
+        "Unser Körper besteht zu einem großen Teil aus Wasser. Die Wasserstoffkerne darin verhalten sich wie winzige Magnete. Im starken Magnetfeld richten sie sich aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Funkwellen und Signale",
+      "absaetze": [
+        "Das Gerät schickt kurze Funkwellen in den Körper. Die Wasserstoffkerne werden dadurch kurz aus ihrer Ausrichtung gebracht. Wenn sie zurückkippen, senden sie selbst schwache Signale aus.",
+        "Je nach Gewebe unterscheiden sich diese Signale. Ein Computer berechnet daraus Schnittbilder. Das laute Klopfen entsteht durch schnell geschaltete Magnetspulen."
+      ],
+      "merke": "Ein MRT arbeitet mit Magnetfeld und Funkwellen, nicht mit Röntgenstrahlen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut für Weichteile",
+      "absaetze": [
+        "Ein MRT zeigt Gehirn, Muskeln, Bänder und Organe besonders gut. Anders als Röntgen und CT nutzt es keine ionisierende Strahlung.",
+        "Metall im Körper kann problematisch sein, etwa manche Herzschrittmacher oder Implantate. Sag vor der Untersuchung Bescheid, was du im Körper trägst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht MRT?",
+      "art": "mc",
+      "optionen": [
+        "Magnetresonanztomografie",
+        "Medizinische Röntgentechnik",
+        "Mikrowellenradartest",
+        "Muskelreflextest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gerät arbeitet mit einem starken Magneten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Teilchen nutzt das MRT im Körper?",
+      "art": "mc",
+      "optionen": [
+        "Wasserstoffkerne",
+        "Eisenkörnchen",
+        "Kalksteine",
+        "Luftblasen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unser Körper besteht zu einem großen Teil aus Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt das laute Klopfen?",
+      "art": "mc",
+      "optionen": [
+        "Von schnell geschalteten Magnetspulen",
+        "Von Röntgenröhren",
+        "Von einem Motor im Bett",
+        "Vom Herzschlag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gehörschutz hilft dagegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein MRT nutzt Röntgenstrahlen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es arbeitet mit Magnetfeld und Funkwellen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein MRT nutzt ein sehr starkes Magnetfeld.",
+        "Funkwellen bringen Wasserstoffkerne in Bewegung.",
+        "Aus ihren Signalen entstehen Schnittbilder.",
+        "Metall im Körper vorher melden."
+      ]
+    }
+  ]
+}
