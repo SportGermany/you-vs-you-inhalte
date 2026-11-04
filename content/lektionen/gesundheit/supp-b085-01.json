@@ -1,0 +1,140 @@
+{
+  "id": "supp-b085-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Ingwer-Shots zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ingwer",
+    "shots",
+    "immunsystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleines Fläschchen, scharf und teuer, jeden Morgen für die Abwehrkräfte.",
+        "Ingwer-Shots liegen im Trend."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in der Flasche steckt",
+      "absaetze": [
+        "Ingwer-Shots bestehen meist aus gepresstem Ingwer, Zitronen- oder Orangensaft und manchmal Kurkuma. Viele enthalten auch Apfelsaft oder Zucker, um die Schärfe zu mildern.",
+        "Im Vergleich zu frischem Ingwer sind sie sehr teuer. Ein Stück Ingwerwurzel aus dem Supermarkt kostet oft nur einen Bruchteil."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung sagt",
+      "absaetze": [
+        "Für Ingwer gibt es Hinweise, dass er bei Übelkeit helfen kann. Einige Studien deuten darauf hin, dass er auch Entzündungsprozesse leicht beeinflussen könnte.",
+        "Dass ein täglicher Ingwer-Shot vor Erkältungen schützt oder das Immunsystem stärkt, ist aber nicht belegt."
+      ],
+      "merke": "Ein Schutz vor Erkältungen durch Ingwer-Shots ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Die Schärfe kann Magen und Speiseröhre reizen, besonders auf nüchternen Magen. Wer zu Sodbrennen neigt, sollte vorsichtig sein. Säfte mit Zucker greifen außerdem die Zähne an.",
+        "Wer Ingwer mag, kann ihn günstig selbst als Tee aufbrühen oder in Gerichten verwenden. Für die Abwehrkräfte zählen ausreichend Schlaf, Bewegung und eine abwechslungsreiche Ernährung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Sodbrennen oder Magenproblemen vorsichtig sein.",
+        "Bei Medikamenten zur Blutverdünnung große Mengen Ingwer ärztlich besprechen.",
+        "In Schwangerschaft und Stillzeit nicht ohne Rücksprache konzentrierte Ingwerprodukte verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt oft in Ingwer-Shots?",
+      "art": "mc",
+      "optionen": [
+        "Ingwer, Zitrussaft und manchmal Zucker",
+        "Nur reines Wasser",
+        "Kaffee",
+        "Milch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft auch Apfelsaft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Schutz vor Erkältungen belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, eindeutig",
+        "Ja, für alle",
+        "Nur bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Übelkeit gibt es eher Hinweise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte bei Ingwer-Shots vorsichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Sodbrennen",
+        "Menschen mit Brille",
+        "Linkshänder",
+        "Sportler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schärfe kann reizen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Frischer Ingwer ist meist viel günstiger als Shots.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er kostet oft nur einen Bruchteil."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ingwer-Shots sind teuer.",
+        "Ein Schutz vor Erkältungen ist nicht belegt.",
+        "Die Schärfe kann den Magen reizen.",
+        "Frischer Ingwer ist eine günstige Alternative."
+      ]
+    }
+  ]
+}

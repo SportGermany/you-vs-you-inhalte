@@ -1,0 +1,124 @@
+{
+  "id": "ern-b085-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist die Süßkartoffel?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "suesskartoffel",
+    "betacarotin",
+    "knolle"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Süßkartoffel-Pommes sind heute in vielen Restaurants zu haben.",
+        "Doch mit der Kartoffel hat die Süßkartoffel wenig zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine echte Kartoffel",
+      "absaetze": [
+        "Die Süßkartoffel gehört zu den Windengewächsen. Die Kartoffel ist dagegen ein Nachtschattengewächs. Beide sind also nicht näher verwandt.",
+        "Süßkartoffeln stammen ursprünglich aus Mittel- und Südamerika. Heute wachsen sie in vielen warmen Ländern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in ihr steckt",
+      "absaetze": [
+        "Orangefarbene Süßkartoffeln enthalten viel Betacarotin, eine Vorstufe von Vitamin A. Dazu kommen Ballaststoffe, Kalium und Vitamin C.",
+        "Sie schmecken süß, weil sie mehr Zucker enthalten als Kartoffeln. Trotzdem sind sie ein nährstoffreiches Gemüse."
+      ],
+      "merke": "Orangefarbene Süßkartoffeln enthalten viel Betacarotin.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Küche",
+      "absaetze": [
+        "Süßkartoffeln garen schneller als Kartoffeln. Sie eignen sich für Ofengemüse, Suppen, Püree oder Currys.",
+        "Die Schale kannst du nach gründlichem Waschen mitessen. Fett, etwa ein wenig Öl, hilft dem Körper, das Betacarotin zu verwerten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Pflanzenfamilie gehört die Süßkartoffel?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Windengewächsen",
+        "Zu den Nachtschattengewächsen",
+        "Zu den Gräsern",
+        "Zu den Kohlarten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kartoffel ist ein Nachtschattengewächs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten orangefarbene Süßkartoffeln reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Betacarotin",
+        "Vitamin B12",
+        "Koffein",
+        "Gluten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Vorstufe von Vitamin A."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, das Betacarotin zu verwerten?",
+      "art": "mc",
+      "optionen": [
+        "Etwas Fett, etwa Öl",
+        "Viel Wasser",
+        "Langes Einweichen",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Betacarotin ist fettlöslich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Süßkartoffel ist eng mit der Kartoffel verwandt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gehören zu verschiedenen Pflanzenfamilien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Süßkartoffel ist keine echte Kartoffel.",
+        "Sie stammt aus Amerika.",
+        "Sie liefert viel Betacarotin und Ballaststoffe.",
+        "Mit etwas Fett wird Betacarotin besser verwertet."
+      ]
+    }
+  ]
+}

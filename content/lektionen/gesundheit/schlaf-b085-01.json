@@ -1,0 +1,130 @@
+{
+  "id": "schlaf-b085-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schlafen Astronauten im All?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Leben im All",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "astronauten",
+    "schwerelosigkeit",
+    "innere-uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kein Oben, kein Unten, kein Bett.",
+        "Auf der Raumstation ist auch Schlafen eine Herausforderung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlafsack an der Wand",
+      "absaetze": [
+        "In der Schwerelosigkeit kann man sich nicht hinlegen. Astronauten schlafen deshalb in Schlafsäcken, die in kleinen Kabinen an der Wand befestigt sind. So treiben sie nicht durch die Station.",
+        "Die Arme schweben oft vor dem Körper. Manche schnallen sie fest, damit sie nicht gegen etwas stoßen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Sonnenaufgänge am Tag",
+      "absaetze": [
+        "Die Internationale Raumstation umrundet die Erde etwa 16-mal am Tag. Die Crew erlebt also ständig Sonnenauf- und -untergänge. Das bringt die innere Uhr durcheinander.",
+        "Deshalb gibt es feste Schlafzeiten und eine Beleuchtung, die tagsüber hell und bläulich, abends wärmer wird. Trotzdem schlafen Astronauten im Schnitt kürzer als auf der Erde."
+      ],
+      "merke": "Feste Zeiten und angepasstes Licht helfen der inneren Uhr im All.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lärm und frische Luft",
+      "absaetze": [
+        "Auf der Station brummen ständig Lüfter und Pumpen. Viele Astronauten nutzen Ohrstöpsel.",
+        "Die Lüftung ist wichtig. Ohne Luftbewegung könnte sich ausgeatmetes Kohlendioxid in der Schwerelosigkeit um den Kopf sammeln. Das kann Kopfschmerzen verursachen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo schlafen Astronauten auf der Raumstation?",
+      "art": "mc",
+      "optionen": [
+        "In Schlafsäcken an der Wand",
+        "In normalen Betten",
+        "Im Sitzen am Tisch",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "So treiben sie nicht durch die Station."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft umrundet die Raumstation die Erde etwa am Tag?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 16-mal",
+        "Einmal",
+        "Hundertmal",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das bringt die innere Uhr durcheinander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft der inneren Uhr im All?",
+      "art": "mc",
+      "optionen": [
+        "Feste Schlafzeiten und angepasstes Licht",
+        "Ständige Dunkelheit",
+        "Viel Kaffee",
+        "Schlafen nach Lust und Laune"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tagsüber hell, abends wärmer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohne Lüftung könnte sich Kohlendioxid um den Kopf sammeln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb ist Luftbewegung wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Astronauten schlafen in Schlafsäcken an der Wand.",
+        "Ständige Sonnenaufgänge stören die innere Uhr.",
+        "Feste Zeiten und Licht helfen.",
+        "Lüftung verhindert Kohlendioxid am Kopf."
+      ]
+    }
+  ]
+}

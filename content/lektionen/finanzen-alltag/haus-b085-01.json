@@ -1,0 +1,121 @@
+{
+  "id": "haus-b085-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du Bettwäsche richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bettwaesche",
+    "waesche",
+    "hausstaubmilben"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jede Nacht verbringst du viele Stunden im Bett.",
+        "Dabei sammeln sich Schweiß, Hautschuppen und Staub."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie oft wechseln?",
+      "absaetze": [
+        "Fachleute empfehlen, Bettwäsche etwa alle ein bis zwei Wochen zu wechseln. Wer stark schwitzt, krank ist oder mit Haustieren im Bett schläft, wechselt besser öfter.",
+        "Kissenbezüge können häufiger gewechselt werden, weil Gesicht und Haare viel Kontakt haben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bei welcher Temperatur?",
+      "absaetze": [
+        "Bettwäsche aus Baumwolle verträgt meist 60 Grad. Diese Temperatur entfernt Schmutz gründlich und hilft gegen Hausstaubmilben. Beachte aber immer das Pflegeetikett.",
+        "Empfindliche Stoffe wie Seide oder Satin brauchen niedrigere Temperaturen und ein mildes Waschmittel."
+      ],
+      "merke": "Baumwollbettwäsche verträgt meist 60 Grad."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Tricks",
+      "absaetze": [
+        "Schließe Knöpfe und Reißverschlüsse und dreh die Bezüge auf links. Stopf die Trommel nicht zu voll, damit die Wäsche Platz zum Bewegen hat.",
+        "Trockne die Bettwäsche möglichst an der Luft, Sonne wirkt zusätzlich frisch. Auch Kissen und Decken sollten ab und zu gewaschen werden, je nach Material."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft sollte Bettwäsche gewechselt werden?",
+      "art": "mc",
+      "optionen": [
+        "Etwa alle ein bis zwei Wochen",
+        "Einmal im Jahr",
+        "Nur bei sichtbarem Schmutz",
+        "Täglich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Schwitzen oder Krankheit öfter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Temperatur verträgt Baumwollbettwäsche meist?",
+      "art": "mc",
+      "optionen": [
+        "60 Grad",
+        "20 Grad",
+        "95 Grad immer",
+        "Gar keine Wärme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das hilft auch gegen Hausstaubmilben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Waschen tun?",
+      "art": "mc",
+      "optionen": [
+        "Knöpfe schließen und auf links drehen",
+        "Die Bezüge zerschneiden",
+        "Sie in Essig einlegen",
+        "Sie zusammenknoten"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt die Wäsche schonend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine überfüllte Trommel wäscht schlechter.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Wäsche braucht Platz zum Bewegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bettwäsche alle ein bis zwei Wochen wechseln.",
+        "Baumwolle meist bei 60 Grad waschen.",
+        "Knöpfe schließen und auf links drehen.",
+        "Trommel nicht überladen."
+      ]
+    }
+  ]
+}

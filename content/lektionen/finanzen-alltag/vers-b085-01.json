@@ -1,0 +1,127 @@
+{
+  "id": "vers-b085-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Lohnt sich eine Werkstattbindung bei der Autoversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kfz-Versicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "werkstattbindung",
+    "kasko",
+    "auto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Abschluss der Kaskoversicherung bietet der Versicherer einen günstigeren Tarif an.",
+        "Der Haken: Im Schadenfall entscheidet er, wo dein Auto repariert wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Werkstattbindung bedeutet",
+      "absaetze": [
+        "Bei einem Tarif mit Werkstattbindung lässt du Kaskoschäden in einer Partnerwerkstatt des Versicherers reparieren. Dafür ist der Beitrag oft spürbar günstiger.",
+        "Die Werkstattbindung gilt nur für die Kasko, also für Schäden am eigenen Auto. Wird dein Auto von jemand anderem beschädigt, kannst du die Werkstatt frei wählen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteile",
+      "absaetze": [
+        "Viele Versicherer bieten dazu einen Hol- und Bringservice an. Oft gibt es eine Garantie auf die Reparatur und einen Ersatzwagen.",
+        "Du musst dich nicht selbst um Angebote und Abrechnung kümmern."
+      ],
+      "merke": "Werkstattbindung spart Beitrag und bietet oft Service."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nachteile",
+      "absaetze": [
+        "Lässt du trotzdem in deiner Wunschwerkstatt reparieren, kann der Versicherer seine Leistung kürzen. Bei neuen Autos mit Herstellergarantie oder Leasingwagen solltest du prüfen, ob Reparaturen in Fremdwerkstätten erlaubt sind.",
+        "Vergleiche die Ersparnis mit deinen Ansprüchen. Wer seiner Stammwerkstatt treu bleiben will, zahlt besser etwas mehr."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Werkstattbindung?",
+      "art": "mc",
+      "optionen": [
+        "Kaskoschäden werden in einer Partnerwerkstatt repariert",
+        "Jede Werkstatt ist erlaubt",
+        "Du reparierst selbst",
+        "Der Hersteller repariert immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür ist der Beitrag günstiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welche Schäden gilt sie?",
+      "art": "mc",
+      "optionen": [
+        "Nur für Kaskoschäden am eigenen Auto",
+        "Für alle Unfälle",
+        "Nur für Haftpflichtschäden",
+        "Für Hausratschäden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Fremdschäden wählst du frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann passieren, wenn du eine andere Werkstatt wählst?",
+      "art": "mc",
+      "optionen": [
+        "Der Versicherer kann die Leistung kürzen",
+        "Du bekommst mehr Geld",
+        "Nichts",
+        "Der Vertrag verlängert sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb vorher abwägen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Versicherer bieten bei Werkstattbindung einen Hol- und Bringservice.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft auch einen Ersatzwagen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Werkstattbindung macht die Kasko oft günstiger.",
+        "Sie gilt nur für Schäden am eigenen Auto.",
+        "Oft gibt es Service und Garantie.",
+        "Fremdwerkstätten können zu Kürzungen führen."
+      ]
+    }
+  ]
+}

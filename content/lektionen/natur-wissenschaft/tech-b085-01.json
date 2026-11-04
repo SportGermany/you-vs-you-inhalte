@@ -1,0 +1,121 @@
+{
+  "id": "tech-b085-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Fahrradschaltung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik verstehen",
+      "herausgeber": "Deutsche Physikalische Gesellschaft",
+      "url": "https://www.dpg-physik.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fahrrad",
+    "gangschaltung",
+    "uebersetzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bergauf schaltest du runter, auf der Geraden hoch.",
+        "Die Gangschaltung verändert, wie viel Kraft du brauchst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Übersetzung",
+      "absaetze": [
+        "Die Kette verbindet vorne das Kettenblatt mit hinten einem Ritzel. Das Verhältnis ihrer Größen heißt Übersetzung.",
+        "Großes Kettenblatt vorne und kleines Ritzel hinten bedeuten: Mit einer Kurbelumdrehung dreht sich das Hinterrad oft. Das ist schwer zu treten, aber schnell. Kleines Kettenblatt und großes Ritzel machen es leicht, aber langsam."
+      ],
+      "merke": "Die Übersetzung bestimmt, wie leicht oder schnell du fährst."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kettenschaltung",
+      "absaetze": [
+        "Bei der Kettenschaltung springt die Kette auf ein anderes Ritzel oder Kettenblatt. Das Schaltwerk führt sie dabei.",
+        "Sie ist leicht und bietet viele Gänge. Geschaltet wird nur während der Fahrt, wenn du trittst. Vermeide es, die Kette stark schräg laufen zu lassen, etwa vorn groß und hinten groß. Das verschleißt Kette und Zahnräder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nabenschaltung",
+      "absaetze": [
+        "Bei der Nabenschaltung sitzen die Gänge in der Hinterradnabe, als kleines Zahnradgetriebe. Von außen sieht man nur ein Ritzel.",
+        "Sie ist wartungsarm und gut geschützt. Du kannst auch im Stand schalten, etwa an der Ampel. Dafür ist sie meist etwas schwerer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kombination ist leicht zu treten?",
+      "art": "mc",
+      "optionen": [
+        "Kleines Kettenblatt vorne, großes Ritzel hinten",
+        "Großes Kettenblatt, kleines Ritzel",
+        "Beide gleich groß",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist leicht, aber langsam."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kannst du bei einer Kettenschaltung schalten?",
+      "art": "mc",
+      "optionen": [
+        "Während der Fahrt beim Treten",
+        "Nur im Stand",
+        "Nur rückwärts",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kette springt dabei um."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Vorteil der Nabenschaltung?",
+      "art": "mc",
+      "optionen": [
+        "Schalten auch im Stand",
+        "Sie ist besonders leicht",
+        "Sie hat keine Gänge",
+        "Sie braucht viel Pflege"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist auch wartungsarm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine stark schräg laufende Kette verschleißt schneller.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kette und Zahnräder leiden darunter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Übersetzung bestimmt Kraft und Tempo.",
+        "Die Kettenschaltung schaltet beim Treten.",
+        "Die Nabenschaltung schaltet auch im Stand.",
+        "Schräglauf der Kette vermeiden."
+      ]
+    }
+  ]
+}

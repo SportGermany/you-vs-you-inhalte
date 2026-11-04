@@ -1,0 +1,127 @@
+{
+  "id": "geld-b085-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Rentenlücke?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rente und Vorsorge",
+      "herausgeber": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rentenluecke",
+    "altersvorsorge",
+    "rente"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Heute verdienst du ein Gehalt, im Alter bekommst du eine Rente.",
+        "Der Unterschied zwischen beidem kann groß sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lücke zwischen Lohn und Rente",
+      "absaetze": [
+        "Die Rentenlücke ist der Unterschied zwischen deinem heutigen Einkommen und dem, was du im Alter voraussichtlich bekommst. Die gesetzliche Rente ersetzt nur einen Teil des früheren Einkommens.",
+        "Das Rentenniveau beschreibt, wie hoch eine Standardrente im Verhältnis zum Durchschnittslohn ist. Es liegt derzeit bei rund 48 Prozent."
+      ],
+      "merke": "Die gesetzliche Rente ersetzt nur einen Teil des Einkommens."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die eigene Lücke berechnen",
+      "absaetze": [
+        "Ab 27 Jahren schickt dir die Deutsche Rentenversicherung jedes Jahr eine Renteninformation. Dort siehst du, mit welcher Rente du rechnen kannst.",
+        "Von der Bruttorente gehen noch Kranken- und Pflegeversicherung und gegebenenfalls Steuern ab. Viele rechnen damit, im Alter rund 70 bis 80 Prozent ihres letzten Nettoeinkommens zu brauchen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lücke schließen",
+      "absaetze": [
+        "Je früher du vorsorgst, desto mehr hilft dir der Zinseszins. Möglichkeiten sind etwa eine betriebliche Altersvorsorge, private Sparpläne mit breit gestreuten Fonds oder Wohneigentum.",
+        "Prüfe zuerst, ob dein Arbeitgeber eine Betriebsrente bezuschusst. Unabhängige Beratung bieten die Verbraucherzentralen und die Rentenversicherung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Rentenlücke?",
+      "art": "mc",
+      "optionen": [
+        "Der Unterschied zwischen Einkommen und späterer Rente",
+        "Eine Steuer",
+        "Ein Loch in der Rentenkasse",
+        "Ein Kredit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die gesetzliche Rente ersetzt nur einen Teil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem Alter kommt jährlich eine Renteninformation?",
+      "art": "mc",
+      "optionen": [
+        "Ab 27 Jahren",
+        "Ab 60 Jahren",
+        "Ab 18 Jahren",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort siehst du deine voraussichtliche Rente."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft beim Schließen der Lücke besonders?",
+      "art": "mc",
+      "optionen": [
+        "Früh mit dem Vorsorgen beginnen",
+        "Erst mit 65 anfangen",
+        "Alles bar zu Hause sparen",
+        "Nichts tun"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Zinseszins hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von der Bruttorente gehen noch Kranken- und Pflegeversicherung ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gegebenenfalls auch Steuern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die gesetzliche Rente ersetzt nur einen Teil des Lohns.",
+        "Die Renteninformation zeigt die erwartete Rente.",
+        "Vom Brutto gehen noch Abgaben ab.",
+        "Früh vorsorgen schließt die Lücke leichter."
+      ]
+    }
+  ]
+}

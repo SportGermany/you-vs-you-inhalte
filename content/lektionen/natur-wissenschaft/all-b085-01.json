@@ -1,0 +1,121 @@
+{
+  "id": "all-b085-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Lagrange-Punkt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Leben im All",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lagrange-punkt",
+    "raumsonden",
+    "schwerkraft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das James-Webb-Teleskop kreist nicht um die Erde.",
+        "Es hält sich an einem besonderen Punkt im All auf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo sich Kräfte ausgleichen",
+      "absaetze": [
+        "Zwischen zwei großen Himmelskörpern, etwa Sonne und Erde, gibt es fünf besondere Punkte. Dort gleichen sich ihre Anziehungskräfte und die Bewegung so aus, dass ein kleiner Körper seine Lage zu beiden halten kann.",
+        "Diese Punkte heißen Lagrange-Punkte, nach dem Mathematiker Joseph-Louis Lagrange. Er beschrieb sie im 18. Jahrhundert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Parkplätze für Teleskope",
+      "absaetze": [
+        "Der Punkt L1 liegt rund 1,5 Millionen Kilometer von der Erde entfernt in Richtung Sonne. Dort beobachten Sonden die Sonne ohne Unterbrechung.",
+        "Der Punkt L2 liegt ebenso weit entfernt auf der sonnenabgewandten Seite. Dort steht seit 2022 das James-Webb-Teleskop. Sonne, Erde und Mond liegen dann alle auf einer Seite und lassen sich gemeinsam abschirmen."
+      ],
+      "merke": "Am Punkt L2 lassen sich Sonne, Erde und Mond gemeinsam abschirmen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Asteroiden an Lagrange-Punkten",
+      "absaetze": [
+        "Die Punkte L4 und L5 liegen auf der Umlaufbahn, vor und hinter dem kleineren Körper. Dort sammeln sich manchmal Asteroiden.",
+        "Beim Jupiter kennt man Tausende davon. Man nennt sie Trojaner. Raumsonden müssen an L1 und L2 trotzdem immer wieder leicht nachsteuern, weil diese Punkte nicht völlig stabil sind."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Lagrange-Punkt?",
+      "art": "mc",
+      "optionen": [
+        "Ein Punkt, an dem sich Anziehung und Bewegung ausgleichen",
+        "Ein Krater auf dem Mond",
+        "Ein Stern",
+        "Ein schwarzes Loch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt fünf solcher Punkte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steht das James-Webb-Teleskop?",
+      "art": "mc",
+      "optionen": [
+        "Am Punkt L2",
+        "Am Punkt L1",
+        "Auf dem Mond",
+        "In einer Erdumlaufbahn in 400 Kilometern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seit 2022."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen Asteroiden an Jupiters Lagrange-Punkten?",
+      "art": "mc",
+      "optionen": [
+        "Trojaner",
+        "Kometen",
+        "Meteore",
+        "Planeten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man kennt Tausende davon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sonden an L1 und L2 müssen immer wieder leicht nachsteuern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Diese Punkte sind nicht völlig stabil."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lagrange-Punkte sind Gleichgewichtspunkte im All.",
+        "Es gibt fünf davon zwischen zwei Himmelskörpern.",
+        "Das James-Webb-Teleskop steht an L2.",
+        "An L4 und L5 sammeln sich oft Asteroiden."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "steu-b085-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist der Pflege-Pauschbetrag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pflege-pauschbetrag",
+    "angehoerige",
+    "steuern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du pflegst deine Mutter zu Hause, unbezahlt und mit viel Zeit.",
+        "Das Finanzamt erkennt diese Leistung mit einem Pauschbetrag an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerentlastung für Pflegende",
+      "absaetze": [
+        "Wer einen Angehörigen oder nahestehenden Menschen unentgeltlich pflegt, kann den Pflege-Pauschbetrag in der Steuererklärung angeben. Er senkt das zu versteuernde Einkommen.",
+        "Die Pflege muss in deiner Wohnung oder in der Wohnung der gepflegten Person stattfinden, in Deutschland oder einem anderen EU-Land."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie hoch er ist",
+      "absaetze": [
+        "Die Höhe richtet sich nach dem Pflegegrad. Bei Pflegegrad 2 sind es 600 Euro im Jahr, bei Pflegegrad 3 1.100 Euro. Bei Pflegegrad 4 oder 5 sind es 1.800 Euro.",
+        "Pflegen mehrere Menschen dieselbe Person, wird der Betrag unter ihnen aufgeteilt."
+      ],
+      "merke": "Der Pflege-Pauschbetrag richtet sich nach dem Pflegegrad."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Die Pflege muss unentgeltlich sein. Bekommst du dafür Geld, etwa weitergeleitetes Pflegegeld, kann der Pauschbetrag entfallen. Für Eltern von Kindern mit Behinderung gelten Ausnahmen.",
+        "Statt des Pauschbetrags kannst du auch nachgewiesene höhere Kosten als außergewöhnliche Belastungen angeben. Bewahre dafür Belege auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer kann den Pflege-Pauschbetrag nutzen?",
+      "art": "mc",
+      "optionen": [
+        "Wer jemanden unentgeltlich pflegt",
+        "Nur Pflegedienste",
+        "Nur Ärzte",
+        "Jeder ohne Bedingung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflege muss in einer Wohnung stattfinden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Betrag bei Pflegegrad 4 oder 5?",
+      "art": "mc",
+      "optionen": [
+        "1.800 Euro",
+        "600 Euro",
+        "100 Euro",
+        "10.000 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Pflegegrad 3 sind es 1.100 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn mehrere Menschen dieselbe Person pflegen?",
+      "art": "mc",
+      "optionen": [
+        "Der Betrag wird aufgeteilt",
+        "Jeder bekommt den vollen Betrag",
+        "Keiner bekommt etwas",
+        "Er verdoppelt sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird unter ihnen geteilt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bezahlte Pflege kann den Pauschbetrag ausschließen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Pflege muss unentgeltlich sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflegende Angehörige können einen Pauschbetrag nutzen.",
+        "Die Höhe hängt vom Pflegegrad ab.",
+        "Bei mehreren Pflegenden wird er aufgeteilt.",
+        "Die Pflege muss unentgeltlich sein."
+      ]
+    }
+  ]
+}
