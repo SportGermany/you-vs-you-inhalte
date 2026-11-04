@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b077-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Ist Schlaf vor Mitternacht besonders erholsam?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mitternacht",
+    "tiefschlaf",
+    "schlafmythen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schon die Großeltern sagten: Der Schlaf vor Mitternacht ist der gesündeste.",
+        "Ganz falsch ist das nicht, aber die Uhrzeit ist nicht der Grund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tiefschlaf am Anfang der Nacht",
+      "absaetze": [
+        "Den meisten Tiefschlaf bekommen wir in den ersten Stunden nach dem Einschlafen. In dieser Phase erholt sich der Körper besonders stark.",
+        "Wer um 22 Uhr einschläft, hat den Tiefschlaf vor Mitternacht. Wer erst um 1 Uhr einschläft, hat ihn danach. Entscheidend ist also der Beginn des Schlafs, nicht die Uhrzeit."
+      ],
+      "merke": "Der Tiefschlaf kommt am Anfang der Nacht, egal wann sie beginnt.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die innere Uhr spielt mit",
+      "absaetze": [
+        "Ganz egal ist die Uhrzeit aber nicht. Die innere Uhr steuert, wann wir am leichtesten schlafen. Wer stark gegen sie lebt, schläft oft kürzer und schlechter.",
+        "Bei vielen Menschen passt ein Schlafbeginn vor Mitternacht gut zum Rhythmus. Ausgeprägte Abendmenschen schlafen aber auch später gut, wenn sie ausschlafen können."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich zählt",
+      "absaetze": [
+        "Wichtiger als die Uhrzeit sind genug Schlaf und regelmäßige Zeiten. Ein Rhythmus, der zu deinem Typ und deinem Alltag passt, ist ideal.",
+        "Wer früh aufstehen muss, profitiert natürlich davon, früher ins Bett zu gehen. Dann ist Schlaf vor Mitternacht schlicht nötig, um genug zu bekommen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann bekommen wir den meisten Tiefschlaf?",
+      "art": "mc",
+      "optionen": [
+        "In den ersten Stunden nach dem Einschlafen",
+        "Immer genau um Mitternacht",
+        "Kurz vor dem Aufwachen",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unabhängig von der Uhrzeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entscheidet, wann der Tiefschlaf kommt?",
+      "art": "mc",
+      "optionen": [
+        "Der Beginn des Schlafs",
+        "Die Mondphase",
+        "Die Jahreszeit allein",
+        "Die Farbe der Bettwäsche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nicht die Uhrzeit an sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist wichtiger als die genaue Uhrzeit?",
+      "art": "mc",
+      "optionen": [
+        "Genug Schlaf und regelmäßige Zeiten",
+        "Eine bestimmte Schlafposition",
+        "Ein Glas Milch",
+        "Ein kaltes Zimmer allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Rhythmus sollte zu dir passen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlaf vor Mitternacht ist allein wegen der Uhrzeit erholsamer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Entscheidend ist der Beginn des Schlafs."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tiefschlaf kommt am Anfang der Nacht.",
+        "Die Uhrzeit allein macht Schlaf nicht erholsamer.",
+        "Die innere Uhr spielt trotzdem eine Rolle.",
+        "Genug und regelmäßiger Schlaf zählt am meisten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "geld-b077-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Kannst du eine Zahlung zurückholen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherinformationen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rueckbuchung",
+    "lastschrift",
+    "kreditkarte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Ware kommt nie an, aber das Geld ist weg.",
+        "Ob du es zurückbekommst, hängt davon ab, wie du bezahlt hast."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lastschrift: gute Karten",
+      "absaetze": [
+        "Eine SEPA-Lastschrift kannst du innerhalb von acht Wochen ohne Angabe von Gründen zurückgeben. Das Geld wird dann wieder gutgeschrieben.",
+        "War die Lastschrift gar nicht von dir erlaubt, hast du sogar 13 Monate Zeit. Die Forderung selbst bleibt aber bestehen, wenn du die Ware wirklich bekommen hast."
+      ],
+      "merke": "Lastschriften lassen sich acht Wochen lang zurückgeben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kreditkarte: Rückbuchung beantragen",
+      "absaetze": [
+        "Bei Kreditkartenzahlungen gibt es ein Verfahren zur Rückbuchung, auch Chargeback genannt. Es greift etwa bei Nichtlieferung, Betrug oder doppelter Abbuchung.",
+        "Melde dich dafür möglichst schnell bei deiner Bank. Wende dich vorher an den Händler und sammle Belege wie Bestellbestätigung und Nachrichten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überweisung: schwierig",
+      "absaetze": [
+        "Eine Überweisung lässt sich nach der Ausführung kaum zurückholen. Die Bank kann nur versuchen, den Empfänger um Rückzahlung zu bitten.",
+        "Sei deshalb bei Vorkasse an unbekannte Shops vorsichtig. Bei Betrug solltest du sofort deine Bank informieren und Anzeige bei der Polizei erstatten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange kannst du eine erlaubte Lastschrift zurückgeben?",
+      "art": "mc",
+      "optionen": [
+        "Acht Wochen",
+        "Einen Tag",
+        "Zehn Jahre",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Angabe von Gründen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Rückbuchung bei Kreditkarten auch?",
+      "art": "mc",
+      "optionen": [
+        "Chargeback",
+        "Cashback",
+        "Feedback",
+        "Payback"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie greift etwa bei Nichtlieferung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zahlungsart ist am schwersten zurückzuholen?",
+      "art": "mc",
+      "optionen": [
+        "Die Überweisung",
+        "Die Lastschrift",
+        "Die Kreditkarte",
+        "Alle gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bank kann nur um Rückzahlung bitten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Betrug solltest du sofort die Bank informieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Und Anzeige bei der Polizei erstatten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lastschriften kannst du acht Wochen zurückgeben.",
+        "Bei Kreditkarten gibt es das Chargeback.",
+        "Überweisungen sind kaum rückholbar.",
+        "Bei Betrug sofort Bank und Polizei informieren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ern-b077-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Sellerie?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Allergien",
+      "herausgeber": "Deutscher Allergie- und Asthmabund (DAAB)",
+      "url": "https://www.daab.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sellerie",
+    "gemuese",
+    "allergie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob als Knolle in der Suppe oder als Stange im Dip.",
+        "Sellerie gibt vielen Gerichten ihren typischen Geschmack."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Knolle und Stange",
+      "absaetze": [
+        "Knollensellerie und Staudensellerie sind Sorten derselben Pflanze. Bei der einen isst man die dicke Knolle, bei der anderen die langen Stiele.",
+        "Sellerie gehört zu den Doldenblütlern, wie Möhre und Petersilie. Er ist ein wichtiger Bestandteil von Suppengrün."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in ihm steckt",
+      "absaetze": [
+        "Sellerie liefert Kalium, Vitamin K und Ballaststoffe. Er besteht zum großen Teil aus Wasser und hat wenig Kalorien.",
+        "Ätherische Öle sorgen für den kräftigen Geschmack. Ein Trend ist Selleriesaft. Besondere gesundheitliche Wirkungen sind dafür aber nicht belegt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein häufiges Allergen",
+      "absaetze": [
+        "Sellerie gehört zu den Lebensmitteln, die in der EU als Allergen gekennzeichnet werden müssen. Allergische Reaktionen können heftig sein.",
+        "Manche Menschen mit Birkenpollen- oder Beifußallergie reagieren auch auf Sellerie. Fachleute sprechen von einer Kreuzallergie."
+      ],
+      "merke": "Sellerie ist ein kennzeichnungspflichtiges Allergen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Staudensellerie hat negative Kalorien.",
+      "urteil": "mythos",
+      "erklaerung": "Die Idee: Das Kauen und Verdauen verbraucht mehr Energie, als Sellerie liefert. Tatsächlich hat Sellerie sehr wenig Kalorien, der Energieverbrauch beim Verdauen ist aber kleiner. Negative Kalorien gibt es nicht, doch als kalorienarmer Snack eignet er sich gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was isst man beim Staudensellerie?",
+      "art": "mc",
+      "optionen": [
+        "Die langen Stiele",
+        "Die Wurzelknolle",
+        "Die Blüten",
+        "Die Samen allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Knollensellerie ist es die Knolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum muss Sellerie in der EU gekennzeichnet werden?",
+      "art": "mc",
+      "optionen": [
+        "Er ist ein häufiges Allergen",
+        "Er ist giftig",
+        "Er ist teuer",
+        "Er ist genverändert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Allergische Reaktionen können heftig sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist über Selleriesaft bekannt?",
+      "art": "mc",
+      "optionen": [
+        "Besondere Wirkungen sind nicht belegt",
+        "Er ersetzt jedes Medikament",
+        "Er ist verboten",
+        "Er enthält viel Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sellerie ist trotzdem ein gesundes Gemüse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sellerie hat negative Kalorien.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist nur sehr kalorienarm."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sellerie gibt es als Knolle und als Stange.",
+        "Er liefert Kalium und Ballaststoffe.",
+        "Er ist ein kennzeichnungspflichtiges Allergen.",
+        "Negative Kalorien gibt es nicht."
+      ]
+    }
+  ]
+}

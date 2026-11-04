@@ -3,7 +3,7 @@
   "version": 1,
   "themenwelt": "psychologie-gehirn",
   "unterthema": "lernen-gedaechtnis",
-  "titel": "Warum hilft gemischtes Üben beim Lernen?",
+  "titel": "Warum merkst du dir besser, was mit dir zu tun hat?",
   "minuten": 3,
   "studienlage": null,
   "zeitlos": true,
@@ -21,100 +21,100 @@
     }
   ],
   "tags": [
-    "interleaving",
-    "ueben",
+    "selbstbezug",
+    "gedaechtnis",
     "lernstrategie"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Zehn gleiche Matheaufgaben hintereinander fühlen sich gut an.",
-        "In der Prüfung hilft dir das aber oft weniger, als du denkst."
+        "Eine trockene Liste von Begriffen vergisst du schnell.",
+        "Fragst du dich bei jedem, ob er auf dich zutrifft, bleibt mehr hängen."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Blockweise oder gemischt",
+      "titel": "Der Selbstbezugseffekt",
       "absaetze": [
-        "Beim blockweisen Üben machst du viele Aufgaben einer Art hintereinander. Beim gemischten Üben wechseln sich verschiedene Aufgabentypen ab. Fachleute sprechen auch von Interleaving.",
-        "In Versuchen schnitten Lernende mit gemischtem Üben in späteren Tests deutlich besser ab. Das zeigte sich etwa in Mathematik."
+        "In einem bekannten Versuch aus den 1970er-Jahren sahen Menschen eine Liste von Eigenschaftswörtern. Manche sollten nur beurteilen, ob ein Wort lang oder kurz ist. Andere sollten überlegen, ob es sie selbst beschreibt.",
+        "Beim späteren Test erinnerten sich die Menschen der zweiten Gruppe an deutlich mehr Wörter. Fachleute nennen das den Selbstbezugseffekt."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Warum es wirkt",
+      "titel": "Warum er wirkt",
       "absaetze": [
-        "Bei gemischten Aufgaben musst du jedes Mal neu entscheiden, welcher Lösungsweg passt. Genau das wird auch in der Prüfung verlangt.",
-        "Du lernst also nicht nur die Methode, sondern auch, wann du sie einsetzt. Ähnliches gilt, wenn man lernt, Malstile oder Vogelarten zu unterscheiden."
+        "Über uns selbst wissen wir sehr viel. Neue Informationen, die wir mit uns verknüpfen, docken an dieses reiche Wissen an.",
+        "Je mehr Verbindungen eine Information hat, desto leichter finden wir sie später wieder. Außerdem verarbeiten wir sie gründlicher, wenn sie uns betrifft."
       ],
-      "merke": "Gemischtes Üben trainiert, den passenden Lösungsweg zu erkennen."
+      "merke": "Was wir mit uns selbst verknüpfen, verarbeiten wir gründlicher."
     },
     {
       "typ": "wissen",
-      "titel": "Es fühlt sich schwerer an",
+      "titel": "So nutzt du ihn",
       "absaetze": [
-        "Gemischtes Üben wirkt anstrengender und langsamer. Viele halten es deshalb für weniger wirksam. Das ist ein Trugschluss.",
-        "Probier es aus: Übe zuerst eine neue Methode kurz im Block. Mische danach Aufgaben aus verschiedenen Kapiteln."
+        "Frag dich beim Lernen: Wo begegnet mir das im Alltag? Habe ich so etwas schon erlebt? Was würde ich in dieser Lage tun?",
+        "Auch eigene Beispiele helfen. Wer etwa ein Gesetz aus der Wirtschaft lernt, überlegt, wie es das eigene Einkaufen beeinflusst. Das macht den Stoff greifbarer."
       ]
     },
     {
       "typ": "quiz",
-      "frage": "Was bedeutet gemischtes Üben?",
+      "frage": "Was beschreibt der Selbstbezugseffekt?",
       "art": "mc",
       "optionen": [
-        "Verschiedene Aufgabentypen wechseln sich ab",
-        "Nur eine Aufgabe wiederholen",
-        "Lernen mit Musik",
-        "Lernen im Stehen"
+        "Wir merken uns besser, was wir mit uns selbst verknüpfen",
+        "Wir vergessen alles über uns",
+        "Wir merken uns nur Zahlen",
+        "Wir lernen nur in Gruppen"
       ],
       "richtig": 0,
-      "erklaerung": "Fachleute nennen das Interleaving."
+      "erklaerung": "Das zeigte ein Versuch mit Eigenschaftswörtern."
     },
     {
       "typ": "quiz",
-      "frage": "Warum hilft gemischtes Üben?",
+      "frage": "Welche Gruppe erinnerte sich im Versuch an mehr Wörter?",
       "art": "mc",
       "optionen": [
-        "Man lernt, den passenden Lösungsweg zu erkennen",
-        "Es geht schneller",
-        "Es ist leichter",
-        "Man muss weniger denken"
+        "Die, die überlegte, ob ein Wort sie beschreibt",
+        "Die, die nur die Wortlänge beurteilte",
+        "Beide gleich",
+        "Keine von beiden"
       ],
       "richtig": 0,
-      "erklaerung": "Das wird auch in der Prüfung verlangt."
+      "erklaerung": "Der Selbstbezug machte den Unterschied."
     },
     {
       "typ": "quiz",
-      "frage": "Wie fühlt sich gemischtes Üben meist an?",
+      "frage": "Warum wirkt der Effekt?",
       "art": "mc",
       "optionen": [
-        "Anstrengender",
-        "Leichter",
-        "Langweiliger, aber kürzer",
-        "Ganz entspannt"
+        "Neues dockt an das reiche Wissen über uns an",
+        "Wir sind dabei müde",
+        "Wir lesen schneller",
+        "Wir schreiben mehr ab"
       ],
       "richtig": 0,
-      "erklaerung": "Trotzdem ist es oft wirksamer."
+      "erklaerung": "Mehr Verbindungen erleichtern das Wiederfinden."
     },
     {
       "typ": "quiz",
-      "frage": "Was sich leichter anfühlt, ist beim Lernen immer wirksamer.",
+      "frage": "Eigene Beispiele zu finden, kann beim Lernen helfen.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
-      "richtig": 1,
-      "erklaerung": "Falsch. Gemischtes Üben fühlt sich schwerer an und wirkt oft besser."
+      "richtig": 0,
+      "erklaerung": "Richtig. Das macht den Stoff greifbarer."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Gemischtes Üben wechselt Aufgabentypen ab.",
-        "Es schult die Wahl des Lösungswegs.",
-        "Es fühlt sich schwerer an, wirkt aber oft besser.",
-        "Erst kurz im Block, dann gemischt üben."
+        "Selbstbezug verbessert das Gedächtnis.",
+        "Neues knüpft an Wissen über uns an.",
+        "Frag dich, wo dir der Stoff im Alltag begegnet.",
+        "Eigene Beispiele machen Lernstoff greifbarer."
       ]
     }
   ]

@@ -1,0 +1,121 @@
+{
+  "id": "haus-b077-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du die Mikrowelle?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mikrowelle",
+    "kueche",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eingetrocknete Soßenspritzer an der Decke der Mikrowelle.",
+        "Mit Dampf lösen sie sich fast von selbst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Dampf-Trick",
+      "absaetze": [
+        "Stell eine mikrowellengeeignete Schüssel mit Wasser und etwas Zitronensaft oder Essig in die Mikrowelle. Erhitze sie einige Minuten, bis sich Dampf bildet.",
+        "Lass die Tür danach ein paar Minuten geschlossen. Der Dampf weicht die Verschmutzungen auf. Anschließend kannst du den Innenraum mit einem Tuch auswischen."
+      ],
+      "merke": "Wasserdampf weicht Verschmutzungen in der Mikrowelle auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht vor Siedeverzug",
+      "absaetze": [
+        "Wasser kann in der Mikrowelle überhitzen, ohne zu sprudeln. Beim Herausnehmen kann es dann plötzlich aufkochen und Verbrühungen verursachen.",
+        "Stell deshalb einen mikrowellengeeigneten Gegenstand wie einen Holzlöffel ins Wasser. Hol die Schüssel vorsichtig heraus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig und richtig",
+      "absaetze": [
+        "Den Drehteller kannst du oft in der Spülmaschine reinigen. Schau dazu in die Anleitung.",
+        "Nutze eine Abdeckhaube, dann spritzt es weniger. Lass die Mikrowelle nie leer laufen und leg kein Metall hinein. Beides kann das Gerät beschädigen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was weicht Verschmutzungen in der Mikrowelle auf?",
+      "art": "mc",
+      "optionen": [
+        "Wasserdampf",
+        "Kaltes Wasser",
+        "Salz",
+        "Mehl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwas Zitrone oder Essig im Wasser hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Siedeverzug?",
+      "art": "mc",
+      "optionen": [
+        "Überhitztes Wasser kocht plötzlich auf",
+        "Das Wasser friert ein",
+        "Die Mikrowelle schaltet sich ab",
+        "Der Teller dreht sich schneller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann Verbrühungen verursachen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Siedeverzug?",
+      "art": "mc",
+      "optionen": [
+        "Ein Holzlöffel im Wasser",
+        "Ein Metalllöffel",
+        "Ein Deckel aus Alufolie",
+        "Leer laufen lassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gibt dem Wasser Ansatzpunkte zum Sieden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Mikrowelle darf man ruhig leer laufen lassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das kann das Gerät beschädigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wasserdampf löst Verschmutzungen.",
+        "Vorsicht vor Siedeverzug.",
+        "Eine Abdeckhaube verhindert Spritzer.",
+        "Nie leer laufen lassen, kein Metall hinein."
+      ]
+    }
+  ]
+}

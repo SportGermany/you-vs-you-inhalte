@@ -1,0 +1,121 @@
+{
+  "id": "koer-b077-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was macht der Thymus?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "thymus",
+    "immunsystem",
+    "t-zellen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hinter dem Brustbein liegt ein Organ, von dem viele noch nie gehört haben.",
+        "In der Kindheit leistet es Schwerstarbeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Schule für Abwehrzellen",
+      "absaetze": [
+        "Der Thymus liegt im oberen Brustkorb hinter dem Brustbein. Er gehört zum Immunsystem.",
+        "Hier reifen bestimmte weiße Blutkörperchen heran, die T-Zellen. Das T steht für Thymus. Sie lernen dort, fremde Erreger zu erkennen und körpereigene Zellen in Ruhe zu lassen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Groß in der Kindheit",
+      "absaetze": [
+        "Am aktivsten ist der Thymus in der Kindheit. In dieser Zeit baut der Körper einen großen Vorrat an T-Zellen auf.",
+        "Ab der Pubertät schrumpft der Thymus nach und nach. Ein großer Teil wird durch Fettgewebe ersetzt. Die T-Zellen aus der Kindheit begleiten uns aber noch lange."
+      ],
+      "merke": "Der Thymus ist in der Kindheit am aktivsten und schrumpft danach."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn er Probleme macht",
+      "absaetze": [
+        "Manchmal entstehen am Thymus Tumoren. Sie hängen gelegentlich mit der Muskelkrankheit Myasthenia gravis zusammen, bei der Muskeln schnell ermüden.",
+        "Aus der Küche kennst du den Thymus vielleicht auch: Kalbsbries ist der Thymus junger Kälber."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt der Thymus?",
+      "art": "mc",
+      "optionen": [
+        "Hinter dem Brustbein",
+        "Im Bauch neben dem Magen",
+        "Im Kopf",
+        "Im Knie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im oberen Brustkorb."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zellen reifen im Thymus?",
+      "art": "mc",
+      "optionen": [
+        "T-Zellen",
+        "Rote Blutkörperchen",
+        "Nervenzellen",
+        "Hautzellen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das T steht für Thymus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist der Thymus am aktivsten?",
+      "art": "mc",
+      "optionen": [
+        "In der Kindheit",
+        "Im hohen Alter",
+        "Nur im Schlaf",
+        "Nur beim Sport"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ab der Pubertät schrumpft er."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kalbsbries ist der Thymus junger Kälber.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es gilt als Delikatesse."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Thymus gehört zum Immunsystem.",
+        "Dort reifen die T-Zellen.",
+        "Er ist in der Kindheit am aktivsten.",
+        "Ab der Pubertät schrumpft er."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "all-b077-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Brauner Zwerg?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sterne und Planeten",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "brauner-zwerg",
+    "sterne",
+    "planeten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zu groß für einen Planeten, zu klein für einen Stern.",
+        "Braune Zwerge liegen irgendwo dazwischen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein gescheiterter Stern",
+      "absaetze": [
+        "Sterne entstehen aus Gaswolken, die sich zusammenziehen. Wird der Kern heiß genug, verschmilzt Wasserstoff zu Helium. Dann leuchtet ein Stern über lange Zeit.",
+        "Braune Zwerge haben dafür zu wenig Masse. In ihrem Inneren zündet die Wasserstofffusion nicht dauerhaft. Fachleute nennen sie deshalb manchmal gescheiterte Sterne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Größer als Jupiter",
+      "absaetze": [
+        "Braune Zwerge haben etwa das 13- bis 80-Fache der Masse des Jupiter. Ihr Durchmesser ist trotzdem oft ähnlich groß wie der von Jupiter, weil sie viel dichter sind.",
+        "Sie glühen nur schwach, vor allem im Infrarotlicht. Mit der Zeit kühlen sie immer weiter ab."
+      ],
+      "merke": "Braune Zwerge sind schwerer als Planeten, aber leichter als Sterne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwer zu finden",
+      "absaetze": [
+        "Weil sie so lichtschwach sind, wurden die ersten Braunen Zwerge erst 1995 eindeutig nachgewiesen.",
+        "Heute kennt man Tausende. Infrarot-Teleskope wie das James-Webb-Teleskop helfen, sie aufzuspüren. In der Milchstraße gibt es vermutlich sehr viele davon."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist ein Brauner Zwerg kein richtiger Stern?",
+      "art": "mc",
+      "optionen": [
+        "Die Wasserstofffusion zündet nicht dauerhaft",
+        "Er ist zu heiß",
+        "Er besteht aus Eis",
+        "Er kreist um einen Planeten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür fehlt ihm Masse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schwer sind Braune Zwerge etwa?",
+      "art": "mc",
+      "optionen": [
+        "13- bis 80-mal so schwer wie Jupiter",
+        "So schwer wie der Mond",
+        "Tausendmal schwerer als die Sonne",
+        "So schwer wie die Erde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trotzdem sind sie ähnlich groß wie Jupiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Licht glühen sie vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Im Infrarotlicht",
+        "Im grünen Licht",
+        "Im Röntgenlicht allein",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb helfen Infrarot-Teleskope."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die ersten Braunen Zwerge wurden 1995 nachgewiesen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Heute kennt man Tausende."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Braune Zwerge liegen zwischen Planet und Stern.",
+        "Ihre Wasserstofffusion zündet nicht dauerhaft.",
+        "Sie glühen schwach im Infrarot.",
+        "1995 wurden die ersten nachgewiesen."
+      ]
+    }
+  ]
+}

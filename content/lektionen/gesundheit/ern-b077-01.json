@@ -1,0 +1,123 @@
+{
+  "id": "ern-b077-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Pak Choi?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pak-choi",
+    "kohl",
+    "asiatisches-gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knackige weiße Stiele, dunkelgrüne Blätter.",
+        "Pak Choi ist in vielen asiatischen Küchen ein Klassiker."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kohl aus China",
+      "absaetze": [
+        "Pak Choi ist ein chinesischer Kohl und gehört wie Brokkoli und Kohlrabi zu den Kreuzblütlern. Er bildet keinen festen Kopf, sondern lockere Stauden.",
+        "Er schmeckt mild und leicht senfartig. Inzwischen wird er auch in Deutschland angebaut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in ihm steckt",
+      "absaetze": [
+        "Pak Choi liefert Vitamin C, Vitamin K, Betacarotin und Folat. Er enthält zudem Kalzium.",
+        "Anders als Spinat enthält er wenig Oxalsäure. Der Körper kann das Kalzium daraus deshalb vergleichsweise gut verwerten."
+      ],
+      "merke": "Pak Choi liefert Kalzium, das der Körper gut verwerten kann.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell zubereitet",
+      "absaetze": [
+        "Pak Choi gart in wenigen Minuten. Brate zuerst die Stiele im Wok oder in der Pfanne an und gib die Blätter erst kurz vor Schluss dazu.",
+        "Junge, kleine Pflanzen kannst du halbiert und im Ganzen dünsten. Roh passen die zarten Blätter auch in Salate."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Pflanzenfamilie gehört Pak Choi?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Kreuzblütlern",
+        "Zu den Gräsern",
+        "Zu den Nachtschattengewächsen",
+        "Zu den Hülsenfrüchten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie Brokkoli und Kohlrabi."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann der Körper das Kalzium aus Pak Choi gut verwerten?",
+      "art": "mc",
+      "optionen": [
+        "Er enthält wenig Oxalsäure",
+        "Er enthält viel Zucker",
+        "Er ist sehr salzig",
+        "Er wird immer roh gegessen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oxalsäure würde Kalzium binden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bereitest du Pak Choi am besten zu?",
+      "art": "mc",
+      "optionen": [
+        "Erst die Stiele garen, dann die Blätter",
+        "Eine Stunde kochen",
+        "Nur einfrieren",
+        "Nur die Blätter verwenden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Blätter garen schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pak Choi gart in wenigen Minuten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er eignet sich gut für den Wok."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pak Choi ist ein chinesischer Kohl.",
+        "Er liefert Vitamin C, K und Kalzium.",
+        "Er enthält wenig Oxalsäure.",
+        "Er gart in wenigen Minuten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "umw-b077-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was passiert in einer Kläranlage?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Abwasser",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "klaeranlage",
+    "abwasser",
+    "gewaesserschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Spülen verschwindet das Wasser im Abfluss.",
+        "Bis es wieder in einen Fluss gelangt, durchläuft es mehrere Reinigungsstufen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mechanisch und biologisch",
+      "absaetze": [
+        "Zuerst hält ein Rechen grobe Dinge wie Tücher oder Äste zurück. In Becken setzen sich danach Sand und Schwebstoffe ab.",
+        "In der biologischen Stufe übernehmen Bakterien die Arbeit. Mit viel Luft bauen sie gelöste Schmutzstoffe ab. Das ist das Herzstück der Kläranlage."
+      ],
+      "merke": "Bakterien bauen in der Kläranlage den Großteil der Schmutzstoffe ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nährstoffe und Spurenstoffe",
+      "absaetze": [
+        "Zusätzlich werden Phosphor und Stickstoff entfernt. Sie würden sonst in Flüssen und Seen zu übermäßigem Algenwachstum führen.",
+        "Reste von Medikamenten oder Chemikalien lassen sich mit herkömmlichen Stufen kaum entfernen. Manche Anlagen haben deshalb eine vierte Reinigungsstufe, etwa mit Aktivkohle oder Ozon."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nicht ins Klo gehört",
+      "absaetze": [
+        "Feuchttücher, Wattestäbchen und Hygieneartikel verstopfen Pumpen und Rohre. Sie gehören in den Restmüll.",
+        "Auch Medikamente und Speisefett haben in der Toilette nichts verloren. Alte Medikamente entsorgst du meist über den Restmüll oder bei Apotheken, die sie zurücknehmen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert in der biologischen Stufe?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien bauen Schmutzstoffe ab",
+        "Das Wasser wird gefärbt",
+        "Es wird Salz zugegeben",
+        "Das Wasser wird verdampft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür brauchen sie viel Luft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden Phosphor und Stickstoff entfernt?",
+      "art": "mc",
+      "optionen": [
+        "Sie fördern übermäßiges Algenwachstum",
+        "Sie sind wertvoll als Schmuck",
+        "Sie riechen nach Zitrone",
+        "Sie machen das Wasser zu kalt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das würde Gewässer belasten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin gehören Feuchttücher?",
+      "art": "mc",
+      "optionen": [
+        "In den Restmüll",
+        "In die Toilette",
+        "In den Biomüll",
+        "Ins Waschbecken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie verstopfen sonst Pumpen und Rohre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Medikamentenreste lassen sich mit herkömmlichen Stufen leicht entfernen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür braucht es oft eine vierte Reinigungsstufe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rechen und Becken entfernen grobe Stoffe.",
+        "Bakterien bauen gelöste Schmutzstoffe ab.",
+        "Eine vierte Stufe entfernt Spurenstoffe.",
+        "Feuchttücher und Medikamente nicht ins Klo."
+      ]
+    }
+  ]
+}

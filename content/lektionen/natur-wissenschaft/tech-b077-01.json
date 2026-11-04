@@ -1,0 +1,121 @@
+{
+  "id": "tech-b077-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie misst ein Barometer den Luftdruck?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "barometer",
+    "luftdruck",
+    "wetter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über uns lastet eine kilometerhohe Säule aus Luft.",
+        "Ihr Gewicht misst ein Barometer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Luftdruck ist",
+      "absaetze": [
+        "Luft hat ein Gewicht. Die gesamte Luftschicht über uns drückt auf die Erdoberfläche. Das nennt man Luftdruck.",
+        "Auf Meereshöhe beträgt er im Mittel etwa 1013 Hektopascal. In den Bergen ist er niedriger, weil weniger Luft darüber liegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Quecksilber zur Dose",
+      "absaetze": [
+        "Im 17. Jahrhundert baute der Italiener Evangelista Torricelli das erste Barometer. Der Luftdruck hielt in einer Glasröhre eine Säule aus Quecksilber hoch. Stieg der Druck, stieg auch die Säule.",
+        "Heute sind Dosenbarometer verbreitet. Sie enthalten eine fast luftleere Metalldose. Bei steigendem Druck wird sie leicht zusammengedrückt, ein Zeiger zeigt das an."
+      ],
+      "merke": "Ein Dosenbarometer misst, wie stark der Luftdruck eine Metalldose zusammendrückt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wetter und Handys",
+      "absaetze": [
+        "Fällt der Luftdruck, nähert sich oft ein Tiefdruckgebiet. Dann wird das Wetter häufig wechselhaft. Steigender Druck deutet eher auf ruhiges Wetter hin.",
+        "Viele Smartphones haben einen winzigen Drucksensor. Er hilft, die Höhe genauer zu bestimmen, etwa auf welchem Stockwerk du bist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Luftdruck?",
+      "art": "mc",
+      "optionen": [
+        "Das Gewicht der Luft über uns",
+        "Die Geschwindigkeit des Windes",
+        "Die Temperatur der Luft",
+        "Die Menge an Regen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf Meereshöhe etwa 1013 Hektopascal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer baute im 17. Jahrhundert das erste Barometer?",
+      "art": "mc",
+      "optionen": [
+        "Evangelista Torricelli",
+        "Isaac Newton",
+        "Thomas Edison",
+        "Galileo Galilei allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er nutzte eine Quecksilbersäule."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deutet fallender Luftdruck oft an?",
+      "art": "mc",
+      "optionen": [
+        "Ein nahendes Tief mit wechselhaftem Wetter",
+        "Sicher Sonnenschein",
+        "Ein Erdbeben",
+        "Schnee im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Steigender Druck spricht eher für ruhiges Wetter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Smartphones haben einen Drucksensor.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er hilft bei der Höhenbestimmung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Luftdruck ist das Gewicht der Luft.",
+        "Torricelli baute das erste Barometer.",
+        "Dosenbarometer nutzen eine Metalldose.",
+        "Fallender Druck kündigt oft wechselhaftes Wetter an."
+      ]
+    }
+  ]
+}

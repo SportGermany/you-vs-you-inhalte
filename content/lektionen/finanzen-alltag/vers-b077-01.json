@@ -1,0 +1,121 @@
+{
+  "id": "vers-b077-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt, wenn der Unfallverursacher flüchtet?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hilfe für Verkehrsopfer",
+      "herausgeber": "Verkehrsopferhilfe e.V.",
+      "url": "https://www.verkehrsopferhilfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "unfallflucht",
+    "verkehrsopferhilfe",
+    "kfz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du kommst zurück zum Auto, und die Tür ist eingedellt.",
+        "Vom Verursacher fehlt jede Spur."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unfallflucht ist strafbar",
+      "absaetze": [
+        "Wer einen Unfall verursacht und einfach wegfährt, macht sich strafbar. Nach einem Unfall musst du eine angemessene Zeit warten oder die Polizei verständigen.",
+        "Ein Zettel hinter dem Scheibenwischer reicht nicht. Er gilt nicht als ausreichende Meldung."
+      ],
+      "merke": "Ein Zettel am Scheibenwischer genügt nach einem Unfall nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du als Geschädigter tun solltest",
+      "absaetze": [
+        "Ruf die Polizei und erstatte Anzeige. Mach Fotos vom Schaden und frage nach Zeugen. Vielleicht hat jemand das Kennzeichen gesehen.",
+        "Wird der Verursacher gefunden, zahlt seine Kfz-Haftpflichtversicherung den Schaden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Täter unbekannt bleibt",
+      "absaetze": [
+        "Für Verletzungen springt die Verkehrsopferhilfe ein. Sie ist eine Einrichtung der Versicherungswirtschaft.",
+        "Schäden am eigenen Auto übernimmt sie nur in Ausnahmefällen. Meist bleibt dir nur die eigene Vollkasko. Dann musst du oft eine Selbstbeteiligung zahlen und wirst im Schadenfreiheitsrabatt zurückgestuft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reicht nach einem Parkrempler ein Zettel am Scheibenwischer?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das ist keine ausreichende Meldung",
+        "Ja, immer",
+        "Nur nachts",
+        "Nur bei kleinen Schäden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Warte oder verständige die Polizei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt, wenn der Verursacher gefunden wird?",
+      "art": "mc",
+      "optionen": [
+        "Seine Kfz-Haftpflicht",
+        "Die Stadt",
+        "Deine Hausrat",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb lohnt sich die Anzeige."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer hilft bei Verletzungen, wenn der Täter unbekannt bleibt?",
+      "art": "mc",
+      "optionen": [
+        "Die Verkehrsopferhilfe",
+        "Das Finanzamt",
+        "Der ADAC immer",
+        "Die Rentenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist eine Einrichtung der Versicherungswirtschaft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schäden am eigenen Auto zahlt bei unbekanntem Täter meist die eigene Vollkasko.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft mit Selbstbeteiligung und Rückstufung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Unfallflucht ist strafbar.",
+        "Ein Zettel am Auto genügt nicht.",
+        "Polizei rufen, Fotos machen, Zeugen suchen.",
+        "Bei unbekanntem Täter hilft oft nur die Vollkasko."
+      ]
+    }
+  ]
+}
