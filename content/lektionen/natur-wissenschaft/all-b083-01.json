@@ -1,0 +1,121 @@
+{
+  "id": "all-b083-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie funktioniert ein Sonnensegel im All?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnensegel",
+    "raumfahrt",
+    "lichtdruck"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Segel im Weltraum, angetrieben vom Licht.",
+        "Das klingt nach Science-Fiction, funktioniert aber wirklich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht erzeugt Druck",
+      "absaetze": [
+        "Licht besteht aus Teilchen, den Photonen. Treffen sie auf eine Fläche und werden zurückgeworfen, üben sie einen winzigen Druck aus. Das nennt man Strahlungsdruck.",
+        "Ein Sonnensegel ist eine sehr große, hauchdünne und spiegelnde Folie. Sie fängt diesen Druck ein und wird dadurch beschleunigt."
+      ],
+      "merke": "Zurückgeworfenes Sonnenlicht erzeugt einen winzigen Druck auf das Segel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Langsam, aber ohne Treibstoff",
+      "absaetze": [
+        "Der Schub ist sehr klein, wirkt aber dauerhaft. Über Monate und Jahre kann ein Segel dadurch sehr hohe Geschwindigkeiten erreichen.",
+        "Der große Vorteil: Es braucht keinen Treibstoff. Je weiter weg von der Sonne, desto schwächer wird der Antrieb allerdings."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schon im All getestet",
+      "absaetze": [
+        "2010 entfaltete die japanische Sonde IKAROS das erste Sonnensegel, das einen Raumflug antrieb. Später zeigten die LightSail-Missionen einer Weltraumgesellschaft die Technik ebenfalls.",
+        "Sonnensegel sind kein Antrieb für schwere Transporte. Für kleine Sonden und lange Missionen gelten sie aber als vielversprechend."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was treibt ein Sonnensegel an?",
+      "art": "mc",
+      "optionen": [
+        "Der Druck von zurückgeworfenem Licht",
+        "Sonnenwärme",
+        "Magnetfelder",
+        "Treibstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man nennt das Strahlungsdruck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der große Vorteil?",
+      "art": "mc",
+      "optionen": [
+        "Es braucht keinen Treibstoff",
+        "Es ist sofort sehr schnell",
+        "Es funktioniert überall gleich gut",
+        "Es kann schwere Lasten tragen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schub ist klein, aber dauerhaft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sonde entfaltete 2010 das erste antreibende Sonnensegel?",
+      "art": "mc",
+      "optionen": [
+        "IKAROS",
+        "Voyager 1",
+        "Rosetta",
+        "Juno"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kam aus Japan."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Weiter von der Sonne entfernt wird der Antrieb schwächer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Licht wird dort schwächer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Licht erzeugt einen winzigen Druck.",
+        "Ein Sonnensegel nutzt diesen Druck.",
+        "Es braucht keinen Treibstoff.",
+        "2010 flog IKAROS mit einem Sonnensegel."
+      ]
+    }
+  ]
+}

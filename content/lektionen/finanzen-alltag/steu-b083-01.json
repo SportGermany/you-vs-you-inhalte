@@ -1,0 +1,121 @@
+{
+  "id": "steu-b083-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie viele Rentenpunkte brauchst du?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rente und Beiträge",
+      "herausgeber": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rentenpunkte",
+    "rente",
+    "entgeltpunkte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Renteninformation stehen Punkte statt Euro.",
+        "Was bedeuten sie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Punkte für dein Einkommen",
+      "absaetze": [
+        "Die gesetzliche Rente rechnet mit Entgeltpunkten, umgangssprachlich Rentenpunkten. Wer in einem Jahr genau so viel verdient wie der Durchschnitt aller Versicherten, bekommt einen Punkt.",
+        "Verdienst du halb so viel, gibt es einen halben Punkt. Verdienst du doppelt so viel, gibt es zwei Punkte, allerdings nur bis zu einer Beitragsgrenze."
+      ],
+      "merke": "Ein Rentenpunkt entspricht einem Jahr mit Durchschnittsverdienst."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Punkt zur Rente",
+      "absaetze": [
+        "Am Ende werden alle Punkte addiert und mit dem aktuellen Rentenwert multipliziert. Dieser Wert gibt an, wie viel Euro Monatsrente ein Punkt bringt. Er wird jährlich angepasst.",
+        "Punkte gibt es nicht nur für Arbeit. Auch Kindererziehung, Pflege, Krankheit oder Arbeitslosigkeit können Punkte oder Zeiten bringen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Prüfe deine Renteninformation und deinen Versicherungsverlauf. Fehlen Zeiten, etwa Ausbildung oder Kindererziehung, kannst du sie klären lassen.",
+        "Die Deutsche Rentenversicherung berät kostenlos. Für die gesetzliche Rente gilt: Mindestens fünf Jahre Beitragszeit sind nötig, damit überhaupt ein Anspruch entsteht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann bekommst du einen Rentenpunkt?",
+      "art": "mc",
+      "optionen": [
+        "Bei einem Jahr mit Durchschnittsverdienst",
+        "Für jedes Jahr Arbeit unabhängig vom Lohn",
+        "Für jedes Lebensjahr",
+        "Nur mit Beamtenstatus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Halb so viel Lohn bringt einen halben Punkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird aus Punkten eine Rente?",
+      "art": "mc",
+      "optionen": [
+        "Punkte mal aktueller Rentenwert",
+        "Punkte plus Lebensalter",
+        "Punkte durch Arbeitsjahre",
+        "Punkte mal Steuersatz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Rentenwert wird jährlich angepasst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür gibt es außer Arbeit noch Punkte oder Zeiten?",
+      "art": "mc",
+      "optionen": [
+        "Für Kindererziehung und Pflege",
+        "Für Urlaubsreisen",
+        "Für Sportvereine",
+        "Für Spenden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Krankheit und Arbeitslosigkeit zählen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für einen Rentenanspruch sind mindestens fünf Jahre Beitragszeit nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das nennt man Wartezeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rentenpunkte richten sich nach deinem Verdienst.",
+        "Ein Durchschnittsjahr bringt einen Punkt.",
+        "Punkte mal Rentenwert ergibt die Rente.",
+        "Mindestens fünf Jahre Beitragszeit sind nötig."
+      ]
+    }
+  ]
+}

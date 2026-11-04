@@ -1,0 +1,121 @@
+{
+  "id": "tech-b083-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Blitzableiter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik verstehen",
+      "herausgeber": "Deutsche Physikalische Gesellschaft",
+      "url": "https://www.dpg-physik.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blitzableiter",
+    "gewitter",
+    "schutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Metallstab auf dem Dach soll ein Haus vor einem Blitz schützen.",
+        "Er zieht den Blitz nicht an, er gibt ihm einen Weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein geplanter Weg für den Strom",
+      "absaetze": [
+        "Ein Blitz sucht den leichtesten Weg zur Erde. Ein Blitzableiter bietet ihm einen Weg aus gut leitendem Metall. Oben am Gebäude sitzen Fangstangen, unten verbinden Leitungen sie mit Erdungsstäben im Boden.",
+        "Der Strom fließt dann außen am Haus vorbei in die Erde, statt durch Mauern, Leitungen oder Menschen."
+      ],
+      "merke": "Der Blitzableiter leitet den Strom außen am Haus vorbei in die Erde."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine alte Erfindung",
+      "absaetze": [
+        "Benjamin Franklin erforschte im 18. Jahrhundert Blitze und entwickelte den Blitzableiter. Zuvor brannten viele Kirchtürme und Häuser nach Blitzeinschlägen ab.",
+        "Heute gehört zu einem Blitzschutz auch ein innerer Schutz. Überspannungsschutz sichert Elektronik, weil ein Einschlag in der Nähe Spannungsspitzen im Stromnetz erzeugen kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo er Pflicht ist",
+      "absaetze": [
+        "Für Wohnhäuser ist ein Blitzschutz in Deutschland meist nicht vorgeschrieben. Bei besonders hohen oder gefährdeten Gebäuden, etwa Schulen, Krankenhäusern oder Kirchen, ist er aber verlangt.",
+        "Ein Blitzableiter schützt das Gebäude. Bei Gewitter solltest du trotzdem nicht im Freien bleiben. Im Auto bist du relativ sicher, weil die Karosserie den Strom außen herumleitet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Blitzableiter?",
+      "art": "mc",
+      "optionen": [
+        "Er leitet den Strom in die Erde",
+        "Er zieht Blitze an",
+        "Er stößt Blitze ab",
+        "Er erzeugt Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Außen am Gebäude vorbei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entwickelte den Blitzableiter?",
+      "art": "mc",
+      "optionen": [
+        "Benjamin Franklin",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alessandro Volta"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im 18. Jahrhundert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt Elektronik bei einem Einschlag in der Nähe?",
+      "art": "mc",
+      "optionen": [
+        "Überspannungsschutz",
+        "Ein zweiter Blitzableiter",
+        "Eine dicke Wand",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gehört zum inneren Blitzschutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Auto ist man bei Gewitter relativ sicher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Karosserie leitet den Strom außen herum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Blitzableiter gibt dem Strom einen Weg.",
+        "Fangstangen und Erdung leiten ihn ins Erdreich.",
+        "Benjamin Franklin entwickelte ihn.",
+        "Überspannungsschutz sichert Elektronik."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b083-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Woher kommt Nachtschweiß?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nachtschweiss",
+    "schwitzen",
+    "warnzeichen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten in der Nacht wachst du auf, und das Laken ist durchgeschwitzt.",
+        "Manchmal liegt es am Zimmer, manchmal an mehr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oft harmlose Gründe",
+      "absaetze": [
+        "Viele nächtliche Schweißausbrüche haben einfache Ursachen. Ein zu warmes Zimmer, eine dicke Decke, Alkohol oder scharfes Essen am Abend können schon reichen.",
+        "Fachleute empfehlen für das Schlafzimmer eine kühlere Temperatur, meist um 18 Grad. Atmungsaktive Bettwäsche hilft ebenfalls."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hormone und Medikamente",
+      "absaetze": [
+        "In den Wechseljahren sind Hitzewallungen in der Nacht häufig. Auch eine Schilddrüsenüberfunktion oder ein zu niedriger Blutzucker können Schwitzen auslösen.",
+        "Manche Medikamente haben Nachtschweiß als Nebenwirkung, etwa bestimmte Mittel gegen Depressionen oder Fiebersenker."
+      ],
+      "merke": "Hormone, Blutzucker und Medikamente können Nachtschweiß auslösen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann ärztlich abklären",
+      "absaetze": [
+        "Starker Nachtschweiß zusammen mit Fieber, ungewolltem Gewichtsverlust oder geschwollenen Lymphknoten sollte zügig ärztlich abgeklärt werden. Diese Kombination nennen Fachleute B-Symptomatik.",
+        "Dahinter können Infektionen oder ernste Erkrankungen stecken. Auch wenn du über Wochen ohne Erklärung nachts stark schwitzt, ist ein Arztbesuch sinnvoll."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Temperatur empfehlen Fachleute fürs Schlafzimmer meist?",
+      "art": "mc",
+      "optionen": [
+        "Um 18 Grad",
+        "Um 25 Grad",
+        "Unter 5 Grad",
+        "Genau 30 Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein zu warmes Zimmer fördert Schwitzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche hormonelle Ursache ist häufig?",
+      "art": "mc",
+      "optionen": [
+        "Die Wechseljahre",
+        "Zu viel Vitamin C",
+        "Eine Allergie gegen Bettwäsche",
+        "Kalte Füße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch die Schilddrüse kann beteiligt sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kombination solltest du zügig abklären lassen?",
+      "art": "mc",
+      "optionen": [
+        "Nachtschweiß mit Fieber und Gewichtsverlust",
+        "Nachtschweiß nach dem Sport",
+        "Nachtschweiß im Sommer",
+        "Nachtschweiß nach scharfem Essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fachleute nennen das B-Symptomatik."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alkohol am Abend kann nächtliches Schwitzen fördern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch scharfes Essen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachtschweiß hat oft harmlose Ursachen.",
+        "Kühles Zimmer und leichte Decke helfen.",
+        "Hormone und Medikamente können beteiligt sein.",
+        "Mit Fieber und Gewichtsverlust rasch abklären lassen."
+      ]
+    }
+  ]
+}

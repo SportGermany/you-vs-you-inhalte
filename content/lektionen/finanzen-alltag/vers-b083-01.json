@@ -1,0 +1,127 @@
+{
+  "id": "vers-b083-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bedeuten die Pflegegrade?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflege",
+      "herausgeber": "Bundesministerium für Gesundheit",
+      "url": "https://www.bundesgesundheitsministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pflegegrad",
+    "pflegeversicherung",
+    "begutachtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer Pflege braucht, bekommt Leistungen nach Pflegegraden.",
+        "Doch wie wird festgelegt, welcher Grad gilt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fünf Grade",
+      "absaetze": [
+        "Es gibt die Pflegegrade 1 bis 5. Grad 1 bedeutet eine geringe Beeinträchtigung der Selbstständigkeit, Grad 5 die schwerste.",
+        "Je höher der Grad, desto mehr Leistungen gibt es, etwa Pflegegeld, Pflegedienste oder Zuschüsse für ein Pflegeheim."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie begutachtet wird",
+      "absaetze": [
+        "Den Antrag stellst du bei der Pflegekasse. Danach kommt ein Gutachter oder eine Gutachterin nach Hause. Bei privat Versicherten übernimmt das ein anderer Dienst.",
+        "Begutachtet wird nicht die Krankheit, sondern die Selbstständigkeit in sechs Bereichen, etwa Mobilität, geistige Fähigkeiten und Selbstversorgung. Daraus ergibt sich eine Punktzahl und der Pflegegrad."
+      ],
+      "merke": "Entscheidend ist die Selbstständigkeit, nicht die Diagnose."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut vorbereiten",
+      "absaetze": [
+        "Führe vorher einige Tage ein Pflegetagebuch. Notiere, wobei wie viel Hilfe nötig ist. Eine vertraute Person sollte beim Termin dabei sein.",
+        "Gegen einen Bescheid kannst du innerhalb eines Monats Widerspruch einlegen. Pflegeberatung gibt es kostenlos, etwa bei Pflegestützpunkten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Pflegegrade gibt es?",
+      "art": "mc",
+      "optionen": [
+        "Fünf",
+        "Drei",
+        "Zehn",
+        "Zwei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grad 5 ist der höchste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird bei der Begutachtung beurteilt?",
+      "art": "mc",
+      "optionen": [
+        "Die Selbstständigkeit in sechs Bereichen",
+        "Nur die Diagnose",
+        "Das Einkommen",
+        "Die Wohnungsgröße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus ergibt sich eine Punktzahl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei der Vorbereitung?",
+      "art": "mc",
+      "optionen": [
+        "Ein Pflegetagebuch",
+        "Ein neues Bett",
+        "Ein Attest vom Zahnarzt",
+        "Ein Kontoauszug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Notiere, wobei wie viel Hilfe nötig ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegen den Bescheid kannst du Widerspruch einlegen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Innerhalb eines Monats."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Es gibt die Pflegegrade 1 bis 5.",
+        "Begutachtet wird die Selbstständigkeit.",
+        "Ein Pflegetagebuch hilft bei der Vorbereitung.",
+        "Gegen den Bescheid ist Widerspruch möglich."
+      ]
+    }
+  ]
+}

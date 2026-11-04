@@ -1,0 +1,127 @@
+{
+  "id": "geld-b083-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Wohnungseigentümergemeinschaft?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wohnungseigentumsrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "weg",
+    "eigentumswohnung",
+    "hausgeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer eine Eigentumswohnung kauft, kauft mehr als vier Wände.",
+        "Man wird Teil einer Gemeinschaft mit Rechten und Pflichten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemeinsam und getrennt",
+      "absaetze": [
+        "Alle Eigentümer eines Hauses bilden zusammen die Wohnungseigentümergemeinschaft, kurz WEG. Jeder besitzt seine Wohnung als Sondereigentum.",
+        "Dach, Treppenhaus, Fassade, Heizung und Grundstück gehören allen gemeinsam. Entscheidungen darüber trifft die Gemeinschaft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hausgeld und Rücklage",
+      "absaetze": [
+        "Jeden Monat zahlen Eigentümer Hausgeld. Daraus werden laufende Kosten bezahlt, etwa Hausmeister, Versicherung und Heizung. Ein Teil fließt in die Instandhaltungsrücklage.",
+        "Steht eine große Reparatur an und reicht die Rücklage nicht, beschließt die Gemeinschaft eine Sonderzahlung. Das kann schnell teuer werden."
+      ],
+      "merke": "Reicht die Rücklage nicht, kann eine Sonderzahlung fällig werden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verwaltung und Versammlung",
+      "absaetze": [
+        "Meist beauftragt die Gemeinschaft eine Verwaltung. Einmal im Jahr findet eine Eigentümerversammlung statt. Dort werden Abrechnung, Wirtschaftsplan und größere Maßnahmen beschlossen.",
+        "Vor dem Kauf lohnt es sich, Protokolle der letzten Versammlungen und die Höhe der Rücklage zu prüfen. Sie verraten viel über den Zustand des Hauses."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Sondereigentum?",
+      "art": "mc",
+      "optionen": [
+        "Die eigene Wohnung",
+        "Das Treppenhaus",
+        "Das Dach",
+        "Der Garten aller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeinschaftliche Teile gehören allen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird das Hausgeld verwendet?",
+      "art": "mc",
+      "optionen": [
+        "Für laufende Kosten und die Rücklage",
+        "Nur für die eigene Wohnung",
+        "Für die Grundsteuer allein",
+        "Für den Makler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Hausmeister, Versicherung, Heizung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn die Rücklage für eine Reparatur nicht reicht?",
+      "art": "mc",
+      "optionen": [
+        "Die Gemeinschaft beschließt eine Sonderzahlung",
+        "Der Staat zahlt",
+        "Die Reparatur entfällt immer",
+        "Die Verwaltung zahlt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann teuer werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor dem Kauf lohnt ein Blick in alte Versammlungsprotokolle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie verraten viel über das Haus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alle Eigentümer bilden die WEG.",
+        "Die Wohnung ist Sondereigentum.",
+        "Hausgeld deckt Kosten und Rücklage.",
+        "Protokolle und Rücklage vor dem Kauf prüfen."
+      ]
+    }
+  ]
+}

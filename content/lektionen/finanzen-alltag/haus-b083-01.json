@@ -1,0 +1,121 @@
+{
+  "id": "haus-b083-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du einen Teppich?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "teppich",
+    "flecken",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Teppich macht Räume gemütlich.",
+        "Er sammelt aber auch Staub, Krümel und Flecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig saugen",
+      "absaetze": [
+        "Sauge Teppiche mindestens einmal pro Woche, bei viel Betrieb öfter. Mehrmaliges Saugen in verschiedenen Richtungen holt mehr Staub aus den Fasern.",
+        "Hochflorige Teppiche brauchen eine passende Düse. Bei Teppichen mit Fransen saugst du besser mit einer Polsterdüse, damit sie nicht einreißen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Flecken schnell behandeln",
+      "absaetze": [
+        "Nimm frische Flecken sofort mit einem Tuch auf. Tupfe von außen nach innen, statt zu reiben. Reiben drückt den Fleck tiefer in die Fasern.",
+        "Oft reicht lauwarmes Wasser mit wenig Spülmittel. Teste jedes Mittel zuerst an einer versteckten Stelle, etwa unter dem Sofa."
+      ],
+      "merke": "Flecken tupfen, nicht reiben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gründliche Reinigung",
+      "absaetze": [
+        "Für eine Grundreinigung kannst du Teppichschaum oder ein Waschgerät mieten. Arbeite nicht zu nass, und lass den Teppich danach gut trocknen. Sonst kann er muffig riechen oder schimmeln.",
+        "Echte Orientteppiche und empfindliche Materialien wie Seide gehören in eine Fachreinigung. Manche kleinen Teppiche darfst du laut Etikett waschen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du Teppiche mindestens saugen?",
+      "art": "mc",
+      "optionen": [
+        "Einmal pro Woche",
+        "Einmal im Jahr",
+        "Nur bei Flecken",
+        "Täglich zwingend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei viel Betrieb öfter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie behandelst du einen frischen Fleck?",
+      "art": "mc",
+      "optionen": [
+        "Von außen nach innen tupfen",
+        "Kräftig reiben",
+        "Mit heißem Wasser übergießen",
+        "Bürsten mit Stahlbürste"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reiben drückt den Fleck tiefer ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei der Grundreinigung beachten?",
+      "art": "mc",
+      "optionen": [
+        "Nicht zu nass arbeiten und gut trocknen lassen",
+        "Möglichst viel Wasser verwenden",
+        "Den Teppich einfrieren",
+        "Ihn in der Sonne bleichen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst riecht er muffig oder schimmelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Empfindliche Teppiche wie Seide gehören in eine Fachreinigung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch echte Orientteppiche."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Regelmäßig und in mehreren Richtungen saugen.",
+        "Flecken sofort tupfen, nicht reiben.",
+        "Mittel erst an versteckter Stelle testen.",
+        "Nach der Reinigung gut trocknen lassen."
+      ]
+    }
+  ]
+}

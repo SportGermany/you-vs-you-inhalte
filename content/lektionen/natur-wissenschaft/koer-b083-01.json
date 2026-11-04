@@ -1,0 +1,128 @@
+{
+  "id": "koer-b083-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum wachsen Haare unterschiedlich schnell?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haare",
+    "wachstum",
+    "haarzyklus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kopfhaare werden lang, Wimpern bleiben kurz.",
+        "Der Grund liegt im Lebenszyklus jedes Haares."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Drei Phasen",
+      "absaetze": [
+        "Jedes Haar durchläuft drei Phasen. In der Wachstumsphase wird es länger. Danach folgt eine kurze Übergangsphase, dann eine Ruhephase. Am Ende fällt das Haar aus, und ein neues wächst nach.",
+        "Entscheidend für die Länge ist, wie lange die Wachstumsphase dauert. Bei Kopfhaaren sind es Jahre, bei Wimpern und Augenbrauen nur wenige Monate."
+      ],
+      "merke": "Die Länge eines Haares hängt von der Dauer seiner Wachstumsphase ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Etwa ein Zentimeter pro Monat",
+      "absaetze": [
+        "Kopfhaare wachsen im Durchschnitt rund einen Zentimeter im Monat. Das ist bei den meisten Menschen ähnlich, auch wenn es kleine Unterschiede gibt.",
+        "Weil die Wachstumsphase begrenzt ist, erreichen Haare eine maximale Länge. Bei vielen Menschen liegt sie zwischen Hüfte und Knie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Wachstum beeinflusst",
+      "absaetze": [
+        "Gene bestimmen am stärksten, wie schnell und wie lange Haare wachsen. Auch Hormone und das Alter spielen eine Rolle.",
+        "Ein ausgeprägter Mangel an Eisen, Eiweiß oder Zink kann Haare schwächen. Zusätzliche Präparate lassen Haare bei guter Versorgung aber nicht schneller wachsen. Häufiges Schneiden übrigens auch nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Häufiges Schneiden lässt Haare schneller wachsen.",
+      "urteil": "mythos",
+      "erklaerung": "Haare wachsen an der Wurzel in der Kopfhaut, nicht an den Spitzen. Schneiden verändert das Wachstum nicht. Es entfernt aber Spliss. Dadurch brechen die Haare weniger ab und sehen gesünder aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt die maximale Länge eines Haares ab?",
+      "art": "mc",
+      "optionen": [
+        "Von der Dauer der Wachstumsphase",
+        "Von der Haarfarbe",
+        "Von der Jahreszeit",
+        "Von der Frisur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Wimpern ist sie kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell wachsen Kopfhaare etwa?",
+      "art": "mc",
+      "optionen": [
+        "Rund einen Zentimeter im Monat",
+        "Zehn Zentimeter im Monat",
+        "Einen Millimeter im Jahr",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei den meisten Menschen ähnlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bestimmt das Haarwachstum am stärksten?",
+      "art": "mc",
+      "optionen": [
+        "Die Gene",
+        "Die Shampoomarke",
+        "Das Wetter",
+        "Die Kopfbedeckung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Hormone und Alter spielen eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Häufiges Schneiden lässt Haare schneller wachsen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Haare wachsen an der Wurzel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Haare durchlaufen Wachstums- und Ruhephasen.",
+        "Die Wachstumsphase bestimmt die Länge.",
+        "Kopfhaare wachsen rund einen Zentimeter im Monat.",
+        "Schneiden beschleunigt das Wachstum nicht."
+      ]
+    }
+  ]
+}
