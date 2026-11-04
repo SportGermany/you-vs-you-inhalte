@@ -1,0 +1,121 @@
+{
+  "id": "haus-b080-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du den Strahlregler am Wasserhahn?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "strahlregler",
+    "kalk",
+    "wasserhahn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Wasserstrahl spritzt plötzlich in alle Richtungen.",
+        "Oft ist der Strahlregler am Wasserhahn verkalkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein kleines Sieb mit großer Wirkung",
+      "absaetze": [
+        "Am Ende vieler Wasserhähne sitzt ein Strahlregler, oft auch Perlator genannt. Er mischt dem Wasser Luft bei. So wird der Strahl weich und gleichmäßig, und es spritzt weniger.",
+        "Mit der Zeit setzen sich Kalk und kleine Schmutzteilchen in den feinen Sieben fest. Dann wird der Strahl schwächer oder unregelmäßig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So reinigst du ihn",
+      "absaetze": [
+        "Schraube den Strahlregler ab. Er lässt sich meist mit der Hand drehen. Bei festsitzenden Reglern hilft eine Zange, mit einem Tuch dazwischen, damit nichts verkratzt.",
+        "Leg die Teile für einige Stunden in Essigwasser oder eine Lösung aus Zitronensäure. Bürste den gelösten Kalk danach mit einer alten Zahnbürste ab und spüle alles gut."
+      ],
+      "merke": "Essigwasser oder Zitronensäure lösen Kalk im Strahlregler."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gleich Wasser sparen",
+      "absaetze": [
+        "Strahlregler gibt es auch als Sparvariante. Sie lassen pro Minute weniger Wasser durch, ohne dass der Strahl schwach wirkt.",
+        "Das spart Wasser und, beim Warmwasser, auch Energie. Ein Austausch kostet oft nur wenige Euro."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Strahlregler?",
+      "art": "mc",
+      "optionen": [
+        "Er mischt dem Wasser Luft bei",
+        "Er heizt das Wasser",
+        "Er färbt das Wasser",
+        "Er filtert Bakterien vollständig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch wird der Strahl weich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran merkst du einen verkalkten Strahlregler?",
+      "art": "mc",
+      "optionen": [
+        "Der Strahl spritzt oder wird schwächer",
+        "Das Wasser wird warm",
+        "Der Hahn wird lauter",
+        "Das Wasser schmeckt süß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kalk verstopft die Siebe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit löst du den Kalk?",
+      "art": "mc",
+      "optionen": [
+        "Mit Essigwasser oder Zitronensäure",
+        "Mit Öl",
+        "Mit Salz",
+        "Mit Milch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach mit einer Zahnbürste abbürsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Spar-Strahlregler senken den Wasserverbrauch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Beim Warmwasser sparen sie auch Energie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Strahlregler mischt Luft ins Wasser.",
+        "Kalk verstopft mit der Zeit die Siebe.",
+        "Essig oder Zitronensäure lösen den Kalk.",
+        "Sparmodelle senken den Verbrauch."
+      ]
+    }
+  ]
+}

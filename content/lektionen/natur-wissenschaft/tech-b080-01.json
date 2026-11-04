@@ -1,0 +1,121 @@
+{
+  "id": "tech-b080-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie lädt ein Handy ohne Kabel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik verstehen",
+      "herausgeber": "Deutsche Physikalische Gesellschaft",
+      "url": "https://www.dpg-physik.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kabellos-laden",
+    "induktion",
+    "smartphone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Handy auflegen, und es lädt.",
+        "Ganz ohne Stecker funktioniert das mit einem Trick aus der Physik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Spulen",
+      "absaetze": [
+        "In der Ladeschale steckt eine Drahtspule. Fließt Wechselstrom hindurch, entsteht ein wechselndes Magnetfeld.",
+        "Auch im Handy sitzt eine Spule. Das wechselnde Magnetfeld erzeugt in ihr einen Strom, der den Akku lädt. Dieses Prinzip heißt Induktion."
+      ],
+      "merke": "Kabelloses Laden nutzt Induktion zwischen zwei Spulen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein gemeinsamer Standard",
+      "absaetze": [
+        "Damit verschiedene Geräte zusammenpassen, gibt es einen weltweiten Standard namens Qi. Die meisten modernen Smartphones und Ladeschalen unterstützen ihn.",
+        "Wichtig ist, dass die Spulen gut übereinanderliegen. Manche Geräte haben Magnete, die das Handy in die richtige Position ziehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bequem, aber weniger effizient",
+      "absaetze": [
+        "Beim kabellosen Laden geht mehr Energie als Wärme verloren als beim Kabel. Das Handy wird dabei oft spürbar warm.",
+        "Für den Akku ist große Hitze ungünstig. Leg das Handy deshalb nicht in die pralle Sonne und entferne dicke Hüllen, wenn es sehr heiß wird."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Prinzip nutzt kabelloses Laden?",
+      "art": "mc",
+      "optionen": [
+        "Induktion",
+        "Solarenergie",
+        "Ultraschall",
+        "Reibung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein wechselndes Magnetfeld erzeugt Strom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der weltweite Standard?",
+      "art": "mc",
+      "optionen": [
+        "Qi",
+        "USB-Z",
+        "Wi-Lade",
+        "Blue-Power"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die meisten Geräte unterstützen ihn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist kabelloses Laden weniger effizient?",
+      "art": "mc",
+      "optionen": [
+        "Mehr Energie geht als Wärme verloren",
+        "Der Akku wird größer",
+        "Das Handy wird leichter",
+        "Es braucht kein Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Handy wird oft warm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Spulen in Ladeschale und Handy sollten gut übereinanderliegen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Manche Geräte nutzen dafür Magnete."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kabelloses Laden nutzt Induktion.",
+        "Zwei Spulen übertragen die Energie.",
+        "Der Qi-Standard sorgt für Kompatibilität.",
+        "Es entsteht mehr Wärme als beim Kabel."
+      ]
+    }
+  ]
+}

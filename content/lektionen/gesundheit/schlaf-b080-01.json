@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b080-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft Hypnose beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hypnose",
+    "einschlafen",
+    "entspannung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine ruhige Stimme, die dich in Gedanken an einen Strand führt.",
+        "Schlaf-Hypnosen gibt es als Apps und Videos zu Tausenden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Hypnose ist",
+      "absaetze": [
+        "Hypnose ist ein Zustand tiefer Konzentration und Entspannung. Die Aufmerksamkeit richtet sich stark nach innen. Man schläft dabei nicht, ist aber besonders offen für Vorstellungen und Vorschläge.",
+        "Nicht alle Menschen sprechen gleich gut darauf an. Manche lassen sich leicht in diesen Zustand führen, andere kaum."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung sagt",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass Hypnose-Aufnahmen bei manchen Menschen den Tiefschlaf verlängern oder das Einschlafen erleichtern könnten. Vor allem bei Menschen, die gut auf Hypnose ansprechen.",
+        "Die Studienlage ist aber dünn. Ob Hypnose bei echten Schlafstörungen zuverlässig hilft, ist nicht ausreichend belegt."
+      ],
+      "merke": "Ob Hypnose zuverlässig beim Schlafen hilft, ist nicht ausreichend belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Baustein von vielen",
+      "absaetze": [
+        "Als Entspannungsübung am Abend kann eine Hypnose-Aufnahme angenehm sein, ähnlich wie eine Fantasiereise.",
+        "Bei länger anhaltenden Schlafstörungen gilt eine spezielle Verhaltenstherapie für Schlaf als am besten untersucht. Sprich darüber mit deiner Ärztin oder deinem Arzt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Hypnose?",
+      "art": "mc",
+      "optionen": [
+        "Ein Zustand tiefer Konzentration und Entspannung",
+        "Eine Form von Schlaf",
+        "Eine Narkose",
+        "Ein Medikament"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man schläft dabei nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist belegt, dass Hypnose bei Schlafproblemen hilft?",
+      "art": "mc",
+      "optionen": [
+        "Nur schwach durch kleine Studien",
+        "Sehr gut",
+        "Eindeutig widerlegt",
+        "Gar nicht untersucht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studienlage ist dünn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei anhaltenden Schlafstörungen als am besten untersucht?",
+      "art": "mc",
+      "optionen": [
+        "Eine spezielle Verhaltenstherapie für Schlaf",
+        "Hypnose-Videos",
+        "Mehr Kaffee am Abend",
+        "Schlafen am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sprich darüber mit deiner Ärztin oder deinem Arzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle Menschen sprechen gleich gut auf Hypnose an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Manche lassen sich leicht hypnotisieren, andere kaum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hypnose ist tiefe, nach innen gerichtete Entspannung.",
+        "Nicht alle sprechen gleich gut darauf an.",
+        "Belege für besseren Schlaf sind schwach.",
+        "Bei Schlafstörungen gibt es besser untersuchte Hilfen."
+      ]
+    }
+  ]
+}

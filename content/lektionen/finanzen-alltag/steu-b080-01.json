@@ -1,0 +1,121 @@
+{
+  "id": "steu-b080-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was passiert, wenn die Steuererklärung zu spät kommt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuererklaerung",
+    "frist",
+    "verspaetungszuschlag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Juli ist vorbei, und die Steuererklärung ist noch nicht fertig.",
+        "Was droht jetzt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer eine Frist hat",
+      "absaetze": [
+        "Nicht jeder muss eine Steuererklärung abgeben. Wer dazu verpflichtet ist, muss sie normalerweise bis Ende Juli des folgenden Jahres einreichen. Mit Steuerberatung oder Lohnsteuerhilfeverein gelten längere Fristen.",
+        "Wer freiwillig abgibt, hat dafür vier Jahre Zeit. Für die Steuer eines Jahres kannst du also bis Ende des vierten Folgejahres noch abgeben."
+      ],
+      "merke": "Für freiwillige Steuererklärungen hast du vier Jahre Zeit."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Verspätungszuschlag",
+      "absaetze": [
+        "Gibst du eine Pflicht-Erklärung zu spät ab, kann das Finanzamt einen Verspätungszuschlag festsetzen. Ab einer bestimmten Verspätung muss es das sogar.",
+        "Der Zuschlag hängt von der festgesetzten Steuer ab, beträgt aber mindestens 25 Euro für jeden angefangenen Monat der Verspätung. Bekommst du Geld zurück, fällt meist kein Zuschlag an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechtzeitig reden",
+      "absaetze": [
+        "Schaffst du die Frist nicht, kannst du beim Finanzamt eine Verlängerung beantragen. Begründe kurz, warum es länger dauert.",
+        "Reagierst du gar nicht, kann das Finanzamt mahnen, ein Zwangsgeld festsetzen und deine Steuer schätzen. Die Schätzung fällt selten zu deinen Gunsten aus."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis wann musst du eine Pflicht-Erklärung normalerweise abgeben?",
+      "art": "mc",
+      "optionen": [
+        "Bis Ende Juli des Folgejahres",
+        "Bis Ende Januar",
+        "Bis Weihnachten",
+        "Es gibt keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit Beratung gelten längere Fristen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hast du für eine freiwillige Erklärung Zeit?",
+      "art": "mc",
+      "optionen": [
+        "Vier Jahre",
+        "Einen Monat",
+        "Zehn Jahre",
+        "Eine Woche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis Ende des vierten Folgejahres."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Verspätungszuschlag mindestens?",
+      "art": "mc",
+      "optionen": [
+        "25 Euro je angefangenem Monat",
+        "Ein Euro im Jahr",
+        "1.000 Euro sofort",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er hängt sonst von der Steuer ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer gar nicht reagiert, riskiert eine Schätzung der Steuer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie fällt selten zu deinen Gunsten aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflicht-Erklärungen sind bis Ende Juli fällig.",
+        "Freiwillige Erklärungen haben vier Jahre Zeit.",
+        "Bei Verspätung droht ein Zuschlag.",
+        "Eine Fristverlängerung kann man beantragen."
+      ]
+    }
+  ]
+}

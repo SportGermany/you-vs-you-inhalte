@@ -1,0 +1,124 @@
+{
+  "id": "ern-b080-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Pflaumen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pflaumen",
+    "zwetschgen",
+    "obst"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Pflaumenkuchen, Pflaumenmus, Zwetschgendatschi.",
+        "Im Spätsommer haben die blauen Früchte Hochsaison."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflaume oder Zwetschge?",
+      "absaetze": [
+        "Zwetschgen sind eine Unterart der Pflaume. Sie sind länglich, fester und haben einen Kern, der sich leicht löst. Deshalb eignen sie sich gut zum Backen.",
+        "Pflaumen im engeren Sinn sind runder und saftiger. Beim Backen zerfallen sie leichter. Saison haben beide etwa von Juli bis Oktober."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in ihnen steckt",
+      "absaetze": [
+        "Pflaumen liefern Ballaststoffe, Kalium, Vitamin K und Pflanzenstoffe, die ihnen die dunkle Farbe geben.",
+        "Sie enthalten außerdem Sorbit, einen Zuckeralkohol. Er bindet Wasser im Darm. Deshalb wirken Pflaumen, besonders getrocknete, leicht abführend."
+      ],
+      "merke": "Pflaumen können durch Sorbit und Ballaststoffe die Verdauung anregen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frisch oder getrocknet",
+      "absaetze": [
+        "Getrocknete Pflaumen enthalten konzentrierten Zucker. Als Snack reichen wenige Stück.",
+        "Der weißliche Belag auf frischen Pflaumen ist eine natürliche Wachsschicht. Sie schützt die Frucht vor dem Austrocknen und ist kein Zeichen von Spritzmitteln."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was unterscheidet Zwetschgen von Pflaumen?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind länglicher und fester",
+        "Sie sind immer gelb",
+        "Sie haben keinen Kern",
+        "Sie wachsen am Boden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb eignen sie sich gut zum Backen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wirken Pflaumen leicht abführend?",
+      "art": "mc",
+      "optionen": [
+        "Wegen Sorbit und Ballaststoffen",
+        "Wegen Koffein",
+        "Wegen Salz",
+        "Wegen Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sorbit bindet Wasser im Darm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der weißliche Belag auf frischen Pflaumen?",
+      "art": "mc",
+      "optionen": [
+        "Eine natürliche Wachsschicht",
+        "Schimmel",
+        "Spritzmittel",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie schützt vor dem Austrocknen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Getrocknete Pflaumen enthalten konzentrierten Zucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Als Snack reichen wenige Stück."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zwetschgen sind eine Unterart der Pflaume.",
+        "Pflaumen liefern Ballaststoffe und Kalium.",
+        "Sorbit wirkt leicht abführend.",
+        "Der weiße Belag ist natürliches Wachs."
+      ]
+    }
+  ]
+}

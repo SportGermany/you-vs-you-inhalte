@@ -1,0 +1,124 @@
+{
+  "id": "ern-b080-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in der Ananas?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ananas",
+    "bromelain",
+    "tropenfrucht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frische Ananas kribbelt manchmal auf der Zunge.",
+        "Schuld ist ein Enzym, das Eiweiß zerlegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein eiweißspaltendes Enzym",
+      "absaetze": [
+        "Frische Ananas enthält Bromelain. Dieses Enzym spaltet Eiweiße. Es greift sogar ein wenig die Schleimhaut im Mund an. Daher kommt das Kribbeln.",
+        "Bromelain sorgt auch dafür, dass frische Ananas in Wackelpudding mit Gelatine nicht fest wird. In Quark oder Joghurt kann sie bitter werden. Beim Erhitzen geht das Enzym kaputt, Ananas aus der Dose hat diese Wirkung nicht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sonst drinsteckt",
+      "absaetze": [
+        "Ananas liefert Vitamin C und Mangan, dazu Ballaststoffe. Sie schmeckt süß-säuerlich und enthält recht viel Fruchtzucker.",
+        "Ananas aus der Dose liegt oft in Zuckersirup. Besser sind Früchte im eigenen Saft."
+      ],
+      "merke": "Bromelain zerlegt Eiweiß, Erhitzen macht es unwirksam.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die richtige Frucht wählen",
+      "absaetze": [
+        "Ananas reift nach der Ernte kaum nach. Sie wird also nicht süßer, wenn sie zu Hause liegt.",
+        "Eine reife Ananas duftet süßlich am Stielende und gibt auf leichten Druck etwas nach. Faulige oder gärige Gerüche zeigen, dass sie überreif ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Enzym steckt in frischer Ananas?",
+      "art": "mc",
+      "optionen": [
+        "Bromelain",
+        "Insulin",
+        "Laktase",
+        "Amylase aus Speichel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es spaltet Eiweiße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird Wackelpudding mit frischer Ananas nicht fest?",
+      "art": "mc",
+      "optionen": [
+        "Bromelain zerlegt die Gelatine",
+        "Die Ananas ist zu kalt",
+        "Zu viel Zucker",
+        "Die Ananas ist zu sauer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gelatine ist ein Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Bromelain beim Erhitzen?",
+      "art": "mc",
+      "optionen": [
+        "Es geht kaputt",
+        "Es wird stärker",
+        "Es wird zu Zucker",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dosenananas hat diese Wirkung nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ananas wird zu Hause noch deutlich süßer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie reift nach der Ernte kaum nach."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Frische Ananas enthält das Enzym Bromelain.",
+        "Es zerlegt Eiweiß und lässt Gelatine nicht fest werden.",
+        "Ananas liefert Vitamin C und Mangan.",
+        "Sie reift nach der Ernte kaum nach."
+      ]
+    }
+  ]
+}

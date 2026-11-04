@@ -1,0 +1,121 @@
+{
+  "id": "geld-b080-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Worauf achtest du beim Bezahlen im Ausland?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ausland",
+    "kartenzahlung",
+    "waehrung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Kartenterminal im Urlaub fragt das Gerät: In Euro oder in Landeswährung zahlen?",
+        "Die Antwort kann dich mehrere Euro kosten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Immer in Landeswährung",
+      "absaetze": [
+        "Außerhalb des Euroraums bieten Terminals und Automaten oft an, gleich in Euro abzurechnen. Das klingt bequem, ist aber meist teuer. Der Wechselkurs ist dabei oft deutlich schlechter.",
+        "Wähle deshalb immer die Landeswährung. Dann rechnet deine eigene Bank um, meist zu einem besseren Kurs."
+      ],
+      "merke": "Im Ausland außerhalb des Euroraums immer in Landeswährung zahlen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gebühren der eigenen Bank",
+      "absaetze": [
+        "Viele Banken verlangen für Zahlungen in fremder Währung eine Gebühr, oft ein bis zwei Prozent. Manche Kreditkarten verzichten darauf. Ein Blick ins Preisverzeichnis lohnt sich vor der Reise.",
+        "Auch beim Geldabheben können Gebühren anfallen, von der eigenen Bank und vom Automatenbetreiber. Hebe lieber seltener größere Beträge ab als oft kleine."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Euroraum entspannt",
+      "absaetze": [
+        "Zahlst du in Euro innerhalb der EU, dürfen dafür keine höheren Gebühren anfallen als im Inland.",
+        "Nimm trotzdem zwei Zahlungsmittel mit, etwa eine Debitkarte und eine Kreditkarte. Für Mietwagen oder Hotels wird oft eine Kreditkarte für die Kaution verlangt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Währung solltest du außerhalb des Euroraums am Terminal zahlen?",
+      "art": "mc",
+      "optionen": [
+        "In der Landeswährung",
+        "Immer in Euro",
+        "In Dollar",
+        "Egal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Umrechnung in Euro vor Ort ist oft teuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch sind übliche Auslandsgebühren der Bank?",
+      "art": "mc",
+      "optionen": [
+        "Oft ein bis zwei Prozent",
+        "Immer 50 Prozent",
+        "Immer null",
+        "Zehn Euro pro Cent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Kreditkarten verzichten darauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für Euro-Zahlungen innerhalb der EU?",
+      "art": "mc",
+      "optionen": [
+        "Keine höheren Gebühren als im Inland",
+        "Immer teure Zuschläge",
+        "Sie sind verboten",
+        "Nur bar möglich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das regelt das EU-Recht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Mietwagen wird oft eine Kreditkarte verlangt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für die Kaution."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Außerhalb des Euroraums in Landeswährung zahlen.",
+        "Auslandsgebühren der Bank vorher prüfen.",
+        "Seltener größere Beträge abheben.",
+        "Zwei Zahlungsmittel mitnehmen."
+      ]
+    }
+  ]
+}

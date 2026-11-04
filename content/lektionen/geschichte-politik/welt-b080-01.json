@@ -1,0 +1,121 @@
+{
+  "id": "welt-b080-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Archimedes?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebendiges Museum Online",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "archimedes",
+    "antike",
+    "mathematik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Heureka! Ich hab's gefunden! Das soll er gerufen haben.",
+        "Archimedes war einer der größten Denker der Antike."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Genie aus Syrakus",
+      "absaetze": [
+        "Archimedes lebte im 3. Jahrhundert vor Christus in Syrakus auf Sizilien. Er war Mathematiker, Physiker und Erfinder.",
+        "Er bestimmte die Kreiszahl Pi erstaunlich genau. Dafür näherte er sich dem Kreis mit Vielecken an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auftrieb und Hebel",
+      "absaetze": [
+        "Eine Legende erzählt, Archimedes habe in der Badewanne den Auftrieb entdeckt. Ein Körper im Wasser wird um das Gewicht des verdrängten Wassers leichter. Das nennt man das archimedische Prinzip.",
+        "Er beschrieb auch das Hebelgesetz. Berühmt ist der ihm zugeschriebene Satz: Gebt mir einen festen Punkt, und ich hebe die Welt aus den Angeln."
+      ],
+      "merke": "Das archimedische Prinzip erklärt den Auftrieb im Wasser."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erfinder und Verteidiger",
+      "absaetze": [
+        "Die archimedische Schraube hebt Wasser mit einer drehenden Spirale nach oben. Solche Schrauben werden bis heute genutzt.",
+        "Als die Römer Syrakus belagerten, soll Archimedes Kriegsmaschinen zur Verteidigung gebaut haben. Bei der Eroberung der Stadt 212 vor Christus wurde er getötet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo lebte Archimedes?",
+      "art": "mc",
+      "optionen": [
+        "In Syrakus auf Sizilien",
+        "In Athen",
+        "In Rom",
+        "In Alexandria als König"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im 3. Jahrhundert vor Christus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt das archimedische Prinzip?",
+      "art": "mc",
+      "optionen": [
+        "Den Auftrieb im Wasser",
+        "Die Lichtgeschwindigkeit",
+        "Die Schwerkraft der Planeten",
+        "Den Magnetismus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Körper wird um das verdrängte Wasser leichter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient die archimedische Schraube?",
+      "art": "mc",
+      "optionen": [
+        "Wasser nach oben zu heben",
+        "Schiffe zu bauen",
+        "Sterne zu beobachten",
+        "Brot zu backen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird bis heute genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Archimedes bestimmte die Kreiszahl Pi sehr genau.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er nutzte dafür Vielecke."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Archimedes lebte in Syrakus.",
+        "Er beschrieb Auftrieb und Hebelgesetz.",
+        "Er bestimmte Pi sehr genau.",
+        "Er wurde 212 vor Christus getötet."
+      ]
+    }
+  ]
+}
