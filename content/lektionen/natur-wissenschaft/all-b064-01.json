@@ -1,0 +1,121 @@
+{
+  "id": "all-b064-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum fallen Satelliten nicht herunter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Satelliten und Umlaufbahnen",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "satelliten",
+    "umlaufbahn",
+    "schwerkraft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tausende Satelliten kreisen über unseren Köpfen.",
+        "Die Schwerkraft zieht sie an. Warum stürzen sie trotzdem nicht ab?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sie fallen ständig",
+      "absaetze": [
+        "Ein Satellit fällt tatsächlich ununterbrochen in Richtung Erde. Gleichzeitig fliegt er aber sehr schnell seitwärts.",
+        "Die Erde krümmt sich unter ihm weg, während er fällt. So fällt er immer um die Erde herum, statt auf sie. Diese Bewegung nennt man Umlaufbahn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Es kommt auf die Geschwindigkeit an",
+      "absaetze": [
+        "Die Raumstation ISS umkreist die Erde in rund 400 Kilometern Höhe. Dafür braucht sie etwa 28.000 Kilometer pro Stunde. Eine Runde dauert gut eineinhalb Stunden.",
+        "Je höher ein Satellit fliegt, desto langsamer muss er sein. In etwa 36.000 Kilometern Höhe braucht er genau einen Tag für eine Runde. Er scheint dann über einem Punkt am Äquator stillzustehen."
+      ],
+      "merke": "Ein Satellit fällt ständig, verfehlt aber die Erde."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Irgendwann kommen sie doch herunter",
+      "absaetze": [
+        "In niedrigen Bahnen gibt es noch eine sehr dünne Luft. Sie bremst Satelliten langsam ab. Ohne Gegensteuern sinken sie mit der Zeit und verglühen beim Eintritt in die Atmosphäre.",
+        "Die ISS muss deshalb regelmäßig angehoben werden. Ausgediente Satelliten werden möglichst gezielt zum Absturz gebracht oder auf eine Friedhofsbahn geschoben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum stürzt ein Satellit nicht ab?",
+      "art": "mc",
+      "optionen": [
+        "Er fliegt so schnell seitwärts, dass er um die Erde herum fällt",
+        "Im Weltall gibt es keine Schwerkraft",
+        "Er hängt an einem Seil",
+        "Er hat Flügel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Erde krümmt sich unter ihm weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell fliegt die ISS ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 28.000 Kilometer pro Stunde",
+        "Etwa 100 Kilometer pro Stunde",
+        "Lichtgeschwindigkeit",
+        "Sie steht still"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Runde dauert gut eineinhalb Stunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert in etwa 36.000 Kilometern Höhe?",
+      "art": "mc",
+      "optionen": [
+        "Ein Satellit braucht einen Tag für eine Runde",
+        "Satelliten fliegen rückwärts",
+        "Es gibt keine Schwerkraft mehr",
+        "Satelliten schmelzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er scheint dann stillzustehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Niedrige Satelliten werden von dünner Luft langsam abgebremst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ohne Gegensteuern sinken sie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Satelliten fallen ständig um die Erde herum.",
+        "Entscheidend ist ihre hohe Geschwindigkeit.",
+        "In 36.000 Kilometern Höhe scheinen sie stillzustehen.",
+        "Niedrige Satelliten sinken mit der Zeit."
+      ]
+    }
+  ]
+}

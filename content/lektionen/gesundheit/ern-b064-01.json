@@ -1,0 +1,131 @@
+{
+  "id": "ern-b064-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Beeren?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "beeren",
+    "obst",
+    "anthocyane"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Heidelbeeren, Himbeeren und Johannisbeeren sind klein, aber reich an Inhaltsstoffen.",
+        "Frisch oder tiefgekühlt passen sie zu vielen Mahlzeiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Früchte, viel drin",
+      "absaetze": [
+        "Beeren liefern Vitamin C, Ballaststoffe und Mineralstoffe. Schwarze Johannisbeeren gehören zu den Vitamin-C-reichsten heimischen Obstsorten.",
+        "Die kräftigen Farben stammen von Pflanzenstoffen wie den Anthocyanen. Beeren enthalten im Vergleich zu vielen anderen Obstsorten relativ wenig Zucker."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien andeuten",
+      "absaetze": [
+        "Beobachtungsstudien deuten darauf hin, dass Menschen, die regelmäßig Beeren essen, seltener Herz-Kreislauf-Erkrankungen haben. Ob die Beeren selbst der Grund sind, ist nicht sicher.",
+        "Klar ist: Beeren passen gut zu einer Ernährung mit viel Obst und Gemüse. Allein machen sie aber niemanden gesund."
+      ],
+      "merke": "Beeren sind ein guter Baustein für eine gesunde Ernährung.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tiefkühlbeeren erhitzen",
+      "absaetze": [
+        "Tiefgekühlte Beeren sind eine praktische Alternative, vor allem im Winter. Sie können aber Viren wie Noroviren enthalten, die beim Einfrieren nicht absterben.",
+        "Das BfR rät deshalb, Tiefkühlbeeren vor dem Verzehr gut zu erhitzen, besonders für Kinder, Ältere und Schwangere. In Kuchen, Kompott oder Porridge ist das einfach."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche heimischen Beeren sind besonders reich an Vitamin C?",
+      "art": "mc",
+      "optionen": [
+        "Schwarze Johannisbeeren",
+        "Weintrauben",
+        "Bananen",
+        "Datteln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gehören zu den Spitzenreitern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die kräftige Farbe vieler Beeren?",
+      "art": "mc",
+      "optionen": [
+        "Von Pflanzenstoffen wie Anthocyanen",
+        "Von Zucker",
+        "Von Salz",
+        "Von Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Stoffe werden viel erforscht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was rät das BfR bei Tiefkühlbeeren?",
+      "art": "mc",
+      "optionen": [
+        "Vor dem Verzehr gut erhitzen",
+        "Nur gefroren essen",
+        "Nicht waschen",
+        "Nie kaufen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viren überstehen das Einfrieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beeren enthalten relativ wenig Zucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Im Vergleich zu vielen anderen Obstsorten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beeren liefern Vitamin C und Ballaststoffe.",
+        "Sie enthalten relativ wenig Zucker.",
+        "Studien deuten auf Vorteile für das Herz hin.",
+        "Tiefkühlbeeren vor dem Essen erhitzen."
+      ]
+    }
+  ]
+}

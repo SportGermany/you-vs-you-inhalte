@@ -1,0 +1,121 @@
+{
+  "id": "tech-b064-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie entsteht ein Röntgenbild?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Röntgendiagnostik",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "roentgen",
+    "strahlung",
+    "medizintechnik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein gebrochener Arm, ein kaputter Zahn: Ein Röntgenbild zeigt es schnell.",
+        "Die Technik ist über 125 Jahre alt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine zufällige Entdeckung",
+      "absaetze": [
+        "1895 entdeckte Wilhelm Conrad Röntgen in Würzburg eine unbekannte Strahlung. Sie durchdrang Papier und Holz und machte Knochen auf einem Schirm sichtbar.",
+        "Er nannte sie X-Strahlen. Im Deutschen heißen sie nach ihm Röntgenstrahlen. 1901 erhielt er dafür den ersten Nobelpreis für Physik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schatten aus Strahlung",
+      "absaetze": [
+        "In einer Röntgenröhre treffen schnelle Elektronen auf Metall. Dabei entstehen Röntgenstrahlen. Sie werden durch den Körper geschickt.",
+        "Knochen schlucken viel Strahlung, weil sie Calcium enthalten. Sie erscheinen auf dem Bild hell. Weiches Gewebe lässt mehr durch und erscheint dunkler."
+      ],
+      "merke": "Knochen erscheinen hell, weil sie viel Strahlung schlucken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nutzen und Vorsicht",
+      "absaetze": [
+        "Röntgenstrahlen sind ionisierende Strahlung. In hohen Dosen können sie Zellen schädigen. Eine einzelne Aufnahme hat meist eine geringe Dosis.",
+        "Geröntgt werden sollte trotzdem nur, wenn es medizinisch nötig ist. Ein Röntgenpass hilft, unnötige Doppeluntersuchungen zu vermeiden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entdeckte die Röntgenstrahlen?",
+      "art": "mc",
+      "optionen": [
+        "Wilhelm Conrad Röntgen",
+        "Albert Einstein",
+        "Marie Curie",
+        "Isaac Newton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geschah 1895 in Würzburg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum erscheinen Knochen auf dem Bild hell?",
+      "art": "mc",
+      "optionen": [
+        "Sie schlucken viel Strahlung",
+        "Sie leuchten selbst",
+        "Sie sind hohl",
+        "Sie bestehen aus Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grund ist ihr Calciumgehalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist ein Röntgenpass nützlich?",
+      "art": "mc",
+      "optionen": [
+        "Um unnötige Doppeluntersuchungen zu vermeiden",
+        "Zum Reisen ins Ausland",
+        "Zum Bezahlen",
+        "Als Bibliotheksausweis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er dokumentiert bisherige Aufnahmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Röntgenstrahlen sind ionisierende Strahlung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb nur bei Bedarf röntgen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Röntgen entdeckte die Strahlen 1895.",
+        "Knochen schlucken viel Strahlung und erscheinen hell.",
+        "Einzelne Aufnahmen haben meist eine geringe Dosis.",
+        "Nur röntgen, wenn es nötig ist."
+      ]
+    }
+  ]
+}

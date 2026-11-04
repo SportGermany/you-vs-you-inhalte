@@ -1,0 +1,130 @@
+{
+  "id": "gew-b064-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie gewöhnst du dir an, mehr Gemüse zu essen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gemuese",
+    "essgewohnheiten",
+    "kleine-schritte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele nehmen sich vor, mehr Gemüse zu essen.",
+        "Im Alltag landet dann doch wieder wenig auf dem Teller."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ergänzen statt verzichten",
+      "absaetze": [
+        "Leichter als Verbote ist es, Gemüse zu Gewohntem hinzuzufügen. Eine Handvoll Spinat in die Nudelsoße, Paprika aufs Brot, eine Tomate zum Rührei.",
+        "So musst du nicht auf Lieblingsgerichte verzichten. Das Gemüse wird einfach zum festen Bestandteil."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Umgebung hilft",
+      "absaetze": [
+        "Was sichtbar und griffbereit ist, wird eher gegessen. Stell geschnittenes Gemüse vorne in den Kühlschrank oder auf den Tisch.",
+        "Tiefkühlgemüse und vorgeschnittene Salate sparen Zeit. Studien deuten darauf hin, dass Menschen mehr Gemüse essen, wenn es bequem verfügbar ist."
+      ],
+      "merke": "Sichtbares und griffbereites Gemüse wird eher gegessen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geschmack lässt sich trainieren",
+      "absaetze": [
+        "Viele mögen ein Gemüse zunächst nicht, gewöhnen sich aber nach mehrmaligem Probieren daran. Das gilt bei Kindern und Erwachsenen.",
+        "Probier verschiedene Zubereitungen aus: geröstet, gegrillt, roh oder als Suppe. Mit Kräutern und Gewürzen schmeckt Gemüse oft ganz anders."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist leichter als Verbote?",
+      "art": "mc",
+      "optionen": [
+        "Gemüse zu Gewohntem hinzufügen",
+        "Alles Gewohnte streichen",
+        "Nur noch Salat essen",
+        "Mahlzeiten auslassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleiben Lieblingsgerichte erhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sollte Gemüse im Kühlschrank liegen?",
+      "art": "mc",
+      "optionen": [
+        "Gut sichtbar vorne",
+        "Ganz hinten versteckt",
+        "Im Gefrierfach unter allem",
+        "Gar nicht im Kühlschrank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Was sichtbar ist, wird eher gegessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, wenn dir ein Gemüse nicht schmeckt?",
+      "art": "mc",
+      "optionen": [
+        "Mehrmals probieren und anders zubereiten",
+        "Es nie wieder essen",
+        "Mehr Zucker darüber",
+        "Es nur roh essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Geschmack lässt sich trainieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tiefkühlgemüse kann helfen, mehr Gemüse zu essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es spart Zeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gemüse zu gewohnten Gerichten hinzufügen.",
+        "Gemüse sichtbar und griffbereit lagern.",
+        "Tiefkühlgemüse spart Zeit.",
+        "Mehrmals probieren lohnt sich."
+      ]
+    }
+  ]
+}

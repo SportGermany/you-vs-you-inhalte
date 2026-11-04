@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b064-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Schwangerschaftsdiabetes?",
+  "minuten": 4,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Schwangerschaftsdiabetes",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.ddg.info",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schwangerschaftsdiabetes",
+    "blutzucker",
+    "schwangerschaft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Schwangerschaft verändert sich der Stoffwechsel stark.",
+        "Bei manchen Frauen steigt dabei der Blutzucker zu sehr an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie er entsteht",
+      "absaetze": [
+        "In der Schwangerschaft bildet der Körper Hormone, die die Wirkung von Insulin abschwächen. Normalerweise gleicht die Bauchspeicheldrüse das aus, indem sie mehr Insulin bildet.",
+        "Gelingt das nicht ausreichend, steigt der Blutzucker. Man spricht dann von Schwangerschaftsdiabetes. Er macht oft keine Beschwerden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Test für alle Schwangeren",
+      "absaetze": [
+        "Gesetzlich Versicherten wird zwischen der 24. und 28. Schwangerschaftswoche ein Zuckertest angeboten. Zuerst gibt es einen Suchtest mit einer Zuckerlösung. Ist er auffällig, folgt ein genauerer Belastungstest.",
+        "Unbehandelt kann Schwangerschaftsdiabetes zu einem sehr großen Kind und zu Problemen bei der Geburt führen. Das Neugeborene kann kurz nach der Geburt Unterzucker bekommen."
+      ],
+      "merke": "Zwischen der 24. und 28. Woche wird ein Zuckertest angeboten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Behandlung und danach",
+      "absaetze": [
+        "Oft reichen eine angepasste Ernährung und mehr Bewegung. Manche Frauen brauchen zusätzlich Insulin. Die Behandlung erfolgt in enger ärztlicher Begleitung.",
+        "Nach der Geburt normalisiert sich der Blutzucker meist. Das Risiko, später an Typ-2-Diabetes zu erkranken, ist aber erhöht. Deshalb wird einige Wochen nach der Geburt erneut getestet."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum steigt der Blutzucker in der Schwangerschaft manchmal an?",
+      "art": "mc",
+      "optionen": [
+        "Hormone schwächen die Wirkung von Insulin",
+        "Schwangere essen nur Zucker",
+        "Die Leber stellt die Arbeit ein",
+        "Das Baby bildet Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bauchspeicheldrüse muss mehr Insulin bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird der Zuckertest angeboten?",
+      "art": "mc",
+      "optionen": [
+        "Zwischen der 24. und 28. Schwangerschaftswoche",
+        "Am ersten Tag der Schwangerschaft",
+        "Nach der Geburt",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zuerst gibt es einen Suchtest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt nach der Geburt?",
+      "art": "mc",
+      "optionen": [
+        "Das Risiko für späteren Typ-2-Diabetes ist erhöht",
+        "Es gibt kein Risiko mehr",
+        "Der Diabetes bleibt immer",
+        "Man darf nie wieder Zucker essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb wird erneut getestet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schwangerschaftsdiabetes macht oft keine Beschwerden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb ist der Test so wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwangerschaftshormone schwächen die Insulinwirkung.",
+        "Ein Zuckertest wird allen Schwangeren angeboten.",
+        "Ernährung und Bewegung reichen oft zur Behandlung.",
+        "Nach der Geburt erneut testen lassen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "supp-b064-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Glycin zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glycin",
+    "aminosaeuren",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Glycin wird als Pulver für besseren Schlaf beworben.",
+        "Die kleinste Aminosäure ist allerdings auch ein ganz normaler Nahrungsbestandteil."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Eiweißbaustein",
+      "absaetze": [
+        "Glycin ist die einfachste Aminosäure. Der Körper kann sie selbst bilden. Außerdem steckt sie in eiweißreichen Lebensmitteln, besonders in Gelatine und Kollagen.",
+        "Im Nervensystem wirkt Glycin auch als Botenstoff. Es ist an der Hemmung von Nervensignalen beteiligt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Glycin und Schlaf",
+      "absaetze": [
+        "Einige kleine Studien aus Japan deuten darauf hin, dass Glycin vor dem Schlafen das Gefühl von erholsamem Schlaf verbessern könnte. Die Studien waren aber klein und kurz.",
+        "Ob Glycin bei echten Schlafstörungen hilft, ist nicht belegt. Gesundheitsbezogene Werbeaussagen dazu sind in der EU nicht zugelassen."
+      ],
+      "merke": "Ein Nutzen bei Schlafstörungen ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit",
+      "absaetze": [
+        "In üblichen Mengen gilt Glycin als gut verträglich. Zu hohen Mengen über lange Zeit ist wenig bekannt.",
+        "Bei anhaltenden Schlafproblemen ist eine Abklärung sinnvoller als Pulver. Bewährt haben sich zum Beispiel Regeln für guten Schlaf und Verhaltenstherapie."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei regelmäßigen Medikamenten, insbesondere Psychopharmaka, vorher ärztlich beraten lassen.",
+        "In Schwangerschaft und Stillzeit nicht ohne Rücksprache verwenden.",
+        "Anhaltende Schlafprobleme ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Glycin?",
+      "art": "mc",
+      "optionen": [
+        "Die einfachste Aminosäure",
+        "Ein Vitamin",
+        "Ein Hormon",
+        "Ein Mineralstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper kann sie selbst bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen die Hinweise auf eine Schlafwirkung?",
+      "art": "mc",
+      "optionen": [
+        "Aus kleinen, kurzen Studien",
+        "Aus großen Langzeitstudien",
+        "Aus Werbung allein",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studienlage ist dünn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Lebensmittel steckt viel Glycin?",
+      "art": "mc",
+      "optionen": [
+        "Gelatine",
+        "Zucker",
+        "Speiseöl",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Kollagen enthält viel Glycin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Glycin ist ein belegtes Mittel gegen Schlafstörungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür fehlen Belege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glycin ist eine einfache Aminosäure.",
+        "Der Körper bildet sie selbst.",
+        "Hinweise auf besseren Schlaf sind schwach.",
+        "Bei Schlafproblemen lieber abklären lassen."
+      ]
+    }
+  ]
+}

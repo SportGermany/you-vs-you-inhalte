@@ -3,9 +3,9 @@
   "version": 1,
   "themenwelt": "gesundheit",
   "unterthema": "supplements",
-  "titel": "Brauchst du zusätzlich Vitamin E?",
+  "titel": "Was ist von Propolis zu halten?",
   "minuten": 3,
-  "studienlage": 2,
+  "studienlage": 1,
   "zeitlos": true,
   "gueltig_von": null,
   "gueltig_bis": null,
@@ -18,122 +18,116 @@
       "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
       "url": "https://www.bfr.bund.de",
       "abgerufen": ""
-    },
-    {
-      "titel": "Wissenschaftliche Informationen",
-      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
-      "url": "https://www.dge.de",
-      "abgerufen": ""
     }
   ],
   "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
   "tags": [
-    "vitamin-e",
-    "antioxidantien",
-    "nahrungsergaenzung"
+    "propolis",
+    "bienenprodukte",
+    "allergie"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Vitamin E wird gern als Zellschutz-Vitamin beworben.",
-        "In Kapseln steckt es oft in hohen Mengen."
+        "Propolis wird als natürliches Mittel gegen Erkältungen und Lippenherpes verkauft.",
+        "Es stammt aus dem Bienenstock."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Ein fettlösliches Schutzvitamin",
+      "titel": "Das Kittharz der Bienen",
       "absaetze": [
-        "Vitamin E schützt die Hüllen unserer Zellen vor Schäden durch aggressive Sauerstoffverbindungen. Es gehört zu den fettlöslichen Vitaminen.",
-        "Gute Quellen sind Pflanzenöle wie Weizenkeimöl, Sonnenblumenöl und Rapsöl. Auch Nüsse, Samen und Vollkorn liefern Vitamin E."
+        "Bienen sammeln Harze von Knospen und Baumrinden. Daraus stellen sie Propolis her. Sie dichten damit Ritzen im Stock ab und halten ihn sauber.",
+        "Propolis ist ein Gemisch aus vielen Stoffen. Seine Zusammensetzung schwankt stark, je nachdem, welche Pflanzen in der Nähe wachsen."
       ],
       "studienlage": 3
     },
     {
       "typ": "wissen",
-      "titel": "Mangel ist selten",
+      "titel": "Was Studien zeigen",
       "absaetze": [
-        "Ein echter Vitamin-E-Mangel ist bei gesunden Menschen sehr selten. Er tritt vor allem bei Krankheiten auf, bei denen Fett schlecht aufgenommen wird.",
-        "Große Studien mit hoch dosiertem Vitamin E zeigten keinen Schutz vor Herzinfarkt oder Krebs. In einer Studie erkrankten Männer mit Vitamin-E-Präparaten sogar etwas häufiger an Prostatakrebs."
+        "Im Labor hemmt Propolis das Wachstum mancher Bakterien und Viren. Einzelne kleine Studien deuten darauf hin, dass es bei Lippenherpes oder Entzündungen im Mund helfen könnte.",
+        "Für eine Wirkung gegen Erkältungen gibt es keine verlässlichen Belege. Weil Produkte sehr unterschiedlich sind, lassen sich Ergebnisse kaum übertragen."
       ],
-      "merke": "Hoch dosierte Präparate haben in Studien nicht vor Krankheiten geschützt.",
-      "studienlage": 3
+      "merke": "Für einen Schutz vor Erkältungen fehlen Belege.",
+      "studienlage": 1
     },
     {
       "typ": "wissen",
-      "titel": "Vorsicht bei Blutverdünnern",
+      "titel": "Allergierisiko beachten",
       "absaetze": [
-        "Hohe Mengen Vitamin E können die Blutgerinnung beeinflussen. Zusammen mit blutverdünnenden Medikamenten steigt dann das Blutungsrisiko.",
-        "Das BfR rät, bei Nahrungsergänzungsmitteln auf moderate Mengen zu achten. Über eine abwechslungsreiche Ernährung ist man in der Regel gut versorgt."
+        "Propolis kann Allergien auslösen, vor allem auf der Haut. Es gehört zu den bekannten Auslösern von Kontaktallergien.",
+        "Wer auf Bienenprodukte, Pollen oder bestimmte Pflanzenharze allergisch reagiert, sollte Propolis meiden. Bei Hautausschlag oder Schwellungen nach der Anwendung ärztlichen Rat suchen."
       ],
-      "studienlage": 2
+      "studienlage": 3
     },
     {
       "typ": "wissen",
       "titel": "Das solltest du beachten",
       "absaetze": [
-        "Bei blutverdünnenden Medikamenten nur nach ärztlicher Rücksprache verwenden.",
-        "Vor Operationen hoch dosierte Präparate ärztlich besprechen.",
-        "Nahrungsergänzungsmittel ersetzen keine abwechslungsreiche Ernährung."
+        "Bei Allergien gegen Bienenprodukte, Pollen oder Pflanzenharze nicht verwenden.",
+        "In Schwangerschaft und Stillzeit vorher ärztlich beraten lassen.",
+        "Bei Hautreaktionen die Anwendung beenden und ärztlichen Rat suchen."
       ]
     },
     {
       "typ": "quiz",
-      "frage": "Woraus bekommst du viel Vitamin E?",
+      "frage": "Wozu nutzen Bienen Propolis?",
       "art": "mc",
       "optionen": [
-        "Aus Pflanzenölen und Nüssen",
-        "Aus Zucker",
-        "Aus Wasser",
-        "Aus Weißbrot"
+        "Zum Abdichten und Sauberhalten des Stocks",
+        "Als Nahrung für die Larven",
+        "Zum Fliegen",
+        "Als Honigersatz"
       ],
       "richtig": 0,
-      "erklaerung": "Etwa Weizenkeimöl oder Sonnenblumenöl."
+      "erklaerung": "Es ist eine Art Kittharz."
     },
     {
       "typ": "quiz",
-      "frage": "Wie häufig ist ein Vitamin-E-Mangel bei Gesunden?",
+      "frage": "Wie gut ist eine Wirkung gegen Erkältungen belegt?",
       "art": "mc",
       "optionen": [
-        "Sehr selten",
-        "Sehr häufig",
-        "Bei jedem zweiten",
-        "Bei allen Kindern"
+        "Es gibt keine verlässlichen Belege",
+        "Sehr gut, wie bei Medikamenten",
+        "Durch große Langzeitstudien",
+        "Perfekt belegt"
       ],
       "richtig": 0,
-      "erklaerung": "Er tritt vor allem bei bestimmten Krankheiten auf."
+      "erklaerung": "Laborergebnisse lassen sich nicht einfach übertragen."
     },
     {
       "typ": "quiz",
-      "frage": "Was zeigten große Studien mit hoch dosiertem Vitamin E?",
+      "frage": "Welches Risiko ist bei Propolis bekannt?",
       "art": "mc",
       "optionen": [
-        "Keinen Schutz vor Herzinfarkt oder Krebs",
-        "Ein deutlich längeres Leben",
-        "Weniger Erkältungen",
-        "Bessere Noten"
+        "Allergien, vor allem auf der Haut",
+        "Starker Haarausfall",
+        "Kurzsichtigkeit",
+        "Gar keins"
       ],
       "richtig": 0,
-      "erklaerung": "Bei Männern gab es sogar mehr Prostatakrebs."
+      "erklaerung": "Es ist ein bekannter Auslöser von Kontaktallergien."
     },
     {
       "typ": "quiz",
-      "frage": "Hohe Mengen Vitamin E können mit Blutverdünnern problematisch sein.",
+      "frage": "Die Zusammensetzung von Propolis ist immer gleich.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
-      "richtig": 0,
-      "erklaerung": "Richtig. Das Blutungsrisiko kann steigen."
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie hängt von den Pflanzen in der Umgebung ab."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Vitamin E schützt die Zellhüllen.",
-        "Pflanzenöle und Nüsse liefern reichlich davon.",
-        "Ein Mangel ist bei Gesunden sehr selten.",
-        "Hoch dosierte Präparate brachten keinen Schutz."
+        "Propolis ist ein Harz aus dem Bienenstock.",
+        "Im Labor hemmt es manche Keime.",
+        "Für einen Erkältungsschutz fehlen Belege.",
+        "Es kann Allergien auslösen."
       ]
     }
   ]

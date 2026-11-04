@@ -1,0 +1,131 @@
+{
+  "id": "ern-b064-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Worauf musst du bei Bärlauch achten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit und Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "baerlauch",
+    "wildkraeuter",
+    "verwechslung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Frühling riecht es in vielen Laubwäldern nach Knoblauch.",
+        "Dann ist Bärlauch-Zeit. Doch beim Sammeln ist Vorsicht nötig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein würziges Wildkraut",
+      "absaetze": [
+        "Bärlauch wächst von etwa März bis Mai in feuchten Laubwäldern. Seine Blätter schmecken mild nach Knoblauch.",
+        "Man kann sie roh in Salaten, als Pesto oder in Suppen verwenden. Beim Kochen verliert Bärlauch viel von seinem Aroma. Gib ihn deshalb erst zum Schluss dazu."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefährliche Doppelgänger",
+      "absaetze": [
+        "Bärlauch wird immer wieder mit giftigen Pflanzen verwechselt. Dazu gehören Maiglöckchen, Herbstzeitlose und Aronstab. Sie wachsen oft am selben Ort.",
+        "Eine Verwechslung kann zu schweren Vergiftungen führen, bei der Herbstzeitlose sogar tödlich. Jedes Jahr kommt es in Deutschland zu solchen Fällen."
+      ],
+      "merke": "Sammle nur Pflanzen, die du sicher erkennst.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher genießen",
+      "absaetze": [
+        "Der Knoblauchgeruch ist ein Hinweis, aber kein sicherer Test. Nach dem ersten Blatt riechen auch die Finger nach Knoblauch und täuschen.",
+        "Wer unsicher ist, kauft Bärlauch auf dem Markt oder im Laden. Bei Übelkeit, Erbrechen oder Herzrasen nach dem Essen von Wildkräutern rufe sofort den Giftnotruf oder den Notarzt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wächst Bärlauch?",
+      "art": "mc",
+      "optionen": [
+        "Etwa von März bis Mai",
+        "Nur im Hochsommer",
+        "Im Dezember",
+        "Das ganze Jahr gleich stark"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wächst in feuchten Laubwäldern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welcher giftigen Pflanze wird Bärlauch oft verwechselt?",
+      "art": "mc",
+      "optionen": [
+        "Maiglöckchen",
+        "Petersilie",
+        "Basilikum",
+        "Salat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Herbstzeitlose und Aronstab sind gefährlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Geruchstest unsicher?",
+      "art": "mc",
+      "optionen": [
+        "Die Finger riechen schnell selbst nach Knoblauch",
+        "Bärlauch riecht nie",
+        "Giftpflanzen riechen stärker",
+        "Man kann nichts riechen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann täuschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Verwechslung mit der Herbstzeitlose kann tödlich sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb nur sicher erkannte Pflanzen sammeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bärlauch wächst im Frühling in Laubwäldern.",
+        "Er wird oft mit Giftpflanzen verwechselt.",
+        "Der Geruchstest ist unsicher.",
+        "Im Zweifel auf dem Markt kaufen."
+      ]
+    }
+  ]
+}

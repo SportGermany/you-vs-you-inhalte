@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b064-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum fällt das Aufstehen im Winter so schwer?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "winter",
+    "licht",
+    "aufstehen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Draußen ist es noch stockdunkel, wenn der Wecker klingelt.",
+        "Im Winter kommen viele morgens kaum aus dem Bett."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht fehlt als Weckreiz",
+      "absaetze": [
+        "Die innere Uhr richtet sich vor allem nach Licht. Morgendliches Tageslicht stoppt die Bildung des Schlafhormons Melatonin und macht wach.",
+        "Im Winter fehlt dieses Signal oft, wenn wir aufstehen. Der Körper ist dann noch auf Nacht eingestellt. Das Aufstehen fühlt sich schwerer an."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Geh morgens möglichst bald nach draußen, auch bei bewölktem Himmel. Selbst trübes Tageslicht ist viel heller als Zimmerlicht.",
+        "Lichtwecker werden langsam heller, wie ein Sonnenaufgang. Kleine Studien deuten darauf hin, dass sie das Aufwachen erleichtern können. Feste Aufstehzeiten auch am Wochenende helfen ebenfalls."
+      ],
+      "merke": "Tageslicht am Morgen macht wacher als Zimmerlicht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann es mehr ist",
+      "absaetze": [
+        "Fühlst du dich über Wochen niedergeschlagen, antriebslos und schläfst sehr viel, kann eine Winterdepression dahinterstecken.",
+        "Dann solltest du dir ärztliche Hilfe holen. Eine Lichttherapie mit speziellen Lampen kann helfen, sollte aber fachlich begleitet werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stoppt morgens die Bildung von Melatonin?",
+      "art": "mc",
+      "optionen": [
+        "Tageslicht",
+        "Dunkelheit",
+        "Kaltes Wasser",
+        "Lautes Radio"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht ist das wichtigste Signal für die innere Uhr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft beim Aufstehen im Winter?",
+      "art": "mc",
+      "optionen": [
+        "Morgens bald nach draußen gehen",
+        "Den Wecker öfter verschieben",
+        "Im Dunkeln liegen bleiben",
+        "Später ins Bett gehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch trübes Tageslicht ist sehr hell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Lichtwecker?",
+      "art": "mc",
+      "optionen": [
+        "Ein Wecker, der langsam heller wird",
+        "Ein besonders lauter Wecker",
+        "Eine Taschenlampe",
+        "Ein Wecker ohne Ton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ahmt einen Sonnenaufgang nach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wochenlange Niedergeschlagenheit im Winter sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann eine Winterdepression sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Winter fehlt morgens das Licht als Weckreiz.",
+        "Der Körper bleibt länger im Nachtmodus.",
+        "Tageslicht am Morgen macht wacher.",
+        "Bei anhaltender Niedergeschlagenheit Hilfe holen."
+      ]
+    }
+  ]
+}
