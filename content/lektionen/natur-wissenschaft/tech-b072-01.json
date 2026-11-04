@@ -1,0 +1,121 @@
+{
+  "id": "tech-b072-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Hybridauto?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verkehr und Landwirtschaft",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hybrid",
+    "auto",
+    "elektromotor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Ampel ist es plötzlich ganz still, und beim Anfahren surrt es nur leise.",
+        "So fühlt sich ein Hybridauto an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Antriebe in einem Auto",
+      "absaetze": [
+        "Ein Hybridauto hat einen Verbrennungsmotor und einen Elektromotor. Dazu kommt eine Batterie. Die Elektronik entscheidet, welcher Motor gerade arbeitet oder ob beide zusammen antreiben.",
+        "Der Elektromotor hilft vor allem beim Anfahren und im Stadtverkehr. Dort arbeitet ein Verbrenner besonders ineffizient."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie beim Bremsen zurückgewinnen",
+      "absaetze": [
+        "Beim Bremsen arbeitet der Elektromotor als Generator. Er wandelt Bewegungsenergie in Strom um und lädt die Batterie. Fachleute nennen das Rekuperation.",
+        "Bei einem normalen Auto geht diese Energie als Wärme in den Bremsen verloren."
+      ],
+      "merke": "Hybridautos gewinnen beim Bremsen Energie zurück."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verschiedene Arten",
+      "absaetze": [
+        "Ein Mildhybrid unterstützt den Verbrenner nur. Ein Vollhybrid kann kurze Strecken rein elektrisch fahren. Ein Plug-in-Hybrid lässt sich zusätzlich an der Steckdose laden.",
+        "Plug-in-Hybride sparen aber nur dann viel Sprit, wenn sie oft geladen werden. Sonst schleppen sie eine schwere Batterie mit und verbrauchen eher mehr."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hat ein Hybridauto?",
+      "art": "mc",
+      "optionen": [
+        "Einen Verbrennungsmotor und einen Elektromotor",
+        "Nur einen Elektromotor",
+        "Zwei Benzinmotoren",
+        "Einen Dampfantrieb"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommt eine Batterie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Rekuperation?",
+      "art": "mc",
+      "optionen": [
+        "Beim Bremsen Strom zurückgewinnen",
+        "Den Tank auffüllen",
+        "Den Motor kühlen",
+        "Die Reifen wechseln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Elektromotor arbeitet dann als Generator."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Hybrid lässt sich an der Steckdose laden?",
+      "art": "mc",
+      "optionen": [
+        "Der Plug-in-Hybrid",
+        "Der Mildhybrid",
+        "Jeder Vollhybrid",
+        "Keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er spart nur viel, wenn er oft geladen wird."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein selten geladener Plug-in-Hybrid spart kaum Sprit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er trägt dann eine schwere Batterie umsonst mit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Hybrid kombiniert Verbrenner und Elektromotor.",
+        "Beim Bremsen wird Energie zurückgewonnen.",
+        "Es gibt Mild-, Voll- und Plug-in-Hybride.",
+        "Plug-in-Hybride sparen nur, wenn sie oft geladen werden."
+      ]
+    }
+  ]
+}

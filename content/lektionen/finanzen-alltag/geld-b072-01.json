@@ -1,0 +1,127 @@
+{
+  "id": "geld-b072-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Vorfälligkeitsentschädigung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherinformationen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "baufinanzierung",
+    "kredit",
+    "zinsbindung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du verkaufst deine Wohnung und willst den Kredit vorzeitig ablösen.",
+        "Dann kann die Bank eine Entschädigung verlangen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausgleich für entgangene Zinsen",
+      "absaetze": [
+        "Bei einem Immobilienkredit wird der Zins oft für viele Jahre fest vereinbart. Zahlst du früher zurück, entgehen der Bank Zinsen.",
+        "Dafür darf sie eine Vorfälligkeitsentschädigung verlangen. Sie kann mehrere Tausend Euro betragen, je nach Restschuld, Laufzeit und Zinsniveau."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du ohne Entschädigung kündigen kannst",
+      "absaetze": [
+        "Nach zehn Jahren ab Auszahlung darfst du einen Kredit mit fester Zinsbindung immer kündigen. Die Frist beträgt dann sechs Monate. Eine Entschädigung fällt dabei nicht an.",
+        "Auch am Ende der Zinsbindung kannst du ohne Entschädigung zurückzahlen oder die Bank wechseln."
+      ],
+      "merke": "Nach zehn Jahren ist eine Kündigung ohne Entschädigung möglich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Prüfen lohnt sich",
+      "absaetze": [
+        "Vereinbarte Sondertilgungen senken die Restschuld ohne Zusatzkosten. Nutze sie, wenn du kannst.",
+        "Die Berechnung der Bank ist nicht immer richtig. Verbraucherzentralen bieten an, sie zu prüfen. Achte schon beim Abschluss auf flexible Regelungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür verlangt die Bank eine Vorfälligkeitsentschädigung?",
+      "art": "mc",
+      "optionen": [
+        "Für entgangene Zinsen bei vorzeitiger Rückzahlung",
+        "Für die Kontoführung",
+        "Für eine verspätete Rate",
+        "Für die Beratung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt bei Krediten mit fester Zinsbindung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab wann kannst du einen Kredit mit fester Zinsbindung ohne Entschädigung kündigen?",
+      "art": "mc",
+      "optionen": [
+        "Nach zehn Jahren ab Auszahlung",
+        "Nach einem Jahr",
+        "Nach drei Monaten",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kündigungsfrist beträgt dann sechs Monate."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was senkt die Restschuld ohne Zusatzkosten?",
+      "art": "mc",
+      "optionen": [
+        "Vereinbarte Sondertilgungen",
+        "Ein neuer Dispokredit",
+        "Eine höhere Kreditsumme",
+        "Eine längere Laufzeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie müssen im Vertrag vereinbart sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Berechnung der Bank kann man prüfen lassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das bieten etwa Verbraucherzentralen an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei vorzeitiger Rückzahlung kann die Bank eine Entschädigung verlangen.",
+        "Nach zehn Jahren ist eine Kündigung ohne Entschädigung möglich.",
+        "Sondertilgungen senken die Restschuld.",
+        "Die Berechnung prüfen lassen."
+      ]
+    }
+  ]
+}

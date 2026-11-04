@@ -1,0 +1,121 @@
+{
+  "id": "haus-b072-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du die Dunstabzugshaube?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dunstabzug",
+    "kueche",
+    "fettfilter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über dem Herd sammelt sich mit der Zeit eine klebrige Fettschicht.",
+        "Vor allem in den Filtern der Dunstabzugshaube."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Metallfilter regelmäßig spülen",
+      "absaetze": [
+        "Die meisten Hauben haben Fettfilter aus Metall. Sie fangen Fetttröpfchen aus dem Kochdunst auf. Je nach Nutzung solltest du sie etwa alle paar Wochen reinigen.",
+        "Viele Metallfilter dürfen in die Spülmaschine. Sonst hilft ein Bad in heißem Wasser mit Spülmittel. Lass die Filter danach gut trocknen."
+      ],
+      "merke": "Verschmutzte Fettfilter können Feuer fangen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abluft oder Umluft",
+      "absaetze": [
+        "Eine Ablufthaube leitet den Dunst nach draußen. Eine Umlufthaube reinigt die Luft und gibt sie zurück in die Küche. Dafür hat sie zusätzlich einen Aktivkohlefilter gegen Gerüche.",
+        "Diesen Filter kannst du meist nicht waschen, sondern musst ihn regelmäßig ersetzen. Manche Modelle lassen sich laut Hersteller im Backofen auffrischen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gehäuse schonend putzen",
+      "absaetze": [
+        "Schalte die Haube vor dem Putzen aus. Wische das Gehäuse mit warmem Wasser und etwas Spülmittel ab.",
+        "Verzichte bei Edelstahl auf Scheuermittel und kratzige Schwämme. Wische in Richtung des Schliffs, dann bleiben weniger Streifen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist ein verschmutzter Fettfilter gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Das Fett darin kann Feuer fangen",
+        "Er macht das Essen salzig",
+        "Er erhöht den Wasserverbrauch",
+        "Er zieht Insekten an"
+      ],
+      "richtig": 0,
+      "erklaerung": "Regelmäßiges Reinigen senkt das Risiko."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie reinigst du viele Metallfettfilter?",
+      "art": "mc",
+      "optionen": [
+        "In der Spülmaschine oder in heißem Spülwasser",
+        "Mit dem Staubsauger",
+        "Gar nicht",
+        "Mit Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gut trocknen lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was braucht eine Umlufthaube zusätzlich?",
+      "art": "mc",
+      "optionen": [
+        "Einen Aktivkohlefilter",
+        "Einen Wasseranschluss",
+        "Einen Kamin",
+        "Einen Gasanschluss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er bindet Gerüche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aktivkohlefilter kannst du meist einfach waschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie müssen meist ersetzt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Metallfettfilter regelmäßig reinigen.",
+        "Viele dürfen in die Spülmaschine.",
+        "Aktivkohlefilter bei Umluft ersetzen.",
+        "Edelstahl ohne Scheuermittel putzen."
+      ]
+    }
+  ]
+}

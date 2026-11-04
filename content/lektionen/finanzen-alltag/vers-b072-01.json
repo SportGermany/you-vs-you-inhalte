@@ -1,0 +1,121 @@
+{
+  "id": "vers-b072-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was tun nach einem Wildunfall?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kfz-Versicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wildunfall",
+    "teilkasko",
+    "auto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In der Dämmerung springt plötzlich ein Reh auf die Straße.",
+        "Was jetzt zu tun ist, solltest du vorher wissen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig reagieren",
+      "absaetze": [
+        "Taucht ein Tier auf, bremse kräftig und halte das Lenkrad gerade. Ein riskantes Ausweichmanöver kann gefährlicher sein als der Zusammenstoß.",
+        "Abblenden und Hupen kann Tiere vertreiben. Wo ein Tier ist, folgen oft weitere."
+      ],
+      "merke": "Bremsen und Spur halten ist oft sicherer als Ausweichen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach dem Zusammenstoß",
+      "absaetze": [
+        "Schalte die Warnblinkanlage ein, zieh die Warnweste an und stell das Warndreieck auf. Ruf dann die Polizei. Sie verständigt die zuständige Jägerin oder den Jäger.",
+        "Fass das Tier nicht an. Verletzte Tiere können sich wehren. Ein totes Tier mitzunehmen, gilt als Wilderei."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Versicherung zahlt",
+      "absaetze": [
+        "Die Teilkasko zahlt in der Regel Schäden durch einen Zusammenstoß mit Haarwild, etwa Reh, Wildschwein oder Fuchs. Manche Verträge decken auch andere Tiere ab.",
+        "Lass dir eine Wildunfallbescheinigung von Polizei oder Jäger geben. Mach Fotos vom Schaden. Ein Teilkaskoschaden verschlechtert deinen Schadenfreiheitsrabatt nicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist meist sicherer, wenn plötzlich ein Reh auftaucht?",
+      "art": "mc",
+      "optionen": [
+        "Bremsen und das Lenkrad gerade halten",
+        "Scharf ausweichen",
+        "Beschleunigen",
+        "Die Augen schließen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ausweichen kann zu schweren Unfällen führen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wen solltest du nach einem Wildunfall verständigen?",
+      "art": "mc",
+      "optionen": [
+        "Die Polizei",
+        "Den Tierarzt deiner Wahl",
+        "Niemanden",
+        "Die Autowerkstatt zuerst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie informiert den zuständigen Jäger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt meist bei einem Unfall mit Haarwild?",
+      "art": "mc",
+      "optionen": [
+        "Die Teilkasko",
+        "Die Hausratversicherung",
+        "Die Haftpflicht des Tieres",
+        "Die Krankenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Verträge decken auch andere Tiere ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein totes Reh darfst du nach dem Unfall mitnehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das gilt als Wilderei."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bremsen und Spur halten statt riskant ausweichen.",
+        "Unfallstelle sichern und Polizei rufen.",
+        "Das Tier nicht anfassen und nicht mitnehmen.",
+        "Die Teilkasko zahlt meist bei Haarwild."
+      ]
+    }
+  ]
+}

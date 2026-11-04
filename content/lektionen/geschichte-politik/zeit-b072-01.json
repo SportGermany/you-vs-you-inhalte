@@ -1,0 +1,121 @@
+{
+  "id": "zeit-b072-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was wurde aus dem Transrapid?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "transrapid",
+    "magnetschwebebahn",
+    "verkehr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Zug ohne Räder, der über der Schiene schwebt.",
+        "In Deutschland entwickelt, fährt er heute vor allem in China."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schweben statt Rollen",
+      "absaetze": [
+        "Der Transrapid ist eine Magnetschwebebahn. Elektromagnete heben den Zug einige Millimeter an und treiben ihn an. Weil es keine Reibung zwischen Rad und Schiene gibt, kann er sehr schnell fahren.",
+        "Entwickelt wurde er über Jahrzehnte in Deutschland. Im Emsland entstand eine eigene Teststrecke."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Große Pläne, keine Strecke",
+      "absaetze": [
+        "Eine Verbindung zwischen Berlin und Hamburg wurde 2000 aufgegeben. Auch eine Strecke zum Münchner Flughafen scheiterte 2008 an den hohen Kosten.",
+        "Gebaut wurde nur eine Strecke in Shanghai. Sie verbindet seit 2004 im regulären Betrieb den Flughafen mit der Stadt."
+      ],
+      "merke": "In Deutschland wurde nie eine Transrapid-Strecke für Fahrgäste gebaut."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Unglück von Lathen",
+      "absaetze": [
+        "Am 22. September 2006 prallte ein Transrapid auf der Teststrecke im Emsland gegen einen Werkstattwagen. 23 Menschen starben.",
+        "Später wurde der Testbetrieb eingestellt. Die Technik lebt aber weiter. China entwickelt eigene Magnetschwebebahnen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bewegt sich der Transrapid fort?",
+      "art": "mc",
+      "optionen": [
+        "Er schwebt mit Elektromagneten über der Fahrbahn",
+        "Auf Gummireifen",
+        "Mit Dampfkraft",
+        "An einem Seil"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch gibt es keine Reibung zwischen Rad und Schiene."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo fährt ein Transrapid im regulären Betrieb?",
+      "art": "mc",
+      "optionen": [
+        "In Shanghai",
+        "Zwischen Berlin und Hamburg",
+        "In München",
+        "In Paris"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verbindet den Flughafen mit der Stadt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum scheiterte die Münchner Strecke?",
+      "art": "mc",
+      "optionen": [
+        "An den hohen Kosten",
+        "An einem Erdbeben",
+        "Weil die Technik nicht funktionierte",
+        "Wegen eines Volksentscheids in Berlin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Projekt wurde 2008 aufgegeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Unglück von Lathen 2006 starben 23 Menschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Zug prallte gegen einen Werkstattwagen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Transrapid ist eine deutsche Magnetschwebebahn.",
+        "In Deutschland wurde keine Strecke für Fahrgäste gebaut.",
+        "In Shanghai fährt er seit 2004 regulär.",
+        "2006 starben beim Unglück von Lathen 23 Menschen."
+      ]
+    }
+  ]
+}

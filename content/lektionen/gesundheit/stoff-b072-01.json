@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b072-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist eine Magenschleimhautentzündung?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gastritis",
+    "magen",
+    "helicobacter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Druck im Oberbauch, Übelkeit, ein Völlegefühl nach wenigen Bissen.",
+        "Dahinter kann eine entzündete Magenschleimhaut stecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dabei passiert",
+      "absaetze": [
+        "Die Magenschleimhaut schützt die Magenwand vor der eigenen Magensäure. Bei einer Gastritis ist diese Schutzschicht entzündet.",
+        "Eine akute Gastritis kommt plötzlich und klingt oft nach einigen Tagen ab. Eine chronische Gastritis entwickelt sich langsam und verursacht manchmal kaum Beschwerden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Ursachen",
+      "absaetze": [
+        "Eine häufige Ursache ist das Bakterium Helicobacter pylori. Es kann sich in der Magenschleimhaut einnisten. Auch Schmerzmittel wie Ibuprofen oder Acetylsalicylsäure können die Schleimhaut reizen, vor allem bei häufigem Gebrauch.",
+        "Viel Alkohol und Rauchen belasten den Magen zusätzlich."
+      ],
+      "merke": "Helicobacter-Bakterien und manche Schmerzmittel sind häufige Auslöser.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abklären lassen",
+      "absaetze": [
+        "Halten die Beschwerden an, ist ein Arztbesuch sinnvoll. Helicobacter lässt sich etwa mit einem Atemtest oder bei einer Magenspiegelung nachweisen. Eine Infektion wird meist mit Antibiotika behandelt.",
+        "Unbehandelt kann eine Gastritis zu einem Magengeschwür führen. Bei Bluterbrechen oder schwarzem Stuhl brauchst du sofort ärztliche Hilfe."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovor schützt die Magenschleimhaut die Magenwand?",
+      "art": "mc",
+      "optionen": [
+        "Vor der eigenen Magensäure",
+        "Vor Kälte",
+        "Vor Vitaminen",
+        "Vor Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei einer Gastritis ist diese Schutzschicht entzündet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Bakterium ist ein häufiger Auslöser?",
+      "art": "mc",
+      "optionen": [
+        "Helicobacter pylori",
+        "Salmonella",
+        "Lactobacillus",
+        "Escherichia coli"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kann sich in der Schleimhaut einnisten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lässt sich Helicobacter nachweisen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Atemtest oder einer Magenspiegelung",
+        "Mit einem Sehtest",
+        "Mit einer Blutdruckmessung",
+        "Mit einem Hörtest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Infektion wird meist mit Antibiotika behandelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schwarzer Stuhl oder Bluterbrechen sind ein Notfall.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das kann auf eine Blutung im Magen hinweisen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Gastritis ist die Magenschleimhaut entzündet.",
+        "Häufige Auslöser sind Helicobacter und manche Schmerzmittel.",
+        "Anhaltende Beschwerden ärztlich abklären lassen.",
+        "Blut beim Erbrechen oder schwarzer Stuhl sind ein Notfall.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b072-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist das Exploding-Head-Syndrom?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "parasomnie",
+    "einschlafen",
+    "geraeusch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du döst gerade ein, und plötzlich knallt es laut in deinem Kopf.",
+        "Du schreckst hoch, aber im Zimmer ist alles still."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Knall, den nur du hörst",
+      "absaetze": [
+        "Beim Exploding-Head-Syndrom hören Betroffene beim Einschlafen oder Aufwachen ein lautes Geräusch. Es klingt etwa wie ein Schuss, eine Explosion oder ein zuschlagendes Tor. Manche sehen dabei auch einen Lichtblitz.",
+        "Der Name klingt dramatisch. Der Kopf explodiert aber nicht, und das Geräusch tut nicht weh."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Harmlos, aber erschreckend",
+      "absaetze": [
+        "Fachleute zählen das Syndrom zu den Parasomnien. Das sind ungewöhnliche Erlebnisse rund um den Schlaf. Die genaue Ursache ist unklar. Vermutet wird, dass das Gehirn beim Übergang in den Schlaf nicht ganz geordnet abschaltet.",
+        "Es ist häufiger, als viele denken. In einer Befragung von Studierenden berichtete fast jeder Fünfte davon."
+      ],
+      "merke": "Das Exploding-Head-Syndrom ist erschreckend, aber harmlos.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Oft hilft schon das Wissen, dass es harmlos ist. Stress und Schlafmangel scheinen die Episoden zu begünstigen. Ein regelmäßiger Schlafrhythmus ist daher sinnvoll.",
+        "Treten die Geräusche sehr oft auf oder kommen Kopfschmerzen und andere Beschwerden hinzu, lass das ärztlich abklären."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erleben Menschen mit Exploding-Head-Syndrom?",
+      "art": "mc",
+      "optionen": [
+        "Ein lautes Geräusch beim Einschlafen oder Aufwachen",
+        "Starke Kopfschmerzen in der Nacht",
+        "Schlafwandeln",
+        "Zähneknirschen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Geräusch ist laut, aber schmerzlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Gruppe von Schlafphänomenen zählt es?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Parasomnien",
+        "Zu den Schlafapnoen",
+        "Zu den Insomnien",
+        "Zu den Zirkadianstörungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Parasomnien sind ungewöhnliche Erlebnisse rund um den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was scheint die Episoden zu begünstigen?",
+      "art": "mc",
+      "optionen": [
+        "Stress und Schlafmangel",
+        "Viel Obst",
+        "Ein dunkles Zimmer",
+        "Ein offenes Fenster"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein regelmäßiger Rhythmus kann helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Exploding-Head-Syndrom wird das Gehirn verletzt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Phänomen gilt als harmlos."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein lauter Knall beim Einschlafen oder Aufwachen.",
+        "Das Phänomen ist erschreckend, aber harmlos.",
+        "Stress und Schlafmangel können es begünstigen.",
+        "Bei zusätzlichen Beschwerden ärztlich abklären."
+      ]
+    }
+  ]
+}

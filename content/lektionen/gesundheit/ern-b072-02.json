@@ -1,0 +1,130 @@
+{
+  "id": "ern-b072-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt im Granatapfel?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "granatapfel",
+    "obst",
+    "polyphenole"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Granatapfel ist voller kleiner, roter Kerne.",
+        "Sie herauszulösen, braucht etwas Geschick, ohne dass die Küche aussieht wie ein Tatort."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunderte saftige Kerne",
+      "absaetze": [
+        "Essbar sind die Samen mit ihrer saftigen, roten Hülle. Die weißen Trennhäute schmecken bitter.",
+        "Ein Trick hilft: Teile die Frucht und löse die Kerne in einer Schüssel mit Wasser heraus. Die Kerne sinken nach unten, die Häute schwimmen oben. So spritzt der Saft kaum."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflanzenstoffe und Ballaststoffe",
+      "absaetze": [
+        "Granatäpfel enthalten viele Polyphenole. Das sind Pflanzenstoffe, die im Körper als Antioxidantien wirken können. Dazu kommen Vitamin C, Kalium und Ballaststoffe aus den Kernen.",
+        "Wer die ganzen Kerne isst, bekommt mehr Ballaststoffe als mit Saft."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung sagt",
+      "absaetze": [
+        "Einzelne kleine Studien deuten darauf hin, dass Granatapfelsaft den Blutdruck leicht senken könnte. Die Ergebnisse sind aber uneinheitlich.",
+        "Granatäpfel sind ein gesundes Obst. Sie ersetzen aber keine Behandlung und keine abwechslungsreiche Ernährung."
+      ],
+      "merke": "Granatäpfel sind gesund, aber kein Heilmittel.",
+      "studienlage": 1
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Granatapfelsaft schützt vor Krebs.",
+      "urteil": "mythos",
+      "erklaerung": "Laborversuche mit Inhaltsstoffen des Granatapfels haben Interesse geweckt. Für einen Schutz vor Krebs beim Menschen gibt es aber keine ausreichenden Belege. Saft enthält zudem viel Fruchtzucker. Die ganze Frucht ist die bessere Wahl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Teil des Granatapfels wird gegessen?",
+      "art": "mc",
+      "optionen": [
+        "Die Samen mit der saftigen Hülle",
+        "Die weißen Trennhäute",
+        "Die Schale",
+        "Der Stiel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Häute schmecken bitter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie löst du die Kerne am saubersten heraus?",
+      "art": "mc",
+      "optionen": [
+        "In einer Schüssel mit Wasser",
+        "Mit einem Mixer",
+        "Durch Einfrieren der ganzen Frucht",
+        "Mit kochendem Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kerne sinken, die Häute schwimmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefern die ganzen Kerne mehr als Saft?",
+      "art": "mc",
+      "optionen": [
+        "Ballaststoffe",
+        "Koffein",
+        "Alkohol",
+        "Vitamin D"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Saft fehlen die Ballaststoffe weitgehend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist belegt, dass Granatapfelsaft vor Krebs schützt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es beim Menschen keine ausreichenden Belege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Essbar sind die saftigen Samen.",
+        "Granatäpfel enthalten Polyphenole und Ballaststoffe.",
+        "Die Wirkung auf den Blutdruck ist unsicher.",
+        "Ein Schutz vor Krebs ist nicht belegt."
+      ]
+    }
+  ]
+}
