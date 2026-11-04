@@ -1,0 +1,125 @@
+{
+  "id": "ern-b073-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Mangold?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mangold",
+    "blattgemuese",
+    "oxalsaeure"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mangold leuchtet im Beet mit roten, gelben oder weißen Stielen.",
+        "In der Küche wird er oft unterschätzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Verwandter der Roten Bete",
+      "absaetze": [
+        "Mangold ist eng mit der Roten Bete und der Zuckerrübe verwandt. Bei ihm isst man aber nicht die Wurzel, sondern Blätter und Stiele.",
+        "Die Blätter garen schnell, ähnlich wie Spinat. Die festen Stiele brauchen etwas länger. Schneide sie deshalb klein und gib sie zuerst in die Pfanne."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Mangold steckt",
+      "absaetze": [
+        "Mangold liefert Vitamin K, Magnesium, Kalium und Ballaststoffe. Dazu kommen Farbstoffe aus der Gruppe der Betalaine, die auch die Rote Bete färben.",
+        "Wer Medikamente zur Blutverdünnung vom Typ der Vitamin-K-Gegenspieler bekommt, sollte große Schwankungen bei Vitamin-K-reichem Gemüse vermeiden. Das bespricht man am besten ärztlich."
+      ],
+      "merke": "Mangold liefert viel Vitamin K und Magnesium.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oxalsäure und Nitrat",
+      "absaetze": [
+        "Wie Spinat enthält Mangold Oxalsäure. Sie bindet Kalzium und kann bei Neigung zu Nierensteinen ungünstig sein. Kurzes Blanchieren senkt den Gehalt, wenn du das Wasser danach weggießt.",
+        "Mangold kann außerdem viel Nitrat enthalten. Reste solltest du rasch abkühlen und nicht lange warmhalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Gemüse ist Mangold eng verwandt?",
+      "art": "mc",
+      "optionen": [
+        "Mit der Roten Bete",
+        "Mit dem Brokkoli",
+        "Mit der Gurke",
+        "Mit dem Lauch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch die Zuckerrübe gehört dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin liefert Mangold besonders reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin K",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin A aus Fleisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist bei manchen Blutverdünnern wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was senkt den Gehalt an Oxalsäure?",
+      "art": "mc",
+      "optionen": [
+        "Kurzes Blanchieren und Weggießen des Wassers",
+        "Langes Lagern im Licht",
+        "Einfrieren ohne Kochen",
+        "Salzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Teil löst sich ins Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mangoldreste sollte man lange warmhalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wegen des Nitrats besser rasch abkühlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mangold ist mit der Roten Bete verwandt.",
+        "Er liefert Vitamin K, Magnesium und Kalium.",
+        "Blanchieren senkt die Oxalsäure.",
+        "Reste rasch abkühlen statt warmhalten."
+      ]
+    }
+  ]
+}

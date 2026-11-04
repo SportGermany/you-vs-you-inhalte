@@ -1,0 +1,121 @@
+{
+  "id": "geld-b073-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie funktioniert ein Pfandhaus?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pfandhaus",
+    "pfandkredit",
+    "kurzfristig"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Waschmaschine ist kaputt, und das Konto ist leer.",
+        "Manche bringen dann Schmuck oder ein Handy ins Pfandhaus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geld gegen einen Gegenstand",
+      "absaetze": [
+        "Im Pfandhaus gibst du einen Wertgegenstand ab, etwa Schmuck, eine Uhr oder Elektronik. Dafür bekommst du sofort Bargeld. Meist ist das nur ein Teil des Werts.",
+        "Der Gegenstand dient als Sicherheit. Eine Schufa-Abfrage oder ein Einkommensnachweis ist nicht nötig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zurückholen oder verlieren",
+      "absaetze": [
+        "Der Kredit läuft meist nur einige Monate. Zahlst du das Geld samt Zinsen und Gebühren zurück, bekommst du deinen Gegenstand wieder.",
+        "Zahlst du nicht, wird das Pfand versteigert. Weitere Schulden entstehen dadurch nicht. Bringt die Versteigerung mehr als die offene Summe, steht dir der Überschuss zu."
+      ],
+      "merke": "Wer nicht zurückzahlt, verliert das Pfand, aber macht keine weiteren Schulden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teuer auf Dauer",
+      "absaetze": [
+        "Zinsen und Gebühren sind gesetzlich geregelt. Aufs Jahr gerechnet sind sie aber deutlich höher als bei vielen Bankkrediten.",
+        "Ein Pfandkredit eignet sich daher höchstens für einen kurzen Engpass. Wer immer wieder knapp ist, findet bei einer Schuldnerberatung kostenlose Hilfe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibst du im Pfandhaus als Sicherheit ab?",
+      "art": "mc",
+      "optionen": [
+        "Einen Wertgegenstand",
+        "Deinen Ausweis",
+        "Deine Bankkarte",
+        "Eine Gehaltsabrechnung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Schmuck oder eine Uhr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn du den Kredit nicht zurückzahlst?",
+      "art": "mc",
+      "optionen": [
+        "Das Pfand wird versteigert",
+        "Du bekommst eine Haftstrafe",
+        "Die Schulden verdoppeln sich",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weitere Schulden entstehen dadurch nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem steht ein Überschuss aus der Versteigerung zu?",
+      "art": "mc",
+      "optionen": [
+        "Dir",
+        "Dem Pfandhaus",
+        "Dem Staat",
+        "Der Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach Abzug der offenen Summe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Pfandkredit ist auf Dauer eine günstige Lösung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Aufs Jahr gerechnet ist er teuer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Pfandhaus gibt es Geld gegen einen Wertgegenstand.",
+        "Eine Schufa-Abfrage ist nicht nötig.",
+        "Ohne Rückzahlung wird das Pfand versteigert.",
+        "Für längere Geldnot ist eine Beratung sinnvoller."
+      ]
+    }
+  ]
+}

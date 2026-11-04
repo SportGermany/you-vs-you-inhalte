@@ -1,0 +1,127 @@
+{
+  "id": "haus-b073-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du Sportkleidung richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Waschen und Umwelt",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sportkleidung",
+    "waesche",
+    "funktionsfasern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Laufshirt ist frisch gewaschen und riecht trotzdem noch nach Schweiß.",
+        "Bei Sportkleidung kommt es auf die richtige Pflege an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Funktionsstoffe Gerüche halten",
+      "absaetze": [
+        "Viele Sportsachen bestehen aus Kunstfasern wie Polyester. Sie trocknen schnell, halten aber Gerüche hartnäckig fest. Fett und Bakterien setzen sich in den Fasern fest.",
+        "Lass verschwitzte Kleidung deshalb nicht lange feucht in der Sporttasche liegen. Häng sie zum Trocknen auf, bevor sie in den Wäschekorb kommt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig waschen",
+      "absaetze": [
+        "Dreh die Kleidung auf links, damit die Innenseite gut sauber wird. Wasche bei der Temperatur, die das Pflegeetikett erlaubt. Meist sind das 30 oder 40 Grad.",
+        "Verzichte auf Weichspüler. Er legt sich auf die Fasern und verschlechtert, wie die Stoffe Feuchtigkeit ableiten. Außerdem können sich Gerüche darunter halten."
+      ],
+      "merke": "Bei Funktionskleidung besser keinen Weichspüler verwenden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend trocknen",
+      "absaetze": [
+        "Viele Funktionsstoffe vertragen keine große Hitze. Lass sie an der Luft trocknen, das geht meist schnell.",
+        "Beim Waschen von Kunstfasern lösen sich winzige Fasern. Ein spezieller Waschbeutel kann einen Teil davon zurückhalten, bevor er ins Abwasser gelangt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum riechen Funktionsshirts oft trotz Wäsche?",
+      "art": "mc",
+      "optionen": [
+        "Kunstfasern halten Fett und Bakterien fest",
+        "Sie sind nicht waschbar",
+        "Sie bestehen aus Wolle",
+        "Das Wasser ist zu weich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb nicht lange feucht liegen lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du keinen Weichspüler verwenden?",
+      "art": "mc",
+      "optionen": [
+        "Er legt sich auf die Fasern",
+        "Er färbt die Kleidung",
+        "Er macht sie wasserdicht",
+        "Er ist verboten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Stoffe leiten Feuchtigkeit dann schlechter ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie trocknest du Funktionskleidung am schonendsten?",
+      "art": "mc",
+      "optionen": [
+        "An der Luft",
+        "Auf der Heizung",
+        "Im Backofen",
+        "Mit dem Bügeleisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Stoffe vertragen keine große Hitze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sportkleidung auf links zu waschen, hilft der Innenseite.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort sammelt sich der meiste Schweiß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Verschwitzte Kleidung erst trocknen lassen.",
+        "Auf links und nach Etikett waschen.",
+        "Keinen Weichspüler verwenden.",
+        "An der Luft trocknen lassen."
+      ]
+    }
+  ]
+}

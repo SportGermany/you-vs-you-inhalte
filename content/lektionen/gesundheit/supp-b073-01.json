@@ -1,0 +1,140 @@
+{
+  "id": "supp-b073-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Rosenwurz-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Arzneimittel",
+      "herausgeber": "Europäische Arzneimittel-Agentur (EMA)",
+      "url": "https://www.ema.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rosenwurz",
+    "rhodiola",
+    "stress"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rosenwurz wächst in kalten Gebirgen und im hohen Norden.",
+        "Als Präparat wird er gegen Stress und Erschöpfung beworben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Pflanze aus dem Norden",
+      "absaetze": [
+        "Rosenwurz, lateinisch Rhodiola rosea, wächst in Skandinavien, Sibirien und in Hochgebirgen. Ihre Wurzel duftet beim Anschneiden leicht nach Rosen.",
+        "In Skandinavien und Russland wird sie seit Langem traditionell gegen Müdigkeit verwendet."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Traditionell, nicht bewiesen",
+      "absaetze": [
+        "Die Europäische Arzneimittel-Agentur stuft Rosenwurz als traditionelles pflanzliches Mittel ein. Es soll Beschwerden bei Stress wie Müdigkeit vorübergehend lindern. Diese Einstufung beruht auf langer Erfahrung, nicht auf starken Studien.",
+        "Einige kleine Studien deuten darauf hin, dass Rosenwurz Erschöpfung etwas mildern könnte. Die Qualität der Studien ist aber begrenzt."
+      ],
+      "merke": "Die Wirkung von Rosenwurz ist nicht ausreichend belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ursachen klären",
+      "absaetze": [
+        "Anhaltende Müdigkeit kann viele Gründe haben, etwa Schlafmangel, Eisenmangel, eine Schilddrüsenerkrankung oder eine Depression. Das sollte ärztlich abgeklärt werden.",
+        "Nahrungsergänzungsmittel mit Rosenwurz sind nicht so streng geprüft wie Arzneimittel. Gehalt und Qualität können stark schwanken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Anhaltende Müdigkeit oder gedrückte Stimmung ärztlich abklären lassen.",
+        "In Schwangerschaft und Stillzeit sowie bei Kindern nicht ohne Rücksprache verwenden.",
+        "Bei regelmäßigen Medikamenten Wechselwirkungen ärztlich besprechen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wächst Rosenwurz?",
+      "art": "mc",
+      "optionen": [
+        "In kalten Gebirgen und im hohen Norden",
+        "In tropischen Regenwäldern",
+        "In Wüsten",
+        "Nur in Gewächshäusern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa in Skandinavien und Sibirien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stuft die Europäische Arzneimittel-Agentur Rosenwurz ein?",
+      "art": "mc",
+      "optionen": [
+        "Als traditionelles pflanzliches Mittel",
+        "Als nachgewiesenes Heilmittel gegen Depression",
+        "Als verbotenen Stoff",
+        "Als Impfstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Einstufung beruht auf langer Erfahrung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei anhaltender Müdigkeit tun?",
+      "art": "mc",
+      "optionen": [
+        "Die Ursache ärztlich abklären lassen",
+        "Mehr Kaffee trinken",
+        "Einfach abwarten",
+        "Mehrere Präparate kombinieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dahinter können behandelbare Ursachen stecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nahrungsergänzungsmittel werden so streng geprüft wie Arzneimittel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gehalt und Qualität können schwanken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rosenwurz ist eine Pflanze aus kalten Regionen.",
+        "Er gilt als traditionelles Mittel bei Stress.",
+        "Starke Belege für eine Wirkung fehlen.",
+        "Anhaltende Müdigkeit ärztlich abklären."
+      ]
+    }
+  ]
+}

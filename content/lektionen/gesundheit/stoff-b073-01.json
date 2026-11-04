@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b073-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Diabetes insipidus?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hormone und Stoffwechsel",
+      "herausgeber": "Deutsche Gesellschaft für Endokrinologie",
+      "url": "https://www.endokrinologie.net",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "diabetes-insipidus",
+    "hormone",
+    "durst"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Name klingt nach Zuckerkrankheit.",
+        "Mit dem Blutzucker hat Diabetes insipidus aber nichts zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hormon fehlt oder wirkt nicht",
+      "absaetze": [
+        "Das Hormon Vasopressin, auch ADH genannt, sorgt dafür, dass die Nieren Wasser im Körper halten. Es wird im Gehirn gebildet.",
+        "Fehlt es, scheiden die Nieren sehr viel verdünnten Urin aus. Manchmal ist das Hormon zwar da, aber die Nieren reagieren nicht darauf."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Durst, viel Urin",
+      "absaetze": [
+        "Typisch sind große Urinmengen, oft mehrere Liter am Tag, und starker Durst. Viele müssen auch nachts häufig auf die Toilette.",
+        "Das lateinische Wort insipidus heißt geschmacklos. Früher unterschied man so den wässrigen Urin vom süßen Urin bei der Zuckerkrankheit. Fachleute schlagen seit einigen Jahren neue Namen vor, um Verwechslungen zu vermeiden."
+      ],
+      "merke": "Diabetes insipidus hat nichts mit dem Blutzucker zu tun.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut behandelbar",
+      "absaetze": [
+        "Ursachen können etwa Verletzungen, Tumoren oder Entzündungen im Gehirn sein, aber auch Erkrankungen der Niere. Ärztinnen und Ärzte klären das mit Bluttests und einem Durstversuch.",
+        "Fehlt das Hormon, gibt es ein Medikament, das es ersetzt. Starker Durst mit sehr viel Urin sollte immer ärztlich abgeklärt werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon spielt bei Diabetes insipidus die Hauptrolle?",
+      "art": "mc",
+      "optionen": [
+        "Vasopressin, auch ADH genannt",
+        "Insulin",
+        "Adrenalin",
+        "Melatonin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es hilft den Nieren, Wasser im Körper zu halten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind typische Beschwerden?",
+      "art": "mc",
+      "optionen": [
+        "Sehr viel Urin und starker Durst",
+        "Sehr hoher Blutzucker",
+        "Gelbe Haut",
+        "Hautausschlag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft sind es mehrere Liter Urin am Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet das Wort insipidus?",
+      "art": "mc",
+      "optionen": [
+        "Geschmacklos",
+        "Süß",
+        "Gefährlich",
+        "Selten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeint ist der wässrige Urin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Diabetes insipidus ist eine Form der Zuckerkrankheit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es geht um den Wasserhaushalt, nicht um den Blutzucker."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Diabetes insipidus betrifft den Wasserhaushalt.",
+        "Das Hormon Vasopressin fehlt oder wirkt nicht.",
+        "Typisch sind viel Urin und starker Durst.",
+        "Die Erkrankung ist gut behandelbar.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

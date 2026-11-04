@@ -1,0 +1,127 @@
+{
+  "id": "vers-b073-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie versicherst du eine Solaranlage auf dem Dach?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wohngebäude und Photovoltaik",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "photovoltaik",
+    "solaranlage",
+    "wohngebaeude"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Solaranlage auf dem Dach kostet schnell viele Tausend Euro.",
+        "Sturm, Hagel oder Marder können sie beschädigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Über die Wohngebäudeversicherung",
+      "absaetze": [
+        "Manche Wohngebäudeversicherungen schließen eine Solaranlage auf dem Dach ein. Oft muss sie aber ausdrücklich angemeldet oder mitversichert werden.",
+        "Die Gebäudeversicherung zahlt dann meist bei Schäden durch Feuer, Sturm oder Hagel. Prüfe die Bedingungen schon vor der Inbetriebnahme."
+      ],
+      "merke": "Melde eine neue Solaranlage deiner Gebäudeversicherung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine eigene Photovoltaikversicherung",
+      "absaetze": [
+        "Spezielle Photovoltaikversicherungen decken oft mehr ab. Dazu gehören etwa Diebstahl, Marderbiss, Überspannung, Bedienungsfehler oder Schäden durch Schnee.",
+        "Manche Tarife zahlen auch den Ertragsausfall. Das ist der Strom, den die Anlage während einer Reparatur nicht erzeugt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haftpflicht nicht vergessen",
+      "absaetze": [
+        "Rutscht ein Modul vom Dach und verletzt jemanden, geht es um Haftung. Bei kleinen Anlagen auf dem eigenen Haus ist das oft über die private Haftpflicht abgedeckt. Frag am besten nach.",
+        "Auch für ein Balkonkraftwerk lohnt sich ein kurzer Hinweis an deine Haftpflicht- und Hausratversicherung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nach dem Bau einer Solaranlage tun?",
+      "art": "mc",
+      "optionen": [
+        "Sie bei der Gebäudeversicherung melden",
+        "Nichts, sie ist immer versichert",
+        "Die Haftpflicht kündigen",
+        "Sie beim Finanzamt versichern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft muss sie ausdrücklich mitversichert werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deckt eine spezielle Photovoltaikversicherung oft zusätzlich ab?",
+      "art": "mc",
+      "optionen": [
+        "Marderbiss und Überspannung",
+        "Zahnarztkosten",
+        "Reiserücktritt",
+        "Autounfälle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Diebstahl ist oft eingeschlossen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist mit Ertragsausfall gemeint?",
+      "art": "mc",
+      "optionen": [
+        "Der Strom, der während einer Reparatur fehlt",
+        "Ein Steuerbescheid",
+        "Die Kosten für neue Ziegel",
+        "Ein höherer Strompreis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Tarife ersetzen ihn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch ein Balkonkraftwerk solltest du der Versicherung melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein kurzer Hinweis an Haftpflicht und Hausrat lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Solaranlage bei der Gebäudeversicherung melden.",
+        "Spezielle Policen decken mehr Risiken ab.",
+        "Ertragsausfall kann mitversichert werden.",
+        "Haftpflicht prüfen, auch beim Balkonkraftwerk."
+      ]
+    }
+  ]
+}

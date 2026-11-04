@@ -1,0 +1,121 @@
+{
+  "id": "tech-b073-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie hält ein Abstandstempomat Abstand?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fahrerassistenzsysteme",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "abstandstempomat",
+    "fahrerassistenz",
+    "radar"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Autobahn bremst das Auto von selbst, weil vorn jemand langsamer wird.",
+        "Dahinter steckt ein Abstandstempomat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tempo und Abstand",
+      "absaetze": [
+        "Ein normaler Tempomat hält nur die eingestellte Geschwindigkeit. Ein Abstandstempomat achtet zusätzlich auf das Fahrzeug vor dir. Fachleute nennen ihn auch adaptiven Tempomat.",
+        "Wird der Vordermann langsamer, bremst dein Auto selbst ab. Ist die Spur wieder frei, beschleunigt es bis zum eingestellten Tempo."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Radar und Kamera",
+      "absaetze": [
+        "Meist misst ein Radarsensor vorn im Auto ständig den Abstand und die Geschwindigkeit des Vordermanns. Oft hilft eine Kamera hinter der Frontscheibe dabei.",
+        "Viele Systeme können im Stau bis zum Stillstand abbremsen und wieder anfahren."
+      ],
+      "merke": "Ein Radarsensor misst laufend den Abstand zum Vordermann."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen kennen",
+      "absaetze": [
+        "Der Abstandstempomat ist eine Hilfe, kein Autopilot. Du bleibst für das Fahren verantwortlich.",
+        "Starker Regen, Schnee oder ein verschmutzter Sensor können die Messung stören. Auch stehende Hindernisse oder enge Kurven erkennt das System nicht immer zuverlässig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein Abstandstempomat mehr als ein normaler Tempomat?",
+      "art": "mc",
+      "optionen": [
+        "Er passt das Tempo an das Fahrzeug davor an",
+        "Er lenkt das Auto selbst durch die Stadt",
+        "Er tankt automatisch",
+        "Er parkt das Auto"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er bremst und beschleunigt selbst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit misst er meist den Abstand?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Radarsensor",
+        "Mit einem Thermometer",
+        "Mit einem Mikrofon",
+        "Mit dem Tacho allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft hilft eine Kamera dabei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann die Messung stören?",
+      "art": "mc",
+      "optionen": [
+        "Starker Regen oder ein verschmutzter Sensor",
+        "Laute Musik im Auto",
+        "Eine volle Tankanzeige",
+        "Das Radio"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann kann das System Hindernisse übersehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit Abstandstempomat bist du nicht mehr für das Fahren verantwortlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist eine Hilfe, kein Autopilot."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Abstandstempomat hält Tempo und Abstand.",
+        "Er misst meist mit Radar und Kamera.",
+        "Viele Systeme helfen auch im Stau.",
+        "Die Verantwortung bleibt beim Menschen."
+      ]
+    }
+  ]
+}

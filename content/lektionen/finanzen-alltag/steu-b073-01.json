@@ -1,0 +1,121 @@
+{
+  "id": "steu-b073-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Muss man Trinkgeld versteuern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "trinkgeld",
+    "lohnsteuer",
+    "gastronomie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Essen rundest du die Rechnung großzügig auf.",
+        "Muss die Kellnerin dieses Trinkgeld eigentlich versteuern?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für Angestellte meist steuerfrei",
+      "absaetze": [
+        "Trinkgeld, das Angestellte freiwillig von Gästen oder Kundinnen bekommen, ist in Deutschland steuerfrei. Eine Obergrenze gibt es dafür nicht.",
+        "Das gilt etwa für Bedienungen, Friseure, Taxifahrerinnen oder Lieferboten. Auch Trinkgeld per Karte bleibt steuerfrei, wenn es an die Beschäftigten weitergegeben wird."
+      ],
+      "merke": "Freiwilliges Trinkgeld von Kunden ist für Angestellte steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Bedingungen",
+      "absaetze": [
+        "Das Trinkgeld muss freiwillig sein und zusätzlich zum Preis gezahlt werden. Es muss von Dritten kommen, also von Gästen und nicht vom Arbeitgeber.",
+        "Ein fester Bedienungszuschlag auf der Rechnung ist kein Trinkgeld. Er gehört zum Umsatz und ist steuerpflichtig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für Selbstständige anders",
+      "absaetze": [
+        "Für Selbstständige und Inhaber gilt die Steuerfreiheit nicht. Bekommt etwa die Inhaberin eines Friseursalons Trinkgeld, zählt es zu ihren Einnahmen.",
+        "Geld, das der Arbeitgeber selbst als Bonus zahlt, ist ebenfalls normaler, steuerpflichtiger Lohn."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist freiwilliges Trinkgeld für eine angestellte Kellnerin steuerpflichtig?",
+      "art": "mc",
+      "optionen": [
+        "Nein, es ist steuerfrei",
+        "Ja, immer",
+        "Nur über zehn Euro",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Obergrenze gibt es nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von wem muss steuerfreies Trinkgeld kommen?",
+      "art": "mc",
+      "optionen": [
+        "Von Dritten, etwa Gästen",
+        "Vom Arbeitgeber",
+        "Vom Finanzamt",
+        "Von Kollegen aus der Lohnkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Bonus vom Arbeitgeber ist normaler Lohn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für einen festen Bedienungszuschlag?",
+      "art": "mc",
+      "optionen": [
+        "Er ist kein Trinkgeld und steuerpflichtig",
+        "Er ist immer steuerfrei",
+        "Er ist verboten",
+        "Er gehört dem Gast"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gehört zum Umsatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Selbstständige müssen erhaltenes Trinkgeld versteuern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für sie gilt die Steuerfreiheit nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Freiwilliges Trinkgeld ist für Angestellte steuerfrei.",
+        "Es muss von Gästen kommen, nicht vom Arbeitgeber.",
+        "Feste Bedienungszuschläge sind kein Trinkgeld.",
+        "Selbstständige müssen Trinkgeld versteuern."
+      ]
+    }
+  ]
+}
