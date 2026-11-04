@@ -1,0 +1,121 @@
+{
+  "id": "steu-b081-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du die Kosten deiner Ausbildung absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ausbildungskosten",
+    "studium",
+    "werbungskosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Studiengebühren, Bücher, ein Laptop, Fahrten zur Uni.",
+        "Eine Ausbildung kostet Geld, und manches davon holt dir das Finanzamt zurück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erste Ausbildung",
+      "absaetze": [
+        "Für eine erste Ausbildung oder ein Erststudium direkt nach der Schule gelten die Kosten als Sonderausgaben. Absetzbar ist ein Höchstbetrag pro Jahr.",
+        "Sonderausgaben senken aber nur die Steuer im selben Jahr. Wer kaum Einkommen hat, profitiert davon meist wenig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zweite Ausbildung oder Master",
+      "absaetze": [
+        "Bei einer zweiten Ausbildung, etwa einem Studium nach einer Lehre oder einem Master nach dem Bachelor, gelten die Kosten als Werbungskosten. Dafür gibt es keine Obergrenze.",
+        "Hast du in dieser Zeit wenig Einkommen, entsteht ein Verlust. Das Finanzamt kann ihn feststellen und später mit deinem ersten Gehalt verrechnen."
+      ],
+      "merke": "Kosten einer Zweitausbildung können später die Steuer senken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dazugehört",
+      "absaetze": [
+        "Absetzbar sind etwa Studiengebühren, Fachbücher, Arbeitsmittel wie ein Laptop, Fahrtkosten und bei auswärtiger Unterbringung auch Teile der Wohnkosten.",
+        "Sammle alle Belege. Eine Steuererklärung kannst du auch rückwirkend für einige Jahre abgeben, wenn du sie freiwillig machst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelten Kosten einer ersten Ausbildung?",
+      "art": "mc",
+      "optionen": [
+        "Als Sonderausgaben mit Höchstbetrag",
+        "Als Werbungskosten ohne Grenze",
+        "Gar nicht",
+        "Als Spende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wirken nur im selben Jahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelten Kosten eines Masters nach dem Bachelor?",
+      "art": "mc",
+      "optionen": [
+        "Als Werbungskosten",
+        "Als Sonderausgaben",
+        "Als Geschenk",
+        "Als Kredit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür gibt es keine Obergrenze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit einem Verlust während der Zweitausbildung?",
+      "art": "mc",
+      "optionen": [
+        "Er kann später mit dem Gehalt verrechnet werden",
+        "Er verfällt immer",
+        "Er muss zurückgezahlt werden",
+        "Er wird an die Eltern übertragen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Finanzamt stellt ihn fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fachbücher und Fahrtkosten können absetzbar sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Belege sammeln lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erstausbildung zählt zu den Sonderausgaben.",
+        "Zweitausbildung zählt zu den Werbungskosten.",
+        "Verluste können später die Steuer senken.",
+        "Alle Belege sammeln."
+      ]
+    }
+  ]
+}

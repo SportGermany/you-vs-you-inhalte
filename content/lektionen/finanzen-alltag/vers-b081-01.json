@@ -1,0 +1,127 @@
+{
+  "id": "vers-b081-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was tun, wenn der Handwerker pfuscht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Werkvertragsrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "handwerker",
+    "maengel",
+    "werkvertrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die neuen Fliesen sind schief, der Wasserhahn tropft schon wieder.",
+        "Bei schlechter Handwerksarbeit hast du klare Rechte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Abnahme ist wichtig",
+      "absaetze": [
+        "Bei einem Auftrag an einen Handwerksbetrieb schließt du meist einen Werkvertrag. Der Betrieb schuldet ein mangelfreies Ergebnis.",
+        "Nach getaner Arbeit folgt die Abnahme. Prüfe genau und notiere Mängel schriftlich. Nimmst du die Arbeit trotz bekannter Mängel ohne Vorbehalt ab, kann das deine Rechte schwächen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst nachbessern lassen",
+      "absaetze": [
+        "Zeigt sich ein Mangel, darf der Handwerker zuerst nachbessern. Setze ihm dafür schriftlich eine angemessene Frist.",
+        "Klappt das nicht, kannst du den Preis mindern, den Mangel von einem anderen Betrieb beheben lassen und die Kosten verlangen oder vom Vertrag zurücktreten. Bis zur Behebung darfst du einen Teil der Rechnung zurückhalten."
+      ],
+      "merke": "Der Handwerker darf zuerst nachbessern, aber nur innerhalb einer Frist."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fristen und Beweise",
+      "absaetze": [
+        "Für Arbeiten an Gebäuden verjähren Mängelansprüche meist erst nach fünf Jahren, bei anderen Arbeiten nach zwei Jahren.",
+        "Mach Fotos und bewahre alle Unterlagen auf. Bei Streit können ein Gutachten oder die Verbraucherzentrale helfen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schuldet ein Handwerksbetrieb bei einem Werkvertrag?",
+      "art": "mc",
+      "optionen": [
+        "Ein mangelfreies Ergebnis",
+        "Nur seine Anwesenheit",
+        "Nur die Materialien",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Erfolg der Arbeit zählt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei der Abnahme tun?",
+      "art": "mc",
+      "optionen": [
+        "Mängel schriftlich festhalten",
+        "Alles ungeprüft unterschreiben",
+        "Sofort alles bezahlen",
+        "Den Handwerker wegschicken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst kann das deine Rechte schwächen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darf der Handwerker bei einem Mangel zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Nachbessern",
+        "Mehr Geld verlangen",
+        "Den Auftrag kündigen",
+        "Nichts tun"
+      ],
+      "richtig": 0,
+      "erklaerung": "Setze ihm dafür eine angemessene Frist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mängel an Gebäudearbeiten verjähren meist nach fünf Jahren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei anderen Arbeiten nach zwei Jahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Werkvertrag schuldet ein mangelfreies Ergebnis.",
+        "Mängel bei der Abnahme schriftlich festhalten.",
+        "Erst Nachbesserung mit Frist verlangen.",
+        "Fotos und Unterlagen aufbewahren."
+      ]
+    }
+  ]
+}

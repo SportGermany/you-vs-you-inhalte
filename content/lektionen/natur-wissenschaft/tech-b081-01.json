@@ -1,0 +1,121 @@
+{
+  "id": "tech-b081-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie speichert ein Pumpspeicherkraftwerk Strom?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Energiespeicher und Böden",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pumpspeicher",
+    "energiespeicher",
+    "wasserkraft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wasser bergauf pumpen, um später Strom zu bekommen.",
+        "Klingt umständlich, ist aber einer der wichtigsten Stromspeicher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Becken, ein Höhenunterschied",
+      "absaetze": [
+        "Ein Pumpspeicherkraftwerk hat zwei Wasserbecken, eines oben auf einem Berg und eines im Tal. Dazwischen liegen Rohre mit Pumpen und Turbinen.",
+        "Gibt es gerade viel Strom, etwa an sonnigen oder windigen Tagen, pumpt die Anlage Wasser nach oben. So wird Strom als Lageenergie gespeichert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Strom auf Abruf",
+      "absaetze": [
+        "Wird mehr Strom gebraucht, fließt das Wasser wieder nach unten und treibt Turbinen an. Das geht innerhalb weniger Minuten.",
+        "Dabei geht etwa ein Viertel der Energie verloren. Trotzdem sind Pumpspeicher weltweit die größten Stromspeicher. Sie helfen, Schwankungen von Wind- und Solarstrom auszugleichen."
+      ],
+      "merke": "Pumpspeicher gleichen Schwankungen im Stromnetz aus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Begrenzte Standorte",
+      "absaetze": [
+        "Für ein solches Kraftwerk braucht es Berge und viel Platz. In Deutschland gibt es nur rund drei Dutzend Anlagen, die größte steht in Goldisthal in Thüringen.",
+        "Neue Anlagen stoßen oft auf Widerstand wegen der Eingriffe in die Natur. Deshalb werden zusätzlich große Batteriespeicher gebaut."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann pumpt ein Pumpspeicherkraftwerk Wasser nach oben?",
+      "art": "mc",
+      "optionen": [
+        "Wenn viel Strom vorhanden ist",
+        "Nur nachts bei Regen",
+        "Wenn Strom fehlt",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird Strom gespeichert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Energie geht etwa verloren?",
+      "art": "mc",
+      "optionen": [
+        "Etwa ein Viertel",
+        "Fast alles",
+        "Gar nichts",
+        "Zehnmal mehr als erzeugt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trotzdem lohnt sich die Speicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steht das größte deutsche Pumpspeicherkraftwerk?",
+      "art": "mc",
+      "optionen": [
+        "In Goldisthal in Thüringen",
+        "In Hamburg",
+        "Auf Sylt",
+        "In Berlin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür braucht es Berge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pumpspeicher können innerhalb weniger Minuten Strom liefern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das macht sie für das Netz wertvoll."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pumpspeicher nutzen zwei Becken auf unterschiedlicher Höhe.",
+        "Überschüssiger Strom pumpt Wasser nach oben.",
+        "Bei Bedarf erzeugt das Wasser wieder Strom.",
+        "Sie gleichen Schwankungen von Wind und Sonne aus."
+      ]
+    }
+  ]
+}

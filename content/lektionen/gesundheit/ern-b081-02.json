@@ -1,0 +1,125 @@
+{
+  "id": "ern-b081-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Meerrettich?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "meerrettich",
+    "kren",
+    "senfoele"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frisch gerieben treibt er Tränen in die Augen.",
+        "In Bayern und Österreich heißt er Kren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Scharf durch Senföle",
+      "absaetze": [
+        "Meerrettich ist eine Wurzel und gehört zu den Kreuzblütlern, wie Senf und Kohl. Seine Schärfe entsteht erst beim Reiben oder Schneiden. Dann werden Senföle frei.",
+        "Diese Stoffe sind flüchtig. Deshalb verliert frisch geriebener Meerrettich schnell an Schärfe. Ein paar Tropfen Zitronensaft oder Essig halten ihn länger frisch."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in der Wurzel steckt",
+      "absaetze": [
+        "Meerrettich enthält viel Vitamin C sowie Kalium. Da man meist nur kleine Mengen isst, ist sein Beitrag zur Ernährung aber begrenzt.",
+        "Laborversuche zeigen, dass Senföle Bakterien hemmen können. Einzelne Studien deuten darauf hin, dass Präparate mit Senfölen bei Harnwegs- oder Atemwegsinfekten unterstützen könnten. Belegt ist das beim Menschen nicht ausreichend."
+      ],
+      "merke": "Die Senföle im Meerrettich wirken im Labor gegen Bakterien.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei empfindlichem Magen",
+      "absaetze": [
+        "In größeren Mengen kann Meerrettich Magen und Darm reizen. Menschen mit Magenproblemen sollten vorsichtig sein.",
+        "Fertiger Meerrettich aus dem Glas enthält oft Zusätze wie Sahne, Zucker oder Konservierungsstoffe. Ein Blick auf die Zutatenliste lohnt sich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht die Schärfe des Meerrettichs?",
+      "art": "mc",
+      "optionen": [
+        "Beim Reiben oder Schneiden",
+        "Beim Waschen",
+        "Beim Kochen",
+        "Beim Einfrieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann werden Senföle frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt Meerrettich in Bayern und Österreich?",
+      "art": "mc",
+      "optionen": [
+        "Kren",
+        "Rettich",
+        "Rübe",
+        "Wasabi"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beides ist dieselbe Pflanze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält geriebenen Meerrettich länger frisch?",
+      "art": "mc",
+      "optionen": [
+        "Etwas Zitronensaft oder Essig",
+        "Salz und Hitze",
+        "Zucker allein",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst verliert er schnell an Schärfe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Wirkung von Senfölen gegen Infekte ist beim Menschen gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt vor allem Laborergebnisse und einzelne Studien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Meerrettich ist scharf durch Senföle.",
+        "Frisch gerieben verliert er schnell an Schärfe.",
+        "Er enthält viel Vitamin C.",
+        "In großen Mengen kann er den Magen reizen."
+      ]
+    }
+  ]
+}

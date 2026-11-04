@@ -1,0 +1,121 @@
+{
+  "id": "all-b081-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum heißt die Venus Morgenstern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Venus",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "venus",
+    "morgenstern",
+    "abendstern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kurz vor Sonnenaufgang leuchtet am Himmel ein besonders heller Punkt.",
+        "Viele halten ihn für einen Stern, doch es ist ein Planet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hell und nah an der Sonne",
+      "absaetze": [
+        "Nach Sonne und Mond ist die Venus das hellste Objekt am Himmel. Sie ist von dichten Wolken umhüllt, die viel Sonnenlicht zurückwerfen.",
+        "Weil die Venus näher an der Sonne kreist als die Erde, steht sie von uns aus gesehen nie weit von der Sonne entfernt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Morgens oder abends",
+      "absaetze": [
+        "Deshalb sieht man die Venus nur in der Dämmerung. Mal geht sie kurz vor der Sonne auf und leuchtet am Morgenhimmel, mal steht sie nach Sonnenuntergang im Westen.",
+        "So kam sie zu zwei Namen: Morgenstern und Abendstern. Im Altertum hielten manche die beiden sogar für verschiedene Himmelskörper."
+      ],
+      "merke": "Morgenstern und Abendstern sind derselbe Planet: die Venus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Stern",
+      "absaetze": [
+        "Obwohl sie so heißt, ist die Venus kein Stern. Sie leuchtet nicht selbst, sondern spiegelt das Licht der Sonne.",
+        "Sterne funkeln, weil ihr winziges Licht durch die unruhige Luft flackert. Die Venus leuchtet dagegen ziemlich ruhig, weil sie uns als kleines Scheibchen erscheint."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Objekt ist nach Sonne und Mond das hellste am Himmel?",
+      "art": "mc",
+      "optionen": [
+        "Die Venus",
+        "Der Polarstern",
+        "Der Mars",
+        "Der Jupitermond Io"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihre Wolken werfen viel Licht zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sieht man die Venus nur in der Dämmerung?",
+      "art": "mc",
+      "optionen": [
+        "Sie steht nie weit von der Sonne entfernt",
+        "Sie ist tagsüber unsichtbar dunkel",
+        "Sie ist nur nachts da",
+        "Sie kreist um den Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kreist näher an der Sonne als die Erde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Abendstern?",
+      "art": "mc",
+      "optionen": [
+        "Ebenfalls die Venus",
+        "Der Mars",
+        "Der Sirius",
+        "Ein Komet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Morgen- und Abendstern sind derselbe Planet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Venus leuchtet aus eigener Kraft wie ein Stern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie spiegelt das Sonnenlicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Venus ist sehr hell.",
+        "Sie steht immer nahe der Sonne.",
+        "Man sieht sie nur morgens oder abends.",
+        "Morgen- und Abendstern sind derselbe Planet."
+      ]
+    }
+  ]
+}

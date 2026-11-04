@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b081-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft Kamillentee beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kamille",
+    "tee",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Tasse Kamillentee vor dem Schlafengehen ist für viele ein Ritual.",
+        "Doch macht die Kamille wirklich müde?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein altes Hausmittel",
+      "absaetze": [
+        "Kamille wird seit Jahrhunderten als Heilpflanze genutzt, etwa bei Magenbeschwerden oder Entzündungen. Als Abendtee gilt sie als beruhigend.",
+        "Kamille enthält unter anderem den Pflanzenstoff Apigenin. Forschende vermuten, dass er im Gehirn leicht entspannend wirken könnte."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass Kamillentee oder Kamillenextrakt die Schlafqualität etwas verbessern könnte, etwa bei älteren Menschen.",
+        "Die Studien sind aber klein, und die Effekte waren gering. Bei echten Schlafstörungen ist eine Wirkung nicht belegt."
+      ],
+      "merke": "Eine schlaffördernde Wirkung von Kamille ist nicht gut belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Ritual zählt",
+      "absaetze": [
+        "Ein warmer Tee kann trotzdem helfen, weil er Teil eines ruhigen Abendrituals ist. Das signalisiert dem Körper, dass der Tag zu Ende geht.",
+        "Trink nicht zu viel direkt vor dem Schlafen, sonst musst du nachts auf die Toilette. Wer allergisch auf Korbblütler reagiert, sollte bei Kamille vorsichtig sein."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Pflanzenstoff in Kamille könnte entspannend wirken?",
+      "art": "mc",
+      "optionen": [
+        "Apigenin",
+        "Koffein",
+        "Nikotin",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist aber nicht sicher belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist die schlaffördernde Wirkung belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nur schwach durch kleine Studien",
+        "Sehr gut",
+        "Eindeutig widerlegt",
+        "Gar nicht untersucht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Effekte waren gering."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann Kamillentee trotzdem helfen?",
+      "art": "mc",
+      "optionen": [
+        "Als Teil eines ruhigen Abendrituals",
+        "Weil er Koffein enthält",
+        "Weil er sehr süß ist",
+        "Weil er kalt ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Ritual signalisiert das Tagesende."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Allergie gegen Korbblütler ist bei Kamille Vorsicht geboten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kamille gehört zu den Korbblütlern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kamille gilt als beruhigendes Hausmittel.",
+        "Die Wirkung auf den Schlaf ist nicht gut belegt.",
+        "Als Abendritual kann Tee trotzdem helfen.",
+        "Nicht zu viel direkt vor dem Schlafen trinken."
+      ]
+    }
+  ]
+}
