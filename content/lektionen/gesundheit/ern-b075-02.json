@@ -1,0 +1,124 @@
+{
+  "id": "ern-b075-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in der Quitte?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährung im Fokus",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "quitte",
+    "obst",
+    "pektin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Quitte duftet herrlich, ist roh aber steinhart und sauer.",
+        "Erst in der Küche zeigt sie, was in ihr steckt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein altes Herbstobst",
+      "absaetze": [
+        "Die Quitte stammt ursprünglich aus der Region um den Kaukasus. Sie ist mit Apfel und Birne verwandt. Je nach Form unterscheidet man Apfelquitten und Birnenquitten.",
+        "Reife Quitten sind gelb und tragen oft einen feinen Flaum. Reibe ihn vor der Verarbeitung mit einem Tuch ab, denn er schmeckt bitter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reich an Pektin",
+      "absaetze": [
+        "Quitten enthalten viel Pektin. Das ist ein Ballaststoff, der beim Kochen geliert. Deshalb eignen sie sich gut für Gelee, Mus oder Quittenbrot.",
+        "Dazu liefern sie Vitamin C, Kalium und Gerbstoffe. Die Gerbstoffe machen rohe Quitten herb. Beim Kochen werden sie milder."
+      ],
+      "merke": "Das viele Pektin macht Quitten ideal für Gelee.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kerne nicht zerkleinern",
+      "absaetze": [
+        "Die Kerne enthalten Amygdalin. Werden sie zerkleinert oder zerkaut, kann daraus giftige Blausäure entstehen.",
+        "Entferne das Kerngehäuse deshalb vor dem Pürieren. Ganze Kerne, die beim Saftkochen mitgekocht und abgeseiht werden, gelten als unproblematisch."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die Quitte ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Region um den Kaukasus",
+        "Aus Südamerika",
+        "Aus Skandinavien",
+        "Aus Australien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist mit Apfel und Birne verwandt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum eignen sich Quitten gut für Gelee?",
+      "art": "mc",
+      "optionen": [
+        "Sie enthalten viel Pektin",
+        "Sie enthalten viel Fett",
+        "Sie sind besonders salzig",
+        "Sie bestehen nur aus Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pektin geliert beim Kochen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du die Kerne nicht zerkleinern?",
+      "art": "mc",
+      "optionen": [
+        "Es kann giftige Blausäure entstehen",
+        "Sie färben das Gelee blau",
+        "Sie machen es zu süß",
+        "Sie verkleben den Mixer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kerne enthalten Amygdalin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Quitten schmecken roh meist süß und weich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Roh sind sie hart und herb."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Quitten sind ein altes Herbstobst.",
+        "Sie enthalten viel Pektin.",
+        "Den bitteren Flaum vorher abreiben.",
+        "Kerne nicht zerkleinern."
+      ]
+    }
+  ]
+}

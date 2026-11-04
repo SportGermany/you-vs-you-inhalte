@@ -1,0 +1,134 @@
+{
+  "id": "supp-b075-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft Echinacea gegen Erkältungen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Arzneimittel",
+      "herausgeber": "Europäische Arzneimittel-Agentur (EMA)",
+      "url": "https://www.ema.europa.eu",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "echinacea",
+    "sonnenhut",
+    "erkaeltung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn die Nase zu kribbeln beginnt, greifen viele zu Sonnenhut.",
+        "Doch wie viel kann die Pflanze wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Pflanze aus Nordamerika",
+      "absaetze": [
+        "Echinacea, auf Deutsch Sonnenhut, stammt aus Nordamerika. Ureinwohner nutzten sie traditionell bei verschiedenen Beschwerden.",
+        "Heute gibt es Säfte, Tropfen und Tabletten aus Kraut oder Wurzel. Die Präparate unterscheiden sich stark in Pflanzenart und Herstellung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Zusammenfassungen vieler Studien deuten darauf hin, dass manche Echinacea-Präparate das Risiko für eine Erkältung leicht senken könnten. Die Ergebnisse sind aber uneinheitlich.",
+        "Ob Echinacea eine bereits begonnene Erkältung verkürzt, ist unklar. Eine deutliche Wirkung ist nicht belegt."
+      ],
+      "merke": "Die Wirkung von Echinacea bei Erkältungen ist unsicher.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für jeden geeignet",
+      "absaetze": [
+        "Menschen mit einer Allergie gegen Korbblütler wie Kamille oder Arnika können allergisch reagieren.",
+        "Bei Autoimmunerkrankungen und für kleine Kinder raten Fachleute von Echinacea ab. Eine Erkältung klingt meist ohnehin nach rund einer Woche von selbst ab."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht bei Allergie gegen Korbblütler verwenden.",
+        "Bei Autoimmunerkrankungen und für Kinder nur nach ärztlicher Rücksprache.",
+        "In Schwangerschaft und Stillzeit nicht ohne Rücksprache verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt Echinacea auf Deutsch?",
+      "art": "mc",
+      "optionen": [
+        "Sonnenhut",
+        "Löwenzahn",
+        "Ringelblume",
+        "Holunder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflanze stammt aus Nordamerika."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deuten Studien zur Vorbeugung an?",
+      "art": "mc",
+      "optionen": [
+        "Manche Präparate könnten das Risiko leicht senken",
+        "Echinacea verhindert jede Erkältung",
+        "Echinacea macht krank",
+        "Es gibt keine Studien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ergebnisse sind uneinheitlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte bei Echinacea besonders vorsichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Allergie gegen Korbblütler",
+        "Menschen mit Brille",
+        "Menschen mit Sommersprossen",
+        "Linkshänder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bei Autoimmunerkrankungen raten Fachleute ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Erkältung klingt meist nach rund einer Woche von selbst ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch ohne Präparat."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Echinacea heißt auf Deutsch Sonnenhut.",
+        "Eine Wirkung bei Erkältungen ist unsicher.",
+        "Bei Korbblütler-Allergie Vorsicht.",
+        "Erkältungen klingen meist von selbst ab."
+      ]
+    }
+  ]
+}

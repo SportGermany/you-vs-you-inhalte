@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b075-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was machen die Nebenschilddrüsen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hormone und Stoffwechsel",
+      "herausgeber": "Deutsche Gesellschaft für Endokrinologie",
+      "url": "https://www.endokrinologie.net",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nebenschilddruese",
+    "kalzium",
+    "parathormon"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sie sind so klein wie Linsen und sitzen hinter der Schilddrüse.",
+        "Trotzdem steuern sie einen der wichtigsten Mineralstoffe im Körper."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Drüsen, große Aufgabe",
+      "absaetze": [
+        "Die meisten Menschen haben vier Nebenschilddrüsen. Trotz ihres Namens haben sie mit der Schilddrüse selbst wenig zu tun.",
+        "Sie bilden das Parathormon. Es sorgt dafür, dass genug Kalzium im Blut ist. Dazu holt es Kalzium aus den Knochen, verringert Verluste über die Niere und fördert über Vitamin D die Aufnahme aus dem Darm."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn sie zu viel arbeiten",
+      "absaetze": [
+        "Bei einer Überfunktion steigt der Kalziumspiegel im Blut. Häufige Ursache ist ein gutartiger Knoten in einer der Drüsen.",
+        "Mögliche Folgen sind Nierensteine, Knochenschwund, Müdigkeit, Durst und Magenbeschwerden. Oft fällt ein hoher Kalziumwert aber zuerst bei einer Routine-Blutuntersuchung auf."
+      ],
+      "merke": "Eine Überfunktion erhöht das Kalzium im Blut.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Behandlung und Unterfunktion",
+      "absaetze": [
+        "Eine Überfunktion lässt sich häufig mit einer Operation beheben, bei der die vergrößerte Drüse entfernt wird.",
+        "Eine Unterfunktion entsteht manchmal nach einer Operation an der Schilddrüse. Dann ist zu wenig Kalzium im Blut. Typisch sind Kribbeln an Händen und Mund oder Muskelkrämpfe. Das sollte ärztlich behandelt werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Nebenschilddrüsen haben die meisten Menschen?",
+      "art": "mc",
+      "optionen": [
+        "Vier",
+        "Eine",
+        "Zwei",
+        "Zehn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind so klein wie Linsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Mineralstoff regelt das Parathormon?",
+      "art": "mc",
+      "optionen": [
+        "Kalzium",
+        "Eisen",
+        "Jod",
+        "Natrium allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sorgt für genug Kalzium im Blut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine Überfunktion verursachen?",
+      "art": "mc",
+      "optionen": [
+        "Nierensteine und Knochenschwund",
+        "Haarwuchs",
+        "Bessere Sehkraft",
+        "Gewichtszunahme an den Füßen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft fällt sie per Bluttest auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Nebenschilddrüsen bilden Schilddrüsenhormone.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bilden das Parathormon."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Nebenschilddrüsen bilden Parathormon.",
+        "Es regelt das Kalzium im Blut.",
+        "Eine Überfunktion kann Nierensteine verursachen.",
+        "Eine Unterfunktion zeigt sich oft durch Kribbeln.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

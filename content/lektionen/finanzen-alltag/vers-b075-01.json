@@ -1,0 +1,121 @@
+{
+  "id": "vers-b075-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wozu brauchst du eine Vorsorgevollmacht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Vorsorge und Betreuungsrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vorsorgevollmacht",
+    "betreuung",
+    "vorsorge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Unfall kannst du plötzlich nicht mehr selbst entscheiden.",
+        "Wer kümmert sich dann um Bank, Arzt und Vermieter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn du nicht mehr entscheiden kannst",
+      "absaetze": [
+        "Mit einer Vorsorgevollmacht bestimmst du eine Person deines Vertrauens. Sie darf für dich handeln, wenn du es selbst nicht mehr kannst, etwa nach einem Unfall oder bei Demenz.",
+        "Ohne Vollmacht bestellt das Betreuungsgericht im Ernstfall eine rechtliche Betreuung. Das kann auch eine fremde Person sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ehepartner dürfen nicht automatisch alles",
+      "absaetze": [
+        "Viele glauben, dass Ehepartner oder Kinder automatisch entscheiden dürfen. Das stimmt nicht.",
+        "Seit 2023 gibt es ein Notvertretungsrecht für Ehepartner. Es gilt aber nur für Gesundheitsfragen und höchstens sechs Monate. Für Geld, Verträge oder Wohnung braucht es eine Vollmacht."
+      ],
+      "merke": "Ehepartner dürfen ohne Vollmacht nur eingeschränkt für dich entscheiden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So geht es",
+      "absaetze": [
+        "Formulare gibt es etwa beim Bundesministerium der Justiz. Die Vollmacht sollte schriftlich und unterschrieben sein. Für Bankgeschäfte verlangen Banken oft eine eigene Vollmacht.",
+        "Geht es um Immobilien, ist eine notarielle Beurkundung sinnvoll. Du kannst die Vollmacht im Zentralen Vorsorgeregister eintragen lassen. So finden Gerichte sie im Ernstfall."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist eine Vorsorgevollmacht da?",
+      "art": "mc",
+      "optionen": [
+        "Damit eine Vertrauensperson für dich handeln darf",
+        "Um Steuern zu sparen",
+        "Um ein Testament zu ersetzen",
+        "Um eine Versicherung abzuschließen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt, wenn du selbst nicht mehr entscheiden kannst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert ohne Vollmacht im Ernstfall?",
+      "art": "mc",
+      "optionen": [
+        "Das Gericht bestellt eine rechtliche Betreuung",
+        "Alles bleibt liegen",
+        "Die Bank entscheidet",
+        "Der Vermieter entscheidet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann auch eine fremde Person sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie weit reicht das Notvertretungsrecht für Ehepartner?",
+      "art": "mc",
+      "optionen": [
+        "Nur für Gesundheitsfragen, höchstens sechs Monate",
+        "Für alles, unbegrenzt",
+        "Nur für Bankgeschäfte",
+        "Es gibt keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Geld und Verträge braucht es eine Vollmacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ehepartner dürfen automatisch über dein Konto verfügen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür brauchen sie eine Vollmacht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Vorsorgevollmacht bestimmt eine Vertrauensperson.",
+        "Ohne sie bestellt das Gericht eine Betreuung.",
+        "Ehepartner dürfen nur eingeschränkt vertreten.",
+        "Im Zentralen Vorsorgeregister ist sie auffindbar."
+      ]
+    }
+  ]
+}

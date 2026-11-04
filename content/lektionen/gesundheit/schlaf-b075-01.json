@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b075-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Gibt es Menschen, die mit wenig Schlaf auskommen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kurzschlaefer",
+    "schlafbedarf",
+    "gene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche behaupten, ihnen reichen vier Stunden Schlaf.",
+        "Die meisten von ihnen irren sich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der übliche Bedarf",
+      "absaetze": [
+        "Die meisten Erwachsenen brauchen etwa sieben bis neun Stunden Schlaf. Es gibt eine natürliche Spannbreite, aber deutlich weniger reicht den allermeisten nicht.",
+        "Wer dauerhaft zu kurz schläft, gewöhnt sich an das Gefühl. Tests zeigen aber, dass Aufmerksamkeit und Reaktion trotzdem nachlassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Echte Kurzschläfer sind selten",
+      "absaetze": [
+        "Es gibt Menschen, die mit etwa vier bis sechs Stunden Schlaf auskommen und sich trotzdem fit fühlen. Sie sind aber sehr selten.",
+        "2009 fanden Forschende in einer Familie mit solchen Kurzschläfern eine besondere Genvariante. Inzwischen kennt man weitere. Bei den meisten Menschen mit wenig Schlaf steckt jedoch einfach Schlafmangel dahinter."
+      ],
+      "merke": "Echte Kurzschläfer haben oft eine seltene genetische Besonderheit.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie du deinen Bedarf erkennst",
+      "absaetze": [
+        "Ein guter Hinweis ist der Urlaub. Wie lange schläfst du nach ein paar Tagen, wenn du ohne Wecker aufwachst?",
+        "Fühlst du dich tagsüber müde oder brauchst du viel Koffein, schläfst du wahrscheinlich zu wenig. Es lohnt sich dann, früher ins Bett zu gehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Schlaf brauchen die meisten Erwachsenen?",
+      "art": "mc",
+      "optionen": [
+        "Etwa sieben bis neun Stunden",
+        "Etwa drei Stunden",
+        "Mindestens zwölf Stunden",
+        "Genau fünf Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt eine natürliche Spannbreite."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fanden Forschende 2009 bei einer Familie von Kurzschläfern?",
+      "art": "mc",
+      "optionen": [
+        "Eine besondere Genvariante",
+        "Ein besonderes Kissen",
+        "Eine Allergie",
+        "Einen Vitaminmangel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Inzwischen kennt man weitere Varianten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt meist hinter wenig Schlaf?",
+      "art": "mc",
+      "optionen": [
+        "Einfach Schlafmangel",
+        "Eine Superkraft",
+        "Ein besonders großes Gehirn",
+        "Viel Sport"
+      ],
+      "richtig": 0,
+      "erklaerung": "Echte Kurzschläfer sind sehr selten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer dauerhaft zu wenig schläft, merkt die Folgen immer selbst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Man gewöhnt sich an das Gefühl, die Leistung sinkt trotzdem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die meisten brauchen sieben bis neun Stunden.",
+        "Echte Kurzschläfer sind sehr selten.",
+        "Oft ist eine Genvariante beteiligt.",
+        "Müdigkeit am Tag spricht für zu wenig Schlaf."
+      ]
+    }
+  ]
+}

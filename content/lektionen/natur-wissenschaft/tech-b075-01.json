@@ -1,0 +1,121 @@
+{
+  "id": "tech-b075-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie erkennt dein Handy dein Gesicht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Biometrie",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gesichtserkennung",
+    "biometrie",
+    "smartphone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kurzer Blick, und das Handy ist entsperrt.",
+        "Dahinter steckt eine Vermessung deines Gesichts."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einfache Kameras",
+      "absaetze": [
+        "Manche Handys nutzen für die Gesichtserkennung nur die normale Frontkamera. Sie vergleichen ein flaches Bild mit dem gespeicherten.",
+        "Solche Verfahren lassen sich leichter täuschen, etwa mit einem Foto. Für das Bezahlen oder Banking sind sie deshalb oft nicht freigegeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vermessung in 3D",
+      "absaetze": [
+        "Sicherere Systeme projizieren Tausende unsichtbare Infrarotpunkte auf dein Gesicht. Eine Infrarotkamera erfasst, wie die Punkte verzerrt werden.",
+        "Daraus entsteht ein dreidimensionales Modell deines Gesichts. Ein Foto hat diese Tiefe nicht. Das System funktioniert auch im Dunkeln."
+      ],
+      "merke": "3D-Gesichtserkennung lässt sich durch Fotos kaum täuschen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was mit deinen Daten passiert",
+      "absaetze": [
+        "Bei gängigen Smartphones bleiben die Gesichtsdaten auf dem Gerät. Sie werden in einem besonders geschützten Bereich des Chips gespeichert.",
+        "Ganz fehlerfrei ist kein Verfahren. Eineiige Zwillinge oder sehr ähnlich aussehende Geschwister können manche Systeme verwechseln. Eine zusätzliche PIN bleibt wichtig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lässt sich eine einfache 2D-Gesichtserkennung leichter täuschen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Foto",
+        "Mit einer Taschenlampe",
+        "Mit Musik",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihr fehlt die Tiefeninformation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit arbeitet eine sichere 3D-Erkennung?",
+      "art": "mc",
+      "optionen": [
+        "Mit unsichtbaren Infrarotpunkten",
+        "Mit Ultraschall",
+        "Mit dem Mikrofon",
+        "Mit GPS"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Infrarotkamera erfasst ihre Verzerrung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo bleiben die Gesichtsdaten bei gängigen Smartphones?",
+      "art": "mc",
+      "optionen": [
+        "Auf dem Gerät in einem geschützten Bereich",
+        "Öffentlich im Internet",
+        "Bei der Polizei",
+        "Beim Mobilfunkanbieter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden im Chip besonders geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eineiige Zwillinge können manche Systeme täuschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine zusätzliche PIN bleibt wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einfache Systeme nutzen nur die Frontkamera.",
+        "Sichere Systeme vermessen das Gesicht in 3D.",
+        "Die Daten bleiben meist auf dem Gerät.",
+        "Eine zusätzliche PIN bleibt wichtig."
+      ]
+    }
+  ]
+}

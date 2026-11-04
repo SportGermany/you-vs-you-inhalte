@@ -1,0 +1,121 @@
+{
+  "id": "steu-b075-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist der Progressionsvorbehalt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "progressionsvorbehalt",
+    "elterngeld",
+    "steuernachzahlung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Elterngeld ist steuerfrei, und trotzdem kommt eine Nachzahlung.",
+        "Schuld ist der Progressionsvorbehalt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerfrei, aber nicht ohne Wirkung",
+      "absaetze": [
+        "Manche Leistungen sind selbst steuerfrei, etwa Elterngeld, Arbeitslosengeld, Krankengeld oder Kurzarbeitergeld. Sie ersetzen ausgefallenen Lohn.",
+        "Beim Berechnen des Steuersatzes werden sie trotzdem mitgezählt. Das nennt man Progressionsvorbehalt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein höherer Steuersatz",
+      "absaetze": [
+        "Das Finanzamt rechnet so, als hättest du diese Leistungen zusätzlich verdient. Daraus ergibt sich ein höherer Steuersatz.",
+        "Dieser höhere Satz gilt dann für dein übriges, steuerpflichtiges Einkommen. Die Leistung selbst wird nicht besteuert, aber dein Lohn wird teurer."
+      ],
+      "merke": "Steuerfreie Leistungen können den Steuersatz auf den übrigen Lohn erhöhen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Hast du im Jahr mehr als 410 Euro solcher Leistungen bekommen, musst du eine Steuererklärung abgeben.",
+        "Eine Nachzahlung ist dann gut möglich. Lege am besten etwas Geld zur Seite. Hattest du außer der Leistung kaum Einkommen, fällt oft gar keine Steuer an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Leistung unterliegt dem Progressionsvorbehalt?",
+      "art": "mc",
+      "optionen": [
+        "Elterngeld",
+        "Kindergeld",
+        "Wohngeld",
+        "Ein Geburtstagsgeschenk"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Arbeitslosengeld und Krankengeld gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt der Progressionsvorbehalt?",
+      "art": "mc",
+      "optionen": [
+        "Einen höheren Steuersatz auf das übrige Einkommen",
+        "Eine Steuer auf das Elterngeld selbst",
+        "Eine Steuerbefreiung für alles",
+        "Einen niedrigeren Steuersatz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Leistung selbst bleibt steuerfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem Betrag solcher Leistungen musst du eine Steuererklärung abgeben?",
+      "art": "mc",
+      "optionen": [
+        "Ab mehr als 410 Euro im Jahr",
+        "Ab einem Euro",
+        "Ab 10.000 Euro",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann besteht eine Pflicht zur Abgabe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Progressionsvorbehalt wird das Elterngeld selbst besteuert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es erhöht nur den Steuersatz für das übrige Einkommen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lohnersatzleistungen sind steuerfrei.",
+        "Sie erhöhen aber den Steuersatz.",
+        "Ab 410 Euro besteht Abgabepflicht.",
+        "Für eine mögliche Nachzahlung Geld zurücklegen."
+      ]
+    }
+  ]
+}
