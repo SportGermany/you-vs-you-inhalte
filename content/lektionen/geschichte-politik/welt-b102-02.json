@@ -1,0 +1,121 @@
+{
+  "id": "welt-b102-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Louis Pasteur?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte des Instituts",
+      "herausgeber": "Institut Pasteur",
+      "url": "https://www.pasteur.fr",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pasteur",
+    "mikroben",
+    "impfung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf vielen Milchpackungen steht das Wort pasteurisiert. Es geht auf einen französischen Forscher zurück.",
+        "Louis Pasteur veränderte unser Verständnis von Krankheiten grundlegend."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Lebewesen als Ursache",
+      "absaetze": [
+        "Louis Pasteur lebte von 1822 bis 1895 in Frankreich. Er war Chemiker und untersuchte zunächst, warum Wein und Bier gären oder verderben.",
+        "Er zeigte, dass dafür winzige Lebewesen verantwortlich sind, sogenannte Mikroorganismen. Kurzes Erhitzen tötet viele davon ab. Dieses Verfahren heißt nach ihm Pasteurisierung."
+      ],
+      "merke": "Pasteur zeigte, dass Mikroorganismen Gärung und Verderb auslösen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leben entsteht nicht von selbst",
+      "absaetze": [
+        "Viele glaubten damals, Leben könne von selbst aus toter Materie entstehen. Pasteur widerlegte das mit Glaskolben, die einen langen, gebogenen Hals hatten.",
+        "Abgekochte Nährlösung blieb darin lange klar, weil keine Keime aus der Luft hineingelangten. Brach er den Hals ab, wurde sie schnell trüb."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Impfstoffe und Tollwut",
+      "absaetze": [
+        "Pasteur entwickelte Impfstoffe gegen Tierkrankheiten wie Milzbrand. 1885 behandelte er einen Jungen, den ein tollwütiger Hund gebissen hatte. Der Junge überlebte.",
+        "1887 wurde in Paris das Institut Pasteur gegründet. Es zählt bis heute zu den wichtigsten Forschungsinstituten für Infektionskrankheiten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt die Pasteurisierung?",
+      "art": "mc",
+      "optionen": [
+        "Kurzes Erhitzen tötet viele Keime ab",
+        "Lebensmittel werden tiefgefroren",
+        "Zucker wird entfernt",
+        "Vitamine werden zugesetzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Verfahren ist nach Pasteur benannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte Pasteur mit seinen Glaskolben?",
+      "art": "mc",
+      "optionen": [
+        "Leben entsteht nicht von selbst aus toter Materie",
+        "Licht ist schneller als Schall",
+        "Wasser kocht bei 100 Grad",
+        "Luft hat kein Gewicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Keime aus der Luft blieb die Lösung klar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegen welche Krankheit behandelte er 1885 einen Jungen?",
+      "art": "mc",
+      "optionen": [
+        "Tollwut",
+        "Masern",
+        "Grippe",
+        "Cholera"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein tollwütiger Hund hatte den Jungen gebissen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pasteur war von Beruf Chemiker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er begann mit Untersuchungen zur Gärung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pasteur zeigte, dass Mikroorganismen Gärung und Verderb verursachen.",
+        "Die Pasteurisierung ist nach ihm benannt.",
+        "Er widerlegte die Idee, dass Leben von selbst entsteht.",
+        "Er entwickelte Impfstoffe, etwa gegen Tollwut."
+      ]
+    }
+  ]
+}

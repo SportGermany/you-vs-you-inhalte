@@ -1,0 +1,121 @@
+{
+  "id": "koer-b102-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie entsteht deine Stimme?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stimme",
+    "kehlkopf",
+    "stimmlippen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du sprichst, singst, flüsterst und lachst, meist ohne darüber nachzudenken.",
+        "Dahinter steckt ein fein abgestimmtes Zusammenspiel im Hals und im Mund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwingende Stimmlippen",
+      "absaetze": [
+        "Im Kehlkopf sitzen zwei Gewebefalten, die Stimmlippen. Oft heißen sie auch Stimmbänder. Beim Atmen stehen sie offen, beim Sprechen schließen sie sich fast.",
+        "Die Luft aus der Lunge drückt gegen sie und bringt sie zum Schwingen. So entsteht ein Ton. Je schneller sie schwingen, desto höher klingt er."
+      ],
+      "merke": "Die Stimme entsteht, wenn Luft die Stimmlippen im Kehlkopf zum Schwingen bringt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hoch und tief",
+      "absaetze": [
+        "Durch Spannen und Entspannen der Stimmlippen veränderst du die Tonhöhe. Längere und dickere Stimmlippen klingen tiefer.",
+        "In der Pubertät wächst der Kehlkopf, bei Jungen besonders stark. Ihre Stimmlippen werden länger, und die Stimme wird deutlich tiefer. Das nennt man Stimmbruch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klang und Laute",
+      "absaetze": [
+        "Der Ton aus dem Kehlkopf klingt zunächst schwach. Rachen, Mund und Nase verstärken ihn und geben ihm seine Klangfarbe.",
+        "Zunge, Lippen und Gaumen formen daraus Vokale und Konsonanten. Hält eine Heiserkeit länger als drei Wochen an, solltest du sie ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo entsteht der Ton der Stimme?",
+      "art": "mc",
+      "optionen": [
+        "Im Kehlkopf",
+        "In der Lunge",
+        "Im Magen",
+        "In der Nase"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort sitzen die Stimmlippen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bringt die Stimmlippen zum Schwingen?",
+      "art": "mc",
+      "optionen": [
+        "Luft aus der Lunge",
+        "Der Herzschlag",
+        "Speichel",
+        "Die Zunge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je schneller sie schwingen, desto höher der Ton."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Stimmbruch?",
+      "art": "mc",
+      "optionen": [
+        "Die Stimmlippen werden länger und die Stimme tiefer",
+        "Die Stimme verschwindet",
+        "Die Stimme wird immer höher",
+        "Die Zunge wächst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Kehlkopf wächst in der Pubertät."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zunge und Lippen formen Vokale und Konsonanten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Rachen, Mund und Nase geben den Klang."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Stimmlippen im Kehlkopf erzeugen den Ton.",
+        "Ihre Spannung bestimmt die Tonhöhe.",
+        "Im Stimmbruch wird die Stimme tiefer.",
+        "Mund, Rachen und Nase formen den Klang."
+      ]
+    }
+  ]
+}

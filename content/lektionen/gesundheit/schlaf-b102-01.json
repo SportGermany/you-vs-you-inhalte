@@ -1,0 +1,152 @@
+{
+  "id": "schlaf-b102-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was hilft Kindern beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kinder",
+    "einschlafen",
+    "abendritual"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Noch ein Glas Wasser, noch eine Geschichte, noch einmal aufs Klo. Viele Familien kennen das abendliche Hin und Her.",
+        "Einige einfache Regeln machen das Einschlafen für Kinder oft leichter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feste Zeiten und Rituale",
+      "absaetze": [
+        "Kinder profitieren von regelmäßigen Schlafenszeiten, auch am Wochenende. So stellt sich ihre innere Uhr auf den Abend ein.",
+        "Ein immer gleicher Ablauf hilft beim Abschalten. Zum Beispiel Schlafanzug, Zähneputzen, Vorlesen und ein Lied. Das Ritual signalisiert dem Kind: Jetzt wird es ruhig."
+      ],
+      "merke": "Feste Zeiten und ein gleicher Ablauf helfen Kindern beim Abschalten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ruhe statt Bildschirm",
+      "absaetze": [
+        "Toben, spannende Filme und Spiele am Tablet machen kurz vor dem Schlafen eher wach. Bildschirme sollten deshalb rechtzeitig vorher aus sein.",
+        "Das Kinderzimmer sollte ruhig, eher dunkel und nicht zu warm sein. Ein schwaches Nachtlicht ist in Ordnung, wenn das Kind Angst im Dunkeln hat."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ängste ernst nehmen",
+      "absaetze": [
+        "Viele Kinder haben abends Angst, etwa vor Monstern oder dem Alleinsein. Hör zu, beruhige und bleib dabei gelassen.",
+        "Viel Bewegung am Tag und Zeit an der frischen Luft fördern guten Schlaf. Halten Einschlafprobleme lange an, ist die Kinderarztpraxis ein guter Ansprechpartner."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Ein Abendritual in vier Schritten",
+      "schritte": [
+        {
+          "titel": "Ankündigen",
+          "text": "Sag rechtzeitig Bescheid, dass bald Schlafenszeit ist."
+        },
+        {
+          "titel": "Bildschirme aus",
+          "text": "Beende Tablet und Fernsehen vor dem Ritual."
+        },
+        {
+          "titel": "Gleicher Ablauf",
+          "text": "Zähneputzen, Schlafanzug, Vorlesen, jeden Abend gleich."
+        },
+        {
+          "titel": "Ruhiger Abschluss",
+          "text": "Ein Lied oder ein kurzes Gespräch, dann Licht aus."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft Kindern beim Einschlafen?",
+      "art": "mc",
+      "optionen": [
+        "Ein immer gleicher Ablauf am Abend",
+        "Spannende Filme im Bett",
+        "Jeden Abend eine andere Uhrzeit",
+        "Toben bis kurz vor dem Schlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rituale signalisieren, dass es ruhig wird."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sollte das Kinderzimmer sein?",
+      "art": "mc",
+      "optionen": [
+        "Ruhig, eher dunkel und nicht zu warm",
+        "Hell und laut",
+        "Sehr warm",
+        "Mit laufendem Fernseher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein schwaches Nachtlicht ist bei Angst in Ordnung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollten Bildschirme aus sein?",
+      "art": "mc",
+      "optionen": [
+        "Rechtzeitig vor dem Schlafengehen",
+        "Erst beim Einschlafen",
+        "Gar nicht",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Spannende Inhalte machen eher wach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bewegung am Tag kann den Schlaf von Kindern fördern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch frische Luft tut gut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Feste Schlafenszeiten helfen der inneren Uhr.",
+        "Ein gleiches Abendritual beruhigt.",
+        "Bildschirme rechtzeitig ausschalten.",
+        "Ängste ernst nehmen und bei Dauerproblemen ärztlich fragen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "supp-b102-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Löwenzahn-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Arzneimittel",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "loewenzahn",
+    "verdauung",
+    "pflanzenextrakt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Löwenzahn wächst auf fast jeder Wiese. Viele halten ihn nur für Unkraut.",
+        "Als Tee, Saft oder Kapsel wird er für Verdauung und Entwässerung angeboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Traditionelle Verwendung",
+      "absaetze": [
+        "Wurzel und Kraut des Löwenzahns werden seit Langem bei leichten Verdauungsbeschwerden genutzt. Dazu zählen Völlegefühl und Blähungen.",
+        "Er gilt außerdem als harntreibend. Das bedeutet, dass mehr Urin ausgeschieden wird. Seine Bitterstoffe sollen die Bildung von Verdauungssäften anregen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig Studien am Menschen",
+      "absaetze": [
+        "Die Verwendung beruht vor allem auf Erfahrung. Gute Studien am Menschen gibt es kaum. Kleine Untersuchungen deuten darauf hin, dass Löwenzahn die Urinmenge leicht erhöhen könnte.",
+        "Eine Wirkung beim Abnehmen oder Entgiften ist nicht belegt. Wasser auszuscheiden heißt nicht, Fett zu verlieren."
+      ],
+      "merke": "Für Löwenzahn gibt es kaum gute Studien am Menschen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer vorsichtig sein sollte",
+      "absaetze": [
+        "Menschen mit Allergie gegen Korbblütler wie Kamille oder Arnika können auch auf Löwenzahn reagieren. Bei Gallensteinen oder Magengeschwüren wird von Löwenzahn abgeraten.",
+        "Weil er harntreibend wirkt, kann er die Wirkung mancher Medikamente verändern. Frag daher vorher in der Apotheke oder Arztpraxis nach."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht bei Allergie gegen Korbblütler wie Kamille oder Arnika.",
+        "Bei Gallensteinen, Gallenwegserkrankungen oder Magengeschwüren vorher ärztlich nachfragen.",
+        "Bei Einnahme von Medikamenten, vor allem entwässernden, in der Apotheke nachfragen.",
+        "Nicht für Kinder, Schwangere und Stillende ohne ärztlichen Rat."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Löwenzahn-Präparate entgiften den Körper.",
+      "urteil": "mythos",
+      "erklaerung": "Für eine Entgiftung gibt es keine Belege. Leber und Nieren übernehmen diese Aufgabe. Mehr Urin bedeutet nicht, dass Giftstoffe verschwinden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird Löwenzahn traditionell genutzt?",
+      "art": "mc",
+      "optionen": [
+        "Bei leichten Verdauungsbeschwerden",
+        "Gegen Knochenbrüche",
+        "Gegen Kurzsichtigkeit",
+        "Zum Muskelaufbau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seine Bitterstoffe sollen die Verdauungssäfte anregen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist die Studienlage?",
+      "art": "mc",
+      "optionen": [
+        "Es gibt kaum gute Studien am Menschen",
+        "Die Wirkung ist hervorragend belegt",
+        "Es gibt Tausende große Studien",
+        "Er wurde nie untersucht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Verwendung beruht vor allem auf Erfahrung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte bei Löwenzahn vorsichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Allergie gegen Korbblütler",
+        "Alle, die gern Salat essen",
+        "Menschen mit Brille",
+        "Sportlerinnen und Sportler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören etwa Kamille und Arnika."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wasser auszuscheiden bedeutet, Fett zu verlieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Gewicht sinkt nur kurz durch weniger Wasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Löwenzahn wird traditionell bei Verdauungsbeschwerden genutzt.",
+        "Er gilt als harntreibend.",
+        "Gute Studien am Menschen fehlen weitgehend.",
+        "Bei Allergien, Gallensteinen und Medikamenten vorsichtig sein."
+      ]
+    }
+  ]
+}

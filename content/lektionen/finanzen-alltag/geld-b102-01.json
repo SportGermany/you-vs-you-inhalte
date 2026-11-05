@@ -1,0 +1,121 @@
+{
+  "id": "geld-b102-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist ein Klumpenrisiko?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "klumpenrisiko",
+    "streuung",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Leg nicht alle Eier in einen Korb, sagt ein altes Sprichwort.",
+        "Bei der Geldanlage heißt das Problem dahinter Klumpenrisiko."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alles auf eine Karte",
+      "absaetze": [
+        "Ein Klumpenrisiko entsteht, wenn ein großer Teil deines Geldes von einer einzigen Sache abhängt. Das kann eine Aktie, eine Branche, ein Land oder eine Immobilie sein.",
+        "Läuft es dort schlecht, trifft es dein ganzes Vermögen. Selbst große, bekannte Unternehmen können in Schwierigkeiten geraten."
+      ],
+      "merke": "Ein Klumpenrisiko entsteht, wenn viel Geld an einer einzigen Sache hängt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Versteckte Klumpen",
+      "absaetze": [
+        "Manche Klumpen fallen nicht gleich auf. Wer Aktien seines Arbeitgebers besitzt, hängt doppelt von dieser Firma ab. Geht es ihr schlecht, sind Job und Erspartes gefährdet.",
+        "Auch wer nur in heimische Unternehmen investiert, setzt stark auf ein einzelnes Land."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Streuen senkt das Risiko",
+      "absaetze": [
+        "Verteile dein Geld auf viele Unternehmen, Branchen und Länder. Fachleute nennen das Diversifikation. Verluste an einer Stelle werden dann oft durch andere ausgeglichen.",
+        "Ein breit gestreuter Fonds, etwa auf einen weltweiten Index, ist dafür eine einfache Möglichkeit. Ganz ohne Risiko ist aber keine Anlage."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht ein Klumpenrisiko?",
+      "art": "mc",
+      "optionen": [
+        "Wenn viel Geld an einer einzigen Sache hängt",
+        "Wenn du gar nicht anlegst",
+        "Wenn du jeden Monat sparst",
+        "Wenn du viele verschiedene Aktien hast"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann trifft dich ein Rückschlag besonders hart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Aktien des eigenen Arbeitgebers ein Klumpen?",
+      "art": "mc",
+      "optionen": [
+        "Job und Erspartes hängen von derselben Firma ab",
+        "Sie sind immer wertlos",
+        "Sie sind verboten",
+        "Sie bringen keine Dividende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Geht es der Firma schlecht, trifft es dich doppelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das Verteilen auf viele Anlagen?",
+      "art": "mc",
+      "optionen": [
+        "Diversifikation",
+        "Inflation",
+        "Spekulation",
+        "Liquidation"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es senkt das Risiko großer Verluste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine gut gestreute Anlage ist völlig ohne Risiko.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Streuung senkt das Risiko, beseitigt es aber nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Klumpenrisiko heißt: zu viel an einer Stelle.",
+        "Aktien des Arbeitgebers sind ein versteckter Klumpen.",
+        "Streue über Unternehmen, Branchen und Länder.",
+        "Keine Anlage ist ganz ohne Risiko."
+      ]
+    }
+  ]
+}

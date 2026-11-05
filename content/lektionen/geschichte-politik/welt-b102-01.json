@@ -1,0 +1,121 @@
+{
+  "id": "welt-b102-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Ignaz Semmelweis?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Namensgeber der Universität",
+      "herausgeber": "Semmelweis-Universität Budapest",
+      "url": "https://semmelweis.hu",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "semmelweis",
+    "hygiene",
+    "medizingeschichte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Händewaschen vor der Behandlung ist heute selbstverständlich. Im 19. Jahrhundert war es das nicht.",
+        "Ein Arzt in Wien erkannte, wie viele Leben es retten kann. Dafür wurde er verspottet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rätselhaftes Kindbettfieber",
+      "absaetze": [
+        "Ignaz Semmelweis wurde 1818 in Ofen geboren, einem Teil des heutigen Budapest. Er arbeitete als Arzt in einer Geburtsklinik in Wien.",
+        "Dort starben viele Mütter nach der Geburt an Kindbettfieber, einer schweren Infektion. In der Abteilung der Ärzte war das viel häufiger als in der Abteilung der Hebammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Spur führt zu den Händen",
+      "absaetze": [
+        "Semmelweis bemerkte, dass Ärzte oft direkt von Leichenöffnungen zu den Gebärenden kamen. Er vermutete, dass sie an ihren Händen etwas übertrugen.",
+        "1847 ließ er die Ärzte ihre Hände in Chlorkalklösung waschen. Die Zahl der Todesfälle sank danach deutlich."
+      ],
+      "merke": "Semmelweis senkte die Todesfälle mit Händewaschen in Chlorkalklösung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spät anerkannt",
+      "absaetze": [
+        "Viele Kollegen lehnten seine Idee ab. Bakterien als Krankheitserreger waren damals noch nicht bekannt. Manche fühlten sich auch persönlich angegriffen.",
+        "Semmelweis starb 1865 in einer Nervenheilanstalt. Erst später bestätigten Forscher wie Louis Pasteur und Robert Koch seine Beobachtung. Heute gilt er als Pionier der Hygiene."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran starben viele Mütter in der Wiener Klinik?",
+      "art": "mc",
+      "optionen": [
+        "An Kindbettfieber",
+        "An Pocken",
+        "An der Pest",
+        "An Malaria"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine schwere Infektion nach der Geburt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was führte Semmelweis 1847 ein?",
+      "art": "mc",
+      "optionen": [
+        "Händewaschen in Chlorkalklösung",
+        "Eine neue Narkose",
+        "Röntgenbilder",
+        "Impfungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach sanken die Todesfälle deutlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum lehnten viele Ärzte seine Idee ab?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien als Erreger waren noch nicht bekannt",
+        "Er war kein Arzt",
+        "Es gab keine Seife",
+        "Händewaschen war verboten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche fühlten sich auch persönlich angegriffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Semmelweis wurde schon zu Lebzeiten gefeiert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Seine Idee wurde erst nach seinem Tod anerkannt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Semmelweis arbeitete in einer Wiener Geburtsklinik.",
+        "Er erkannte, dass Ärzte Krankheiten an den Händen übertrugen.",
+        "Händewaschen senkte die Todesfälle deutlich.",
+        "Anerkannt wurde er erst nach seinem Tod."
+      ]
+    }
+  ]
+}

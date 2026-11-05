@@ -1,0 +1,149 @@
+{
+  "id": "vers-b102-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was tust du, wenn dein Internet langsamer ist als versprochen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Breitbandmessung",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "internet",
+    "breitbandmessung",
+    "minderung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Vertrag stehen 250 Megabit pro Sekunde, doch Videos ruckeln trotzdem.",
+        "Wenn dein Anschluss dauerhaft zu langsam ist, hast du Rechte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dir zusteht",
+      "absaetze": [
+        "Seit Ende 2021 regelt das Telekommunikationsgesetz, was bei zu langsamem Internet gilt. Weicht die Geschwindigkeit deutlich und regelmäßig vom Vertrag ab, darfst du weniger zahlen.",
+        "Fachleute nennen das Minderung. Du kannst den Vertrag in diesem Fall auch außerordentlich kündigen, also vorzeitig beenden."
+      ],
+      "merke": "Bei dauerhaft zu langsamem Internet darfst du weniger zahlen oder kündigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Nachweis",
+      "absaetze": [
+        "Du musst die Abweichung belegen. Dafür bietet die Bundesnetzagentur eine kostenlose Messung im Internet und als Programm an.",
+        "Für einen gültigen Nachweis brauchst du mehrere Messungen an verschiedenen Tagen. Dabei sollte dein Computer per Kabel am Router hängen, nicht über WLAN."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So gehst du vor",
+      "absaetze": [
+        "Speichere das Messprotokoll und schreibe deinem Anbieter. Nenne die gemessenen Werte und fordere eine Lösung oder eine Minderung.",
+        "Prüfe vorher, ob das Problem nicht an deinem WLAN oder alten Geräten liegt. Hilft der Anbieter nicht weiter, kann dich die Verbraucherzentrale beraten."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Dein Weg zur Minderung",
+      "schritte": [
+        {
+          "titel": "Kabel anschließen",
+          "text": "Verbinde den Computer per Netzwerkkabel mit dem Router."
+        },
+        {
+          "titel": "Messen",
+          "text": "Nutze die Messung der Bundesnetzagentur an mehreren Tagen."
+        },
+        {
+          "titel": "Protokoll sichern",
+          "text": "Speichere das Ergebnis als Nachweis."
+        },
+        {
+          "titel": "Anbieter anschreiben",
+          "text": "Fordere schriftlich eine Lösung oder eine Minderung."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darfst du bei dauerhaft zu langsamem Internet?",
+      "art": "mc",
+      "optionen": [
+        "Weniger zahlen oder kündigen",
+        "Nichts",
+        "Nur das Kabel tauschen",
+        "Den Router behalten, ohne zu zahlen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das regelt das Telekommunikationsgesetz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bietet eine kostenlose Messung an?",
+      "art": "mc",
+      "optionen": [
+        "Die Bundesnetzagentur",
+        "Das Finanzamt",
+        "Die Krankenkasse",
+        "Die Post"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt als anerkannter Nachweis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sollte dein Computer beim Messen verbunden sein?",
+      "art": "mc",
+      "optionen": [
+        "Per Kabel mit dem Router",
+        "Über WLAN im Keller",
+        "Über das Handy",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "So verfälscht kein schwaches WLAN das Ergebnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für einen Nachweis reicht eine einzige Messung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Du brauchst mehrere Messungen an verschiedenen Tagen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei dauerhaft zu langsamem Internet kannst du mindern oder kündigen.",
+        "Die Messung der Bundesnetzagentur dient als Nachweis.",
+        "Miss per Kabel an mehreren Tagen.",
+        "Schreib deinem Anbieter mit den Messwerten."
+      ]
+    }
+  ]
+}

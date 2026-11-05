@@ -1,0 +1,121 @@
+{
+  "id": "lern-b102-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie lernst du mit dem Karteikasten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "karteikarten",
+    "leitner-system",
+    "wiederholen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Karteikarten gehören zu den ältesten Lernhilfen. Mit einem einfachen System werden sie noch wirksamer.",
+        "Es sorgt dafür, dass du Schweres öfter und Leichtes seltener übst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Leitner-System",
+      "absaetze": [
+        "Der Journalist Sebastian Leitner beschrieb in den 1970er Jahren eine Lernkartei mit mehreren Fächern. Meist sind es fünf.",
+        "Neue Karten kommen ins erste Fach. Weißt du die Antwort, wandert die Karte ein Fach weiter. Weißt du sie nicht, geht sie zurück ins erste Fach."
+      ],
+      "merke": "Richtig beantwortete Karten wandern weiter, falsche zurück an den Anfang."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das funktioniert",
+      "absaetze": [
+        "Die vorderen Fächer übst du oft, die hinteren nur selten. So wiederholst du Gelerntes in wachsenden Abständen.",
+        "Außerdem musst du die Antwort aktiv aus dem Gedächtnis holen. Dieses Abrufen festigt Wissen besser als bloßes Durchlesen. Viele Lern-Apps arbeiten nach demselben Prinzip."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Karten schreiben",
+      "absaetze": [
+        "Schreib nur eine Frage pro Karte. Kurze, klare Fragen lassen sich leichter prüfen als lange Texte.",
+        "Formuliere Antworten in eigenen Worten und ergänze Beispiele oder kleine Skizzen. Sag die Antwort laut oder schreib sie auf, bevor du die Karte umdrehst. Dann merkst du ehrlich, ob du sie wusstest."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin kommt eine Karte, die du richtig beantwortest?",
+      "art": "mc",
+      "optionen": [
+        "Ein Fach weiter",
+        "Zurück ins erste Fach",
+        "In den Müll",
+        "Immer ins letzte Fach"
+      ],
+      "richtig": 0,
+      "erklaerung": "So übst du sie seltener."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit einer Karte, die du nicht weißt?",
+      "art": "mc",
+      "optionen": [
+        "Sie geht zurück ins erste Fach",
+        "Sie springt ins letzte Fach",
+        "Sie wird aussortiert",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann übst du sie wieder öfter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Fragen gehören auf eine Karte?",
+      "art": "mc",
+      "optionen": [
+        "Eine",
+        "Fünf",
+        "So viele wie möglich",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kurze, klare Fragen sind leichter zu prüfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aktives Abrufen festigt Wissen besser als bloßes Durchlesen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Darauf beruht die Lernkartei."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Leitner-System nutzt mehrere Fächer.",
+        "Gewusste Karten wandern weiter, vergessene zurück.",
+        "So wiederholst du in wachsenden Abständen.",
+        "Eine Frage pro Karte, in eigenen Worten."
+      ]
+    }
+  ]
+}

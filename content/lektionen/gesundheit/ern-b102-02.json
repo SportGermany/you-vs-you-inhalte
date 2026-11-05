@@ -1,0 +1,124 @@
+{
+  "id": "ern-b102-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Walnüsse?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "walnuss",
+    "nuesse",
+    "omega-3"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Walnuss sieht mit ihren Windungen fast aus wie ein kleines Gehirn.",
+        "Was sie wirklich für deine Gesundheit tun kann, verrät ein Blick auf ihre Inhaltsstoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflanzliches Omega-3",
+      "absaetze": [
+        "Walnüsse enthalten viel Alpha-Linolensäure. Das ist eine pflanzliche Omega-3-Fettsäure. Unter den gängigen Nüssen haben Walnüsse davon am meisten.",
+        "Der Körper kann nur einen kleinen Teil davon in die Omega-3-Fettsäuren aus Fisch umwandeln. Trotzdem gilt Alpha-Linolensäure als günstig für Herz und Gefäße."
+      ],
+      "merke": "Walnüsse sind die Nüsse mit dem meisten pflanzlichen Omega-3.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Studien zeigen, dass regelmäßig eine Handvoll Nüsse das ungünstige LDL-Cholesterin leicht senken kann. Walnüsse wurden dabei besonders oft untersucht.",
+        "Sie liefern außerdem Ballaststoffe, Magnesium und Polyphenole. Das sind Pflanzenstoffe, die in der Forschung viel Aufmerksamkeit bekommen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Walnüsse sind sehr energiereich. Eine Handvoll am Tag ist eine übliche Menge. Am besten ersetzen sie andere Snacks, statt dazuzukommen.",
+        "Schmeckt eine Nuss bitter, ranzig oder ist sie schimmelig, wirf sie weg. Schimmel kann giftige Stoffe bilden. Lagere Walnüsse kühl, trocken und dunkel."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäure steckt reichlich in Walnüssen?",
+      "art": "mc",
+      "optionen": [
+        "Alpha-Linolensäure, ein pflanzliches Omega-3",
+        "Transfettsäure",
+        "Buttersäure",
+        "Keine Fettsäure"
+      ],
+      "richtig": 0,
+      "erklaerung": "Walnüsse haben davon mehr als andere gängige Nüsse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Blutfettwerte können Nüsse leicht senken?",
+      "art": "mc",
+      "optionen": [
+        "Das LDL-Cholesterin",
+        "Das HDL-Cholesterin",
+        "Den Blutzucker auf null",
+        "Den Blutdruck auf null"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt bei regelmäßigem Verzehr einer Handvoll."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du mit einer bitteren oder schimmeligen Walnuss?",
+      "art": "mc",
+      "optionen": [
+        "Wegwerfen",
+        "Trotzdem essen",
+        "Kurz abwaschen",
+        "Rösten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schimmel kann giftige Stoffe bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Walnüsse sind sehr energiereich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine Handvoll am Tag ist eine übliche Menge."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Walnüsse liefern viel pflanzliches Omega-3.",
+        "Nüsse können das LDL-Cholesterin leicht senken.",
+        "Eine Handvoll ersetzt am besten andere Snacks.",
+        "Bittere oder schimmelige Nüsse wegwerfen."
+      ]
+    }
+  ]
+}

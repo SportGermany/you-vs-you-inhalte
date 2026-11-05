@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b102-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert im Magen bei der Verdauung?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "magen",
+    "verdauung",
+    "magensaeure"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Schlucken landet dein Essen im Magen. Dort bleibt es oft einige Stunden.",
+        "In dieser Zeit passiert eine ganze Menge."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein dehnbarer Muskelsack",
+      "absaetze": [
+        "Der Magen liegt im linken Oberbauch unter dem Zwerchfell. Leer ist er klein, nach einer großen Mahlzeit kann er sich stark dehnen.",
+        "Seine kräftigen Muskeln kneten den Inhalt durch. So entsteht ein flüssiger Speisebrei. Fachleute nennen ihn Chymus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Säure und Enzyme",
+      "absaetze": [
+        "Die Magenschleimhaut bildet Salzsäure. Sie macht den Mageninhalt sehr sauer und tötet viele Keime ab, die mit dem Essen kommen.",
+        "Das Enzym Pepsin beginnt, Eiweiß zu zerlegen. Enzyme sind Stoffe, die chemische Reaktionen beschleunigen. Der Magen bildet außerdem einen Stoff, den der Darm für die Aufnahme von Vitamin B12 braucht."
+      ],
+      "merke": "Magensäure tötet Keime ab, Pepsin beginnt die Eiweißverdauung.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz und Weitergabe",
+      "absaetze": [
+        "Eine dicke Schleimschicht schützt die Magenwand vor der eigenen Säure. Ist dieser Schutz gestört, kann sich die Schleimhaut entzünden.",
+        "Am Ausgang sitzt der Magenpförtner, ein ringförmiger Muskel. Er gibt den Speisebrei portionsweise in den Dünndarm ab. Fettreiches Essen bleibt länger im Magen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Säure bildet der Magen?",
+      "art": "mc",
+      "optionen": [
+        "Salzsäure",
+        "Zitronensäure",
+        "Essigsäure",
+        "Milchsäure"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie macht den Mageninhalt sehr sauer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zerlegt das Enzym Pepsin?",
+      "art": "mc",
+      "optionen": [
+        "Eiweiß",
+        "Ballaststoffe",
+        "Wasser",
+        "Vitamine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Eiweißverdauung beginnt im Magen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt die Magenwand vor der Säure?",
+      "art": "mc",
+      "optionen": [
+        "Eine dicke Schleimschicht",
+        "Eine Fettschicht aus Nahrung",
+        "Der Magenpförtner",
+        "Die Leber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ist der Schutz gestört, kann sich die Schleimhaut entzünden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Magenpförtner gibt den Speisebrei portionsweise in den Dünndarm ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist ein ringförmiger Muskel am Magenausgang."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Magen knetet Essen zu Speisebrei.",
+        "Salzsäure tötet viele Keime ab.",
+        "Pepsin beginnt die Eiweißverdauung.",
+        "Schleim schützt die Magenwand, der Pförtner regelt den Ausgang.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "haus-b102-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie hygienisch ist dein Spülschwamm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spuelschwamm",
+    "kuechenhygiene",
+    "bakterien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit dem Spülschwamm machst du Teller sauber. Doch wie sauber ist der Schwamm selbst?",
+        "Forschende haben genau hingeschaut, und das Ergebnis überrascht viele."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Paradies für Bakterien",
+      "absaetze": [
+        "Ein Spülschwamm ist feucht, warm und voller Essensreste. Für Bakterien sind das ideale Bedingungen.",
+        "Eine Studie aus Deutschland fand 2017 in gebrauchten Küchenschwämmen extrem viele Bakterien. Die meisten sind harmlos. Manche können aber vor allem bei geschwächter Abwehr Infektionen auslösen."
+      ],
+      "merke": "Gebrauchte Spülschwämme können extrem viele Bakterien enthalten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auskochen hilft nur kurz",
+      "absaetze": [
+        "Viele erhitzen ihren Schwamm in der Mikrowelle oder kochen ihn aus. Das tötet einen Teil der Keime ab.",
+        "Die Bakterien vermehren sich danach aber schnell wieder. In der Studie waren in regelmäßig gereinigten Schwämmen nicht weniger Keime als in anderen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich hilft",
+      "absaetze": [
+        "Tausche deinen Spülschwamm regelmäßig aus, etwa jede Woche. Lass ihn nach dem Spülen gut trocknen, statt ihn nass liegen zu lassen.",
+        "Spülbürsten trocknen schneller und lassen sich in der Spülmaschine reinigen. Spültücher kannst du bei mindestens 60 Grad waschen. Für rohes Fleisch nimm am besten Küchenpapier."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum mögen Bakterien Spülschwämme?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind feucht, warm und voller Essensreste",
+        "Sie sind trocken und kalt",
+        "Sie enthalten Seife",
+        "Sie sind aus Metall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das sind ideale Bedingungen für Keime."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bringt Auskochen in der Mikrowelle?",
+      "art": "mc",
+      "optionen": [
+        "Es hilft nur kurz, die Keime kommen schnell zurück",
+        "Der Schwamm bleibt für immer keimfrei",
+        "Es macht den Schwamm härter und besser",
+        "Es erzeugt neue Bakterien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bakterien vermehren sich schnell wieder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du den Schwamm etwa tauschen?",
+      "art": "mc",
+      "optionen": [
+        "Etwa jede Woche",
+        "Einmal im Jahr",
+        "Nie",
+        "Nur wenn er auseinanderfällt"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sammeln sich weniger Keime an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Spültücher kannst du bei mindestens 60 Grad waschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das reduziert die Keime deutlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Spülschwämme sind ein Paradies für Bakterien.",
+        "Auskochen hilft nur kurz.",
+        "Tausche den Schwamm regelmäßig aus.",
+        "Spülbürsten und waschbare Tücher sind gute Alternativen."
+      ]
+    }
+  ]
+}

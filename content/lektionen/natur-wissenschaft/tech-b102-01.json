@@ -1,0 +1,121 @@
+{
+  "id": "tech-b102-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Quarzuhr?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zeit und Frequenz",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "quarzuhr",
+    "schwingquarz",
+    "zeitmessung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast jede Armbanduhr, Küchenuhr und jeder Computer zählt die Zeit mit einem kleinen Kristall.",
+        "Wie kann ein Stück Quarz so genau sein?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kristall, der schwingt",
+      "absaetze": [
+        "Quarz hat eine besondere Eigenschaft. Legt man eine elektrische Spannung an, verformt er sich ein wenig. Fachleute nennen das Piezoeffekt.",
+        "In einer Uhr steckt ein winziges Quarzplättchen, oft in Form einer Stimmgabel. Die Batterie bringt es zum Schwingen, und zwar 32.768-mal pro Sekunde."
+      ],
+      "merke": "Ein Quarzkristall schwingt in der Uhr 32.768-mal pro Sekunde."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Schwingen zur Sekunde",
+      "absaetze": [
+        "Ein kleiner Chip zählt die Schwingungen. Die Zahl 32.768 lässt sich fünfzehnmal halbieren, bis genau eins übrig bleibt. So erhält die Uhr einen Takt pro Sekunde.",
+        "Bei Zeigeruhren bewegt ein winziger Motor dann den Sekundenzeiger um einen Schritt weiter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genau, aber nicht perfekt",
+      "absaetze": [
+        "Eine gewöhnliche Quarzuhr geht im Monat oft nur einige Sekunden falsch. Mechanische Uhren weichen meist deutlich stärker ab.",
+        "Wärme und Kälte beeinflussen das Schwingen leicht. Funkuhren gleichen das aus, weil sie regelmäßig ein Zeitsignal empfangen. Die erste Quarz-Armbanduhr kam 1969 auf den Markt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft schwingt der Quarz in einer Uhr pro Sekunde?",
+      "art": "mc",
+      "optionen": [
+        "32.768-mal",
+        "Einmal",
+        "60-mal",
+        "Eine Million Mal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Zahl lässt sich gut halbieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Effekt, der Quarz unter Spannung verformt?",
+      "art": "mc",
+      "optionen": [
+        "Piezoeffekt",
+        "Treibhauseffekt",
+        "Dopplereffekt",
+        "Placeboeffekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er bringt den Kristall zum Schwingen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie macht der Chip aus den Schwingungen Sekunden?",
+      "art": "mc",
+      "optionen": [
+        "Er halbiert die Zahl immer wieder bis eins",
+        "Er multipliziert sie",
+        "Er rät",
+        "Er fragt das Internet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fünfzehnmal halbiert ergibt genau eins."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Quarzuhren gehen meist genauer als mechanische Uhren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft weichen sie nur wenige Sekunden im Monat ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Quarz verformt sich unter Spannung und schwingt.",
+        "In Uhren schwingt er 32.768-mal pro Sekunde.",
+        "Ein Chip teilt die Schwingungen in Sekunden.",
+        "Quarzuhren sind sehr genau, aber nicht perfekt."
+      ]
+    }
+  ]
+}

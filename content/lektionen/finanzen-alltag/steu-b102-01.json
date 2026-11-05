@@ -1,0 +1,121 @@
+{
+  "id": "steu-b102-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Fortbildungskosten absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fortbildung",
+    "werbungskosten",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Sprachkurs für den Job, ein Fachseminar oder ein Meisterkurs kosten oft viel Geld.",
+        "Einen Teil davon kann dir das Finanzamt zurückgeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Werbungskosten für den Beruf",
+      "absaetze": [
+        "Kosten für eine berufliche Fortbildung zählen als Werbungskosten. Das sind Ausgaben, die mit deinem Job zusammenhängen.",
+        "Dazu gehören Kursgebühren, Fachbücher, Lernmaterial und Prüfungsgebühren. Auch Fahrten zum Kurs und auswärtige Übernachtungen können zählen."
+      ],
+      "merke": "Berufliche Fortbildungskosten sind Werbungskosten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst über dem Pauschbetrag",
+      "absaetze": [
+        "Für alle Arbeitnehmerinnen und Arbeitnehmer zieht das Finanzamt automatisch 1.230 Euro Werbungskosten im Jahr ab. Das ist der Arbeitnehmer-Pauschbetrag.",
+        "Fortbildungskosten bringen dir also erst etwas, wenn deine Werbungskosten insgesamt darüber liegen. Zusammen mit dem Arbeitsweg wird das oft erreicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Zahlt dein Arbeitgeber die Fortbildung, kannst du sie nicht absetzen. Zahlt er nur einen Teil, zählt dein eigener Anteil.",
+        "Eine erste Ausbildung oder ein Erststudium direkt nach der Schule wird anders behandelt. Hebe alle Rechnungen und Belege auf, falls das Finanzamt nachfragt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie zählen berufliche Fortbildungskosten?",
+      "art": "mc",
+      "optionen": [
+        "Als Werbungskosten",
+        "Als Spenden",
+        "Als Kirchensteuer",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie hängen mit deinem Beruf zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Arbeitnehmer-Pauschbetrag?",
+      "art": "mc",
+      "optionen": [
+        "1.230 Euro",
+        "120 Euro",
+        "12.300 Euro",
+        "500 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird automatisch berücksichtigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kannst du nicht absetzen?",
+      "art": "mc",
+      "optionen": [
+        "Kosten, die der Arbeitgeber bezahlt",
+        "Kursgebühren, die du selbst zahlst",
+        "Fachbücher für den Kurs",
+        "Prüfungsgebühren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur dein eigener Anteil zählt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Fahrten zum Kurs können zu den Kosten zählen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ebenso auswärtige Übernachtungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fortbildungskosten sind Werbungskosten.",
+        "Sie wirken erst über dem Pauschbetrag von 1.230 Euro.",
+        "Was der Arbeitgeber zahlt, kannst du nicht absetzen.",
+        "Bewahre alle Belege auf."
+      ]
+    }
+  ]
+}
