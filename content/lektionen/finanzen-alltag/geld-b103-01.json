@@ -1,0 +1,121 @@
+{
+  "id": "geld-b103-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Mieten oder kaufen, was lohnt sich mehr?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mieten",
+    "kaufen",
+    "immobilie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer mietet, zahlt das Haus des Vermieters ab, heißt es oft. Ganz so einfach ist es nicht.",
+        "Ob sich ein Kauf lohnt, hängt von vielen Dingen ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die versteckten Kosten",
+      "absaetze": [
+        "Beim Kauf kommen zum Preis hohe Nebenkosten dazu. Dazu gehören die Grunderwerbsteuer, Notar und Grundbuch und oft ein Makler. Zusammen sind das häufig rund zehn Prozent oder mehr.",
+        "Hinzu kommen später Reparaturen und Modernisierungen. Als Eigentümer zahlst du sie selbst."
+      ],
+      "merke": "Beim Kauf kommen hohe Nebenkosten und laufende Reparaturen dazu."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein einfacher Vergleich",
+      "absaetze": [
+        "Teile den Kaufpreis durch die Jahreskaltmiete einer ähnlichen Wohnung. Das Ergebnis nennt man Kaufpreisfaktor.",
+        "Ist er sehr hoch, ist Kaufen im Vergleich zur Miete teuer. Mieter können dann das gesparte Geld anlegen. Wer diszipliniert spart, kann so ebenfalls Vermögen aufbauen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als nur Geld",
+      "absaetze": [
+        "Mieten ist flexibel, zum Beispiel bei einem neuen Job in einer anderen Stadt. Eigentum gibt Sicherheit vor Kündigung und Mieterhöhungen.",
+        "Für einen Kauf solltest du genug Eigenkapital haben, also eigenes Geld. Die Rate sollte auch bei steigenden Zinsen tragbar sein. Eine unabhängige Beratung, etwa bei der Verbraucherzentrale, hilft beim Rechnen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch sind die Kaufnebenkosten oft ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Rund zehn Prozent oder mehr",
+        "Unter einem Prozent",
+        "Etwa die Hälfte des Preises",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören Grunderwerbsteuer, Notar und Makler."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Kaufpreisfaktor?",
+      "art": "mc",
+      "optionen": [
+        "Kaufpreis geteilt durch die Jahreskaltmiete",
+        "Die Zahl der Zimmer",
+        "Die Höhe des Zinses",
+        "Das Alter des Hauses"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein hoher Wert spricht eher gegen den Kauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Vorteil des Mietens?",
+      "art": "mc",
+      "optionen": [
+        "Mehr Flexibilität",
+        "Keine Miete",
+        "Schutz vor jeder Veränderung",
+        "Keine Nebenkosten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zum Beispiel bei einem Umzug für den Job."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Als Eigentümer zahlst du Reparaturen selbst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Diese Kosten solltest du einplanen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kaufnebenkosten liegen oft bei zehn Prozent oder mehr.",
+        "Der Kaufpreisfaktor hilft beim Vergleich.",
+        "Mieten ist flexibel, Eigentum gibt Sicherheit.",
+        "Für einen Kauf brauchst du genug Eigenkapital."
+      ]
+    }
+  ]
+}

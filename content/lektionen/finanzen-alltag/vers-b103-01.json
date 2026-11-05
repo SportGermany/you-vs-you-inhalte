@@ -1,0 +1,127 @@
+{
+  "id": "vers-b103-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was ist der Rundfunkbeitrag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rundfunkbeitrag",
+      "herausgeber": "ARD ZDF Deutschlandradio Beitragsservice",
+      "url": "https://www.rundfunkbeitrag.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rundfunkbeitrag",
+    "oeffentlich-rechtlicher rundfunk",
+    "befreiung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer eine eigene Wohnung hat, bekommt früher oder später Post vom Beitragsservice.",
+        "Was hinter dem Rundfunkbeitrag steckt und wann du ihn nicht zahlen musst, erfährst du hier."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pro Wohnung, nicht pro Gerät",
+      "absaetze": [
+        "Der Rundfunkbeitrag finanziert die öffentlich-rechtlichen Sender, also ARD, ZDF und Deutschlandradio. Seit 2013 wird er pro Wohnung erhoben.",
+        "Es ist egal, ob und wie viele Fernseher, Radios oder Handys du hast. In einer Wohngemeinschaft zahlt nur eine Person für alle. Die anderen können sich den Betrag teilen."
+      ],
+      "merke": "Der Rundfunkbeitrag wird pro Wohnung gezahlt, egal wie viele Geräte es gibt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Befreiung und Ermäßigung",
+      "absaetze": [
+        "Wer bestimmte Sozialleistungen bekommt, kann sich befreien lassen. Dazu gehören zum Beispiel Bürgergeld, Sozialhilfe oder BAföG, wenn man nicht bei den Eltern wohnt.",
+        "Menschen mit bestimmten Behinderungen können eine Ermäßigung bekommen. Für eine Zweitwohnung musst du auf Antrag nicht noch einmal zahlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun solltest",
+      "absaetze": [
+        "Eine Befreiung gibt es nur auf Antrag. Stelle ihn möglichst schnell, denn sie gilt meist nicht rückwirkend für lange Zeit.",
+        "Bei einem Umzug melde deine neue Adresse beim Beitragsservice. Ignorierst du Zahlungsaufforderungen, können Mahngebühren und eine Zwangsvollstreckung folgen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird der Rundfunkbeitrag erhoben?",
+      "art": "mc",
+      "optionen": [
+        "Pro Wohnung",
+        "Pro Fernseher",
+        "Pro Person",
+        "Pro Handy"
+      ],
+      "richtig": 0,
+      "erklaerung": "So gilt es seit 2013."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt in einer Wohngemeinschaft?",
+      "art": "mc",
+      "optionen": [
+        "Eine Person für alle",
+        "Jede Person einzeln",
+        "Niemand",
+        "Nur der Vermieter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die anderen können sich den Betrag teilen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer kann sich befreien lassen?",
+      "art": "mc",
+      "optionen": [
+        "Menschen, die etwa Bürgergeld bekommen",
+        "Alle unter 40",
+        "Alle ohne Fernseher",
+        "Alle mit Auto"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Befreiung gibt es nur auf Antrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für eine Zweitwohnung musst du auf Antrag nicht noch einmal zahlen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das gilt, wenn du für die Hauptwohnung bereits zahlst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Rundfunkbeitrag gilt pro Wohnung.",
+        "In der WG zahlt eine Person für alle.",
+        "Befreiung gibt es etwa bei Bürgergeld oder BAföG.",
+        "Anträge möglichst früh stellen."
+      ]
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "version": 1,
   "themenwelt": "psychologie-gehirn",
   "unterthema": "gewohnheiten",
-  "titel": "Wie wird Aufräumen zur Gewohnheit?",
+  "titel": "Wie lässt du das Handy beim Autofahren liegen?",
   "minuten": 3,
   "studienlage": null,
-  "zeitlos": true,
-  "gueltig_von": null,
-  "gueltig_bis": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
   "ersetzt_durch": null,
   "stand": "2026-10",
   "pruefstatus": "entwurf",
@@ -21,122 +21,122 @@
     }
   ],
   "tags": [
-    "aufraeumen",
-    "ordnung",
-    "routine"
+    "handy",
+    "autofahren",
+    "ablenkung"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Erst liegt nur eine Jacke auf dem Stuhl. Ein paar Tage später ist der Stuhl nicht mehr zu sehen.",
-        "Ordnung entsteht selten durch große Putzaktionen, sondern durch kleine tägliche Handgriffe."
+        "Ein kurzer Blick auf eine Nachricht an der Ampel. Viele tun es, obwohl sie wissen, dass es gefährlich ist.",
+        "Der Griff zum Handy ist oft eine Gewohnheit. Und Gewohnheiten lassen sich ändern."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Klein anfangen",
+      "titel": "Warum es so gefährlich ist",
       "absaetze": [
-        "Nimm dir nicht die ganze Wohnung vor. Starte mit einer kleinen Aufgabe, die nur ein bis zwei Minuten dauert. Zum Beispiel den Schreibtisch freiräumen.",
-        "Wenn etwas weniger als zwei Minuten braucht, erledige es sofort. So wachsen keine Stapel."
+        "Wer aufs Handy schaut, fährt für Sekunden blind. Bei Tempo 50 legt ein Auto in zwei Sekunden fast 30 Meter zurück.",
+        "Auch Tippen und Lesen lenken den Kopf ab, nicht nur die Augen. In Deutschland kostet die Handynutzung am Steuer mindestens 100 Euro und einen Punkt in Flensburg."
       ],
-      "merke": "Kleine Aufgaben sofort erledigen verhindert, dass Unordnung wächst."
+      "merke": "Wer aufs Handy schaut, fährt für Sekunden blind."
     },
     {
       "typ": "wissen",
-      "titel": "An feste Momente koppeln",
+      "titel": "Ein Griff aus Gewohnheit",
       "absaetze": [
-        "Gewohnheiten halten besser, wenn sie an einen festen Auslöser gebunden sind. Zum Beispiel: Nach dem Abendessen räume ich zehn Minuten auf.",
-        "Ein kurzer Timer hilft, weil das Ende absehbar ist. Mit Musik macht es mehr Spaß."
+        "Ein Signalton löst fast automatisch den Griff zum Handy aus. Das Gehirn erwartet eine kleine Belohnung, etwa eine neue Nachricht.",
+        "Gegen solche Auslöser hilft Willenskraft allein wenig. Wirksamer ist es, den Auslöser zu entfernen."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Jedes Ding hat einen Platz",
+      "titel": "So klappt es",
       "absaetze": [
-        "Aufräumen fällt leichter, wenn jeder Gegenstand einen festen Ort hat. Dann musst du nicht jedes Mal überlegen, wohin etwas gehört.",
-        "Wer wenige Dinge besitzt, muss weniger aufräumen. Sortiere regelmäßig aus, was du nicht mehr brauchst."
+        "Viele Handys haben einen Fahrmodus, der Benachrichtigungen während der Fahrt stummschaltet. Schalte ihn so ein, dass er beim Losfahren automatisch startet.",
+        "Leg das Handy außer Reichweite, etwa ins Handschuhfach oder in die Tasche auf dem Rücksitz. Stell Navigation und Musik vor der Abfahrt ein."
       ]
     },
     {
       "typ": "schritte",
-      "titel": "Dein Start in eine Aufräum-Routine",
+      "titel": "Dein Plan für ablenkungsfreies Fahren",
       "schritte": [
         {
-          "titel": "Auslöser wählen",
-          "text": "Lege einen festen Moment fest, etwa nach dem Abendessen."
+          "titel": "Fahrmodus",
+          "text": "Aktiviere den automatischen Nicht-stören-Modus fürs Auto."
         },
         {
-          "titel": "Timer stellen",
-          "text": "Räume nur zehn Minuten auf, nicht länger."
+          "titel": "Vorher einstellen",
+          "text": "Starte Navigation und Musik vor dem Losfahren."
         },
         {
-          "titel": "Plätze festlegen",
-          "text": "Gib Dingen, die oft herumliegen, einen festen Ort."
+          "titel": "Außer Reichweite",
+          "text": "Leg das Handy so weg, dass du es nicht greifen kannst."
         },
         {
-          "titel": "Dranbleiben",
-          "text": "Wiederhole es täglich, auch wenn es mal nur zwei Minuten sind."
+          "titel": "Pause nutzen",
+          "text": "Lies Nachrichten erst, wenn du sicher geparkt hast."
         }
       ]
     },
     {
       "typ": "quiz",
-      "frage": "Was hilft beim Start?",
+      "frage": "Wie weit fährt ein Auto bei Tempo 50 in zwei Sekunden etwa?",
       "art": "mc",
       "optionen": [
-        "Mit einer kleinen Aufgabe anfangen",
-        "Die ganze Wohnung auf einmal",
-        "Warten, bis alles voll ist",
-        "Nur einmal im Jahr aufräumen"
+        "Fast 30 Meter",
+        "Einen Meter",
+        "300 Meter",
+        "Gar nicht"
       ],
       "richtig": 0,
-      "erklaerung": "Kleine Schritte sind leichter durchzuhalten."
+      "erklaerung": "So lange fährst du beim Blick aufs Handy blind."
     },
     {
       "typ": "quiz",
-      "frage": "Was tust du mit Aufgaben unter zwei Minuten?",
+      "frage": "Was hilft am besten gegen den automatischen Griff zum Handy?",
       "art": "mc",
       "optionen": [
-        "Sofort erledigen",
-        "Auf später verschieben",
-        "Aufschreiben und vergessen",
-        "Jemand anderem geben"
+        "Den Auslöser entfernen, etwa mit dem Fahrmodus",
+        "Nur fest vornehmen",
+        "Das Handy lauter stellen",
+        "Häufiger Nachrichten schreiben"
       ],
       "richtig": 0,
-      "erklaerung": "So entstehen keine Stapel."
+      "erklaerung": "Willenskraft allein hilft wenig."
     },
     {
       "typ": "quiz",
-      "frage": "Warum hilft ein fester Platz für jedes Ding?",
+      "frage": "Wann solltest du die Navigation einstellen?",
       "art": "mc",
       "optionen": [
-        "Du musst nicht überlegen, wohin es gehört",
-        "Die Dinge werden leichter",
-        "Es spart Strom",
-        "Es macht die Wohnung größer"
+        "Vor dem Losfahren",
+        "Während der Fahrt",
+        "An jeder roten Ampel",
+        "Gar nicht"
       ],
       "richtig": 0,
-      "erklaerung": "Das spart Zeit und Nachdenken."
+      "erklaerung": "Dann musst du unterwegs nichts bedienen."
     },
     {
       "typ": "quiz",
-      "frage": "Ein fester Auslöser macht eine Gewohnheit stabiler.",
+      "frage": "Handynutzung am Steuer kann einen Punkt in Flensburg kosten.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
       "richtig": 0,
-      "erklaerung": "Richtig. Zum Beispiel immer nach dem Abendessen."
+      "erklaerung": "Richtig. Dazu kommt ein Bußgeld von mindestens 100 Euro."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Starte mit kleinen Aufgaben.",
-        "Erledige Zwei-Minuten-Aufgaben sofort.",
-        "Koppel Aufräumen an einen festen Moment.",
-        "Gib jedem Ding einen festen Platz."
+        "Ein Blick aufs Handy heißt Sekunden blind fahren.",
+        "Der Griff zum Handy ist oft ein Automatismus.",
+        "Fahrmodus und Abstand zum Handy helfen.",
+        "Nachrichten erst nach dem Parken lesen."
       ]
     }
   ]

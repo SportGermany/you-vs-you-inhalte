@@ -1,0 +1,123 @@
+{
+  "id": "ern-b103-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Hering?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hering",
+    "matjes",
+    "omega-3"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hering war früher ein Arme-Leute-Essen. Als Matjes, Rollmops oder Bismarckhering ist er bis heute beliebt.",
+        "Dabei steckt in dem kleinen Fisch erstaunlich viel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein fetter Seefisch",
+      "absaetze": [
+        "Hering gehört zu den fettreichen Seefischen. Er liefert die Omega-3-Fettsäuren EPA und DHA. Sie sind wichtig für Herz, Gehirn und Augen.",
+        "Außerdem enthält Hering viel Vitamin D und Vitamin B12. Als Seefisch liefert er auch Jod, das die Schilddrüse braucht."
+      ],
+      "merke": "Hering liefert Omega-3-Fettsäuren, Vitamin D und Vitamin B12.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Matjes und eingelegter Hering",
+      "absaetze": [
+        "Matjes ist junger Hering, der noch nicht gelaicht hat. Er wird mild gesalzen und reift dabei. Weil er roh verzehrt wird, muss er vorher tiefgefroren werden. Das tötet mögliche Parasiten ab.",
+        "Rollmops und Bismarckhering sind sauer eingelegt. Beide enthalten oft viel Salz. Wer auf Salz achten muss, isst sie eher selten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf die Herkunft achten",
+      "absaetze": [
+        "Nicht allen Heringsbeständen geht es gut. In der westlichen Ostsee ist der Hering stark zurückgegangen.",
+        "Siegel für nachhaltige Fischerei und Ratgeber von Umweltverbänden helfen beim Einkauf. Hering aus gut bewirtschafteten Beständen ist eine günstige und wertvolle Fischmahlzeit."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäuren liefert Hering?",
+      "art": "mc",
+      "optionen": [
+        "Die Omega-3-Fettsäuren EPA und DHA",
+        "Nur Transfette",
+        "Keine Fettsäuren",
+        "Nur gesättigte Fettsäuren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist ein fettreicher Seefisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Matjes?",
+      "art": "mc",
+      "optionen": [
+        "Junger Hering, der noch nicht gelaicht hat",
+        "Ein Süßwasserfisch",
+        "Ein gebratener Lachs",
+        "Eine Muschel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird mild gesalzen und reift dabei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird Matjes vorher tiefgefroren?",
+      "art": "mc",
+      "optionen": [
+        "Um mögliche Parasiten abzutöten",
+        "Damit er süßer wird",
+        "Damit er schneller wächst",
+        "Wegen der Farbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird ja roh gegessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eingelegter Hering enthält oft viel Salz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wer auf Salz achten muss, isst ihn eher selten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hering ist ein fettreicher Seefisch.",
+        "Er liefert Omega-3, Vitamin D und B12.",
+        "Matjes wird vorher tiefgefroren.",
+        "Eingelegter Hering ist salzig."
+      ]
+    }
+  ]
+}

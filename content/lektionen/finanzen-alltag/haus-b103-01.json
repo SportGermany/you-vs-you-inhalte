@@ -1,0 +1,143 @@
+{
+  "id": "haus-b103-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entfernst du Aufkleberreste?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "aufkleber",
+    "klebereste",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Preisschilder auf Gläsern, Etiketten auf Marmeladengläsern oder alte Sticker am Schrank.",
+        "Der Aufkleber geht ab, aber der klebrige Rest bleibt. So wirst du ihn los."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme hilft",
+      "absaetze": [
+        "Viele Klebstoffe werden durch Wärme weich. Erwärme den Aufkleber kurz mit einem Föhn. Dann lässt er sich oft in einem Stück abziehen.",
+        "Gläser und Flaschen kannst du auch in warmem Wasser mit etwas Spülmittel einweichen. Danach lösen sich Etikett und Kleber meist leicht."
+      ],
+      "merke": "Wärme macht Klebstoff weich, dann lässt sich der Aufkleber leichter abziehen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Öl löst Kleber",
+      "absaetze": [
+        "Bleiben klebrige Reste, gib etwas Speiseöl darauf. Lass es einige Minuten einwirken und reibe dann mit einem Tuch nach.",
+        "Das Öl löst den Klebstoff. Anschließend entfernst du das Öl mit warmem Wasser und Spülmittel. Auf glatten Flächen wie Glas hilft auch ein Glasschaber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei empfindlichen Flächen",
+      "absaetze": [
+        "Teste jedes Mittel zuerst an einer unauffälligen Stelle. Lösungsmittel wie Nagellackentferner können Kunststoff und Lack angreifen.",
+        "Auf Holz, Papier und Stoff sind Öl und Wasser heikel, weil sie Flecken hinterlassen können. Dort hilft oft vorsichtiges Abrubbeln mit einem Radiergummi."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So gehst du vor",
+      "schritte": [
+        {
+          "titel": "Erwärmen",
+          "text": "Föhne den Aufkleber kurz an."
+        },
+        {
+          "titel": "Abziehen",
+          "text": "Zieh ihn langsam und flach ab."
+        },
+        {
+          "titel": "Reste lösen",
+          "text": "Gib Speiseöl auf die Reste und lass es einwirken."
+        },
+        {
+          "titel": "Nachwischen",
+          "text": "Entferne das Öl mit Spülmittel und Wasser."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht Klebstoff weich?",
+      "art": "mc",
+      "optionen": [
+        "Wärme, zum Beispiel vom Föhn",
+        "Kälte aus dem Gefrierfach",
+        "Salz",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann lässt sich der Aufkleber oft ganz abziehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hausmittel löst Klebereste?",
+      "art": "mc",
+      "optionen": [
+        "Speiseöl",
+        "Mehl",
+        "Kaffeepulver",
+        "Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach mit Spülmittel nachwischen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Nagellackentferner riskant?",
+      "art": "mc",
+      "optionen": [
+        "Er kann Kunststoff und Lack angreifen",
+        "Er klebt noch mehr",
+        "Er ist zu kalt",
+        "Er riecht nach Zitrone"
+      ],
+      "richtig": 0,
+      "erklaerung": "Teste Mittel immer an einer unauffälligen Stelle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf Papier kann ein Radiergummi gegen Klebereste helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Öl und Wasser würden dort Flecken hinterlassen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wärme macht Klebstoff weich.",
+        "Speiseöl löst klebrige Reste.",
+        "Danach mit Spülmittel nachwischen.",
+        "Mittel immer erst an einer versteckten Stelle testen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "supp-b103-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Zistrose zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Lebensmittel und Tees",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zistrose",
+    "polyphenole",
+    "abwehr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Zistrose ist ein kleiner Strauch aus dem Mittelmeerraum mit rosa Blüten.",
+        "Als Tee, Lutschtablette oder Kapsel wird sie für die Abwehr angeboten. Was ist dran?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reich an Pflanzenstoffen",
+      "absaetze": [
+        "Die Zistrose enthält viele Polyphenole. Das sind Pflanzenstoffe, zu denen auch Gerbstoffe gehören. Sie geben dem Tee seinen leicht herben Geschmack.",
+        "In Laborversuchen hemmten Zistrosen-Extrakte manche Viren und Bakterien. Laborergebnisse lassen sich aber nicht einfach auf den Menschen übertragen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien am Menschen zeigen",
+      "absaetze": [
+        "Es gibt nur wenige und kleine Studien am Menschen. Einzelne deuten darauf hin, dass Zistrose Erkältungsbeschwerden etwas lindern könnte.",
+        "Für Werbeversprechen wie Entgiften, Schutz vor Zecken oder Stärkung des Immunsystems gibt es keine verlässlichen Belege."
+      ],
+      "merke": "Ob Zistrose bei Erkältungen hilft, ist nicht ausreichend belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Als Tee in üblichen Mengen gilt Zistrose als gut verträglich. Gerbstoffe können aber die Aufnahme von Eisen aus der Nahrung hemmen.",
+        "Wer Eisenmangel hat, trinkt den Tee deshalb besser nicht direkt zu den Mahlzeiten. Bei Kapseln mit konzentrierten Extrakten ist weniger über die Sicherheit bekannt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Eisenmangel den Tee nicht direkt zu den Mahlzeiten trinken.",
+        "Über konzentrierte Kapseln ist wenig zur Sicherheit bekannt.",
+        "Nicht für Kinder, Schwangere und Stillende ohne ärztlichen Rat.",
+        "Bei anhaltenden Infekten ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Zistrose stärkt nachweislich das Immunsystem.",
+      "urteil": "mythos",
+      "erklaerung": "Dafür gibt es keine verlässlichen Studien. Es gibt nur Laborversuche und wenige kleine Untersuchungen am Menschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die Zistrose?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Mittelmeerraum",
+        "Aus der Arktis",
+        "Aus dem Regenwald",
+        "Aus der Wüste Gobi"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist ein kleiner Strauch mit rosa Blüten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Stoffe enthält sie reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Polyphenole",
+        "Koffein",
+        "Omega-3-Fettsäuren",
+        "Vitamin B12"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören auch Gerbstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was können Gerbstoffe hemmen?",
+      "art": "mc",
+      "optionen": [
+        "Die Aufnahme von Eisen",
+        "Das Wachstum der Haare",
+        "Die Sehkraft",
+        "Den Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Eisenmangel trink den Tee nicht zu den Mahlzeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laborergebnisse lassen sich direkt auf den Menschen übertragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür braucht es Studien am Menschen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zistrose ist reich an Polyphenolen.",
+        "Im Labor hemmt sie manche Erreger.",
+        "Studien am Menschen sind wenige und klein.",
+        "Gerbstoffe können die Eisenaufnahme hemmen."
+      ]
+    }
+  ]
+}

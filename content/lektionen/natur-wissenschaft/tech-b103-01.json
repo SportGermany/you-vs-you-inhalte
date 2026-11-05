@@ -1,0 +1,121 @@
+{
+  "id": "tech-b103-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Laserdrucker?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "laserdrucker",
+    "toner",
+    "drucken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Laserdrucker druckt ohne flüssige Tinte. Stattdessen arbeitet er mit Pulver, Licht und Strom.",
+        "Das Prinzip ist erstaunlich clever."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine geladene Trommel",
+      "absaetze": [
+        "Im Drucker sitzt eine Walze, die Bildtrommel. Sie wird elektrisch aufgeladen. Ihre Oberfläche verändert ihre Ladung, wenn Licht darauf fällt.",
+        "Ein Laserstrahl tastet die Trommel Zeile für Zeile ab. So entsteht auf ihr ein unsichtbares elektrisches Abbild der Seite."
+      ],
+      "merke": "Ein Laser schreibt ein elektrisches Abbild der Seite auf eine Trommel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pulver statt Tinte",
+      "absaetze": [
+        "Toner ist ein feines Pulver aus Kunststoff und Farbpigmenten. Es haftet nur an den Stellen der Trommel, die der Laser verändert hat.",
+        "Die Trommel rollt über das Papier und überträgt das Pulver darauf. Danach liegt der Toner nur lose auf dem Blatt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hitze macht es haltbar",
+      "absaetze": [
+        "Zum Schluss läuft das Papier durch heiße Walzen. Hitze und Druck schmelzen den Toner und pressen ihn ins Papier. Deshalb kommen frische Ausdrucke warm heraus.",
+        "Toner trocknet nicht ein wie Tinte. Darum eignen sich Laserdrucker gut, wenn du nur selten druckst. Farblaserdrucker arbeiten mit vier Tonerfarben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was benutzt ein Laserdrucker statt Tinte?",
+      "art": "mc",
+      "optionen": [
+        "Toner, ein feines Pulver",
+        "Wasserfarbe",
+        "Bleistiftminen",
+        "Wachsmalstifte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er besteht aus Kunststoff und Farbpigmenten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht der Laser?",
+      "art": "mc",
+      "optionen": [
+        "Er schreibt ein elektrisches Abbild auf die Trommel",
+        "Er brennt Löcher ins Papier",
+        "Er trocknet die Tinte",
+        "Er schneidet das Papier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Toner haftet dann nur an diesen Stellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kommen Ausdrucke warm heraus?",
+      "art": "mc",
+      "optionen": [
+        "Heiße Walzen schmelzen den Toner ins Papier",
+        "Der Laser heizt das ganze Blatt",
+        "Das Papier wird vorher gebacken",
+        "Der Drucker ist kaputt"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird der Druck haltbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Toner kann nicht wie Tinte eintrocknen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb sind Laserdrucker gut für Wenigdrucker."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Laser zeichnet die Seite elektrisch auf eine Trommel.",
+        "Toner haftet nur an diesen Stellen.",
+        "Hitze schmilzt den Toner ins Papier.",
+        "Toner trocknet nicht ein."
+      ]
+    }
+  ]
+}

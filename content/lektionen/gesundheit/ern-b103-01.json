@@ -1,0 +1,124 @@
+{
+  "id": "ern-b103-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind grüne Bohnen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gruene bohnen",
+    "huelsenfruechte",
+    "phasin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grüne Bohnen sind ein beliebtes Sommergemüse. Roh solltest du sie aber nie essen.",
+        "Warum das so ist und was in ihnen steckt, erfährst du hier."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Roh giftig",
+      "absaetze": [
+        "Rohe grüne Bohnen enthalten Phasin. Das ist ein Eiweißstoff, der zu Übelkeit, Erbrechen und Bauchschmerzen führen kann. Schon wenige rohe Bohnen können Beschwerden auslösen.",
+        "Beim Kochen wird Phasin zerstört. Gare Bohnen deshalb mindestens zehn Minuten lang. Kurz blanchiert und noch knackig reicht nicht immer aus."
+      ],
+      "merke": "Grüne Bohnen nie roh essen, sondern mindestens zehn Minuten garen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Gegart sind grüne Bohnen ein wertvolles Gemüse. Sie haben wenige Kalorien und liefern Ballaststoffe, Folat, Vitamin K und Vitamin C.",
+        "Außerdem enthalten sie etwas pflanzliches Eiweiß. Anders als getrocknete Bohnen essen wir bei grünen Bohnen die ganze Hülse."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Sorten",
+      "absaetze": [
+        "Zu den grünen Bohnen zählen Buschbohnen und Stangenbohnen. Gelbe Wachsbohnen sind eng verwandt und werden genauso zubereitet.",
+        "Sie schmecken als Beilage, im Eintopf oder im Salat. Für den Salat werden sie vorher gekocht und abgekühlt. Frische Bohnen sind knackig und brechen mit einem hörbaren Knacken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff macht rohe grüne Bohnen giftig?",
+      "art": "mc",
+      "optionen": [
+        "Phasin",
+        "Koffein",
+        "Laktose",
+        "Gluten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird beim Kochen zerstört."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange solltest du grüne Bohnen mindestens garen?",
+      "art": "mc",
+      "optionen": [
+        "Zehn Minuten",
+        "Zehn Sekunden",
+        "Eine Minute",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kurzes Blanchieren reicht nicht immer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vitamine liefern grüne Bohnen?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin K und Vitamin C",
+        "Nur Vitamin B12",
+        "Gar keine",
+        "Nur Vitamin D"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Folat und Ballaststoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wachsbohnen werden genauso zubereitet wie grüne Bohnen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch sie dürfen nicht roh gegessen werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rohe grüne Bohnen enthalten giftiges Phasin.",
+        "Mindestens zehn Minuten garen macht sie sicher.",
+        "Sie liefern Ballaststoffe, Folat, Vitamin K und C.",
+        "Auch Wachsbohnen nur gekocht essen."
+      ]
+    }
+  ]
+}
