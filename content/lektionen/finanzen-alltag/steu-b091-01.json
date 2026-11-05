@@ -1,0 +1,121 @@
+{
+  "id": "steu-b091-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wird eine Abfindung versteuert?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "abfindung",
+    "fuenftelregelung",
+    "einkommensteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zum Abschied vom Job gibt es eine Abfindung.",
+        "Doch vom Betrag will auch das Finanzamt seinen Teil."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerpflichtig, aber oft ohne Sozialabgaben",
+      "absaetze": [
+        "Eine Abfindung ist eine Entschädigung für den Verlust des Arbeitsplatzes. Sie ist voll einkommensteuerpflichtig.",
+        "Sozialversicherungsbeiträge fallen auf eine echte Abfindung dagegen in der Regel nicht an. Das ist ein Unterschied zum normalen Lohn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Fünftelregelung",
+      "absaetze": [
+        "Weil eine Abfindung auf einmal kommt, könnte sie dich in einen viel höheren Steuersatz schieben. Die Fünftelregelung mildert das ab.",
+        "Vereinfacht wird so gerechnet, als würde die Abfindung über fünf Jahre verteilt gezahlt. Die Steuer wird dadurch oft niedriger. Ob und wie viel du sparst, hängt von deinem übrigen Einkommen ab."
+      ],
+      "merke": "Die Fünftelregelung kann die Steuer auf eine Abfindung senken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Über die Steuererklärung",
+      "absaetze": [
+        "Seit 2025 berücksichtigt der Arbeitgeber die Fünftelregelung nicht mehr beim Lohnsteuerabzug. Du bekommst den Vorteil erst über die Steuererklärung.",
+        "Vor einem Aufhebungsvertrag solltest du dich beraten lassen. Er kann außerdem Folgen für das Arbeitslosengeld haben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist eine Abfindung einkommensteuerpflichtig?",
+      "art": "mc",
+      "optionen": [
+        "Ja, voll",
+        "Nein, nie",
+        "Nur zur Hälfte",
+        "Nur im Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sozialabgaben fallen meist aber nicht an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt die Fünftelregelung?",
+      "art": "mc",
+      "optionen": [
+        "Sie mildert den Steuersatz bei einer Einmalzahlung",
+        "Sie streicht die Steuer ganz",
+        "Sie verdoppelt die Abfindung",
+        "Sie gilt nur für Rentner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gerechnet wird, als käme das Geld über fünf Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bekommst du den Vorteil seit 2025?",
+      "art": "mc",
+      "optionen": [
+        "Über die Steuererklärung",
+        "Automatisch über den Arbeitgeber",
+        "Gar nicht mehr",
+        "Über die Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Arbeitgeber berücksichtigt sie nicht mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf eine echte Abfindung fallen in der Regel keine Sozialversicherungsbeiträge an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das unterscheidet sie vom normalen Lohn."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Abfindungen sind einkommensteuerpflichtig.",
+        "Sozialabgaben fallen meist nicht an.",
+        "Die Fünftelregelung kann die Steuer senken.",
+        "Seit 2025 gibt es den Vorteil über die Steuererklärung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tech-b091-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Schnellkochtopf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schnellkochtopf",
+    "dampfdruck",
+    "kochen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kartoffeln in wenigen Minuten gar, Eintopf in einem Bruchteil der Zeit.",
+        "Das Geheimnis des Schnellkochtopfs ist Druck."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Höherer Druck, heißeres Wasser",
+      "absaetze": [
+        "Normalerweise kocht Wasser bei 100 Grad. Dann verdampft es, und heißer wird es nicht.",
+        "Ein Schnellkochtopf ist dicht verschlossen. Der Dampf kann nicht entweichen, und der Druck im Topf steigt. Bei höherem Druck kocht Wasser erst bei höherer Temperatur, etwa bei 116 bis 120 Grad."
+      ],
+      "merke": "Unter Druck kocht Wasser erst bei mehr als 100 Grad."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schneller und sparsamer",
+      "absaetze": [
+        "Weil die Temperatur höher ist, garen Speisen deutlich schneller. Das spart Zeit und oft auch Energie.",
+        "Ein Ventil regelt den Druck und lässt überschüssigen Dampf ab. Zusätzliche Sicherheitsventile verhindern, dass der Druck gefährlich hoch wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine alte Idee",
+      "absaetze": [
+        "Schon 1679 stellte der französische Physiker Denis Papin einen Dampfdrucktopf vor.",
+        "Das Prinzip zeigt sich auch umgekehrt: In den Bergen ist der Luftdruck niedriger. Dort kocht Wasser schon unter 100 Grad, und Nudeln brauchen länger. Öffne einen Schnellkochtopf immer erst, wenn der Druck abgebaut ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gart Essen im Schnellkochtopf schneller?",
+      "art": "mc",
+      "optionen": [
+        "Das Wasser kocht bei höherer Temperatur",
+        "Der Topf dreht sich",
+        "Der Deckel ist aus Glas",
+        "Das Essen wird zerkleinert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Druck erhöht den Siedepunkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient das Ventil?",
+      "art": "mc",
+      "optionen": [
+        "Es regelt den Druck",
+        "Es misst das Gewicht",
+        "Es zeigt die Uhrzeit",
+        "Es kühlt das Essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es lässt überschüssigen Dampf ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit dem Siedepunkt in den Bergen?",
+      "art": "mc",
+      "optionen": [
+        "Er liegt unter 100 Grad",
+        "Er liegt höher",
+        "Er bleibt gleich",
+        "Wasser kocht dort nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort ist der Luftdruck niedriger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Schnellkochtopf sollte erst geöffnet werden, wenn der Druck abgebaut ist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonst kann heißer Dampf herausschießen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Schnellkochtopf steigt der Druck.",
+        "Dadurch kocht Wasser bei mehr als 100 Grad.",
+        "Speisen garen schneller, das spart Zeit und Energie.",
+        "Öffne den Topf erst ohne Druck."
+      ]
+    }
+  ]
+}

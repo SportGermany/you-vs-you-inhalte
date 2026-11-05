@@ -1,0 +1,121 @@
+{
+  "id": "geld-b091-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was tust du, wenn ein Inkassobrief kommt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "inkasso",
+    "forderungen",
+    "schulden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Brief mit rotem Stempel: Inkasso, sofort zahlen!",
+        "Jetzt heißt es: Ruhe bewahren und genau prüfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Inkasso bedeutet",
+      "absaetze": [
+        "Inkassounternehmen treiben Forderungen für andere Firmen ein. Das passiert, wenn eine Rechnung nicht bezahlt wurde.",
+        "Seriöse Inkassobüros müssen registriert sein. Ob ein Unternehmen eingetragen ist, kannst du im öffentlichen Rechtsdienstleistungsregister prüfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst prüfen, dann handeln",
+      "absaetze": [
+        "Prüfe, ob die Forderung stimmt. Kennst du den Gläubiger? Hast du wirklich etwas bestellt? Ist die Rechnung vielleicht schon bezahlt?",
+        "Ist die Forderung berechtigt, zahle zügig oder vereinbare eine Ratenzahlung. Ist sie unberechtigt, widersprich schriftlich und begründe kurz. Inkassokosten sind gesetzlich begrenzt. Überhöhte Gebühren musst du nicht zahlen."
+      ],
+      "merke": "Prüfe jede Forderung, bevor du zahlst."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht vor Fälschungen",
+      "absaetze": [
+        "Viele Betrüger verschicken gefälschte Inkasso-E-Mails. Öffne keine Anhänge und klicke keine Links, wenn dir die Forderung unbekannt ist.",
+        "Ein gerichtlicher Mahnbescheid ist etwas anderes. Er kommt per Post vom Gericht. Den darfst du nie ignorieren. Bist du nicht einverstanden, musst du innerhalb von zwei Wochen widersprechen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machen Inkassounternehmen?",
+      "art": "mc",
+      "optionen": [
+        "Sie treiben Forderungen für andere Firmen ein",
+        "Sie verkaufen Versicherungen",
+        "Sie geben Kredite",
+        "Sie prüfen Steuern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie müssen registriert sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei einer unberechtigten Forderung tun?",
+      "art": "mc",
+      "optionen": [
+        "Schriftlich widersprechen",
+        "Sofort zahlen",
+        "Den Brief wegwerfen und vergessen",
+        "Einen Kredit aufnehmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Begründe den Widerspruch kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hast du Zeit, einem gerichtlichen Mahnbescheid zu widersprechen?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Wochen",
+        "Zwei Jahre",
+        "Zwei Stunden",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Einen Mahnbescheid darfst du nie ignorieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Inkassokosten sind gesetzlich begrenzt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Überhöhte Gebühren musst du nicht zahlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Inkassobüros treiben Forderungen ein.",
+        "Prüfe immer, ob die Forderung berechtigt ist.",
+        "Unberechtigten Forderungen widersprichst du schriftlich.",
+        "Gerichtliche Mahnbescheide nie ignorieren."
+      ]
+    }
+  ]
+}

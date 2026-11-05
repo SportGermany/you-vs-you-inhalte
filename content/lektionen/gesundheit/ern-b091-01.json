@@ -1,0 +1,131 @@
+{
+  "id": "ern-b091-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Zucchini?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fragen und Antworten zu Lebensmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zucchini",
+    "gemuese",
+    "bitterstoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sommer wächst Zucchini in vielen Gärten schneller, als man sie essen kann.",
+        "Sie ist mild, vielseitig und meist harmlos, mit einer wichtigen Ausnahme."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein junger Kürbis",
+      "absaetze": [
+        "Zucchini gehört zu den Kürbisgewächsen. Eigentlich ist sie ein Kürbis, der jung und unreif geerntet wird.",
+        "Sie besteht zum größten Teil aus Wasser und liefert wenig Energie. Dazu kommen Kalium, etwas Vitamin C und Ballaststoffe. Junge Zucchini kannst du auch roh essen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Achtung bei bitterem Geschmack",
+      "absaetze": [
+        "Kürbisgewächse können Bitterstoffe bilden, die Cucurbitacine. Handelsübliche Sorten sind davon praktisch frei.",
+        "Bei Pflanzen aus eigenem Saatgut oder durch Kreuzung mit Zierkürbissen können sie aber wieder auftreten. Schon kleine Mengen können zu Übelkeit, Erbrechen und Durchfall führen. Es gab auch schwere Vergiftungen."
+      ],
+      "merke": "Schmeckt Zucchini bitter, gehört sie nicht auf den Teller.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der einfache Test",
+      "absaetze": [
+        "Probiere vor dem Kochen ein kleines Stück roh. Schmeckt es bitter, spuck es aus und entsorge die ganze Frucht.",
+        "Kochen zerstört die Bitterstoffe nicht. Säe für Zucchini im Garten am besten jedes Jahr gekauftes Saatgut aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Zucchini eigentlich?",
+      "art": "mc",
+      "optionen": [
+        "Ein unreif geernteter Kürbis",
+        "Eine Gurkenart",
+        "Eine Wurzel",
+        "Eine Melone"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gehört zu den Kürbisgewächsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du tun, wenn eine Zucchini bitter schmeckt?",
+      "art": "mc",
+      "optionen": [
+        "Ausspucken und die Frucht entsorgen",
+        "Länger kochen",
+        "Mit Salz essen",
+        "Einfrieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bitterstoffe können eine Vergiftung auslösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Bitterstoffe in Gartenzucchini?",
+      "art": "mc",
+      "optionen": [
+        "Jedes Jahr gekauftes Saatgut verwenden",
+        "Mehr gießen",
+        "Früher ernten",
+        "Neben Zierkürbisse pflanzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eigenes Saatgut kann Bitterstoffe zurückbringen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kochen zerstört die Bitterstoffe in Zucchini.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bleiben auch beim Kochen erhalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zucchini ist ein unreif geernteter Kürbis.",
+        "Sie liefert Kalium und wenig Energie.",
+        "Bittere Zucchini können giftig sein.",
+        "Probiere vor dem Kochen ein Stück roh."
+      ]
+    }
+  ]
+}

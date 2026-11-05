@@ -1,0 +1,121 @@
+{
+  "id": "all-b091-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Magnetar?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Neutronensterne",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "magnetar",
+    "neutronenstern",
+    "magnetfeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es gibt Sterne mit Magnetfeldern, die alles Bekannte übertreffen.",
+        "Man nennt sie Magnetare."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein besonderer Neutronenstern",
+      "absaetze": [
+        "Ein Magnetar ist ein Neutronenstern mit einem extrem starken Magnetfeld. Neutronensterne sind die Reste großer Sterne nach einer Supernova. Sie sind nur etwa 20 Kilometer groß, aber schwerer als die Sonne.",
+        "Das Magnetfeld eines Magnetars ist rund eine Billiarde Mal stärker als das der Erde. Es ist das stärkste bekannte Magnetfeld im Universum."
+      ],
+      "merke": "Magnetare haben die stärksten bekannten Magnetfelder im Universum."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sternbeben und Strahlenblitze",
+      "absaetze": [
+        "Das gewaltige Magnetfeld kann die feste Kruste des Sterns aufreißen. Forschende sprechen von Sternbeben.",
+        "Dabei werden in Sekundenbruchteilen riesige Mengen Gamma- und Röntgenstrahlung frei. 2004 erreichte ein solcher Ausbruch eines Magnetars sogar messbar die Erdatmosphäre, obwohl er Zehntausende Lichtjahre entfernt war."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selten und kurzlebig",
+      "absaetze": [
+        "In unserer Milchstraße sind nur einige Dutzend Magnetare bekannt. Ihr extremes Magnetfeld schwächt sich über einige tausend Jahre ab.",
+        "Für die Erde sind die bekannten Magnetare viel zu weit entfernt, um gefährlich zu werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Magnetar?",
+      "art": "mc",
+      "optionen": [
+        "Ein Neutronenstern mit extrem starkem Magnetfeld",
+        "Ein großer Planet",
+        "Ein Komet",
+        "Ein Satellit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist das stärkste bekannte Magnetfeld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie groß ist ein Neutronenstern ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 20 Kilometer",
+        "So groß wie die Sonne",
+        "So groß wie der Mond",
+        "Etwa 1 Meter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trotzdem ist er schwerer als die Sonne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Sternbeben?",
+      "art": "mc",
+      "optionen": [
+        "Risse in der Kruste eines Neutronensterns",
+        "Erdbeben auf dem Mond",
+        "Explodierende Planeten",
+        "Sternschnuppen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei werden Strahlenblitze frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Magnetar-Ausbruch erreichte 2004 messbar die Erdatmosphäre.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Obwohl er sehr weit entfernt war."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Magnetare sind Neutronensterne mit extremen Magnetfeldern.",
+        "Ihr Magnetfeld ist das stärkste bekannte.",
+        "Sternbeben setzen Strahlenblitze frei.",
+        "In der Milchstraße sind nur einige Dutzend bekannt."
+      ]
+    }
+  ]
+}

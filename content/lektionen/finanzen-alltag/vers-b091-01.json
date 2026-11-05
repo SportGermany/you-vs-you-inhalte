@@ -1,0 +1,121 @@
+{
+  "id": "vers-b091-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt, wenn ein Marder dein Auto beschädigt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kfz-Versicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "marderschaden",
+    "teilkasko",
+    "auto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Auto springt nicht an, unter der Motorhaube liegen zerbissene Kabel.",
+        "Marder richten jedes Jahr viele Schäden an Autos an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Marder Autos mögen",
+      "absaetze": [
+        "Steinmarder suchen warme, geschützte Plätze. Ein Motorraum ist ideal. Dort markieren sie ihr Revier.",
+        "Riecht ein Marder die Spuren eines anderen, wird er aggressiv und beißt in Kabel, Schläuche und Dämmmatten. Besonders oft passiert das im Frühjahr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Versicherung zahlt",
+      "absaetze": [
+        "Marderbisse sind meist über die Teilkasko versichert. Die reine Haftpflicht zahlt nicht für Schäden am eigenen Auto.",
+        "Wichtig sind Folgeschäden. Durchgebissene Schläuche können zum Beispiel den Motor überhitzen lassen. Manche Tarife zahlen nur den Biss selbst, andere auch Folgeschäden bis zu einer bestimmten Summe. Prüfe deine Bedingungen."
+      ],
+      "merke": "Ob Folgeschäden durch Marder bezahlt werden, hängt vom Tarif ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Nach einem Marderbesuch hilft eine Motorwäsche. Sie entfernt die Duftmarken, die andere Marder reizen.",
+        "Werkstätten bieten Schutz wie Ultraschallgeräte, Elektroschockplatten oder Schutzschläuche an. Auch ein Drahtgitter unter dem Auto in der Garage kann Marder abhalten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt meist bei Marderbissen?",
+      "art": "mc",
+      "optionen": [
+        "Die Teilkasko",
+        "Nur die Haftpflicht",
+        "Die Hausratversicherung",
+        "Die Krankenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Haftpflicht deckt keine eigenen Schäden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden Marder im Motorraum aggressiv?",
+      "art": "mc",
+      "optionen": [
+        "Sie riechen Spuren anderer Marder",
+        "Sie mögen Benzin",
+        "Sie suchen Futter im Motor",
+        "Das Radio stört sie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb hilft eine Motorwäsche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Folgeschäden?",
+      "art": "mc",
+      "optionen": [
+        "Schäden, die durch den Biss entstehen, etwa am Motor",
+        "Kratzer im Lack",
+        "Strafzettel",
+        "Reifenpannen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind nicht in jedem Tarif voll versichert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Motorwäsche kann nach einem Marderbesuch sinnvoll sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie entfernt Duftmarken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Marder suchen warme Motorräume.",
+        "Die Teilkasko zahlt meist Marderbisse.",
+        "Folgeschäden sind je nach Tarif versichert.",
+        "Motorwäsche und Schutztechnik helfen vorzubeugen."
+      ]
+    }
+  ]
+}

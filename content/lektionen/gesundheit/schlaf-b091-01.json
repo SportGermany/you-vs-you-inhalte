@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b091-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist der Schlafdruck?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafdruck",
+    "adenosin",
+    "innere uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Je länger du wach bist, desto müder wirst du.",
+        "Dahinter steckt ein Mechanismus, den Fachleute Schlafdruck nennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Müdigkeit baut sich auf",
+      "absaetze": [
+        "Während du wach bist, sammelt sich im Gehirn ein Stoff namens Adenosin an. Je mehr davon vorhanden ist, desto stärker wird das Bedürfnis zu schlafen.",
+        "Im Schlaf wird Adenosin wieder abgebaut. Am Morgen ist der Schlafdruck nach einer guten Nacht deshalb gering."
+      ],
+      "merke": "Je länger du wach bist, desto größer wird der Schlafdruck.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Systeme arbeiten zusammen",
+      "absaetze": [
+        "Schlafforscher beschreiben den Schlaf mit zwei Prozessen. Der eine ist der Schlafdruck. Der andere ist die innere Uhr, die im Takt von etwa 24 Stunden Wachheit und Müdigkeit steuert.",
+        "Erst wenn beide zusammenpassen, schläfst du leicht ein. Deshalb kannst du nach einer durchwachten Nacht am Vormittag trotzdem manchmal wieder munter werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was den Schlafdruck beeinflusst",
+      "absaetze": [
+        "Koffein blockiert die Andockstellen für Adenosin. Der Schlafdruck ist dann zwar da, wird aber nicht gespürt.",
+        "Ein langer Mittagsschlaf baut einen Teil des Schlafdrucks ab. Wer abends schlecht einschläft, sollte tagsüber deshalb nur kurz oder gar nicht schlafen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff sammelt sich im Wachzustand im Gehirn an?",
+      "art": "mc",
+      "optionen": [
+        "Adenosin",
+        "Insulin",
+        "Melatonin",
+        "Adrenalin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er erhöht das Schlafbedürfnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist neben dem Schlafdruck der zweite Prozess?",
+      "art": "mc",
+      "optionen": [
+        "Die innere Uhr",
+        "Die Verdauung",
+        "Das Wachstum",
+        "Die Atmung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie steuert Wachheit und Müdigkeit im 24-Stunden-Takt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Koffein auf den Schlafdruck?",
+      "art": "mc",
+      "optionen": [
+        "Es blockiert die Andockstellen für Adenosin",
+        "Es baut Adenosin vollständig ab",
+        "Es erhöht den Schlafdruck",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schlafdruck wird dann nicht gespürt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein langer Mittagsschlaf kann das Einschlafen am Abend erschweren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er baut einen Teil des Schlafdrucks ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Wachzustand baut sich Schlafdruck auf.",
+        "Adenosin spielt dabei eine zentrale Rolle.",
+        "Schlafdruck und innere Uhr steuern gemeinsam den Schlaf.",
+        "Koffein und lange Mittagsschläfe beeinflussen ihn."
+      ]
+    }
+  ]
+}

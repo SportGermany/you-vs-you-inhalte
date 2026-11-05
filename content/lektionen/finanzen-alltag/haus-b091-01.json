@@ -1,0 +1,143 @@
+{
+  "id": "haus-b091-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Heizkörper?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "heizkoerper",
+    "putzen",
+    "heizen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hinter und zwischen den Rippen eines Heizkörpers sammelt sich viel Staub.",
+        "Das sieht nicht nur unschön aus, es kann auch Heizenergie kosten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum sich das Putzen lohnt",
+      "absaetze": [
+        "Staub auf und in Heizkörpern kann die Wärmeabgabe verschlechtern. Zudem wird er von der warmen Luft aufgewirbelt und riecht beim ersten Heizen oft verbrannt.",
+        "Für Menschen mit Hausstauballergie ist ein sauberer Heizkörper besonders angenehm. Am besten reinigst du ihn vor Beginn der Heizsaison."
+      ],
+      "merke": "Saubere Heizkörper geben Wärme besser ab und wirbeln weniger Staub auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So geht es",
+      "absaetze": [
+        "Drehe die Heizung ab und lass den Heizkörper abkühlen. Lege ein feuchtes Handtuch auf den Boden darunter.",
+        "Mit einer langen, schmalen Heizkörperbürste erreichst du die Zwischenräume. Alternativ kannst du den Staub mit einem Föhn von oben nach unten pusten und ihn dann aufsaugen. Außen wischst du mit einem feuchten Tuch nach."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gluckern und kalte Stellen",
+      "absaetze": [
+        "Gluckert der Heizkörper oder bleibt er oben kalt, ist oft Luft darin. Dann hilft Entlüften mit einem kleinen Entlüftungsschlüssel.",
+        "Halte dabei ein Tuch oder Gefäß unter das Ventil. Sobald Wasser statt Luft kommt, schließt du es wieder. In Mietwohnungen frag bei Unsicherheit den Vermieter."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Heizkörper in vier Schritten",
+      "schritte": [
+        {
+          "titel": "Abdrehen",
+          "text": "Dreh die Heizung ab und lass sie abkühlen."
+        },
+        {
+          "titel": "Schützen",
+          "text": "Leg ein feuchtes Handtuch auf den Boden darunter."
+        },
+        {
+          "titel": "Ausbürsten",
+          "text": "Reinige die Zwischenräume mit Bürste oder Föhn."
+        },
+        {
+          "titel": "Nachwischen",
+          "text": "Wische außen mit einem feuchten Tuch ab."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann reinigst du Heizkörper am besten?",
+      "art": "mc",
+      "optionen": [
+        "Vor Beginn der Heizsaison",
+        "Mitten im Winter bei voller Hitze",
+        "Nie",
+        "Nur bei Umzug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann riecht es beim ersten Heizen nicht verbrannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, die Zwischenräume zu erreichen?",
+      "art": "mc",
+      "optionen": [
+        "Eine lange, schmale Heizkörperbürste",
+        "Ein Besen",
+        "Ein Schwamm",
+        "Ein Teppichklopfer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein Föhn kann helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Gluckern im Heizkörper oft?",
+      "art": "mc",
+      "optionen": [
+        "Es ist Luft darin",
+        "Er ist zu sauber",
+        "Er ist neu",
+        "Er ist kaputt und muss weg"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann hilft Entlüften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Staub auf Heizkörpern kann die Wärmeabgabe verschlechtern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb lohnt sich die Reinigung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Staub verschlechtert die Wärmeabgabe.",
+        "Reinige vor der Heizsaison.",
+        "Bürste oder Föhn erreichen die Zwischenräume.",
+        "Gluckern bedeutet oft Luft, dann hilft Entlüften."
+      ]
+    }
+  ]
+}

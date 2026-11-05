@@ -1,0 +1,121 @@
+{
+  "id": "koer-b091-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum kannst du dich nicht selbst kitzeln?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kitzeln",
+    "gehirn",
+    "wahrnehmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kitzelt dich jemand anderes, musst du lachen.",
+        "Versuchst du es selbst, passiert fast nichts. Warum?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gehirn sagt voraus",
+      "absaetze": [
+        "Wenn du dich bewegst, sagt dein Gehirn voraus, wie sich die Bewegung anfühlen wird. Daran ist vor allem das Kleinhirn beteiligt.",
+        "Weil die Berührung genau erwartet wird, dämpft das Gehirn das Gefühl. Die Überraschung fehlt, und damit auch der Kitzelreiz."
+      ],
+      "merke": "Das Gehirn dämpft Berührungen, die es selbst vorhersagt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das nützlich ist",
+      "absaetze": [
+        "Diese Vorhersage hilft dir, wichtige von unwichtigen Reizen zu unterscheiden. Eigene Bewegungen müssen nicht ständig deine Aufmerksamkeit binden.",
+        "Eine fremde Berührung dagegen kann wichtig sein. Sie könnte etwa ein Insekt oder eine Gefahr bedeuten. Deshalb reagierst du darauf stärker."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein spannendes Experiment",
+      "absaetze": [
+        "Forschende ließen Menschen sich über einen Roboter selbst kitzeln. Bewegte sich der Roboter mit kleiner Verzögerung, kitzelte es plötzlich mehr.",
+        "Die Vorhersage des Gehirns stimmte dann nicht mehr ganz. Auch warum wir beim Kitzeln lachen, ist noch nicht vollständig geklärt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Hirnbereich ist an der Vorhersage von Bewegungen beteiligt?",
+      "art": "mc",
+      "optionen": [
+        "Das Kleinhirn",
+        "Der Sehnerv",
+        "Das Rückenmark allein",
+        "Die Zirbeldrüse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sagt voraus, wie sich Bewegungen anfühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kitzelt die eigene Berührung kaum?",
+      "art": "mc",
+      "optionen": [
+        "Das Gehirn erwartet sie und dämpft das Gefühl",
+        "Die eigene Haut ist dicker",
+        "Die Finger sind zu kalt",
+        "Das Gehirn schläft dabei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Überraschung fehlt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passierte bei einer Verzögerung durch einen Roboter?",
+      "art": "mc",
+      "optionen": [
+        "Es kitzelte mehr",
+        "Es kitzelte gar nicht",
+        "Es tat weh",
+        "Nichts änderte sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Vorhersage stimmte nicht mehr ganz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fremde Berührungen nimmt der Körper stärker wahr als eigene.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie könnten eine Gefahr bedeuten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Gehirn sagt eigene Berührungen voraus.",
+        "Erwartete Reize werden gedämpft.",
+        "Fremde Berührungen wirken stärker.",
+        "Mit Verzögerung kann Selbstkitzeln besser klappen."
+      ]
+    }
+  ]
+}

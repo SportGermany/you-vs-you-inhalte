@@ -1,0 +1,131 @@
+{
+  "id": "ern-b091-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Aprikosen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fragen und Antworten zu Lebensmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "aprikosen",
+    "obst",
+    "trockenobst"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frische Aprikosen gibt es nur wenige Wochen im Sommer.",
+        "Getrocknet sind sie das ganze Jahr ein beliebter Snack."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Orange durch Betacarotin",
+      "absaetze": [
+        "Aprikosen verdanken ihre Farbe dem Betacarotin. Daraus kann der Körper Vitamin A bilden. Außerdem liefern sie Kalium und Ballaststoffe.",
+        "Frische Aprikosen reifen nach der Ernte kaum noch nach. Kaufe sie deshalb möglichst reif und duftend."
+      ],
+      "merke": "Aprikosen liefern Betacarotin, Kalium und Ballaststoffe.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Getrocknete Aprikosen",
+      "absaetze": [
+        "Beim Trocknen wird den Früchten Wasser entzogen. Zucker und Nährstoffe sind dann konzentriert. Eine Handvoll getrockneter Aprikosen enthält deshalb deutlich mehr Zucker als eine Handvoll frischer.",
+        "Leuchtend orange Trockenaprikosen sind oft geschwefelt. Das erhält die Farbe. Schwefeldioxid kann bei empfindlichen Menschen, etwa mit Asthma, Beschwerden auslösen. Ungeschwefelte Ware ist bräunlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Kernen",
+      "absaetze": [
+        "In den Kernen bitterer Aprikosen steckt Amygdalin. Im Körper kann daraus giftige Blausäure entstehen.",
+        "Das Bundesinstitut für Risikobewertung warnt deshalb vor dem Verzehr bitterer Aprikosenkerne. Sie werden manchmal fälschlich als Mittel gegen Krebs angeboten. Dafür gibt es keinen Beleg."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt die orange Farbe der Aprikosen?",
+      "art": "mc",
+      "optionen": [
+        "Von Betacarotin",
+        "Von Eisen",
+        "Von Koffein",
+        "Von Chlorophyll"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus kann der Körper Vitamin A bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erkennst du an bräunlichen Trockenaprikosen?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind meist ungeschwefelt",
+        "Sie sind verdorben",
+        "Sie sind gefärbt",
+        "Sie sind gefroren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Geschwefelte Ware bleibt leuchtend orange."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann aus Amygdalin in bitteren Aprikosenkernen entstehen?",
+      "art": "mc",
+      "optionen": [
+        "Giftige Blausäure",
+        "Vitamin C",
+        "Zucker",
+        "Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das BfR warnt vor dem Verzehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bittere Aprikosenkerne helfen nachweislich gegen Krebs.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es keinen Beleg, sie können aber giftig sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aprikosen liefern Betacarotin und Kalium.",
+        "Getrocknete Aprikosen enthalten konzentrierten Zucker.",
+        "Leuchtend orange Ware ist oft geschwefelt.",
+        "Bittere Aprikosenkerne können giftig sein."
+      ]
+    }
+  ]
+}
