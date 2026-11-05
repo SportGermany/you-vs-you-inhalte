@@ -1,0 +1,121 @@
+{
+  "id": "tech-b109-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert Solarthermie?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Erneuerbare Energien",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "solarthermie",
+    "warmwasser",
+    "erneuerbare energien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf manchen Dächern liegen Platten, die aussehen wie Solarzellen. Sie machen aber keinen Strom.",
+        "Diese Anlagen nutzen die Sonne, um Wasser zu erwärmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme statt Strom",
+      "absaetze": [
+        "Eine Solarthermie-Anlage besteht aus Kollektoren auf dem Dach. Darin fließt eine Flüssigkeit, meist ein Gemisch aus Wasser und Frostschutzmittel.",
+        "Die Sonne erwärmt die dunklen Flächen der Kollektoren und damit die Flüssigkeit. Anders als eine Photovoltaik-Anlage erzeugt Solarthermie keinen Strom, sondern Wärme."
+      ],
+      "merke": "Solarthermie erzeugt mit Sonnenlicht Wärme, keinen Strom."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Dach in den Speicher",
+      "absaetze": [
+        "Eine Pumpe bringt die warme Flüssigkeit in einen Wasserspeicher im Haus. Dort gibt sie ihre Wärme über eine Rohrschlange an das Trinkwasser oder an das Heizungswasser ab.",
+        "Der gut gedämmte Speicher hält das Wasser lange warm. So steht auch abends oder an trüben Tagen warmes Wasser zur Verfügung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie leisten kann",
+      "absaetze": [
+        "Im Sommer kann eine Solarthermie-Anlage oft den gesamten Warmwasserbedarf decken. Über das ganze Jahr gesehen liefert sie einen großen Teil davon.",
+        "Größere Anlagen können auch die Heizung unterstützen. Im Winter reicht die Sonne dafür aber meist nicht aus, deshalb braucht es eine zweite Wärmequelle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erzeugt eine Solarthermie-Anlage?",
+      "art": "mc",
+      "optionen": [
+        "Wärme",
+        "Strom",
+        "Wind",
+        "Wasserstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Strom erzeugt dagegen Photovoltaik."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fließt durch die Kollektoren?",
+      "art": "mc",
+      "optionen": [
+        "Wasser mit Frostschutzmittel",
+        "Öl",
+        "Luft allein",
+        "Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wird von der Sonne erwärmt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient der Speicher im Haus?",
+      "art": "mc",
+      "optionen": [
+        "Er hält warmes Wasser für später bereit",
+        "Er erzeugt Strom",
+        "Er kühlt das Haus",
+        "Er filtert Luft"
+      ],
+      "richtig": 0,
+      "erklaerung": "So gibt es auch abends warmes Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Sommer kann Solarthermie oft den ganzen Warmwasserbedarf decken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Im Winter braucht es eine zweite Wärmequelle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Solarthermie macht Wärme, keinen Strom.",
+        "Kollektoren erwärmen eine Flüssigkeit.",
+        "Ein Speicher hält das Wasser warm.",
+        "Im Sommer reicht sie oft für das ganze Warmwasser."
+      ]
+    }
+  ]
+}

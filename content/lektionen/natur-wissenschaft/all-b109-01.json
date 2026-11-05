@@ -1,0 +1,121 @@
+{
+  "id": "all-b109-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was sind die Van-Allen-Gürtel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Weltraumwetter",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "van-allen-guertel",
+    "magnetfeld",
+    "strahlung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Erde ist von unsichtbaren Ringen aus Strahlung umgeben.",
+        "Sie wurden mit einem der ersten Satelliten überhaupt entdeckt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefangene Teilchen",
+      "absaetze": [
+        "Die Sonne und das Weltall schicken ständig elektrisch geladene Teilchen in Richtung Erde. Das Magnetfeld der Erde fängt einen Teil davon ein.",
+        "Die Teilchen sammeln sich in zwei ringförmigen Zonen um die Erde. Diese Zonen heißen Van-Allen-Gürtel."
+      ],
+      "merke": "Das Magnetfeld der Erde hält geladene Teilchen in zwei Gürteln fest."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Entdeckt 1958",
+      "absaetze": [
+        "Benannt sind die Gürtel nach dem amerikanischen Physiker James Van Allen. Messgeräte an Bord des Satelliten Explorer 1 entdeckten sie 1958.",
+        "Der innere Gürtel liegt in einigen Tausend Kilometern Höhe, der äußere deutlich weiter draußen. Ihre Form verändert sich, wenn die Sonne besonders aktiv ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Gefahr für Technik",
+      "absaetze": [
+        "Die Strahlung in den Gürteln kann Elektronik in Satelliten stören oder beschädigen. Satelliten werden deshalb besonders geschützt oder meiden diese Zonen.",
+        "Die Internationale Raumstation fliegt unterhalb der Gürtel. Die Apollo-Astronauten durchquerten sie auf dem Weg zum Mond schnell, sodass ihre Strahlenbelastung begrenzt blieb."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält die Teilchen in den Gürteln fest?",
+      "art": "mc",
+      "optionen": [
+        "Das Magnetfeld der Erde",
+        "Der Mond",
+        "Die Wolken",
+        "Die Ozeane"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es fängt geladene Teilchen ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Satelliten wurden die Gürtel entdeckt?",
+      "art": "mc",
+      "optionen": [
+        "Explorer 1",
+        "Hubble",
+        "Voyager 2",
+        "Sputnik 5"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das war im Jahr 1958."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo fliegt die Internationale Raumstation?",
+      "art": "mc",
+      "optionen": [
+        "Unterhalb der Gürtel",
+        "Mitten im äußeren Gürtel",
+        "Auf dem Mond",
+        "Hinter der Sonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "So ist die Strahlung geringer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Strahlung der Gürtel kann Satelliten-Elektronik beschädigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Satelliten werden deshalb geschützt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Van-Allen-Gürtel bestehen aus gefangenen geladenen Teilchen.",
+        "Das Erdmagnetfeld hält sie fest.",
+        "Sie wurden 1958 mit Explorer 1 entdeckt.",
+        "Ihre Strahlung gefährdet Elektronik in Satelliten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "welt-b109-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Carl Friedrich Gauß?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gauss",
+    "mathematik",
+    "naturwissenschaft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Er gilt als einer der größten Mathematiker aller Zeiten.",
+        "Sein Gesicht war früher auf dem Zehn-Mark-Schein zu sehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Rechentalent aus Braunschweig",
+      "absaetze": [
+        "Carl Friedrich Gauß wurde 1777 in Braunschweig geboren. Er stammte aus einfachen Verhältnissen. Sein Talent fiel früh auf, und der Herzog förderte sein Studium.",
+        "Schon mit Anfang zwanzig veröffentlichte er ein bahnbrechendes Werk über Zahlen. Später lehrte er sein Leben lang in Göttingen. Er starb 1855."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein verlorener Zwergplanet",
+      "absaetze": [
+        "1801 wurde der Zwergplanet Ceres entdeckt, verschwand aber bald hinter der Sonne. Niemand wusste, wo er wieder auftauchen würde.",
+        "Gauß entwickelte eine neue Rechenmethode und sagte die Position voraus. Astronomen fanden Ceres genau dort. Damit wurde Gauß schlagartig berühmt."
+      ],
+      "merke": "Gauß berechnete 1801 die Bahn des Zwergplaneten Ceres."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Glockenkurve und mehr",
+      "absaetze": [
+        "Nach Gauß ist die Glockenkurve benannt. Sie beschreibt, wie sich viele Messwerte um einen Mittelwert verteilen, etwa Körpergrößen.",
+        "Gauß vermaß außerdem das Königreich Hannover und baute mit Wilhelm Weber einen der ersten elektrischen Telegrafen. Die Einheit für die magnetische Flussdichte trug lange seinen Namen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurde Gauß geboren?",
+      "art": "mc",
+      "optionen": [
+        "In Braunschweig",
+        "In Berlin",
+        "In München",
+        "In Hamburg"
+      ],
+      "richtig": 0,
+      "erklaerung": "Später lehrte er in Göttingen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was berechnete Gauß 1801?",
+      "art": "mc",
+      "optionen": [
+        "Die Bahn des Zwergplaneten Ceres",
+        "Die Höhe des Mount Everest",
+        "Den Weg nach Amerika",
+        "Die Lichtgeschwindigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Astronomen fanden Ceres genau dort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt die Gaußsche Glockenkurve?",
+      "art": "mc",
+      "optionen": [
+        "Wie sich Messwerte um einen Mittelwert verteilen",
+        "Den Klang von Glocken",
+        "Die Form der Erde",
+        "Die Bahn des Mondes"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Beispiel sind Körpergrößen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gauß baute mit Wilhelm Weber einen frühen elektrischen Telegrafen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er war auch Physiker."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gauß war ein Mathematiker aus Braunschweig.",
+        "Er sagte 1801 die Position von Ceres voraus.",
+        "Die Glockenkurve trägt seinen Namen.",
+        "Er forschte auch zu Vermessung und Magnetismus."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ern-b109-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Orangen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "orangen",
+    "zitrusfruechte",
+    "vitamin c"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Orangen gehören im Winter zu den beliebtesten Früchten.",
+        "Was macht sie so wertvoll, und worauf solltest du achten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein guter Vitamin-C-Lieferant",
+      "absaetze": [
+        "Eine mittelgroße Orange liefert einen großen Teil des täglichen Bedarfs an Vitamin C. Außerdem enthält sie Folat, Kalium und Ballaststoffe.",
+        "Viele Ballaststoffe und Pflanzenstoffe sitzen in der weißen Haut unter der Schale. Iss sie ruhig mit, auch wenn sie etwas bitter schmeckt."
+      ],
+      "merke": "Eine Orange deckt einen großen Teil des Tagesbedarfs an Vitamin C.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frucht oder Saft",
+      "absaetze": [
+        "Orangensaft enthält viel Zucker und kaum Ballaststoffe. Er sättigt deshalb weniger als die ganze Frucht.",
+        "Ein Glas Saft ist ab und zu in Ordnung. Die ganze Orange ist aber die bessere Wahl. Die Fruchtsäure kann den Zahnschmelz angreifen, deshalb nicht direkt danach die Zähne putzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schale und Sorten",
+      "absaetze": [
+        "Die Schale vieler Orangen ist mit Wachs oder Konservierungsstoffen behandelt. Für Abrieb eignen sich nur Früchte mit dem Hinweis unbehandelt.",
+        "Blutorangen haben rotes Fruchtfleisch. Die Farbe stammt von Anthocyanen, roten Pflanzenfarbstoffen, die auch in Beeren vorkommen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin liefern Orangen reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin K2"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Orange deckt einen großen Teil des Tagesbedarfs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzen viele Ballaststoffe der Orange?",
+      "art": "mc",
+      "optionen": [
+        "In der weißen Haut unter der Schale",
+        "Nur im Saft",
+        "In den Kernen allein",
+        "Nirgends"
+      ],
+      "richtig": 0,
+      "erklaerung": "Iss sie ruhig mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist die ganze Frucht besser als Saft?",
+      "art": "mc",
+      "optionen": [
+        "Sie enthält mehr Ballaststoffe und sättigt besser",
+        "Sie hat mehr Zucker",
+        "Sie ist flüssiger",
+        "Sie enthält Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Saft enthält viel Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Blutorangen verdanken ihre Farbe Anthocyanen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Diese Farbstoffe stecken auch in Beeren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Orangen liefern viel Vitamin C.",
+        "Die weiße Haut enthält Ballaststoffe.",
+        "Die ganze Frucht ist besser als Saft.",
+        "Für Abrieb nur unbehandelte Orangen verwenden."
+      ]
+    }
+  ]
+}

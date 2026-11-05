@@ -1,0 +1,124 @@
+{
+  "id": "ern-b109-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Joghurt?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "joghurt",
+    "milchprodukte",
+    "milchsaeurebakterien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Joghurt gibt es pur, mit Früchten, griechisch oder als Trinkjoghurt.",
+        "Was steckt in dem Klassiker aus dem Kühlregal?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Milch mit Bakterien",
+      "absaetze": [
+        "Joghurt entsteht, wenn Milchsäurebakterien Milch säuern. Sie wandeln einen Teil des Milchzuckers in Milchsäure um. Dadurch wird die Milch dick und leicht sauer.",
+        "Weil weniger Milchzucker übrig bleibt, vertragen viele Menschen mit Laktoseintoleranz Joghurt besser als Milch."
+      ],
+      "merke": "Milchsäurebakterien machen aus Milch Joghurt und bauen dabei Milchzucker ab.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Joghurt liefert Eiweiß, Kalzium und Vitamin B2. Naturjoghurt gibt es mit unterschiedlichem Fettgehalt.",
+        "Für manche Joghurts wird eine besondere Wirkung auf Darm und Abwehr beworben. Gesunde Menschen profitieren davon nach heutigem Wissen kaum. Für solche Werbeversprechen gibt es strenge Regeln."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf Zucker achten",
+      "absaetze": [
+        "Fruchtjoghurt enthält oft viel zugesetzten Zucker und nur wenig Frucht. Naturjoghurt mit frischem Obst ist meist die bessere Wahl.",
+        "Griechischer Joghurt ist abgetropft und deshalb cremiger. Er hat meist deutlich mehr Fett. Produkte nach griechischer Art sind oft anders hergestellt. Ein Blick auf die Zutatenliste hilft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht aus Milch Joghurt?",
+      "art": "mc",
+      "optionen": [
+        "Milchsäurebakterien",
+        "Hefe",
+        "Salz",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie säuern die Milch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum vertragen viele Menschen mit Laktoseintoleranz Joghurt besser?",
+      "art": "mc",
+      "optionen": [
+        "Er enthält weniger Milchzucker",
+        "Er enthält mehr Milchzucker",
+        "Er ist immer laktosefrei",
+        "Er enthält kein Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bakterien bauen einen Teil ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält Fruchtjoghurt oft reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Zugesetzten Zucker",
+        "Viel frisches Obst",
+        "Viel Gemüse",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Naturjoghurt mit Obst ist meist besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Griechischer Joghurt hat meist mehr Fett als einfacher Naturjoghurt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist abgetropft und cremiger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Joghurt entsteht durch Milchsäurebakterien.",
+        "Er enthält weniger Milchzucker als Milch.",
+        "Er liefert Eiweiß und Kalzium.",
+        "Fruchtjoghurt enthält oft viel Zucker."
+      ]
+    }
+  ]
+}

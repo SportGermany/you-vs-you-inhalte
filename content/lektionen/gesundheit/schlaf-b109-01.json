@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b109-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläft man im Krankenhaus so schlecht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "krankenhaus",
+    "laerm",
+    "erholung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eigentlich soll man im Krankenhaus gesund werden. Gerade dort schlafen viele aber besonders schlecht.",
+        "Dafür gibt es mehrere Gründe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lärm, Licht und Störungen",
+      "absaetze": [
+        "In Krankenhäusern piepen Geräte, Türen gehen auf und zu, und Mitpatienten husten oder schnarchen. Oft brennt auch nachts Licht im Flur.",
+        "Dazu kommen nächtliche Kontrollen, Blutabnahmen oder Medikamente. Der Schlaf wird so immer wieder unterbrochen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schmerzen und Sorgen",
+      "absaetze": [
+        "Schmerzen, ein fremdes Bett und Sorgen um die Gesundheit erschweren das Einschlafen. Manche Medikamente beeinflussen den Schlaf zusätzlich.",
+        "Schlechter Schlaf kann die Erholung bremsen. Bei älteren Menschen erhöht er außerdem das Risiko für Verwirrtheitszustände. Fachleute sprechen dann von einem Delir."
+      ],
+      "merke": "Schlechter Schlaf im Krankenhaus kann die Erholung bremsen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Ohrstöpsel und eine Schlafmaske schirmen Lärm und Licht ab. Ein eigenes Kissen und vertraute Dinge können beruhigen.",
+        "Sprich mit dem Pflegepersonal, wenn dich etwas stört. Tagsüber helfen Tageslicht und, wenn möglich, etwas Bewegung, den Rhythmus zu halten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stört den Schlaf im Krankenhaus häufig?",
+      "art": "mc",
+      "optionen": [
+        "Piepende Geräte und nächtliche Kontrollen",
+        "Zu viel Ruhe",
+        "Zu dunkle Flure",
+        "Fehlende Betten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schlaf wird immer wieder unterbrochen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür erhöht schlechter Schlaf bei älteren Menschen das Risiko?",
+      "art": "mc",
+      "optionen": [
+        "Für Verwirrtheitszustände",
+        "Für Haarausfall",
+        "Für Sonnenbrand",
+        "Für Kurzsichtigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fachleute sprechen von einem Delir."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schirmt Lärm und Licht ab?",
+      "art": "mc",
+      "optionen": [
+        "Ohrstöpsel und Schlafmaske",
+        "Ein lauter Fernseher",
+        "Helles Licht",
+        "Kaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein eigenes Kissen kann helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist sinnvoll, das Pflegepersonal auf Störungen anzusprechen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft lässt sich etwas ändern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lärm, Licht und Kontrollen stören den Schlaf.",
+        "Schmerzen und Sorgen erschweren das Einschlafen.",
+        "Schlechter Schlaf kann die Erholung bremsen.",
+        "Ohrstöpsel, Schlafmaske und Tageslicht helfen."
+      ]
+    }
+  ]
+}

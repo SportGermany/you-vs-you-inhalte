@@ -1,0 +1,121 @@
+{
+  "id": "haus-b109-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du Kopfkissen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kopfkissen",
+    "waesche",
+    "hausstaubmilben"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Den Kissenbezug wechseln die meisten regelmäßig. Das Kissen selbst wird oft vergessen.",
+        "Dabei sammeln sich darin Schweiß, Hautschuppen und Hausstaubmilben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst das Etikett lesen",
+      "absaetze": [
+        "Viele Kopfkissen mit Kunstfaserfüllung lassen sich in der Waschmaschine waschen, oft bei 60 Grad. Diese Temperatur tötet auch Hausstaubmilben ab.",
+        "Kissen mit Daunen oder Federn brauchen ein spezielles Waschmittel. Schaumstoff- und Latexkissen sind oft nicht waschbar. Dann kannst du meist nur den Bezug waschen."
+      ],
+      "merke": "Viele Kopfkissen lassen sich bei 60 Grad waschen, das tötet Milben ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gründlich trocknen",
+      "absaetze": [
+        "Nach dem Waschen muss das Kissen vollständig trocknen. Sonst können sich Schimmel und unangenehme Gerüche bilden.",
+        "Im Trockner helfen zwei Tennisbälle, die Füllung aufzulockern. Daunenkissen brauchen oft mehrere Durchgänge, bis sie wirklich trocken sind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie oft waschen",
+      "absaetze": [
+        "Den Kissenbezug solltest du etwa jede Woche wechseln. Das Kissen selbst kannst du alle paar Monate waschen.",
+        "Nach einigen Jahren verlieren Kissen ihre Form und Stützkraft. Dann lohnt sich ein neues. Bei einer Allergie gegen Hausstaubmilben helfen spezielle Bezüge."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Temperatur sterben Hausstaubmilben?",
+      "art": "mc",
+      "optionen": [
+        "Bei 60 Grad",
+        "Bei 20 Grad",
+        "Bei 30 Grad",
+        "Bei Kälte im Kühlschrank allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Kunstfaserkissen vertragen diese Temperatur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft im Trockner?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Tennisbälle",
+        "Ein Glas Wasser",
+        "Salz",
+        "Ein Handtuch voller Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lockern die Füllung auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du den Kissenbezug wechseln?",
+      "art": "mc",
+      "optionen": [
+        "Etwa jede Woche",
+        "Einmal im Jahr",
+        "Nie",
+        "Jeden Tag zweimal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Kissen selbst alle paar Monate."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein feucht weggelegtes Kissen kann schimmeln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb gründlich trocknen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vor dem Waschen das Pflegeetikett lesen.",
+        "60 Grad töten Hausstaubmilben ab.",
+        "Kissen gründlich trocknen lassen.",
+        "Bezug wöchentlich, Kissen alle paar Monate waschen."
+      ]
+    }
+  ]
+}

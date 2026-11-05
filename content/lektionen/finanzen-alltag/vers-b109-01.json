@@ -1,0 +1,121 @@
+{
+  "id": "vers-b109-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was ist eine Indexmiete?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "indexmiete",
+    "inflation",
+    "mietvertrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei manchen Mietverträgen steigt die Miete automatisch mit den Preisen.",
+        "Das nennt man Indexmiete. Sie hat Vor- und Nachteile."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Miete folgt den Preisen",
+      "absaetze": [
+        "Bei einer Indexmiete ist die Miete an den Verbraucherpreisindex gekoppelt. Dieser Index zeigt, wie sich die Preise für typische Waren und Dienstleistungen entwickeln.",
+        "Steigen die Preise, darf der Vermieter die Miete im gleichen Maß erhöhen. Sinken sie, könnte auch die Miete sinken. Das kommt aber selten vor."
+      ],
+      "merke": "Bei einer Indexmiete folgt die Miete der allgemeinen Preisentwicklung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regeln für die Erhöhung",
+      "absaetze": [
+        "Die Miete darf höchstens einmal im Jahr angepasst werden. Der Vermieter muss die Erhöhung schriftlich mitteilen und begründen.",
+        "Dafür sind andere Mieterhöhungen weitgehend ausgeschlossen, etwa auf die ortsübliche Vergleichsmiete. Bei bestimmten Modernisierungen gibt es Ausnahmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor- und Nachteile",
+      "absaetze": [
+        "In Zeiten niedriger Inflation steigt eine Indexmiete oft langsamer als andere Mieten. Bei hoher Inflation kann sie dagegen schnell stark steigen.",
+        "Das zeigte sich in den Jahren 2022 und 2023, als viele Indexmieten deutlich zulegten. Prüfe deshalb vor der Unterschrift, ob du solche Erhöhungen tragen kannst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran ist eine Indexmiete gekoppelt?",
+      "art": "mc",
+      "optionen": [
+        "An den Verbraucherpreisindex",
+        "An den Aktienkurs",
+        "An das Wetter",
+        "An den Benzinpreis allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er zeigt die allgemeine Preisentwicklung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft darf eine Indexmiete höchstens erhöht werden?",
+      "art": "mc",
+      "optionen": [
+        "Einmal im Jahr",
+        "Jeden Monat",
+        "Jede Woche",
+        "Alle zehn Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Erhöhung muss schriftlich mitgeteilt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kann eine Indexmiete schnell stark steigen?",
+      "art": "mc",
+      "optionen": [
+        "Bei hoher Inflation",
+        "Bei niedrigen Preisen",
+        "Im Winter",
+        "Bei gutem Wetter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das zeigte sich 2022 und 2023."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Neben der Indexmiete sind andere Mieterhöhungen weitgehend ausgeschlossen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ausnahmen gibt es bei bestimmten Modernisierungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Indexmiete folgt dem Verbraucherpreisindex.",
+        "Erhöhungen sind höchstens einmal im Jahr erlaubt.",
+        "Andere Erhöhungen sind weitgehend ausgeschlossen.",
+        "Bei hoher Inflation kann sie stark steigen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b109-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was verrät der Ferritinwert?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ferritin",
+    "eisen",
+    "blutwerte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei Müdigkeit wird oft der Ferritinwert im Blut bestimmt.",
+        "Was sagt dieser Wert eigentlich aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Speicher für Eisen",
+      "absaetze": [
+        "Ferritin ist ein Eiweiß, das Eisen im Körper speichert, vor allem in Leber, Milz und Knochenmark. Ein kleiner Teil gelangt ins Blut.",
+        "Die Menge im Blut zeigt recht gut, wie voll die Eisenspeicher sind. Deshalb ist Ferritin der wichtigste Wert, um einen Eisenmangel zu erkennen."
+      ],
+      "merke": "Der Ferritinwert zeigt, wie voll die Eisenspeicher sind.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Wert niedrig ist",
+      "absaetze": [
+        "Ein niedriger Ferritinwert zeigt leere Eisenspeicher an, oft schon bevor eine Blutarmut entsteht. Häufige Ursachen sind starke Monatsblutungen, Blutverluste im Darm oder wenig Eisen in der Nahrung.",
+        "Die Ursache sollte immer ärztlich geklärt werden. Eisenpräparate auf eigene Faust zu nehmen, ist keine gute Idee."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Wert hoch ist",
+      "absaetze": [
+        "Ein hoher Ferritinwert kann auf zu viel Eisen hinweisen, etwa bei der erblichen Eisenspeicherkrankheit. Er steigt aber auch bei Entzündungen und Lebererkrankungen.",
+        "Bei einer Entzündung kann ein Eisenmangel deshalb übersehen werden. Ärztinnen und Ärzte betrachten Ferritin daher immer zusammen mit anderen Werten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Ferritin?",
+      "art": "mc",
+      "optionen": [
+        "Ein Eiweiß, das Eisen speichert",
+        "Ein Vitamin",
+        "Ein Hormon der Schilddrüse",
+        "Ein Blutzuckerwert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sitzt vor allem in Leber, Milz und Knochenmark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt ein niedriger Ferritinwert an?",
+      "art": "mc",
+      "optionen": [
+        "Leere Eisenspeicher",
+        "Zu viel Eisen",
+        "Eine Erkältung",
+        "Guten Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft noch bevor eine Blutarmut entsteht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei steigt Ferritin ebenfalls an?",
+      "art": "mc",
+      "optionen": [
+        "Bei Entzündungen",
+        "Beim Lesen",
+        "Bei Kälte",
+        "Beim Lachen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb wird er mit anderen Werten betrachtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eisenpräparate solltest du nach einem niedrigen Wert einfach selbst kaufen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Ursache sollte ärztlich geklärt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ferritin speichert Eisen im Körper.",
+        "Der Wert zeigt die Füllung der Eisenspeicher.",
+        "Niedrige Werte bedeuten Eisenmangel.",
+        "Entzündungen können den Wert verfälschen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
