@@ -1,0 +1,127 @@
+{
+  "id": "vers-b089-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was tust du, wenn deine Versicherung teurer wird?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Versicherungen",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "beitragserhoehung",
+    "sonderkuendigungsrecht",
+    "versicherung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Briefkasten liegt ein Schreiben: Dein Beitrag steigt ab dem nächsten Jahr.",
+        "Oft hast du dann ein besonderes Recht, den Vertrag zu kündigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Sonderkündigungsrecht",
+      "absaetze": [
+        "Erhöht eine Versicherung ihren Beitrag, ohne dass sich der Schutz verbessert, hast du in vielen Fällen ein Sonderkündigungsrecht. Du kannst dann außerhalb der normalen Frist kündigen.",
+        "Meist musst du innerhalb eines Monats nach Erhalt der Mitteilung kündigen. Die Versicherung muss dich in dem Schreiben auf dieses Recht hinweisen."
+      ],
+      "merke": "Bei einer Beitragserhöhung kannst du oft innerhalb eines Monats kündigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst vergleichen, dann kündigen",
+      "absaetze": [
+        "Prüfe zuerst, ob andere Anbieter für denselben Schutz günstiger sind. Achte dabei nicht nur auf den Preis, sondern auch auf Leistungen und Selbstbeteiligung.",
+        "Kündige erst, wenn der neue Vertrag sicher ist. Sonst stehst du womöglich eine Zeit lang ohne Schutz da. Bei der Kfz-Haftpflicht wäre das sogar verboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtige Ausnahmen",
+      "absaetze": [
+        "Nicht jede Erhöhung berechtigt zur Sonderkündigung. Steigt der Beitrag etwa, weil du älter wirst oder eine Steuer erhöht wurde, gilt das oft nicht.",
+        "Bei privaten Krankenversicherungen ist ein Wechsel schwieriger. Dort kann ein Tarifwechsel beim eigenen Anbieter oft sinnvoller sein. Hol dir dafür unabhängige Beratung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt dir eine Beitragserhöhung oft?",
+      "art": "mc",
+      "optionen": [
+        "Ein Sonderkündigungsrecht",
+        "Einen Bonus",
+        "Kostenlose Leistungen",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wenn sich der Schutz nicht verbessert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hast du meist Zeit für die Sonderkündigung?",
+      "art": "mc",
+      "optionen": [
+        "Einen Monat nach Erhalt der Mitteilung",
+        "Einen Tag",
+        "Fünf Jahre",
+        "Bis zum Lebensende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Versicherung muss dich darauf hinweisen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du kündigen?",
+      "art": "mc",
+      "optionen": [
+        "Erst wenn der neue Vertrag sicher ist",
+        "Sofort ohne Ersatz",
+        "Nie",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst bist du womöglich ohne Schutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Jede Beitragserhöhung berechtigt zur Sonderkündigung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt Ausnahmen, etwa bei Steuererhöhungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beitragserhöhungen ermöglichen oft eine Sonderkündigung.",
+        "Meist hast du dafür einen Monat Zeit.",
+        "Vergleiche erst und kündige dann.",
+        "Nicht jede Erhöhung berechtigt zur Kündigung."
+      ]
+    }
+  ]
+}

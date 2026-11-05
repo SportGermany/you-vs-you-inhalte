@@ -1,0 +1,149 @@
+{
+  "id": "haus-b089-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du deinen Staubsauger?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Stadtgrün und Klimaanpassung",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "staubsauger",
+    "filter",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich saugt der Staubsauger kaum noch, und es riecht muffig.",
+        "Meist liegt das nicht am Gerät, sondern an fehlender Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beutel und Behälter",
+      "absaetze": [
+        "Ein voller Staubsaugerbeutel bremst die Saugkraft. Wechsle ihn, wenn die Anzeige es meldet oder die Leistung deutlich nachlässt.",
+        "Bei beutellosen Geräten leerst du den Behälter am besten nach jedem Saugen. Mach das draußen oder direkt über der Mülltonne, damit der Staub nicht zurück in die Wohnung gelangt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Filter nicht vergessen",
+      "absaetze": [
+        "Staubsauger haben meist mehrere Filter, etwa vor dem Motor und am Luftauslass. Verstopfte Filter verringern die Saugkraft und können den Motor überlasten.",
+        "Ob du einen Filter auswaschen darfst oder austauschen musst, steht in der Bedienungsanleitung. Ausgewaschene Filter müssen vollständig trocknen, bevor du sie wieder einsetzt."
+      ],
+      "merke": "Saubere Filter erhalten Saugkraft und schonen den Motor."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bürste und Gerüche",
+      "absaetze": [
+        "In der Bürstenwalze wickeln sich Haare und Fäden auf. Schneide sie vorsichtig mit einer Schere auf und zieh sie heraus, wenn der Stecker gezogen ist.",
+        "Riecht der Staubsauger muffig, sind oft alte Beutel oder feuchte Filter schuld. Sauge außerdem keine nassen Sachen auf, wenn dein Gerät dafür nicht gemacht ist."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Pflege in vier Schritten",
+      "schritte": [
+        {
+          "titel": "Strom aus",
+          "text": "Zieh vor jeder Pflege den Stecker oder nimm den Akku heraus."
+        },
+        {
+          "titel": "Leeren",
+          "text": "Wechsle den Beutel oder leere den Behälter."
+        },
+        {
+          "titel": "Filter prüfen",
+          "text": "Reinige oder tausche die Filter laut Anleitung."
+        },
+        {
+          "titel": "Bürste säubern",
+          "text": "Entferne Haare und Fäden aus der Bürstenwalze."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bremst häufig die Saugkraft?",
+      "art": "mc",
+      "optionen": [
+        "Ein voller Beutel oder verstopfte Filter",
+        "Ein neuer Teppich",
+        "Zu viel Licht",
+        "Ein kurzes Kabel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Regelmäßige Pflege hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo leerst du den Staubbehälter am besten?",
+      "art": "mc",
+      "optionen": [
+        "Draußen oder direkt über der Mülltonne",
+        "Im Schlafzimmer",
+        "In der Spüle",
+        "Auf dem Balkonboden"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt der Staub draußen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für ausgewaschene Filter?",
+      "art": "mc",
+      "optionen": [
+        "Sie müssen vollständig trocknen",
+        "Sie kommen sofort nass zurück",
+        "Sie gehören in den Ofen",
+        "Sie dürfen nie gereinigt werden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Feuchte Filter können muffig riechen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bevor du die Bürstenwalze reinigst, solltest du den Stecker ziehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So vermeidest du Verletzungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wechsle Beutel oder leere den Behälter regelmäßig.",
+        "Reinige oder tausche die Filter laut Anleitung.",
+        "Entferne Haare aus der Bürstenwalze.",
+        "Ziehe vor der Pflege immer den Stecker."
+      ]
+    }
+  ]
+}

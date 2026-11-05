@@ -1,0 +1,127 @@
+{
+  "id": "geld-b089-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist ein Basiskonto?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher: Konto und Zahlungsverkehr",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "basiskonto",
+    "girokonto",
+    "verbraucherrechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ohne Girokonto keine Miete, kein Lohn, kein Handyvertrag.",
+        "Deshalb hat in Deutschland fast jeder ein Recht auf ein Basiskonto."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Recht für alle",
+      "absaetze": [
+        "Seit 2016 gibt es in Deutschland das Recht auf ein Basiskonto. Das regelt das Zahlungskontengesetz.",
+        "Jeder Mensch, der sich rechtmäßig in der EU aufhält, kann es beantragen. Das gilt auch für Wohnungslose, Geflüchtete oder Menschen mit Schulden und schlechter Schufa."
+      ],
+      "merke": "Fast jeder hat in Deutschland ein Recht auf ein Basiskonto."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Konto kann",
+      "absaetze": [
+        "Ein Basiskonto ist ein Girokonto mit allen wichtigen Funktionen. Du kannst Geld einzahlen und abheben, überweisen, Lastschriften nutzen und mit Karte zahlen.",
+        "Einen Dispokredit gibt es nicht. Du kannst also nur ausgeben, was auf dem Konto ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ablehnung und Kosten",
+      "absaetze": [
+        "Eine Bank darf den Antrag nur in wenigen Fällen ablehnen, etwa wenn du schon ein Konto in Deutschland hast. Sie muss innerhalb von zehn Geschäftstagen entscheiden.",
+        "Die Gebühren müssen angemessen sein. Gerichte haben zu hohe Preise schon beanstandet. Lehnt eine Bank ab, kannst du dich an die BaFin wenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann gibt es das Recht auf ein Basiskonto?",
+      "art": "mc",
+      "optionen": [
+        "Seit 2016",
+        "Seit 1949",
+        "Seit 2024",
+        "Es gibt kein solches Recht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist im Zahlungskontengesetz geregelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bietet ein Basiskonto nicht?",
+      "art": "mc",
+      "optionen": [
+        "Einen Dispokredit",
+        "Überweisungen",
+        "Kartenzahlung",
+        "Geld einzahlen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du kannst nur ausgeben, was auf dem Konto ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer hat ein Recht auf ein Basiskonto?",
+      "art": "mc",
+      "optionen": [
+        "Jeder, der sich rechtmäßig in der EU aufhält",
+        "Nur Menschen mit guter Schufa",
+        "Nur Beamte",
+        "Nur Menschen über 60"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Wohnungslose und Geflüchtete."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Gebühren für ein Basiskonto müssen angemessen sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Zu hohe Preise wurden von Gerichten beanstandet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Seit 2016 gibt es das Recht auf ein Basiskonto.",
+        "Es steht fast allen offen, auch bei Schulden.",
+        "Es hat alle wichtigen Funktionen, aber keinen Dispo.",
+        "Bei Ablehnung hilft die BaFin weiter."
+      ]
+    }
+  ]
+}

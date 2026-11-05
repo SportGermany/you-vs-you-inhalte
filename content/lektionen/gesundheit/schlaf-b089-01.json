@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b089-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was bedeutet Schlafeffizienz?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafeffizienz",
+    "schlafqualitaet",
+    "schlaftagebuch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Acht Stunden im Bett heißt nicht acht Stunden Schlaf.",
+        "Wie viel der Bettzeit du wirklich schläfst, misst die Schlafeffizienz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine einfache Rechnung",
+      "absaetze": [
+        "Die Schlafeffizienz gibt an, welchen Anteil der Zeit im Bett du tatsächlich schläfst. Liegst du acht Stunden im Bett und schläfst sechs davon, beträgt sie 75 Prozent.",
+        "In der Schlafmedizin gilt eine Schlafeffizienz von etwa 85 Prozent oder mehr als gut. Kurzes Wachwerden in der Nacht ist dabei ganz normal."
+      ],
+      "merke": "Schlafeffizienz ist der Anteil der Bettzeit, den du schläfst.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie man sie misst",
+      "absaetze": [
+        "Im Schlaflabor wird der Schlaf genau gemessen. Zu Hause kannst du sie mit einem Schlaftagebuch grob abschätzen. Du notierst, wann du ins Bett gehst, wann du ungefähr einschläfst, wie lange du nachts wach bist und wann du aufstehst.",
+        "Schlaftracker liefern ebenfalls Werte. Sie sind aber oft ungenau."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu sie genutzt wird",
+      "absaetze": [
+        "Eine niedrige Schlafeffizienz ist typisch für Schlafstörungen wie die Insomnie. Betroffene liegen lange wach im Bett.",
+        "In der Behandlung wird die Bettzeit dann manchmal vorübergehend verkürzt. Das erhöht den Schlafdruck, und die Effizienz steigt. Das sollte aber unter fachlicher Anleitung geschehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt die Schlafeffizienz an?",
+      "art": "mc",
+      "optionen": [
+        "Den Anteil der Bettzeit, den du schläfst",
+        "Wie schnell du träumst",
+        "Wie weich deine Matratze ist",
+        "Wie viele Kalorien du nachts verbrauchst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird in Prozent angegeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Schlafeffizienz bei sechs Stunden Schlaf in acht Stunden Bettzeit?",
+      "art": "mc",
+      "optionen": [
+        "75 Prozent",
+        "50 Prozent",
+        "100 Prozent",
+        "25 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sechs geteilt durch acht ergibt 0,75."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit kannst du sie zu Hause grob abschätzen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Schlaftagebuch",
+        "Mit einer Küchenwaage",
+        "Mit einem Thermometer",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du notierst Bettzeit und Wachzeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kurzes Wachwerden in der Nacht ist normal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch gute Schläfer wachen kurz auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafeffizienz ist der geschlafene Anteil der Bettzeit.",
+        "Etwa 85 Prozent oder mehr gelten als gut.",
+        "Ein Schlaftagebuch hilft beim Abschätzen.",
+        "Bei Insomnie ist sie oft niedrig."
+      ]
+    }
+  ]
+}

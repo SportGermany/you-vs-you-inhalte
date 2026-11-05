@@ -1,0 +1,124 @@
+{
+  "id": "ern-b089-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Birnen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "birnen",
+    "obst",
+    "fruktose"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Birnen schmecken mild und süß.",
+        "Sie sind beliebt, aber nicht für jeden gleich gut verträglich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mild und süß",
+      "absaetze": [
+        "Birnen enthalten weniger Fruchtsäure als Äpfel. Deshalb schmecken sie milder.",
+        "Sie liefern Ballaststoffe, etwas Vitamin C und Kalium. Die körnigen Stellen im Fruchtfleisch heißen Steinzellen. Sie sind ganz normal."
+      ],
+      "merke": "Birnen schmecken mild, weil sie wenig Säure enthalten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Fruchtzucker",
+      "absaetze": [
+        "Birnen enthalten im Verhältnis viel Fruchtzucker, auch Fruktose genannt. Außerdem steckt Sorbit darin, ein Zuckeralkohol.",
+        "Menschen mit einer Fruktoseunverträglichkeit bekommen davon oft Bauchschmerzen oder Blähungen. Sie vertragen Birnen meist schlechter als anderes Obst."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig reifen lassen",
+      "absaetze": [
+        "Birnen reifen nach der Ernte nach. Hart gekaufte Birnen werden bei Zimmertemperatur in wenigen Tagen weich.",
+        "Ob eine Birne reif ist, merkst du am Stielansatz. Gibt er auf leichten Druck nach, ist sie bereit. Reife Birnen halten im Kühlschrank noch ein paar Tage."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schmecken Birnen milder als Äpfel?",
+      "art": "mc",
+      "optionen": [
+        "Sie enthalten weniger Fruchtsäure",
+        "Sie enthalten Salz",
+        "Sie haben keinen Zucker",
+        "Sie sind immer gekocht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Säure macht Obst frischer im Geschmack."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind die körnigen Stellen im Fruchtfleisch?",
+      "art": "mc",
+      "optionen": [
+        "Steinzellen",
+        "Schimmel",
+        "Insekteneier",
+        "Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind ganz normal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer verträgt Birnen oft schlecht?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Fruktoseunverträglichkeit",
+        "Menschen mit Kurzsichtigkeit",
+        "Sportlerinnen",
+        "Kinder unter zehn Jahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Birnen enthalten viel Fruktose und Sorbit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Birnen reifen nach der Ernte nach.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei Zimmertemperatur werden sie weich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Birnen enthalten wenig Säure und schmecken mild.",
+        "Steinzellen geben ihnen die körnige Struktur.",
+        "Viel Fruktose kann bei Unverträglichkeit Probleme machen.",
+        "Birnen reifen nach."
+      ]
+    }
+  ]
+}

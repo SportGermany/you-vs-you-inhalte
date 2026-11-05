@@ -1,0 +1,121 @@
+{
+  "id": "welt-b089-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Ada Lovelace?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ada lovelace",
+    "informatik",
+    "babbage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sie schrieb ein Computerprogramm, lange bevor es Computer gab.",
+        "Ada Lovelace gilt vielen als erste Programmiererin der Welt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tochter eines Dichters",
+      "absaetze": [
+        "Ada Lovelace wurde 1815 in London geboren. Ihr Vater war der berühmte Dichter Lord Byron. Er verließ die Familie kurz nach ihrer Geburt.",
+        "Ihre Mutter ließ sie früh in Mathematik und Naturwissenschaften unterrichten. Für ein Mädchen war das damals sehr ungewöhnlich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Analytische Maschine",
+      "absaetze": [
+        "Der Mathematiker Charles Babbage entwarf eine mechanische Rechenmaschine, die Analytical Engine. Sie wurde nie fertig gebaut.",
+        "Lovelace übersetzte 1843 einen Artikel über die Maschine und ergänzte lange Anmerkungen. Darin beschrieb sie Schritt für Schritt, wie die Maschine bestimmte Zahlen berechnen könnte. Das gilt als eines der ersten Computerprogramme."
+      ],
+      "merke": "Lovelace beschrieb 1843 eines der ersten Computerprogramme."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als Rechnen",
+      "absaetze": [
+        "Lovelace erkannte, dass solche Maschinen nicht nur mit Zahlen arbeiten könnten. Sie dachte, sie könnten auch Symbole verarbeiten und sogar Musik erzeugen.",
+        "Sie starb 1852 mit nur 36 Jahren. Eine Programmiersprache, die in den 1980er Jahren entstand, wurde nach ihr Ada genannt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer war Ada Lovelaces Vater?",
+      "art": "mc",
+      "optionen": [
+        "Der Dichter Lord Byron",
+        "Charles Babbage",
+        "Isaac Newton",
+        "Charles Darwin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verließ die Familie früh."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Maschine beschrieb Lovelace?",
+      "art": "mc",
+      "optionen": [
+        "Die Analytical Engine von Charles Babbage",
+        "Die Dampfmaschine",
+        "Den ersten Fernseher",
+        "Ein Flugzeug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wurde nie fertig gebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erkannte Lovelace über solche Maschinen?",
+      "art": "mc",
+      "optionen": [
+        "Sie könnten auch Symbole und Musik verarbeiten",
+        "Sie könnten nur addieren",
+        "Sie würden nie funktionieren",
+        "Sie bräuchten keinen Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das war ihrer Zeit weit voraus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Programmiersprache trägt den Namen Ada.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie entstand in den 1980er Jahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ada Lovelace wurde 1815 als Tochter Lord Byrons geboren.",
+        "Sie arbeitete zur Analytical Engine von Babbage.",
+        "1843 beschrieb sie eines der ersten Computerprogramme.",
+        "Sie erkannte, dass Maschinen mehr als Zahlen verarbeiten könnten."
+      ]
+    }
+  ]
+}

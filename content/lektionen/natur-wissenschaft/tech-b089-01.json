@@ -1,0 +1,121 @@
+{
+  "id": "tech-b089-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Fahrraddynamo?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dynamo",
+    "fahrrad",
+    "induktion"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du trittst in die Pedale, und vorne leuchtet die Lampe.",
+        "Den Strom dafür erzeugst du selbst, mit einem kleinen Generator."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Magnet und Spule",
+      "absaetze": [
+        "Ein Dynamo ist ein kleiner Generator. Im Inneren dreht sich ein Magnet in der Nähe einer Drahtspule.",
+        "Durch die Bewegung ändert sich das Magnetfeld in der Spule. Dabei entsteht elektrische Spannung. Diesen Vorgang nennt man elektromagnetische Induktion. Michael Faraday entdeckte ihn 1831."
+      ],
+      "merke": "Ein bewegter Magnet erzeugt in einer Spule Strom."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Seitenläufer und Nabendynamo",
+      "absaetze": [
+        "Der klassische Seitenläuferdynamo wird gegen den Reifen geklappt. Ein kleines Rädchen dreht sich dann mit. Bei Nässe kann er durchrutschen.",
+        "Ein Nabendynamo sitzt in der Mitte des Vorderrads. Er läuft leiser, rutscht nicht und bremst kaum spürbar. Deshalb haben viele neue Räder einen Nabendynamo."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht ist Pflicht",
+      "absaetze": [
+        "Wer abends oder bei schlechter Sicht fährt, braucht in Deutschland funktionierendes Licht vorn und hinten.",
+        "Seit 2017 sind statt eines Dynamos auch batterie- oder akkubetriebene Leuchten erlaubt, wenn sie zugelassen sind. Sie müssen dann aber immer dabei sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was dreht sich im Inneren eines Dynamos?",
+      "art": "mc",
+      "optionen": [
+        "Ein Magnet",
+        "Ein Zahnrad aus Holz",
+        "Eine Batterie",
+        "Ein Ventilator"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er dreht sich in der Nähe einer Drahtspule."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Vorgang, bei dem so Strom entsteht?",
+      "art": "mc",
+      "optionen": [
+        "Elektromagnetische Induktion",
+        "Fotosynthese",
+        "Verdunstung",
+        "Reibung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Michael Faraday entdeckte ihn 1831."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt ein Nabendynamo?",
+      "art": "mc",
+      "optionen": [
+        "In der Mitte des Vorderrads",
+        "Am Lenker",
+        "Unter dem Sattel",
+        "An der Kette"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er rutscht nicht und läuft leise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit 2017 sind auch zugelassene Akkuleuchten am Fahrrad erlaubt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Dynamo ist seitdem nicht mehr Pflicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Dynamo ist ein kleiner Generator.",
+        "Ein drehender Magnet erzeugt in einer Spule Strom.",
+        "Nabendynamos rutschen nicht und laufen leise.",
+        "Seit 2017 sind auch zugelassene Akkuleuchten erlaubt."
+      ]
+    }
+  ]
+}

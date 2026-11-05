@@ -1,0 +1,121 @@
+{
+  "id": "koer-b089-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum klingt die eigene Stimme auf Aufnahmen fremd?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stimme",
+    "hoeren",
+    "knochenschall"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hörst eine Sprachnachricht von dir und denkst: So klinge ich doch nicht!",
+        "Doch genau so hören dich alle anderen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Wege zum Ohr",
+      "absaetze": [
+        "Wenn du sprichst, erreicht der Schall dein Innenohr auf zwei Wegen. Ein Teil geht als Luftschall durch die Luft in deine Ohren.",
+        "Ein anderer Teil wird direkt über die Knochen deines Schädels weitergeleitet. Das nennt man Knochenschall. Er lässt deine Stimme für dich tiefer und voller klingen."
+      ],
+      "merke": "Über den Knochenschall klingt deine Stimme für dich tiefer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Aufnahme zeigt nur die halbe Wahrheit",
+      "absaetze": [
+        "Ein Mikrofon nimmt nur den Luftschall auf. Der tiefere Anteil über die Knochen fehlt.",
+        "Deshalb klingt deine Stimme auf Aufnahmen höher und dünner, als du sie gewohnt bist. Für andere klingt sie dagegen ganz normal, denn sie hören dich ebenfalls nur über die Luft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum uns das stört",
+      "absaetze": [
+        "Viele Menschen mögen ihre aufgenommene Stimme nicht. Ein Grund ist, dass sie ungewohnt ist. Wir erwarten einen anderen Klang.",
+        "Wer sich häufig selbst hört, etwa beruflich, gewöhnt sich meist daran. Das Unbehagen lässt dann nach."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welchen zwei Wegen hörst du deine eigene Stimme?",
+      "art": "mc",
+      "optionen": [
+        "Über Luftschall und Knochenschall",
+        "Über Augen und Nase",
+        "Nur über das linke Ohr",
+        "Über Haut und Haare"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beide erreichen das Innenohr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fehlt bei einer Aufnahme?",
+      "art": "mc",
+      "optionen": [
+        "Der Knochenschall",
+        "Der Luftschall",
+        "Die Lautstärke",
+        "Die Sprache"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Mikrofon nimmt nur Luftschall auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie klingt deine Stimme deshalb auf Aufnahmen?",
+      "art": "mc",
+      "optionen": [
+        "Höher und dünner als gewohnt",
+        "Tiefer als gewohnt",
+        "Wie ein Roboter",
+        "Genau gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für andere klingt sie aber normal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Andere Menschen hören deine Stimme so, wie sie auf Aufnahmen klingt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch sie hören nur den Luftschall."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Du hörst deine Stimme über Luft- und Knochenschall.",
+        "Knochenschall macht sie für dich tiefer.",
+        "Aufnahmen enthalten nur Luftschall.",
+        "So wie auf Aufnahmen hören dich andere."
+      ]
+    }
+  ]
+}

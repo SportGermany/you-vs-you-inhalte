@@ -1,0 +1,141 @@
+{
+  "id": "supp-b089-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Koffeintabletten zu halten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fragen und Antworten zu Koffein",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "koffein",
+    "koffeintabletten",
+    "wachmacher"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kurz vor der Prüfung oder der langen Autofahrt greifen manche zur Koffeintablette.",
+        "Was bringen sie, und wo liegen die Risiken?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gleicher Stoff wie im Kaffee",
+      "absaetze": [
+        "Koffeintabletten enthalten denselben Wirkstoff wie Kaffee, Tee oder Cola. Koffein blockiert im Gehirn Andockstellen für einen Ermüdungsstoff namens Adenosin.",
+        "Dadurch fühlen sich viele Menschen wacher und konzentrierter. Diese Wirkung ist gut belegt."
+      ],
+      "merke": "Koffein macht wacher, weil es ein Müdigkeitssignal blockiert.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Gefahr der Menge",
+      "absaetze": [
+        "Bei Tabletten fehlt das natürliche Bremsen durch das Trinken. Es ist leicht, aus Versehen viel Koffein auf einmal zu bekommen, besonders zusammen mit Kaffee oder Energydrinks.",
+        "Zu viel Koffein kann Herzrasen, Zittern, Unruhe und Schlafprobleme auslösen. Sehr große Mengen können gefährlich werden."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Ersatz für Schlaf",
+      "absaetze": [
+        "Koffein kann Müdigkeit überdecken, aber nicht beseitigen. Wer übermüdet Auto fährt, bleibt gefährdet. Ein kurzer Schlaf ist dann die sichere Lösung.",
+        "Wer regelmäßig Koffein braucht, um durch den Tag zu kommen, sollte eher auf seinen Schlaf schauen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Schwangere, Stillende, Kinder und Jugendliche sollten auf Koffeintabletten verzichten.",
+        "Bei Herzrhythmusstörungen oder Bluthochdruck sprich vorher mit deiner Ärztin oder deinem Arzt.",
+        "Rechne Kaffee, Tee, Cola und Energydrinks immer mit ein.",
+        "Bei Herzrasen oder Brustschmerzen nach Koffein ruf ärztliche Hilfe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Koffein im Gehirn?",
+      "art": "mc",
+      "optionen": [
+        "Es blockiert Andockstellen für Adenosin",
+        "Es erhöht den Blutzucker stark",
+        "Es ersetzt Schlaf",
+        "Es wirkt wie ein Vitamin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Adenosin signalisiert Müdigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein besonderes Risiko bei Koffeintabletten?",
+      "art": "mc",
+      "optionen": [
+        "Man bekommt leicht viel Koffein auf einmal",
+        "Sie enthalten kein Koffein",
+        "Sie machen sofort müde",
+        "Sie sind immer verschreibungspflichtig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders zusammen mit Kaffee oder Energydrinks."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Übermüdung am Steuer sicher?",
+      "art": "mc",
+      "optionen": [
+        "Ein kurzer Schlaf",
+        "Mehr Koffeintabletten",
+        "Lautes Radio",
+        "Ein offenes Fenster"
+      ],
+      "richtig": 0,
+      "erklaerung": "Koffein überdeckt Müdigkeit nur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Koffein kann Herzrasen und Unruhe auslösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vor allem in größeren Mengen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Koffeintabletten enthalten denselben Stoff wie Kaffee.",
+        "Die wachmachende Wirkung ist gut belegt.",
+        "Bei Tabletten kommt leicht zu viel Koffein zusammen.",
+        "Koffein ersetzt keinen Schlaf."
+      ]
+    }
+  ]
+}

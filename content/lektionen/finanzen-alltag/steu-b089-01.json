@@ -1,0 +1,121 @@
+{
+  "id": "steu-b089-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was bedeutet Vorbehalt der Nachprüfung im Steuerbescheid?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuerbescheid",
+    "vorbehalt der nachpruefung",
+    "finanzamt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf deinem Steuerbescheid steht ein kurzer Satz: unter Vorbehalt der Nachprüfung.",
+        "Was bedeutet das für dich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Bescheid bleibt offen",
+      "absaetze": [
+        "Normalerweise wird ein Steuerbescheid nach Ablauf der Einspruchsfrist von einem Monat bestandskräftig. Dann lässt er sich nur noch in Ausnahmefällen ändern.",
+        "Steht er unter Vorbehalt der Nachprüfung, bleibt er dagegen insgesamt änderbar. Das Finanzamt kann ihn später noch einmal prüfen und korrigieren."
+      ],
+      "merke": "Ein Bescheid unter Vorbehalt bleibt insgesamt änderbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorteil und Nachteil",
+      "absaetze": [
+        "Das Finanzamt kann den Bescheid zu deinen Ungunsten ändern, etwa wenn es bei einer Prüfung Fehler findet.",
+        "Umgekehrt kannst auch du noch Änderungen beantragen. Hast du zum Beispiel Belege vergessen, kannst du sie auch nach Ablauf der Einspruchsfrist nachreichen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie lange er gilt",
+      "absaetze": [
+        "Der Vorbehalt gilt nicht für immer. Er endet spätestens, wenn die Festsetzungsfrist abläuft. Bei der Einkommensteuer sind das in der Regel vier Jahre.",
+        "Das Finanzamt kann den Vorbehalt auch vorher aufheben. Nicht verwechseln: Ein vorläufiger Bescheid bleibt nur in einzelnen, genannten Punkten offen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet der Vorbehalt der Nachprüfung?",
+      "art": "mc",
+      "optionen": [
+        "Der Bescheid bleibt insgesamt änderbar",
+        "Der Bescheid ist ungültig",
+        "Du musst sofort nachzahlen",
+        "Du bekommst automatisch Geld zurück"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Finanzamt kann ihn später korrigieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kannst du bei einem Bescheid unter Vorbehalt tun?",
+      "art": "mc",
+      "optionen": [
+        "Auch später noch Änderungen beantragen",
+        "Gar nichts mehr",
+        "Nur innerhalb eines Tages reagieren",
+        "Ihn ignorieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zum Beispiel vergessene Belege nachreichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange gilt der Vorbehalt höchstens?",
+      "art": "mc",
+      "optionen": [
+        "Bis zum Ende der Festsetzungsfrist",
+        "Für immer",
+        "Eine Woche",
+        "Bis zum nächsten Geburtstag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei der Einkommensteuer meist vier Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein vorläufiger Bescheid ist dasselbe wie ein Bescheid unter Vorbehalt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein vorläufiger Bescheid bleibt nur in einzelnen Punkten offen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Bescheid unter Vorbehalt bleibt insgesamt änderbar.",
+        "Das Finanzamt kann ihn später korrigieren.",
+        "Auch du kannst noch Änderungen beantragen.",
+        "Der Vorbehalt endet spätestens mit der Festsetzungsfrist."
+      ]
+    }
+  ]
+}
