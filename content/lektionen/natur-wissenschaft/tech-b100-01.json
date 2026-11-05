@@ -1,0 +1,121 @@
+{
+  "id": "tech-b100-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie misst eine Digitalwaage das Gewicht?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "digitalwaage",
+    "sensor",
+    "messen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mehl in die Schüssel, und schon zeigt die Waage das genaue Gewicht.",
+        "Im Inneren steckt ein winziger Sensor, der Verbiegungen misst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Metall, das sich biegt",
+      "absaetze": [
+        "Viele Digitalwaagen enthalten eine Wägezelle. Das ist ein Metallkörper, der sich unter Last minimal verbiegt, so wenig, dass man es nicht sieht.",
+        "Auf diesem Metall kleben Dehnungsmessstreifen. Das sind dünne Leiterbahnen, deren elektrischer Widerstand sich ändert, wenn sie gedehnt oder gestaucht werden."
+      ],
+      "merke": "Dehnungsmessstreifen messen, wie stark sich ein Metallkörper verbiegt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus Strom wird Gewicht",
+      "absaetze": [
+        "Die Elektronik misst die winzige Veränderung des Widerstands. Ein Chip rechnet daraus das Gewicht in Gramm aus und zeigt es an.",
+        "Damit das genau klappt, wurde die Waage im Werk mit bekannten Gewichten eingestellt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Praktische Funktionen",
+      "absaetze": [
+        "Mit der Tara-Taste setzt du die Anzeige auf null, auch wenn schon eine Schüssel auf der Waage steht. So wiegst du nur den Inhalt.",
+        "Stelle die Waage auf eine feste, gerade Fläche. Auf weichem Untergrund oder bei schwacher Batterie kann sie ungenau messen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbiegt sich in einer Digitalwaage?",
+      "art": "mc",
+      "optionen": [
+        "Ein Metallkörper in der Wägezelle",
+        "Die Glasplatte sichtbar",
+        "Die Batterie",
+        "Das Display"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wenig, dass man es nicht sieht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was messen Dehnungsmessstreifen?",
+      "art": "mc",
+      "optionen": [
+        "Die Änderung des elektrischen Widerstands",
+        "Die Temperatur",
+        "Die Farbe",
+        "Den Luftdruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden gedehnt oder gestaucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist die Tara-Taste da?",
+      "art": "mc",
+      "optionen": [
+        "Um die Anzeige mit Schüssel auf null zu setzen",
+        "Um die Waage auszuschalten",
+        "Um die Einheit zu wechseln",
+        "Um Musik abzuspielen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wiegst du nur den Inhalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf weichem Untergrund kann eine Waage ungenau messen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine feste, gerade Fläche ist wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Digitalwaagen nutzen eine Wägezelle aus Metall.",
+        "Dehnungsmessstreifen erfassen winzige Verbiegungen.",
+        "Ein Chip rechnet das in Gramm um.",
+        "Die Tara-Taste zieht das Gefäß ab."
+      ]
+    }
+  ]
+}

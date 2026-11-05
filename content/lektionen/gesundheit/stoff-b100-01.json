@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b100-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was macht der Dickdarm?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "dickdarm",
+    "verdauung",
+    "darmbakterien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn der Dünndarm fertig ist, ist die Verdauung noch nicht vorbei.",
+        "Im Dickdarm passiert noch einiges."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der letzte Abschnitt",
+      "absaetze": [
+        "Der Dickdarm ist etwa anderthalb Meter lang und umrahmt den Dünndarm im Bauch. Er beginnt mit dem Blinddarm, an dem der kleine Wurmfortsatz hängt.",
+        "Hier kommt an, was der Dünndarm nicht verdauen konnte, vor allem Ballaststoffe und Wasser."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser und Bakterien",
+      "absaetze": [
+        "Der Dickdarm entzieht dem Nahrungsbrei Wasser und Salze. So wird er nach und nach eingedickt.",
+        "Außerdem leben hier Billionen Bakterien. Sie zersetzen Ballaststoffe und bilden dabei Stoffe, die die Darmschleimhaut ernähren. Dabei entstehen auch Gase."
+      ],
+      "merke": "Im Dickdarm zersetzen Bakterien Ballaststoffe und Wasser wird entzogen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsorge lohnt sich",
+      "absaetze": [
+        "Darmkrebs gehört zu den häufigen Krebsarten. Er entwickelt sich oft über Jahre aus gutartigen Vorstufen, den Polypen.",
+        "Bei einer Darmspiegelung können Polypen entdeckt und gleich entfernt werden. Ab 50 Jahren haben gesetzlich Versicherte Anspruch auf Früherkennungsuntersuchungen. Ballaststoffreiche Ernährung und Bewegung senken das Risiko."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit beginnt der Dickdarm?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Blinddarm",
+        "Mit dem Magen",
+        "Mit der Speiseröhre",
+        "Mit der Leber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daran hängt der Wurmfortsatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entzieht der Dickdarm dem Nahrungsbrei?",
+      "art": "mc",
+      "optionen": [
+        "Wasser und Salze",
+        "Eiweiß",
+        "Zucker",
+        "Sauerstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird er eingedickt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machen die Bakterien im Dickdarm?",
+      "art": "mc",
+      "optionen": [
+        "Sie zersetzen Ballaststoffe",
+        "Sie bilden Knochen",
+        "Sie produzieren Insulin",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei entstehen nützliche Stoffe und Gase."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einer Darmspiegelung können Polypen entfernt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So lässt sich Darmkrebs oft verhindern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Dickdarm ist der letzte Abschnitt der Verdauung.",
+        "Er entzieht Wasser und Salze.",
+        "Bakterien zersetzen dort Ballaststoffe.",
+        "Darmkrebsvorsorge ab 50 lohnt sich.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

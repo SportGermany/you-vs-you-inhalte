@@ -1,0 +1,127 @@
+{
+  "id": "vers-b100-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Lohnt sich eine Pflegezusatzversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflegezusatzversicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pflegezusatzversicherung",
+    "pflege",
+    "vorsorge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die gesetzliche Pflegeversicherung zahlt nur einen Teil der Kosten.",
+        "Wer pflegebedürftig wird, muss oft viel aus eigener Tasche zahlen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Pflegeversicherung ist nur ein Teilschutz",
+      "absaetze": [
+        "Die gesetzliche Pflegeversicherung übernimmt je nach Pflegegrad einen festen Betrag. Die tatsächlichen Kosten liegen oft deutlich darüber.",
+        "Besonders im Pflegeheim kommt ein hoher Eigenanteil zusammen, oft mehrere tausend Euro im Monat. Reichen Rente und Ersparnisse nicht, müssen teils Angehörige oder das Sozialamt einspringen."
+      ],
+      "merke": "Die gesetzliche Pflegeversicherung deckt nur einen Teil der Kosten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Arten der Zusatzversicherung",
+      "absaetze": [
+        "Eine Pflegetagegeldversicherung zahlt je nach Pflegegrad einen vereinbarten Betrag pro Tag. Über das Geld kannst du frei verfügen.",
+        "Eine Pflegekostenversicherung erstattet dagegen einen Teil der tatsächlich entstandenen Kosten. Daneben gibt es eine staatlich geförderte Variante mit einem kleinen monatlichen Zuschuss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Früh und genau prüfen",
+      "absaetze": [
+        "Je jünger und gesünder du beim Abschluss bist, desto günstiger ist meist der Beitrag. Mit Vorerkrankungen kann es schwierig werden.",
+        "Wichtig ist, dass du die Beiträge auch im Alter noch zahlen kannst. Vergleiche Leistungen ab Pflegegrad 1 oder 2 und lass dich unabhängig beraten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel zahlt die gesetzliche Pflegeversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Nur einen Teil der Kosten",
+        "Immer alle Kosten",
+        "Gar nichts",
+        "Nur für Kinder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Eigenanteil kann hoch sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zahlt eine Pflegetagegeldversicherung?",
+      "art": "mc",
+      "optionen": [
+        "Einen vereinbarten Betrag pro Tag",
+        "Nur Medikamente",
+        "Nur Urlaub",
+        "Nur Heizkosten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Über das Geld kannst du frei verfügen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist der Beitrag meist günstiger?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du jung und gesund abschließt",
+        "Wenn du schon pflegebedürftig bist",
+        "Im hohen Alter",
+        "Bei vielen Vorerkrankungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Früh abschließen lohnt sich oft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es gibt auch eine staatlich geförderte Pflegezusatzversicherung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Mit einem kleinen monatlichen Zuschuss."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die gesetzliche Pflegeversicherung ist nur ein Teilschutz.",
+        "Im Heim kann der Eigenanteil sehr hoch sein.",
+        "Pflegetagegeld und Pflegekostenversicherung sind die Hauptarten.",
+        "Früh abschließen und Beiträge im Alter einplanen."
+      ]
+    }
+  ]
+}

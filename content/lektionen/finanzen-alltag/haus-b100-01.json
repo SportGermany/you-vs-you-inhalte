@@ -1,0 +1,121 @@
+{
+  "id": "haus-b100-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Edelstahl richtig?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "edelstahl",
+    "spuele",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Spüle, Kochtopf, Kühlschranktür: Edelstahl ist überall in der Küche.",
+        "Er ist robust, zeigt aber schnell Flecken und Streifen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanft reinigen",
+      "absaetze": [
+        "Für den Alltag reicht warmes Wasser mit etwas Spülmittel. Wische mit einem weichen Tuch oder Mikrofasertuch in Richtung des Schliffs, also der feinen Linien im Metall.",
+        "Trockne die Fläche danach ab. So bleiben keine Wasserflecken zurück."
+      ],
+      "merke": "Wische Edelstahl in Schliffrichtung und trockne ihn ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gegen Kalk und Flecken",
+      "absaetze": [
+        "Weiße Kalkflecken lassen sich mit etwas Essig oder Zitronensäure entfernen. Lass das Mittel kurz einwirken, wische nach und spüle mit klarem Wasser.",
+        "Kleine braune Punkte sind oft Flugrost. Er stammt meist von fremdem Eisen, etwa aus Wasserrohren oder Stahlwolle, und lässt sich mit einem speziellen Edelstahlreiniger entfernen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du vermeiden solltest",
+      "absaetze": [
+        "Verwende keine Stahlwolle und keine Scheuermittel. Sie zerkratzen die Oberfläche, und in den Kratzern setzt sich neuer Schmutz fest.",
+        "Auch chlorhaltige Reiniger können Edelstahl angreifen und Flecken oder kleine Löcher verursachen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welche Richtung solltest du Edelstahl wischen?",
+      "art": "mc",
+      "optionen": [
+        "In Richtung des Schliffs",
+        "Kreuz und quer",
+        "Im Kreis",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "So entstehen weniger Streifen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Kalkflecken?",
+      "art": "mc",
+      "optionen": [
+        "Essig oder Zitronensäure",
+        "Salz",
+        "Öl",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach mit klarem Wasser nachspülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei Edelstahl vermeiden?",
+      "art": "mc",
+      "optionen": [
+        "Stahlwolle und chlorhaltige Reiniger",
+        "Mikrofasertücher",
+        "Warmes Wasser",
+        "Spülmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie zerkratzen oder greifen das Material an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleine braune Punkte auf Edelstahl sind oft Flugrost.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er stammt meist von fremdem Eisen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reinige Edelstahl mit Wasser und etwas Spülmittel.",
+        "Wische in Schliffrichtung und trockne ab.",
+        "Essig oder Zitronensäure lösen Kalk.",
+        "Keine Stahlwolle und kein Chlor verwenden."
+      ]
+    }
+  ]
+}

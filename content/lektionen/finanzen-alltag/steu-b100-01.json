@@ -1,0 +1,121 @@
+{
+  "id": "steu-b100-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wird ein Dienstrad versteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dienstrad",
+    "jobrad",
+    "geldwerter vorteil"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Arbeitgeber bieten Fahrräder oder E-Bikes zum Leasen an.",
+        "Für die Steuer kommt es darauf an, wie das Rad finanziert wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zusätzlich zum Gehalt",
+      "absaetze": [
+        "Stellt der Arbeitgeber das Dienstrad zusätzlich zum normalen Gehalt zur Verfügung, ist die private Nutzung steuerfrei.",
+        "Das gilt für normale Fahrräder und für E-Bikes, die rechtlich als Fahrrad gelten, also mit Tretunterstützung bis 25 Kilometer pro Stunde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Über Gehaltsumwandlung",
+      "absaetze": [
+        "Häufiger wird ein Teil des Bruttogehalts für die Leasingrate verwendet. Dann muss die private Nutzung als geldwerter Vorteil versteuert werden.",
+        "Angesetzt werden monatlich 0,25 Prozent des Bruttolistenpreises. Weil die Leasingrate vom Brutto abgeht, sparen viele trotzdem gegenüber einem privaten Kauf."
+      ],
+      "merke": "Bei Gehaltsumwandlung werden monatlich 0,25 Prozent des Listenpreises versteuert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du bedenken solltest",
+      "absaetze": [
+        "Ein geringeres Bruttogehalt kann zu etwas geringeren Ansprüchen bei Rente, Arbeitslosen- oder Elterngeld führen.",
+        "Prüfe auch, was am Ende der Laufzeit mit dem Rad passiert und wie es versichert ist. Rechne aus, ob sich das Leasing für dich wirklich lohnt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist die private Nutzung eines Dienstrads steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es zusätzlich zum Gehalt gestellt wird",
+        "Immer",
+        "Nie",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Gehaltsumwandlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird bei Gehaltsumwandlung monatlich versteuert?",
+      "art": "mc",
+      "optionen": [
+        "0,25 Prozent des Bruttolistenpreises",
+        "10 Prozent des Kaufpreises",
+        "Der ganze Kaufpreis",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist ein geldwerter Vorteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein geringeres Bruttogehalt beeinflussen?",
+      "art": "mc",
+      "optionen": [
+        "Ansprüche bei Rente oder Elterngeld",
+        "Die Fahrradfarbe",
+        "Den Urlaubsanspruch",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das solltest du einrechnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch E-Bikes bis 25 Kilometer pro Stunde können als Dienstrad gelten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie gelten rechtlich als Fahrrad."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zusätzlich zum Gehalt ist ein Dienstrad steuerfrei.",
+        "Bei Gehaltsumwandlung gelten 0,25 Prozent des Listenpreises.",
+        "Ein geringeres Brutto kann Sozialleistungen mindern.",
+        "Rechne nach, ob sich das Leasing lohnt."
+      ]
+    }
+  ]
+}

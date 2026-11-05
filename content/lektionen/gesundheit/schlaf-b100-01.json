@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b100-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Helfen Lichtwecker beim Aufwachen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lichtwecker",
+    "aufwachen",
+    "innere uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Winter klingelt der Wecker, und draußen ist es noch stockdunkel.",
+        "Lichtwecker wollen das Aufwachen mit einem künstlichen Sonnenaufgang erleichtern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Sonnenaufgang im Schlafzimmer",
+      "absaetze": [
+        "Ein Lichtwecker wird vor der Weckzeit langsam heller, oft über 20 bis 30 Minuten. Er ahmt so einen natürlichen Sonnenaufgang nach.",
+        "Licht ist der wichtigste Taktgeber für die innere Uhr. Es bremst das Schlafhormon Melatonin und signalisiert dem Körper, dass der Tag beginnt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Kleine Studien deuten darauf hin, dass ein langsam heller werdendes Licht das Aufwachen sanfter machen kann. Viele fühlen sich danach weniger benommen.",
+        "Große, aussagekräftige Studien gibt es aber kaum. Ein Lichtwecker ersetzt keinen ausreichenden Schlaf."
+      ],
+      "merke": "Lichtwecker können das Aufwachen erleichtern, ersetzen aber keinen Schlaf.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Besonders in den dunklen Wintermonaten empfinden viele einen Lichtwecker als angenehm. Wichtig ist, dass er hell genug wird.",
+        "Noch wirksamer ist echtes Tageslicht. Ein kurzer Spaziergang am Vormittag hilft der inneren Uhr oft mehr als jede Lampe."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ahmt ein Lichtwecker nach?",
+      "art": "mc",
+      "optionen": [
+        "Einen natürlichen Sonnenaufgang",
+        "Ein Gewitter",
+        "Den Mondschein",
+        "Ein Feuerwerk"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird vor der Weckzeit langsam heller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bremst Licht am Morgen?",
+      "art": "mc",
+      "optionen": [
+        "Das Schlafhormon Melatonin",
+        "Den Herzschlag vollständig",
+        "Die Verdauung",
+        "Den Hunger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht ist der wichtigste Taktgeber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft der inneren Uhr oft noch mehr?",
+      "art": "mc",
+      "optionen": [
+        "Echtes Tageslicht am Vormittag",
+        "Ein späterer Wecker",
+        "Fernsehen am Morgen",
+        "Vorhänge geschlossen lassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa ein kurzer Spaziergang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Lichtwecker ersetzt ausreichend Schlaf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kann nur das Aufwachen erleichtern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lichtwecker simulieren einen Sonnenaufgang.",
+        "Licht bremst Melatonin und weckt den Körper.",
+        "Kleine Studien deuten auf sanfteres Aufwachen hin.",
+        "Tageslicht wirkt oft noch stärker."
+      ]
+    }
+  ]
+}

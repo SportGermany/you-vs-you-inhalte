@@ -1,0 +1,127 @@
+{
+  "id": "welt-b100-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wie entdeckte Alexander Fleming das Penicillin?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nobelpreis für Medizin",
+      "herausgeber": "Nobelstiftung",
+      "url": "https://www.nobelprize.org",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebendiges Museum Online",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "alexander fleming",
+    "penicillin",
+    "antibiotika"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein vergessener Laborteller, ein Schimmelpilz und eine Entdeckung, die Millionen Leben rettete.",
+        "So begann die Geschichte der Antibiotika."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein glücklicher Zufall",
+      "absaetze": [
+        "Der schottische Arzt und Forscher Alexander Fleming untersuchte in London Bakterien. 1928 kehrte er aus dem Urlaub zurück und entdeckte, dass auf einer Bakterienkultur ein Schimmelpilz gewachsen war.",
+        "Rund um den Pilz waren die Bakterien abgestorben. Fleming erkannte, dass der Pilz einen Stoff bildet, der Bakterien tötet. Er nannte ihn Penicillin."
+      ],
+      "merke": "Fleming entdeckte 1928 das Penicillin durch einen Zufall."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Labor zum Medikament",
+      "absaetze": [
+        "Fleming gelang es nicht, Penicillin in größeren Mengen herzustellen. Erst um 1940 entwickelten die Forscher Howard Florey und Ernst Chain ein Verfahren dafür.",
+        "Im Zweiten Weltkrieg rettete Penicillin vielen verwundeten Soldaten das Leben. 1945 erhielten Fleming, Florey und Chain gemeinsam den Nobelpreis für Medizin."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine frühe Warnung",
+      "absaetze": [
+        "Schon in seiner Nobelpreisrede warnte Fleming: Werden Antibiotika falsch oder zu wenig eingesetzt, können Bakterien unempfindlich werden.",
+        "Diese Resistenzen sind heute ein großes Problem. Deshalb sollen Antibiotika nur bei bakteriellen Infektionen und genau nach ärztlicher Anweisung eingesetzt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entdeckte Fleming das Penicillin?",
+      "art": "mc",
+      "optionen": [
+        "1928",
+        "1828",
+        "1968",
+        "1945"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kam gerade aus dem Urlaub zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer machte Penicillin zum Medikament?",
+      "art": "mc",
+      "optionen": [
+        "Howard Florey und Ernst Chain",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Marie Curie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gelang um 1940."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovor warnte Fleming schon 1945?",
+      "art": "mc",
+      "optionen": [
+        "Vor Resistenzen bei falschem Einsatz",
+        "Vor zu viel Sport",
+        "Vor Impfungen",
+        "Vor Vitaminen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bakterien können unempfindlich werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fleming erhielt den Nobelpreis gemeinsam mit Florey und Chain.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das war 1945."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fleming entdeckte 1928 zufällig das Penicillin.",
+        "Florey und Chain machten es zum Medikament.",
+        "1945 erhielten die drei den Nobelpreis.",
+        "Fleming warnte früh vor Resistenzen."
+      ]
+    }
+  ]
+}

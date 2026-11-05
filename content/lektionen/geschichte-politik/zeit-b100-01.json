@@ -1,0 +1,121 @@
+{
+  "id": "zeit-b100-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was war das Jahr-2000-Problem?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "jahr-2000-problem",
+    "computer",
+    "millennium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ende 1999 fürchteten viele, dass um Mitternacht Computer weltweit ausfallen.",
+        "Flugzeuge, Banken und Kraftwerke schienen in Gefahr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Ziffern zu wenig",
+      "absaetze": [
+        "In vielen älteren Computerprogrammen wurden Jahreszahlen nur mit zwei Ziffern gespeichert, etwa 99 für 1999. Damals sparte das teuren Speicherplatz.",
+        "Beim Wechsel auf 2000 drohte die 00 als 1900 verstanden zu werden. Berechnungen zu Zinsen, Fristen oder Altersangaben hätten dann falsche Ergebnisse geliefert."
+      ],
+      "merke": "Zweistellige Jahreszahlen hätten 2000 als 1900 erscheinen lassen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weltweite Vorbereitung",
+      "absaetze": [
+        "Unternehmen und Behörden prüften jahrelang ihre Programme und tauschten Systeme aus. Weltweit kostete das sehr viel Geld.",
+        "In der Silvesternacht 1999 standen vielerorts Notfallteams bereit. Es gab nur wenige, meist kleine Störungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Übertrieben oder gut verhindert?",
+      "absaetze": [
+        "Manche meinen, die Gefahr sei übertrieben worden. Viele Fachleute sehen es anders: Die Probleme blieben aus, weil so gründlich vorgesorgt wurde.",
+        "Ein ähnliches Problem droht im Jahr 2038 bei manchen älteren Systemen, die die Zeit auf besondere Weise zählen. Auch hier wird bereits vorgesorgt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gab es das Jahr-2000-Problem?",
+      "art": "mc",
+      "optionen": [
+        "Jahreszahlen wurden nur mit zwei Ziffern gespeichert",
+        "Computer hatten keinen Strom",
+        "Es gab ein Virus",
+        "Die Uhren waren falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sollte Speicherplatz gespart werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hätte die 00 bedeuten können?",
+      "art": "mc",
+      "optionen": [
+        "Das Jahr 1900",
+        "Das Jahr 2100",
+        "Gar nichts",
+        "Das Jahr 1000"
+      ],
+      "richtig": 0,
+      "erklaerung": "Berechnungen wären dann falsch geworden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was geschah in der Silvesternacht 1999?",
+      "art": "mc",
+      "optionen": [
+        "Es gab nur wenige, kleine Störungen",
+        "Weltweit fiel der Strom aus",
+        "Alle Flugzeuge stürzten ab",
+        "Das Internet verschwand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gründliche Vorsorge hatte vieles verhindert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein ähnliches Problem könnte 2038 bei manchen Systemen auftreten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch hier wird vorgesorgt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ältere Programme speicherten Jahreszahlen zweistellig.",
+        "Der Wechsel auf 2000 drohte Fehler auszulösen.",
+        "Weltweite Vorsorge verhinderte große Probleme.",
+        "Für 2038 wird ein ähnliches Problem erwartet."
+      ]
+    }
+  ]
+}

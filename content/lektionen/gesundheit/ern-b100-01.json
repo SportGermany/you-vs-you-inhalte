@@ -1,0 +1,125 @@
+{
+  "id": "ern-b100-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Kefir?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kefir",
+    "sauermilch",
+    "fermentation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kefir ist leicht säuerlich, cremig und prickelt manchmal ein wenig.",
+        "Das Getränk aus dem Kaukasus gilt als besonders gesund. Zu Recht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Milch mit Kefirknollen",
+      "absaetze": [
+        "Traditioneller Kefir entsteht, wenn Milch mit Kefirknollen vergoren wird. Das sind blumenkohlartige Gebilde aus Milchsäurebakterien und Hefen.",
+        "Durch die Hefen entstehen etwas Kohlensäure und Spuren von Alkohol. Kefir aus dem Supermarkt wird oft mit ausgewählten Kulturen hergestellt und schmeckt milder."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in Kefir steckt",
+      "absaetze": [
+        "Kefir liefert wie andere Milchprodukte Eiweiß, Calcium und Vitamin B12. Während der Gärung wird ein Teil des Milchzuckers abgebaut.",
+        "Menschen mit leichter Laktoseintoleranz vertragen Kefir deshalb manchmal besser als Milch."
+      ],
+      "merke": "Kefir liefert Eiweiß und Calcium und enthält weniger Milchzucker als Milch.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Probiotisch, aber kein Zaubermittel",
+      "absaetze": [
+        "Kefir enthält lebende Mikroorganismen. Studien deuten darauf hin, dass fermentierte Milchprodukte die Verdauung unterstützen können. Wie stark Kefir die Darmflora tatsächlich verändert, ist aber noch unklar.",
+        "Als Teil einer abwechslungsreichen Ernährung ist Kefir eine gute Wahl. Achte bei Fertigprodukten mit Frucht auf zugesetzten Zucker."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit wird traditioneller Kefir hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Mit Kefirknollen aus Bakterien und Hefen",
+        "Mit Zitronensaft",
+        "Mit Essig",
+        "Mit Backpulver"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Knollen vergären die Milch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum vertragen manche Menschen mit Laktoseintoleranz Kefir besser?",
+      "art": "mc",
+      "optionen": [
+        "Ein Teil des Milchzuckers wird abgebaut",
+        "Kefir enthält keine Milch",
+        "Kefir ist immer laktosefrei",
+        "Wegen der Kohlensäure"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geschieht bei der Gärung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf solltest du bei Fruchtkefir achten?",
+      "art": "mc",
+      "optionen": [
+        "Auf zugesetzten Zucker",
+        "Auf Koffein",
+        "Auf Gluten",
+        "Auf Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Fertigprodukte sind gesüßt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Traditioneller Kefir kann Spuren von Alkohol enthalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das liegt an den Hefen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kefir entsteht durch Gärung mit Bakterien und Hefen.",
+        "Er liefert Eiweiß, Calcium und Vitamin B12.",
+        "Er enthält weniger Milchzucker als Milch.",
+        "Achte bei Fruchtkefir auf Zucker."
+      ]
+    }
+  ]
+}

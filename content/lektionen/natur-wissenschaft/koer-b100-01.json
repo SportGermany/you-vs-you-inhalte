@@ -1,0 +1,121 @@
+{
+  "id": "koer-b100-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie entsteht Zahnstein?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zahnstein",
+    "zaehne",
+    "zahnpflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Innenseite der unteren Schneidezähne bilden sich oft harte, gelbliche Beläge.",
+        "Das ist Zahnstein. Wegputzen lässt er sich nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus weichem Belag wird Stein",
+      "absaetze": [
+        "Auf den Zähnen bildet sich ständig ein weicher Belag aus Bakterien, die Plaque. Wird sie nicht gründlich entfernt, lagern sich Mineralien aus dem Speichel darin ein.",
+        "Der Belag verhärtet sich so zu Zahnstein. Besonders oft entsteht er dort, wo Speicheldrüsen münden, etwa hinter den unteren Schneidezähnen."
+      ],
+      "merke": "Zahnstein ist verhärtete Plaque mit Mineralien aus dem Speichel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum er schadet",
+      "absaetze": [
+        "Zahnstein ist rau. Daran haften neue Bakterien besonders gut. Am Zahnfleischrand kann das zu Entzündungen führen.",
+        "Bleibt das unbehandelt, kann sich eine Parodontitis entwickeln. Dabei wird der Halteapparat der Zähne geschädigt, und Zähne können sich lockern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen und entfernen",
+      "absaetze": [
+        "Gründliches Zähneputzen und die Reinigung der Zahnzwischenräume, etwa mit Zahnseide, entfernen Plaque, bevor sie hart wird.",
+        "Bereits entstandenen Zahnstein entfernt die Zahnarztpraxis. Gesetzlich Versicherte haben einmal im Jahr Anspruch auf eine Zahnsteinentfernung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus entsteht Zahnstein?",
+      "art": "mc",
+      "optionen": [
+        "Aus Plaque, in die sich Mineralien einlagern",
+        "Aus Zucker allein",
+        "Aus Knochen",
+        "Aus Zahnpasta"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Mineralien stammen aus dem Speichel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo bildet sich Zahnstein besonders oft?",
+      "art": "mc",
+      "optionen": [
+        "Hinter den unteren Schneidezähnen",
+        "Auf der Zunge",
+        "Auf den Lippen",
+        "Im Gaumen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort münden Speicheldrüsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entfernt Zahnstein?",
+      "art": "mc",
+      "optionen": [
+        "Die Zahnarztpraxis",
+        "Die Zahnbürste allein",
+        "Ein Kaugummi",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Einmal im Jahr zahlt die Kasse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zahnstein kann Zahnfleischentzündungen fördern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist rau, und Bakterien haften gut daran."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zahnstein ist verhärtete Plaque.",
+        "Er entsteht oft hinter den unteren Schneidezähnen.",
+        "Er fördert Zahnfleischentzündungen.",
+        "Gründliche Pflege beugt vor, die Praxis entfernt ihn."
+      ]
+    }
+  ]
+}
