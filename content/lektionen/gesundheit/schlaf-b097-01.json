@@ -1,0 +1,130 @@
+{
+  "id": "schlaf-b097-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du im Flugzeug besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "flugzeug",
+    "reisen",
+    "schlafen unterwegs"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Enge Sitze, Motorengeräusche und trockene Luft.",
+        "Im Flugzeug zu schlafen, ist für viele schwierig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die richtige Vorbereitung",
+      "absaetze": [
+        "Ein Fensterplatz bietet eine Wand zum Anlehnen, und niemand muss über dich klettern. Ein Nackenkissen stützt den Kopf.",
+        "Schlafmaske und Ohrstöpsel oder Kopfhörer mit Geräuschunterdrückung blenden Licht und Lärm aus. Bequeme, lockere Kleidung hilft zusätzlich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was den Schlaf stört",
+      "absaetze": [
+        "Alkohol macht zwar müde, verschlechtert aber den Schlaf und trocknet zusätzlich aus. Auch Koffein solltest du vor einem Nachtflug meiden.",
+        "Studien deuten darauf hin, dass Maske und Ohrstöpsel in lauten, hellen Umgebungen den Schlaf verbessern können. Ob du schläfst, hängt aber auch von deiner inneren Uhr ab."
+      ],
+      "merke": "Maske und Ohrstöpsel helfen, Alkohol stört den Schlaf.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "An die Gesundheit denken",
+      "absaetze": [
+        "Auf Langstreckenflügen solltest du ab und zu aufstehen, die Beine bewegen und genug Wasser trinken. Langes Sitzen erhöht das Risiko für Blutgerinnsel in den Beinen.",
+        "Wer ein erhöhtes Thromboserisiko hat, sollte sich vor dem Flug ärztlich beraten lassen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Platz hilft oft beim Schlafen im Flugzeug?",
+      "art": "mc",
+      "optionen": [
+        "Der Fensterplatz",
+        "Der Gangplatz",
+        "Der Platz an der Toilette",
+        "Der Platz am Notausgang ohne Lehne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort kannst du dich anlehnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stört den Schlaf im Flugzeug?",
+      "art": "mc",
+      "optionen": [
+        "Alkohol",
+        "Eine Schlafmaske",
+        "Ohrstöpsel",
+        "Ein Nackenkissen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er macht müde, verschlechtert aber den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du auf Langstreckenflügen tun?",
+      "art": "mc",
+      "optionen": [
+        "Ab und zu aufstehen und die Beine bewegen",
+        "Stundenlang still sitzen",
+        "Viel Alkohol trinken",
+        "Nichts trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das senkt das Risiko für Blutgerinnsel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohrstöpsel und Schlafmaske können in lauten, hellen Umgebungen helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Darauf deuten Studien hin."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fensterplatz und Nackenkissen erleichtern den Schlaf.",
+        "Maske und Ohrstöpsel blenden Licht und Lärm aus.",
+        "Alkohol und Koffein stören den Schlaf.",
+        "Auf langen Flügen regelmäßig bewegen und trinken."
+      ]
+    }
+  ]
+}

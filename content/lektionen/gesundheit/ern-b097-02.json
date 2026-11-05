@@ -1,0 +1,123 @@
+{
+  "id": "ern-b097-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was macht Roggen besonders?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "roggen",
+    "getreide",
+    "brot"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dunkles, kräftiges Brot hat in Deutschland Tradition.",
+        "Oft steckt dahinter ein robustes Getreide: Roggen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Getreide für karge Böden",
+      "absaetze": [
+        "Roggen wächst auch auf sandigen, nährstoffarmen Böden und verträgt Kälte gut. Deshalb war er in Nord- und Osteuropa lange das wichtigste Brotgetreide.",
+        "Roggenbrot schmeckt kräftig und leicht säuerlich. Es bleibt außerdem länger frisch als viele Weizenbrote."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Ballaststoffe",
+      "absaetze": [
+        "Roggen enthält besonders viele Ballaststoffe, vor allem als Vollkorn. Sie machen lange satt und sind gut für die Verdauung.",
+        "Roggen enthält Gluten. Für Menschen mit Zöliakie ist er deshalb nicht geeignet."
+      ],
+      "merke": "Roggen liefert viele Ballaststoffe und sättigt lange.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohne Sauerteig geht es nicht",
+      "absaetze": [
+        "Ein reiner Roggenteig lässt sich nicht wie Weizenteig mit Hefe allein backen. Er braucht Sauerteig. Die Säure sorgt dafür, dass das Brot locker wird und gut gelingt.",
+        "Früher war Roggen oft von einem giftigen Pilz befallen, dem Mutterkorn. Heute wird Getreide darauf kontrolliert und gereinigt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welchen Böden wächst Roggen gut?",
+      "art": "mc",
+      "optionen": [
+        "Auch auf sandigen, nährstoffarmen Böden",
+        "Nur auf sehr fetten Böden",
+        "Nur im Wasser",
+        "Nur in der Wüste"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verträgt auch Kälte gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält Roggen besonders viel?",
+      "art": "mc",
+      "optionen": [
+        "Ballaststoffe",
+        "Vitamin C",
+        "Koffein",
+        "Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem als Vollkorn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was braucht ein reiner Roggenteig zum Backen?",
+      "art": "mc",
+      "optionen": [
+        "Sauerteig",
+        "Nur Hefe",
+        "Backpulver allein",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Säure macht das Brot locker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Roggen ist glutenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Roggen enthält Gluten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Roggen wächst auch auf kargen Böden.",
+        "Er liefert viele Ballaststoffe.",
+        "Reiner Roggenteig braucht Sauerteig.",
+        "Roggen enthält Gluten."
+      ]
+    }
+  ]
+}

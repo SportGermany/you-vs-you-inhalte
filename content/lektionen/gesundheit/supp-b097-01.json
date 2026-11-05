@@ -1,0 +1,141 @@
+{
+  "id": "supp-b097-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Alpha-Liponsäure zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "alpha-liponsaeure",
+    "antioxidantien",
+    "diabetes"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Alpha-Liponsäure wird als Mittel gegen Alterung und für die schlanke Linie beworben.",
+        "Was ist davon zu halten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein körpereigener Stoff",
+      "absaetze": [
+        "Alpha-Liponsäure bildet der Körper selbst. Sie hilft in den Zellen bei der Energiegewinnung und wirkt als Antioxidans.",
+        "In kleinen Mengen steckt sie auch in Lebensmitteln wie Fleisch, Innereien und Spinat. Ein Mangel ist bei gesunden Menschen nicht bekannt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Als Arzneimittel und als Präparat",
+      "absaetze": [
+        "In Deutschland ist Alpha-Liponsäure als Arzneimittel zugelassen, und zwar gegen Missempfindungen bei Nervenschäden durch Diabetes. Die Wirksamkeit dafür ist umstritten.",
+        "Als Nahrungsergänzung wird sie für Anti-Aging oder zum Abnehmen angeboten. Studien deuten höchstens auf sehr kleine Effekte hin. Ein Nutzen für Gesunde ist nicht belegt."
+      ],
+      "merke": "Ein Nutzen von Alpha-Liponsäure für Gesunde ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Diabetes",
+      "absaetze": [
+        "Alpha-Liponsäure kann den Blutzucker senken. Zusammen mit Diabetes-Medikamenten kann es zu Unterzuckerung kommen.",
+        "In seltenen Fällen wurde eine Störung beschrieben, bei der der Körper Antikörper gegen sein eigenes Insulin bildet. Das Bundesinstitut für Risikobewertung rät deshalb zur Vorsicht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Diabetes oder blutzuckersenkenden Medikamenten nur nach ärztlicher Rücksprache verwenden.",
+        "Schwangere und Stillende sollten auf solche Präparate verzichten.",
+        "Achte bei Kombipräparaten auf doppelte Inhaltsstoffe.",
+        "Präparate ersetzen keine ärztliche Behandlung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bildet Alpha-Liponsäure?",
+      "art": "mc",
+      "optionen": [
+        "Der Körper selbst",
+        "Nur Pflanzen in den Tropen",
+        "Nur Bakterien im Meer",
+        "Niemand, sie ist künstlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Mangel ist bei Gesunden nicht bekannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist Alpha-Liponsäure in Deutschland als Arzneimittel zugelassen?",
+      "art": "mc",
+      "optionen": [
+        "Gegen Missempfindungen bei diabetischen Nervenschäden",
+        "Gegen Haarausfall",
+        "Zum Abnehmen",
+        "Gegen Erkältungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wirksamkeit ist umstritten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei Diabetes-Medikamenten passieren?",
+      "art": "mc",
+      "optionen": [
+        "Eine Unterzuckerung",
+        "Ein zu hoher Blutzucker",
+        "Nichts",
+        "Haarwuchs"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alpha-Liponsäure kann den Blutzucker senken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Anti-Aging-Effekt von Alpha-Liponsäure ist belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Nutzen für Gesunde ist nicht belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Alpha-Liponsäure bildet der Körper selbst.",
+        "Als Arzneimittel wird sie bei diabetischen Nervenschäden eingesetzt.",
+        "Für Gesunde ist kein Nutzen belegt.",
+        "Bei Diabetes-Medikamenten droht Unterzuckerung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tech-b097-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Fernbedienung?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fernbedienung",
+    "infrarot",
+    "fernseher"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Knopfdruck auf dem Sofa, und der Fernseher schaltet um.",
+        "Die Botschaft reist dabei als unsichtbares Licht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lichtsignale im Takt",
+      "absaetze": [
+        "Die meisten klassischen Fernbedienungen nutzen Infrarotlicht. Vorne sitzt eine kleine Leuchtdiode. Sie blinkt beim Drücken einer Taste in einem schnellen, genau festgelegten Muster.",
+        "Jede Taste hat ihr eigenes Muster, einen Code. Der Empfänger im Fernseher erkennt diesen Code und führt den Befehl aus."
+      ],
+      "merke": "Fernbedienungen senden Befehle als Code aus Infrarot-Lichtblitzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unsichtbar, aber messbar",
+      "absaetze": [
+        "Infrarotlicht kann das menschliche Auge nicht sehen. Viele Handykameras können es aber erfassen.",
+        "Ein kleiner Test: Richte die Fernbedienung auf die Handykamera und drück eine Taste. Auf dem Bildschirm siehst du die Leuchtdiode oft flackern. So prüfst du auch, ob die Batterien noch gehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Funk statt Licht",
+      "absaetze": [
+        "Infrarot braucht freie Sicht zum Gerät. Viele neuere Fernbedienungen arbeiten deshalb mit Funk, etwa über Bluetooth. Dann funktionieren sie auch, wenn etwas im Weg steht.",
+        "Manche Geräte lassen sich auch per App über das Handy steuern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Licht nutzen klassische Fernbedienungen?",
+      "art": "mc",
+      "optionen": [
+        "Infrarotlicht",
+        "Ultraviolettes Licht",
+        "Rotes Laserlicht",
+        "Gar kein Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Unser Auge kann es nicht sehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran erkennt der Fernseher den Befehl?",
+      "art": "mc",
+      "optionen": [
+        "An einem Code aus Lichtblitzen",
+        "An der Lautstärke",
+        "An der Farbe der Fernbedienung",
+        "An der Uhrzeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jede Taste hat ihr eigenes Muster."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit kannst du prüfen, ob eine Infrarot-Fernbedienung sendet?",
+      "art": "mc",
+      "optionen": [
+        "Mit einer Handykamera",
+        "Mit einem Thermometer",
+        "Mit einem Kompass",
+        "Mit einem Magneten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf dem Bildschirm flackert die Leuchtdiode."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Funk-Fernbedienungen brauchen keine freie Sicht zum Gerät.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Funk geht auch durch Hindernisse."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Klassische Fernbedienungen senden Infrarotlicht.",
+        "Jede Taste schickt einen eigenen Code.",
+        "Handykameras machen das Licht sichtbar.",
+        "Neuere Fernbedienungen nutzen oft Funk."
+      ]
+    }
+  ]
+}

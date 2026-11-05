@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b097-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert im Körper bei einem Kater?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kater",
+    "alkohol",
+    "leber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kopfschmerzen, Übelkeit, Müdigkeit nach einem feuchtfröhlichen Abend.",
+        "Was macht der Alkohol eigentlich im Körper?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein giftiges Zwischenprodukt",
+      "absaetze": [
+        "Die Leber baut Alkohol in mehreren Schritten ab. Zuerst entsteht dabei Acetaldehyd. Dieser Stoff ist giftig und trägt vermutlich zu Übelkeit und Kopfschmerzen bei.",
+        "Erst danach wird er weiter abgebaut. Wie schnell das geht, ist von Mensch zu Mensch verschieden und lässt sich nicht beschleunigen."
+      ],
+      "merke": "Beim Abbau von Alkohol entsteht giftiges Acetaldehyd.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Durst und schlechter Schlaf",
+      "absaetze": [
+        "Alkohol bremst ein Hormon, das Wasser im Körper hält. Du musst häufiger zur Toilette und verlierst Flüssigkeit. Das verstärkt Durst und Kopfschmerzen.",
+        "Außerdem stört Alkohol den Schlaf, besonders in der zweiten Nachthälfte. Auch das macht am nächsten Tag müde und gereizt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich hilft",
+      "absaetze": [
+        "Gegen einen Kater gibt es keine Pille, die zuverlässig hilft. Studien zu angeblichen Katermitteln zeigen keine überzeugende Wirkung.",
+        "Wasser, Schlaf und eine leichte Mahlzeit können die Beschwerden etwas lindern. Der einzige sichere Schutz ist, weniger oder keinen Alkohol zu trinken."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher giftige Stoff entsteht beim Alkoholabbau?",
+      "art": "mc",
+      "optionen": [
+        "Acetaldehyd",
+        "Insulin",
+        "Vitamin C",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er trägt vermutlich zu Übelkeit und Kopfschmerzen bei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hat man nach Alkohol oft Durst?",
+      "art": "mc",
+      "optionen": [
+        "Alkohol bremst ein Hormon, das Wasser im Körper hält",
+        "Alkohol enthält Salz",
+        "Alkohol kühlt den Körper",
+        "Das ist Einbildung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man verliert mehr Flüssigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der einzige sichere Schutz vor einem Kater?",
+      "art": "mc",
+      "optionen": [
+        "Weniger oder keinen Alkohol trinken",
+        "Spezielle Katerpillen",
+        "Kaffee am Morgen",
+        "Kaltes Duschen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Katermittel zeigen keine überzeugende Wirkung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alkohol verbessert den Schlaf in der zweiten Nachthälfte.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er stört ihn gerade dann."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Alkoholabbau entsteht giftiges Acetaldehyd.",
+        "Alkohol entzieht dem Körper Flüssigkeit.",
+        "Er verschlechtert den Schlaf.",
+        "Gegen einen Kater hilft vor allem weniger Alkohol.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

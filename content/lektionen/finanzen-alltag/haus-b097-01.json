@@ -1,0 +1,143 @@
+{
+  "id": "haus-b097-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entfernst du Urinstein aus der Toilette?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "urinstein",
+    "toilette",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hartnäckige gelbbraune Ränder im Klo sind nicht nur unschön.",
+        "Urinstein bietet auch Keimen und Gerüchen einen Halt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Urinstein ist",
+      "absaetze": [
+        "Urinstein entsteht, wenn sich Mineralien aus dem Urin und Kalk aus dem Wasser ablagern. Er setzt sich besonders unter dem Wasserrand und im Siphon fest.",
+        "Je länger er bleibt, desto härter wird er. Regelmäßiges Putzen verhindert, dass dicke Schichten entstehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Säure löst ihn",
+      "absaetze": [
+        "Urinstein lässt sich mit sauren Mitteln lösen, etwa mit Zitronensäure oder Essig. Gib das Mittel in die Toilette und lass es am besten über Nacht einwirken. Danach schrubbst du mit der Bürste nach.",
+        "Hartnäckige Stellen brauchen manchmal mehrere Durchgänge. Ein gewöhnlicher WC-Reiniger auf Säurebasis hilft ebenfalls."
+      ],
+      "merke": "Saure Mittel wie Zitronensäure lösen Urinstein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtige Sicherheitsregel",
+      "absaetze": [
+        "Mische niemals säurehaltige Reiniger mit chlorhaltigen Mitteln. Dabei kann giftiges Chlorgas entstehen.",
+        "Lüfte beim Putzen gut und trage Handschuhe. Kratze nicht mit Metall an der Keramik, das hinterlässt Kratzer, in denen sich neuer Schmutz festsetzt."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So gehst du vor",
+      "schritte": [
+        {
+          "titel": "Wasser senken",
+          "text": "Drück das Wasser mit der Bürste etwas weg, damit das Mittel wirkt."
+        },
+        {
+          "titel": "Säure einfüllen",
+          "text": "Gib Zitronensäure, Essig oder säurehaltigen WC-Reiniger hinein."
+        },
+        {
+          "titel": "Einwirken lassen",
+          "text": "Lass das Mittel am besten über Nacht wirken."
+        },
+        {
+          "titel": "Schrubben",
+          "text": "Bürste die Stellen gründlich und spül nach."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus entsteht Urinstein?",
+      "art": "mc",
+      "optionen": [
+        "Aus Mineralien im Urin und Kalk im Wasser",
+        "Aus Seifenresten",
+        "Aus Papier",
+        "Aus Rost der Rohre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er setzt sich unter dem Wasserrand fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst Urinstein?",
+      "art": "mc",
+      "optionen": [
+        "Saure Mittel wie Zitronensäure",
+        "Salz",
+        "Zucker",
+        "Öl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten über Nacht einwirken lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darfst du niemals mischen?",
+      "art": "mc",
+      "optionen": [
+        "Säurehaltige und chlorhaltige Reiniger",
+        "Wasser und Seife",
+        "Essig und Wasser",
+        "Zitronensäure und Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei kann giftiges Chlorgas entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kratzen mit Metall schont die Toilettenkeramik.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es hinterlässt Kratzer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Urinstein besteht aus Mineralien und Kalk.",
+        "Säure wie Zitronensäure löst ihn.",
+        "Säure und Chlorreiniger niemals mischen.",
+        "Regelmäßig putzen verhindert dicke Schichten."
+      ]
+    }
+  ]
+}
