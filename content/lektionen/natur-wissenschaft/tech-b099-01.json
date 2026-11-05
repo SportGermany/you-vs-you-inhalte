@@ -1,0 +1,121 @@
+{
+  "id": "tech-b099-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Nähmaschine?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "naehmaschine",
+    "mechanik",
+    "erfindung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Nähmaschine schafft Hunderte Stiche pro Minute.",
+        "Dabei verbindet sie zwei Fäden auf clevere Weise."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Fäden statt einem",
+      "absaetze": [
+        "Beim Nähen mit der Hand zieht man einen Faden durch den Stoff. Die meisten Nähmaschinen arbeiten dagegen mit zwei Fäden: einem Oberfaden und einem Unterfaden.",
+        "Der Oberfaden läuft durch die Nadel. Der Unterfaden ist auf einer kleinen Spule unter dem Stoff aufgewickelt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Trick mit der Schlinge",
+      "absaetze": [
+        "Die Nadel sticht den Oberfaden durch den Stoff nach unten. Dort bildet sich eine kleine Schlinge. Ein Greifer fängt diese Schlinge und führt sie um die Spule mit dem Unterfaden herum.",
+        "Zieht die Nadel nach oben, verschlingen sich beide Fäden mitten im Stoff. So entsteht der Steppstich, der auf beiden Seiten gleich aussieht."
+      ],
+      "merke": "Ein Greifer verschlingt Ober- und Unterfaden zum Steppstich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Erfindung mit Folgen",
+      "absaetze": [
+        "Im 19. Jahrhundert entwickelten mehrere Erfinder Nähmaschinen. Isaac Singer machte sie um 1850 alltagstauglich und verkaufte sie auf Raten an viele Haushalte.",
+        "Ein Transporteur unter der Nadel schiebt den Stoff nach jedem Stich ein Stück weiter. Die Nähmaschine veränderte die Herstellung von Kleidung grundlegend."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit wie vielen Fäden arbeiten die meisten Nähmaschinen?",
+      "art": "mc",
+      "optionen": [
+        "Mit zwei Fäden",
+        "Mit einem Faden",
+        "Mit zehn Fäden",
+        "Ohne Faden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ober- und Unterfaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fängt die Schlinge des Oberfadens?",
+      "art": "mc",
+      "optionen": [
+        "Ein Greifer",
+        "Die Hand",
+        "Ein Magnet",
+        "Der Stoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er führt sie um die Spule."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer machte die Nähmaschine alltagstauglich?",
+      "art": "mc",
+      "optionen": [
+        "Isaac Singer",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Henry Ford"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verkaufte sie auf Raten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Transporteur schiebt den Stoff nach jedem Stich weiter.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er sitzt unter der Nadel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nähmaschinen arbeiten mit Ober- und Unterfaden.",
+        "Ein Greifer verschlingt beide Fäden.",
+        "So entsteht der Steppstich.",
+        "Die Nähmaschine veränderte die Kleiderherstellung."
+      ]
+    }
+  ]
+}

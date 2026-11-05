@@ -1,0 +1,121 @@
+{
+  "id": "all-b099-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie schwer wärst du auf anderen Planeten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Erde und Sonne",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schwerkraft",
+    "gewicht",
+    "planeten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Mond hüpften die Astronauten leicht wie Gummibälle.",
+        "Wie schwer du dich fühlst, hängt davon ab, wo du stehst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Masse und Gewicht",
+      "absaetze": [
+        "Deine Masse, also wie viel Stoff in dir steckt, bleibt überall gleich. Dein Gewicht dagegen hängt von der Schwerkraft ab. Sie zieht dich zum Boden.",
+        "Wie stark die Schwerkraft ist, hängt vor allem von Masse und Größe eines Himmelskörpers ab."
+      ],
+      "merke": "Deine Masse bleibt gleich, dein Gewicht hängt von der Schwerkraft ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leicht auf Mond und Mars",
+      "absaetze": [
+        "Auf dem Mond beträgt die Schwerkraft nur etwa ein Sechstel der Erdschwerkraft. Wer auf der Erde 60 Kilogramm wiegt, würde sich dort wie 10 Kilogramm fühlen.",
+        "Auf dem Mars sind es etwa 38 Prozent. Du könntest dort viel höher springen als auf der Erde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwer auf dem Jupiter",
+      "absaetze": [
+        "Der Jupiter ist so massereich, dass seine Anziehung in Höhe der Wolken etwa zweieinhalbmal so stark ist wie auf der Erde. Stehen könntest du dort aber nicht, denn er hat keine feste Oberfläche.",
+        "Auf der Venus ist die Schwerkraft ähnlich wie auf der Erde. Dort würden dir dafür extreme Hitze und Luftdruck zu schaffen machen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bleibt überall gleich?",
+      "art": "mc",
+      "optionen": [
+        "Deine Masse",
+        "Dein Gewicht",
+        "Deine Sprunghöhe",
+        "Deine Schwerkraft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gewicht hängt von der Schwerkraft ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stark ist die Schwerkraft auf dem Mond im Vergleich zur Erde?",
+      "art": "mc",
+      "optionen": [
+        "Etwa ein Sechstel",
+        "Doppelt so stark",
+        "Genau gleich",
+        "Zehnmal so stark"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb hüpften Astronauten so leicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist die Anziehung etwa zweieinhalbmal so stark wie auf der Erde?",
+      "art": "mc",
+      "optionen": [
+        "Auf dem Jupiter",
+        "Auf dem Mond",
+        "Auf dem Mars",
+        "Auf dem Pluto"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er hat aber keine feste Oberfläche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf dem Mars könntest du höher springen als auf der Erde.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Schwerkraft beträgt dort etwa 38 Prozent."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Masse bleibt gleich, Gewicht hängt von der Schwerkraft ab.",
+        "Auf dem Mond wiegst du etwa ein Sechstel.",
+        "Auf dem Mars sind es etwa 38 Prozent.",
+        "Auf dem Jupiter wäre die Anziehung viel stärker."
+      ]
+    }
+  ]
+}

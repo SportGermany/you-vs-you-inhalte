@@ -1,0 +1,121 @@
+{
+  "id": "welt-b099-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Nikola Tesla?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nikola tesla",
+    "wechselstrom",
+    "erfinder"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Heute kennen viele seinen Namen von einer Automarke.",
+        "Nikola Tesla war ein genialer Erfinder, der unsere Stromversorgung prägte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Balkan nach Amerika",
+      "absaetze": [
+        "Nikola Tesla wurde 1856 im heutigen Kroatien geboren. Er studierte Technik in Graz und arbeitete später in Paris.",
+        "1884 wanderte er in die USA aus. Dort arbeitete er kurz für den Erfinder Thomas Edison, bevor sich ihre Wege trennten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Kampf um den Strom",
+      "absaetze": [
+        "Edison setzte auf Gleichstrom. Tesla entwickelte dagegen Maschinen für Wechselstrom, vor allem einen besonders robusten Elektromotor.",
+        "Wechselstrom lässt sich leichter über weite Strecken übertragen. Zusammen mit dem Unternehmer George Westinghouse setzte sich Teslas Technik durch. Unsere Stromnetze arbeiten bis heute mit Wechselstrom."
+      ],
+      "merke": "Teslas Wechselstromtechnik setzte sich in den Stromnetzen durch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Visionär und verarmt",
+      "absaetze": [
+        "Tesla forschte auch zu Funkübertragung und drahtloser Energie. Viele seiner Ideen waren ihrer Zeit voraus, manche ließen sich nicht verwirklichen.",
+        "Er starb 1943 verarmt in New York. Heute ist die Einheit für magnetische Flussdichte nach ihm benannt: das Tesla."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welche Stromart setzte sich Tesla ein?",
+      "art": "mc",
+      "optionen": [
+        "Wechselstrom",
+        "Gleichstrom",
+        "Batteriestrom",
+        "Solarstrom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Edison setzte auf Gleichstrom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Unternehmer setzte Tesla seine Technik durch?",
+      "art": "mc",
+      "optionen": [
+        "George Westinghouse",
+        "Henry Ford",
+        "Bill Gates",
+        "Werner von Siemens"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeinsam gewannen sie den Kampf um den Strom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist nach Tesla benannt?",
+      "art": "mc",
+      "optionen": [
+        "Die Einheit für magnetische Flussdichte",
+        "Die Einheit für Temperatur",
+        "Ein Planet",
+        "Eine Stadt in Kroatien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie heißt Tesla."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tesla starb sehr reich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er starb 1943 verarmt in New York."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nikola Tesla wurde 1856 im heutigen Kroatien geboren.",
+        "Er entwickelte Maschinen für Wechselstrom.",
+        "Seine Technik prägt unsere Stromnetze bis heute.",
+        "Die Einheit Tesla trägt seinen Namen."
+      ]
+    }
+  ]
+}

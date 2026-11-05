@@ -1,0 +1,121 @@
+{
+  "id": "haus-b099-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie hältst du deine Küchenmesser scharf?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuechenmesser",
+    "schaerfen",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein stumpfes Messer quetscht Tomaten, statt sie zu schneiden.",
+        "Mit der richtigen Pflege bleiben Messer lange scharf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein scharfes Messer ist sicherer",
+      "absaetze": [
+        "Es klingt paradox, aber scharfe Messer sind sicherer als stumpfe. Mit einem stumpfen Messer musst du mehr drücken. Es rutscht dann leichter ab.",
+        "Ein scharfes Messer gleitet kontrolliert durch das Schneidgut."
+      ],
+      "merke": "Scharfe Messer sind sicherer, weil sie weniger Kraft brauchen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abziehen und schleifen",
+      "absaetze": [
+        "Ein Wetzstahl richtet die feine Schneide wieder gerade, die sich beim Schneiden leicht verbiegt. Das kannst du regelmäßig machen.",
+        "Ist das Messer wirklich stumpf, hilft ein Schleifstein. Dabei wird etwas Material abgetragen, und eine neue Schneide entsteht. Halte das Messer in einem flachen, gleichbleibenden Winkel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend benutzen und aufbewahren",
+      "absaetze": [
+        "Schneide auf Holz- oder Kunststoffbrettern. Glas, Stein oder Porzellan machen die Klinge schnell stumpf.",
+        "Gute Messer gehören nicht in die Spülmaschine. Spül sie von Hand, trockne sie ab und bewahre sie in einem Messerblock oder an einer Magnetleiste auf, nicht lose in der Schublade."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind scharfe Messer sicherer?",
+      "art": "mc",
+      "optionen": [
+        "Du musst weniger drücken, sie rutschen seltener ab",
+        "Sie sind schwerer",
+        "Sie sind bunter",
+        "Sie sind kürzer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Stumpfe Messer rutschen leichter ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Wetzstahl?",
+      "art": "mc",
+      "optionen": [
+        "Er richtet die Schneide wieder gerade",
+        "Er färbt die Klinge",
+        "Er misst die Länge",
+        "Er reinigt das Messer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei echter Stumpfheit hilft ein Schleifstein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welchem Brett solltest du schneiden?",
+      "art": "mc",
+      "optionen": [
+        "Auf Holz oder Kunststoff",
+        "Auf Glas",
+        "Auf Stein",
+        "Auf Porzellan"
+      ],
+      "richtig": 0,
+      "erklaerung": "Harte Unterlagen machen die Klinge stumpf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gute Messer gehören in die Spülmaschine.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Spül sie lieber von Hand."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Scharfe Messer sind sicherer als stumpfe.",
+        "Ein Wetzstahl richtet die Schneide, ein Schleifstein schärft.",
+        "Schneide auf Holz oder Kunststoff.",
+        "Spüle Messer von Hand und bewahre sie geschützt auf."
+      ]
+    }
+  ]
+}

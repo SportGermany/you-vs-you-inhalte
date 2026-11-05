@@ -1,0 +1,127 @@
+{
+  "id": "vers-b099-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bringt eine Krankenhauszusatzversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Krankenzusatzversicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "krankenhauszusatzversicherung",
+    "einbettzimmer",
+    "chefarzt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Einzelzimmer im Krankenhaus und die Behandlung durch die Chefärztin.",
+        "Das bietet eine Krankenhauszusatzversicherung für gesetzlich Versicherte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die gesetzliche Kasse zahlt",
+      "absaetze": [
+        "Die gesetzliche Krankenversicherung übernimmt alle medizinisch notwendigen Behandlungen im Krankenhaus. Die Qualität der Behandlung hängt nicht davon ab, ob du zusätzlich versichert bist.",
+        "Untergebracht wirst du aber meist im Mehrbettzimmer, behandelt vom Ärzteteam, das gerade Dienst hat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Zusatzversicherung bietet",
+      "absaetze": [
+        "Eine Krankenhauszusatzversicherung zahlt je nach Tarif ein Ein- oder Zweibettzimmer. Oft übernimmt sie auch die Behandlung durch einen Chefarzt oder eine Ärztin deiner Wahl.",
+        "Diese Leistungen bringen vor allem mehr Ruhe und Komfort. Medizinisch notwendig sind sie in der Regel nicht."
+      ],
+      "merke": "Die Zusatzversicherung bietet vor allem Komfort, nicht bessere Grundversorgung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Die Beiträge steigen meist mit dem Alter. Beim Abschluss werden Gesundheitsfragen gestellt. Vorerkrankungen können zu Ausschlüssen führen.",
+        "Überlege, wie wichtig dir der Komfort ist. Vergleiche Leistungen und Beitragsentwicklung genau, bevor du dich festlegst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zahlt die gesetzliche Kasse im Krankenhaus?",
+      "art": "mc",
+      "optionen": [
+        "Alle medizinisch notwendigen Behandlungen",
+        "Nur Einzelzimmer",
+        "Gar nichts",
+        "Nur Chefarztbehandlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Qualität hängt nicht von der Zusatzversicherung ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bietet eine Krankenhauszusatzversicherung typischerweise?",
+      "art": "mc",
+      "optionen": [
+        "Ein- oder Zweibettzimmer und Chefarztbehandlung",
+        "Kostenlose Medikamente für immer",
+        "Ein eigenes Krankenhaus",
+        "Freie Urlaubstage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je nach Tarif."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert meist mit den Beiträgen im Alter?",
+      "art": "mc",
+      "optionen": [
+        "Sie steigen",
+        "Sie sinken stark",
+        "Sie fallen weg",
+        "Sie bleiben immer gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das solltest du einplanen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Leistungen der Zusatzversicherung sind meist medizinisch notwendig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bringen vor allem mehr Komfort."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die gesetzliche Kasse zahlt alle notwendigen Behandlungen.",
+        "Die Zusatzversicherung bietet Einbettzimmer und Chefarzt.",
+        "Es geht vor allem um Komfort.",
+        "Beiträge steigen oft mit dem Alter."
+      ]
+    }
+  ]
+}

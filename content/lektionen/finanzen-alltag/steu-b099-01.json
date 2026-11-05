@@ -1,0 +1,127 @@
+{
+  "id": "steu-b099-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wird eine Betriebsrente besteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Rente und Vorsorge",
+      "herausgeber": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "betriebsrente",
+    "nachgelagerte besteuerung",
+    "altersvorsorge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über Jahre sparst du über den Arbeitgeber für eine Betriebsrente.",
+        "Im Alter kommt dann die Frage: Was bleibt nach Steuern und Abgaben?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuern erst im Alter",
+      "absaetze": [
+        "Bei den meisten Betriebsrenten gilt die nachgelagerte Besteuerung. Die Beiträge in der Arbeitsphase sind bis zu bestimmten Grenzen steuerfrei.",
+        "Dafür wird die Rente später voll versteuert. Weil das Einkommen im Ruhestand oft niedriger ist, fällt der Steuersatz dann meist geringer aus."
+      ],
+      "merke": "Bei der Betriebsrente wird meist erst die Auszahlung versteuert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kranken- und Pflegeversicherung",
+      "absaetze": [
+        "Gesetzlich versicherte Rentnerinnen und Rentner zahlen auf Betriebsrenten auch Beiträge zur Kranken- und Pflegeversicherung, und zwar meist den vollen Beitragssatz.",
+        "Für die Krankenversicherung gibt es einen Freibetrag. Erst der Teil darüber wird belastet. Das sollte man bei der Planung berücksichtigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut planen",
+      "absaetze": [
+        "Prüfe frühzeitig, welche Form deine Betriebsrente hat und wie sie besteuert wird. Auskunft gibt der Arbeitgeber oder der Versorgungsträger.",
+        "Ein Lohnsteuerhilfeverein oder eine Steuerberatung kann im Ruhestand helfen, die Steuererklärung richtig zu machen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet nachgelagerte Besteuerung?",
+      "art": "mc",
+      "optionen": [
+        "Die Auszahlung im Alter wird versteuert",
+        "Die Beiträge werden doppelt besteuert",
+        "Es fallen nie Steuern an",
+        "Nur der Arbeitgeber zahlt Steuern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Beiträge sind dafür meist steuerfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Steuersatz im Alter oft niedriger?",
+      "art": "mc",
+      "optionen": [
+        "Das Einkommen im Ruhestand ist oft geringer",
+        "Rentner zahlen nie Steuern",
+        "Der Staat schenkt es",
+        "Wegen des Wohnorts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist ein Vorteil der Betriebsrente."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fällt auf Betriebsrenten zusätzlich an?",
+      "art": "mc",
+      "optionen": [
+        "Beiträge zur Kranken- und Pflegeversicherung",
+        "Hundesteuer",
+        "Kfz-Steuer",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt einen Freibetrag in der Krankenversicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auskunft über die Betriebsrente gibt der Arbeitgeber oder der Versorgungsträger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Frag frühzeitig nach."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Betriebsrenten werden meist erst im Alter versteuert.",
+        "Der Steuersatz ist im Ruhestand oft niedriger.",
+        "Kranken- und Pflegebeiträge fallen zusätzlich an.",
+        "Frühzeitige Planung lohnt sich."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ern-b099-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Sesam?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sesam",
+    "samen",
+    "tahini"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Brötchen, im Hummus oder als Öl im Wok.",
+        "Die kleinen Sesamsamen stecken in vielen Gerichten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Samen, viele Nährstoffe",
+      "absaetze": [
+        "Sesam liefert ungesättigte Fettsäuren, Eiweiß und Ballaststoffe. Dazu kommen Mineralstoffe wie Calcium, Eisen und Magnesium.",
+        "Weil man meist nur kleine Mengen isst, ist Sesam eher eine wertvolle Ergänzung als ein Hauptnahrungsmittel."
+      ],
+      "merke": "Sesam liefert gute Fette, Calcium, Eisen und Magnesium.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von Tahini bis Sesamöl",
+      "absaetze": [
+        "Aus gemahlenem Sesam entsteht Sesammus, auch Tahini genannt. Es ist eine wichtige Zutat in Hummus und vielen Gerichten aus dem Nahen Osten.",
+        "Geröstetes Sesamöl hat einen intensiven Geschmack und wird vor allem in der asiatischen Küche zum Würzen verwendet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiges Allergen",
+      "absaetze": [
+        "Sesam kann starke Allergien auslösen. Er gehört deshalb zu den Allergenen, die in der EU auf verpackten Lebensmitteln immer gekennzeichnet werden müssen.",
+        "Menschen mit Sesamallergie sollten Zutatenlisten genau lesen. Spuren können auch in Backwaren stecken."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Mineralstoffe liefert Sesam?",
+      "art": "mc",
+      "optionen": [
+        "Calcium, Eisen und Magnesium",
+        "Nur Natrium",
+        "Gar keine",
+        "Nur Fluor"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen gute Fette und Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Tahini?",
+      "art": "mc",
+      "optionen": [
+        "Sesammus aus gemahlenem Sesam",
+        "Ein Sesamöl zum Braten",
+        "Ein Getränk",
+        "Eine Gewürzmischung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es steckt in Hummus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum muss Sesam auf Verpackungen gekennzeichnet werden?",
+      "art": "mc",
+      "optionen": [
+        "Er kann starke Allergien auslösen",
+        "Er ist giftig",
+        "Er ist teuer",
+        "Er macht süchtig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gehört zu den Hauptallergenen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geröstetes Sesamöl hat einen intensiven Geschmack.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es wird vor allem zum Würzen genutzt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sesam liefert gute Fette und Mineralstoffe.",
+        "Aus Sesam wird Tahini gemacht.",
+        "Sesam ist ein wichtiges Allergen.",
+        "Er muss auf Verpackungen gekennzeichnet werden."
+      ]
+    }
+  ]
+}

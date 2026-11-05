@@ -1,0 +1,131 @@
+{
+  "id": "ern-b099-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Warum verträgt sich Grapefruit nicht mit manchen Medikamenten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "grapefruit",
+    "wechselwirkungen",
+    "medikamente"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Glas Grapefruitsaft zum Frühstück klingt gesund.",
+        "Wer bestimmte Medikamente braucht, sollte aber vorsichtig sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Stoff hemmt den Abbau",
+      "absaetze": [
+        "Grapefruit enthält Stoffe namens Furanocumarine. Sie hemmen im Darm ein Enzym, das viele Medikamente abbaut, bevor sie ins Blut gelangen.",
+        "Wird dieses Enzym gebremst, kann deutlich mehr Wirkstoff ins Blut kommen als geplant. Das Medikament wirkt dann zu stark, und Nebenwirkungen werden wahrscheinlicher."
+      ],
+      "merke": "Grapefruit kann dazu führen, dass Medikamente zu stark wirken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Welche Mittel betroffen sind",
+      "absaetze": [
+        "Betroffen sind unter anderem manche Cholesterinsenker, einige Blutdruckmittel und Mittel, die das Immunsystem dämpfen. Es geht dabei nicht um alle Medikamente, sondern um bestimmte Wirkstoffe.",
+        "Die Wirkung hält lange an, oft mehr als einen Tag. Ein paar Stunden Abstand zwischen Saft und Tablette reichen deshalb meist nicht aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Lies den Beipackzettel deiner Medikamente. Dort steht, ob Grapefruit gemieden werden sollte. Frag im Zweifel in der Apotheke nach.",
+        "Ähnliche Stoffe stecken auch in Pomelo und Bitterorange. Für Menschen ohne betroffene Medikamente ist Grapefruit dagegen ein gesundes Obst mit viel Vitamin C."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hemmen die Stoffe in Grapefruit?",
+      "art": "mc",
+      "optionen": [
+        "Ein Enzym, das Medikamente abbaut",
+        "Die Verdauung von Fett",
+        "Das Wachstum der Haare",
+        "Die Bildung von Insulin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann kommt mehr Wirkstoff ins Blut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann dadurch passieren?",
+      "art": "mc",
+      "optionen": [
+        "Ein Medikament wirkt zu stark",
+        "Ein Medikament wirkt gar nicht mehr",
+        "Man wird sofort gesund",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nebenwirkungen werden wahrscheinlicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reicht ein Abstand von ein paar Stunden?",
+      "art": "mc",
+      "optionen": [
+        "Meist nicht, die Wirkung hält oft über einen Tag an",
+        "Ja, immer",
+        "Ja, schon zehn Minuten reichen",
+        "Abstand ist nie nötig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Hemmung des Enzyms dauert lange."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ähnliche Stoffe stecken auch in Pomelo.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch in Bitterorange."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grapefruit hemmt ein Enzym, das Medikamente abbaut.",
+        "Manche Medikamente wirken dadurch zu stark.",
+        "Abstand zwischen Saft und Tablette reicht oft nicht.",
+        "Der Beipackzettel und die Apotheke geben Auskunft."
+      ]
+    }
+  ]
+}
