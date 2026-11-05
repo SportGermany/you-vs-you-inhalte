@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b093-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Macht Schlafmangel schmerzempfindlicher?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schmerz",
+    "schlafmangel",
+    "chronische schmerzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer schlechten Nacht tut der Rücken mehr weh als sonst.",
+        "Das ist keine Einbildung: Schlaf und Schmerz hängen eng zusammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger Schlaf, mehr Schmerz",
+      "absaetze": [
+        "In Experimenten ließen Forschende Menschen eine Nacht wach bleiben. Danach empfanden sie Schmerzreize deutlich stärker als nach normalem Schlaf.",
+        "Studien deuten darauf hin, dass Schlafmangel die Schmerzverarbeitung im Gehirn verändert. Bereiche, die Schmerz dämpfen, arbeiten dann weniger gut."
+      ],
+      "merke": "Schon eine schlechte Nacht kann Schmerzen verstärken.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Teufelskreis",
+      "absaetze": [
+        "Umgekehrt stören Schmerzen den Schlaf. Wer Schmerzen hat, wacht häufiger auf und schläft schlechter ein.",
+        "Bei Menschen mit chronischen Schmerzen entsteht so leicht ein Kreislauf: Schlechter Schlaf verstärkt den Schmerz, der Schmerz verschlechtert den Schlaf."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Den Kreislauf durchbrechen",
+      "absaetze": [
+        "Fachleute empfehlen deshalb, bei chronischen Schmerzen auch den Schlaf in den Blick zu nehmen. Eine Behandlung von Schlafproblemen kann sich auch auf die Schmerzen auswirken.",
+        "Hilfreich sind feste Schlafzeiten, Entspannung am Abend und Bewegung am Tag. Bei anhaltenden Problemen helfen Schmerz- und Schlafmedizin gemeinsam weiter."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passierte in Experimenten nach einer durchwachten Nacht?",
+      "art": "mc",
+      "optionen": [
+        "Schmerzreize wurden stärker empfunden",
+        "Schmerzen verschwanden",
+        "Die Menschen spürten nichts mehr",
+        "Nichts veränderte sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schmerzverarbeitung im Gehirn verändert sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hängen Schlaf und chronische Schmerzen zusammen?",
+      "art": "mc",
+      "optionen": [
+        "Sie können sich gegenseitig verstärken",
+        "Sie haben nichts miteinander zu tun",
+        "Schmerz verbessert den Schlaf",
+        "Schlaf verursacht Schmerz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kann ein Teufelskreis entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei chronischen Schmerzen sinnvoll sein?",
+      "art": "mc",
+      "optionen": [
+        "Auch Schlafprobleme behandeln",
+        "Weniger schlafen",
+        "Abends viel Kaffee",
+        "Nur liegen bleiben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besserer Schlaf kann sich auf den Schmerz auswirken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schmerzen können das Durchschlafen stören.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Betroffene wachen häufiger auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafmangel kann die Schmerzempfindlichkeit erhöhen.",
+        "Schmerzen verschlechtern wiederum den Schlaf.",
+        "Bei chronischen Schmerzen kann ein Teufelskreis entstehen.",
+        "Besserer Schlaf kann helfen, ihn zu durchbrechen."
+      ]
+    }
+  ]
+}

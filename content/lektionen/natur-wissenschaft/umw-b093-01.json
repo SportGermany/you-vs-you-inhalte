@@ -1,0 +1,121 @@
+{
+  "id": "umw-b093-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum gibt es manchmal so viele Quallen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Meere und Küsten",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "quallen",
+    "meere",
+    "ostsee"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An manchen Sommertagen treiben Hunderte Quallen am Badestrand.",
+        "Solche Massenauftreten scheinen in vielen Meeren häufiger zu werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Quallen an unseren Küsten",
+      "absaetze": [
+        "In Nord- und Ostsee ist die Ohrenqualle am häufigsten. Sie ist durchsichtig mit vier Ringen in der Mitte und für Menschen harmlos.",
+        "Feuerquallen dagegen haben lange Tentakel mit Nesselzellen. Eine Berührung brennt und kann Hautrötungen auslösen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es mehr werden können",
+      "absaetze": [
+        "Fachleute vermuten mehrere Ursachen. Wärmeres Wasser kann Quallen fördern. Überdüngung führt zu mehr Plankton, das Quallen fressen.",
+        "Werden Fische überfischt, fehlen Konkurrenten um Nahrung und manchmal auch Fressfeinde. Wie stark diese Faktoren wirken, ist je nach Meer verschieden und noch nicht vollständig geklärt."
+      ],
+      "merke": "Wärme, Überdüngung und Überfischung können Quallen begünstigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was tun bei Kontakt",
+      "absaetze": [
+        "Spüle die Stelle nach einer Berührung mit Meerwasser ab. Reibe nicht, und verwende kein Süßwasser, das kann weitere Nesselzellen auslösen.",
+        "Tentakelreste entfernst du vorsichtig, etwa mit einer Karte. Bei starken Schmerzen, Atemnot oder großflächigen Reaktionen ruf ärztliche Hilfe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Qualle ist in Nord- und Ostsee am häufigsten?",
+      "art": "mc",
+      "optionen": [
+        "Die Ohrenqualle",
+        "Die Portugiesische Galeere",
+        "Die Würfelqualle",
+        "Der Tintenfisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist für Menschen harmlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was haben Feuerquallen?",
+      "art": "mc",
+      "optionen": [
+        "Lange Tentakel mit Nesselzellen",
+        "Giftige Zähne",
+        "Stacheln wie ein Igel",
+        "Gar nichts Besonderes"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Berührung brennt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Quallen begünstigen?",
+      "art": "mc",
+      "optionen": [
+        "Wärmeres Wasser und Überdüngung",
+        "Mehr Eis im Meer",
+        "Sauberes, nährstoffarmes Wasser",
+        "Mehr Fische"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Überfischung spielt eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach einer Quallenberührung solltest du mit Süßwasser spülen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meerwasser ist besser, Süßwasser kann weitere Nesselzellen auslösen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ohrenquallen sind harmlos, Feuerquallen nesseln.",
+        "Wärme und Überdüngung können Quallen fördern.",
+        "Auch Überfischung spielt eine Rolle.",
+        "Nach einer Berührung mit Meerwasser spülen, nicht reiben."
+      ]
+    }
+  ]
+}

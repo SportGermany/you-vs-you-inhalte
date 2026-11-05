@@ -1,0 +1,121 @@
+{
+  "id": "vers-b093-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt, wenn ein Blitz deine Geräte zerstört?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hausratversicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ueberspannung",
+    "blitzschlag",
+    "hausrat"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Gewitter funktionieren Fernseher und Router nicht mehr.",
+        "Die Ursache ist oft eine Überspannung im Stromnetz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Direkter Blitz oder Überspannung",
+      "absaetze": [
+        "Schlägt ein Blitz direkt ins Haus ein und verursacht einen Brand, zahlt die Hausratversicherung für zerstörte Einrichtung. Das gehört zum Grundschutz.",
+        "Viel häufiger ist aber eine Überspannung. Ein Blitz schlägt in der Nähe ein, und eine Spannungsspitze rast durch Strom- oder Telefonleitungen. Elektronische Geräte gehen dabei kaputt, ohne dass es brennt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht immer mitversichert",
+      "absaetze": [
+        "Schäden durch Überspannung nach einem Blitz sind nicht in allen Hausratverträgen automatisch enthalten. Oft sind sie nur bis zu einer bestimmten Summe abgedeckt.",
+        "Prüfe deshalb deine Vertragsbedingungen. Für fest eingebaute Teile wie die Heizungssteuerung ist meist die Wohngebäudeversicherung zuständig."
+      ],
+      "merke": "Überspannungsschäden sind nicht in jedem Hausratvertrag voll abgesichert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Steckdosenleisten mit Überspannungsschutz bieten einen gewissen Schutz für einzelne Geräte. Wirksamer ist ein Überspannungsschutz in der Hausinstallation, den Fachbetriebe einbauen.",
+        "Bei einem starken Gewitter kannst du empfindliche Geräte auch einfach vom Netz trennen. Melde Schäden zeitnah und bewahre defekte Geräte als Beweis auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zerstört nach Gewittern oft Elektrogeräte?",
+      "art": "mc",
+      "optionen": [
+        "Eine Überspannung in den Leitungen",
+        "Regenwasser im Fernseher",
+        "Wind im Haus",
+        "Hagel auf dem Dach"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Blitz schlägt dafür oft nur in der Nähe ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Überspannung immer in der Hausratversicherung enthalten?",
+      "art": "mc",
+      "optionen": [
+        "Nein, nicht in allen Verträgen",
+        "Ja, immer unbegrenzt",
+        "Nur bei Neubauten",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Prüfe deine Vertragsbedingungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kannst du bei starkem Gewitter tun?",
+      "art": "mc",
+      "optionen": [
+        "Empfindliche Geräte vom Netz trennen",
+        "Alle Geräte einschalten",
+        "Die Fenster öffnen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sind sie vor Spannungsspitzen geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Defekte Geräte solltest du als Beweis aufbewahren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Versicherung möchte sie eventuell prüfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein direkter Blitzeinschlag mit Brand ist Grundschutz der Hausrat.",
+        "Überspannungsschäden sind nicht immer mitversichert.",
+        "Überspannungsschutz kann Geräte schützen.",
+        "Melde Schäden zeitnah und bewahre Geräte auf."
+      ]
+    }
+  ]
+}

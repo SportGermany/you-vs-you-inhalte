@@ -1,0 +1,121 @@
+{
+  "id": "tech-b093-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Ladesäule für E-Autos?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "E-Mobilität und Ladesäulen",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ladesaeule",
+    "elektroauto",
+    "schnellladen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Elektroauto tankt Strom statt Benzin.",
+        "Doch Ladesäule ist nicht gleich Ladesäule."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wechselstrom und Gleichstrom",
+      "absaetze": [
+        "Aus dem Stromnetz kommt Wechselstrom. Die Batterie im Auto braucht aber Gleichstrom. Irgendwo muss der Strom also umgewandelt werden.",
+        "An normalen Ladesäulen und Wallboxen macht das ein Ladegerät im Auto. Das begrenzt die Geschwindigkeit. Ein Auto lädt dort oft mehrere Stunden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnellladen",
+      "absaetze": [
+        "Schnellladesäulen wandeln den Strom schon in der Säule in Gleichstrom um. Sie liefern viel mehr Leistung direkt in die Batterie.",
+        "So ist ein Auto oft in 20 bis 40 Minuten zu einem großen Teil geladen. Ab etwa 80 Prozent wird das Laden aber langsamer, um die Batterie zu schonen."
+      ],
+      "merke": "Schnellladesäulen liefern Gleichstrom direkt in die Batterie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stecker und Bezahlen",
+      "absaetze": [
+        "In Europa haben sich bestimmte Steckertypen durchgesetzt. Für normales Laden ist es meist der Typ-2-Stecker, fürs Schnellladen der CCS-Stecker.",
+        "Bezahlt wird per App, Ladekarte oder zunehmend direkt mit Bank- oder Kreditkarte. Die Preise unterscheiden sich je nach Anbieter stark."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Stromart braucht die Batterie im Auto?",
+      "art": "mc",
+      "optionen": [
+        "Gleichstrom",
+        "Wechselstrom",
+        "Starkstrom aus Blitzen",
+        "Gar keinen Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aus dem Netz kommt dagegen Wechselstrom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird beim Schnellladen der Strom umgewandelt?",
+      "art": "mc",
+      "optionen": [
+        "In der Ladesäule",
+        "Im Auto",
+        "Im Kraftwerk",
+        "Im Kabel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch ist mehr Leistung möglich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert ab etwa 80 Prozent Ladestand?",
+      "art": "mc",
+      "optionen": [
+        "Das Laden wird langsamer",
+        "Das Laden wird schneller",
+        "Das Laden stoppt immer",
+        "Die Batterie entlädt sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird die Batterie geschont."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fürs Schnellladen ist in Europa meist der CCS-Stecker üblich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für normales Laden ist es der Typ-2-Stecker."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Autobatterie braucht Gleichstrom.",
+        "An normalen Säulen wandelt das Auto den Strom um.",
+        "Schnellladesäulen liefern Gleichstrom direkt.",
+        "Ab etwa 80 Prozent wird das Laden langsamer."
+      ]
+    }
+  ]
+}

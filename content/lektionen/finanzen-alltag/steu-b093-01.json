@@ -1,0 +1,121 @@
+{
+  "id": "steu-b093-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wird ein Dienstwagen versteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dienstwagen",
+    "geldwerter vorteil",
+    "ein-prozent-regel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Firmenwagen, den du auch privat fahren darfst, ist ein schönes Extra.",
+        "Für das Finanzamt ist er aber auch ein Teil deines Lohns."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein geldwerter Vorteil",
+      "absaetze": [
+        "Darfst du einen Dienstwagen privat nutzen, sparst du dir ein eigenes Auto. Das gilt steuerlich als geldwerter Vorteil. Er wird wie Lohn versteuert.",
+        "Für die Berechnung gibt es zwei Wege: die pauschale Ein-Prozent-Regel oder ein Fahrtenbuch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Ein-Prozent-Regel",
+      "absaetze": [
+        "Bei dieser Methode wird jeden Monat ein Prozent des Bruttolistenpreises des Autos als Vorteil angesetzt. Maßgeblich ist der Neupreis mit Sonderausstattung, auch bei einem Gebrauchtwagen.",
+        "Für den Weg zur Arbeit kommt ein Zuschlag hinzu, abhängig von der Entfernung. Für Elektroautos und manche Hybride gelten deutlich niedrigere Sätze."
+      ],
+      "merke": "Bei der Ein-Prozent-Regel zählt der Bruttolistenpreis, nicht der Kaufpreis."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Fahrtenbuch",
+      "absaetze": [
+        "Mit einem Fahrtenbuch wird nur der tatsächliche private Anteil versteuert. Das lohnt sich oft, wenn du den Wagen privat wenig nutzt.",
+        "Das Fahrtenbuch muss aber lückenlos, zeitnah und genau geführt werden. Ist es fehlerhaft, verwirft das Finanzamt es und wendet die Ein-Prozent-Regel an."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gilt die private Nutzung eines Dienstwagens steuerlich?",
+      "art": "mc",
+      "optionen": [
+        "Als geldwerter Vorteil",
+        "Als steuerfreies Geschenk",
+        "Als Werbungskosten",
+        "Als Spende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird wie Lohn versteuert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei der Ein-Prozent-Regel die Grundlage?",
+      "art": "mc",
+      "optionen": [
+        "Der Bruttolistenpreis des Autos",
+        "Der Spritverbrauch",
+        "Das Alter des Fahrers",
+        "Die Farbe des Autos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bei Gebrauchtwagen zählt der Neupreis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann lohnt sich ein Fahrtenbuch oft?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du den Wagen privat wenig nutzt",
+        "Wenn du sehr viel privat fährst",
+        "Nie",
+        "Nur bei Motorrädern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wird nur der tatsächliche Anteil versteuert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Elektroautos gelten niedrigere Sätze.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das soll E-Autos fördern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Private Dienstwagennutzung ist ein geldwerter Vorteil.",
+        "Die Ein-Prozent-Regel nutzt den Bruttolistenpreis.",
+        "Ein Fahrtenbuch kann günstiger sein, muss aber genau sein.",
+        "Für E-Autos gelten niedrigere Sätze."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ern-b093-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Erdbeeren?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fragen und Antworten zu Lebensmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "erdbeeren",
+    "beeren",
+    "vitamin c"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Für viele beginnt mit den ersten Erdbeeren der Sommer.",
+        "Sie sind süß, saftig und erstaunlich reich an Vitamin C."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eigentlich keine Beere",
+      "absaetze": [
+        "Botanisch ist die Erdbeere keine Beere. Die kleinen gelben Pünktchen auf ihrer Oberfläche sind die eigentlichen Früchte, winzige Nüsschen. Das rote Fruchtfleisch ist der verdickte Blütenboden.",
+        "In Deutschland haben Erdbeeren aus dem Freiland etwa von Mai bis Juli Saison."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Vitamin C, wenig Energie",
+      "absaetze": [
+        "Erdbeeren enthalten so viel Vitamin C wie Orangen oder sogar etwas mehr. Dazu kommen Folat, Ballaststoffe und rote Pflanzenfarbstoffe.",
+        "Sie bestehen zum größten Teil aus Wasser und liefern wenig Energie. Wasche sie erst kurz vor dem Essen und entferne das Grün danach, sonst werden sie wässrig."
+      ],
+      "merke": "Erdbeeren liefern ähnlich viel Vitamin C wie Orangen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tiefkühlware erhitzen",
+      "absaetze": [
+        "2012 erkrankten in Ostdeutschland Tausende Kinder und Jugendliche an Brechdurchfall. Auslöser waren tiefgekühlte Erdbeeren, die mit Noroviren belastet waren.",
+        "Einfrieren macht diese Viren nicht unschädlich. Fachleute raten deshalb, Tiefkühlbeeren vor dem Verzehr zu erhitzen, besonders für Kinder, Ältere und Schwangere."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind die gelben Pünktchen auf der Erdbeere?",
+      "art": "mc",
+      "optionen": [
+        "Die eigentlichen Früchte, kleine Nüsschen",
+        "Zuckerkristalle",
+        "Insekteneier",
+        "Schimmel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Fruchtfleisch ist der verdickte Blütenboden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Vitamin C haben Erdbeeren im Vergleich zu Orangen?",
+      "art": "mc",
+      "optionen": [
+        "Ähnlich viel oder etwas mehr",
+        "Fast keins",
+        "Zehnmal weniger",
+        "Nur getrocknet etwas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind eine gute Vitamin-C-Quelle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was raten Fachleute bei tiefgekühlten Erdbeeren?",
+      "art": "mc",
+      "optionen": [
+        "Vor dem Verzehr erhitzen",
+        "Doppelt einfrieren",
+        "Mit Zucker bestreuen",
+        "Ungewaschen essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Einfrieren tötet Noroviren nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Erdbeeren solltest du erst kurz vor dem Essen waschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonst werden sie schnell wässrig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erdbeeren sind botanisch keine Beeren.",
+        "Sie liefern viel Vitamin C und wenig Energie.",
+        "Wasche sie kurz vor dem Essen.",
+        "Tiefkühlerdbeeren besser erhitzen."
+      ]
+    }
+  ]
+}

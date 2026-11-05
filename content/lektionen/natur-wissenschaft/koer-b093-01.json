@@ -1,0 +1,121 @@
+{
+  "id": "koer-b093-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum werden manche Menschen seekrank?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "seekrankheit",
+    "reisekrankheit",
+    "gleichgewicht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Schiff schaukelt, und dir wird plötzlich übel.",
+        "Seekrankheit ist weit verbreitet und hat einen einfachen Grund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Widersprüchliche Signale",
+      "absaetze": [
+        "Dein Gleichgewichtsorgan im Innenohr spürt jede Bewegung. Deine Augen sehen aber unter Deck oft ruhige Wände. Diese Meldungen passen nicht zusammen.",
+        "Das Gehirn wird durch den Widerspruch verwirrt. Eine Erklärung lautet, dass es die Verwirrung wie eine Vergiftung deutet und mit Übelkeit reagiert."
+      ],
+      "merke": "Seekrankheit entsteht, wenn Augen und Gleichgewichtsorgan sich widersprechen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht nur auf See",
+      "absaetze": [
+        "Dasselbe kann im Auto, im Bus, im Flugzeug oder bei Virtual-Reality-Brillen passieren. Fachleute sprechen allgemein von Reisekrankheit.",
+        "Kinder zwischen etwa zwei und zwölf Jahren sind besonders oft betroffen. Auch Schwangere und Menschen mit Migräne leiden häufiger darunter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Schau auf den Horizont oder einen festen Punkt in der Ferne. Auf Schiffen ist die Mitte, nah an der Wasseroberfläche, am ruhigsten. Frische Luft tut gut.",
+        "Lesen oder auf das Handy schauen verstärkt die Übelkeit oft. Es gibt auch Medikamente gegen Reisekrankheit. Lass dich dazu in der Apotheke beraten, denn manche machen müde."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst Seekrankheit aus?",
+      "art": "mc",
+      "optionen": [
+        "Widersprüchliche Signale von Augen und Gleichgewichtsorgan",
+        "Salzwasser in der Luft",
+        "Zu viel Sonne",
+        "Schlechtes Essen an Bord"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn wird verwirrt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist es auf einem Schiff am ruhigsten?",
+      "art": "mc",
+      "optionen": [
+        "In der Mitte, nah an der Wasseroberfläche",
+        "Ganz oben am Mast",
+        "Ganz vorne am Bug",
+        "Am Heck oben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort schaukelt es am wenigsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verstärkt die Übelkeit oft?",
+      "art": "mc",
+      "optionen": [
+        "Lesen oder aufs Handy schauen",
+        "Auf den Horizont schauen",
+        "Frische Luft",
+        "Ruhig sitzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Augen sehen dann keine Bewegung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Virtual-Reality-Brillen können Reisekrankheit auslösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch hier passen die Signale nicht zusammen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Seekrankheit entsteht durch widersprüchliche Sinnesmeldungen.",
+        "Sie kann in Auto, Flugzeug und mit VR-Brillen auftreten.",
+        "Kinder sind besonders oft betroffen.",
+        "Der Blick auf den Horizont und frische Luft helfen."
+      ]
+    }
+  ]
+}

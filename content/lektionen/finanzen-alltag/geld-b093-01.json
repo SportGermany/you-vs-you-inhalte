@@ -1,0 +1,121 @@
+{
+  "id": "geld-b093-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Stop-Loss-Order?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher: Wertpapiere",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stop-loss",
+    "aktien",
+    "wertpapierhandel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Aktie fällt, und du willst nicht zusehen, wie der Verlust immer größer wird.",
+        "Dafür gibt es einen besonderen Auftrag an die Bank."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein automatischer Verkauf",
+      "absaetze": [
+        "Mit einer Stop-Loss-Order legst du einen Kurs fest, die Stoppmarke. Fällt der Kurs auf diese Marke oder darunter, wird die Aktie automatisch verkauft.",
+        "So musst du nicht ständig die Kurse beobachten. Der Auftrag begrenzt, wie viel du im ungünstigen Fall verlieren kannst."
+      ],
+      "merke": "Eine Stop-Loss-Order verkauft automatisch, wenn eine Kursmarke unterschritten wird."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein garantierter Preis",
+      "absaetze": [
+        "Wird die Stoppmarke erreicht, wird daraus ein Verkaufsauftrag zum nächstmöglichen Kurs. Bei plötzlichen Kursstürzen kann dieser deutlich unter deiner Marke liegen.",
+        "Eine Variante ist die Stop-Limit-Order. Sie verkauft nur bis zu einem festgelegten Mindestpreis. Dafür kann es passieren, dass gar nicht verkauft wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für jeden sinnvoll",
+      "absaetze": [
+        "Kurze Kursschwankungen können eine Stop-Loss-Order auslösen, obwohl sich der Kurs danach schnell erholt. Dann hast du verkauft und zahlst Gebühren.",
+        "Wer langfristig breit gestreut anlegt, etwa mit ETF-Sparplänen, braucht solche Aufträge meist nicht. Für einzelne, riskante Aktien können sie ein Werkzeug sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt eine Stop-Loss-Order?",
+      "art": "mc",
+      "optionen": [
+        "Einen automatischen Verkauf bei einer Kursmarke",
+        "Einen garantierten Gewinn",
+        "Einen Kauf bei steigenden Kursen",
+        "Eine Kontosperrung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie begrenzt mögliche Verluste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welchem Preis wird verkauft, wenn die Marke erreicht ist?",
+      "art": "mc",
+      "optionen": [
+        "Zum nächstmöglichen Kurs, der auch tiefer liegen kann",
+        "Immer genau zur Marke",
+        "Zum Höchstkurs des Tages",
+        "Zum Kaufpreis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Kursstürzen kann der Preis deutlich darunter liegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer braucht eine Stop-Loss-Order meist nicht?",
+      "art": "mc",
+      "optionen": [
+        "Langfristige, breit gestreute Anleger",
+        "Händler einzelner riskanter Aktien",
+        "Niemand braucht sie",
+        "Alle Anleger dringend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kurze Schwankungen können sie unnötig auslösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Stop-Limit-Order kann dazu führen, dass gar nicht verkauft wird.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie verkauft nur bis zu einem Mindestpreis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Stop-Loss-Order verkauft automatisch bei einer Kursmarke.",
+        "Der Verkaufspreis kann tiefer als die Marke liegen.",
+        "Stop-Limit-Orders setzen einen Mindestpreis.",
+        "Für langfristige ETF-Anleger sind sie meist unnötig."
+      ]
+    }
+  ]
+}

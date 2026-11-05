@@ -1,0 +1,121 @@
+{
+  "id": "all-b093-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist der Nachthimmel dunkel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kosmologie",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "olbers-paradoxon",
+    "universum",
+    "nachthimmel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es gibt Milliarden von Sternen. Warum ist der Himmel nachts dann nicht taghell?",
+        "Diese einfache Frage hat Forschende lange beschäftigt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein altes Rätsel",
+      "absaetze": [
+        "Der Bremer Astronom Heinrich Olbers machte die Frage im 19. Jahrhundert bekannt. Man spricht deshalb vom Olbersschen Paradoxon.",
+        "Die Überlegung: Wäre das Universum unendlich groß, ewig alt und überall mit Sternen gefüllt, träfe jeder Blick irgendwann auf einen Stern. Der ganze Himmel müsste dann so hell leuchten wie die Oberfläche der Sonne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Universum hat ein Alter",
+      "absaetze": [
+        "Die Lösung liegt vor allem im Alter des Universums. Es ist etwa 13,8 Milliarden Jahre alt. Licht von sehr weit entfernten Sternen hatte noch gar nicht genug Zeit, uns zu erreichen.",
+        "Außerdem haben Sterne nur eine begrenzte Lebensdauer. Sie leuchten nicht ewig."
+      ],
+      "merke": "Weil das Universum ein Alter hat, erreicht uns nicht das Licht aller Sterne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht wird gedehnt",
+      "absaetze": [
+        "Hinzu kommt die Ausdehnung des Universums. Sie dehnt das Licht ferner Galaxien. Es verschiebt sich zu längeren Wellen und wird für unsere Augen unsichtbar.",
+        "Das schwache Nachglühen des Urknalls, die kosmische Hintergrundstrahlung, ist so stark gedehnt, dass wir sie nur mit Radioteleskopen messen können."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach wem ist das Paradoxon benannt?",
+      "art": "mc",
+      "optionen": [
+        "Nach Heinrich Olbers",
+        "Nach Albert Einstein",
+        "Nach Galileo Galilei",
+        "Nach Isaac Newton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er war ein Astronom aus Bremen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Hauptgrund für den dunklen Nachthimmel?",
+      "art": "mc",
+      "optionen": [
+        "Das Universum hat ein begrenztes Alter",
+        "Die Sterne sind zu klein",
+        "Wolken verdecken alles",
+        "Der Mond schluckt das Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht ferner Sterne hat uns noch nicht erreicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht die Ausdehnung des Universums mit dem Licht?",
+      "art": "mc",
+      "optionen": [
+        "Sie dehnt es zu längeren Wellen",
+        "Sie färbt es grün",
+        "Sie macht es heller",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird es unsichtbar für unsere Augen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die kosmische Hintergrundstrahlung lässt sich mit Radioteleskopen messen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie ist das Nachglühen des Urknalls."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Olberssche Paradoxon fragt nach dem dunklen Nachthimmel.",
+        "Das Universum ist etwa 13,8 Milliarden Jahre alt.",
+        "Licht ferner Sterne hat uns noch nicht erreicht.",
+        "Die Ausdehnung dehnt Licht ins Unsichtbare."
+      ]
+    }
+  ]
+}
