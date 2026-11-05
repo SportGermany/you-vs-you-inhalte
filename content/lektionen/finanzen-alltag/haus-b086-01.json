@@ -1,0 +1,147 @@
+{
+  "id": "haus-b086-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du die Spülmaschine richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spuelmaschine",
+    "putzen",
+    "haushaltsgeraete"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Spülmaschine macht dein Geschirr sauber.",
+        "Aber wer macht eigentlich die Spülmaschine sauber?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Sieb zuerst",
+      "absaetze": [
+        "Am Boden der Maschine sitzt ein Sieb. Es fängt Essensreste auf. Ist es verstopft, wird das Geschirr nicht mehr richtig sauber und die Maschine riecht.",
+        "Drehe das Sieb heraus und spüle es unter fließendem Wasser aus. Eine alte Bürste hilft bei festen Resten. Viele Hersteller raten, das etwa alle ein bis zwei Wochen zu tun."
+      ],
+      "merke": "Ein sauberes Sieb ist das Wichtigste für eine gut spülende Maschine."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sprüharme und Dichtungen",
+      "absaetze": [
+        "Prüfe, ob die kleinen Düsen der Sprüharme frei sind. Verstopfte Düsen kannst du mit einem Zahnstocher vorsichtig reinigen.",
+        "Wische die Gummidichtung an der Tür mit einem feuchten Tuch ab. Dort sammeln sich gern Reste und Schmutz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gegen Gerüche und Fett",
+      "absaetze": [
+        "Wer oft im Eco-Programm spült, sollte gelegentlich ein heißes Programm laufen lassen. Das löst Fettreste in Leitungen und Pumpe.",
+        "Lass die Tür nach dem Spülen einen Spalt offen. So kann Feuchtigkeit entweichen. Essig empfehlen viele Hersteller nicht, weil er Gummiteile angreifen kann."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So pflegst du deine Spülmaschine",
+      "schritte": [
+        {
+          "titel": "Sieb",
+          "text": "Drehe das Sieb heraus und spüle es unter fließendem Wasser aus."
+        },
+        {
+          "titel": "Sprüharme",
+          "text": "Prüfe die Düsen und befreie verstopfte vorsichtig mit einem Zahnstocher."
+        },
+        {
+          "titel": "Dichtung",
+          "text": "Wische die Türdichtung mit einem feuchten Tuch ab."
+        },
+        {
+          "titel": "Heiß spülen",
+          "text": "Lass ab und zu ein heißes Programm laufen."
+        },
+        {
+          "titel": "Lüften",
+          "text": "Lass die Tür nach dem Spülen einen Spalt offen."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fängt am Boden der Spülmaschine Essensreste auf?",
+      "art": "mc",
+      "optionen": [
+        "Das Sieb",
+        "Der Sprüharm",
+        "Die Türdichtung",
+        "Der Salzbehälter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sollte regelmäßig ausgespült werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit kannst du verstopfte Düsen reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Zahnstocher",
+        "Mit einem Hammer",
+        "Mit Sand",
+        "Mit Backpapier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gehe dabei vorsichtig vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist ab und zu ein heißes Programm sinnvoll?",
+      "art": "mc",
+      "optionen": [
+        "Es löst Fettreste in Leitungen und Pumpe",
+        "Es spart Strom",
+        "Es färbt das Geschirr",
+        "Es ersetzt das Spülmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eco-Programme sind dafür oft zu kühl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Hersteller raten von Essig zur Reinigung ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er kann Gummiteile angreifen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reinige das Sieb regelmäßig.",
+        "Halte Sprüharme und Dichtungen sauber.",
+        "Ein heißes Programm ab und zu löst Fett.",
+        "Lass die Tür nach dem Spülen einen Spalt offen."
+      ]
+    }
+  ]
+}

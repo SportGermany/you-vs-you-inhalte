@@ -1,0 +1,121 @@
+{
+  "id": "geld-b086-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist ein Annuitätendarlehen?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher: Kredite",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "annuitaetendarlehen",
+    "kredit",
+    "baufinanzierung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die meisten Immobilienkredite in Deutschland laufen nach dem gleichen Prinzip.",
+        "Du zahlst jeden Monat denselben Betrag, doch innen drin verändert sich viel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die gleiche Rate jeden Monat",
+      "absaetze": [
+        "Annuität bedeutet hier eine gleichbleibende Rate. Bei einem Annuitätendarlehen zahlst du während der Zinsbindung jeden Monat denselben Betrag.",
+        "Die Rate besteht aus zwei Teilen: den Zinsen und der Tilgung. Tilgung ist der Teil, mit dem du den Kredit tatsächlich zurückzahlst."
+      ],
+      "merke": "Die Rate bleibt gleich, sie besteht aus Zinsen und Tilgung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Mischung verschiebt sich",
+      "absaetze": [
+        "Am Anfang ist die Restschuld hoch. Deshalb besteht die Rate zunächst vor allem aus Zinsen.",
+        "Mit jeder Rate sinkt die Restschuld. Damit sinken auch die Zinsen. Der Tilgungsanteil wächst. Am Ende zahlst du fast nur noch Tilgung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Ein höherer anfänglicher Tilgungssatz macht dich schneller schuldenfrei und spart Zinsen. Die Rate wird dafür höher.",
+        "Nach Ende der Zinsbindung ist oft noch eine Restschuld offen. Dann brauchst du eine Anschlussfinanzierung zu den dann gültigen Zinsen. Plane das von Anfang an mit ein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bleibt bei einem Annuitätendarlehen gleich?",
+      "art": "mc",
+      "optionen": [
+        "Die monatliche Rate",
+        "Der Zinsanteil",
+        "Die Restschuld",
+        "Der Tilgungsanteil"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Zusammensetzung verändert sich aber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Tilgung?",
+      "art": "mc",
+      "optionen": [
+        "Der Teil der Rate, der den Kredit zurückzahlt",
+        "Eine Bankgebühr",
+        "Eine Steuer",
+        "Ein Bonus der Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Rest der Rate sind Zinsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit dem Tilgungsanteil im Lauf der Zeit?",
+      "art": "mc",
+      "optionen": [
+        "Er wächst",
+        "Er sinkt",
+        "Er bleibt gleich",
+        "Er verschwindet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weil die Zinsen mit der Restschuld sinken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach Ende der Zinsbindung ist der Kredit immer vollständig bezahlt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft bleibt eine Restschuld, die du anschließend finanzieren musst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Annuitätendarlehen bleibt die Rate gleich.",
+        "Die Rate besteht aus Zinsen und Tilgung.",
+        "Der Tilgungsanteil wächst mit der Zeit.",
+        "Plane die Anschlussfinanzierung nach der Zinsbindung ein."
+      ]
+    }
+  ]
+}

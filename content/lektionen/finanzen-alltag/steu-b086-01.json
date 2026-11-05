@@ -1,0 +1,127 @@
+{
+  "id": "steu-b086-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die Luftverkehrsteuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbrauchsteuern und Verkehrsteuern",
+      "herausgeber": "Generalzolldirektion (Zoll)",
+      "url": "https://www.zoll.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "luftverkehrsteuer",
+    "fliegen",
+    "verkehrsteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf deinem Flugticket stehen viele Posten neben dem eigentlichen Preis.",
+        "Einer davon ist eine Steuer, die es in Deutschland seit 2011 gibt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Steuer pro Abflug",
+      "absaetze": [
+        "Die Luftverkehrsteuer fällt an, wenn ein Passagier von einem deutschen Flughafen abfliegt. Sie wurde 2011 eingeführt.",
+        "Zahlen muss sie die Fluggesellschaft. In der Regel gibt sie die Kosten über den Ticketpreis an dich weiter. Das Geld fließt in den Bundeshaushalt."
+      ],
+      "merke": "Die Steuer fällt bei jedem Abflug aus Deutschland an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Je weiter, desto teurer",
+      "absaetze": [
+        "Die Höhe richtet sich nach dem Zielland. Es gibt drei Entfernungsklassen. Für kurze Strecken innerhalb Europas ist der Betrag am niedrigsten, für Fernflüge am höchsten.",
+        "Die Sätze wurden seit 2011 mehrfach geändert. Die aktuellen Beträge veröffentlicht der Zoll."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu die Steuer dienen soll",
+      "absaetze": [
+        "Für Flugtickets fällt bei internationalen Flügen keine Mehrwertsteuer an. Auch Kerosin ist von der Energiesteuer befreit.",
+        "Die Luftverkehrsteuer soll das teilweise ausgleichen. Sie bringt dem Staat Einnahmen und soll auch einen Anreiz setzen, über Alternativen zum Fliegen nachzudenken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann fällt die Luftverkehrsteuer an?",
+      "art": "mc",
+      "optionen": [
+        "Beim Abflug von einem deutschen Flughafen",
+        "Bei jeder Landung weltweit",
+        "Beim Kauf eines Koffers",
+        "Nur bei Privatjets"
+      ],
+      "richtig": 0,
+      "erklaerung": "Entscheidend ist der Abflug in Deutschland."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer muss die Steuer an den Staat zahlen?",
+      "art": "mc",
+      "optionen": [
+        "Die Fluggesellschaft",
+        "Der Flughafen",
+        "Das Reisebüro",
+        "Die Bundespolizei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist gibt sie die Kosten über das Ticket weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach richtet sich die Höhe der Steuer?",
+      "art": "mc",
+      "optionen": [
+        "Nach der Entfernung zum Ziel",
+        "Nach dem Gewicht des Gepäcks",
+        "Nach der Uhrzeit",
+        "Nach dem Alter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt drei Entfernungsklassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Luftverkehrsteuer gibt es seit 2011.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Seitdem wurden die Sätze mehrfach geändert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Luftverkehrsteuer fällt bei Abflügen aus Deutschland an.",
+        "Die Fluggesellschaft zahlt sie und gibt sie meist weiter.",
+        "Die Höhe hängt von der Entfernung ab.",
+        "Aktuelle Sätze veröffentlicht der Zoll."
+      ]
+    }
+  ]
+}
