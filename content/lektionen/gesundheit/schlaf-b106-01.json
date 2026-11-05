@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b106-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was hilft gegen Sodbrennen in der Nacht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sodbrennen",
+    "reflux",
+    "schlafposition"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du liegst im Bett, und plötzlich brennt es hinter dem Brustbein. Manchmal kommt saurer Geschmack in den Mund.",
+        "Nächtliches Sodbrennen stört den Schlaf. Einige einfache Maßnahmen können helfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es nachts schlimmer ist",
+      "absaetze": [
+        "Im Liegen hilft die Schwerkraft nicht mehr, die Magensäure unten zu halten. Sie kann leichter in die Speiseröhre aufsteigen.",
+        "Außerdem schluckst du im Schlaf seltener. Dadurch wird aufgestiegene Säure langsamer zurück in den Magen befördert."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die linke Seite und ein erhöhtes Kopfende",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Liegen auf der linken Seite das Aufsteigen von Säure verringert. Der Magen liegt dann tiefer als die Speiseröhre.",
+        "Auch ein leicht erhöhtes Kopfende des Bettes kann helfen. Dafür wird das ganze Kopfteil angehoben, zum Beispiel mit Klötzen unter den Bettfüßen. Nur mehr Kissen zu stapeln, knickt oft den Bauch."
+      ],
+      "merke": "Linke Seitenlage und ein erhöhtes Kopfende können nächtliches Sodbrennen lindern.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abends vorbeugen",
+      "absaetze": [
+        "Iss am Abend keine großen, fettreichen Mahlzeiten und lass zwei bis drei Stunden Abstand bis zum Schlafengehen. Auch Alkohol und Rauchen können Sodbrennen verstärken.",
+        "Tritt es häufig auf, lass das ärztlich abklären. Dauerhafter Rückfluss von Säure kann die Speiseröhre schädigen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Sodbrennen im Liegen häufiger?",
+      "art": "mc",
+      "optionen": [
+        "Die Schwerkraft hält die Säure nicht mehr unten",
+        "Der Magen wird größer",
+        "Die Säure wird süß",
+        "Man atmet zu viel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Außerdem schluckst du im Schlaf seltener."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welcher Seite steigt nachts weniger Säure auf?",
+      "art": "mc",
+      "optionen": [
+        "Auf der linken Seite",
+        "Auf der rechten Seite",
+        "Auf dem Bauch",
+        "Das macht keinen Unterschied"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Magen liegt dann tiefer als die Speiseröhre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Abstand sollte zwischen Abendessen und Schlafen liegen?",
+      "art": "mc",
+      "optionen": [
+        "Zwei bis drei Stunden",
+        "Fünf Minuten",
+        "Gar keiner",
+        "Ein ganzer Tag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große, fettreiche Mahlzeiten verstärken das Problem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Häufiges Sodbrennen sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dauerhafter Säurerückfluss kann die Speiseröhre schädigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Liegen steigt Magensäure leichter auf.",
+        "Die linke Seitenlage kann helfen.",
+        "Ein erhöhtes Kopfende ist besser als Kissenberge.",
+        "Abends leicht essen und Abstand zum Schlafen halten."
+      ]
+    }
+  ]
+}

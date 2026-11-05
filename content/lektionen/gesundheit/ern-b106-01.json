@@ -1,0 +1,123 @@
+{
+  "id": "ern-b106-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Mandeln?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mandeln",
+    "nuesse",
+    "vitamin e"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mandeln gelten als gesunder Snack. Sie stecken in Müsli, Gebäck und Mandelmus.",
+        "Was liefern sie, und was hat es mit Bittermandeln auf sich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eigentlich keine Nuss",
+      "absaetze": [
+        "Botanisch sind Mandeln keine Nüsse, sondern die Kerne einer Steinfrucht. Der Mandelbaum ist mit Pfirsich und Aprikose verwandt.",
+        "In der Küche werden Mandeln aber wie Nüsse verwendet. Sie gibt es ganz, gehobelt, gemahlen oder als Mus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Mandeln liefern viel Vitamin E, Magnesium und Ballaststoffe. Ihr Fett besteht vor allem aus ungesättigten Fettsäuren, die als günstig für Herz und Gefäße gelten.",
+        "Wie alle Nüsse sind sie sehr energiereich. Eine kleine Handvoll am Tag ist eine übliche Menge. Am besten ersetzt sie andere Snacks."
+      ],
+      "merke": "Mandeln liefern viel Vitamin E, Magnesium und ungesättigte Fette.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Bittermandeln",
+      "absaetze": [
+        "Bittermandeln enthalten einen Stoff, aus dem im Körper giftige Blausäure entsteht. Schon wenige rohe Bittermandeln können vor allem für Kinder gefährlich sein.",
+        "Im Handel sind sie nur in kleinen Mengen zum Backen erhältlich. Beim Erhitzen verfliegt ein Großteil des Giftes. Die üblichen Süßmandeln sind unbedenklich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Mandeln botanisch?",
+      "art": "mc",
+      "optionen": [
+        "Kerne einer Steinfrucht",
+        "Echte Nüsse",
+        "Hülsenfrüchte",
+        "Getreidekörner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Mandelbaum ist mit dem Pfirsich verwandt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin liefern Mandeln reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin E",
+        "Vitamin B12",
+        "Vitamin D",
+        "Gar keines"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Magnesium und Ballaststoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht aus einem Stoff in Bittermandeln?",
+      "art": "mc",
+      "optionen": [
+        "Giftige Blausäure",
+        "Zucker",
+        "Vitamin C",
+        "Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schon wenige rohe Bittermandeln können gefährlich sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die üblichen Süßmandeln sind unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vorsicht gilt nur bei Bittermandeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mandeln sind Kerne einer Steinfrucht.",
+        "Sie liefern Vitamin E, Magnesium und gute Fette.",
+        "Eine kleine Handvoll ist eine übliche Menge.",
+        "Rohe Bittermandeln können giftig sein."
+      ]
+    }
+  ]
+}

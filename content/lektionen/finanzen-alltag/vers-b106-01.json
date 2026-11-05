@@ -1,0 +1,121 @@
+{
+  "id": "vers-b106-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt kleine Reparaturen in der Mietwohnung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kleinreparaturen",
+    "mietvertrag",
+    "vermieter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Wasserhahn tropft, der Lichtschalter klemmt. Wer muss die Reparatur bezahlen?",
+        "Das hängt davon ab, was im Mietvertrag steht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grundsätzlich der Vermieter",
+      "absaetze": [
+        "Der Vermieter muss die Wohnung in einem ordentlichen Zustand halten. Reparaturen sind deshalb grundsätzlich seine Sache.",
+        "Mieterinnen und Mieter zahlen kleine Reparaturen nur, wenn das im Mietvertrag mit einer sogenannten Kleinreparaturklausel vereinbart ist."
+      ],
+      "merke": "Ohne Kleinreparaturklausel zahlt der Vermieter auch kleine Reparaturen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen der Klausel",
+      "absaetze": [
+        "Die Klausel gilt nur für Teile, die du oft benutzt. Dazu zählen Wasserhähne, Lichtschalter, Steckdosen, Tür- und Fenstergriffe.",
+        "Pro Reparatur darf der Betrag nicht zu hoch sein, meist liegt die Grenze bei etwa 100 bis 150 Euro. Außerdem muss es eine Obergrenze für das ganze Jahr geben. Fehlt sie, ist die Klausel unwirksam."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teurer heißt: gar nicht zahlen",
+      "absaetze": [
+        "Kostet eine Reparatur mehr als die vereinbarte Grenze, zahlt der Vermieter alles. Du musst dann auch nicht den Teilbetrag übernehmen.",
+        "Du musst den Handwerker nicht selbst beauftragen. Melde Schäden dem Vermieter. Lass ihn die Reparatur organisieren, sonst bleibst du womöglich auf den Kosten sitzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt Reparaturen grundsätzlich?",
+      "art": "mc",
+      "optionen": [
+        "Der Vermieter",
+        "Die Nachbarn",
+        "Die Stadt",
+        "Der Hausmeister privat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er muss die Wohnung in Ordnung halten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welche Teile gilt eine Kleinreparaturklausel?",
+      "art": "mc",
+      "optionen": [
+        "Für oft benutzte Teile wie Wasserhähne und Lichtschalter",
+        "Für das Dach",
+        "Für die Heizungsanlage im Keller",
+        "Für die Fassade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es geht um Dinge, die du häufig anfasst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt, wenn eine Reparatur die Grenze überschreitet?",
+      "art": "mc",
+      "optionen": [
+        "Der Vermieter zahlt alles",
+        "Du zahlst den Grenzbetrag",
+        "Du zahlst alles",
+        "Die Kosten werden geteilt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Teilbetrag fällt nicht an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Kleinreparaturklausel ohne Jahreshöchstgrenze ist unwirksam.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die jährliche Belastung muss begrenzt sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reparaturen zahlt grundsätzlich der Vermieter.",
+        "Kleine Reparaturen nur mit Klausel im Vertrag.",
+        "Es braucht eine Grenze pro Reparatur und pro Jahr.",
+        "Teurere Reparaturen zahlt der Vermieter komplett."
+      ]
+    }
+  ]
+}

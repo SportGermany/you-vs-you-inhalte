@@ -1,0 +1,121 @@
+{
+  "id": "geld-b106-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Aktie?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wertpapiere verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "aktie",
+    "boerse",
+    "unternehmen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit einer Aktie gehört dir ein kleines Stück eines Unternehmens.",
+        "Was bedeutet das genau, und welche Chancen und Risiken hat es?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Anteil am Unternehmen",
+      "absaetze": [
+        "Eine Aktiengesellschaft teilt ihr Kapital in viele kleine Anteile. Jeder dieser Anteile ist eine Aktie. Wer Aktien kauft, wird Miteigentümer.",
+        "Das Unternehmen bekommt so Geld für Investitionen. Die Aktien werden meist an der Börse gehandelt. Um sie zu kaufen, brauchst du ein Depot."
+      ],
+      "merke": "Eine Aktie ist ein Anteil an einem Unternehmen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechte und Gewinne",
+      "absaetze": [
+        "Als Aktionärin oder Aktionär darfst du auf der Hauptversammlung abstimmen. Macht das Unternehmen Gewinn, zahlt es oft einen Teil davon aus. Das ist die Dividende.",
+        "Steigt der Wert des Unternehmens, steigt meist auch der Kurs der Aktie. Verkaufst du dann, machst du Gewinn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Risiko",
+      "absaetze": [
+        "Der Kurs richtet sich nach Angebot und Nachfrage. Er kann stark schwanken, auch durch Gerüchte und Stimmungen.",
+        "Geht ein Unternehmen pleite, kann die Aktie wertlos werden. Deshalb ist es klug, auf viele Unternehmen zu streuen, etwa über einen breit gestreuten Fonds."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird man, wenn man Aktien kauft?",
+      "art": "mc",
+      "optionen": [
+        "Miteigentümer des Unternehmens",
+        "Angestellter",
+        "Kunde mit Rabatt",
+        "Gläubiger mit festem Zins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jede Aktie ist ein kleiner Anteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der ausgezahlte Gewinnanteil?",
+      "art": "mc",
+      "optionen": [
+        "Dividende",
+        "Zins",
+        "Prämie",
+        "Steuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nicht jedes Unternehmen zahlt eine."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du, um Aktien zu kaufen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Depot",
+        "Einen Führerschein",
+        "Ein Sparbuch",
+        "Einen Bausparvertrag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist ein Konto für Wertpapiere."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Aktie kann wertlos werden, wenn das Unternehmen pleitegeht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb lohnt es sich, breit zu streuen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Aktie ist ein Anteil an einem Unternehmen.",
+        "Aktionäre dürfen abstimmen und erhalten oft Dividenden.",
+        "Der Kurs schwankt mit Angebot und Nachfrage.",
+        "Breit streuen senkt das Risiko."
+      ]
+    }
+  ]
+}

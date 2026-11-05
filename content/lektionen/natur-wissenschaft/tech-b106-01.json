@@ -1,0 +1,121 @@
+{
+  "id": "tech-b106-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Plattenspieler?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "plattenspieler",
+    "schallplatte",
+    "musik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schallplatten erleben ein Comeback. Viele lieben ihren warmen Klang.",
+        "Doch wie wird aus einer Rille im Kunststoff Musik?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Musik in einer Rille",
+      "absaetze": [
+        "Auf einer Schallplatte verläuft eine einzige, spiralförmige Rille von außen nach innen. Ihre Wände sind winzig gewellt.",
+        "Diese Wellen sind ein Abbild der Schallwellen bei der Aufnahme. Laute und tiefe Töne erzeugen andere Wellen als leise und hohe."
+      ],
+      "merke": "Die Musik steckt als winzige Wellen in einer spiralförmigen Rille."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von der Nadel zum Ton",
+      "absaetze": [
+        "Eine feine Nadel, meist aus Diamant, gleitet durch die Rille. Die Wellen bringen sie zum Schwingen.",
+        "Im Tonabnehmer werden die Schwingungen mit Magneten und Spulen in schwache elektrische Signale umgewandelt. Ein Verstärker macht sie so stark, dass Lautsprecher sie wiedergeben können."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Drehen mit fester Geschwindigkeit",
+      "absaetze": [
+        "Der Plattenteller muss sich sehr gleichmäßig drehen, sonst klingt die Musik falsch. Langspielplatten laufen mit 33 Umdrehungen pro Minute, Singles meist mit 45.",
+        "Bei Stereo-Platten trägt jede der beiden Rillenwände einen Kanal. So hörst du links und rechts verschiedene Töne."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie verläuft die Rille auf einer Schallplatte?",
+      "art": "mc",
+      "optionen": [
+        "Als eine einzige Spirale",
+        "In vielen geraden Linien",
+        "Im Zickzack ohne Ende",
+        "Nur am Rand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie führt von außen nach innen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wandelt die Schwingungen in elektrische Signale um?",
+      "art": "mc",
+      "optionen": [
+        "Der Tonabnehmer",
+        "Der Plattenteller",
+        "Die Hülle",
+        "Das Netzkabel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er arbeitet mit Magneten und Spulen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit wie vielen Umdrehungen pro Minute läuft eine Langspielplatte?",
+      "art": "mc",
+      "optionen": [
+        "33",
+        "3",
+        "100",
+        "1.000"
+      ],
+      "richtig": 0,
+      "erklaerung": "Singles laufen meist mit 45."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Stereo-Platten trägt jede Rillenwand einen eigenen Kanal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So entsteht der Stereo-Klang."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Musik steckt als Wellen in einer Spiralrille.",
+        "Eine Diamantnadel tastet die Wellen ab.",
+        "Der Tonabnehmer macht daraus elektrische Signale.",
+        "Der Teller muss sich gleichmäßig drehen."
+      ]
+    }
+  ]
+}

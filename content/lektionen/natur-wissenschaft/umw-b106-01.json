@@ -1,0 +1,121 @@
+{
+  "id": "umw-b106-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum breiten sich Zecken aus?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zecken und FSME",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zecken",
+    "fsme",
+    "klimawandel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zecken lauern im hohen Gras und im Unterholz. Sie können Krankheiten übertragen.",
+        "In Deutschland sind sie inzwischen länger im Jahr aktiv als früher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mildere Winter",
+      "absaetze": [
+        "Die häufigste Zecke in Deutschland ist der Gemeine Holzbock. Er wird schon bei Temperaturen ab etwa sieben Grad aktiv.",
+        "Weil die Winter durch den Klimawandel milder werden, beginnt die Zeckensaison früher und endet später. Manchmal sind Zecken sogar im Winter unterwegs."
+      ],
+      "merke": "Mildere Winter verlängern die Zeckensaison."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Krankheiten durch Zecken",
+      "absaetze": [
+        "Zecken können Borreliose übertragen, eine bakterielle Infektion. Sie kommt in ganz Deutschland vor. Ein typisches Zeichen ist eine wandernde Rötung um die Stichstelle.",
+        "Außerdem übertragen Zecken das FSME-Virus, das eine Hirnhautentzündung auslösen kann. Risikogebiete liegen vor allem in Bayern und Baden-Württemberg, breiten sich aber nach Norden aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du dich",
+      "absaetze": [
+        "Trag in der Natur lange, helle Kleidung und such dich danach gründlich ab. Entferne Zecken schnell mit einer Pinzette oder Zeckenkarte.",
+        "Gegen FSME gibt es eine Impfung. Sie wird für Menschen in Risikogebieten empfohlen. Gegen Borreliose gibt es keine Impfung. Wird die Rötung größer, geh zum Arzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die häufigste Zecke in Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "Gemeiner Holzbock",
+        "Tigermücke",
+        "Kleidermotte",
+        "Silberfischchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist schon ab etwa sieben Grad aktiv."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Krankheit durch Zecken kommt in ganz Deutschland vor?",
+      "art": "mc",
+      "optionen": [
+        "Borreliose",
+        "Malaria",
+        "Cholera",
+        "Pest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine wandernde Rötung ist ein typisches Zeichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegen welche Zeckenkrankheit gibt es eine Impfung?",
+      "art": "mc",
+      "optionen": [
+        "FSME",
+        "Borreliose",
+        "Beide",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird für Risikogebiete empfohlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mildere Winter verlängern die Zeckensaison.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Zecken sind dann länger aktiv."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mildere Winter verlängern die Zeckensaison.",
+        "Zecken übertragen Borreliose und FSME.",
+        "FSME-Risikogebiete breiten sich nach Norden aus.",
+        "Absuchen, schnell entfernen und in Risikogebieten impfen."
+      ]
+    }
+  ]
+}

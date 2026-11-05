@@ -1,0 +1,121 @@
+{
+  "id": "all-b106-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Gibt es Monde bei fernen Planeten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Exoplaneten",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "exomonde",
+    "exoplaneten",
+    "astronomie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Forschende haben Tausende Planeten bei anderen Sternen gefunden.",
+        "Monde um diese Planeten sind dagegen noch ein großes Rätsel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Monde sind wahrscheinlich",
+      "absaetze": [
+        "In unserem Sonnensystem haben fast alle großen Planeten Monde. Es ist deshalb sehr wahrscheinlich, dass auch ferne Planeten welche haben.",
+        "Monde bei Planeten anderer Sterne heißen Exomonde. Sie zu finden ist aber extrem schwierig, weil sie klein und weit entfernt sind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie man nach ihnen sucht",
+      "absaetze": [
+        "Viele Planeten werden entdeckt, wenn sie vor ihrem Stern vorbeiziehen und ihn kurz verdunkeln. Ein Mond könnte eine zusätzliche, winzige Verdunkelung verursachen.",
+        "Außerdem zerrt ein Mond an seinem Planeten. Der Planet zieht dann nicht ganz pünktlich vor dem Stern vorbei. Aus solchen Abweichungen schließen Forschende auf einen möglichen Mond."
+      ],
+      "merke": "Exomonde könnten sich durch winzige zusätzliche Verdunkelungen verraten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bisher nur Kandidaten",
+      "absaetze": [
+        "2018 meldeten Forschende einen möglichen Mond, etwa so groß wie Neptun, bei einem fernen Planeten. Bestätigt ist er bis heute nicht.",
+        "Bisher gilt kein Exomond als sicher nachgewiesen. Neue Teleskope könnten das ändern. Manche Exomonde könnten sogar lebensfreundlich sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen Monde bei Planeten anderer Sterne?",
+      "art": "mc",
+      "optionen": [
+        "Exomonde",
+        "Supermonde",
+        "Blutmonde",
+        "Halbmonde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie zu finden ist extrem schwierig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie könnte sich ein Exomond verraten?",
+      "art": "mc",
+      "optionen": [
+        "Durch eine winzige zusätzliche Verdunkelung des Sterns",
+        "Durch lautes Rauschen",
+        "Durch seinen Geruch",
+        "Durch Funksignale"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Abweichungen im Takt des Planeten helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Exomonde sind sicher nachgewiesen?",
+      "art": "mc",
+      "optionen": [
+        "Bisher keiner",
+        "Tausende",
+        "Genau hundert",
+        "Einer pro Planet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt nur Kandidaten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist wahrscheinlich, dass ferne Planeten Monde haben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In unserem Sonnensystem sind Monde häufig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Exomonde sind Monde um ferne Planeten.",
+        "Sie sind sehr schwer zu finden.",
+        "Winzige Verdunkelungen und Taktabweichungen geben Hinweise.",
+        "Bisher gibt es nur Kandidaten."
+      ]
+    }
+  ]
+}
