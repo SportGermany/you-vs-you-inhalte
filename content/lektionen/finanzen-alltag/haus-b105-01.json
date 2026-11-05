@@ -1,0 +1,143 @@
+{
+  "id": "haus-b105-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Messing und Kupfer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "messing",
+    "kupfer",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kupfertöpfe, Messingklinken oder alte Leuchter verlieren mit der Zeit ihren Glanz.",
+        "Mit einfachen Hausmitteln glänzen sie oft wieder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum die Metalle dunkel werden",
+      "absaetze": [
+        "Kupfer und Messing reagieren mit Luft und Feuchtigkeit. Auf der Oberfläche bildet sich eine dunkle Schicht. Messing ist eine Mischung aus Kupfer und Zink.",
+        "Diese Schicht heißt Patina. Bei alten Stücken gehört sie oft zum Charme. Bei wertvollen Antiquitäten solltest du vor dem Polieren eine Fachperson fragen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hausmittel mit Säure",
+      "absaetze": [
+        "Eine Paste aus Essig oder Zitronensaft, etwas Salz und Mehl löst die dunkle Schicht. Trag sie auf, lass sie kurz einwirken und reibe mit einem weichen Tuch nach.",
+        "Auch eine halbe Zitrone mit etwas Salz eignet sich für kleine Flächen. Spüle danach gründlich mit Wasser ab."
+      ],
+      "merke": "Säure aus Essig oder Zitrone löst die dunkle Schicht auf Kupfer und Messing."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut trocknen und vorsichtig sein",
+      "absaetze": [
+        "Trockne die Teile nach dem Reinigen sofort und gründlich. Sonst bilden sich schnell neue Flecken.",
+        "Manche Gegenstände sind lackiert. Dort hilft nur feuchtes Abwischen, denn Säure und Reiben beschädigen den Lack. Kratzige Schwämme und Scheuermittel hinterlassen Spuren."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So bringst du Kupfer zum Glänzen",
+      "schritte": [
+        {
+          "titel": "Paste anrühren",
+          "text": "Mische Essig oder Zitronensaft mit Salz und etwas Mehl."
+        },
+        {
+          "titel": "Auftragen",
+          "text": "Verteile die Paste und lass sie kurz einwirken."
+        },
+        {
+          "titel": "Polieren",
+          "text": "Reibe mit einem weichen Tuch nach."
+        },
+        {
+          "titel": "Abspülen und trocknen",
+          "text": "Spüle gründlich und trockne sofort ab."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Messing?",
+      "art": "mc",
+      "optionen": [
+        "Aus Kupfer und Zink",
+        "Aus Eisen und Kohle",
+        "Aus Gold und Silber",
+        "Aus Aluminium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist eine Legierung, also eine Metallmischung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hausmittel löst die dunkle Schicht?",
+      "art": "mc",
+      "optionen": [
+        "Eine Paste mit Essig oder Zitronensaft und Salz",
+        "Olivenöl allein",
+        "Zucker",
+        "Milch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Säure löst die Patina."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei lackierten Gegenständen wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Nur feucht abwischen",
+        "Kräftig mit Säure schrubben",
+        "Mit Stahlwolle polieren",
+        "In Essig einweichen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Säure und Reiben beschädigen den Lack."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach dem Reinigen solltest du die Teile sofort trocknen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonst entstehen schnell neue Flecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kupfer und Messing bilden mit der Zeit eine Patina.",
+        "Essig oder Zitrone mit Salz lösen sie.",
+        "Danach gründlich abspülen und trocknen.",
+        "Lackierte Teile nur feucht abwischen."
+      ]
+    }
+  ]
+}

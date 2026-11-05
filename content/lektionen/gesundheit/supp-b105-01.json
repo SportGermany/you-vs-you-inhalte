@@ -1,0 +1,145 @@
+{
+  "id": "supp-b105-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Berberin zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "berberin",
+    "blutzucker",
+    "pflanzenstoff"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In sozialen Medien wird Berberin manchmal als natürliche Abnehmspritze angepriesen.",
+        "Was steckt hinter dem gelben Pflanzenstoff wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Stoff aus Pflanzen",
+      "absaetze": [
+        "Berberin ist ein gelber Pflanzenstoff. Er kommt etwa in der Berberitze vor, einem Strauch mit roten Beeren. In der traditionellen chinesischen Medizin wird er seit Langem genutzt.",
+        "Heute wird Berberin als Nahrungsergänzungsmittel in Kapseln verkauft, oft zum Abnehmen oder für bessere Blutzuckerwerte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Studien, vor allem aus China, deuten darauf hin, dass Berberin bei Typ-2-Diabetes den Blutzucker und die Blutfette etwas senken kann. Viele dieser Studien sind aber klein oder nicht sehr sorgfältig gemacht.",
+        "Mit modernen Abnehmspritzen ist Berberin nicht vergleichbar. Für deutliches Abnehmen gibt es keine guten Belege."
+      ],
+      "merke": "Berberin ist keine natürliche Abnehmspritze.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Risiken und Wechselwirkungen",
+      "absaetze": [
+        "Berberin verursacht häufig Magen-Darm-Beschwerden wie Durchfall oder Verstopfung. Es beeinflusst Enzyme in der Leber, die viele Medikamente abbauen.",
+        "Dadurch kann es die Wirkung anderer Arzneimittel verändern. Zusammen mit Diabetes-Medikamenten droht eine Unterzuckerung. In Schwangerschaft und Stillzeit gilt Berberin als riskant für das Kind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht in Schwangerschaft und Stillzeit.",
+        "Bei Diabetes-Medikamenten nur nach ärztlicher Rücksprache, Gefahr der Unterzuckerung.",
+        "Kann die Wirkung vieler Medikamente verändern, vorher in der Apotheke fragen.",
+        "Ersetzt keine ärztlich verordnete Diabetes-Behandlung."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Berberin wirkt wie eine Abnehmspritze, nur natürlich.",
+      "urteil": "mythos",
+      "erklaerung": "Dafür gibt es keine Belege. Die Wirkung ist viel schwächer und weniger gut untersucht als bei zugelassenen Medikamenten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Berberin?",
+      "art": "mc",
+      "optionen": [
+        "Aus Pflanzen wie der Berberitze",
+        "Aus Fischöl",
+        "Aus Milch",
+        "Aus Mineralgestein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist ein gelber Pflanzenstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Studien bei Typ-2-Diabetes?",
+      "art": "mc",
+      "optionen": [
+        "Blutzucker und Blutfette können etwas sinken",
+        "Diabetes verschwindet sicher",
+        "Gar keine Wirkung",
+        "Der Blutzucker steigt stark"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Studien sind aber klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Gefahr besteht zusammen mit Diabetes-Medikamenten?",
+      "art": "mc",
+      "optionen": [
+        "Unterzuckerung",
+        "Sonnenbrand",
+        "Haarausfall",
+        "Kurzsichtigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Berberin kann die Wirkung verstärken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Berberin ist in der Schwangerschaft unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gilt in Schwangerschaft und Stillzeit als riskant."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Berberin ist ein gelber Pflanzenstoff.",
+        "Es kann Blutzucker und Blutfette etwas senken.",
+        "Mit Abnehmspritzen ist es nicht vergleichbar.",
+        "Es hat viele Wechselwirkungen mit Medikamenten."
+      ]
+    }
+  ]
+}

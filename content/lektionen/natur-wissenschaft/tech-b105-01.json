@@ -1,0 +1,121 @@
+{
+  "id": "tech-b105-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie schaltet sich ein Wasserkocher von selbst ab?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wasserkocher",
+    "bimetall",
+    "haushaltsgeraete"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Wasser sprudelt, es klickt, und der Wasserkocher ist aus.",
+        "Dahinter steckt ein einfacher, aber genialer Schalter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnelles Erhitzen",
+      "absaetze": [
+        "Im Boden des Wasserkochers sitzt eine Heizplatte. Sie wandelt Strom in Wärme um und gibt sie direkt an das Wasser ab.",
+        "Weil die Wärme kaum Umwege nimmt, ist ein Wasserkocher meist schneller und sparsamer als ein Topf auf dem Herd."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Bimetall-Schalter",
+      "absaetze": [
+        "Kocht das Wasser, steigt Dampf auf. Er wird durch einen kleinen Kanal zu einem Schalter geleitet. Dort sitzt ein Plättchen aus zwei verschiedenen, fest verbundenen Metallen.",
+        "Die beiden Metalle dehnen sich bei Wärme unterschiedlich stark aus. Das Plättchen verbiegt sich deshalb plötzlich und schnappt um. Dabei trennt es den Stromkreis. Das Klicken hörst du."
+      ],
+      "merke": "Ein Bimetall-Plättchen schnappt bei Hitze um und schaltet den Strom ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz und Sparen",
+      "absaetze": [
+        "Ein zweiter Bimetall-Schalter schützt das Gerät, falls es ohne Wasser eingeschaltet wird. Dann schaltet er ab, bevor die Heizplatte überhitzt.",
+        "Erhitze nur so viel Wasser, wie du brauchst. Entkalke das Gerät regelmäßig, denn Kalk verlängert die Heizzeit."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch schaltet sich der Wasserkocher ab?",
+      "art": "mc",
+      "optionen": [
+        "Durch ein Bimetall-Plättchen, das sich bei Hitze verbiegt",
+        "Durch eine Zeitschaltuhr",
+        "Durch einen Wassersensor im Deckel",
+        "Durch das Gewicht des Wassers"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Plättchen schnappt plötzlich um."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was leitet die Hitze zum Schalter?",
+      "art": "mc",
+      "optionen": [
+        "Aufsteigender Dampf",
+        "Das kalte Wasser",
+        "Der Henkel",
+        "Das Kabel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er strömt durch einen kleinen Kanal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient ein zweiter Bimetall-Schalter?",
+      "art": "mc",
+      "optionen": [
+        "Er schützt vor Überhitzung ohne Wasser",
+        "Er macht das Wasser kälter",
+        "Er zählt die Tassen",
+        "Er färbt das Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "So brennt das Gerät nicht durch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kalk im Wasserkocher verlängert die Heizzeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Regelmäßiges Entkalken spart Energie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Heizplatte erhitzt das Wasser direkt.",
+        "Dampf erwärmt ein Bimetall-Plättchen.",
+        "Das Plättchen schnappt um und trennt den Strom.",
+        "Nur so viel Wasser kochen, wie du brauchst."
+      ]
+    }
+  ]
+}

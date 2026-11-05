@@ -1,0 +1,121 @@
+{
+  "id": "welt-b105-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Samuel Morse?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "samuel morse",
+    "telegraf",
+    "morsecode"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kurz, kurz, kurz, lang, lang, lang, kurz, kurz, kurz. Dieses Signal kennen viele: SOS.",
+        "Es geht auf einen Mann zurück, der eigentlich Maler war."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Maler zum Erfinder",
+      "absaetze": [
+        "Samuel Morse wurde 1791 in den USA geboren. Zunächst war er ein erfolgreicher Maler.",
+        "Auf einer Schiffsreise hörte er 1832 von neuen Versuchen mit Elektrizität. Er hatte die Idee, Nachrichten mit Strom über Drähte zu schicken. Diese Idee ließ ihn nicht mehr los."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der elektrische Telegraf",
+      "absaetze": [
+        "Morse baute mit Helfern einen elektrischen Telegrafen. 1844 schickte er die erste öffentliche Nachricht über eine Leitung von Washington nach Baltimore.",
+        "Bald verbanden Telegrafenleitungen Städte und Länder. Nachrichten brauchten nicht mehr Tage, sondern nur noch Minuten."
+      ],
+      "merke": "Mit dem Telegrafen reisten Nachrichten erstmals in Minuten über weite Strecken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Morsealphabet",
+      "absaetze": [
+        "Für den Telegrafen entwickelte Morse mit seinem Mitarbeiter Alfred Vail einen Code aus kurzen und langen Signalen. Jeder Buchstabe hat ein eigenes Muster.",
+        "Das Morsealphabet wurde lange in der Seefahrt und im Funk genutzt. Das Notsignal SOS besteht aus drei kurzen, drei langen und drei kurzen Signalen. Morse starb 1872."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Beruf hatte Morse zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Maler",
+        "Arzt",
+        "Bäcker",
+        "Kapitän"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst später wurde er Erfinder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zwischen welchen Städten lief 1844 die erste öffentliche Nachricht?",
+      "art": "mc",
+      "optionen": [
+        "Washington und Baltimore",
+        "Berlin und Paris",
+        "London und Dublin",
+        "New York und Rom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lief über eine Telegrafenleitung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht das Morsealphabet?",
+      "art": "mc",
+      "optionen": [
+        "Aus kurzen und langen Signalen",
+        "Aus Farben",
+        "Aus Bildern",
+        "Aus Musiknoten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder Buchstabe hat ein eigenes Muster."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Notsignal SOS besteht aus drei kurzen, drei langen und drei kurzen Signalen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es ist leicht zu erkennen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Samuel Morse war zuerst Maler.",
+        "Er entwickelte den elektrischen Telegrafen.",
+        "1844 lief die erste öffentliche Nachricht.",
+        "Das Morsealphabet besteht aus kurzen und langen Signalen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b105-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schlafen blinde Menschen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blindheit",
+    "innere uhr",
+    "licht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Licht ist der wichtigste Taktgeber für unsere innere Uhr.",
+        "Was passiert, wenn die Augen kein Licht mehr wahrnehmen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht stellt die innere Uhr",
+      "absaetze": [
+        "Unsere innere Uhr läuft etwas länger als 24 Stunden. Jeden Morgen stellt Tageslicht sie neu ein. Dafür gibt es in der Netzhaut besondere lichtempfindliche Zellen.",
+        "Sie melden dem Gehirn Hell und Dunkel, auch ohne dass wir bewusst etwas sehen. Manche blinde Menschen haben diese Zellen noch und schlafen ganz normal."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Taktgeber fehlt",
+      "absaetze": [
+        "Bei Menschen, die überhaupt kein Licht mehr wahrnehmen, kann sich die innere Uhr vom Tag lösen. Sie verschiebt sich dann jeden Tag ein Stück.",
+        "Fachleute nennen das eine Nicht-24-Stunden-Schlaf-Wach-Störung. Phasen mit gutem Schlaf wechseln sich mit Wochen ab, in denen nachts der Schlaf fehlt und tagsüber Müdigkeit quält."
+      ],
+      "merke": "Ohne Lichtwahrnehmung kann sich die innere Uhr vom 24-Stunden-Tag lösen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Feste Zeiten für Mahlzeiten, Bewegung und Schlaf geben der inneren Uhr zusätzliche Signale. Ärztlich begleitet kann auch das Schlafhormon Melatonin helfen, die Uhr zu stabilisieren.",
+        "Übrigens: Menschen, die von Geburt an blind sind, träumen ebenfalls. Ihre Träume bestehen vor allem aus Geräuschen, Gerüchen und Berührungen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stellt die innere Uhr jeden Tag neu ein?",
+      "art": "mc",
+      "optionen": [
+        "Tageslicht",
+        "Lärm",
+        "Essen allein",
+        "Die Mondphasen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie läuft sonst etwas länger als 24 Stunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schlafstörung betrifft manche vollständig blinde Menschen?",
+      "art": "mc",
+      "optionen": [
+        "Eine Nicht-24-Stunden-Schlaf-Wach-Störung",
+        "Schlafwandeln",
+        "Zähneknirschen",
+        "Schnarchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die innere Uhr verschiebt sich jeden Tag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon träumen von Geburt an blinde Menschen vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Von Geräuschen, Gerüchen und Berührungen",
+        "Gar nicht",
+        "Nur von Farben",
+        "Nur von Zahlen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bilder spielen in ihren Träumen kaum eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle blinden Menschen haben Schlafprobleme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Manche nehmen noch Licht wahr und schlafen normal."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Licht stellt die innere Uhr täglich neu.",
+        "Ohne Lichtwahrnehmung kann sie sich verschieben.",
+        "Feste Tagesstrukturen geben zusätzliche Signale.",
+        "Auch von Geburt an blinde Menschen träumen."
+      ]
+    }
+  ]
+}

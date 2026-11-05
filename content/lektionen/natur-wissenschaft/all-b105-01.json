@@ -1,0 +1,121 @@
+{
+  "id": "all-b105-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist besonders am Neptunmond Triton?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Neptun und seine Monde",
+      "herausgeber": "NASA",
+      "url": "https://www.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "triton",
+    "neptun",
+    "monde"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Triton ist der größte Mond des Neptun.",
+        "Er kreist in die falsche Richtung und hat eisige Geysire."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Mond auf Gegenkurs",
+      "absaetze": [
+        "Triton wurde 1846 entdeckt, nur wenige Wochen nach dem Neptun selbst. Er ist einer der größten Monde im Sonnensystem.",
+        "Er umkreist den Neptun entgegen dessen Drehrichtung. Das ist bei großen Monden einzigartig. Forschende vermuten, dass Triton ein eingefangener Himmelskörper aus dem Kuipergürtel ist."
+      ],
+      "merke": "Triton kreist entgegen der Drehrichtung des Neptun und wurde wohl eingefangen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eisige Geysire",
+      "absaetze": [
+        "1989 flog die Raumsonde Voyager 2 an Triton vorbei. Sie fotografierte dunkle Fontänen, die aus der Oberfläche schossen.",
+        "Diese Geysire bestehen vermutlich aus Stickstoff, der unter der Oberfläche erwärmt wird. Triton ist eines der kältesten Objekte im Sonnensystem, mit Temperaturen weit unter minus 200 Grad."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Mond auf Zeit",
+      "absaetze": [
+        "Weil Triton gegen die Drehrichtung kreist, bremsen ihn die Gezeitenkräfte des Neptun. Er nähert sich dem Planeten langsam an.",
+        "In ferner Zukunft könnte er zerrissen werden. Dann bekäme Neptun vielleicht einen großen Ring. Bis dahin vergehen aber Milliarden Jahre."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist an Tritons Umlaufbahn besonders?",
+      "art": "mc",
+      "optionen": [
+        "Er kreist entgegen der Drehrichtung des Neptun",
+        "Er kreist um die Sonne",
+        "Er steht still",
+        "Er kreist um die Erde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist bei großen Monden einzigartig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sonde flog 1989 an Triton vorbei?",
+      "art": "mc",
+      "optionen": [
+        "Voyager 2",
+        "Apollo 11",
+        "Hubble",
+        "Sputnik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie fotografierte Geysire."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen die Geysire vermutlich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Stickstoff",
+        "Aus Lava",
+        "Aus Wasser mit Zucker",
+        "Aus Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird unter der Oberfläche erwärmt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Triton nähert sich dem Neptun langsam an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In Milliarden Jahren könnte er zerrissen werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Triton ist der größte Neptunmond.",
+        "Er kreist gegen die Drehrichtung des Planeten.",
+        "Voyager 2 sah dort Stickstoff-Geysire.",
+        "Er ist eines der kältesten Objekte im Sonnensystem."
+      ]
+    }
+  ]
+}

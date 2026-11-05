@@ -1,0 +1,121 @@
+{
+  "id": "geld-b105-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist ein Leerverkauf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wertpapiere verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "leerverkauf",
+    "boerse",
+    "spekulation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Börse kann man nicht nur auf steigende Kurse setzen.",
+        "Mit einem Leerverkauf wetten Anleger darauf, dass eine Aktie fällt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verkaufen, was man nicht besitzt",
+      "absaetze": [
+        "Bei einem Leerverkauf leiht sich ein Anleger Aktien, zum Beispiel von einer Bank. Er verkauft sie sofort zum aktuellen Preis.",
+        "Später kauft er die Aktien zurück und gibt sie dem Verleiher zurück. Ist der Kurs inzwischen gefallen, behält er die Differenz als Gewinn."
+      ],
+      "merke": "Beim Leerverkauf verkauft man geliehene Aktien und hofft auf fallende Kurse."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein großes Risiko",
+      "absaetze": [
+        "Steigt der Kurs, muss der Anleger teurer zurückkaufen. Da ein Kurs theoretisch unbegrenzt steigen kann, sind auch die möglichen Verluste unbegrenzt.",
+        "2021 kauften viele Kleinanleger gezielt Aktien des Händlers GameStop. Der Kurs schoss in die Höhe. Einige Profis, die auf fallende Kurse gesetzt hatten, verloren Milliarden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nutzen und Kritik",
+      "absaetze": [
+        "Befürworter sagen, Leerverkäufer decken überbewertete oder betrügerische Firmen auf. Kritiker meinen, sie könnten Kurse in Krisen zusätzlich drücken.",
+        "In Krisenzeiten haben Aufsichtsbehörden Leerverkäufe deshalb schon zeitweise verboten. Für Privatanleger sind solche Geschäfte meist ungeeignet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf setzt ein Leerverkäufer?",
+      "art": "mc",
+      "optionen": [
+        "Auf fallende Kurse",
+        "Auf steigende Kurse",
+        "Auf gleichbleibende Zinsen",
+        "Auf Inflation"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er will später billiger zurückkaufen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht der Anleger zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Er leiht sich Aktien und verkauft sie",
+        "Er kauft Gold",
+        "Er eröffnet ein Sparbuch",
+        "Er wartet ab"
+      ],
+      "richtig": 0,
+      "erklaerung": "Später kauft er sie zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch kann der Verlust bei einem Leerverkauf sein?",
+      "art": "mc",
+      "optionen": [
+        "Theoretisch unbegrenzt",
+        "Höchstens 10 Euro",
+        "Immer null",
+        "Genau der Einsatz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Kurs kann beliebig weit steigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Leerverkäufe wurden in Krisen schon zeitweise verboten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Aufsichtsbehörden wollten so Kursstürze bremsen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Leerverkauf verkauft man geliehene Aktien.",
+        "Gewinn entsteht nur bei fallenden Kursen.",
+        "Die möglichen Verluste sind unbegrenzt.",
+        "Für Privatanleger meist ungeeignet."
+      ]
+    }
+  ]
+}
