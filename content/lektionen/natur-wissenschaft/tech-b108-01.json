@@ -1,0 +1,121 @@
+{
+  "id": "tech-b108-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Defibrillator?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Laienreanimation",
+      "herausgeber": "Deutscher Rat für Wiederbelebung (German Resuscitation Council)",
+      "url": "https://www.grc-org.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "defibrillator",
+    "aed",
+    "wiederbelebung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In vielen Bahnhöfen, Schulen und Sporthallen hängt ein Kasten mit grünem Herz-Symbol.",
+        "Darin steckt ein Gerät, das Leben retten kann: ein Defibrillator."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn das Herz flimmert",
+      "absaetze": [
+        "Bei einem plötzlichen Herzstillstand schlägt das Herz oft nicht mehr geordnet. Die Herzkammern zucken unkoordiniert. Fachleute nennen das Kammerflimmern. Dann pumpt das Herz kein Blut mehr.",
+        "Ein starker Stromstoß kann das Chaos unterbrechen. Danach kann der natürliche Taktgeber des Herzens wieder die Führung übernehmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gerät sagt dir, was zu tun ist",
+      "absaetze": [
+        "Ein automatisierter externer Defibrillator, kurz AED, ist für Laien gemacht. Nach dem Einschalten gibt er Anweisungen per Sprache.",
+        "Du klebst zwei Elektroden auf die nackte Brust. Das Gerät analysiert den Herzrhythmus selbst. Es gibt nur dann einen Schock ab, wenn das sinnvoll ist."
+      ],
+      "merke": "Ein AED analysiert den Herzrhythmus und gibt nur bei Bedarf einen Schock."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Angst vor Fehlern",
+      "absaetze": [
+        "Jeder darf einen AED benutzen, auch ohne Ausbildung. Du kannst damit nichts falsch machen, denn das Gerät entscheidet über den Schock.",
+        "Wichtig ist: Ruf zuerst 112 und beginne mit der Herzdruckmassage. Sobald der AED da ist, folgst du seinen Anweisungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Kammerflimmern?",
+      "art": "mc",
+      "optionen": [
+        "Unkoordiniertes Zucken der Herzkammern",
+        "Ein sehr ruhiger Herzschlag",
+        "Eine Lungenkrankheit",
+        "Ein Hautausschlag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Herz pumpt dann kein Blut mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entscheidet beim AED, ob ein Schock abgegeben wird?",
+      "art": "mc",
+      "optionen": [
+        "Das Gerät selbst",
+        "Der Helfer nach Gefühl",
+        "Ein Würfel",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es analysiert den Herzrhythmus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du zuerst tun?",
+      "art": "mc",
+      "optionen": [
+        "112 rufen und mit der Herzdruckmassage beginnen",
+        "Nach Hause gehen",
+        "Die Person schütteln und weggehen",
+        "Warten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann den AED holen lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Laien ohne Ausbildung dürfen einen AED benutzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Gerät führt per Sprache durch alle Schritte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Kammerflimmern pumpt das Herz kein Blut.",
+        "Ein Stromstoß kann den Rhythmus zurücksetzen.",
+        "Ein AED sagt dir per Sprache, was zu tun ist.",
+        "Jeder darf ihn benutzen."
+      ]
+    }
+  ]
+}

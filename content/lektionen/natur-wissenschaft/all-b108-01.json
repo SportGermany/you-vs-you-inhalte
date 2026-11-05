@@ -1,0 +1,121 @@
+{
+  "id": "all-b108-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum kreisen die Planeten in einer Ebene?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Astronomie",
+      "herausgeber": "Europäische Südsternwarte (ESO)",
+      "url": "https://www.eso.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnensystem",
+    "planetenbahnen",
+    "entstehung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast alle Planeten unseres Sonnensystems kreisen ungefähr in derselben Ebene und in dieselbe Richtung um die Sonne.",
+        "Das ist kein Zufall, sondern eine Spur ihrer Entstehung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine rotierende Wolke",
+      "absaetze": [
+        "Vor rund 4,6 Milliarden Jahren entstand das Sonnensystem aus einer riesigen Wolke aus Gas und Staub. Diese Wolke zog sich durch ihre eigene Schwerkraft zusammen.",
+        "Dabei drehte sie sich immer schneller, ähnlich wie eine Eiskunstläuferin, die die Arme anzieht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus der Wolke wird eine Scheibe",
+      "absaetze": [
+        "Durch die Drehung und viele Zusammenstöße der Teilchen flachte die Wolke ab. Es entstand eine flache, rotierende Scheibe um die junge Sonne.",
+        "In dieser Scheibe ballten sich Staub und Gas zu immer größeren Brocken. Daraus wurden die Planeten. Deshalb kreisen sie bis heute in fast derselben Ebene."
+      ],
+      "merke": "Die Planeten entstanden in einer flachen, rotierenden Scheibe um die Sonne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Scheiben bei anderen Sternen",
+      "absaetze": [
+        "Mit großen Teleskopen sehen Forschende heute solche Scheiben um junge Sterne. Manche zeigen Lücken, in denen vermutlich gerade Planeten entstehen.",
+        "Nicht alles liegt genau in der Ebene. Die Bahn des Zwergplaneten Pluto ist zum Beispiel deutlich geneigt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus entstand das Sonnensystem?",
+      "art": "mc",
+      "optionen": [
+        "Aus einer Wolke aus Gas und Staub",
+        "Aus einem großen Eisberg",
+        "Aus einem zerbrochenen Planeten",
+        "Aus dem Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wolke zog sich durch Schwerkraft zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entstand aus der rotierenden Wolke?",
+      "art": "mc",
+      "optionen": [
+        "Eine flache Scheibe",
+        "Eine Kugel ohne Drehung",
+        "Ein Würfel",
+        "Ein Ring aus Eis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Darin bildeten sich die Planeten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wessen Bahn ist deutlich gegen die Ebene geneigt?",
+      "art": "mc",
+      "optionen": [
+        "Die des Zwergplaneten Pluto",
+        "Die der Erde",
+        "Die der Venus",
+        "Die des Mars"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nicht alles liegt genau in der Ebene."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Forschende beobachten heute Scheiben um junge Sterne.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Darin entstehen vermutlich Planeten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Sonnensystem entstand aus einer rotierenden Wolke.",
+        "Die Wolke flachte zu einer Scheibe ab.",
+        "In der Scheibe entstanden die Planeten.",
+        "Deshalb kreisen sie in fast derselben Ebene."
+      ]
+    }
+  ]
+}

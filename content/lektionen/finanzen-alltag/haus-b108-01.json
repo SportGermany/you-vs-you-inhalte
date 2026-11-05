@@ -1,0 +1,121 @@
+{
+  "id": "haus-b108-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entfernst du Flecken von der Wand?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wandflecken",
+    "streichen",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fingerabdrücke am Lichtschalter, Kritzeleien von Kindern oder ein Fettspritzer in der Küche.",
+        "Nicht jeder Fleck auf der Wand braucht gleich einen neuen Anstrich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst sanft versuchen",
+      "absaetze": [
+        "Fang immer mit der sanftesten Methode an. Ein weißer Radiergummi entfernt viele leichte Spuren und Bleistiftstriche.",
+        "Bei abwaschbaren Farben hilft ein leicht feuchtes Tuch mit etwas Spülmittel. Wische vorsichtig und nicht zu nass, sonst entstehen Wasserränder."
+      ],
+      "merke": "Fang bei Wandflecken immer mit der sanftesten Methode an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schmutzradierer mit Vorsicht",
+      "absaetze": [
+        "Ein Schmutzradierer aus Schaumstoff wirkt wie sehr feines Schleifpapier. Er entfernt hartnäckige Spuren, kann aber matte Farbe glänzend machen.",
+        "Teste ihn deshalb zuerst an einer unauffälligen Stelle. Drück nicht zu fest auf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn nur Streichen hilft",
+      "absaetze": [
+        "Fettflecken oder Wasserflecken schlagen oft durch neue Farbe durch. Hier hilft eine spezielle Grundierung, die den Fleck absperrt. Erst danach wird gestrichen.",
+        "Für Flure und Kinderzimmer lohnt sich abwaschbare Wandfarbe. Achte beim Kauf auf eine gute Nassabriebklasse. Graue Flecken mit Schimmelverdacht gehören nicht einfach überstrichen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit solltest du bei Wandflecken anfangen?",
+      "art": "mc",
+      "optionen": [
+        "Mit der sanftesten Methode",
+        "Mit Stahlwolle",
+        "Mit Scheuerpulver",
+        "Gleich mit Streichen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein weißer Radiergummi reicht oft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein Schmutzradierer bei matter Farbe bewirken?",
+      "art": "mc",
+      "optionen": [
+        "Glänzende Stellen",
+        "Nichts",
+        "Neue Farbe",
+        "Schimmel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Teste ihn an einer unauffälligen Stelle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, wenn Fettflecken durch neue Farbe durchschlagen?",
+      "art": "mc",
+      "optionen": [
+        "Eine absperrende Grundierung",
+        "Noch mehr Farbe ohne Grundierung",
+        "Wasser",
+        "Tapetenkleister"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach wird gestrichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Flecken mit Schimmelverdacht sollte man einfach überstreichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Schimmel braucht eine Ursachensuche."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Wandflecken sanft anfangen.",
+        "Schmutzradierer vorsichtig testen.",
+        "Fettflecken vor dem Streichen absperren.",
+        "Schimmel nicht einfach überstreichen."
+      ]
+    }
+  ]
+}

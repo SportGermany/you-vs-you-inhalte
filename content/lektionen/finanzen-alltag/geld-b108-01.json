@@ -1,0 +1,121 @@
+{
+  "id": "geld-b108-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Thesaurierend oder ausschüttend, was ist der Unterschied?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "etf",
+    "thesaurierend",
+    "ausschuettend"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei ETFs und Fonds stößt du auf zwei schwierige Wörter: thesaurierend und ausschüttend.",
+        "Dahinter steckt eine einfache Frage: Was passiert mit den Erträgen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auszahlen oder wieder anlegen",
+      "absaetze": [
+        "Fonds erhalten Erträge, zum Beispiel Dividenden von Unternehmen. Ein ausschüttender Fonds zahlt diese Erträge regelmäßig auf dein Konto aus.",
+        "Ein thesaurierender Fonds legt sie automatisch wieder im Fonds an. Das Wort kommt vom griechischen Wort für Schatz und bedeutet so viel wie ansammeln."
+      ],
+      "merke": "Ausschüttend heißt auszahlen, thesaurierend heißt wieder anlegen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das bewirkt",
+      "absaetze": [
+        "Beim thesaurierenden Fonds wächst das Vermögen durch den Zinseszinseffekt meist etwas bequemer, weil du nichts selbst wieder anlegen musst.",
+        "Beim ausschüttenden Fonds bekommst du regelmäßig Geld. Das kann praktisch sein, wenn du von den Erträgen leben möchtest, etwa im Ruhestand."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und die Steuern?",
+      "absaetze": [
+        "Auch thesaurierende Fonds werden jedes Jahr besteuert, über eine sogenannte Vorabpauschale. Steuer fällt bei beiden Varianten erst an, wenn dein Sparerpauschbetrag von 1.000 Euro im Jahr aufgebraucht ist.",
+        "Welche Variante besser ist, hängt vor allem von deinen Zielen ab. Wichtiger als diese Frage sind niedrige Kosten und eine breite Streuung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein ausschüttender Fonds mit den Erträgen?",
+      "art": "mc",
+      "optionen": [
+        "Er zahlt sie aus",
+        "Er behält sie für immer",
+        "Er verschenkt sie",
+        "Er zahlt sie an den Staat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Geld landet auf deinem Konto."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet thesaurierend?",
+      "art": "mc",
+      "optionen": [
+        "Erträge werden wieder angelegt",
+        "Erträge werden ausgezahlt",
+        "Der Fonds ist besonders riskant",
+        "Der Fonds ist steuerfrei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Wort bedeutet so viel wie ansammeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Sparerpauschbetrag pro Person und Jahr?",
+      "art": "mc",
+      "optionen": [
+        "1.000 Euro",
+        "100 Euro",
+        "10.000 Euro",
+        "Es gibt keinen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst darüber fällt Steuer an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch thesaurierende Fonds werden jährlich besteuert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Über die sogenannte Vorabpauschale."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ausschüttend: Erträge werden ausgezahlt.",
+        "Thesaurierend: Erträge werden wieder angelegt.",
+        "Beide werden über den Sparerpauschbetrag hinaus besteuert.",
+        "Niedrige Kosten und breite Streuung sind wichtiger."
+      ]
+    }
+  ]
+}

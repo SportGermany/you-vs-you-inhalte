@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b108-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schlafen wir im Winter mehr?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "winter",
+    "jahreszeiten",
+    "schlafdauer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Winter fällt das Aufstehen schwer, und abends wird man früh müde.",
+        "Brauchen Menschen in der dunklen Jahreszeit wirklich mehr Schlaf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Längere Nächte, mehr Melatonin",
+      "absaetze": [
+        "Im Winter ist es länger dunkel. Der Körper schüttet dann über einen längeren Zeitraum das Schlafhormon Melatonin aus.",
+        "Viele fühlen sich deshalb abends früher müde und morgens schwerer wach. Einen Winterschlaf wie manche Tiere halten Menschen aber nicht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was eine Studie fand",
+      "absaetze": [
+        "Eine Untersuchung im Schlaflabor deutet darauf hin, dass Menschen im Winter etwas länger schlafen. Vor allem die Traumschlafphasen waren im Winter länger als im Sommer.",
+        "Die Unterschiede waren nicht groß, und untersucht wurden Menschen mit Schlafproblemen. Ob das für alle gilt, ist noch offen."
+      ],
+      "merke": "Eine Studie deutet darauf hin, dass Menschen im Winter etwas mehr schlafen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut durch die dunkle Zeit",
+      "absaetze": [
+        "Wenn möglich, geh im Winter etwas früher ins Bett, statt dich gegen die Müdigkeit zu stemmen. Tageslicht am Vormittag macht wacher und hebt die Stimmung.",
+        "Manche Menschen werden im Winter dauerhaft niedergeschlagen und antriebslos. Das kann eine Winterdepression sein. Dann ist ärztlicher Rat wichtig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden viele im Winter abends früher müde?",
+      "art": "mc",
+      "optionen": [
+        "Der Körper schüttet länger Melatonin aus",
+        "Weil es wärmer ist",
+        "Weil es mehr Licht gibt",
+        "Weil man weniger isst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Nächte sind länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Halten Menschen einen Winterschlaf?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, wie Bären",
+        "Nur Kinder",
+        "Nur im Gebirge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Tiere tun das, Menschen nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht im Winter wacher?",
+      "art": "mc",
+      "optionen": [
+        "Tageslicht am Vormittag",
+        "Dunkle Räume",
+        "Lange Mittagsschläfe",
+        "Spätes Fernsehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht hebt auch die Stimmung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Studienlage zum Winterschlafbedarf ist eindeutig geklärt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt erste Hinweise, aber keine sichere Antwort."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Winter wird länger Melatonin ausgeschüttet.",
+        "Eine Studie deutet auf etwas mehr Schlaf im Winter hin.",
+        "Tageslicht am Vormittag macht wacher.",
+        "Dauerhafte Niedergeschlagenheit ärztlich abklären."
+      ]
+    }
+  ]
+}
