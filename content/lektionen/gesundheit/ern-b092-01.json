@@ -1,0 +1,125 @@
+{
+  "id": "ern-b092-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Auberginen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "auberginen",
+    "gemuese",
+    "nachtschatten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Glänzend violett und in der Mittelmeerküche beliebt.",
+        "Auberginen sind vielseitig, aber nicht für den rohen Verzehr gedacht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leicht, aber durstig auf Fett",
+      "absaetze": [
+        "Auberginen bestehen zum größten Teil aus Wasser. Sie liefern wenig Energie, dafür Ballaststoffe und etwas Kalium.",
+        "Ihr schwammiges Fruchtfleisch saugt beim Braten viel Öl auf. Im Ofen gegart oder gegrillt brauchst du deutlich weniger Fett."
+      ],
+      "merke": "Auberginen saugen beim Braten viel Öl auf.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Farbe in der Schale",
+      "absaetze": [
+        "Die violette Schale enthält Anthocyane. Das sind Pflanzenfarbstoffe, die zu den sekundären Pflanzenstoffen gehören.",
+        "Mitessen lohnt sich also. Die Schale wird beim Garen weich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besser gegart essen",
+      "absaetze": [
+        "Auberginen gehören wie Tomate und Kartoffel zu den Nachtschattengewächsen. Sie enthalten geringe Mengen Solanin, besonders wenn sie unreif sind.",
+        "Fachleute raten deshalb, Auberginen nicht roh zu essen. Früher wurden sie gesalzen, um Bitterstoffe zu entziehen. Moderne Sorten sind kaum noch bitter, das Salzen ist meist nicht mehr nötig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du bei Auberginen Fett sparen?",
+      "art": "mc",
+      "optionen": [
+        "Im Ofen garen oder grillen",
+        "In viel Öl frittieren",
+        "Roh essen",
+        "Mit Butter füllen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Braten saugen sie viel Öl auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt in der violetten Schale?",
+      "art": "mc",
+      "optionen": [
+        "Anthocyane",
+        "Koffein",
+        "Gluten",
+        "Laktose"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind Pflanzenfarbstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du Auberginen nicht roh essen?",
+      "art": "mc",
+      "optionen": [
+        "Sie enthalten etwas Solanin",
+        "Sie sind roh zu süß",
+        "Sie sind roh giftig grün",
+        "Sie zerfallen roh"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders unreife Früchte enthalten es."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Moderne Auberginen müssen fast nie gesalzen werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sind kaum noch bitter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Auberginen liefern wenig Energie und Ballaststoffe.",
+        "Beim Braten saugen sie viel Öl auf.",
+        "Die Schale enthält Anthocyane.",
+        "Iss Auberginen gegart, nicht roh."
+      ]
+    }
+  ]
+}

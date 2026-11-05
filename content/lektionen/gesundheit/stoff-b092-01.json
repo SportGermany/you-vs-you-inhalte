@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b092-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert, wenn dem Körper Wasser fehlt?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "dehydrierung",
+    "wasserhaushalt",
+    "trinken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Körper besteht zu mehr als der Hälfte aus Wasser.",
+        "Schon ein kleiner Mangel macht sich bemerkbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser hält alles am Laufen",
+      "absaetze": [
+        "Wasser transportiert Nährstoffe, reguliert die Körpertemperatur und hilft den Nieren, Abfallstoffe auszuscheiden.",
+        "Über Atem, Haut, Urin und Stuhl verlierst du ständig Wasser. Bei Hitze, Sport, Fieber, Durchfall oder Erbrechen ist es deutlich mehr."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erste Anzeichen",
+      "absaetze": [
+        "Durst ist das erste Signal. Hinzu kommen oft dunkler Urin, Kopfschmerzen, Müdigkeit und Konzentrationsprobleme.",
+        "Bei stärkerem Wassermangel können Schwindel, Herzrasen und Verwirrtheit auftreten. Dann ist schnelle Hilfe nötig."
+      ],
+      "merke": "Dunkler Urin und Kopfschmerzen können auf Wassermangel hinweisen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer besonders gefährdet ist",
+      "absaetze": [
+        "Ältere Menschen spüren Durst oft weniger stark. Sie trinken deshalb leicht zu wenig, besonders bei Hitze.",
+        "Babys und Kleinkinder verlieren bei Durchfall oder Erbrechen schnell viel Flüssigkeit. Hier helfen spezielle Elektrolytlösungen aus der Apotheke. Bei Anzeichen von Austrocknung solltest du rasch ärztlichen Rat einholen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das erste Signal bei Wassermangel?",
+      "art": "mc",
+      "optionen": [
+        "Durst",
+        "Hunger",
+        "Niesen",
+        "Gänsehaut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Später kommen Kopfschmerzen und Müdigkeit hinzu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer spürt Durst oft weniger stark?",
+      "art": "mc",
+      "optionen": [
+        "Ältere Menschen",
+        "Sportler",
+        "Jugendliche",
+        "Kinder im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie trinken deshalb leicht zu wenig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft Kleinkindern bei Durchfall?",
+      "art": "mc",
+      "optionen": [
+        "Spezielle Elektrolytlösungen aus der Apotheke",
+        "Cola und Salzstangen",
+        "Kaffee",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Anzeichen von Austrocknung zum Arzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Dunkler Urin kann ein Hinweis auf Wassermangel sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Heller Urin spricht für eine gute Versorgung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wasser transportiert Nährstoffe und reguliert die Temperatur.",
+        "Durst, dunkler Urin und Kopfschmerzen sind frühe Zeichen.",
+        "Ältere Menschen spüren Durst schwächer.",
+        "Kleinkinder sind bei Durchfall besonders gefährdet.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

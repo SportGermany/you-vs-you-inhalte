@@ -1,0 +1,121 @@
+{
+  "id": "geld-b092-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Lohnt sich ein Bankschließfach?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schliessfach",
+    "bank",
+    "wertsachen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schmuck, Goldmünzen oder wichtige Dokumente sicher verwahren.",
+        "Dafür mieten manche Menschen ein Schließfach bei der Bank."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie ein Schließfach funktioniert",
+      "absaetze": [
+        "Ein Bankschließfach ist ein abschließbares Fach im Tresorraum einer Bank. Du mietest es gegen eine jährliche Gebühr. Die Kosten hängen von der Größe ab.",
+        "Die Bank weiß nicht, was du hineinlegst. Öffnen kannst du das Fach meist nur mit deinem Schlüssel und einem Schlüssel oder Code der Bank."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht automatisch versichert",
+      "absaetze": [
+        "Viele denken, der Inhalt sei durch die Bank voll abgesichert. Das stimmt oft nicht. Banken versichern Schließfächer häufig nur bis zu einer bestimmten Summe.",
+        "Prüfe deshalb den Vertrag. Manchmal lässt sich der Schutz über die eigene Hausratversicherung erweitern. Bewahre eine Liste und Fotos der Gegenstände zu Hause auf."
+      ],
+      "merke": "Der Inhalt eines Schließfachs ist oft nur begrenzt versichert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Punkte",
+      "absaetze": [
+        "Viele Banken bieten immer weniger Schließfächer an, weil Filialen schließen. Teils gibt es Wartelisten.",
+        "Denke auch an den Ernstfall. Erteile einer Vertrauensperson eine Vollmacht für das Schließfach. Sonst brauchen Erben später oft einen Erbschein, um an den Inhalt zu kommen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Weiß die Bank, was in deinem Schließfach liegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer",
+        "Nur bei Gold",
+        "Nur bei Dokumenten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du bestimmst den Inhalt allein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist der Inhalt eines Schließfachs automatisch voll versichert?",
+      "art": "mc",
+      "optionen": [
+        "Nein, oft nur bis zu einer bestimmten Summe",
+        "Ja, immer unbegrenzt",
+        "Ja, durch den Staat",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Prüfe den Vertrag genau."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft Angehörigen im Ernstfall?",
+      "art": "mc",
+      "optionen": [
+        "Eine Vollmacht für das Schließfach",
+        "Ein Zweitschlüssel unter der Fußmatte",
+        "Gar nichts",
+        "Ein Brief an die Zeitung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst brauchen Erben oft einen Erbschein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Liste und Fotos der Gegenstände können im Schadensfall helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bewahre sie zu Hause auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Schließfach wird bei der Bank gemietet.",
+        "Die Bank kennt den Inhalt nicht.",
+        "Der Inhalt ist oft nur begrenzt versichert.",
+        "Eine Vollmacht erleichtert den Zugriff im Ernstfall."
+      ]
+    }
+  ]
+}

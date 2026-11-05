@@ -1,0 +1,121 @@
+{
+  "id": "koer-b092-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum tut der Musikantenknochen so weh?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "musikantenknochen",
+    "nerven",
+    "ellenbogen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleiner Stoß am Ellenbogen, und ein seltsames Kribbeln schießt bis in die Finger.",
+        "Schuld ist kein Knochen, sondern ein Nerv."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Nerv ohne Polster",
+      "absaetze": [
+        "Am Ellenbogen verläuft der Ellennerv, Fachleute sagen Nervus ulnaris. An einer Stelle liegt er nur unter der Haut, direkt auf dem Knochen.",
+        "Dort schützen ihn weder Muskeln noch Fett. Ein Stoß trifft den Nerv deshalb fast ungebremst."
+      ],
+      "merke": "Beim Musikantenknochen wird ein ungeschützter Nerv getroffen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es bis in die Finger kribbelt",
+      "absaetze": [
+        "Der Ellennerv versorgt den kleinen Finger und einen Teil des Ringfingers. Wird er gereizt, spürst du das Kribbeln genau dort, obwohl der Stoß am Ellenbogen war.",
+        "Das Gehirn ordnet das Signal dem Gebiet zu, aus dem der Nerv normalerweise Meldungen schickt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Harmlos, aber manchmal ein Hinweis",
+      "absaetze": [
+        "Der Schmerz vergeht meist nach wenigen Sekunden bis Minuten. Bleibende Schäden entstehen dabei normalerweise nicht.",
+        "Kribbeln oder Taubheit im kleinen Finger ohne Stoß, etwa nach langem Aufstützen, kann auf einen gereizten Nerv hinweisen. Hält das an, solltest du es abklären lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird beim Musikantenknochen getroffen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Nerv",
+        "Ein Knochen",
+        "Eine Sehne",
+        "Ein Muskel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist der Ellennerv."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Nerv dort so empfindlich?",
+      "art": "mc",
+      "optionen": [
+        "Er liegt fast ungeschützt unter der Haut",
+        "Er ist besonders dick",
+        "Er ist von Muskeln umgeben",
+        "Er ist gar kein Nerv"
+      ],
+      "richtig": 0,
+      "erklaerung": "Muskeln und Fett fehlen dort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo spürst du das Kribbeln oft?",
+      "art": "mc",
+      "optionen": [
+        "Im kleinen Finger und Ringfinger",
+        "Im Daumen",
+        "In den Zehen",
+        "Im Knie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Finger versorgt der Ellennerv."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Schmerz am Musikantenknochen vergeht meist schnell.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bleibende Schäden sind selten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Musikantenknochen ist ein Nerv, kein Knochen.",
+        "Der Ellennerv liegt dort ungeschützt.",
+        "Das Kribbeln zieht bis in den kleinen Finger.",
+        "Der Schmerz ist meist nach kurzer Zeit vorbei."
+      ]
+    }
+  ]
+}

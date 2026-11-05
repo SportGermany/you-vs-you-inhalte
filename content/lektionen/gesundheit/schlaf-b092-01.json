@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b092-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was hilft bei Wadenkrämpfen in der Nacht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "wadenkraempfe",
+    "naechtliche kraempfe",
+    "muskeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mitten in der Nacht zieht sich die Wade schmerzhaft zusammen.",
+        "Nächtliche Wadenkrämpfe sind häufig, vor allem im Alter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dahintersteckt",
+      "absaetze": [
+        "Bei einem Krampf zieht sich ein Muskel plötzlich und unwillkürlich zusammen. Nachts trifft es besonders oft die Wade. Ein Krampf dauert meist Sekunden bis wenige Minuten.",
+        "Oft lässt sich keine klare Ursache finden. Häufiger sind Krämpfe im Alter, in der Schwangerschaft, nach starker Belastung oder bei bestimmten Medikamenten, etwa manchen Entwässerungsmitteln."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Moment des Krampfs",
+      "absaetze": [
+        "Am schnellsten hilft Dehnen. Zieh die Zehen in Richtung Schienbein oder stell dich hin und belaste das Bein. Auch Massieren kann helfen.",
+        "Regelmäßiges, sanftes Dehnen der Waden vor dem Schlafengehen wird oft empfohlen. Die Studienlage dazu ist allerdings gemischt."
+      ],
+      "merke": "Dehnen der Wade löst einen Krampf oft am schnellsten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wenig bringt und wann zum Arzt",
+      "absaetze": [
+        "Magnesium wird oft gegen Krämpfe beworben. Studien deuten darauf hin, dass es bei älteren Menschen meist wenig hilft. In der Schwangerschaft ist die Lage weniger klar.",
+        "Treten Krämpfe sehr häufig auf, stören sie den Schlaf stark oder kommen Schwäche oder Taubheit dazu, solltest du ärztlich nachsehen lassen. Auch deine Medikamente lohnen einen Blick."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft im Moment eines Wadenkrampfs oft am schnellsten?",
+      "art": "mc",
+      "optionen": [
+        "Die Wade dehnen",
+        "Ein Glas Milch",
+        "Die Beine hochlegen und still liegen",
+        "Ein Mittagsschlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zieh die Zehen Richtung Schienbein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann treten Wadenkrämpfe häufiger auf?",
+      "art": "mc",
+      "optionen": [
+        "Im Alter und in der Schwangerschaft",
+        "Nur bei Kindern",
+        "Nur im Sommer",
+        "Nur bei Sportlern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft lässt sich keine klare Ursache finden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sagen Studien zu Magnesium bei älteren Menschen?",
+      "art": "mc",
+      "optionen": [
+        "Es hilft meist wenig",
+        "Es verhindert Krämpfe sicher",
+        "Es verursacht Krämpfe",
+        "Es gibt keine Studien"
+      ],
+      "richtig": 0,
+      "erklaerung": "In der Schwangerschaft ist die Lage weniger klar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Medikamente können Wadenkrämpfe begünstigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa manche Entwässerungsmittel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nächtliche Wadenkrämpfe sind häufig und meist harmlos.",
+        "Dehnen hilft im akuten Krampf.",
+        "Magnesium hilft älteren Menschen meist wenig.",
+        "Häufige oder auffällige Krämpfe ärztlich abklären."
+      ]
+    }
+  ]
+}

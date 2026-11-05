@@ -1,0 +1,121 @@
+{
+  "id": "tech-b092-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Föhn?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "foehn",
+    "haartrockner",
+    "elektrogeraete"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Warme Luft auf Knopfdruck, um die Haare zu trocknen.",
+        "Im Inneren arbeiten nur wenige Bauteile zusammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gebläse und Heizdraht",
+      "absaetze": [
+        "Ein kleiner Elektromotor treibt ein Gebläse an. Es saugt hinten Luft an und bläst sie vorne wieder hinaus.",
+        "Unterwegs strömt die Luft an einem Heizdraht vorbei. Fließt Strom durch den Draht, wird er heiß und erwärmt die Luft. Mit den Schaltern regelst du, wie schnell und wie warm sie strömt."
+      ],
+      "merke": "Im Föhn erwärmt ein Heizdraht die Luft eines Gebläses."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Haare trocknen",
+      "absaetze": [
+        "Warme, bewegte Luft lässt das Wasser in den Haaren schneller verdunsten. Die feuchte Luft wird dabei ständig weggeblasen.",
+        "Sehr heiße Luft kann die Haare aber austrocknen. Eine mittlere Stufe und etwas Abstand schonen das Haar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit im Bad",
+      "absaetze": [
+        "Ein Föhn hat einen Überhitzungsschutz. Wird es zu heiß, etwa weil das Ansaugsieb mit Staub verstopft ist, schaltet er ab.",
+        "Strom und Wasser sind gefährlich. Benutze den Föhn nie in der Nähe einer gefüllten Badewanne. Ein Fehlerstromschutzschalter im Bad kann im Notfall den Strom sofort abschalten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erwärmt im Föhn die Luft?",
+      "art": "mc",
+      "optionen": [
+        "Ein Heizdraht",
+        "Eine kleine Flamme",
+        "Ein Magnet",
+        "Eine Batterie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fließt Strom hindurch, wird er heiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum trocknen Haare mit warmer Luft schneller?",
+      "art": "mc",
+      "optionen": [
+        "Das Wasser verdunstet schneller",
+        "Die Haare saugen die Luft auf",
+        "Die Wärme färbt die Haare",
+        "Die Luft enthält Seife"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die feuchte Luft wird weggeblasen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei Überhitzung?",
+      "art": "mc",
+      "optionen": [
+        "Der Föhn schaltet ab",
+        "Er wird schneller",
+        "Er wird kälter",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Überhitzungsschutz greift."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Fehlerstromschutzschalter kann im Bad Leben retten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er schaltet den Strom bei einem Fehler sofort ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Gebläse saugt Luft an und bläst sie hinaus.",
+        "Ein Heizdraht erwärmt die Luft.",
+        "Ein Überhitzungsschutz schaltet bei Gefahr ab.",
+        "Föhn und Wasser niemals zusammenbringen."
+      ]
+    }
+  ]
+}
