@@ -1,0 +1,121 @@
+{
+  "id": "steu-b107-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie werden Kryptowährungen versteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kryptowaehrungen",
+    "bitcoin",
+    "spekulationsfrist"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bitcoin und andere Kryptowährungen sind für viele eine Geldanlage geworden.",
+        "Gewinne damit können steuerpflichtig sein. Es kommt vor allem auf die Haltedauer an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Jahr Haltefrist",
+      "absaetze": [
+        "Kryptowährungen gelten steuerlich nicht als Geld, sondern als Wirtschaftsgut. Verkaufst du sie mit Gewinn, ist das ein privates Veräußerungsgeschäft.",
+        "Hältst du sie länger als ein Jahr, ist der Gewinn steuerfrei. Verkaufst du früher, musst du den Gewinn mit deinem persönlichen Steuersatz versteuern."
+      ],
+      "merke": "Gewinne aus Kryptowährungen sind nach einem Jahr Haltedauer steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Freigrenze",
+      "absaetze": [
+        "Für alle privaten Veräußerungsgeschäfte zusammen gilt eine Freigrenze von 1.000 Euro im Jahr. Bleibt dein Gewinn darunter, fällt keine Steuer an.",
+        "Liegt er auch nur einen Euro darüber, ist der ganze Gewinn steuerpflichtig. Das ist der Unterschied zu einem Freibetrag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tauschen zählt auch",
+      "absaetze": [
+        "Auch der Tausch einer Kryptowährung in eine andere gilt als Verkauf. Bezahlst du mit Kryptowährung, kann das ebenfalls steuerpflichtig sein.",
+        "Halte deshalb alle Käufe und Verkäufe mit Datum und Preis fest. Viele Handelsplattformen bieten dafür Berichte an. Bei vielen Transaktionen lohnt sich Beratung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sind Gewinne aus Kryptowährungen steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Nach mehr als einem Jahr Haltedauer",
+        "Immer sofort",
+        "Nie",
+        "Nach einem Monat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man Haltefrist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Freigrenze für private Veräußerungsgeschäfte?",
+      "art": "mc",
+      "optionen": [
+        "1.000 Euro im Jahr",
+        "100 Euro im Jahr",
+        "10.000 Euro im Monat",
+        "Es gibt keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt für alle solchen Geschäfte zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gilt der Tausch einer Kryptowährung in eine andere als Verkauf?",
+      "art": "mc",
+      "optionen": [
+        "Ja",
+        "Nein, nie",
+        "Nur am Wochenende",
+        "Nur bei Bitcoin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb solltest du alles dokumentieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wird die Freigrenze überschritten, ist der ganze Gewinn steuerpflichtig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das unterscheidet eine Freigrenze von einem Freibetrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Krypto-Gewinne sind nach einem Jahr steuerfrei.",
+        "Davor gilt der persönliche Steuersatz.",
+        "Bis 1.000 Euro Gewinn im Jahr bleibt steuerfrei.",
+        "Auch Tauschen zählt, also alles dokumentieren."
+      ]
+    }
+  ]
+}

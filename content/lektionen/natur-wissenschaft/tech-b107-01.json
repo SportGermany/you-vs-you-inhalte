@@ -1,0 +1,121 @@
+{
+  "id": "tech-b107-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Beamer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "beamer",
+    "projektor",
+    "licht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit einem Beamer wird die Wohnzimmerwand zur Kinoleinwand.",
+        "Aber wie kommt ein so großes Bild aus einem kleinen Gerät?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine starke Lichtquelle",
+      "absaetze": [
+        "Jeder Beamer braucht eine sehr helle Lichtquelle. Früher waren das spezielle Lampen, heute oft LEDs oder Laser. Sie halten deutlich länger.",
+        "Die Helligkeit wird in Lumen angegeben. Je heller der Raum, desto mehr Lumen braucht der Beamer für ein gutes Bild."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Bild entsteht im Chip",
+      "absaetze": [
+        "Viele Beamer nutzen einen Chip mit Hunderttausenden winziger Spiegel. Jeder Spiegel steht für einen Bildpunkt und kippt viele Tausend Mal pro Sekunde, um Licht durchzulassen oder wegzulenken.",
+        "Andere Beamer arbeiten mit kleinen Flüssigkristall-Bildschirmen, die das Licht durchlassen oder abblocken. Farben entstehen durch rote, grüne und blaue Anteile."
+      ],
+      "merke": "Ein Chip mit winzigen Spiegeln oder Flüssigkristallen formt das Bild."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vergrößern mit der Linse",
+      "absaetze": [
+        "Zum Schluss vergrößert ein Objektiv das kleine Bild und wirft es an die Wand. Mit dem Fokus stellst du es scharf.",
+        "Weil das Licht nur reflektiert wird, wirken Beamerbilder in hellen Räumen blass. Eine glatte, helle Fläche und ein abgedunkelter Raum verbessern das Bild deutlich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Einheit wird die Helligkeit eines Beamers angegeben?",
+      "art": "mc",
+      "optionen": [
+        "Lumen",
+        "Watt",
+        "Hertz",
+        "Dezibel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Helle Räume brauchen mehr Lumen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt in vielen Beamern?",
+      "art": "mc",
+      "optionen": [
+        "Ein Chip mit winzigen kippenden Spiegeln",
+        "Ein Filmstreifen",
+        "Eine Kerze",
+        "Ein Röhrenfernseher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder Spiegel steht für einen Bildpunkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was vergrößert das Bild?",
+      "art": "mc",
+      "optionen": [
+        "Das Objektiv",
+        "Der Lautsprecher",
+        "Das Netzteil",
+        "Die Fernbedienung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit dem Fokus stellst du es scharf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein abgedunkelter Raum verbessert das Beamerbild.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In hellen Räumen wirkt das Bild blass."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beamer brauchen eine sehr helle Lichtquelle.",
+        "Ein Spiegel- oder Flüssigkristall-Chip formt das Bild.",
+        "Ein Objektiv vergrößert es an die Wand.",
+        "Dunkle Räume machen das Bild besser."
+      ]
+    }
+  ]
+}

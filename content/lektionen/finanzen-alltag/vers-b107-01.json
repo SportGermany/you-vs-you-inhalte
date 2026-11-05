@@ -1,0 +1,121 @@
+{
+  "id": "vers-b107-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wann darf der Vermieter deine Wohnung betreten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vermieter",
+    "wohnung betreten",
+    "mietrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Es klingelt, und der Vermieter will mal eben in die Wohnung schauen.",
+        "Musst du ihn hereinlassen? Nicht einfach so."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Deine Wohnung, dein Hausrecht",
+      "absaetze": [
+        "Mit dem Mietvertrag überlässt der Vermieter dir die Wohnung. Du hast dort das Hausrecht. Ein allgemeines Recht, die Wohnung jederzeit zu betreten, hat er nicht.",
+        "Er darf auch keinen Zweitschlüssel benutzen, um ohne dein Wissen hineinzugehen. Das wäre Hausfriedensbruch. Ausnahmen gelten nur in echten Notfällen, etwa bei einem Wasserrohrbruch."
+      ],
+      "merke": "Der Vermieter darf die Wohnung nicht einfach so betreten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann er hineindarf",
+      "absaetze": [
+        "Mit einem konkreten Anlass darf der Vermieter die Wohnung besichtigen. Dazu zählen nötige Reparaturen, das Ablesen von Zählern oder die Besichtigung durch Kaufinteressenten oder Nachmieter.",
+        "Er muss den Termin rechtzeitig vorher ankündigen, meist einige Tage. Der Besuch sollte zu üblichen Zeiten stattfinden und nicht zu lange dauern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fair miteinander umgehen",
+      "absaetze": [
+        "Passt dir ein Termin nicht, schlag einen anderen vor. Du darfst den Besuch nicht grundlos dauerhaft verweigern.",
+        "Halte Absprachen am besten schriftlich fest. Bei Streit können der Mieterverein oder die Verbraucherzentrale beraten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Darf der Vermieter jederzeit in deine Wohnung?",
+      "art": "mc",
+      "optionen": [
+        "Nein, nur mit Anlass und Ankündigung",
+        "Ja, immer",
+        "Nur nachts",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du hast in der Wohnung das Hausrecht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann darf der Vermieter einen Zweitschlüssel benutzen?",
+      "art": "mc",
+      "optionen": [
+        "Nur in echten Notfällen",
+        "Jederzeit",
+        "Wenn er neugierig ist",
+        "Jeden Montag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei einem Wasserrohrbruch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Anlass berechtigt zu einer Besichtigung?",
+      "art": "mc",
+      "optionen": [
+        "Eine nötige Reparatur",
+        "Reine Neugier",
+        "Eine Party des Vermieters",
+        "Ein Gespräch über das Wetter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Zählerablesen und Nachmieter zählen dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du darfst einen begründeten Besuch nicht grundlos dauerhaft verweigern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Schlag notfalls einen anderen Termin vor."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Vermieter hat kein allgemeines Betretungsrecht.",
+        "Er braucht einen konkreten Anlass.",
+        "Besuche müssen rechtzeitig angekündigt werden.",
+        "Zweitschlüssel nur im echten Notfall."
+      ]
+    }
+  ]
+}

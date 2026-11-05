@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b107-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schlafen Menschen mit Demenz oft unruhig?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Demenz und Schlaf",
+      "herausgeber": "Deutsche Alzheimer Gesellschaft",
+      "url": "https://www.deutsche-alzheimer.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "demenz",
+    "innere uhr",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachts wach, tagsüber müde: Viele Menschen mit Demenz haben einen gestörten Schlaf.",
+        "Für sie und ihre Angehörigen ist das sehr belastend."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die innere Uhr gerät aus dem Takt",
+      "absaetze": [
+        "Bei einer Demenz werden auch Bereiche im Gehirn geschädigt, die den Schlaf-Wach-Rhythmus steuern. Tag und Nacht verschwimmen dann.",
+        "Hinzu kommt, dass viele Betroffene tagsüber wenig Licht und Bewegung bekommen. Lange Nickerchen am Tag verringern den Schlafdruck in der Nacht."
+      ],
+      "merke": "Bei Demenz gerät die innere Uhr oft aus dem Takt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unruhe am Abend",
+      "absaetze": [
+        "Manche Menschen mit Demenz werden am späten Nachmittag oder Abend besonders unruhig oder ängstlich. Fachleute nennen das Sundowning, nach dem englischen Wort für Sonnenuntergang.",
+        "Sie laufen dann umher, suchen etwas oder wollen nach Hause, obwohl sie dort sind. Erschöpfung und nachlassendes Licht können das verstärken."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Viel Tageslicht, Bewegung und feste Abläufe stärken den Rhythmus. Lange Mittagsschläfe sollten vermieden werden. Am Abend helfen Ruhe und gedämpftes Licht.",
+        "Schlafmittel können die Verwirrtheit und das Sturzrisiko erhöhen. Sie sollten nur nach sorgfältiger ärztlicher Prüfung eingesetzt werden. Angehörige finden Rat bei Beratungsstellen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Schlaf bei Demenz oft gestört?",
+      "art": "mc",
+      "optionen": [
+        "Die Steuerung des Schlaf-Wach-Rhythmus im Gehirn ist geschädigt",
+        "Weil die Betten zu weich sind",
+        "Weil Demenz ansteckend ist",
+        "Weil sie zu viel Licht bekommen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tag und Nacht verschwimmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Sundowning?",
+      "art": "mc",
+      "optionen": [
+        "Unruhe am späten Nachmittag oder Abend",
+        "Schlafen in der Sonne",
+        "Früh aufstehen",
+        "Ein Sonnenbrand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Wort kommt vom englischen Begriff für Sonnenuntergang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stärkt den Schlaf-Wach-Rhythmus?",
+      "art": "mc",
+      "optionen": [
+        "Tageslicht, Bewegung und feste Abläufe",
+        "Lange Mittagsschläfe",
+        "Helles Licht am späten Abend",
+        "Ständig wechselnde Zeiten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Abends helfen dagegen Ruhe und gedämpftes Licht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlafmittel sind bei Demenz immer unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie können Verwirrtheit und Sturzrisiko erhöhen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Demenz stört oft die innere Uhr.",
+        "Abends werden manche Betroffene unruhig.",
+        "Tageslicht, Bewegung und Routinen helfen.",
+        "Schlafmittel nur nach ärztlicher Prüfung."
+      ]
+    }
+  ]
+}

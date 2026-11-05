@@ -1,0 +1,121 @@
+{
+  "id": "geld-b107-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind CFDs?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Risiken bei Finanzprodukten",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "cfd",
+    "hebel",
+    "spekulation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Werbeanzeigen versprechen Handelsplattformen schnelle Gewinne mit CFDs.",
+        "Die meisten Privatanleger verlieren damit aber Geld."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Wette auf Kursbewegungen",
+      "absaetze": [
+        "CFD steht für Contract for Difference, auf Deutsch Differenzkontrakt. Damit wettest du auf steigende oder fallende Kurse, etwa von Aktien, Währungen oder Rohstoffen.",
+        "Du besitzt dabei nicht die Aktie oder den Rohstoff selbst. Du bekommst oder zahlst nur die Differenz zwischen Kauf- und Verkaufskurs."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der gefährliche Hebel",
+      "absaetze": [
+        "CFDs arbeiten mit einem Hebel. Du zahlst nur einen kleinen Teil des Betrags ein, bewegst aber eine viel größere Summe. Kleine Kursänderungen führen so zu großen Gewinnen oder Verlusten.",
+        "Anbieter müssen offenlegen, wie viele ihrer Privatkunden Geld verlieren. Meist sind es deutlich mehr als die Hälfte, oft rund drei Viertel."
+      ],
+      "merke": "Bei CFDs verlieren die meisten Privatanleger Geld."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutzregeln",
+      "absaetze": [
+        "Seit einigen Jahren gelten in der EU strenge Regeln. Der Hebel für Privatkunden ist begrenzt. Außerdem darfst du nicht mehr verlieren, als auf deinem Konto liegt.",
+        "Trotzdem sind CFDs für die Geldanlage ungeeignet. Sie sind eher ein Glücksspiel als ein Weg zum Vermögensaufbau."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein CFD?",
+      "art": "mc",
+      "optionen": [
+        "Eine Wette auf Kursbewegungen",
+        "Ein Sparbuch",
+        "Eine Versicherung",
+        "Ein Kredit für ein Haus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du besitzt das Wertpapier selbst nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt der Hebel?",
+      "art": "mc",
+      "optionen": [
+        "Kleine Kursänderungen führen zu großen Gewinnen oder Verlusten",
+        "Er schützt vor Verlusten",
+        "Er senkt die Gebühren",
+        "Er macht CFDs sicher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du bewegst viel mehr Geld, als du einzahlst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Privatkunden verlieren mit CFDs meist Geld?",
+      "art": "mc",
+      "optionen": [
+        "Deutlich mehr als die Hälfte",
+        "Fast niemand",
+        "Genau zehn Prozent",
+        "Alle gewinnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Anbieter müssen das offenlegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Privatkunden dürfen bei CFDs heute nicht mehr verlieren, als auf ihrem Konto liegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das schreiben EU-Regeln vor."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "CFDs sind Wetten auf Kursbewegungen.",
+        "Der Hebel vergrößert Gewinne und Verluste.",
+        "Die meisten Privatkunden verlieren Geld.",
+        "Für die Geldanlage sind sie ungeeignet."
+      ]
+    }
+  ]
+}

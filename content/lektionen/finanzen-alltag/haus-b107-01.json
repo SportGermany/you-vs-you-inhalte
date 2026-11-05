@@ -1,0 +1,121 @@
+{
+  "id": "haus-b107-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Trinkflaschen richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "trinkflasche",
+    "hygiene",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wiederverwendbare Trinkflaschen sind praktisch und sparen Müll.",
+        "Werden sie nicht richtig gereinigt, können sich darin aber schnell Keime vermehren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Täglich ausspülen",
+      "absaetze": [
+        "Spüle deine Flasche jeden Tag mit warmem Wasser und etwas Spülmittel aus. Vor allem, wenn du Saft, Tee oder Schorle darin hattest.",
+        "Eine Flaschenbürste erreicht auch Boden und Ränder. Vergiss den Deckel nicht. In Trinkverschlüssen und Dichtungen sammeln sich besonders gern Reste."
+      ],
+      "merke": "Spüle Trinkflaschen täglich mit Spülmittel und Flaschenbürste."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut trocknen lassen",
+      "absaetze": [
+        "Keime lieben Feuchtigkeit. Lass die Flasche nach dem Spülen offen und kopfüber trocknen. Schraub den Deckel erst wieder auf, wenn alles trocken ist.",
+        "Nimm Deckel und Mundstück, wenn möglich, auseinander. Prüfe, ob die Flasche spülmaschinenfest ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gegen Geruch und Beläge",
+      "absaetze": [
+        "Riecht die Flasche muffig, hilft Einweichen mit etwas Natron oder Essig in warmem Wasser. Danach gründlich nachspülen.",
+        "Flaschen aus Edelstahl oder Glas lassen sich am leichtesten reinigen. Kunststoff bekommt mit der Zeit Kratzer, in denen sich Keime festsetzen können. Tausche stark verkratzte Flaschen aus."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du eine Trinkflasche ausspülen?",
+      "art": "mc",
+      "optionen": [
+        "Täglich",
+        "Einmal im Monat",
+        "Nie",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem nach Saft oder Tee."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie trocknet die Flasche am besten?",
+      "art": "mc",
+      "optionen": [
+        "Offen und kopfüber",
+        "Verschlossen im Schrank",
+        "In der Sonne mit Deckel",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Keime lieben Feuchtigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen muffigen Geruch?",
+      "art": "mc",
+      "optionen": [
+        "Einweichen mit Natron oder Essig",
+        "Parfüm",
+        "Zucker",
+        "Salzwasser trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gründlich nachspülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Flaschen aus Edelstahl oder Glas lassen sich am leichtesten reinigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Kunststoff bekommt leicht Kratzer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Trinkflaschen täglich spülen.",
+        "Deckel und Mundstück nicht vergessen.",
+        "Offen trocknen lassen.",
+        "Stark verkratzte Plastikflaschen austauschen."
+      ]
+    }
+  ]
+}
