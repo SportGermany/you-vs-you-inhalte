@@ -1,0 +1,121 @@
+{
+  "id": "steu-b094-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist der Verpflegungsmehraufwand?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "verpflegungsmehraufwand",
+    "dienstreise",
+    "werbungskosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf Dienstreisen musst du oft auswärts essen, und das kostet mehr als zu Hause.",
+        "Dafür gibt es steuerliche Pauschalen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür die Pauschale gilt",
+      "absaetze": [
+        "Bist du beruflich längere Zeit außerhalb deiner Wohnung und deiner ersten Arbeitsstätte unterwegs, kannst du einen Verpflegungsmehraufwand geltend machen. Das ist eine Pauschale für die höheren Kosten beim Essen.",
+        "Belege brauchst du dafür nicht. Entscheidend ist, wie lange du unterwegs warst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Beträge im Inland",
+      "absaetze": [
+        "Bist du mehr als acht Stunden unterwegs, gibt es derzeit 14 Euro pro Tag. Für einen vollen Tag von 24 Stunden sind es 28 Euro. Für An- und Abreisetage bei mehrtägigen Reisen gibt es je 14 Euro.",
+        "Zahlt der Arbeitgeber die Pauschale nicht steuerfrei aus, kannst du sie als Werbungskosten in der Steuererklärung angeben."
+      ],
+      "merke": "Ab acht Stunden auswärts gibt es 14 Euro, für volle Tage 28 Euro."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie kürzt",
+      "absaetze": [
+        "Bekommst du auf der Reise Mahlzeiten gestellt, etwa ein Frühstück im Hotel, wird die Pauschale gekürzt.",
+        "Für Reisen ins Ausland gelten eigene Sätze je nach Land. Bist du länger als drei Monate am selben auswärtigen Ort tätig, gibt es die Pauschale dort meist nicht mehr."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Pauschale gibt es bei mehr als acht Stunden auswärts?",
+      "art": "mc",
+      "optionen": [
+        "14 Euro",
+        "28 Euro",
+        "5 Euro",
+        "50 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für volle Tage sind es 28 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brauchst du für den Verpflegungsmehraufwand Belege?",
+      "art": "mc",
+      "optionen": [
+        "Nein, es ist eine Pauschale",
+        "Ja, alle Kassenzettel",
+        "Nur für Getränke",
+        "Nur bei Auslandsreisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Entscheidend ist die Dauer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird die Pauschale gekürzt?",
+      "art": "mc",
+      "optionen": [
+        "Wenn Mahlzeiten gestellt werden",
+        "Wenn es regnet",
+        "Bei Zugfahrten",
+        "Bei kurzen Telefonaten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei einem Hotelfrühstück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Auslandsreisen gelten eigene Sätze.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie unterscheiden sich je nach Land."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Verpflegungsmehraufwand gilt für berufliche Abwesenheit.",
+        "Ab acht Stunden gibt es 14 Euro, für volle Tage 28 Euro.",
+        "Gestellte Mahlzeiten kürzen die Pauschale.",
+        "Nicht erstattete Beträge sind Werbungskosten."
+      ]
+    }
+  ]
+}

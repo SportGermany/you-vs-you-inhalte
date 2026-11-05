@@ -1,0 +1,127 @@
+{
+  "id": "vers-b094-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt, wenn du einen fremden Schlüssel verlierst?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Haftpflichtversicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schluesselverlust",
+    "haftpflicht",
+    "schliessanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Büroschlüssel ist weg, oder der Schlüssel zur Mietwohnung.",
+        "Das kann richtig teuer werden, wenn eine ganze Schließanlage getauscht werden muss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teure Schließanlagen",
+      "absaetze": [
+        "In Mehrfamilienhäusern oder Firmen öffnet ein Schlüssel oft mehrere Türen. Geht er verloren, verlangt der Eigentümer manchmal, die ganze Schließanlage auszutauschen.",
+        "Das kann mehrere tausend Euro kosten. Als Verlierer kannst du dafür haften."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Haftpflicht zahlt",
+      "absaetze": [
+        "Viele private Haftpflichtversicherungen zahlen für den Verlust fremder privater Schlüssel, etwa vom Vermieter. Für dienstliche Schlüssel braucht es oft einen ausdrücklichen Zusatz.",
+        "Wichtig sind die Höchstsummen im Vertrag. Bei älteren Verträgen fehlt der Schlüsselverlust manchmal ganz. Prüfe deshalb deine Bedingungen."
+      ],
+      "merke": "Ob Schlüsselverlust versichert ist, steht in deinem Haftpflichtvertrag."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und der eigene Schlüssel?",
+      "absaetze": [
+        "Verlierst du deinen eigenen Wohnungsschlüssel, zahlt die Haftpflicht nicht. Ein neues Schloss trägst du in der Regel selbst.",
+        "Wurde der Schlüssel bei einem Einbruch oder Raub gestohlen, kann die Hausratversicherung das Schloss ersetzen. Häng nie einen Anhänger mit deiner Adresse an den Schlüsselbund."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann ein verlorener Schlüssel teuer werden?",
+      "art": "mc",
+      "optionen": [
+        "Weil manchmal eine ganze Schließanlage getauscht werden muss",
+        "Weil Schlüssel aus Gold sind",
+        "Weil die Polizei Gebühren nimmt",
+        "Weil er nicht ersetzt werden kann"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann mehrere tausend Euro kosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt oft für verlorene fremde Schlüssel?",
+      "art": "mc",
+      "optionen": [
+        "Die private Haftpflicht",
+        "Die Krankenversicherung",
+        "Die Kfz-Versicherung",
+        "Die Rentenversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Dienstschlüssel braucht es oft einen Zusatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nie an den Schlüsselbund hängen?",
+      "art": "mc",
+      "optionen": [
+        "Einen Anhänger mit deiner Adresse",
+        "Einen Einkaufswagenchip",
+        "Einen kleinen Glücksbringer",
+        "Einen Flaschenöffner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst wissen Finder, wohin der Schlüssel passt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Den Verlust deines eigenen Wohnungsschlüssels zahlt die Haftpflicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Haftpflicht zahlt nur Schäden bei anderen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein verlorener Schlüssel kann eine teure Schließanlage betreffen.",
+        "Viele Haftpflichtverträge zahlen für fremde private Schlüssel.",
+        "Dienstschlüssel brauchen oft einen Zusatz.",
+        "Eigene Schlüssel zahlt die Haftpflicht nicht."
+      ]
+    }
+  ]
+}

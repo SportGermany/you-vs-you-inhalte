@@ -1,0 +1,121 @@
+{
+  "id": "tech-b094-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Fernglas?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fernglas",
+    "optik",
+    "prismen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vögel beobachten, Berge erkunden, Sterne ansehen.",
+        "Ein Fernglas holt die Ferne näher heran."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Fernrohre nebeneinander",
+      "absaetze": [
+        "Ein Fernglas besteht aus zwei kleinen Fernrohren, eins für jedes Auge. Vorne sammelt eine große Linse, das Objektiv, das Licht. Hinten vergrößert das Okular das Bild.",
+        "Dazwischen sitzen Prismen. Das sind geschliffene Glaskörper, die das Licht umlenken. Sie drehen das sonst auf dem Kopf stehende Bild richtig herum und machen das Fernglas kürzer."
+      ],
+      "merke": "Prismen drehen das Bild richtig herum und verkürzen das Fernglas."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Zahlen bedeuten",
+      "absaetze": [
+        "Auf Ferngläsern steht zum Beispiel 8 x 42. Die erste Zahl ist die Vergrößerung: Alles erscheint achtmal näher. Die zweite Zahl ist der Durchmesser der Objektivlinse in Millimetern.",
+        "Je größer das Objektiv, desto mehr Licht fängt es ein. Das hilft in der Dämmerung, macht das Fernglas aber schwerer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr ist nicht immer besser",
+      "absaetze": [
+        "Eine starke Vergrößerung klingt verlockend. Doch jedes Zittern der Hände wird mitvergrößert, und das Bild wackelt.",
+        "Für den Alltag gelten 8- bis 10-fache Vergrößerungen als guter Kompromiss. Für stärkere Gläser ist ein Stativ hilfreich. Schau niemals mit einem Fernglas in die Sonne."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet die 8 bei einem Fernglas 8 x 42?",
+      "art": "mc",
+      "optionen": [
+        "Die Vergrößerung",
+        "Das Gewicht",
+        "Den Preis",
+        "Die Zahl der Linsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alles erscheint achtmal näher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet die 42?",
+      "art": "mc",
+      "optionen": [
+        "Den Objektivdurchmesser in Millimetern",
+        "Die Reichweite in Kilometern",
+        "Das Gewicht in Gramm",
+        "Das Baujahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Größere Objektive fangen mehr Licht ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen die Prismen?",
+      "art": "mc",
+      "optionen": [
+        "Sie drehen das Bild richtig herum",
+        "Sie färben das Bild",
+        "Sie messen die Entfernung",
+        "Sie speichern Bilder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Außerdem machen sie das Fernglas kürzer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du darfst mit einem Fernglas niemals in die Sonne schauen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das kann die Augen schwer schädigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Fernglas besteht aus zwei kleinen Fernrohren.",
+        "Prismen drehen das Bild und verkürzen die Bauform.",
+        "Die Zahlen nennen Vergrößerung und Objektivgröße.",
+        "Zu starke Vergrößerung lässt das Bild wackeln."
+      ]
+    }
+  ]
+}

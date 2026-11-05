@@ -1,0 +1,147 @@
+{
+  "id": "gew-b094-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie wird eine Datensicherung zur Gewohnheit?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Datensicherung",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "backup",
+    "datensicherung",
+    "routine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fotos, Dokumente, Erinnerungen: Vieles existiert nur noch digital.",
+        "Ein defektes Handy oder ein Virus, und alles kann weg sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Sicherungen wichtig sind",
+      "absaetze": [
+        "Festplatten können kaputtgehen, Geräte gestohlen werden, Schadsoftware kann Daten verschlüsseln. Ohne Sicherung sind die Daten dann oft verloren.",
+        "Viele Menschen wissen das, sichern aber trotzdem selten. Das liegt nicht an fehlendem Wissen, sondern an fehlender Routine."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die 3-2-1-Regel",
+      "absaetze": [
+        "Eine bewährte Faustregel lautet 3-2-1: Halte drei Kopien deiner wichtigen Daten. Speichere sie auf zwei verschiedenen Medien, etwa Computer und externe Festplatte. Bewahre eine Kopie an einem anderen Ort auf, etwa in einer Cloud oder bei Angehörigen.",
+        "So überstehen deine Daten auch einen Brand oder Diebstahl."
+      ],
+      "merke": "Drei Kopien, zwei Medien, eine außer Haus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Automatisch ist am besten",
+      "absaetze": [
+        "Die zuverlässigste Gewohnheit ist eine, an die du nicht denken musst. Richte automatische Sicherungen ein, wo es geht, etwa für Fotos auf dem Handy.",
+        "Für manuelle Sicherungen hilft ein fester Termin, zum Beispiel am ersten Sonntag im Monat, mit Erinnerung im Kalender. Prüfe ab und zu, ob sich gesicherte Dateien auch wirklich öffnen lassen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So richtest du es ein",
+      "schritte": [
+        {
+          "titel": "Wichtiges festlegen",
+          "text": "Überlege, welche Daten du auf keinen Fall verlieren willst."
+        },
+        {
+          "titel": "Automatisieren",
+          "text": "Aktiviere automatische Sicherungen für Handy und Computer."
+        },
+        {
+          "titel": "Zweites Medium",
+          "text": "Sichere zusätzlich auf eine externe Festplatte."
+        },
+        {
+          "titel": "Fester Termin",
+          "text": "Trage dir einen monatlichen Sicherungstermin in den Kalender ein."
+        },
+        {
+          "titel": "Testen",
+          "text": "Öffne ab und zu eine gesicherte Datei zur Probe."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht die 3-2-1-Regel?",
+      "art": "mc",
+      "optionen": [
+        "Drei Kopien, zwei Medien, eine außer Haus",
+        "Drei Passwörter, zwei Geräte, ein Konto",
+        "Drei Tage, zwei Wochen, ein Monat",
+        "Drei Fotos pro Tag"
+      ],
+      "richtig": 0,
+      "erklaerung": "So überstehen Daten auch Brand oder Diebstahl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sichern viele Menschen zu selten?",
+      "art": "mc",
+      "optionen": [
+        "Es fehlt die Routine",
+        "Es ist verboten",
+        "Es ist immer teuer",
+        "Es geht technisch nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am Wissen liegt es meist nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die zuverlässigste Form der Sicherung?",
+      "art": "mc",
+      "optionen": [
+        "Eine automatische Sicherung",
+        "Gar keine",
+        "Alles auszudrucken",
+        "Ein einziger USB-Stick in der Tasche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daran musst du nicht denken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist sinnvoll, gesicherte Dateien gelegentlich zur Probe zu öffnen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So merkst du, ob die Sicherung funktioniert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ohne Sicherung können Daten unwiederbringlich verloren gehen.",
+        "Die 3-2-1-Regel schützt gut.",
+        "Automatische Sicherungen sind am zuverlässigsten.",
+        "Ein fester Termin und Tests helfen beim Dranbleiben."
+      ]
+    }
+  ]
+}

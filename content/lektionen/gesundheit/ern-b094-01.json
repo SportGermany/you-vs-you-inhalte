@@ -1,0 +1,130 @@
+{
+  "id": "ern-b094-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Kirschen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kirschen",
+    "obst",
+    "sommer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Frühsommer leuchten sie rot an den Bäumen.",
+        "Kirschen sind beliebt, und um sie ranken sich einige alte Warnungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Süß oder sauer",
+      "absaetze": [
+        "Man unterscheidet Süßkirschen und Sauerkirschen. Süßkirschen werden meist roh gegessen. Sauerkirschen landen eher in Kuchen, Kompott oder Saft.",
+        "Die dunkle Farbe stammt von Anthocyanen, roten bis violetten Pflanzenfarbstoffen. Dazu liefern Kirschen Kalium, Vitamin C und Ballaststoffe."
+      ],
+      "merke": "Kirschen liefern Anthocyane, Kalium und Vitamin C.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ist mit den Kernen?",
+      "absaetze": [
+        "Kirschkerne enthalten Amygdalin. Daraus kann im Körper Blausäure entstehen. Ein verschluckter ganzer Kern ist aber harmlos, weil die harte Schale ihn unverdaut wieder ausscheiden lässt.",
+        "Zerbeißen solltest du Kirschkerne dagegen nicht, besonders nicht in größerer Menge."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frisch genießen",
+      "absaetze": [
+        "Kirschen reifen nach der Ernte nicht nach. Kaufe sie deshalb reif, mit frischem, grünem Stiel.",
+        "Im Kühlschrank halten sie sich ein paar Tage. Wasche sie erst kurz vor dem Essen und lass den Stiel bis dahin dran, sonst verderben sie schneller."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Nach Kirschen darf man kein Wasser trinken.",
+      "urteil": "teils",
+      "erklaerung": "Die Warnung stammt aus Zeiten, in denen Trinkwasser oft verunreinigt war. Heute ist Wasser nach Kirschen in der Regel unproblematisch. Empfindliche Menschen können aber Blähungen bekommen, wenn sie viele Kirschen essen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kirschen werden meist roh gegessen?",
+      "art": "mc",
+      "optionen": [
+        "Süßkirschen",
+        "Sauerkirschen",
+        "Kirschkerne",
+        "Kirschblätter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sauerkirschen landen eher im Kuchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit einem verschluckten ganzen Kirschkern?",
+      "art": "mc",
+      "optionen": [
+        "Er wird meist unverdaut ausgeschieden",
+        "Er keimt im Magen",
+        "Er löst sich sofort auf",
+        "Er bleibt für immer im Körper"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die harte Schale schützt den Inhalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reifen Kirschen nach der Ernte nach?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, stark",
+        "Nur im Kühlschrank",
+        "Nur im Dunkeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kaufe sie deshalb reif."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kirschkerne solltest du nicht zerbeißen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie enthalten Amygdalin."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Es gibt Süß- und Sauerkirschen.",
+        "Kirschen liefern Anthocyane, Kalium und Vitamin C.",
+        "Verschluckte ganze Kerne sind harmlos, zerbeißen solltest du sie nicht.",
+        "Kirschen reifen nicht nach."
+      ]
+    }
+  ]
+}

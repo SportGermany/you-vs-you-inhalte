@@ -1,0 +1,121 @@
+{
+  "id": "all-b094-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was sind Neutrinos?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Teilchen aus dem All",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "neutrinos",
+    "teilchen",
+    "sonne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In jeder Sekunde fliegen Milliarden winziger Teilchen durch deinen Körper.",
+        "Du merkst nichts davon. Es sind Neutrinos."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geisterteilchen",
+      "absaetze": [
+        "Neutrinos sind winzige Elementarteilchen ohne elektrische Ladung und mit extrem geringer Masse. Sie reagieren kaum mit anderer Materie.",
+        "Deshalb fliegen sie fast ungehindert durch alles hindurch, durch Menschen, Häuser und sogar die ganze Erde. Man nennt sie auch Geisterteilchen."
+      ],
+      "merke": "Neutrinos fliegen fast ungehindert durch Materie hindurch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher sie kommen",
+      "absaetze": [
+        "Die meisten Neutrinos, die uns erreichen, stammen aus der Sonne. Sie entstehen bei der Kernfusion in ihrem Inneren. Auch Supernovae, Kernkraftwerke und die Atmosphäre erzeugen Neutrinos.",
+        "Der Physiker Wolfgang Pauli sagte ihre Existenz 1930 voraus. Erst 1956 gelang es, sie nachzuweisen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Riesige Detektoren",
+      "absaetze": [
+        "Weil Neutrinos so selten mit Materie reagieren, braucht man riesige Detektoren, um ein paar von ihnen zu erwischen. Einer der größten, IceCube, nutzt einen Kubikkilometer Eis in der Antarktis.",
+        "Neutrinos verraten Forschenden, was im Inneren der Sonne und bei Sternexplosionen vor sich geht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum nennt man Neutrinos Geisterteilchen?",
+      "art": "mc",
+      "optionen": [
+        "Sie fliegen fast ungehindert durch Materie",
+        "Sie leuchten nachts",
+        "Sie sind gefährlich",
+        "Sie existieren nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie reagieren kaum mit anderer Materie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen die meisten Neutrinos, die uns erreichen?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Sonne",
+        "Aus dem Mond",
+        "Aus Handys",
+        "Aus dem Meer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie entstehen bei der Kernfusion."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sagte Neutrinos 1930 voraus?",
+      "art": "mc",
+      "optionen": [
+        "Wolfgang Pauli",
+        "Albert Einstein",
+        "Marie Curie",
+        "Isaac Newton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nachgewiesen wurden sie erst 1956."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Neutrino-Detektor IceCube liegt in der Antarktis.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er nutzt einen Kubikkilometer Eis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Neutrinos sind winzige, fast masselose Teilchen.",
+        "Sie fliegen fast ungehindert durch alles hindurch.",
+        "Die meisten stammen aus der Sonne.",
+        "Riesige Detektoren wie IceCube spüren sie auf."
+      ]
+    }
+  ]
+}
