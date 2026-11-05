@@ -1,0 +1,121 @@
+{
+  "id": "steu-b096-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ändert sich steuerlich bei einer Trennung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "trennung",
+    "steuerklasse",
+    "ehegattensplitting"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Trennung bringt viele Veränderungen mit sich.",
+        "Auch bei der Steuer gibt es einiges zu beachten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Trennungsjahr",
+      "absaetze": [
+        "Für das Jahr, in dem sich ein Ehepaar trennt, können beide noch gemeinsam veranlagt werden. Sie profitieren dann ein letztes Mal vom Ehegattensplitting.",
+        "Voraussetzung ist, dass sie in diesem Jahr zumindest zeitweise noch nicht dauernd getrennt gelebt haben."
+      ],
+      "merke": "Im Jahr der Trennung ist die gemeinsame Veranlagung noch möglich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neue Steuerklassen",
+      "absaetze": [
+        "Ab dem Jahr nach der Trennung wird jeder einzeln besteuert. Die Steuerklassen III, IV oder V passen dann nicht mehr. Meist gilt Steuerklasse I, für Alleinerziehende mit Kind oft Steuerklasse II.",
+        "Die Änderung muss beim Finanzamt beantragt werden. Wer das versäumt, muss mit Nachzahlungen rechnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterhalt und Beratung",
+      "absaetze": [
+        "Zahlt ein Partner Unterhalt an den anderen, kann er diesen unter Umständen steuerlich absetzen. Der Empfänger muss ihn dann versteuern. Das nennt man Realsplitting und braucht die Zustimmung beider.",
+        "Weil die Regeln verwickelt sind, lohnt sich bei einer Trennung oft eine Beratung, etwa bei einem Lohnsteuerhilfeverein oder einer Steuerberatung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist im Jahr der Trennung oft noch möglich?",
+      "art": "mc",
+      "optionen": [
+        "Die gemeinsame Veranlagung mit Splitting",
+        "Gar keine Steuererklärung",
+        "Steuerklasse VI für beide",
+        "Eine doppelte Erstattung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist das letzte Mal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Steuerklasse gilt nach der Trennung meist?",
+      "art": "mc",
+      "optionen": [
+        "Steuerklasse I",
+        "Steuerklasse III",
+        "Steuerklasse V",
+        "Steuerklasse VI"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alleinerziehende bekommen oft Steuerklasse II."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Realsplitting?",
+      "art": "mc",
+      "optionen": [
+        "Unterhalt wird beim Zahler abgesetzt und beim Empfänger versteuert",
+        "Teilen der Wohnung",
+        "Ein Kindergeld-Zuschlag",
+        "Eine Strafe für Verspätung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beide müssen zustimmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Steuerklasse ändert sich nach einer Trennung automatisch ohne Antrag.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Änderung muss beim Finanzamt beantragt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Trennungsjahr ist gemeinsame Veranlagung noch möglich.",
+        "Danach gilt meist Steuerklasse I oder II.",
+        "Die Steuerklasse muss geändert werden.",
+        "Beim Unterhalt kann Realsplitting helfen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "all-b096-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist ein Supermond?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mond und Finsternisse",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "supermond",
+    "mondbahn",
+    "vollmond"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ab und zu melden die Nachrichten einen Supermond.",
+        "Der Vollmond soll dann besonders groß und hell sein. Stimmt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Bahn wie ein Ei",
+      "absaetze": [
+        "Der Mond umkreist die Erde nicht auf einem perfekten Kreis, sondern auf einer leicht ovalen Bahn. Mal ist er der Erde näher, mal weiter weg.",
+        "Der erdnächste Punkt seiner Bahn heißt Perigäum. Er liegt bei rund 360.000 Kilometern, der erdfernste Punkt bei gut 400.000 Kilometern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vollmond in Erdnähe",
+      "absaetze": [
+        "Fällt ein Vollmond mit der Erdnähe zusammen, spricht man von einem Supermond. Er erscheint dann etwa 14 Prozent größer und rund 30 Prozent heller als ein Vollmond in Erdferne.",
+        "Mit bloßem Auge fällt der Unterschied aber kaum auf. Es gibt am Himmel keinen Vergleichsmaßstab, und ein paar Prozent Größe sind schwer zu erkennen."
+      ],
+      "merke": "Ein Supermond ist etwas größer und heller, mit bloßem Auge fällt das kaum auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Mond-Täuschung",
+      "absaetze": [
+        "Riesig wirkt der Mond vor allem, wenn er knapp über dem Horizont steht. Das ist aber eine Täuschung des Gehirns, die bei jedem Vollmond auftritt. Gemessen ist er dort nicht größer.",
+        "Ein Supermond kann die Gezeiten leicht verstärken. Für Menschen hat er sonst keine besonderen Auswirkungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der erdnächste Punkt der Mondbahn?",
+      "art": "mc",
+      "optionen": [
+        "Perigäum",
+        "Äquator",
+        "Zenit",
+        "Horizont"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er liegt bei rund 360.000 Kilometern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Um wie viel größer erscheint ein Supermond etwa?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 14 Prozent",
+        "Doppelt so groß",
+        "Zehnmal so groß",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Vergleich zu einem Vollmond in Erdferne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wirkt der Mond am Horizont oft riesig?",
+      "art": "mc",
+      "optionen": [
+        "Wegen einer Täuschung des Gehirns",
+        "Weil er dort näher ist",
+        "Weil die Luft ihn vergrößert",
+        "Weil er dort heller ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemessen ist er dort nicht größer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Supermond kann die Gezeiten leicht verstärken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sonst hat er kaum Auswirkungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Mond umkreist die Erde auf einer ovalen Bahn.",
+        "Ein Supermond ist ein Vollmond in Erdnähe.",
+        "Er ist etwas größer und heller, aber kaum auffällig.",
+        "Der riesige Mond am Horizont ist eine Täuschung."
+      ]
+    }
+  ]
+}

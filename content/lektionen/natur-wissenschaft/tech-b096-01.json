@@ -1,0 +1,121 @@
+{
+  "id": "tech-b096-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Hörgerät?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hoergeraet",
+    "hoeren",
+    "medizintechnik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Millionen Menschen hören mit einem Hörgerät wieder besser.",
+        "Moderne Geräte sind winzige Computer hinter oder im Ohr."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Drei Hauptteile",
+      "absaetze": [
+        "Ein Hörgerät besteht im Kern aus einem Mikrofon, einem Verstärker und einem kleinen Lautsprecher. Das Mikrofon nimmt Geräusche auf und wandelt sie in elektrische Signale um.",
+        "Ein Chip verarbeitet diese Signale. Der Lautsprecher, der auch Hörer heißt, gibt den verstärkten Schall ins Ohr ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klug statt nur laut",
+      "absaetze": [
+        "Moderne Hörgeräte machen nicht einfach alles lauter. Sie verstärken vor allem die Töne, die der Mensch schlecht hört, oft die hohen.",
+        "Viele können Sprache von Störgeräuschen unterscheiden und die Richtung erkennen, aus der jemand spricht. So wird ein Gespräch im Restaurant leichter."
+      ],
+      "merke": "Moderne Hörgeräte verstärken gezielt die Töne, die schlecht gehört werden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewöhnung braucht Zeit",
+      "absaetze": [
+        "Das Gehirn muss sich erst wieder an viele Geräusche gewöhnen. Am Anfang wirken Alltagsgeräusche oft ungewohnt laut. Nach einigen Wochen wird es meist besser.",
+        "Wer schlechter hört, sollte einen Hörtest machen lassen. Unbehandelte Schwerhörigkeit kann zu Rückzug und Einsamkeit führen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche drei Hauptteile hat ein Hörgerät?",
+      "art": "mc",
+      "optionen": [
+        "Mikrofon, Verstärker und Lautsprecher",
+        "Kamera, Akku und Display",
+        "Linse, Spiegel und Lampe",
+        "Pumpe, Ventil und Schlauch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Chip verarbeitet die Signale."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machen moderne Hörgeräte besonders gut?",
+      "art": "mc",
+      "optionen": [
+        "Gezielt schlecht gehörte Töne verstärken",
+        "Alles gleich laut machen",
+        "Musik aufnehmen",
+        "Gedanken lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft sind das die hohen Töne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie fühlen sich Geräusche mit einem neuen Hörgerät oft an?",
+      "art": "mc",
+      "optionen": [
+        "Anfangs ungewohnt laut",
+        "Völlig stumm",
+        "Wie unter Wasser",
+        "Immer perfekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn muss sich erst gewöhnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Unbehandelte Schwerhörigkeit kann zu Rückzug führen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Hörtest lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hörgeräte bestehen aus Mikrofon, Verstärker und Lautsprecher.",
+        "Ein Chip verstärkt gezielt bestimmte Töne.",
+        "Moderne Geräte filtern Störgeräusche.",
+        "Die Gewöhnung dauert einige Wochen."
+      ]
+    }
+  ]
+}

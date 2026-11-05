@@ -1,0 +1,130 @@
+{
+  "id": "schlaf-b096-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Helfen Apps auf Rezept bei Schlafstörungen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "DiGA-Verzeichnis",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "diga",
+    "insomnie",
+    "apps"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine App gegen Schlaflosigkeit, verschrieben von der Ärztin und bezahlt von der Krankenkasse.",
+        "Das gibt es in Deutschland seit einigen Jahren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Digitale Gesundheitsanwendungen",
+      "absaetze": [
+        "Seit 2020 können Ärztinnen, Ärzte und Psychotherapeuten in Deutschland bestimmte Apps verschreiben. Sie heißen digitale Gesundheitsanwendungen, kurz DiGA. Die gesetzliche Krankenkasse übernimmt die Kosten.",
+        "Jede DiGA wird vom Bundesinstitut für Arzneimittel und Medizinprodukte geprüft. Sie steht dann in einem öffentlichen Verzeichnis."
+      ],
+      "merke": "DiGA sind geprüfte Apps, die verschrieben werden können."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Schlaf-Apps leisten",
+      "absaetze": [
+        "Mehrere DiGA richten sich an Menschen mit chronischer Insomnie, also anhaltenden Ein- und Durchschlafstörungen. Sie beruhen auf der kognitiven Verhaltenstherapie für Schlafstörungen.",
+        "Die Apps vermitteln Wissen über Schlaf, helfen beim Schlaftagebuch und leiten Übungen an. Studien deuten darauf hin, dass solche Programme Schlafprobleme verringern können."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Ersatz für Abklärung",
+      "absaetze": [
+        "Vor der Verordnung sollte geklärt werden, ob eine andere Ursache dahintersteckt, etwa eine Schlafapnoe oder eine Depression.",
+        "Eine App erfordert Mitarbeit über mehrere Wochen. Wer dranbleibt, profitiert am meisten. Wer persönliche Begleitung braucht, findet sie in der Schlafmedizin oder Psychotherapie."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann können in Deutschland Apps verschrieben werden?",
+      "art": "mc",
+      "optionen": [
+        "Seit 2020",
+        "Seit 1990",
+        "Seit 2025",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie heißen digitale Gesundheitsanwendungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer prüft die DiGA?",
+      "art": "mc",
+      "optionen": [
+        "Das Bundesinstitut für Arzneimittel und Medizinprodukte",
+        "Der App-Store",
+        "Die Hersteller allein",
+        "Die Polizei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Geprüfte Apps stehen in einem Verzeichnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf beruhen Schlaf-DiGA?",
+      "art": "mc",
+      "optionen": [
+        "Auf der kognitiven Verhaltenstherapie für Schlafstörungen",
+        "Auf Hypnose per Video",
+        "Auf Schlafmitteln",
+        "Auf Horoskopen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie leiten Übungen und Schlaftagebücher an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor einer Schlaf-App sollten andere Ursachen wie Schlafapnoe geklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine App ersetzt keine Abklärung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "DiGA sind geprüfte Apps auf Rezept.",
+        "Die Krankenkasse übernimmt die Kosten.",
+        "Schlaf-DiGA beruhen auf Verhaltenstherapie.",
+        "Vorher sollten andere Ursachen abgeklärt werden."
+      ]
+    }
+  ]
+}

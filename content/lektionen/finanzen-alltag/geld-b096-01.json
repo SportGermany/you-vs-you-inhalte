@@ -1,0 +1,121 @@
+{
+  "id": "geld-b096-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie erkennst du ein Schneeballsystem?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher: Unseriöse Angebote",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schneeballsystem",
+    "anlagebetrug",
+    "ponzi"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hohe Renditen, sichere Gewinne, und je mehr Leute mitmachen, desto besser.",
+        "So beginnen viele Schneeballsysteme, und sie enden fast immer mit großen Verlusten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie das System funktioniert",
+      "absaetze": [
+        "Bei einem Schneeballsystem werden angebliche Gewinne nicht erwirtschaftet. Alte Anleger werden einfach mit dem Geld neuer Anleger bezahlt.",
+        "Das funktioniert nur, solange immer mehr Menschen einsteigen. Bleibt der Nachschub aus, bricht alles zusammen. Die meisten verlieren dann ihr Geld."
+      ],
+      "merke": "Beim Schneeballsystem bezahlen neue Anleger die alten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Berühmte Fälle",
+      "absaetze": [
+        "Benannt sind solche Systeme oft nach Charles Ponzi, der in den 1920er Jahren in den USA Tausende Anleger betrog.",
+        "Einer der größten Fälle war das System von Bernard Madoff. Es flog 2008 auf. Anleger hatten dabei Milliarden Dollar verloren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen",
+      "absaetze": [
+        "Vorsicht bei hohen, sicheren Renditen ohne erkennbares Risiko. Auch Druck, schnell einzusteigen, oder Prämien fürs Anwerben neuer Mitglieder sind typische Warnzeichen.",
+        "Prüfe, ob ein Anbieter eine Erlaubnis der BaFin hat. Die BaFin veröffentlicht außerdem Warnungen vor unseriösen Angeboten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommen die Auszahlungen in einem Schneeballsystem?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Geld neuer Anleger",
+        "Aus echten Gewinnen",
+        "Vom Staat",
+        "Aus Zinsen der Zentralbank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb braucht es ständig neue Anleger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach sind solche Systeme oft benannt?",
+      "art": "mc",
+      "optionen": [
+        "Nach Charles Ponzi",
+        "Nach Isaac Newton",
+        "Nach Adam Smith",
+        "Nach Karl Marx"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er betrog in den 1920er Jahren Tausende."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein typisches Warnzeichen?",
+      "art": "mc",
+      "optionen": [
+        "Hohe, angeblich sichere Renditen",
+        "Eine Erlaubnis der BaFin",
+        "Ausführliche Risikohinweise",
+        "Niedrige Gewinne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Prämien fürs Anwerben sind verdächtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die BaFin veröffentlicht Warnungen vor unseriösen Angeboten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Blick dort lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Schneeballsystemen zahlen neue Anleger die alten.",
+        "Sie brechen zusammen, wenn neue Anleger fehlen.",
+        "Hohe sichere Renditen sind ein Warnzeichen.",
+        "Prüfe Anbieter bei der BaFin."
+      ]
+    }
+  ]
+}

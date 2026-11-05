@@ -1,0 +1,121 @@
+{
+  "id": "vers-b096-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt, wenn ein Baum auf dein Auto fällt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kfz-Versicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sturmschaden",
+    "teilkasko",
+    "auto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Sturm liegt ein Ast auf deinem Auto, die Scheibe ist kaputt.",
+        "Welche Versicherung kommt dafür auf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sturm ist Sache der Kasko",
+      "absaetze": [
+        "Schäden durch Sturm, Hagel oder Blitz am eigenen Auto zahlt die Teilkaskoversicherung. Als Sturm gilt meist ein Wind ab Windstärke 8.",
+        "Wer nur eine Haftpflichtversicherung hat, bekommt solche Schäden am eigenen Auto nicht ersetzt. Die Haftpflicht zahlt nur Schäden, die du anderen zufügst."
+      ],
+      "merke": "Sturmschäden am eigenen Auto zahlt die Teilkasko."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn jemand anderes haftet",
+      "absaetze": [
+        "Manchmal haftet auch der Eigentümer des Baums. Das ist der Fall, wenn er seine Pflicht zur Kontrolle verletzt hat, etwa weil der Baum sichtbar morsch war.",
+        "Bei normalem Sturm und gesundem Baum haftet der Eigentümer meist nicht. Bei Straßenbäumen ist oft die Gemeinde zuständig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig vorgehen",
+      "absaetze": [
+        "Mache Fotos vom Schaden, vom Baum und von der Umgebung. Notiere Datum, Uhrzeit und Ort. Daten des Wetterdienstes zur Windstärke helfen als Nachweis.",
+        "Melde den Schaden zeitnah deiner Versicherung. Bei angekündigten Unwettern parkst du am besten nicht unter Bäumen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt Sturmschäden am eigenen Auto?",
+      "art": "mc",
+      "optionen": [
+        "Die Teilkasko",
+        "Die Kfz-Haftpflicht allein",
+        "Die Krankenversicherung",
+        "Die Hausratversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ab Windstärke 8 gilt meist Sturm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann haftet der Eigentümer eines Baums?",
+      "art": "mc",
+      "optionen": [
+        "Wenn er seine Kontrollpflicht verletzt hat",
+        "Immer",
+        "Nie",
+        "Nur an Feiertagen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei einem sichtbar morschen Baum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft als Nachweis für die Windstärke?",
+      "art": "mc",
+      "optionen": [
+        "Daten des Wetterdienstes",
+        "Ein Foto vom Himmel",
+        "Eine Notiz vom Nachbarn",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu Fotos vom Schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Kfz-Haftpflicht zahlt Sturmschäden am eigenen Auto.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür braucht es eine Kaskoversicherung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sturmschäden am eigenen Auto zahlt die Teilkasko.",
+        "Die Haftpflicht zahlt nur Schäden bei anderen.",
+        "Bei morschen Bäumen kann der Eigentümer haften.",
+        "Dokumentiere den Schaden mit Fotos und Wetterdaten."
+      ]
+    }
+  ]
+}
