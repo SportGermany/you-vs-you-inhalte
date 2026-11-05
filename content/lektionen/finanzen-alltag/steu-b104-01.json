@@ -1,0 +1,121 @@
+{
+  "id": "steu-b104-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wird ein Jobticket versteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "jobticket",
+    "arbeitgeber",
+    "pendeln"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Arbeitgeber bezahlen oder bezuschussen eine Fahrkarte für Bus und Bahn.",
+        "Das ist meist steuerfrei. Es hat aber eine Folge für deine Steuererklärung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerfrei als Extra",
+      "absaetze": [
+        "Zahlt dein Arbeitgeber ein Jobticket zusätzlich zum Gehalt, bleibt es steuerfrei. Das gilt für Fahrkarten im öffentlichen Nahverkehr, etwa das Deutschlandticket.",
+        "Auch Sozialabgaben fallen dafür nicht an. Wichtig ist, dass das Ticket nicht anstelle von Gehalt gezahlt wird."
+      ],
+      "merke": "Ein Jobticket zusätzlich zum Gehalt ist steuer- und abgabenfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folge für die Pendlerpauschale",
+      "absaetze": [
+        "Der steuerfreie Betrag wird auf deine Entfernungspauschale angerechnet. Du kannst für deinen Arbeitsweg dann weniger Werbungskosten angeben.",
+        "Der Betrag steht auf deiner Lohnsteuerbescheinigung. Das Finanzamt zieht ihn automatisch ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Alternative",
+      "absaetze": [
+        "Der Arbeitgeber kann das Ticket auch pauschal mit 25 Prozent versteuern. Dann wird es nicht auf deine Pendlerpauschale angerechnet.",
+        "Für Menschen mit langen Arbeitswegen kann das günstiger sein. Frag bei deinem Arbeitgeber nach, welche Variante er nutzt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist ein Jobticket steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es zusätzlich zum Gehalt gezahlt wird",
+        "Immer, egal wie",
+        "Nur für Autofahrer",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es darf nicht anstelle von Gehalt gezahlt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf wird der steuerfreie Betrag angerechnet?",
+      "art": "mc",
+      "optionen": [
+        "Auf die Entfernungspauschale",
+        "Auf die Kirchensteuer",
+        "Auf das Kindergeld",
+        "Auf die Hundesteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du kannst dann weniger Werbungskosten angeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Pauschalsteuer, wenn der Arbeitgeber sie übernimmt?",
+      "art": "mc",
+      "optionen": [
+        "25 Prozent",
+        "5 Prozent",
+        "50 Prozent",
+        "100 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann gibt es keine Anrechnung auf die Pendlerpauschale."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Betrag für das Jobticket steht auf der Lohnsteuerbescheinigung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Finanzamt berücksichtigt ihn automatisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Jobticket zusätzlich zum Gehalt ist steuerfrei.",
+        "Es wird auf die Pendlerpauschale angerechnet.",
+        "Bei Pauschalversteuerung entfällt die Anrechnung.",
+        "Der Betrag steht auf der Lohnsteuerbescheinigung."
+      ]
+    }
+  ]
+}

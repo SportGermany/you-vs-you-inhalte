@@ -1,0 +1,121 @@
+{
+  "id": "vers-b104-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Darfst du in der Mietwohnung ein Haustier halten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haustier",
+    "mietwohnung",
+    "mietrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Hund, eine Katze oder ein Hamster: Viele Mieterinnen und Mieter wünschen sich ein Tier.",
+        "Ob der Vermieter mitreden darf, hängt von der Tierart ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleintiere sind erlaubt",
+      "absaetze": [
+        "Kleine Tiere, die in Käfigen, Aquarien oder Terrarien leben, darfst du in der Regel ohne Erlaubnis halten. Dazu gehören etwa Hamster, Wellensittiche oder Fische.",
+        "Voraussetzung ist, dass die Tiere niemanden stören und die Wohnung nicht beschädigen. Bei sehr vielen Tieren oder gefährlichen Arten gilt das nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunde und Katzen",
+      "absaetze": [
+        "Der Bundesgerichtshof hat 2013 entschieden: Ein generelles Verbot von Hunden und Katzen im vorgedruckten Mietvertrag ist unwirksam.",
+        "Trotzdem darfst du nicht einfach ein Tier anschaffen. Es kommt auf den Einzelfall an. Dabei zählen etwa die Größe der Wohnung, die Art des Tieres und die Interessen der Nachbarn."
+      ],
+      "merke": "Ein pauschales Verbot von Hunden und Katzen im Mietvertrag ist unwirksam."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Am besten vorher fragen",
+      "absaetze": [
+        "Bitte den Vermieter vor der Anschaffung um seine Zustimmung, am besten schriftlich. So vermeidest du späteren Streit.",
+        "Für Assistenzhunde, etwa Blindenführhunde, gelten besondere Regeln. Bei Streit können der Mieterverein oder die Verbraucherzentrale beraten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tiere darfst du meist ohne Erlaubnis halten?",
+      "art": "mc",
+      "optionen": [
+        "Kleintiere wie Hamster oder Fische",
+        "Pferde",
+        "Große Hunde",
+        "Giftschlangen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie dürfen aber niemanden stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entschied der Bundesgerichtshof 2013?",
+      "art": "mc",
+      "optionen": [
+        "Ein generelles Verbot von Hunden und Katzen im Formularvertrag ist unwirksam",
+        "Alle Haustiere sind verboten",
+        "Hunde sind immer erlaubt",
+        "Katzen brauchen einen Pass"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kommt auf den Einzelfall an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor der Anschaffung eines Hundes tun?",
+      "art": "mc",
+      "optionen": [
+        "Den Vermieter um Zustimmung bitten",
+        "Nichts",
+        "Die Nachbarn verklagen",
+        "Umziehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten schriftlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Blindenführhunde gelten besondere Regeln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Assistenzhunde werden anders behandelt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kleintiere sind in der Regel erlaubt.",
+        "Pauschale Verbote für Hunde und Katzen sind unwirksam.",
+        "Bei Hund oder Katze entscheidet der Einzelfall.",
+        "Frag den Vermieter vorher schriftlich."
+      ]
+    }
+  ]
+}

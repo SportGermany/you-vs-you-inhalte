@@ -1,0 +1,121 @@
+{
+  "id": "umw-b104-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist Glyphosat umstritten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzenschutzmittel",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "glyphosat",
+    "pflanzenschutz",
+    "artenvielfalt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Glyphosat ist das weltweit am meisten eingesetzte Mittel gegen Unkraut.",
+        "Kaum ein anderer Stoff löst so heftige Debatten aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Glyphosat wirkt",
+      "absaetze": [
+        "Glyphosat ist ein Herbizid, also ein Mittel gegen Pflanzen. Es blockiert ein Enzym, das Pflanzen zum Wachsen brauchen. Tiere und Menschen haben dieses Enzym nicht.",
+        "Glyphosat wirkt gegen fast alle Pflanzen. Landwirte nutzen es etwa, um vor der Aussaat Felder von Unkraut zu befreien."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Streit um das Krebsrisiko",
+      "absaetze": [
+        "Die Internationale Agentur für Krebsforschung stufte Glyphosat 2015 als wahrscheinlich krebserregend ein. Europäische Behörden kamen dagegen zu dem Schluss, dass keine Einstufung als krebserregend nötig ist.",
+        "Die Bewertungen unterscheiden sich auch, weil sie verschiedene Fragen untersuchen. In den USA gab es viele Klagen gegen den Hersteller."
+      ],
+      "merke": "Ob Glyphosat Krebs auslösen kann, bewerten Fachbehörden unterschiedlich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für die Artenvielfalt",
+      "absaetze": [
+        "Weil Glyphosat fast alle Pflanzen tötet, verschwinden auf behandelten Feldern auch Wildkräuter. Insekten und Vögel finden dann weniger Nahrung.",
+        "Das Umweltbundesamt sieht darin ein großes Problem. Die EU hat die Zulassung 2023 um zehn Jahre verlängert. Die Debatte geht weiter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Glyphosat?",
+      "art": "mc",
+      "optionen": [
+        "Ein Mittel gegen Pflanzen",
+        "Ein Dünger",
+        "Ein Insektenspray",
+        "Ein Medikament"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wirkt gegen fast alle Pflanzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wirkt Glyphosat nicht direkt auf Tiere?",
+      "art": "mc",
+      "optionen": [
+        "Tiere haben das blockierte Enzym nicht",
+        "Tiere essen keine Pflanzen",
+        "Es ist zu kalt",
+        "Tiere sind zu groß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur Pflanzen brauchen dieses Enzym."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Problem betrifft die Artenvielfalt?",
+      "art": "mc",
+      "optionen": [
+        "Wildkräuter verschwinden, Insekten finden weniger Nahrung",
+        "Die Felder werden zu nass",
+        "Es wachsen zu viele Blumen",
+        "Vögel werden zu groß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Umweltbundesamt sieht darin ein großes Problem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle Fachbehörden bewerten das Krebsrisiko von Glyphosat gleich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Einschätzungen unterscheiden sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glyphosat ist das meistgenutzte Unkrautmittel.",
+        "Es blockiert ein Enzym, das nur Pflanzen haben.",
+        "Das Krebsrisiko wird unterschiedlich bewertet.",
+        "Es schadet der Artenvielfalt auf Feldern."
+      ]
+    }
+  ]
+}

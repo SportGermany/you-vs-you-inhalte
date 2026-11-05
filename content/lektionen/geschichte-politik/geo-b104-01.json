@@ -1,0 +1,127 @@
+{
+  "id": "geo-b104-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht Europol?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Länder und Organisationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "europol",
+    "polizei",
+    "eu"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Verbrecher halten sich nicht an Landesgrenzen. Die Polizei muss deshalb über Grenzen hinweg zusammenarbeiten.",
+        "In der EU hilft dabei eine eigene Behörde: Europol."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Polizeibehörde der EU",
+      "absaetze": [
+        "Europol ist die Agentur der Europäischen Union für die Zusammenarbeit der Polizei. Sie sitzt in Den Haag in den Niederlanden und arbeitet seit 1999.",
+        "Europol unterstützt die Polizeibehörden der Mitgliedstaaten. Es kümmert sich um schwere Kriminalität, die mehrere Länder betrifft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Europol tut",
+      "absaetze": [
+        "Europol sammelt und analysiert Informationen. So erkennt es Verbindungen zwischen Fällen in verschiedenen Ländern. Es hilft auch, gemeinsame Ermittlungen zu organisieren.",
+        "Schwerpunkte sind Terrorismus, Drogen- und Menschenhandel, Geldwäsche und Cyberkriminalität. Für Angriffe im Internet gibt es ein eigenes Zentrum."
+      ],
+      "merke": "Europol analysiert Informationen und unterstützt grenzüberschreitende Ermittlungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine europäische Polizei",
+      "absaetze": [
+        "Europol-Beamte dürfen niemanden festnehmen und keine Wohnungen durchsuchen. Das bleibt Aufgabe der nationalen Polizei.",
+        "Europol ist auch nicht dasselbe wie Interpol. Interpol ist eine weltweite Organisation mit fast allen Staaten der Erde. Europol arbeitet vor allem für die EU."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hat Europol seinen Sitz?",
+      "art": "mc",
+      "optionen": [
+        "In Den Haag",
+        "In Brüssel",
+        "In Berlin",
+        "In Lyon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Haag liegt in den Niederlanden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Hauptaufgabe von Europol?",
+      "art": "mc",
+      "optionen": [
+        "Informationen über grenzüberschreitende Kriminalität analysieren",
+        "Verkehrsunfälle aufnehmen",
+        "Strafzettel verteilen",
+        "Gesetze beschließen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So erkennt es Verbindungen zwischen Fällen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Dürfen Europol-Beamte Menschen festnehmen?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das macht die nationale Polizei",
+        "Ja, überall auf der Welt",
+        "Nur am Wochenende",
+        "Nur in Den Haag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Europol unterstützt, ermittelt aber nicht selbst mit Zwangsmitteln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Europol und Interpol sind dieselbe Organisation.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Interpol ist weltweit, Europol arbeitet für die EU."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Europol ist die Polizeiagentur der EU.",
+        "Es sitzt in Den Haag.",
+        "Es analysiert Daten und unterstützt Ermittlungen.",
+        "Festnahmen bleiben Sache der nationalen Polizei."
+      ]
+    }
+  ]
+}

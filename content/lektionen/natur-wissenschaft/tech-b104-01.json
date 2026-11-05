@@ -1,0 +1,121 @@
+{
+  "id": "tech-b104-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Bewegungsmelder?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bewegungsmelder",
+    "infrarot",
+    "sensor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du gehst zur Haustür, und das Licht geht von selbst an.",
+        "Dahinter steckt ein Sensor, der deine Körperwärme bemerkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Er sieht Wärme",
+      "absaetze": [
+        "Jeder Körper gibt Wärmestrahlung ab, auch Infrarotstrahlung genannt. Menschen und Tiere strahlen meist mehr davon ab als ihre Umgebung.",
+        "Die meisten Bewegungsmelder haben einen Infrarotsensor. Er sendet selbst nichts aus, sondern empfängt nur diese Strahlung. Fachleute nennen ihn deshalb passiven Infrarotsensor."
+      ],
+      "merke": "Ein Bewegungsmelder empfängt die Wärmestrahlung von Menschen und Tieren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zonen statt Bild",
+      "absaetze": [
+        "Vor dem Sensor sitzt eine milchige Kunststofflinse mit vielen Feldern. Sie teilt den Raum in Zonen auf.",
+        "Bewegt sich ein warmer Körper von einer Zone in die nächste, ändert sich die Strahlung am Sensor. Diese Änderung löst den Schalter aus. Wer völlig still steht, wird deshalb oft nicht erkannt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fehlalarme vermeiden",
+      "absaetze": [
+        "Auch warme Luft aus Heizungen, direkte Sonne oder Tiere können einen Bewegungsmelder auslösen. Achte deshalb auf einen günstigen Platz.",
+        "Viele Geräte haben zusätzlich einen Dämmerungssensor. Er sorgt dafür, dass das Licht nur angeht, wenn es draußen dunkel ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erkennt ein Bewegungsmelder meistens?",
+      "art": "mc",
+      "optionen": [
+        "Wärmestrahlung von Körpern",
+        "Geräusche",
+        "Gerüche",
+        "Handy-Signale"
+      ],
+      "richtig": 0,
+      "erklaerung": "Menschen strahlen mehr Wärme ab als ihre Umgebung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum heißt der Sensor passiv?",
+      "art": "mc",
+      "optionen": [
+        "Er sendet nichts aus, sondern empfängt nur",
+        "Er ist immer ausgeschaltet",
+        "Er braucht keinen Strom",
+        "Er bewegt sich nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wartet auf Infrarotstrahlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird ein Mensch oft nicht erkannt?",
+      "art": "mc",
+      "optionen": [
+        "Wenn er völlig still steht",
+        "Wenn er schnell rennt",
+        "Wenn er winkt",
+        "Wenn er durch die Zonen geht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Sensor reagiert auf Veränderungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Dämmerungssensor schaltet das Licht nur bei Dunkelheit ein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So spart er Strom am Tag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bewegungsmelder reagieren auf Wärmestrahlung.",
+        "Eine Linse teilt den Raum in Zonen.",
+        "Bewegung zwischen den Zonen löst den Schalter aus.",
+        "Heizungen und Sonne können Fehlalarme auslösen."
+      ]
+    }
+  ]
+}

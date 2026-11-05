@@ -1,0 +1,121 @@
+{
+  "id": "haus-b104-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Brauchst du Weichspüler?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "weichspueler",
+    "waesche",
+    "umwelt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weich, duftend, kuschelig: So versprechen es die Flaschen im Supermarkt.",
+        "Fachleute halten Weichspüler aber meist für überflüssig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Weichspüler wirkt",
+      "absaetze": [
+        "Weichspüler legt einen dünnen Film um die Fasern. Dadurch fühlt sich die Wäsche weicher an und lädt sich weniger statisch auf.",
+        "Genau dieser Film hat aber Nachteile. Handtücher saugen schlechter, und Sportkleidung transportiert Schweiß weniger gut nach außen."
+      ],
+      "merke": "Weichspüler legt einen Film um die Fasern, der Saugfähigkeit kostet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Belastung für Umwelt und Haut",
+      "absaetze": [
+        "Weichspüler gelangt mit dem Abwasser in die Kläranlage und belastet die Gewässer. Viele Produkte enthalten zudem Duftstoffe.",
+        "Manche Duftstoffe können Allergien auslösen oder empfindliche Haut reizen. Für Babykleidung raten Fachleute deshalb besonders von Weichspüler ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weich ohne Weichspüler",
+      "absaetze": [
+        "Harte Wäsche entsteht oft durch zu viel Waschmittel oder sehr kalkhaltiges Wasser. Dosiere das Waschmittel passend zur Wasserhärte.",
+        "Schüttle die Wäsche vor dem Aufhängen kräftig aus. Im Wind oder im Trockner wird sie ebenfalls weicher. Bei Funktionskleidung beachte die Hinweise auf dem Etikett."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht Weichspüler mit den Fasern?",
+      "art": "mc",
+      "optionen": [
+        "Er legt einen dünnen Film darum",
+        "Er färbt sie neu",
+        "Er macht sie dicker",
+        "Er entfernt alle Flecken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch fühlt sich die Wäsche weicher an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Nachteil hat Weichspüler bei Handtüchern?",
+      "art": "mc",
+      "optionen": [
+        "Sie saugen schlechter",
+        "Sie werden größer",
+        "Sie trocknen nie",
+        "Sie verlieren die Farbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Film auf den Fasern stört."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt harte Wäsche oft?",
+      "art": "mc",
+      "optionen": [
+        "Von zu viel Waschmittel oder kalkhaltigem Wasser",
+        "Vom Mondlicht",
+        "Von zu kurzen Ärmeln",
+        "Von dunklen Farben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Passende Dosierung hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Babykleidung raten Fachleute von Weichspüler ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Duftstoffe können die Haut reizen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weichspüler ist meist überflüssig.",
+        "Er macht Handtücher weniger saugfähig.",
+        "Er belastet Gewässer und kann Haut reizen.",
+        "Richtig dosieren und ausschütteln macht Wäsche weicher."
+      ]
+    }
+  ]
+}

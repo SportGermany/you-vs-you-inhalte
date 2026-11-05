@@ -3,7 +3,7 @@
   "version": 1,
   "themenwelt": "finanzen-alltag",
   "unterthema": "geld-sparen",
-  "titel": "Was ist ein Klumpenrisiko?",
+  "titel": "Was ist ein Sparbrief?",
   "minuten": 3,
   "studienlage": null,
   "zeitlos": true,
@@ -21,100 +21,100 @@
     }
   ],
   "tags": [
-    "klumpenrisiko",
-    "streuung",
-    "geldanlage"
+    "sparbrief",
+    "festzins",
+    "sparen"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Leg nicht alle Eier in einen Korb, sagt ein altes Sprichwort.",
-        "Bei der Geldanlage heißt das Problem dahinter Klumpenrisiko."
+        "Einmal Geld anlegen, einen festen Zins bekommen und sich jahrelang um nichts kümmern.",
+        "Genau das verspricht ein Sparbrief. Doch er hat auch Nachteile."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Alles auf eine Karte",
+      "titel": "Fester Zins, feste Laufzeit",
       "absaetze": [
-        "Ein Klumpenrisiko entsteht, wenn ein großer Teil deines Geldes von einer einzigen Sache abhängt. Das kann eine Aktie, eine Branche, ein Land oder eine Immobilie sein.",
-        "Läuft es dort schlecht, trifft es dein ganzes Vermögen. Selbst große, bekannte Unternehmen können in Schwierigkeiten geraten."
+        "Bei einem Sparbrief legst du einen Betrag für eine feste Zeit bei einer Bank an, oft für ein bis zehn Jahre. Der Zins steht von Anfang an fest.",
+        "Du weißt also genau, wie viel du am Ende bekommst. Steigen oder fallen die Zinsen später, ändert das an deinem Vertrag nichts."
       ],
-      "merke": "Ein Klumpenrisiko entsteht, wenn viel Geld an einer einzigen Sache hängt."
+      "merke": "Ein Sparbrief hat einen festen Zins für eine feste Laufzeit."
     },
     {
       "typ": "wissen",
-      "titel": "Versteckte Klumpen",
+      "titel": "Das Geld ist gebunden",
       "absaetze": [
-        "Manche Klumpen fallen nicht gleich auf. Wer Aktien seines Arbeitgebers besitzt, hängt doppelt von dieser Firma ab. Geht es ihr schlecht, sind Job und Erspartes gefährdet.",
-        "Auch wer nur in heimische Unternehmen investiert, setzt stark auf ein einzelnes Land."
+        "Vor dem Ende der Laufzeit kommst du meist nicht an dein Geld. Eine vorzeitige Kündigung ist in der Regel ausgeschlossen.",
+        "Lege deshalb nur Geld an, das du in dieser Zeit sicher nicht brauchst. Für Notfälle eignet sich ein Tagesgeldkonto besser."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Streuen senkt das Risiko",
+      "titel": "Sicherheit und Vergleich",
       "absaetze": [
-        "Verteile dein Geld auf viele Unternehmen, Branchen und Länder. Fachleute nennen das Diversifikation. Verluste an einer Stelle werden dann oft durch andere ausgeglichen.",
-        "Ein breit gestreuter Fonds, etwa auf einen weltweiten Index, ist dafür eine einfache Möglichkeit. Ganz ohne Risiko ist aber keine Anlage."
+        "Sparbriefe bei Banken in der EU sind über die gesetzliche Einlagensicherung bis 100.000 Euro pro Person und Bank geschützt.",
+        "Sparbriefe ähneln Festgeld sehr. Unterschiede gibt es oft nur bei Laufzeit und Auszahlung der Zinsen. Vergleiche die Angebote und achte darauf, ob die Zinsen jährlich oder erst am Ende gezahlt werden."
       ]
     },
     {
       "typ": "quiz",
-      "frage": "Wann entsteht ein Klumpenrisiko?",
+      "frage": "Was steht bei einem Sparbrief von Anfang an fest?",
       "art": "mc",
       "optionen": [
-        "Wenn viel Geld an einer einzigen Sache hängt",
-        "Wenn du gar nicht anlegst",
-        "Wenn du jeden Monat sparst",
-        "Wenn du viele verschiedene Aktien hast"
+        "Der Zins und die Laufzeit",
+        "Nur der Name der Bank",
+        "Gar nichts",
+        "Der Aktienkurs"
       ],
       "richtig": 0,
-      "erklaerung": "Dann trifft dich ein Rückschlag besonders hart."
+      "erklaerung": "So weißt du genau, was am Ende herauskommt."
     },
     {
       "typ": "quiz",
-      "frage": "Warum sind Aktien des eigenen Arbeitgebers ein Klumpen?",
+      "frage": "Kannst du einen Sparbrief meist vorzeitig kündigen?",
       "art": "mc",
       "optionen": [
-        "Job und Erspartes hängen von derselben Firma ab",
-        "Sie sind immer wertlos",
-        "Sie sind verboten",
-        "Sie bringen keine Dividende"
+        "Nein, in der Regel nicht",
+        "Ja, jederzeit",
+        "Nur sonntags",
+        "Nur bei Regen"
       ],
       "richtig": 0,
-      "erklaerung": "Geht es der Firma schlecht, trifft es dich doppelt."
+      "erklaerung": "Das Geld ist für die Laufzeit gebunden."
     },
     {
       "typ": "quiz",
-      "frage": "Wie heißt das Verteilen auf viele Anlagen?",
+      "frage": "Bis zu welcher Höhe ist Erspartes gesetzlich geschützt?",
       "art": "mc",
       "optionen": [
-        "Diversifikation",
-        "Inflation",
-        "Spekulation",
-        "Liquidation"
+        "100.000 Euro pro Person und Bank",
+        "1.000 Euro",
+        "Unbegrenzt",
+        "Gar nicht"
       ],
       "richtig": 0,
-      "erklaerung": "Es senkt das Risiko großer Verluste."
+      "erklaerung": "Das gilt für Banken in der EU."
     },
     {
       "typ": "quiz",
-      "frage": "Eine gut gestreute Anlage ist völlig ohne Risiko.",
+      "frage": "Für Notfälle eignet sich ein Sparbrief besonders gut.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
       "richtig": 1,
-      "erklaerung": "Falsch. Streuung senkt das Risiko, beseitigt es aber nicht."
+      "erklaerung": "Falsch. Dafür ist Tagesgeld besser, weil es verfügbar bleibt."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Ein Klumpenrisiko heißt: zu viel an einer Stelle.",
-        "Aktien des Arbeitgebers sind ein versteckter Klumpen.",
-        "Streue über Unternehmen, Branchen und Länder.",
-        "Keine Anlage ist ganz ohne Risiko."
+        "Ein Sparbrief hat festen Zins und feste Laufzeit.",
+        "Das Geld ist bis zum Ende gebunden.",
+        "Die Einlagensicherung schützt bis 100.000 Euro.",
+        "Er ähnelt Festgeld, also Angebote vergleichen."
       ]
     }
   ]

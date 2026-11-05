@@ -1,0 +1,143 @@
+{
+  "id": "gew-b104-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie vergisst du deine Medikamente nicht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "medikamente",
+    "erinnerung",
+    "routine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hab ich die Tablette heute schon genommen? Diese Frage kennen viele.",
+        "Gerade bei Medikamenten, die man lange braucht, helfen feste Gewohnheiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es so leicht passiert",
+      "absaetze": [
+        "Medikamente zu nehmen ist eine kleine, immer gleiche Handlung. Genau deshalb erinnern wir uns später oft nicht, ob wir sie wirklich erledigt haben.",
+        "Viele vergessen eine Dosis auch, wenn der Tagesablauf anders ist als sonst, etwa im Urlaub oder am Wochenende."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "An eine Routine koppeln",
+      "absaetze": [
+        "Verbinde das Medikament mit etwas, das du ohnehin jeden Tag tust, etwa mit dem Frühstück oder dem Zähneputzen. Stell die Packung dort sichtbar hin, außer Reichweite von Kindern.",
+        "Eine Tablettenbox mit Fächern für jeden Wochentag zeigt dir auf einen Blick, ob du die Dosis genommen hast. Auch ein Wecker oder eine App kann erinnern."
+      ],
+      "merke": "Kopple Medikamente an eine feste tägliche Routine."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Den Überblick behalten",
+      "absaetze": [
+        "Wer mindestens drei verordnete Medikamente dauerhaft nimmt, hat Anspruch auf einen Medikationsplan von der Arztpraxis. Darauf steht, was wann genommen wird.",
+        "Hast du eine Dosis vergessen, nimm nicht einfach die doppelte Menge. Lies im Beipackzettel nach oder frag in der Apotheke."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Dein System gegen das Vergessen",
+      "schritte": [
+        {
+          "titel": "Anker wählen",
+          "text": "Kopple das Medikament an Frühstück oder Zähneputzen."
+        },
+        {
+          "titel": "Box nutzen",
+          "text": "Fülle eine Wochenbox mit Fächern für jeden Tag."
+        },
+        {
+          "titel": "Erinnern lassen",
+          "text": "Stell einen Wecker oder nutze eine App."
+        },
+        {
+          "titel": "Plan führen",
+          "text": "Bitte in der Arztpraxis um einen Medikationsplan."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran solltest du Medikamente koppeln?",
+      "art": "mc",
+      "optionen": [
+        "An eine feste tägliche Routine",
+        "An zufällige Momente",
+        "An das Wetter",
+        "An Feiertage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zum Beispiel an Frühstück oder Zähneputzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt dir eine Tablettenbox mit Wochentagen?",
+      "art": "mc",
+      "optionen": [
+        "Ob du die Dosis schon genommen hast",
+        "Das Wetter von morgen",
+        "Den Preis des Medikaments",
+        "Deinen Blutdruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "So musst du dich nicht erinnern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer hat Anspruch auf einen Medikationsplan?",
+      "art": "mc",
+      "optionen": [
+        "Wer mindestens drei verordnete Medikamente dauerhaft nimmt",
+        "Nur Kinder",
+        "Nur Sportler",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Darauf steht, was wann genommen wird."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einer vergessenen Dosis solltest du einfach die doppelte Menge nehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Lies im Beipackzettel nach oder frag in der Apotheke."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vergessen passiert bei Routinehandlungen leicht.",
+        "Kopple Medikamente an feste Gewohnheiten.",
+        "Tablettenbox und Erinnerungen helfen.",
+        "Vergessene Dosis nicht einfach verdoppeln."
+      ]
+    }
+  ]
+}

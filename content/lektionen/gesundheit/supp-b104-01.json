@@ -1,0 +1,145 @@
+{
+  "id": "supp-b104-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Hopfen-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pflanzliche Arzneimittel",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hopfen",
+    "schlaf",
+    "pflanzenextrakt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hopfen kennen die meisten aus dem Bier. Als Tee oder Dragee soll er beim Einschlafen helfen.",
+        "Was steckt hinter der Pflanze, und was weiß man über ihre Wirkung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Pflanze",
+      "absaetze": [
+        "Hopfen ist eine Kletterpflanze. Verwendet werden die zapfenartigen Blütenstände der weiblichen Pflanzen. Sie geben dem Bier seinen bitteren Geschmack.",
+        "Traditionell wird Hopfen bei Unruhe und Einschlafproblemen eingesetzt. Meist wird er mit Baldrian kombiniert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass eine Kombination aus Baldrian und Hopfen das Einschlafen leicht erleichtern könnte. Die Ergebnisse sind aber nicht einheitlich.",
+        "Für Hopfen allein gibt es kaum aussagekräftige Studien. Bier ist übrigens kein Schlafmittel. Alkohol verschlechtert den Schlaf in der zweiten Nachthälfte."
+      ],
+      "merke": "Ob Hopfen beim Schlafen hilft, ist nur schwach belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Hopfen enthält einen Stoff, der ähnlich wie das Hormon Östrogen wirken kann. Deshalb wird er in Schwangerschaft und Stillzeit nicht empfohlen.",
+        "Präparate können müde machen. Kombiniere sie nicht mit Alkohol oder Schlafmitteln. Halten Schlafprobleme länger an, lass die Ursache ärztlich abklären."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht in Schwangerschaft und Stillzeit ohne ärztlichen Rat.",
+        "Kann müde machen, Vorsicht im Straßenverkehr.",
+        "Nicht mit Alkohol, Schlafmitteln oder Beruhigungsmitteln kombinieren.",
+        "Anhaltende Schlafprobleme ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Ein Bier am Abend hilft beim Durchschlafen.",
+      "urteil": "mythos",
+      "erklaerung": "Alkohol macht zwar schläfrig, stört aber die zweite Nachthälfte. Der Schlaf wird unruhiger und weniger erholsam."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Teile des Hopfens werden verwendet?",
+      "art": "mc",
+      "optionen": [
+        "Die Blütenstände der weiblichen Pflanzen",
+        "Die Wurzeln",
+        "Die Samen männlicher Pflanzen",
+        "Die Rinde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie geben dem Bier seinen bitteren Geschmack."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welcher Pflanze wird Hopfen oft kombiniert?",
+      "art": "mc",
+      "optionen": [
+        "Baldrian",
+        "Brennnessel",
+        "Löwenzahn",
+        "Kamille"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kombination soll beim Einschlafen helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird Hopfen in der Schwangerschaft nicht empfohlen?",
+      "art": "mc",
+      "optionen": [
+        "Er enthält einen östrogenähnlichen Stoff",
+        "Er ist zu sauer",
+        "Er macht wach",
+        "Er enthält Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dieser Stoff kann ähnlich wie ein Hormon wirken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bier ist ein gutes Schlafmittel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Alkohol verschlechtert den Schlaf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hopfen wird traditionell bei Unruhe genutzt.",
+        "Meist wird er mit Baldrian kombiniert.",
+        "Die Studienlage ist schwach.",
+        "Nicht mit Alkohol oder Schlafmitteln kombinieren."
+      ]
+    }
+  ]
+}

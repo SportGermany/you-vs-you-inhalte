@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b104-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Kann Schlafentzug bei Depressionen helfen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Depression",
+      "herausgeber": "Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN)",
+      "url": "https://www.dgppn.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "wachtherapie",
+    "depression",
+    "schlafentzug"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Normalerweise schadet zu wenig Schlaf der Stimmung. Bei einer Depression kann es überraschenderweise anders sein.",
+        "In Kliniken wird das gezielt als Behandlung genutzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Wachtherapie",
+      "absaetze": [
+        "Bei der Wachtherapie bleiben Menschen mit Depression eine ganze Nacht oder die zweite Nachthälfte wach. Das geschieht unter fachlicher Aufsicht, meist in einer Klinik.",
+        "Viele Betroffene fühlen sich am nächsten Tag deutlich besser. Die Stimmung hellt sich oft innerhalb von Stunden auf. Kaum eine andere Behandlung wirkt so schnell."
+      ],
+      "merke": "Wachtherapie kann die Stimmung bei Depressionen innerhalb von Stunden aufhellen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oft nur kurz",
+      "absaetze": [
+        "Der Haken: Nach dem nächsten Schlaf kehrt die gedrückte Stimmung bei vielen zurück. Deshalb wird die Wachtherapie mit anderen Maßnahmen kombiniert.",
+        "Dazu gehören Lichttherapie und ein schrittweise verschobener Schlafrhythmus. Auch Medikamente und Psychotherapie bleiben wichtig. Warum Schlafentzug wirkt, ist noch nicht genau geklärt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht allein ausprobieren",
+      "absaetze": [
+        "Wachtherapie gehört in fachliche Hände. Bei manchen Erkrankungen, etwa einer bipolaren Störung, kann Schlafentzug eine Manie auslösen. Das ist eine Phase übersteigerter Hochstimmung.",
+        "Wenn du dich lange niedergeschlagen fühlst, sprich mit deiner Hausarztpraxis. In akuten Krisen erreichst du die Telefonseelsorge rund um die Uhr unter 0800 111 0 111."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei der Wachtherapie?",
+      "art": "mc",
+      "optionen": [
+        "Man bleibt eine Nacht oder die zweite Nachthälfte wach",
+        "Man schläft drei Tage am Stück",
+        "Man trinkt viel Kaffee",
+        "Man treibt nachts Sport"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geschieht unter fachlicher Aufsicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell kann sich die Stimmung bessern?",
+      "art": "mc",
+      "optionen": [
+        "Innerhalb von Stunden",
+        "Erst nach einem Jahr",
+        "Gar nicht",
+        "Nach zehn Jahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kaum eine andere Behandlung wirkt so schnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Haken?",
+      "art": "mc",
+      "optionen": [
+        "Nach dem nächsten Schlaf kommt die Stimmung oft zurück",
+        "Sie ist verboten",
+        "Sie wirkt nur bei Kindern",
+        "Sie kostet sehr viel Geld"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb wird sie mit anderen Maßnahmen kombiniert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wachtherapie solltest du allein zu Hause ausprobieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gehört in fachliche Hände."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafentzug kann bei Depressionen die Stimmung schnell heben.",
+        "Die Wirkung hält oft nur bis zum nächsten Schlaf.",
+        "Sie wird mit Lichttherapie und anderen Behandlungen kombiniert.",
+        "Nur mit fachlicher Begleitung anwenden."
+      ]
+    }
+  ]
+}

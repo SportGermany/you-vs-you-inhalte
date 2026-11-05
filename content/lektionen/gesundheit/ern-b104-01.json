@@ -1,0 +1,130 @@
+{
+  "id": "ern-b104-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist die Zitrone?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zitrone",
+    "vitamin c",
+    "zitrusfruechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zitronen gelten als Vitamin-C-Bomben. Heiße Zitrone soll bei Erkältungen helfen.",
+        "Was stimmt davon, und worauf solltest du achten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Vitamin C, aber nicht am meisten",
+      "absaetze": [
+        "Zitronensaft enthält reichlich Vitamin C. Andere Lebensmittel liefern aber mehr, etwa Paprika, schwarze Johannisbeeren oder Brokkoli.",
+        "Außerdem isst kaum jemand eine ganze Zitrone. Meist kommt nur ein Spritzer ins Essen. Als Vitaminquelle ist die Zitrone deshalb weniger wichtig, als viele denken."
+      ],
+      "merke": "Paprika und schwarze Johannisbeeren liefern mehr Vitamin C als Zitronen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Heiße Zitrone",
+      "absaetze": [
+        "Vitamin C ist hitzeempfindlich. In sehr heißem Wasser geht ein Teil verloren. Lass das Wasser deshalb etwas abkühlen, bevor du den Saft hineingibst.",
+        "Eine Erkältung heilen kann heiße Zitrone nicht. Das warme Getränk tut vielen aber gut und liefert Flüssigkeit."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Säure und Schale",
+      "absaetze": [
+        "Die Zitronensäure kann den Zahnschmelz angreifen. Putz dir nach Zitronenwasser nicht sofort die Zähne, sondern warte eine Weile.",
+        "Für Schalenabrieb eignen sich nur Zitronen mit dem Hinweis unbehandelt. Andere Schalen können mit Konservierungsstoffen behandelt sein."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Die Zitrone ist das Obst mit dem meisten Vitamin C.",
+      "urteil": "mythos",
+      "erklaerung": "Paprika, schwarze Johannisbeeren und Sanddorn enthalten deutlich mehr Vitamin C als Zitronen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Lebensmittel liefern mehr Vitamin C als Zitronen?",
+      "art": "mc",
+      "optionen": [
+        "Paprika und schwarze Johannisbeeren",
+        "Gurken und Salat",
+        "Brot und Nudeln",
+        "Butter und Käse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Zitrone ist kein Spitzenreiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Vitamin C in sehr heißem Wasser?",
+      "art": "mc",
+      "optionen": [
+        "Ein Teil geht verloren",
+        "Es wird mehr",
+        "Es wird zu Zucker",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass das Wasser etwas abkühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nach Zitronenwasser nicht sofort tun?",
+      "art": "mc",
+      "optionen": [
+        "Zähne putzen",
+        "Wasser trinken",
+        "Atmen",
+        "Lächeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Säure macht den Zahnschmelz kurz empfindlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Schalenabrieb eignen sich unbehandelte Zitronen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Andere Schalen können behandelt sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zitronen enthalten Vitamin C, sind aber keine Spitzenreiter.",
+        "Heißes Wasser zerstört einen Teil des Vitamins.",
+        "Säure kann den Zahnschmelz angreifen.",
+        "Für die Schale nur unbehandelte Zitronen nehmen."
+      ]
+    }
+  ]
+}
