@@ -1,0 +1,124 @@
+{
+  "id": "ern-b101-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Skyr?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "skyr",
+    "milchprodukte",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Skyr steht inzwischen in fast jedem Kühlregal. Er sieht aus wie Joghurt, ist aber etwas anderes.",
+        "Was steckt in dem Produkt aus Island, und für wen lohnt es sich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Frischkäse aus Island",
+      "absaetze": [
+        "Skyr stammt aus Island und wird dort seit Jahrhunderten hergestellt. Streng genommen ist er kein Joghurt, sondern ein Frischkäse.",
+        "Er wird aus entrahmter Milch gemacht. Dabei wird viel Molke abgetrennt, also die wässrige Flüssigkeit der Milch. Deshalb ist Skyr fest und cremig."
+      ],
+      "merke": "Skyr ist ein Frischkäse aus entrahmter Milch, kein Joghurt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Eiweiß, wenig Fett",
+      "absaetze": [
+        "Weil die Molke fehlt, ist Skyr dichter als Joghurt. Er enthält meist etwa doppelt so viel Eiweiß wie Naturjoghurt und kaum Fett.",
+        "Damit ähnelt er Magerquark. Wer viel Eiweiß essen möchte, kann beide gut abwechseln. Magerquark ist oft deutlich günstiger."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf die Sorte achten",
+      "absaetze": [
+        "Naturskyr enthält nur den Zucker, der ohnehin in der Milch steckt. Fruchtsorten haben oft viel zugesetzten Zucker.",
+        "Viele Produkte in Deutschland sind Skyr nach isländischer Art und kommen nicht aus Island. Ein Blick auf die Zutatenliste lohnt sich immer."
+      ],
+      "merke": "Naturskyr mit frischem Obst ist meist besser als gesüßte Fruchtsorten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Skyr streng genommen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Frischkäse",
+        "Ein Joghurt",
+        "Eine Buttersorte",
+        "Ein Pflanzendrink"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird ähnlich wie Quark hergestellt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Skyr so fest?",
+      "art": "mc",
+      "optionen": [
+        "Viel Molke wird abgetrennt",
+        "Er enthält Gelatine",
+        "Er wird gefroren",
+        "Er wird mit Mehl angedickt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Übrig bleibt eine dichte, eiweißreiche Masse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchem Produkt ähnelt Skyr in den Nährwerten?",
+      "art": "mc",
+      "optionen": [
+        "Magerquark",
+        "Sahne",
+        "Butter",
+        "Schmelzkäse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beide haben viel Eiweiß und wenig Fett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fruchtsorten von Skyr enthalten oft zugesetzten Zucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Naturskyr mit frischem Obst ist die bessere Wahl."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Skyr ist ein Frischkäse aus Island.",
+        "Er hat viel Eiweiß und kaum Fett.",
+        "Magerquark ist eine günstige Alternative.",
+        "Fruchtsorten enthalten oft viel Zucker."
+      ]
+    }
+  ]
+}

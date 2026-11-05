@@ -1,0 +1,121 @@
+{
+  "id": "lern-b101-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie machst du gute Notizen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "notizen",
+    "cornell-methode",
+    "mitschrift"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Vorlesungen und Besprechungen schreiben viele fleißig mit. Später verstehen sie ihre eigenen Notizen kaum noch.",
+        "Mit ein paar Regeln werden Notizen zu einem echten Lernwerkzeug."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alles mitschreiben",
+      "absaetze": [
+        "Wer jedes Wort notiert, denkt kaum über den Inhalt nach. Besser ist es, mit eigenen Worten das Wichtigste festzuhalten.",
+        "Dafür musst du zuhören, auswählen und umformulieren. Genau dieses Verarbeiten hilft beim Merken."
+      ],
+      "merke": "Mit eigenen Worten notieren hilft mehr als wortwörtliches Mitschreiben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Cornell-Methode",
+      "absaetze": [
+        "Diese Methode stammt von der Cornell-Universität in den USA. Du teilst die Seite in drei Bereiche.",
+        "Rechts stehen die Notizen. Links notierst du später Stichworte und Fragen. Unten fasst du die Seite in wenigen Sätzen zusammen. Die linke Spalte eignet sich gut zum Abfragen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Notizen nacharbeiten",
+      "absaetze": [
+        "Lies deine Notizen möglichst noch am selben Tag durch. Ergänze, was fehlt, und markiere, was du nicht verstanden hast.",
+        "Teste dich danach mit den Stichworten selbst. Das Abrufen aus dem Gedächtnis festigt das Gelernte stärker als bloßes Wiederlesen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist beim Mitschreiben hilfreicher?",
+      "art": "mc",
+      "optionen": [
+        "Das Wichtigste in eigenen Worten notieren",
+        "Jedes Wort mitschreiben",
+        "Gar nichts aufschreiben",
+        "Nur Überschriften abmalen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Umformulieren hilft beim Verarbeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In wie viele Bereiche teilt die Cornell-Methode eine Seite?",
+      "art": "mc",
+      "optionen": [
+        "Drei",
+        "Zwei",
+        "Fünf",
+        "Zehn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Notizen, Stichworte und eine Zusammenfassung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du deine Notizen am besten durchgehen?",
+      "art": "mc",
+      "optionen": [
+        "Möglichst noch am selben Tag",
+        "Erst kurz vor der Prüfung",
+        "Nie",
+        "Nach einem Jahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist die Erinnerung noch frisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sich selbst abzufragen festigt Wissen stärker als bloßes Wiederlesen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Abrufen trainiert das Gedächtnis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schreib das Wichtigste in eigenen Worten auf.",
+        "Die Cornell-Methode teilt die Seite in drei Bereiche.",
+        "Arbeite deine Notizen am selben Tag nach.",
+        "Frag dich mit Stichworten selbst ab."
+      ]
+    }
+  ]
+}

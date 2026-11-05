@@ -1,0 +1,121 @@
+{
+  "id": "koer-b101-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was macht das Lymphsystem?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lymphsystem",
+    "lymphknoten",
+    "abwehr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Neben den Blutgefäßen durchzieht ein zweites Netz deinen Körper.",
+        "Es ist weniger bekannt, aber genauso wichtig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Abflusssystem für Gewebewasser",
+      "absaetze": [
+        "Aus den feinsten Blutgefäßen tritt ständig Flüssigkeit ins Gewebe aus. Der größte Teil fließt zurück, ein Rest bleibt zwischen den Zellen.",
+        "Diesen Rest sammeln die Lymphgefäße ein. Die Flüssigkeit heißt dann Lymphe. Sie wird schließlich in der Nähe des Herzens wieder ins Blut geleitet."
+      ],
+      "merke": "Das Lymphsystem bringt Gewebeflüssigkeit zurück ins Blut."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Filterstationen gegen Erreger",
+      "absaetze": [
+        "Unterwegs fließt die Lymphe durch Lymphknoten. Davon gibt es mehrere Hundert, etwa am Hals, in den Achseln und in der Leiste.",
+        "In den Lymphknoten sitzen Abwehrzellen. Sie erkennen Krankheitserreger und bekämpfen sie. Bei einer Erkältung schwellen die Knoten am Hals deshalb oft an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohne eigene Pumpe",
+      "absaetze": [
+        "Das Lymphsystem hat kein eigenes Herz. Die Lymphe wird vor allem durch Muskelbewegungen und Klappen in den Gefäßen weitergeschoben.",
+        "Darum hilft Bewegung dem Lymphfluss. Lymphknoten, die lange geschwollen bleiben oder hart sind, solltest du ärztlich untersuchen lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Flüssigkeit in den Lymphgefäßen?",
+      "art": "mc",
+      "optionen": [
+        "Lymphe",
+        "Plasma",
+        "Galle",
+        "Speichel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird aus dem Gewebe eingesammelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert in den Lymphknoten?",
+      "art": "mc",
+      "optionen": [
+        "Abwehrzellen bekämpfen Erreger",
+        "Blut wird gebildet",
+        "Nahrung wird verdaut",
+        "Hormone werden gespeichert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind Filterstationen des Körpers."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was treibt die Lymphe vor allem an?",
+      "art": "mc",
+      "optionen": [
+        "Muskelbewegungen",
+        "Ein eigenes Lymphherz",
+        "Die Lunge allein",
+        "Die Schwerkraft allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Klappen in den Gefäßen verhindern den Rückfluss."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einer Erkältung können Lymphknoten am Hals anschwellen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort arbeiten die Abwehrzellen dann besonders viel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Lymphsystem sammelt Gewebeflüssigkeit ein.",
+        "Lymphknoten filtern Erreger heraus.",
+        "Muskelbewegung treibt die Lymphe an.",
+        "Lange geschwollene Knoten ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

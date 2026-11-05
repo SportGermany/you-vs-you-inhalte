@@ -1,0 +1,128 @@
+{
+  "id": "geld-b101-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine Echtzeitüberweisung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zahlungsverkehr",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "echtzeitueberweisung",
+    "ueberweisung",
+    "zahlungsverkehr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher dauerte eine Überweisung oft einen Werktag. Am Wochenende sogar länger.",
+        "Mit der Echtzeitüberweisung ist das Geld in Sekunden da."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geld in wenigen Sekunden",
+      "absaetze": [
+        "Bei einer Echtzeitüberweisung ist das Geld innerhalb von höchstens zehn Sekunden auf dem Empfängerkonto. Das klappt rund um die Uhr, auch an Feiertagen.",
+        "Sie funktioniert im ganzen Euro-Zahlungsraum. Dazu gehören die EU-Länder und einige weitere europäische Staaten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Neue Regeln der EU",
+      "absaetze": [
+        "Eine EU-Verordnung verpflichtet Banken im Euroraum, Echtzeitüberweisungen anzubieten. Seit Oktober 2025 müssen sie auch das Senden ermöglichen.",
+        "Sie dürfen dafür nicht mehr verlangen als für eine normale Überweisung. Außerdem prüft die Bank, ob Name und IBAN des Empfängers zusammenpassen."
+      ],
+      "merke": "Echtzeitüberweisungen dürfen nicht teurer sein als normale Überweisungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einmal weg, ist weg",
+      "absaetze": [
+        "Eine Echtzeitüberweisung lässt sich nicht zurückholen. Das nutzen Betrüger aus, etwa mit gefälschten Anrufen oder Nachrichten.",
+        "Überweise deshalb nie unter Zeitdruck. Achte auf den Hinweis, wenn Name und IBAN nicht zusammenpassen. Du kannst bei deiner Bank oft ein Tageslimit festlegen."
+      ],
+      "merke": "Eine Echtzeitüberweisung kann nicht zurückgeholt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell ist das Geld bei einer Echtzeitüberweisung da?",
+      "art": "mc",
+      "optionen": [
+        "In höchstens zehn Sekunden",
+        "In drei Werktagen",
+        "In einer Woche",
+        "Nur am Monatsende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das funktioniert rund um die Uhr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darf eine Echtzeitüberweisung kosten?",
+      "art": "mc",
+      "optionen": [
+        "Nicht mehr als eine normale Überweisung",
+        "Immer 10 Euro",
+        "Das Doppelte",
+        "Ein Prozent des Betrags"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das legt eine EU-Verordnung fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was prüft die Bank vor dem Senden?",
+      "art": "mc",
+      "optionen": [
+        "Ob Name und IBAN zusammenpassen",
+        "Dein Lieblingsessen",
+        "Deine Schulnoten",
+        "Das Wetter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das soll Fehler und Betrug verhindern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Echtzeitüberweisung kannst du leicht zurückholen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ist das Geld einmal angekommen, ist es weg."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Echtzeitüberweisungen dauern höchstens zehn Sekunden.",
+        "Sie funktionieren rund um die Uhr.",
+        "Sie dürfen nicht teurer sein als normale Überweisungen.",
+        "Sie lassen sich nicht zurückholen, Vorsicht bei Zeitdruck."
+      ]
+    }
+  ]
+}

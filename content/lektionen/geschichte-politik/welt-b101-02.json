@@ -1,0 +1,127 @@
+{
+  "id": "welt-b101-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wie entstanden die ersten Universitäten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hochschulen in Deutschland",
+      "herausgeber": "Hochschulrektorenkonferenz",
+      "url": "https://www.hrk.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "universitaet",
+    "mittelalter",
+    "bildung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hörsäle, Professorinnen und Prüfungen gibt es seit über 900 Jahren.",
+        "Die Idee der Universität entstand im mittelalterlichen Europa."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bologna, Paris, Oxford",
+      "absaetze": [
+        "Als älteste Universität Europas gilt Bologna in Italien. Als Gründungsjahr wird meist 1088 genannt. Dort lernte man vor allem Recht.",
+        "Um 1200 folgten Paris und Oxford. In Nordafrika und im Nahen Osten gab es schon vorher bedeutende Lehrstätten. Eine davon ist Al-Qarawiyyin in Fes."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Gemeinschaft von Lernenden",
+      "absaetze": [
+        "Das lateinische Wort universitas bedeutet Gemeinschaft. Gemeint war ein Zusammenschluss von Lehrenden und Studierenden mit eigenen Rechten.",
+        "Gelehrt wurde auf Latein. Zuerst studierte man die freien Künste, etwa Grammatik, Logik und Rechnen. Danach ging es weiter mit Theologie, Recht oder Medizin."
+      ],
+      "merke": "Universitas bedeutet Gemeinschaft von Lehrenden und Lernenden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die ersten im deutschen Sprachraum",
+      "absaetze": [
+        "Im Heiligen Römischen Reich wurde 1348 die Universität in Prag gegründet. 1365 folgte Wien.",
+        "Die älteste Universität im heutigen Deutschland ist Heidelberg aus dem Jahr 1386. Bald darauf entstanden Köln und Erfurt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Universität gilt als älteste Europas?",
+      "art": "mc",
+      "optionen": [
+        "Bologna",
+        "Heidelberg",
+        "Cambridge",
+        "Wien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Als Gründungsjahr wird meist 1088 genannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet das lateinische Wort universitas?",
+      "art": "mc",
+      "optionen": [
+        "Gemeinschaft",
+        "Bibliothek",
+        "Weltall",
+        "Prüfung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeint war eine Gemeinschaft von Lehrenden und Lernenden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche ist die älteste Universität im heutigen Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "Heidelberg",
+        "München",
+        "Hamburg",
+        "Bonn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wurde 1386 gegründet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "An mittelalterlichen Universitäten wurde auf Latein gelehrt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Latein war die gemeinsame Sprache der Gelehrten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bologna gilt als älteste Universität Europas.",
+        "Universitas bedeutet Gemeinschaft.",
+        "Gelehrt wurde auf Latein.",
+        "Heidelberg ist die älteste Universität im heutigen Deutschland."
+      ]
+    }
+  ]
+}

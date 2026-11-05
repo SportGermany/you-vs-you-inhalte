@@ -1,0 +1,121 @@
+{
+  "id": "steu-b101-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Schulgeld von der Steuer absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schulgeld",
+    "privatschule",
+    "sonderausgaben"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Privatschulen verlangen ein monatliches Schulgeld.",
+        "Einen Teil davon kannst du dir über die Steuererklärung zurückholen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "30 Prozent als Sonderausgaben",
+      "absaetze": [
+        "Eltern können 30 Prozent des Schulgelds als Sonderausgaben angeben. Das sind bestimmte private Kosten, die das zu versteuernde Einkommen senken.",
+        "Höchstens 5.000 Euro pro Kind und Jahr werden so berücksichtigt. Dafür muss das Kind Kindergeld oder den Kinderfreibetrag auslösen."
+      ],
+      "merke": "30 Prozent des Schulgelds, höchstens 5.000 Euro pro Kind und Jahr, zählen als Sonderausgaben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Welche Schulen zählen",
+      "absaetze": [
+        "Die Schule muss zu einem anerkannten Abschluss führen oder darauf vorbereiten. Das gilt für Schulen in Deutschland und in anderen Ländern der EU und des Europäischen Wirtschaftsraums.",
+        "Auch manche deutsche Schulen im Ausland zählen dazu. Hochschulen gehören nicht dazu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alles gehört dazu",
+      "absaetze": [
+        "Absetzbar ist nur der Teil für den Unterricht. Kosten für Essen, Unterkunft im Internat oder Betreuung zählen nicht als Schulgeld.",
+        "Betreuungskosten können aber getrennt als Kinderbetreuungskosten zählen. Lass dir von der Schule aufschlüsseln, welcher Betrag wofür ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Anteil des Schulgelds ist absetzbar?",
+      "art": "mc",
+      "optionen": [
+        "30 Prozent",
+        "100 Prozent",
+        "5 Prozent",
+        "50 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird als Sonderausgabe angegeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der absetzbare Betrag pro Kind und Jahr höchstens?",
+      "art": "mc",
+      "optionen": [
+        "5.000 Euro",
+        "500 Euro",
+        "50.000 Euro",
+        "1.000 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das entspricht einem Schulgeld von über 16.000 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zählt nicht als Schulgeld?",
+      "art": "mc",
+      "optionen": [
+        "Kosten für Essen und Unterkunft",
+        "Unterrichtskosten",
+        "Gebühren für den Schulbesuch",
+        "Monatliche Schulbeiträge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass dir die Beträge aufschlüsseln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch bestimmte Schulen im EU-Ausland können zählen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie müssen zu einem anerkannten Abschluss führen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "30 Prozent des Schulgelds sind absetzbar.",
+        "Höchstens 5.000 Euro pro Kind und Jahr.",
+        "Essen und Unterkunft zählen nicht dazu.",
+        "Die Schule muss zu einem anerkannten Abschluss führen."
+      ]
+    }
+  ]
+}

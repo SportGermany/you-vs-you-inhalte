@@ -1,0 +1,143 @@
+{
+  "id": "haus-b101-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Polstermöbel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "polster",
+    "sofa",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Sofa wird gegessen, gekuschelt und gefaulenzt. Mit der Zeit sieht man ihm das an.",
+        "Mit der richtigen Pflege bleibt der Bezug länger schön."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig absaugen",
+      "absaetze": [
+        "Staub, Krümel und Haare setzen sich tief in den Stoff. Sauge dein Sofa deshalb etwa alle ein bis zwei Wochen mit einem Polsteraufsatz ab.",
+        "Vergiss die Ritzen zwischen den Kissen nicht. Abnehmbare Kissen kannst du ab und zu ausklopfen und lüften."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Flecken schnell behandeln",
+      "absaetze": [
+        "Frische Flecken lassen sich am leichtesten entfernen. Tupfe Flüssigkeit sofort mit einem sauberen Tuch ab. Reibe nicht, sonst drückst du den Fleck tiefer.",
+        "Arbeite von außen nach innen, damit sich der Fleck nicht ausbreitet. Lauwarmes Wasser mit etwas mildem Spülmittel reicht oft aus."
+      ],
+      "merke": "Flecken tupfen, nicht reiben, und von außen nach innen arbeiten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst an einer versteckten Stelle testen",
+      "absaetze": [
+        "Probiere jedes Mittel zuerst an einer unauffälligen Stelle aus. So siehst du, ob sich die Farbe verändert.",
+        "Mach den Stoff nur leicht feucht und lass ihn gut trocknen. Zu viel Wasser kann Ränder hinterlassen. Leder und empfindliche Stoffe brauchen spezielle Pflege. Beachte die Hinweise des Herstellers."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So machst du einen Fleck weg",
+      "schritte": [
+        {
+          "titel": "Tupfen",
+          "text": "Nimm so viel Flüssigkeit wie möglich mit einem sauberen Tuch auf."
+        },
+        {
+          "titel": "Testen",
+          "text": "Probiere dein Mittel an einer versteckten Stelle."
+        },
+        {
+          "titel": "Behandeln",
+          "text": "Arbeite vorsichtig von außen nach innen."
+        },
+        {
+          "titel": "Trocknen",
+          "text": "Lass die Stelle an der Luft trocknen und sauge sie danach ab."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du ein Sofa etwa absaugen?",
+      "art": "mc",
+      "optionen": [
+        "Alle ein bis zwei Wochen",
+        "Einmal im Jahr",
+        "Nie",
+        "Jede Stunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "So setzt sich weniger Schmutz fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie behandelst du einen frischen Fleck?",
+      "art": "mc",
+      "optionen": [
+        "Abtupfen statt reiben",
+        "Kräftig reiben",
+        "Mit heißem Föhn trocknen",
+        "Liegen lassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reiben drückt den Fleck tiefer in den Stoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welche Richtung arbeitest du beim Fleck?",
+      "art": "mc",
+      "optionen": [
+        "Von außen nach innen",
+        "Von innen nach außen",
+        "Kreuz und quer",
+        "Nur in der Mitte"
+      ],
+      "richtig": 0,
+      "erklaerung": "So breitet sich der Fleck nicht aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein neues Mittel solltest du zuerst an einer versteckten Stelle testen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So vermeidest du Farbschäden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sauge Polster regelmäßig ab.",
+        "Flecken tupfen statt reiben.",
+        "Von außen nach innen arbeiten.",
+        "Mittel zuerst an einer versteckten Stelle testen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b101-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Räumt das Gehirn im Schlaf auf?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glymphatisches system",
+    "gehirn",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Gehirn arbeitet den ganzen Tag. Dabei entstehen Abfallstoffe, die wieder weg müssen.",
+        "Forschende vermuten, dass der Schlaf dabei eine wichtige Rolle spielt. Ganz geklärt ist das aber noch nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Spülsystem im Kopf",
+      "absaetze": [
+        "Das Gehirn ist von Hirnwasser umgeben. Fachleute nennen es Liquor. Es kann entlang der Blutgefäße in das Gehirn hineinströmen und Stoffe ausspülen.",
+        "Dieses Spülsystem heißt glymphatisches System. Der Name verbindet bestimmte Stützzellen im Gehirn, die Gliazellen, mit dem Lymphsystem des Körpers."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Mausstudien zeigten",
+      "absaetze": [
+        "2013 beobachteten Forschende bei Mäusen, dass sich die Räume zwischen den Gehirnzellen im Schlaf vergrößerten. Abfallstoffe wurden dann schneller ausgespült.",
+        "Dazu gehörte Beta-Amyloid. Das ist ein Eiweiß, das bei der Alzheimer-Krankheit im Gehirn verklumpt. Diese Ergebnisse deuten darauf hin, dass Schlaf beim Aufräumen hilft."
+      ],
+      "merke": "Tierstudien deuten darauf hin, dass das Gehirn im Schlaf Abfallstoffe besser ausspült.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Noch viele offene Fragen",
+      "absaetze": [
+        "Beim Menschen lässt sich das schwer messen. Einige Studien deuten darauf hin, dass nach einer durchwachten Nacht mehr Beta-Amyloid im Gehirn ist.",
+        "Eine Mausstudie kam 2024 jedoch zum gegenteiligen Ergebnis. Die Forschung ist also umstritten. Sicher ist nur: Ausreichend Schlaf ist für das Gehirn wichtig."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das Spülsystem im Gehirn?",
+      "art": "mc",
+      "optionen": [
+        "Glymphatisches System",
+        "Lymphknoten",
+        "Blut-Hirn-Schranke",
+        "Nervensystem"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Name verbindet Gliazellen und Lymphsystem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Eiweiß wurde in den Studien untersucht?",
+      "art": "mc",
+      "optionen": [
+        "Beta-Amyloid",
+        "Insulin",
+        "Kollagen",
+        "Hämoglobin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es verklumpt bei der Alzheimer-Krankheit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen die ersten Hinweise?",
+      "art": "mc",
+      "optionen": [
+        "Aus Studien an Mäusen",
+        "Aus alten Sagen",
+        "Aus Umfragen",
+        "Aus Wetterdaten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Menschen ist es schwerer zu messen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Forschung zum Aufräumen im Schlaf ist eindeutig geklärt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Neuere Studien kommen zu unterschiedlichen Ergebnissen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hirnwasser kann Abfallstoffe aus dem Gehirn spülen.",
+        "Mausstudien deuten darauf hin, dass das im Schlaf besser klappt.",
+        "Beim Menschen ist die Frage noch nicht geklärt.",
+        "Genug Schlaf ist für das Gehirn trotzdem wichtig."
+      ]
+    }
+  ]
+}

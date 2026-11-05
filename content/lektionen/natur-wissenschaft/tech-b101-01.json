@@ -1,0 +1,121 @@
+{
+  "id": "tech-b101-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie heizt ein Glaskeramik-Kochfeld?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "glaskeramik",
+    "kochfeld",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Küchen haben ein glattes, schwarzes Kochfeld. Oft wird es nach einem Markennamen Ceranfeld genannt.",
+        "Doch wie kommt die Hitze durch das Glas in den Topf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Heizung unter der Scheibe",
+      "absaetze": [
+        "Unter der Glasplatte liegen Heizkörper aus Metalldraht. Fließt Strom hindurch, werden sie sehr heiß und glühen rot.",
+        "Sie geben Wärme vor allem als Wärmestrahlung ab. Fachleute sprechen von Infrarotstrahlung. Sie geht gut durch die Glaskeramik hindurch und erhitzt den Topfboden."
+      ],
+      "merke": "Glühende Heizkörper unter der Scheibe strahlen die Wärme nach oben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein besonderes Material",
+      "absaetze": [
+        "Glaskeramik dehnt sich bei Hitze fast gar nicht aus. Deshalb springt sie auch bei großen Temperaturunterschieden nicht.",
+        "Zur Seite leitet sie Wärme nur schlecht. So wird vor allem die Kochzone heiß, während die Fläche daneben kühler bleibt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschied zum Induktionsherd",
+      "absaetze": [
+        "Ein Induktionsherd sieht ähnlich aus, arbeitet aber anders. Dort erzeugt ein Magnetfeld die Wärme direkt im Topfboden.",
+        "Beim Glaskeramik-Kochfeld wird dagegen erst die Platte heiß. Darum bleibt sie nach dem Kochen lange warm. Eine Anzeige für Restwärme warnt dich davor."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liegt unter der Glasplatte?",
+      "art": "mc",
+      "optionen": [
+        "Heizkörper aus Metalldraht",
+        "Ein Gasbrenner",
+        "Ein Ventilator",
+        "Eine Wasserleitung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie glühen, wenn Strom hindurchfließt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelangt die Wärme vor allem in den Topf?",
+      "art": "mc",
+      "optionen": [
+        "Als Wärmestrahlung durch das Glas",
+        "Über Luftdüsen",
+        "Durch ein Magnetfeld im Topf",
+        "Durch Wasserdampf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fachleute sprechen von Infrarotstrahlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum springt Glaskeramik bei Hitze nicht?",
+      "art": "mc",
+      "optionen": [
+        "Sie dehnt sich kaum aus",
+        "Sie wird ständig gekühlt",
+        "Sie ist aus Metall",
+        "Sie ist sehr dick"
+      ],
+      "richtig": 0,
+      "erklaerung": "So halten große Temperaturunterschiede ihr nichts an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Induktionsherd erzeugt die Wärme direkt im Topfboden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Beim Glaskeramik-Kochfeld wird erst die Platte heiß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Unter der Glaskeramik glühen Heizkörper.",
+        "Die Wärme strahlt durch das Glas in den Topf.",
+        "Glaskeramik dehnt sich kaum aus.",
+        "Anders als bei Induktion bleibt die Platte lange heiß."
+      ]
+    }
+  ]
+}

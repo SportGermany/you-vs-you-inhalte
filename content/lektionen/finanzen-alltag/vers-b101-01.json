@@ -1,0 +1,127 @@
+{
+  "id": "vers-b101-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Lohnt sich eine Selbstbeteiligung bei Versicherungen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Versicherungen verstehen",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "selbstbeteiligung",
+    "versicherungsbeitrag",
+    "kasko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei vielen Versicherungen kannst du eine Selbstbeteiligung wählen. Dann zahlst du im Schadenfall einen Teil selbst.",
+        "Dafür sinkt der Beitrag. Wann ist das ein guter Tausch?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie es funktioniert",
+      "absaetze": [
+        "Die Selbstbeteiligung ist ein fester Betrag pro Schaden, zum Beispiel 150 oder 300 Euro. Diesen Teil zahlst du, den Rest übernimmt die Versicherung.",
+        "Kleine Schäden unterhalb dieser Grenze zahlst du komplett selbst. Dafür ist dein jährlicher Beitrag niedriger."
+      ],
+      "merke": "Mit Selbstbeteiligung zahlst du weniger Beitrag, trägst aber kleine Schäden selbst."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann sie sich lohnt",
+      "absaetze": [
+        "Sie lohnt sich, wenn du selten Schäden hast und den Betrag jederzeit zahlen könntest. Die Ersparnis beim Beitrag sammelt sich über die Jahre an.",
+        "Wer kleine Schäden ohnehin selbst zahlt, schützt zudem oft seinen Schadenfreiheitsrabatt. Das gilt vor allem in der Kfz-Versicherung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rechne nach",
+      "absaetze": [
+        "Vergleiche die Ersparnis pro Jahr mit der Höhe der Selbstbeteiligung. Spart sie nur wenige Euro, lohnt sich das Risiko kaum.",
+        "Wähle keine Selbstbeteiligung, die dich im Ernstfall in Geldnot bringt. In der Kfz-Haftpflicht gibt es meist keine, in der Kaskoversicherung ist sie üblich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Selbstbeteiligung?",
+      "art": "mc",
+      "optionen": [
+        "Ein Betrag, den du im Schadenfall selbst zahlst",
+        "Ein Bonus der Versicherung",
+        "Eine Strafe bei Kündigung",
+        "Eine Gebühr fürs Beraten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Rest des Schadens übernimmt die Versicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Vorteil?",
+      "art": "mc",
+      "optionen": [
+        "Ein niedrigerer Beitrag",
+        "Mehr Leistungen",
+        "Keine Kündigungsfrist",
+        "Doppelte Auszahlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür trägst du kleine Schäden selbst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann lohnt sie sich eher?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du selten Schäden hast und den Betrag zahlen könntest",
+        "Wenn du jeden Monat einen Schaden meldest",
+        "Wenn du kein Erspartes hast",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann sammelt sich die Ersparnis an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In der Kaskoversicherung ist eine Selbstbeteiligung üblich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In der Kfz-Haftpflicht gibt es dagegen meist keine."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Selbstbeteiligung senkt den Beitrag.",
+        "Kleine Schäden zahlst du dann selbst.",
+        "Sie lohnt sich bei wenigen Schäden und einem Polster auf dem Konto.",
+        "Vergleiche Ersparnis und Risiko genau."
+      ]
+    }
+  ]
+}

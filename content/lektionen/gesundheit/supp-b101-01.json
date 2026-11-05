@@ -1,0 +1,146 @@
+{
+  "id": "supp-b101-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Weidenrinde-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arzneimittel",
+      "herausgeber": "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)",
+      "url": "https://www.bfarm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "weidenrinde",
+    "salicin",
+    "schmerzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weidenrinde wird seit sehr langer Zeit gegen Schmerzen und Fieber verwendet.",
+        "Sie hat sogar die Entwicklung eines bekannten Medikaments angestoßen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Wirkstoff Salicin",
+      "absaetze": [
+        "Die Rinde mancher Weidenarten enthält Salicin. Der Körper wandelt diesen Stoff in Salicylsäure um.",
+        "Chemiker entwickelten daraus später die Acetylsalicylsäure. Sie kam 1899 als Aspirin auf den Markt und ist bis heute eines der bekanntesten Schmerzmittel."
+      ],
+      "merke": "Aus dem Weidenrinden-Stoff Salicin entstand die Idee zu Aspirin."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Weidenrinde wird vor allem bei Rückenschmerzen und Gelenkbeschwerden angeboten. Einige Studien deuten darauf hin, dass sie bei Rückenschmerzen etwas lindern kann.",
+        "Die Studien sind aber klein und oft nicht sehr sorgfältig gemacht. Die Wirkung setzt langsamer ein als bei üblichen Schmerzmitteln."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht harmlos, nur weil pflanzlich",
+      "absaetze": [
+        "Weil Weidenrinde mit Acetylsalicylsäure verwandt ist, gelten ähnliche Vorsichtsregeln. Wer darauf allergisch reagiert, sollte Weidenrinde meiden.",
+        "Sie kann Magenbeschwerden auslösen und mit Blutverdünnern zusammenwirken. Anhaltende Schmerzen gehören in ärztliche Hände."
+      ],
+      "merke": "Pflanzlich heißt nicht automatisch harmlos."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht bei Allergie gegen Salicylate oder Acetylsalicylsäure.",
+        "Bei Blutverdünnern, Magengeschwüren oder vor Operationen vorher ärztlich nachfragen.",
+        "Nicht für Kinder, Schwangere und Stillende ohne ärztlichen Rat.",
+        "Anhaltende Schmerzen ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Pflanzliche Schmerzmittel haben keine Nebenwirkungen.",
+      "urteil": "mythos",
+      "erklaerung": "Auch Pflanzenstoffe wirken im Körper. Weidenrinde kann ähnliche Probleme machen wie verwandte Medikamente, etwa am Magen oder bei Allergien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff steckt in Weidenrinde?",
+      "art": "mc",
+      "optionen": [
+        "Salicin",
+        "Koffein",
+        "Menthol",
+        "Melatonin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper wandelt ihn in Salicylsäure um."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Medikament geht auf diesen Stoff zurück?",
+      "art": "mc",
+      "optionen": [
+        "Aspirin",
+        "Penicillin",
+        "Insulin",
+        "Paracetamol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kam 1899 auf den Markt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist die Studienlage bei Rückenschmerzen?",
+      "art": "mc",
+      "optionen": [
+        "Einige kleine Studien deuten auf eine leichte Linderung hin",
+        "Die Wirkung ist eindeutig stärker als jedes Medikament",
+        "Es gibt gar keine Studien",
+        "Sie wirkt nur bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind aber nicht sehr aussagekräftig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer auf Acetylsalicylsäure allergisch ist, sollte Weidenrinde meiden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Stoffe sind eng verwandt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weidenrinde enthält Salicin.",
+        "Daraus entstand die Idee zu Aspirin.",
+        "Bei Rückenschmerzen gibt es nur schwache Hinweise auf Nutzen.",
+        "Ähnliche Vorsichtsregeln wie bei Acetylsalicylsäure beachten."
+      ]
+    }
+  ]
+}
