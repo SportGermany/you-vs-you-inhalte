@@ -1,0 +1,127 @@
+{
+  "id": "geld-b087-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was steckt hinter Lockangeboten beim Tagesgeld?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher: Geldanlage",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tagesgeld",
+    "zinsen",
+    "neukunden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hohe Zinsen fürs Tagesgeld, aber nur für Neukunden.",
+        "Solche Angebote sind verlockend. Was solltest du wissen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zinsen auf Zeit",
+      "absaetze": [
+        "Viele Banken werben neue Kundinnen und Kunden mit besonders hohen Tagesgeldzinsen. Diese gelten aber meist nur für einige Monate.",
+        "Danach sinkt der Zins oft auf einen deutlich niedrigeren Bestandskundenzins. Achte deshalb darauf, wie lange der Lockzins gilt und für welchen Betrag."
+      ],
+      "merke": "Lockzinsen gelten meist nur befristet und bis zu einem Höchstbetrag."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Variable Zinsen",
+      "absaetze": [
+        "Beim Tagesgeld kann die Bank den Zins jederzeit ändern. Das ist ein Unterschied zum Festgeld, bei dem der Zins für die Laufzeit feststeht.",
+        "Dafür kannst du beim Tagesgeld jederzeit über dein Geld verfügen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit prüfen",
+      "absaetze": [
+        "In der EU sind Einlagen pro Kunde und Bank bis 100.000 Euro gesetzlich geschützt. Prüfe bei ausländischen Banken, aus welchem Land die Einlagensicherung kommt.",
+        "Wer regelmäßig zur nächsten Bank mit Lockangebot wechselt, kann mehr Zinsen bekommen. Das kostet aber Zeit und Aufwand für Kontoeröffnungen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen gelten Lockzinsen meistens?",
+      "art": "mc",
+      "optionen": [
+        "Für Neukunden",
+        "Für alle Kunden dauerhaft",
+        "Nur für Firmen",
+        "Nur für Kinder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bestandskunden bekommen oft weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert meist nach Ablauf des Lockangebots?",
+      "art": "mc",
+      "optionen": [
+        "Der Zins sinkt",
+        "Der Zins verdoppelt sich",
+        "Das Konto wird geschlossen",
+        "Das Geld wird eingefroren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann gilt der niedrigere Bestandskundenzins."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welchem Betrag sind Einlagen in der EU gesetzlich geschützt?",
+      "art": "mc",
+      "optionen": [
+        "100.000 Euro pro Kunde und Bank",
+        "1.000 Euro",
+        "10 Millionen Euro",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das regelt die gesetzliche Einlagensicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Tagesgeld steht der Zins für mehrere Jahre fest.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Zins ist variabel und kann sich jederzeit ändern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lockzinsen gelten meist nur für Neukunden und befristet.",
+        "Danach sinkt der Zins oft deutlich.",
+        "Tagesgeldzinsen sind variabel.",
+        "Einlagen sind bis 100.000 Euro pro Bank geschützt."
+      ]
+    }
+  ]
+}

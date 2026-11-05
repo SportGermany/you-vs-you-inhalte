@@ -1,0 +1,147 @@
+{
+  "id": "supp-b087-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Pflanzensterinen gegen Cholesterin zu halten?",
+  "minuten": 4,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fragen und Antworten zu Lebensmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pflanzensterine",
+    "cholesterin",
+    "margarine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Kühlregal stehen Margarinen und Joghurtdrinks, die den Cholesterinspiegel senken sollen.",
+        "Sie enthalten zugesetzte Pflanzensterine. Was ist davon zu halten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Pflanzensterine sind",
+      "absaetze": [
+        "Pflanzensterine sind Stoffe, die dem Cholesterin chemisch ähneln. In kleinen Mengen kommen sie natürlich in Nüssen, Samen und Pflanzenölen vor.",
+        "Im Darm konkurrieren sie mit dem Cholesterin. Dadurch gelangt weniger Cholesterin aus der Nahrung ins Blut."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was belegt ist und was nicht",
+      "absaetze": [
+        "Studien zeigen, dass angereicherte Lebensmittel das LDL-Cholesterin senken können. Das ist das Cholesterin, das als ungünstig für die Gefäße gilt.",
+        "Ob dadurch auch weniger Herzinfarkte oder Schlaganfälle auftreten, ist aber nicht belegt. Pflanzensterine gelangen außerdem selbst ins Blut. Welche Folgen das langfristig hat, ist noch offen."
+      ],
+      "merke": "Pflanzensterine senken das LDL, ein Nutzen für das Herz ist nicht belegt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für alle gedacht",
+      "absaetze": [
+        "Solche Produkte sind nur für Menschen gedacht, die ihren Cholesterinspiegel senken müssen. Auf der Packung steht ein Hinweis, dass sie für Schwangere, Stillende und Kinder unter fünf Jahren nicht geeignet sind.",
+        "Bei erhöhtem Cholesterin gehört die Behandlung in ärztliche Hände."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Angereicherte Produkte ersetzen keine ärztliche Behandlung bei erhöhtem Cholesterin.",
+        "Für Schwangere, Stillende und Kinder unter fünf Jahren sind sie nicht geeignet.",
+        "Wenn du cholesterinsenkende Medikamente brauchst, sprich vorher mit deiner Ärztin oder deinem Arzt.",
+        "Mehrere angereicherte Produkte gleichzeitig zu verwenden, ist nicht sinnvoll."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Pflanzensterin-Margarine ist für die ganze Familie gesünder.",
+      "urteil": "mythos",
+      "erklaerung": "Für Menschen mit normalem Cholesterin bringt sie keinen belegten Vorteil. Für Kinder unter fünf Jahren, Schwangere und Stillende ist sie laut Packungshinweis nicht geeignet. Gedacht ist sie nur für Erwachsene mit erhöhtem Cholesterin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirken Pflanzensterine im Darm?",
+      "art": "mc",
+      "optionen": [
+        "Sie konkurrieren mit dem Cholesterin",
+        "Sie verdauen Eiweiß",
+        "Sie bilden Vitamin D",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch gelangt weniger Cholesterin ins Blut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für angereicherte Produkte belegt?",
+      "art": "mc",
+      "optionen": [
+        "Sie können das LDL-Cholesterin senken",
+        "Sie verhindern sicher Herzinfarkte",
+        "Sie machen schlank",
+        "Sie ersetzen Medikamente"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Nutzen für Herz und Gefäße ist nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen sind solche Produkte laut Packung nicht geeignet?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere, Stillende und Kinder unter fünf",
+        "Menschen über 40",
+        "Sportler",
+        "Vegetarier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das steht als Hinweis auf der Verpackung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pflanzensterine kommen auch natürlich in Nüssen und Pflanzenölen vor.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dort allerdings in kleinen Mengen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflanzensterine ähneln dem Cholesterin.",
+        "Angereicherte Produkte können das LDL senken.",
+        "Ein Schutz vor Herzinfarkt ist nicht belegt.",
+        "Sie sind nur für Erwachsene mit erhöhtem Cholesterin gedacht."
+      ]
+    }
+  ]
+}

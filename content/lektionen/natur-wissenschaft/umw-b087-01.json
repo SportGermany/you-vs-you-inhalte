@@ -1,0 +1,127 @@
+{
+  "id": "umw-b087-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum zeigen Flechten die Luftqualität an?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Artenvielfalt",
+      "herausgeber": "Bundesamt für Naturschutz",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "flechten",
+    "luftqualitaet",
+    "bioindikatoren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Graue, gelbe oder grüne Krusten auf Baumrinde und Steinen.",
+        "Flechten sind unscheinbar, verraten aber viel über die Luft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Lebensgemeinschaft",
+      "absaetze": [
+        "Eine Flechte ist kein einzelnes Lebewesen. Sie ist eine enge Partnerschaft aus einem Pilz und einer Alge oder einem Cyanobakterium.",
+        "Der Pilz bildet das Gerüst und schützt. Der Partner betreibt Fotosynthese und liefert Zucker. Fachleute nennen so eine Partnerschaft Symbiose."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abhängig von der Luft",
+      "absaetze": [
+        "Flechten haben keine Wurzeln. Wasser und Nährstoffe beziehen sie direkt aus Regen, Nebel und Luft. Damit gelangen auch Schadstoffe ungefiltert in sie hinein.",
+        "Viele Arten reagieren deshalb empfindlich auf Schwefeldioxid. Lebewesen, die Umweltbedingungen anzeigen, nennt man Bioindikatoren."
+      ],
+      "merke": "Flechten beziehen alles aus der Luft und reagieren auf Schadstoffe."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rückkehr in die Städte",
+      "absaetze": [
+        "Früher waren Städte und Industriegebiete fast flechtenfrei. Seit die Luft weniger Schwefeldioxid enthält, kehren viele Arten zurück.",
+        "Heute zeigen bestimmte Flechten eher an, ob viele Stickstoffverbindungen in der Luft sind, etwa aus Verkehr und Landwirtschaft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht eine Flechte?",
+      "art": "mc",
+      "optionen": [
+        "Aus einem Pilz und einer Alge oder einem Cyanobakterium",
+        "Aus einem Moos und einem Farn",
+        "Aus Baumrinde",
+        "Aus Kalk"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Partnerschaft heißt Symbiose."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher beziehen Flechten Wasser und Nährstoffe?",
+      "art": "mc",
+      "optionen": [
+        "Aus Regen, Nebel und Luft",
+        "Über tiefe Wurzeln",
+        "Aus dem Baumsaft",
+        "Aus dem Grundwasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb gelangen auch Schadstoffe ungefiltert in sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man Lebewesen, die Umweltbedingungen anzeigen?",
+      "art": "mc",
+      "optionen": [
+        "Bioindikatoren",
+        "Biotope",
+        "Biokraftstoffe",
+        "Bionik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Flechten sind ein bekanntes Beispiel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit die Luft sauberer ist, kehren viele Flechten in die Städte zurück.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vor allem weniger Schwefeldioxid hilft ihnen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Flechten sind eine Symbiose aus Pilz und Alge.",
+        "Sie beziehen Wasser und Nährstoffe aus der Luft.",
+        "Viele Arten reagieren auf Schwefeldioxid.",
+        "Sie gelten als Bioindikatoren für die Luftqualität."
+      ]
+    }
+  ]
+}

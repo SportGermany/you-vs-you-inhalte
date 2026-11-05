@@ -1,0 +1,143 @@
+{
+  "id": "haus-b087-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du ein Bügeleisen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "buegeleisen",
+    "entkalken",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich hinterlässt das Bügeleisen braune Flecken auf der weißen Bluse.",
+        "Meist sind Kalk oder Rückstände auf der Sohle schuld."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalk im Dampfsystem",
+      "absaetze": [
+        "Dampfbügeleisen verdampfen Wasser. Dabei bleibt Kalk zurück. Mit der Zeit verstopft er die Dampfdüsen, und es tropfen braune Flocken heraus.",
+        "Viele Geräte haben eine Selbstreinigungsfunktion oder eine Kalkkassette. Wie du sie nutzt, steht in der Bedienungsanleitung. Halte dich daran, denn Hersteller empfehlen je nach Modell unterschiedliches Wasser."
+      ],
+      "merke": "Beim Entkalken gilt die Bedienungsanleitung deines Geräts."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Sohle säubern",
+      "absaetze": [
+        "Auf der Sohle sammeln sich Reste von Stärke, Fasern oder geschmolzenem Kunststoff. Reinige sie im abgekühlten Zustand mit einem feuchten, weichen Tuch.",
+        "Verwende keine Stahlwolle und keine Scheuermittel. Sie zerkratzen die Beschichtung, und dann gleitet das Eisen schlechter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen",
+      "absaetze": [
+        "Leere den Wassertank nach dem Bügeln. So steht kein Wasser im Gerät, und es bildet sich weniger Kalk.",
+        "Stelle die Temperatur passend zum Stoff ein. Zu heiß gebügelte Kunstfasern schmelzen leicht an und verschmutzen die Sohle."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So pflegst du dein Bügeleisen",
+      "schritte": [
+        {
+          "titel": "Anleitung lesen",
+          "text": "Prüfe, wie dein Modell entkalkt wird und welches Wasser es braucht."
+        },
+        {
+          "titel": "Abkühlen lassen",
+          "text": "Reinige die Sohle nur, wenn das Gerät kalt ist."
+        },
+        {
+          "titel": "Sanft wischen",
+          "text": "Nutze ein feuchtes, weiches Tuch statt Scheuermittel."
+        },
+        {
+          "titel": "Tank leeren",
+          "text": "Gieße nach dem Bügeln das restliche Wasser aus."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verursacht oft braune Flocken aus dem Bügeleisen?",
+      "art": "mc",
+      "optionen": [
+        "Kalk im Dampfsystem",
+        "Zu wenig Strom",
+        "Zu kaltes Wasser",
+        "Ein neues Bügelbrett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kalk verstopft mit der Zeit die Düsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit solltest du die Sohle reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem feuchten, weichen Tuch",
+        "Mit Stahlwolle",
+        "Mit Scheuersand",
+        "Mit einem Messer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Scheuermittel zerkratzen die Beschichtung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann reinigst du die Sohle?",
+      "art": "mc",
+      "optionen": [
+        "Wenn das Gerät abgekühlt ist",
+        "Wenn es heiß ist",
+        "Während des Bügelns",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du Verbrennungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Den Wassertank nach dem Bügeln zu leeren, beugt Kalk vor.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Stehendes Wasser fördert Kalkablagerungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kalk verstopft die Dampfdüsen.",
+        "Entkalke nach Bedienungsanleitung.",
+        "Reinige die kalte Sohle mit einem weichen Tuch.",
+        "Leere den Tank nach dem Bügeln."
+      ]
+    }
+  ]
+}

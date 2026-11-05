@@ -1,0 +1,124 @@
+{
+  "id": "ern-b087-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Weißkohl?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "weisskohl",
+    "sauerkraut",
+    "kohl"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weißkohl ist günstig, lange haltbar und wächst bei uns in großen Mengen.",
+        "Als Sauerkraut hat er sogar Seefahrergeschichte geschrieben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein klassisches Wintergemüse",
+      "absaetze": [
+        "Weißkohl wird im Herbst geerntet und lässt sich kühl monatelang lagern. Deshalb war er früher im Winter ein wichtiger Vitaminlieferant.",
+        "Er enthält Vitamin C, Vitamin K, Folat und Ballaststoffe. Dazu kommen Senfölverbindungen, die ihm seinen typischen Geschmack geben."
+      ],
+      "merke": "Weißkohl liefert Vitamin C, Vitamin K und Ballaststoffe.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Kohl zum Sauerkraut",
+      "absaetze": [
+        "Für Sauerkraut wird Weißkohl fein gehobelt, gesalzen und gestampft. Milchsäurebakterien vergären ihn dann. Dabei entsteht Milchsäure, die ihn haltbar macht.",
+        "Der britische Seefahrer James Cook nahm Sauerkraut auf seine Reisen mit. Das Vitamin C darin half gegen Skorbut, eine Mangelkrankheit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut verträglich zubereiten",
+      "absaetze": [
+        "Kohl kann blähen, weil Darmbakterien seine Ballaststoffe abbauen. Kümmel, Fenchel oder eine längere Garzeit machen ihn für viele bekömmlicher.",
+        "Rohes Sauerkraut aus dem Kühlregal enthält noch lebende Milchsäurebakterien. Beim Erhitzen oder bei Konserven werden diese abgetötet."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Weißkohl zu Sauerkraut?",
+      "art": "mc",
+      "optionen": [
+        "Durch Milchsäuregärung",
+        "Durch Räuchern",
+        "Durch Trocknen in der Sonne",
+        "Durch Einfrieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Milchsäurebakterien vergären den Kohl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wogegen half Sauerkraut auf Seereisen?",
+      "art": "mc",
+      "optionen": [
+        "Gegen Skorbut",
+        "Gegen Seekrankheit",
+        "Gegen Sonnenbrand",
+        "Gegen Heimweh"
+      ],
+      "richtig": 0,
+      "erklaerung": "Skorbut entsteht durch Vitamin-C-Mangel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Kohl bekömmlicher machen?",
+      "art": "mc",
+      "optionen": [
+        "Kümmel oder längeres Garen",
+        "Viel Zucker",
+        "Eiswasser dazu",
+        "Ihn roh im Ganzen essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So blähen Kohlgerichte oft weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sauerkraut aus der Konserve enthält noch viele lebende Milchsäurebakterien.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Beim Erhitzen werden sie abgetötet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weißkohl ist ein lange lagerfähiges Wintergemüse.",
+        "Er liefert Vitamin C, Vitamin K und Ballaststoffe.",
+        "Sauerkraut entsteht durch Milchsäuregärung.",
+        "Kümmel und längeres Garen machen Kohl bekömmlicher."
+      ]
+    }
+  ]
+}

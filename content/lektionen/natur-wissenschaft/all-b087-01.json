@@ -1,0 +1,121 @@
+{
+  "id": "all-b087-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist die Sonnenkorona so heiß?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Die Sonne",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnenkorona",
+    "sonne",
+    "sonnenwind"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einer totalen Sonnenfinsternis leuchtet ein heller Strahlenkranz um die dunkle Scheibe.",
+        "Das ist die Korona, die äußere Atmosphäre der Sonne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Strahlenkranz der Sonne",
+      "absaetze": [
+        "Die Korona reicht Millionen Kilometer ins All. Normalerweise überstrahlt das helle Sonnenlicht sie.",
+        "Sichtbar wird sie bei einer totalen Sonnenfinsternis. Fachleute beobachten sie auch mit Koronografen. Diese Instrumente decken die Sonnenscheibe künstlich ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein heißes Rätsel",
+      "absaetze": [
+        "Die sichtbare Oberfläche der Sonne ist rund 5.500 Grad heiß. Die Korona dagegen erreicht mehr als eine Million Grad.",
+        "Warum die äußere Schicht viel heißer ist als die Oberfläche darunter, ist eines der großen Rätsel der Sonnenforschung. Vermutet werden Vorgänge in den Magnetfeldern der Sonne."
+      ],
+      "merke": "Die Korona ist viel heißer als die Sonnenoberfläche, warum, ist noch nicht ganz geklärt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ursprung des Sonnenwinds",
+      "absaetze": [
+        "Aus der Korona strömt ständig der Sonnenwind ins All. Das ist ein Strom geladener Teilchen.",
+        "Um die Korona zu erforschen, flog die NASA-Sonde Parker Solar Probe 2021 als erstes Raumfahrzeug durch sie hindurch. Auch die europäische Sonde Solar Orbiter beobachtet sie aus der Nähe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kann man die Korona mit bloßem Auge sehen?",
+      "art": "mc",
+      "optionen": [
+        "Bei einer totalen Sonnenfinsternis",
+        "Bei Vollmond",
+        "Bei jedem Sonnenuntergang",
+        "Nur im Winter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst überstrahlt das Sonnenlicht sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heiß wird die Korona?",
+      "art": "mc",
+      "optionen": [
+        "Mehr als eine Million Grad",
+        "Etwa 100 Grad",
+        "Etwa 5.500 Grad",
+        "Unter null Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Oberfläche ist mit rund 5.500 Grad viel kühler."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was strömt aus der Korona ins All?",
+      "art": "mc",
+      "optionen": [
+        "Der Sonnenwind",
+        "Wasserdampf",
+        "Sauerstoff",
+        "Sternenstaub aus anderen Galaxien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er besteht aus geladenen Teilchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Parker Solar Probe flog als erstes Raumfahrzeug durch die Korona.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das gelang ihr 2021."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Korona ist die äußere Atmosphäre der Sonne.",
+        "Sie ist über eine Million Grad heiß.",
+        "Warum sie so heiß ist, ist noch nicht ganz geklärt.",
+        "Aus ihr strömt der Sonnenwind."
+      ]
+    }
+  ]
+}

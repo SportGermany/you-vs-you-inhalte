@@ -1,0 +1,121 @@
+{
+  "id": "tech-b087-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Tintenstrahldrucker?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tintenstrahldrucker",
+    "drucken",
+    "technik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Foto aus dem Drucker besteht aus Millionen winziger Tintentropfen.",
+        "Wie landen sie so genau an der richtigen Stelle?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Winzige Tropfen aus feinen Düsen",
+      "absaetze": [
+        "Im Druckkopf sitzen hunderte bis tausende feine Düsen. Der Kopf fährt über das Papier und schießt dabei winzige Tintentropfen ab.",
+        "Ein Tropfen ist oft nur wenige Pikoliter groß. Ein Pikoliter ist ein Billionstel Liter. Aus vielen Punkten setzt sich das Bild zusammen."
+      ],
+      "merke": "Das Bild entsteht aus Millionen winziger Tintentropfen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hitze oder Druck",
+      "absaetze": [
+        "Es gibt zwei Verfahren. Beim thermischen Verfahren erhitzt ein Heizelement die Tinte blitzschnell. Eine Dampfblase drückt den Tropfen aus der Düse.",
+        "Beim Piezoverfahren verformt sich ein Kristall, wenn Strom anliegt. Diese Bewegung presst den Tropfen heraus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vier Farben für alle Farben",
+      "absaetze": [
+        "Meist druckt der Drucker mit Cyan, Magenta, Gelb und Schwarz. Durch feine Mischung entstehen daraus fast alle Farbtöne.",
+        "Wird ein Drucker selten genutzt, kann die Tinte in den Düsen eintrocknen. Dann helfen Reinigungsprogramme, die allerdings Tinte verbrauchen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie groß ist ein Tintentropfen oft?",
+      "art": "mc",
+      "optionen": [
+        "Wenige Pikoliter",
+        "Ein Liter",
+        "Ein Milliliter",
+        "Ein Esslöffel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Pikoliter ist ein Billionstel Liter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was drückt beim thermischen Verfahren den Tropfen heraus?",
+      "art": "mc",
+      "optionen": [
+        "Eine Dampfblase",
+        "Ein Magnet",
+        "Ein Ventilator",
+        "Ein Gummiband"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Heizelement erhitzt die Tinte blitzschnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche vier Grundfarben nutzen die meisten Drucker?",
+      "art": "mc",
+      "optionen": [
+        "Cyan, Magenta, Gelb und Schwarz",
+        "Rot, Grün, Blau und Weiß",
+        "Gold, Silber, Rot und Blau",
+        "Nur Schwarz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aus ihnen werden fast alle Farbtöne gemischt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei selten genutzten Druckern kann Tinte in den Düsen eintrocknen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Reinigungsprogramme helfen, verbrauchen aber Tinte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Feine Düsen schießen winzige Tintentropfen aufs Papier.",
+        "Thermische Drucker nutzen Dampfblasen.",
+        "Piezodrucker nutzen sich verformende Kristalle.",
+        "Vier Grundfarben ergeben fast alle Farbtöne."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ern-b087-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Heidelbeeren?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fragen und Antworten zu Lebensmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "heidelbeeren",
+    "blaubeeren",
+    "beeren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Klein, blau und ein beliebter Snack zwischendurch.",
+        "Doch Heidelbeere ist nicht gleich Heidelbeere."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wald oder Kultur",
+      "absaetze": [
+        "Die meisten Heidelbeeren aus dem Supermarkt sind Kulturheidelbeeren. Sie stammen von amerikanischen Sorten, sind groß und innen hell.",
+        "Wilde Waldheidelbeeren sind kleiner und innen dunkelblau. Sie färben Zunge und Finger. Ihr Geschmack ist meist kräftiger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in ihnen steckt",
+      "absaetze": [
+        "Heidelbeeren liefern Ballaststoffe, Vitamin C und Vitamin K. Ihre blaue Farbe kommt von Anthocyanen, das sind Pflanzenfarbstoffe.",
+        "Waldheidelbeeren enthalten mehr Anthocyane als Kulturheidelbeeren, weil der Farbstoff auch im Fruchtfleisch steckt. Beide sind eine gute Wahl für eine abwechslungsreiche Ernährung."
+      ],
+      "merke": "Die blaue Farbe stammt von Anthocyanen, vor allem in Waldheidelbeeren.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Sammeln im Wald",
+      "absaetze": [
+        "Manche Menschen sorgen sich wegen des Fuchsbandwurms. Das Risiko, sich über Waldbeeren anzustecken, gilt als sehr gering.",
+        "Fachleute raten trotzdem, Beeren aus Bodennähe gründlich zu waschen. Erhitzen auf über 60 Grad macht mögliche Eier sicher unschädlich, Einfrieren dagegen nicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sehen Kulturheidelbeeren innen aus?",
+      "art": "mc",
+      "optionen": [
+        "Hell",
+        "Dunkelblau",
+        "Rot",
+        "Schwarz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Waldheidelbeeren sind dagegen innen dunkelblau."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt die blaue Farbe der Heidelbeeren?",
+      "art": "mc",
+      "optionen": [
+        "Von Anthocyanen",
+        "Von Eisen",
+        "Von Koffein",
+        "Von Chlorophyll"
+      ],
+      "richtig": 0,
+      "erklaerung": "Anthocyane sind Pflanzenfarbstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht mögliche Bandwurmeier sicher unschädlich?",
+      "art": "mc",
+      "optionen": [
+        "Erhitzen auf über 60 Grad",
+        "Einfrieren",
+        "Zucker",
+        "Kurz abtupfen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Einfrieren reicht dafür nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Waldheidelbeeren färben Zunge und Finger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ihr Farbstoff steckt auch im Fruchtfleisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kulturheidelbeeren sind innen hell, Waldheidelbeeren blau.",
+        "Heidelbeeren liefern Ballaststoffe und Vitamine.",
+        "Ihre Farbe stammt von Anthocyanen.",
+        "Wasche Waldbeeren gründlich oder erhitze sie."
+      ]
+    }
+  ]
+}
