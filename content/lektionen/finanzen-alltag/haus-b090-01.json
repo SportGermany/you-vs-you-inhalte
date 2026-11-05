@@ -1,0 +1,143 @@
+{
+  "id": "haus-b090-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du Parkett richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "parkett",
+    "holzboden",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Holzboden macht jede Wohnung warm und gemütlich.",
+        "Damit er lange schön bleibt, braucht er die richtige Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig Wasser",
+      "absaetze": [
+        "Holz verträgt keine Nässe. Zu viel Wasser lässt es aufquellen, und es können Fugen und Flecken entstehen.",
+        "Kehre oder sauge den Boden regelmäßig. Zum Wischen nutzt du ein gut ausgewrungenes, nur nebelfeuchtes Tuch. Verschüttetes wischst du sofort auf."
+      ],
+      "merke": "Parkett wird nur nebelfeucht gewischt, nie nass."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Versiegelt oder geölt",
+      "absaetze": [
+        "Versiegeltes Parkett hat eine schützende Lackschicht. Es ist pflegeleicht und braucht meist nur ein mildes Reinigungsmittel für Holzböden.",
+        "Geöltes Parkett ist offenporiger. Es braucht spezielle Pflegeprodukte und muss von Zeit zu Zeit nachgeölt werden. Prüfe deshalb, welche Oberfläche dein Boden hat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kratzer vermeiden",
+      "absaetze": [
+        "Klebe Filzgleiter unter Stühle und Tische. Eine Fußmatte am Eingang fängt Sand ab, der wie Schleifpapier wirkt.",
+        "Holz arbeitet mit der Luftfeuchtigkeit. In sehr trockener Heizungsluft können Fugen entstehen. Eine Luftfeuchtigkeit von etwa 40 bis 60 Prozent tut Boden und Raumklima gut."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So pflegst du dein Parkett",
+      "schritte": [
+        {
+          "titel": "Trocken reinigen",
+          "text": "Kehre oder sauge regelmäßig, um Sand zu entfernen."
+        },
+        {
+          "titel": "Nebelfeucht wischen",
+          "text": "Wring das Tuch gut aus und nutze ein mildes Holzpflegemittel."
+        },
+        {
+          "titel": "Sofort trocknen",
+          "text": "Wisch verschüttete Flüssigkeiten gleich auf."
+        },
+        {
+          "titel": "Schützen",
+          "text": "Klebe Filzgleiter unter Möbel und leg eine Fußmatte an den Eingang."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du Parkett wischen?",
+      "art": "mc",
+      "optionen": [
+        "Nur nebelfeucht",
+        "Mit viel Wasser",
+        "Mit Scheuermilch",
+        "Mit einem Dampfreiniger auf höchster Stufe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Holz verträgt keine Nässe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was braucht geöltes Parkett von Zeit zu Zeit?",
+      "art": "mc",
+      "optionen": [
+        "Neues Öl",
+        "Eine Lackschicht aus dem Baumarkt",
+        "Wasser",
+        "Wachsmalstifte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist offenporiger als versiegeltes Parkett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt vor Kratzern?",
+      "art": "mc",
+      "optionen": [
+        "Filzgleiter unter Möbeln",
+        "Sand auf dem Boden",
+        "Straßenschuhe",
+        "Ein nasser Wischmopp"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sand wirkt dagegen wie Schleifpapier."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sehr trockene Luft kann bei Parkett Fugen entstehen lassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Holz arbeitet mit der Luftfeuchtigkeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Parkett verträgt keine Nässe.",
+        "Versiegeltes und geöltes Parkett brauchen unterschiedliche Pflege.",
+        "Filzgleiter und Fußmatten schützen vor Kratzern.",
+        "Eine mittlere Luftfeuchtigkeit tut dem Holz gut."
+      ]
+    }
+  ]
+}

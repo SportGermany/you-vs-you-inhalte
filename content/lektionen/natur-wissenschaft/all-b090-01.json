@@ -1,0 +1,121 @@
+{
+  "id": "all-b090-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist die habitable Zone?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Exoplaneten",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "habitable zone",
+    "exoplaneten",
+    "leben im all"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nicht zu heiß, nicht zu kalt, genau richtig.",
+        "Astronomen suchen um ferne Sterne nach diesem besonderen Bereich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der richtige Abstand",
+      "absaetze": [
+        "Die habitable Zone ist der Bereich um einen Stern, in dem auf einem Planeten flüssiges Wasser möglich sein könnte. Ist ein Planet zu nah am Stern, verdampft das Wasser. Ist er zu weit weg, gefriert es.",
+        "Flüssiges Wasser gilt als wichtige Voraussetzung für Leben, wie wir es kennen. Deshalb nennt man den Bereich manchmal auch Goldlöckchen-Zone."
+      ],
+      "merke": "In der habitablen Zone könnte es flüssiges Wasser geben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unser Sonnensystem",
+      "absaetze": [
+        "Die Erde liegt mitten in der habitablen Zone der Sonne. Die Venus ist zu nah und viel zu heiß. Der Mars liegt am äußeren Rand.",
+        "Bei kühleren, kleineren Sternen liegt die Zone viel näher am Stern. Bei heißeren Sternen weiter weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewohnbar heißt nicht bewohnt",
+      "absaetze": [
+        "Forschende haben schon viele Planeten in habitablen Zonen anderer Sterne entdeckt. Beim Stern TRAPPIST-1 liegen gleich mehrere erdgroße Planeten in diesem Bereich.",
+        "Ob es dort wirklich Wasser oder gar Leben gibt, ist offen. Dafür zählen auch Atmosphäre, Magnetfeld und Aktivität des Sterns."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist in der habitablen Zone möglich?",
+      "art": "mc",
+      "optionen": [
+        "Flüssiges Wasser auf einem Planeten",
+        "Ein Schwarzes Loch",
+        "Ein neuer Stern",
+        "Nur Eis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nicht zu heiß, nicht zu kalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Planet liegt mitten in der habitablen Zone der Sonne?",
+      "art": "mc",
+      "optionen": [
+        "Die Erde",
+        "Die Venus",
+        "Der Jupiter",
+        "Der Merkur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Venus ist zu nah und zu heiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt die habitable Zone bei kühleren Sternen?",
+      "art": "mc",
+      "optionen": [
+        "Näher am Stern",
+        "Weiter weg vom Stern",
+        "Gar nicht vorhanden",
+        "Im Inneren des Sterns"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kühle Sterne strahlen weniger Wärme ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Planet in der habitablen Zone ist sicher bewohnt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch Atmosphäre und andere Faktoren zählen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die habitable Zone ist ein Bereich um einen Stern.",
+        "Dort könnte es flüssiges Wasser geben.",
+        "Die Erde liegt mitten darin.",
+        "Bewohnbar heißt nicht, dass es dort Leben gibt."
+      ]
+    }
+  ]
+}

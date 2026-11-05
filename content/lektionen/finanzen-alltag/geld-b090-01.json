@@ -1,0 +1,121 @@
+{
+  "id": "geld-b090-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Warum ist Deflation gefährlich?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Preisstabilität",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "deflation",
+    "preise",
+    "wirtschaft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sinkende Preise klingen erst einmal gut.",
+        "Trotzdem fürchten Notenbanken eine Deflation fast so sehr wie hohe Inflation."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Deflation ist",
+      "absaetze": [
+        "Deflation bedeutet, dass das allgemeine Preisniveau über längere Zeit sinkt. Es geht nicht um einzelne Angebote, sondern um Preise in der ganzen Wirtschaft.",
+        "Sie ist das Gegenteil von Inflation, bei der die Preise allgemein steigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Abwärtsspirale",
+      "absaetze": [
+        "Wenn Preise ständig fallen, warten viele mit größeren Käufen. Morgen könnte es ja billiger sein. Firmen verkaufen dann weniger.",
+        "Sie senken Löhne oder entlassen Beschäftigte. Die Menschen haben weniger Geld und kaufen noch weniger. So kann eine gefährliche Spirale entstehen."
+      ],
+      "merke": "Deflation kann eine Spirale aus Kaufzurückhaltung und Arbeitslosigkeit auslösen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schulden werden schwerer",
+      "absaetze": [
+        "Bei Deflation werden Schulden real schwerer, weil das Geld mehr wert wird, die Schuld aber gleich bleibt. Das trifft Haushalte, Firmen und Staaten.",
+        "Japan erlebte seit den 1990er Jahren lange Phasen sinkender Preise. Auch deshalb strebt die Europäische Zentralbank eine leichte Inflation von 2 Prozent an, mit Abstand zur Deflation."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Deflation?",
+      "art": "mc",
+      "optionen": [
+        "Das allgemeine Preisniveau sinkt über längere Zeit",
+        "Einzelne Sonderangebote",
+        "Die Preise steigen stark",
+        "Die Löhne steigen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist das Gegenteil von Inflation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann Deflation gefährlich werden?",
+      "art": "mc",
+      "optionen": [
+        "Menschen warten mit Käufen, eine Abwärtsspirale droht",
+        "Alles wird teurer",
+        "Banken schließen sofort",
+        "Es gibt mehr Urlaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Firmen verkaufen dann weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Schulden bei Deflation?",
+      "art": "mc",
+      "optionen": [
+        "Sie werden real schwerer",
+        "Sie verschwinden",
+        "Sie werden leichter",
+        "Sie verdoppeln sich automatisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Geld gewinnt an Wert, die Schuld bleibt gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Europäische Zentralbank strebt eine Inflation von 2 Prozent an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch um Abstand zur Deflation zu halten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Deflation heißt allgemein sinkende Preise.",
+        "Sie kann zu Kaufzurückhaltung und Arbeitslosigkeit führen.",
+        "Schulden werden real schwerer.",
+        "Die EZB strebt deshalb leicht steigende Preise an."
+      ]
+    }
+  ]
+}

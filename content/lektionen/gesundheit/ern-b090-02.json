@@ -1,0 +1,130 @@
+{
+  "id": "ern-b090-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Bananen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bananen",
+    "obst",
+    "kalium"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bananen sind das beliebteste Obst vieler Sportler.",
+        "Sie sind praktisch verpackt und sättigen gut. Was steckt drin?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Energie und Kalium",
+      "absaetze": [
+        "Bananen liefern Kohlenhydrate, Ballaststoffe, Kalium und Vitamin B6. Kalium ist ein Mineralstoff, der unter anderem für Muskeln und Nerven wichtig ist.",
+        "Weil sie leicht zu essen sind und gut sättigen, sind sie bei Sport und Wanderungen beliebt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grün oder gelb",
+      "absaetze": [
+        "Unreife, grünliche Bananen enthalten viel resistente Stärke. Das ist Stärke, die im Dünndarm kaum verdaut wird und im Dickdarm Darmbakterien als Futter dient.",
+        "Mit der Reife wird ein großer Teil dieser Stärke zu Zucker. Reife Bananen schmecken deshalb süßer und lassen den Blutzucker schneller steigen."
+      ],
+      "merke": "Grüne Bananen enthalten mehr resistente Stärke, reife mehr Zucker.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig lagern",
+      "absaetze": [
+        "Im Kühlschrank wird die Schale schnell braun. Lagere Bananen besser bei Zimmertemperatur.",
+        "Bananen geben das Reifegas Ethylen ab. Lege sie getrennt von anderem Obst, wenn dieses nicht schneller reifen soll. Braune Bananen eignen sich gut zum Backen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Bananen helfen sicher gegen Muskelkrämpfe beim Sport.",
+      "urteil": "teils",
+      "erklaerung": "Bananen liefern Kalium, und das ist für die Muskeln wichtig. Die meisten Krämpfe beim Sport entstehen aber durch Ermüdung der Muskeln, nicht durch Kaliummangel. Eine Banane kann daher meist nicht zuverlässig helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Mineralstoff steckt reichlich in Bananen?",
+      "art": "mc",
+      "optionen": [
+        "Kalium",
+        "Jod",
+        "Fluor",
+        "Selen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist wichtig für Muskeln und Nerven."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten grüne Bananen mehr als reife?",
+      "art": "mc",
+      "optionen": [
+        "Resistente Stärke",
+        "Zucker",
+        "Fett",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit der Reife wird sie zu Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Bananen im Kühlschrank?",
+      "art": "mc",
+      "optionen": [
+        "Die Schale wird schnell braun",
+        "Sie werden grün",
+        "Sie wachsen weiter",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Zimmertemperatur lagern sie besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reife Bananen lassen den Blutzucker schneller steigen als grüne.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie enthalten mehr Zucker."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bananen liefern Kalium, Ballaststoffe und Vitamin B6.",
+        "Grüne Bananen enthalten mehr resistente Stärke.",
+        "Reife Bananen enthalten mehr Zucker.",
+        "Lagere sie nicht im Kühlschrank."
+      ]
+    }
+  ]
+}

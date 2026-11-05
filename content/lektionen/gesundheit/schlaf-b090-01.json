@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b090-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie hängen Schlaf und Blutdruck zusammen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Bluthochdruck",
+      "herausgeber": "Deutsche Hochdruckliga",
+      "url": "https://www.hochdruckliga.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blutdruck",
+    "schlafmangel",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachts ruht nicht nur dein Gehirn, auch dein Herz-Kreislauf-System erholt sich.",
+        "Was passiert, wenn der Schlaf dauerhaft zu kurz kommt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nachts sinkt der Druck",
+      "absaetze": [
+        "Im Schlaf sinkt der Blutdruck normalerweise deutlich ab. Fachleute sprechen vom nächtlichen Absinken, auf Englisch Dipping.",
+        "Diese Pause entlastet Herz und Gefäße. Fehlt das Absinken, gilt das als Warnzeichen. Es lässt sich mit einer 24-Stunden-Blutdruckmessung erkennen."
+      ],
+      "merke": "Im Schlaf sinkt der Blutdruck normalerweise deutlich ab.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu wenig Schlaf, höherer Druck",
+      "absaetze": [
+        "Studien deuten darauf hin, dass dauerhaft zu kurzer oder schlechter Schlaf mit einem höheren Risiko für Bluthochdruck verbunden ist.",
+        "Eine Erklärung: Bei Schlafmangel bleibt das Stresssystem des Körpers länger aktiv. Ob der Schlaf die Ursache ist oder andere Faktoren mitspielen, wird noch erforscht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlafapnoe als Ursache",
+      "absaetze": [
+        "Besonders eng ist der Zusammenhang bei der Schlafapnoe. Dabei setzt die Atmung im Schlaf immer wieder aus. Jeder Aussetzer treibt den Blutdruck nach oben.",
+        "Lautes Schnarchen mit Atempausen und starke Tagesmüdigkeit sollten deshalb ärztlich abgeklärt werden. Eine Behandlung kann auch den Blutdruck verbessern."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert normalerweise nachts mit dem Blutdruck?",
+      "art": "mc",
+      "optionen": [
+        "Er sinkt deutlich ab",
+        "Er steigt stark an",
+        "Er bleibt genau gleich",
+        "Er verschwindet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fachleute nennen das Dipping."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit lässt sich das nächtliche Absinken erkennen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einer 24-Stunden-Blutdruckmessung",
+        "Mit einem Fieberthermometer",
+        "Mit einer Waage",
+        "Mit einem Schrittzähler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gerät misst auch in der Nacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schlafstörung hängt besonders eng mit Bluthochdruck zusammen?",
+      "art": "mc",
+      "optionen": [
+        "Die Schlafapnoe",
+        "Das Schlafwandeln",
+        "Das Sprechen im Schlaf",
+        "Klarträume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Atemaussetzer treiben den Blutdruck hoch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lautes Schnarchen mit Atempausen sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann auf eine Schlafapnoe hinweisen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Schlaf sinkt der Blutdruck normalerweise ab.",
+        "Dauerhaft schlechter Schlaf hängt mit höherem Blutdruck zusammen.",
+        "Schlafapnoe ist ein wichtiger Risikofaktor.",
+        "Atempausen beim Schnarchen gehören abgeklärt."
+      ]
+    }
+  ]
+}

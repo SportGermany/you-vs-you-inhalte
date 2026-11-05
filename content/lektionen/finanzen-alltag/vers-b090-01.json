@@ -1,0 +1,127 @@
+{
+  "id": "vers-b090-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Kannst du einen Versicherungsvertrag widerrufen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Versicherungen",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "widerruf",
+    "versicherungsvertrag",
+    "verbraucherrechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast eine Versicherung abgeschlossen und bereust es schon am nächsten Tag.",
+        "Zum Glück gibt es dafür ein Widerrufsrecht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "14 Tage Bedenkzeit",
+      "absaetze": [
+        "Die meisten Versicherungsverträge kannst du innerhalb von 14 Tagen ohne Begründung widerrufen. Bei Lebensversicherungen sind es sogar 30 Tage.",
+        "Die Frist beginnt erst, wenn du die Vertragsunterlagen, die Versicherungsbedingungen und eine Belehrung über dein Widerrufsrecht erhalten hast."
+      ],
+      "merke": "Versicherungsverträge kannst du meist 14 Tage lang widerrufen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So widerrufst du",
+      "absaetze": [
+        "Der Widerruf muss in Textform erfolgen. Eine E-Mail oder ein Brief reichen also. Ein Anruf genügt nicht.",
+        "Es reicht, wenn du den Widerruf rechtzeitig abschickst. Bewahre einen Nachweis auf, etwa die gesendete E-Mail oder einen Einlieferungsbeleg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was danach passiert",
+      "absaetze": [
+        "Nach einem wirksamen Widerruf ist der Vertrag aufgelöst. Bereits gezahlte Beiträge bekommst du in der Regel zurück. Für die Zeit, in der du schon geschützt warst, darf der Versicherer einen Teil behalten.",
+        "Für sehr kurze Verträge, etwa manche Reiseversicherungen, gelten Ausnahmen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange kannst du die meisten Versicherungsverträge widerrufen?",
+      "art": "mc",
+      "optionen": [
+        "14 Tage",
+        "Einen Tag",
+        "Ein Jahr",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Lebensversicherungen sind es 30 Tage."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann beginnt die Widerrufsfrist?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du Unterlagen und Belehrung erhalten hast",
+        "Am Tag der Beratung",
+        "Am Monatsende",
+        "Mit der ersten Zahlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Belehrung beginnt sie nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Form muss ein Widerruf haben?",
+      "art": "mc",
+      "optionen": [
+        "Textform, etwa E-Mail oder Brief",
+        "Ein Anruf",
+        "Ein persönlicher Besuch",
+        "Eine Nachricht an Freunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bewahre einen Nachweis auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Lebensversicherungen beträgt die Widerrufsfrist 30 Tage.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie ist länger als bei anderen Versicherungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Versicherungsverträge kannst du meist 14 Tage widerrufen.",
+        "Bei Lebensversicherungen sind es 30 Tage.",
+        "Der Widerruf muss in Textform erfolgen.",
+        "Gezahlte Beiträge gibt es meist zum Großteil zurück."
+      ]
+    }
+  ]
+}

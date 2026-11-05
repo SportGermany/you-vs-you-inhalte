@@ -1,0 +1,121 @@
+{
+  "id": "koer-b090-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum bekommen wir kalte Hände und Füße?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kalte haende",
+    "durchblutung",
+    "koerpertemperatur"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Draußen ist es kühl, und schon sind Finger und Zehen eisig.",
+        "Dahinter steckt eine kluge Strategie deines Körpers."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Kern geht vor",
+      "absaetze": [
+        "Dein Körper schützt vor allem die Temperatur im Inneren, wo Herz, Gehirn und andere Organe liegen. Wird es kalt, verengen sich die Blutgefäße in Händen und Füßen.",
+        "So fließt weniger warmes Blut nach außen, und weniger Wärme geht verloren. Der Preis dafür sind kalte Finger und Zehen."
+      ],
+      "merke": "Bei Kälte drosselt der Körper die Durchblutung von Händen und Füßen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum manche öfter frieren",
+      "absaetze": [
+        "Frauen haben häufiger kalte Hände und Füße als Männer. Ein Grund ist, dass sie im Durchschnitt weniger Muskelmasse haben. Muskeln erzeugen Wärme.",
+        "Auch Stress, wenig Bewegung, Rauchen oder ein niedriger Blutdruck können eine Rolle spielen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du es abklären solltest",
+      "absaetze": [
+        "Werden Finger bei Kälte oder Stress anfallsartig weiß, dann bläulich und schließlich rot, kann ein Raynaud-Syndrom dahinterstecken. Dabei verkrampfen sich die kleinen Blutgefäße.",
+        "Auch bei Schmerzen, offenen Stellen oder einseitig kalten Gliedmaßen solltest du ärztlich nachsehen lassen. Gegen alltägliches Frieren helfen Bewegung, warme Socken und Handschuhe."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden Hände und Füße bei Kälte zuerst kalt?",
+      "art": "mc",
+      "optionen": [
+        "Der Körper drosselt dort die Durchblutung",
+        "Dort gibt es keine Blutgefäße",
+        "Sie sind am weitesten vom Gehirn entfernt",
+        "Wegen der Fingernägel"
+      ],
+      "richtig": 0,
+      "erklaerung": "So schützt der Körper seine inneren Organe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum frieren Frauen oft schneller an Händen und Füßen?",
+      "art": "mc",
+      "optionen": [
+        "Sie haben im Durchschnitt weniger Muskelmasse",
+        "Sie haben kleinere Herzen",
+        "Sie haben mehr Haare",
+        "Sie trinken mehr Tee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Muskeln erzeugen Wärme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für ein Raynaud-Syndrom?",
+      "art": "mc",
+      "optionen": [
+        "Finger werden weiß, dann blau, dann rot",
+        "Finger werden grün",
+        "Finger jucken nur",
+        "Finger wachsen schneller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die kleinen Gefäße verkrampfen sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bewegung kann gegen kalte Füße helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie regt die Durchblutung an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Kälte schützt der Körper zuerst sein Inneres.",
+        "Dafür verengen sich die Gefäße in Händen und Füßen.",
+        "Weniger Muskelmasse kann schnelleres Frieren erklären.",
+        "Farbwechsel der Finger sollte abgeklärt werden."
+      ]
+    }
+  ]
+}

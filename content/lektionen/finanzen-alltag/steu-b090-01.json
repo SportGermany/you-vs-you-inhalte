@@ -1,0 +1,121 @@
+{
+  "id": "steu-b090-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Welche Steuern fallen bei Bestellungen aus Nicht-EU-Ländern an?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Post und Internetbestellungen",
+      "herausgeber": "Generalzolldirektion (Zoll)",
+      "url": "https://www.zoll.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "einfuhrumsatzsteuer",
+    "zoll",
+    "onlineshopping"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein günstiges Schnäppchen aus einem Shop außerhalb der EU.",
+        "Doch an der Haustür will der Paketdienst plötzlich noch Geld."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einfuhrumsatzsteuer ab dem ersten Euro",
+      "absaetze": [
+        "Bestellst du Waren aus einem Land außerhalb der EU, fällt Einfuhrumsatzsteuer an. Sie entspricht der Mehrwertsteuer, meist also 19 Prozent.",
+        "Seit Juli 2021 gilt das ab dem ersten Euro. Die frühere Grenze, unter der kleine Sendungen steuerfrei blieben, wurde abgeschafft."
+      ],
+      "merke": "Seit Juli 2021 fällt Einfuhrumsatzsteuer ab dem ersten Euro an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zoll erst ab einem höheren Wert",
+      "absaetze": [
+        "Zoll ist etwas anderes als die Einfuhrumsatzsteuer. Bis zu einem Warenwert von 150 Euro ist er bei den meisten Waren bisher nicht fällig. Ausnahmen gibt es etwa bei Alkohol und Tabak.",
+        "Die EU will diese Zollfreigrenze abschaffen. Prüfe deshalb beim Zoll, welche Regeln aktuell gelten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer kassiert und was es kostet",
+      "absaetze": [
+        "Manche Shops berechnen die Einfuhrumsatzsteuer schon beim Kauf. Dann gibt es an der Tür keine Überraschung.",
+        "Sonst zahlst du die Steuer bei der Zustellung an den Paketdienst. Viele Dienste verlangen dafür zusätzlich eine eigene Gebühr. So wird das Schnäppchen schnell teurer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welchem Betrag fällt Einfuhrumsatzsteuer seit Juli 2021 an?",
+      "art": "mc",
+      "optionen": [
+        "Ab dem ersten Euro",
+        "Ab 22 Euro",
+        "Ab 150 Euro",
+        "Ab 1.000 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die frühere Grenze wurde abgeschafft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Einfuhrumsatzsteuer meist?",
+      "art": "mc",
+      "optionen": [
+        "19 Prozent",
+        "5 Prozent",
+        "50 Prozent",
+        "1 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie entspricht der Mehrwertsteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verlangen viele Paketdienste zusätzlich zur Steuer?",
+      "art": "mc",
+      "optionen": [
+        "Eine eigene Gebühr",
+        "Nichts",
+        "Eine Kaution",
+        "Ein Trinkgeld"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird die Ware teurer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zoll und Einfuhrumsatzsteuer sind dasselbe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Zoll ist eine eigene Abgabe mit eigenen Grenzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Bestellungen außerhalb der EU fällt Einfuhrumsatzsteuer an.",
+        "Seit Juli 2021 gilt sie ab dem ersten Euro.",
+        "Zoll ist meist erst ab 150 Euro fällig, die EU will das ändern.",
+        "Paketdienste verlangen oft eine Zusatzgebühr."
+      ]
+    }
+  ]
+}

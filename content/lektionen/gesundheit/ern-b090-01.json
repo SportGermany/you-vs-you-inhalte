@@ -1,0 +1,124 @@
+{
+  "id": "ern-b090-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Gurken?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gurken",
+    "gemuese",
+    "lagerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Gurken sind knackig, erfrischend und im Sommer überall zu haben.",
+        "Sie bestehen fast nur aus Wasser. Lohnt es sich trotzdem, sie zu essen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fast nur Wasser",
+      "absaetze": [
+        "Gurken bestehen zu etwa 95 Prozent aus Wasser. Sie haben deshalb sehr wenig Energie und eignen sich als erfrischender Snack.",
+        "Dazu liefern sie etwas Vitamin K, Kalium und Ballaststoffe. Viele dieser Stoffe stecken in und direkt unter der Schale. Bio-Gurken kannst du gut gewaschen mit Schale essen."
+      ],
+      "merke": "Gurken bestehen zu etwa 95 Prozent aus Wasser.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei bitteren Gurken",
+      "absaetze": [
+        "Gurken gehören wie Kürbis und Zucchini zu den Kürbisgewächsen. Diese Pflanzen können Bitterstoffe bilden, die Cucurbitacine.",
+        "Moderne Sorten sind meist frei davon. Schmeckt eine Gurke trotzdem auffällig bitter, spuck den Bissen aus und iss sie nicht. Die Stoffe können Magen-Darm-Beschwerden auslösen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig lagern",
+      "absaetze": [
+        "Gurken mögen es nicht zu kalt. Im Kühlschrank bekommen sie leicht Kälteschäden und werden glasig. Ein kühler Raum ist besser.",
+        "Lagere sie nicht neben Äpfeln oder Tomaten. Diese geben das Reifegas Ethylen ab, und die Gurken werden dann schneller gelb und weich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu wie viel Prozent bestehen Gurken etwa aus Wasser?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 95 Prozent",
+        "Etwa 50 Prozent",
+        "Etwa 20 Prozent",
+        "Etwa 70 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb sind sie so erfrischend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei einer auffällig bitteren Gurke tun?",
+      "art": "mc",
+      "optionen": [
+        "Den Bissen ausspucken und sie nicht essen",
+        "Sie mit Zucker essen",
+        "Sie kochen und dann essen",
+        "Nichts, das ist normal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bitterstoffe können Beschwerden auslösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Neben welchem Obst solltest du Gurken nicht lagern?",
+      "art": "mc",
+      "optionen": [
+        "Neben Äpfeln",
+        "Neben Zitronen",
+        "Neben Nüssen",
+        "Neben Brot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Äpfel geben das Reifegas Ethylen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gurken lagern am besten im kältesten Fach des Kühlschranks.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei zu viel Kälte werden sie glasig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gurken bestehen fast nur aus Wasser.",
+        "In und unter der Schale stecken viele Nährstoffe.",
+        "Bittere Gurken solltest du nicht essen.",
+        "Lagere sie kühl, aber nicht zu kalt."
+      ]
+    }
+  ]
+}

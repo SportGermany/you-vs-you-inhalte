@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b090-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist eine Blutarmut?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "anaemie",
+    "blutarmut",
+    "eisenmangel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ständig müde, blass und schnell außer Atem.",
+        "Hinter solchen Beschwerden kann eine Blutarmut stecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu wenig Sauerstoffträger",
+      "absaetze": [
+        "Bei einer Blutarmut, Fachleute sagen Anämie, hat das Blut zu wenig roten Blutfarbstoff. Dieser Farbstoff heißt Hämoglobin. Er transportiert den Sauerstoff im Körper.",
+        "Fehlt er, kommt weniger Sauerstoff in Muskeln und Organen an. Typisch sind Müdigkeit, Blässe, Kopfschmerzen und Atemnot bei Belastung."
+      ],
+      "merke": "Bei einer Blutarmut fehlt roter Blutfarbstoff.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Ursachen",
+      "absaetze": [
+        "Die häufigste Ursache ist Eisenmangel. Eisen braucht der Körper, um Hämoglobin zu bilden. Eisenmangel entsteht etwa durch starke Monatsblutungen, Blutverluste im Darm oder zu wenig Eisen in der Nahrung.",
+        "Auch ein Mangel an Vitamin B12 oder Folsäure, chronische Krankheiten oder bestimmte Erbkrankheiten können eine Blutarmut auslösen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst abklären, dann behandeln",
+      "absaetze": [
+        "Eine Blutarmut lässt sich mit einem Blutbild feststellen. Wichtig ist dann, die Ursache zu finden. Ein versteckter Blutverlust kann zum Beispiel auf eine ernste Erkrankung hinweisen.",
+        "Eisenpräparate solltest du deshalb nicht auf eigene Faust verwenden. Zu viel Eisen kann schaden, und die eigentliche Ursache bliebe womöglich unentdeckt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fehlt bei einer Blutarmut?",
+      "art": "mc",
+      "optionen": [
+        "Roter Blutfarbstoff, das Hämoglobin",
+        "Weiße Blutkörperchen",
+        "Wasser im Blut",
+        "Zucker im Blut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hämoglobin transportiert Sauerstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die häufigste Ursache einer Blutarmut?",
+      "art": "mc",
+      "optionen": [
+        "Eisenmangel",
+        "Zu viel Sport",
+        "Zu viel Schlaf",
+        "Kalte Füße"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eisen wird für Hämoglobin gebraucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit lässt sich eine Blutarmut feststellen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Blutbild",
+        "Mit einem Röntgenbild der Hand",
+        "Mit einem Sehtest",
+        "Mit einem Hörtest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach wird die Ursache gesucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eisenpräparate solltest du nur nach ärztlicher Abklärung verwenden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Zu viel Eisen kann schaden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Blutarmut fehlt Hämoglobin.",
+        "Typisch sind Müdigkeit, Blässe und Atemnot.",
+        "Häufigste Ursache ist Eisenmangel.",
+        "Die Ursache sollte immer ärztlich geklärt werden.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

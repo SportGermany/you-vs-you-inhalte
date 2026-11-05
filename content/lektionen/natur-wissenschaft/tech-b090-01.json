@@ -1,0 +1,121 @@
+{
+  "id": "tech-b090-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Lichtschranke?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lichtschranke",
+    "sensoren",
+    "infrarot"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Aufzugstür geht wieder auf, weil jemand die Hand dazwischen hält.",
+        "Dahinter steckt meist ein unsichtbarer Lichtstrahl."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sender und Empfänger",
+      "absaetze": [
+        "Eine Lichtschranke besteht aus einem Sender und einem Empfänger. Der Sender schickt einen Lichtstrahl, meist unsichtbares Infrarotlicht, zum Empfänger.",
+        "Solange der Strahl ankommt, passiert nichts. Wird er unterbrochen, merkt der Empfänger das sofort und gibt ein Signal."
+      ],
+      "merke": "Eine Lichtschranke meldet, wenn ihr Lichtstrahl unterbrochen wird."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit Spiegel",
+      "absaetze": [
+        "Bei einer Reflexionslichtschranke sitzen Sender und Empfänger im selben Gerät. Gegenüber hängt ein Spiegel, der den Strahl zurückwirft.",
+        "Das ist einfacher zu montieren, weil nur auf einer Seite Strom gebraucht wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo sie überall stecken",
+      "absaetze": [
+        "Lichtschranken sichern Aufzugstüren und Garagentore. Sie zählen Besucher, stoppen Maschinen, wenn eine Hand hineinkommt, und messen im Sport die Zeit.",
+        "Weil Infrarotlicht unsichtbar ist, bemerkst du sie meist gar nicht. Ihr Vorteil: Sie reagieren schnell und berühren nichts."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht eine Lichtschranke?",
+      "art": "mc",
+      "optionen": [
+        "Aus Sender und Empfänger",
+        "Aus Magnet und Spule",
+        "Aus Waage und Gewicht",
+        "Aus Lautsprecher und Mikrofon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Sender schickt Licht zum Empfänger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Licht nutzen Lichtschranken meist?",
+      "art": "mc",
+      "optionen": [
+        "Unsichtbares Infrarotlicht",
+        "Ultraviolettes Licht",
+        "Rotes Laserlicht in Wolken",
+        "Kerzenlicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb bemerkst du sie kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört zu einer Reflexionslichtschranke?",
+      "art": "mc",
+      "optionen": [
+        "Ein Spiegel, der den Strahl zurückwirft",
+        "Zwei Batterien auf beiden Seiten",
+        "Ein Kabel durch den Raum",
+        "Ein Ventilator"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sender und Empfänger sitzen im selben Gerät."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lichtschranken werden auch zur Zeitmessung im Sport genutzt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie reagieren sehr schnell."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Lichtschranke hat Sender und Empfänger.",
+        "Wird der Strahl unterbrochen, gibt sie ein Signal.",
+        "Reflexionslichtschranken arbeiten mit einem Spiegel.",
+        "Sie sichern Türen, zählen und messen Zeiten."
+      ]
+    }
+  ]
+}
