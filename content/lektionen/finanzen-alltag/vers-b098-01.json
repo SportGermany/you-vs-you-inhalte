@@ -1,0 +1,121 @@
+{
+  "id": "vers-b098-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt bei Steinschlag in der Windschutzscheibe?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kfz-Versicherung",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steinschlag",
+    "windschutzscheibe",
+    "teilkasko"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleiner Knall auf der Autobahn, und plötzlich ist ein Sprung in der Scheibe.",
+        "Steinschlag ist ärgerlich, aber oft schnell und günstig erledigt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Fall für die Teilkasko",
+      "absaetze": [
+        "Schäden an der Autoverglasung durch Steinschlag zahlt die Teilkaskoversicherung. Sie ist auch in jeder Vollkasko enthalten.",
+        "Wer nur eine Haftpflicht hat, muss die Reparatur selbst bezahlen, wenn kein Verursacher festgestellt werden kann. Das ist bei Steinschlag fast immer so."
+      ],
+      "merke": "Steinschlagschäden an der Scheibe zahlt die Teilkasko."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reparieren oder tauschen",
+      "absaetze": [
+        "Kleine Einschläge außerhalb des direkten Sichtfelds des Fahrers lassen sich oft reparieren. Dabei wird die Stelle mit einem speziellen Harz gefüllt.",
+        "Viele Versicherungen verzichten bei einer Reparatur auf die Selbstbeteiligung. Ein Schaden in der Teilkasko verschlechtert außerdem nicht deine Schadenfreiheitsklasse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell handeln",
+      "absaetze": [
+        "Ein kleiner Einschlag kann sich durch Erschütterungen und Temperaturwechsel schnell zu einem langen Riss ausweiten. Dann muss die ganze Scheibe getauscht werden.",
+        "Kümmere dich deshalb zügig darum. Ein Riss im Sichtfeld kann außerdem dazu führen, dass das Auto bei der Hauptuntersuchung durchfällt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung zahlt Steinschlag an der Scheibe?",
+      "art": "mc",
+      "optionen": [
+        "Die Teilkasko",
+        "Nur die Haftpflicht",
+        "Die Hausrat",
+        "Die Rechtsschutzversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist auch in der Vollkasko enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden kleine Einschläge oft repariert?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem speziellen Harz",
+        "Mit Klebeband",
+        "Mit Zahnpasta",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geht außerhalb des direkten Sichtfelds."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Verschlechtert ein Teilkaskoschaden die Schadenfreiheitsklasse?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer stark",
+        "Nur im Winter",
+        "Nur bei roten Autos"
+      ],
+      "richtig": 0,
+      "erklaerung": "In der Teilkasko gibt es keine Schadenfreiheitsklasse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein kleiner Einschlag kann sich schnell zu einem Riss ausweiten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb solltest du zügig handeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Steinschlag an der Scheibe zahlt die Teilkasko.",
+        "Kleine Schäden lassen sich oft reparieren.",
+        "Bei Reparatur entfällt oft die Selbstbeteiligung.",
+        "Schnell handeln, bevor ein Riss entsteht."
+      ]
+    }
+  ]
+}

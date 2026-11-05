@@ -1,0 +1,127 @@
+{
+  "id": "tech-b098-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Brennwertheizung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Heizen und Energiesparen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "brennwertheizung",
+    "heizung",
+    "kondensation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Gasheizungen in Deutschland sind Brennwertgeräte.",
+        "Ihr Trick: Sie holen zusätzliche Wärme aus den Abgasen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme im Abgas",
+      "absaetze": [
+        "Beim Verbrennen von Gas oder Öl entsteht nicht nur Kohlendioxid, sondern auch Wasserdampf. Bei älteren Heizungen entweicht dieser heiße Dampf einfach durch den Schornstein.",
+        "Darin steckt aber noch Energie. Wenn Wasserdampf abkühlt und wieder zu Wasser wird, gibt er Wärme ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kondensation nutzen",
+      "absaetze": [
+        "Eine Brennwertheizung kühlt die Abgase so stark ab, dass der Wasserdampf kondensiert. Die dabei frei werdende Wärme geht zusätzlich ins Heizwasser.",
+        "So nutzt sie den Brennstoff besser aus als ältere Heizkessel. Das entstehende Wasser, das Kondensat, wird in den Abfluss geleitet."
+      ],
+      "merke": "Brennwertheizungen nutzen die Wärme im Wasserdampf der Abgase."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut eingestellt sparen",
+      "absaetze": [
+        "Am besten arbeitet eine Brennwertheizung, wenn das Heizwasser mit niedriger Temperatur zurückfließt. Große Heizkörper oder eine Fußbodenheizung helfen dabei.",
+        "Auch ein hydraulischer Abgleich, bei dem jeder Heizkörper die passende Wassermenge bekommt, verbessert die Effizienz. Trotzdem verbrennt auch sie fossile Energie und verursacht CO2."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht beim Verbrennen von Gas außer Kohlendioxid?",
+      "art": "mc",
+      "optionen": [
+        "Wasserdampf",
+        "Sauerstoff",
+        "Stickstoff aus dem Nichts",
+        "Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "In ihm steckt noch Energie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht eine Brennwertheizung mit dem Wasserdampf?",
+      "art": "mc",
+      "optionen": [
+        "Sie lässt ihn kondensieren und nutzt die Wärme",
+        "Sie bläst ihn heiß hinaus",
+        "Sie speichert ihn im Keller",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wärme geht ins Heizwasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann arbeitet eine Brennwertheizung am besten?",
+      "art": "mc",
+      "optionen": [
+        "Bei niedriger Rücklauftemperatur",
+        "Bei möglichst heißem Rücklauf",
+        "Nur im Sommer",
+        "Ohne Heizkörper"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große Heizkörper helfen dabei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch eine Brennwertheizung verursacht CO2.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie verbrennt fossile Energie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Abgase enthalten Wasserdampf mit Wärme.",
+        "Brennwertheizungen lassen ihn kondensieren.",
+        "So nutzen sie den Brennstoff besser.",
+        "Niedrige Rücklauftemperaturen steigern die Effizienz."
+      ]
+    }
+  ]
+}

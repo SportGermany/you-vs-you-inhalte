@@ -1,0 +1,147 @@
+{
+  "id": "haus-b098-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du Kuscheltiere?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuscheltiere",
+    "waesche",
+    "kinder"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kuscheltiere werden geliebt, geknuddelt und überallhin mitgenommen.",
+        "Irgendwann brauchen auch sie ein Bad."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst das Etikett",
+      "absaetze": [
+        "Schau zuerst auf das Pflegeetikett. Viele Kuscheltiere vertragen eine Wäsche in der Maschine, manche nur Handwäsche.",
+        "Entferne Batterien und Elektronik, etwa bei Spieluhren oder sprechenden Figuren. Lose Teile wie Augen oder Schleifen solltest du vorher prüfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend waschen",
+      "absaetze": [
+        "Stecke das Kuscheltier in einen Wäschebeutel oder einen Kissenbezug. Wasche es im Schon- oder Feinwaschgang bei 30 bis 40 Grad mit wenig Waschmittel.",
+        "Schleudere nur wenig und lass das Tier an der Luft trocknen. Schüttle das Fell zwischendurch auf, damit es flauschig bleibt. Der Trockner kann Kunstfell verfilzen."
+      ],
+      "merke": "Kuscheltiere schonend waschen und an der Luft trocknen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bei Hausstaubmilben",
+      "absaetze": [
+        "Für Kinder mit Hausstauballergie kann eine heißere Wäsche bei 60 Grad sinnvoll sein, wenn das Material es verträgt.",
+        "Eine Alternative: Das Kuscheltier in einem Beutel für etwa einen Tag ins Gefrierfach legen. Die Kälte tötet Milben ab. Danach waschen oder gut ausschütteln."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Kuscheltier waschen",
+      "schritte": [
+        {
+          "titel": "Etikett prüfen",
+          "text": "Schau nach, ob Maschinenwäsche erlaubt ist."
+        },
+        {
+          "titel": "Vorbereiten",
+          "text": "Entferne Batterien und prüfe lose Teile."
+        },
+        {
+          "titel": "Schützen",
+          "text": "Steck das Tier in einen Wäschebeutel."
+        },
+        {
+          "titel": "Schonend waschen",
+          "text": "Wasche im Feinwaschgang bei 30 bis 40 Grad."
+        },
+        {
+          "titel": "Lufttrocknen",
+          "text": "Lass es an der Luft trocknen und schüttle das Fell auf."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Waschen entfernen?",
+      "art": "mc",
+      "optionen": [
+        "Batterien und Elektronik",
+        "Das Fell",
+        "Die Füllung",
+        "Das Etikett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei Spieluhren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie trocknest du ein Kuscheltier am besten?",
+      "art": "mc",
+      "optionen": [
+        "An der Luft",
+        "Auf höchster Stufe im Trockner",
+        "Im Backofen",
+        "Auf der Herdplatte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Trockner kann Kunstfell verfilzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Hausstaubmilben, wenn heißes Waschen nicht geht?",
+      "art": "mc",
+      "optionen": [
+        "Etwa einen Tag ins Gefrierfach legen",
+        "In die Sonne stellen für eine Minute",
+        "Mit Parfüm besprühen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kälte tötet Milben ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Kuscheltiere vertragen eine Maschinenwäsche.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Etikett gibt Auskunft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Prüfe zuerst das Pflegeetikett.",
+        "Entferne Batterien und schütze das Tier im Beutel.",
+        "Wasche schonend und trockne an der Luft.",
+        "Gegen Milben helfen 60 Grad oder das Gefrierfach."
+      ]
+    }
+  ]
+}

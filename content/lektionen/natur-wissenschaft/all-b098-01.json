@@ -1,0 +1,121 @@
+{
+  "id": "all-b098-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist eine Gravitationslinse?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gravitationslinsen",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gravitationslinse",
+    "einstein",
+    "galaxien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Galaxien erscheinen am Himmel als leuchtende Bögen oder sogar als Ring.",
+        "Schuld ist eine kosmische Lupe aus Schwerkraft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwerkraft lenkt Licht ab",
+      "absaetze": [
+        "Albert Einstein sagte voraus, dass große Massen den Raum krümmen. Licht, das an einer großen Masse vorbeifliegt, wird dadurch abgelenkt.",
+        "1919 wurde das bei einer Sonnenfinsternis bestätigt. Sterne nahe der verdunkelten Sonne erschienen leicht verschoben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine natürliche Lupe",
+      "absaetze": [
+        "Steht eine große Galaxie oder ein Galaxienhaufen zwischen uns und einer noch weiter entfernten Galaxie, wirkt seine Masse wie eine Linse. Das Licht der fernen Galaxie wird gebündelt und verstärkt.",
+        "Die ferne Galaxie erscheint dann verzerrt, als Bogen, mehrfach oder als Ring. Ein solcher Ring heißt Einsteinring."
+      ],
+      "merke": "Massereiche Galaxien wirken wie eine Lupe für noch fernere Objekte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Werkzeug der Forschung",
+      "absaetze": [
+        "Mit Gravitationslinsen können Forschende sehr ferne, lichtschwache Galaxien beobachten, die sonst unsichtbar wären.",
+        "Sie helfen auch, Dunkle Materie zu kartieren. Denn wie stark Licht abgelenkt wird, verrät, wie viel Masse in einer Region steckt, auch unsichtbare."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was lenkt bei einer Gravitationslinse das Licht ab?",
+      "art": "mc",
+      "optionen": [
+        "Die Schwerkraft großer Massen",
+        "Glaslinsen im All",
+        "Wolken",
+        "Der Wind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große Massen krümmen den Raum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde die Lichtablenkung erstmals bestätigt?",
+      "art": "mc",
+      "optionen": [
+        "1919 bei einer Sonnenfinsternis",
+        "1969 bei der Mondlandung",
+        "2019 mit einem Satelliten",
+        "Noch nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sterne erschienen leicht verschoben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Einsteinring?",
+      "art": "mc",
+      "optionen": [
+        "Eine ferne Galaxie, die als Ring erscheint",
+        "Ein Planet mit Ringen",
+        "Ein Schmuckstück",
+        "Ein Mondkrater"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er entsteht durch eine Gravitationslinse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gravitationslinsen helfen, Dunkle Materie zu kartieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Ablenkung verrät die Masse."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwerkraft kann Licht ablenken.",
+        "Massereiche Galaxien wirken wie natürliche Lupen.",
+        "Ferne Galaxien erscheinen als Bögen oder Ringe.",
+        "So lässt sich auch unsichtbare Masse erkennen."
+      ]
+    }
+  ]
+}

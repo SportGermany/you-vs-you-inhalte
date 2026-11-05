@@ -1,0 +1,131 @@
+{
+  "id": "ern-b098-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Mohn im Kuchen bedenklich?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fragen und Antworten zu Lebensmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mohn",
+    "backen",
+    "opiumalkaloide"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mohnkuchen, Mohnbrötchen, Mohnstrudel.",
+        "Mohn stammt aus derselben Pflanze wie Opium. Ist das ein Problem?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Pflanze und die Samen",
+      "absaetze": [
+        "Speisemohn stammt vom Schlafmohn. Aus dem Milchsaft der unreifen Kapseln wird Opium gewonnen. Die Samen selbst enthalten diese Stoffe kaum.",
+        "Bei der Ernte können sie aber außen mit Milchsaft verunreinigt werden. Dann haften Opiumalkaloide wie Morphin an der Oberfläche."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Bundesinstitut rät",
+      "absaetze": [
+        "Das Bundesinstitut für Risikobewertung empfiehlt Herstellern, die Gehalte durch Waschen und Verarbeiten möglichst gering zu halten. Inzwischen gelten in der EU Höchstgehalte.",
+        "Für Erwachsene ist ein Stück Mohnkuchen in der Regel unbedenklich. Bei sehr großen Mengen und bei kleinen Kindern raten Fachleute zur Zurückhaltung."
+      ],
+      "merke": "Ein Stück Mohnkuchen ist in der Regel unbedenklich.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Mohnsamen liefern viel Calcium, Ballaststoffe und ungesättigte Fette.",
+        "Nach dem Verzehr größerer Mengen Mohn kann ein Drogentest positiv auf Opiate ausfallen. Wer einen solchen Test vor sich hat, sollte das wissen und angeben."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von welcher Pflanze stammt Speisemohn?",
+      "art": "mc",
+      "optionen": [
+        "Vom Schlafmohn",
+        "Vom Klatschmohn am Wegrand",
+        "Von Sonnenblumen",
+        "Von Raps"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aus ihr wird auch Opium gewonnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelangen Opiumalkaloide an die Mohnsamen?",
+      "art": "mc",
+      "optionen": [
+        "Durch Verunreinigung mit Milchsaft bei der Ernte",
+        "Sie werden zugesetzt",
+        "Sie wachsen im Kern",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie haften an der Oberfläche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann nach viel Mohn passieren?",
+      "art": "mc",
+      "optionen": [
+        "Ein Drogentest kann positiv ausfallen",
+        "Man wird müde für Wochen",
+        "Die Haare wachsen schneller",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das solltest du vor einem Test angeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Stück Mohnkuchen ist für Erwachsene in der Regel unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei großen Mengen und Kindern ist Zurückhaltung sinnvoll."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Speisemohn stammt vom Schlafmohn.",
+        "Samen können außen mit Opiumalkaloiden verunreinigt sein.",
+        "Ein Stück Mohnkuchen ist meist unbedenklich.",
+        "Nach viel Mohn kann ein Drogentest anschlagen."
+      ]
+    }
+  ]
+}
