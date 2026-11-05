@@ -1,0 +1,147 @@
+{
+  "id": "haus-b095-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Turnschuhe richtig?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "turnschuhe",
+    "sneaker",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Weiße Sneaker bleiben selten lange weiß.",
+        "Mit der richtigen Pflege sehen sie trotzdem wieder ordentlich aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst prüfen, dann waschen",
+      "absaetze": [
+        "Viele Turnschuhe aus Stoff oder Kunststoff vertragen die Waschmaschine. Schuhe aus Leder oder Wildleder solltest du dagegen nicht waschen. Hinweise findest du oft auf dem Etikett oder beim Hersteller.",
+        "Entferne vorher groben Schmutz mit einer Bürste. Entferne Schnürsenkel und Einlegesohlen und wasche sie getrennt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend in der Maschine",
+      "absaetze": [
+        "Stecke die Schuhe in einen Wäschebeutel oder lege ein paar alte Handtücher dazu. Das dämpft die Schläge in der Trommel. Wasche bei niedriger Temperatur, etwa 30 Grad, und schleudere wenig.",
+        "Trockne die Schuhe an der Luft, nicht im Trockner und nicht direkt auf der Heizung. Hitze kann den Kleber lösen und das Material verformen. Zeitungspapier im Inneren hilft, die Form zu halten."
+      ],
+      "merke": "Turnschuhe an der Luft trocknen, nie im Trockner."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sohlen und Leder",
+      "absaetze": [
+        "Gummisohlen bekommst du mit einer alten Zahnbürste und etwas Spülmittel oder einem Schmutzradierer wieder sauber.",
+        "Lederschuhe wischst du mit einem feuchten Tuch ab und pflegst sie anschließend mit einem passenden Mittel. Teste neue Mittel zuerst an einer unauffälligen Stelle."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Sneaker waschen in fünf Schritten",
+      "schritte": [
+        {
+          "titel": "Material prüfen",
+          "text": "Wasche nur Stoff- oder Kunststoffschuhe in der Maschine."
+        },
+        {
+          "titel": "Vorbereiten",
+          "text": "Bürste groben Schmutz ab und entferne Senkel und Sohlen."
+        },
+        {
+          "titel": "Schützen",
+          "text": "Steck die Schuhe in einen Wäschebeutel oder leg Handtücher dazu."
+        },
+        {
+          "titel": "Schonend waschen",
+          "text": "Wasche bei etwa 30 Grad und schleudere wenig."
+        },
+        {
+          "titel": "Lufttrocknen",
+          "text": "Lass die Schuhe an der Luft trocknen, mit Papier gefüllt."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schuhe solltest du nicht in die Maschine stecken?",
+      "art": "mc",
+      "optionen": [
+        "Schuhe aus Leder oder Wildleder",
+        "Stoffturnschuhe",
+        "Kunststoffschuhe",
+        "Keine, alle dürfen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leder wird feucht gereinigt und gepflegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du Turnschuhe nicht im Trockner trocknen?",
+      "art": "mc",
+      "optionen": [
+        "Hitze kann den Kleber lösen",
+        "Sie werden dann zu weiß",
+        "Der Trockner wird zu leise",
+        "Sie trocknen dort zu langsam"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch das Material kann sich verformen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, die Form beim Trocknen zu halten?",
+      "art": "mc",
+      "optionen": [
+        "Zeitungspapier im Inneren",
+        "Ein schweres Buch darauf",
+        "Ein heißer Föhn",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es saugt zusätzlich Feuchtigkeit auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schnürsenkel und Einlegesohlen solltest du vor dem Waschen herausnehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wasche sie getrennt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nur Stoff- und Kunststoffschuhe in die Maschine.",
+        "Senkel und Sohlen vorher herausnehmen.",
+        "Schonend waschen und an der Luft trocknen.",
+        "Leder feucht abwischen und pflegen."
+      ]
+    }
+  ]
+}

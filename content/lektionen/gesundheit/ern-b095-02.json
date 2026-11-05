@@ -1,0 +1,130 @@
+{
+  "id": "ern-b095-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Dinkel gesünder als Weizen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "dinkel",
+    "weizen",
+    "getreide"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dinkelbrötchen, Dinkelnudeln, Dinkelkekse: Dinkel hat ein gesundes Image.",
+        "Doch der Unterschied zu Weizen ist kleiner, als viele denken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eng verwandt",
+      "absaetze": [
+        "Dinkel ist ein enger Verwandter des Weizens. Er wurde schon vor Jahrtausenden angebaut und galt lange als robustes Getreide für raue Lagen.",
+        "Wird Dinkel unreif geerntet und getrocknet, entsteht Grünkern. Er hat einen würzigen Geschmack und wird etwa für Bratlinge verwendet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ähnliche Nährstoffe",
+      "absaetze": [
+        "Bei Eiweiß, Ballaststoffen und Mineralstoffen ähneln sich Dinkel und Weizen stark. Die Unterschiede sind gering.",
+        "Viel wichtiger als die Getreideart ist, ob du Vollkorn oder Weißmehl isst. Ein Vollkornbrot aus Weizen ist meist nährstoffreicher als ein helles Dinkelbrötchen."
+      ],
+      "merke": "Vollkorn ist wichtiger als die Frage Dinkel oder Weizen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Ausweg bei Zöliakie",
+      "absaetze": [
+        "Dinkel enthält wie Weizen Gluten. Für Menschen mit Zöliakie ist er deshalb nicht geeignet.",
+        "Manche Menschen berichten, dass sie Dinkel besser vertragen. Das kann auch an der Herstellung liegen, etwa an längeren Teigruhezeiten. Wissenschaftlich ist das nicht eindeutig geklärt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Dinkel ist viel gesünder als Weizen.",
+      "urteil": "teils",
+      "erklaerung": "Dinkel und Weizen unterscheiden sich in den Nährstoffen nur wenig. Entscheidend ist, ob du Vollkorn isst. Ein helles Dinkelprodukt bringt kaum Vorteile gegenüber hellem Weizen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Grünkern?",
+      "art": "mc",
+      "optionen": [
+        "Unreif geernteter, getrockneter Dinkel",
+        "Eine Erbsensorte",
+        "Grün gefärbter Reis",
+        "Ein Kürbiskern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er schmeckt würzig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für die Gesundheit wichtiger als Dinkel oder Weizen?",
+      "art": "mc",
+      "optionen": [
+        "Ob es Vollkorn ist",
+        "Die Farbe der Verpackung",
+        "Der Preis",
+        "Das Gewicht des Brötchens"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vollkorn liefert mehr Nährstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Dinkel für Menschen mit Zöliakie geeignet?",
+      "art": "mc",
+      "optionen": [
+        "Nein, er enthält Gluten",
+        "Ja, er ist glutenfrei",
+        "Nur gekocht",
+        "Nur als Grünkern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist eng mit Weizen verwandt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Dinkel und Weizen unterscheiden sich in den Nährstoffen nur wenig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Unterschiede sind gering."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Dinkel ist eng mit Weizen verwandt.",
+        "Die Nährstoffe ähneln sich stark.",
+        "Vollkorn ist wichtiger als die Getreideart.",
+        "Dinkel enthält Gluten."
+      ]
+    }
+  ]
+}

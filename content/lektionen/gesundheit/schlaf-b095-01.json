@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b095-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was sind Schlafspindeln?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafspindeln",
+    "leichtschlaf",
+    "gedaechtnis"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer im Schlaflabor die Hirnströme misst, sieht immer wieder kurze, spindelförmige Wellen.",
+        "Diese Schlafspindeln sind mehr als ein Muster auf dem Bildschirm."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurze Wellenpakete",
+      "absaetze": [
+        "Schlafspindeln sind kurze Ausbrüche schneller Hirnwellen. Sie dauern meist nur etwa eine halbe bis zwei Sekunden. In der Aufzeichnung sehen sie aus wie eine Spindel, dick in der Mitte und dünn an den Enden.",
+        "Sie treten vor allem im leichten Schlaf auf, in der sogenannten Schlafphase N2. Diese Phase macht einen großen Teil der Nacht aus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hilfe beim Erinnern",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Schlafspindeln beim Festigen von Erinnerungen helfen. Besonders nach dem Lernen neuer Bewegungen oder Fakten scheinen sie häufiger aufzutreten.",
+        "Menschen mit vielen Schlafspindeln schneiden in manchen Gedächtnistests nach dem Schlaf etwas besser ab. Wie genau dieser Zusammenhang funktioniert, wird noch erforscht."
+      ],
+      "merke": "Schlafspindeln scheinen beim Festigen von Erinnerungen zu helfen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Schutz vor Störungen",
+      "absaetze": [
+        "Forschende vermuten außerdem, dass Spindeln den Schlaf gegen Geräusche abschirmen. Menschen mit vielen Spindeln wachen bei Lärm offenbar seltener auf.",
+        "Mit dem Alter nehmen Schlafspindeln ab. Das könnte ein Grund sein, warum der Schlaf älterer Menschen leichter und störanfälliger wird."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert eine Schlafspindel meist?",
+      "art": "mc",
+      "optionen": [
+        "Etwa eine halbe bis zwei Sekunden",
+        "Etwa eine Stunde",
+        "Die ganze Nacht",
+        "Etwa zehn Minuten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind kurze Ausbrüche schneller Wellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Schlafphase treten Spindeln vor allem auf?",
+      "art": "mc",
+      "optionen": [
+        "Im leichten Schlaf, Phase N2",
+        "Nur im Wachzustand",
+        "Nur im Traumschlaf",
+        "Beim Einschlafen im Sitzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Phase macht einen großen Teil der Nacht aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Schlafspindeln im Alter?",
+      "art": "mc",
+      "optionen": [
+        "Sie nehmen ab",
+        "Sie nehmen stark zu",
+        "Sie bleiben genau gleich",
+        "Sie verschwinden schon in der Kindheit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das könnte den Schlaf störanfälliger machen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlafspindeln könnten den Schlaf gegen Geräusche abschirmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das vermuten Forschende."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafspindeln sind kurze Wellenpakete im Leichtschlaf.",
+        "Sie scheinen beim Festigen von Erinnerungen zu helfen.",
+        "Sie schützen den Schlaf vermutlich vor Störungen.",
+        "Im Alter werden sie weniger."
+      ]
+    }
+  ]
+}

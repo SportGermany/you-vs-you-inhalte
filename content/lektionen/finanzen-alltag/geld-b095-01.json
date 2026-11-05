@@ -1,0 +1,127 @@
+{
+  "id": "geld-b095-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist eine geduldete Überziehung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher: Konto und Kredit",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "geduldete ueberziehung",
+    "girokonto",
+    "dispo"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Konto ist im Minus, obwohl du gar keinen Dispo hast.",
+        "Dann bist du in der geduldeten Überziehung, und das kann teuer werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Über die Grenze hinaus",
+      "absaetze": [
+        "Ein Dispokredit ist ein vereinbarter Rahmen, um den du dein Konto überziehen darfst. Gehst du darüber hinaus oder hast gar keinen Dispo, kann die Bank Zahlungen trotzdem ausführen. Das nennt man geduldete Überziehung.",
+        "Die Bank ist dazu nicht verpflichtet. Sie kann Lastschriften auch zurückgehen lassen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teurer als der Dispo",
+      "absaetze": [
+        "Für die geduldete Überziehung verlangen viele Banken noch höhere Zinsen als für den Dispokredit. Schon der Dispo ist eine sehr teure Form des Kredits.",
+        "Platzt eine Lastschrift, kommen oft Gebühren hinzu, auch beim Empfänger. Zum Beispiel kann dann die Miete oder die Stromrechnung nicht bezahlt sein."
+      ],
+      "merke": "Die geduldete Überziehung ist meist noch teurer als der Dispo."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Behalte deinen Kontostand im Blick, etwa mit Benachrichtigungen in der Banking-App.",
+        "Rutschst du öfter ins Minus, hilft ein Haushaltsplan. Bei längerer Überziehung ist ein günstiger Ratenkredit oft besser. Bei Geldsorgen helfen Schuldnerberatungsstellen kostenlos."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine geduldete Überziehung?",
+      "art": "mc",
+      "optionen": [
+        "Ein Minus über den Dispo hinaus oder ohne Dispo",
+        "Ein Guthaben auf dem Konto",
+        "Ein Sparvertrag",
+        "Eine Gebühr für Kontoauszüge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bank führt Zahlungen trotzdem aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie teuer ist die geduldete Überziehung meist?",
+      "art": "mc",
+      "optionen": [
+        "Noch teurer als der Dispo",
+        "Kostenlos",
+        "Günstiger als ein Ratenkredit",
+        "Genau wie Tagesgeld"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schon der Dispo ist teuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei längerer Überziehung oft?",
+      "art": "mc",
+      "optionen": [
+        "Ein günstigerer Ratenkredit",
+        "Ein zweites Girokonto im Minus",
+        "Abwarten",
+        "Mehr Lastschriften"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein Haushaltsplan hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Bank ist verpflichtet, jede Zahlung ohne Deckung auszuführen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie kann Lastschriften auch zurückgehen lassen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine geduldete Überziehung geht über den Dispo hinaus.",
+        "Sie ist meist noch teurer als der Dispo.",
+        "Geplatzte Lastschriften verursachen Gebühren.",
+        "Kontostand im Blick behalten und rechtzeitig umschulden."
+      ]
+    }
+  ]
+}

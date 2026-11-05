@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b095-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was verraten die Leberwerte?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "leberwerte",
+    "blutwerte",
+    "leber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Bluttest stehen sie oft mit auf dem Befund: GPT, GOT und Gamma-GT.",
+        "Was sagen diese Leberwerte eigentlich aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Enzyme aus den Leberzellen",
+      "absaetze": [
+        "Die wichtigsten Leberwerte sind Enzyme, also Eiweiße, die in den Leberzellen arbeiten. Dazu gehören GPT, auch ALT genannt, GOT, auch AST genannt, und Gamma-GT.",
+        "Werden Leberzellen geschädigt, gelangen mehr dieser Enzyme ins Blut. Die Werte steigen dann an. Ein weiterer Wert ist das Bilirubin, ein Abbauprodukt des roten Blutfarbstoffs."
+      ],
+      "merke": "Erhöhte Leberwerte zeigen oft, dass Leberzellen belastet sind.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Ursachen",
+      "absaetze": [
+        "Eine sehr häufige Ursache für erhöhte Werte ist eine Fettleber. Auch Alkohol, bestimmte Medikamente und Virusinfektionen wie Hepatitis können die Werte erhöhen.",
+        "GOT kann auch nach intensivem Sport steigen, weil das Enzym zusätzlich in Muskeln vorkommt. Gamma-GT reagiert besonders empfindlich auf Alkohol."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ein Befund bedeutet",
+      "absaetze": [
+        "Ein einzelner, leicht erhöhter Wert ist oft harmlos. Er sollte aber kontrolliert und mit der Ärztin oder dem Arzt besprochen werden.",
+        "Deutlich oder dauerhaft erhöhte Werte brauchen eine genauere Abklärung, etwa mit Ultraschall. Die Leber kann sich oft gut erholen, wenn die Ursache beseitigt wird."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind die wichtigsten Leberwerte?",
+      "art": "mc",
+      "optionen": [
+        "Enzyme aus den Leberzellen",
+        "Vitamine",
+        "Hormone der Schilddrüse",
+        "Zuckerarten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa GPT, GOT und Gamma-GT."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine sehr häufige Ursache für erhöhte Leberwerte?",
+      "art": "mc",
+      "optionen": [
+        "Eine Fettleber",
+        "Zu viel Wasser",
+        "Kalte Füße",
+        "Zu wenig Licht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Alkohol und Medikamente spielen eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Wert kann auch nach intensivem Sport steigen?",
+      "art": "mc",
+      "optionen": [
+        "GOT",
+        "Gamma-GT",
+        "Bilirubin",
+        "Keiner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kommt auch in Muskeln vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein einzelner leicht erhöhter Leberwert ist oft harmlos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er sollte aber kontrolliert werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Leberwerte sind vor allem Enzyme aus Leberzellen.",
+        "Erhöhte Werte zeigen eine Belastung der Leber.",
+        "Häufige Ursachen sind Fettleber und Alkohol.",
+        "Auffällige Werte gehören ärztlich abgeklärt.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "supp-b095-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Kolostrum zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kolostrum",
+    "erstmilch",
+    "immunsystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kolostrum-Kapseln sollen Abwehrkräfte, Darm und Sportleistung stärken.",
+        "Was steckt hinter der sogenannten Erstmilch?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die erste Milch",
+      "absaetze": [
+        "Kolostrum ist die erste Milch, die Säugetiere nach der Geburt bilden. Sie enthält besonders viele Antikörper und Wachstumsfaktoren. Für Neugeborene ist sie sehr wertvoll.",
+        "Präparate werden meist aus der Erstmilch von Kühen gewonnen und als Pulver oder Kapsel angeboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass Kolostrum bei Sportlern Infekte der oberen Atemwege etwas verringern könnte. Auch zur Darmgesundheit gibt es erste Untersuchungen.",
+        "Die Studien sind aber klein und uneinheitlich. Ob Antikörper aus Kuhmilch im menschlichen Darm wirksam bleiben, ist nicht klar. Für gesunde Erwachsene ist ein Nutzen nicht belegt."
+      ],
+      "merke": "Ein Nutzen von Kolostrum für gesunde Erwachsene ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teuer und nicht für alle",
+      "absaetze": [
+        "Kolostrum-Präparate sind vergleichsweise teuer. Menschen mit einer Allergie gegen Milcheiweiß sollten sie meiden. Bei Laktoseintoleranz können sie Beschwerden auslösen.",
+        "Eine abwechslungsreiche Ernährung, Bewegung und ausreichend Schlaf stärken das Immunsystem nach heutigem Wissen zuverlässiger."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Allergie gegen Milcheiweiß nicht verwenden.",
+        "Bei Laktoseintoleranz können Beschwerden auftreten.",
+        "Schwangere, Stillende und Kinder sollten auf solche Präparate verzichten, wenn nicht ärztlich anders empfohlen.",
+        "Präparate ersetzen keinen gesunden Lebensstil."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Kolostrum?",
+      "art": "mc",
+      "optionen": [
+        "Die erste Milch nach der Geburt",
+        "Ein Pflanzenextrakt",
+        "Ein Vitamin",
+        "Ein Mineralwasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie enthält viele Antikörper."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus werden Kolostrum-Präparate meist gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Erstmilch von Kühen",
+        "Aus Algen",
+        "Aus Pilzen",
+        "Aus Fischöl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden als Pulver oder Kapsel angeboten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte Kolostrum meiden?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Milcheiweißallergie",
+        "Menschen mit Brille",
+        "Linkshänder",
+        "Menschen, die Sport treiben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Laktoseintoleranz kann es Beschwerden geben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für gesunde Erwachsene ist ein Nutzen von Kolostrum belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Studien sind klein und uneinheitlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kolostrum ist die Erstmilch nach der Geburt.",
+        "Präparate stammen meist von Kühen.",
+        "Ein Nutzen für Gesunde ist nicht belegt.",
+        "Bei Milcheiweißallergie besser meiden."
+      ]
+    }
+  ]
+}

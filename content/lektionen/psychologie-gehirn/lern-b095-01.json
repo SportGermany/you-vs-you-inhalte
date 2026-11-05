@@ -1,0 +1,121 @@
+{
+  "id": "lern-b095-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie merken sich Schachprofis so viele Stellungen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schach",
+    "expertise",
+    "chunking"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Schachmeister sieht ein Brett nur wenige Sekunden und kann die Stellung danach fast fehlerfrei aufbauen.",
+        "Haben Profis ein besonderes Gedächtnis?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein berühmtes Experiment",
+      "absaetze": [
+        "Forschende zeigten Schachmeistern und Anfängern kurz Stellungen aus echten Partien. Die Meister konnten danach viel mehr Figuren richtig platzieren als die Anfänger.",
+        "Dann zeigten sie zufällig auf dem Brett verteilte Figuren. Plötzlich schnitten die Meister kaum besser ab als die Anfänger."
+      ],
+      "merke": "Schachmeister merken sich echte Stellungen viel besser als zufällige."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Muster statt Einzelteile",
+      "absaetze": [
+        "Die Erklärung: Meister speichern nicht jede Figur einzeln. Sie erkennen bekannte Muster, etwa typische Aufstellungen, und merken sich diese als Ganzes. Fachleute nennen solche Einheiten Chunks.",
+        "So passt viel mehr Information ins begrenzte Arbeitsgedächtnis. Grundlage dafür ist ein riesiges Wissen aus Tausenden gespielten und studierten Partien."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das fürs Lernen bedeutet",
+      "absaetze": [
+        "Expertise entsteht durch lange, gezielte Übung. Wer ein Fachgebiet gut kennt, erkennt darin schneller Muster und lernt Neues leichter.",
+        "Allerdings überträgt sich das kaum auf andere Bereiche. Ein Schachgenie hat nicht automatisch ein besseres Gedächtnis für Einkaufslisten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte das Experiment mit Schachmeistern?",
+      "art": "mc",
+      "optionen": [
+        "Sie merken sich echte Stellungen besser, zufällige kaum",
+        "Sie haben ein perfektes Gedächtnis für alles",
+        "Anfänger waren immer besser",
+        "Es gab keinen Unterschied"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei zufälligen Stellungen verschwand ihr Vorteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Chunks?",
+      "art": "mc",
+      "optionen": [
+        "Bekannte Muster, die als Ganzes gemerkt werden",
+        "Schachfiguren",
+        "Fehler im Spiel",
+        "Eine Eröffnung"
+      ],
+      "richtig": 0,
+      "erklaerung": "So passt mehr ins Arbeitsgedächtnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht Expertise?",
+      "art": "mc",
+      "optionen": [
+        "Durch lange, gezielte Übung",
+        "Durch Zufall",
+        "Durch ein angeborenes Supergedächtnis",
+        "Durch einmaliges Lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grundlage ist großes Wissen im Fachgebiet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schachkönnen verbessert automatisch das Gedächtnis für Einkaufslisten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Expertise überträgt sich kaum auf andere Bereiche."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schachmeister erkennen Muster auf dem Brett.",
+        "Sie merken sich Chunks statt einzelner Figuren.",
+        "Bei zufälligen Stellungen verschwindet ihr Vorteil.",
+        "Expertise entsteht durch lange, gezielte Übung."
+      ]
+    }
+  ]
+}

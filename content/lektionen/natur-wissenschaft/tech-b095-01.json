@@ -1,0 +1,121 @@
+{
+  "id": "tech-b095-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein schlüsselloses Autosystem?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "keyless",
+    "autoschluessel",
+    "funk"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du gehst zum Auto, und es öffnet sich, ohne dass du den Schlüssel aus der Tasche nimmst.",
+        "Bequem, aber diese Technik hat eine Schwachstelle."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Funk zwischen Auto und Schlüssel",
+      "absaetze": [
+        "Bei schlüssellosen Systemen, oft Keyless genannt, sendet das Auto ein schwaches Funksignal in seine Umgebung. Ist der Schlüssel in der Nähe, antwortet er mit einem verschlüsselten Code.",
+        "Erkennt das Auto den richtigen Code, entriegelt es die Türen. Auch der Motor lässt sich dann per Knopfdruck starten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Verlängerungs-Masche",
+      "absaetze": [
+        "Diebe nutzen dafür manchmal einen Trick. Mit zwei Funkgeräten verlängern sie das Signal zwischen Auto und Schlüssel, der zum Beispiel im Hausflur liegt.",
+        "Das Auto glaubt dann, der Schlüssel sei direkt daneben, und öffnet sich. Fachleute sprechen von einem Relay-Angriff. Für viele Fahrzeuge wurde gezeigt, dass das in Sekunden möglich ist."
+      ],
+      "merke": "Mit verlängertem Funksignal können Diebe Keyless-Autos öffnen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du dich",
+      "absaetze": [
+        "Bewahre den Schlüssel in einer abschirmenden Hülle oder Box auf, die Funksignale blockiert. Leg ihn nicht direkt an die Haustür.",
+        "Bei manchen Autos lässt sich die Keyless-Funktion abschalten. Neuere Schlüssel haben oft einen Bewegungssensor und senden nicht, wenn sie länger ruhig liegen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie erkennt ein Keyless-Auto den Schlüssel?",
+      "art": "mc",
+      "optionen": [
+        "Über einen verschlüsselten Funkcode",
+        "Über die Fingerabdrücke",
+        "Über die Stimme",
+        "Über das Gewicht des Fahrers"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schlüssel antwortet auf ein Signal des Autos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Relay-Angriff?",
+      "art": "mc",
+      "optionen": [
+        "Diebe verlängern das Funksignal zwischen Auto und Schlüssel",
+        "Ein Unfall auf der Autobahn",
+        "Ein Wettrennen",
+        "Ein Software-Update"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Auto glaubt dann, der Schlüssel sei in der Nähe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt vor dieser Masche?",
+      "art": "mc",
+      "optionen": [
+        "Eine abschirmende Hülle für den Schlüssel",
+        "Den Schlüssel an die Haustür legen",
+        "Das Auto offen lassen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie blockiert Funksignale."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Schlüssel senden nicht, wenn sie länger ruhig liegen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie haben einen Bewegungssensor."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Keyless-Systeme erkennen den Schlüssel per Funk.",
+        "Diebe können das Signal verlängern.",
+        "Abschirmende Hüllen bieten Schutz.",
+        "Manche Systeme lassen sich abschalten."
+      ]
+    }
+  ]
+}

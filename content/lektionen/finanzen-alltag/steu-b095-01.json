@@ -1,0 +1,121 @@
+{
+  "id": "steu-b095-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist das Faktorverfahren bei der Steuerklasse?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "faktorverfahren",
+    "steuerklasse",
+    "ehepaare"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ehepaare können zwischen Steuerklassen wählen.",
+        "Eine wenig bekannte Möglichkeit ist das Faktorverfahren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Problem mit III und V",
+      "absaetze": [
+        "Verdienen Ehepartner sehr unterschiedlich, wählen viele die Kombination III und V. Der Partner mit dem höheren Einkommen zahlt dann monatlich wenig Lohnsteuer, der andere sehr viel.",
+        "Das kann das niedrigere Einkommen unattraktiv erscheinen lassen. Außerdem kommt es oft zu Nachzahlungen nach der Steuererklärung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie der Faktor hilft",
+      "absaetze": [
+        "Beim Faktorverfahren wählen beide Partner Steuerklasse IV. Das Finanzamt berechnet zusätzlich einen Faktor, der kleiner als eins ist.",
+        "Damit wird die Lohnsteuer schon im Laufe des Jahres so verteilt, wie es dem Anteil jedes Partners am gemeinsamen Einkommen entspricht. Der Vorteil des Ehegattensplittings kommt so beiden zugute."
+      ],
+      "merke": "Beim Faktorverfahren wird die Lohnsteuer fairer auf beide verteilt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du wissen solltest",
+      "absaetze": [
+        "Das Faktorverfahren musst du beim Finanzamt beantragen. Dafür gibst du die voraussichtlichen Arbeitslöhne beider Partner an.",
+        "Wer es nutzt, muss eine Steuererklärung abgeben. Insgesamt zahlt das Paar über das Jahr nicht mehr oder weniger Steuer. Es ändert sich nur die Verteilung während des Jahres."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Steuerklasse haben beide Partner beim Faktorverfahren?",
+      "art": "mc",
+      "optionen": [
+        "Beide Steuerklasse IV",
+        "III und V",
+        "Beide Steuerklasse I",
+        "Beide Steuerklasse VI"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommt ein berechneter Faktor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt der Faktor?",
+      "art": "mc",
+      "optionen": [
+        "Er verteilt die Lohnsteuer nach dem Einkommensanteil",
+        "Er streicht die Steuer ganz",
+        "Er verdoppelt den Lohn",
+        "Er gilt nur für Rentner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Splittingvorteil kommt beiden zugute."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ändert das Faktorverfahren die Jahressteuer des Paares?",
+      "art": "mc",
+      "optionen": [
+        "Nein, nur die Verteilung während des Jahres",
+        "Ja, sie sinkt immer stark",
+        "Ja, sie steigt immer",
+        "Sie entfällt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gesamtsteuer bleibt gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer das Faktorverfahren nutzt, muss eine Steuererklärung abgeben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist eine Pflicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei III und V zahlt ein Partner viel, der andere wenig Lohnsteuer.",
+        "Das Faktorverfahren nutzt zweimal Steuerklasse IV mit Faktor.",
+        "Die Lohnsteuer wird nach dem Einkommensanteil verteilt.",
+        "Die Jahressteuer bleibt gleich, eine Steuererklärung ist Pflicht."
+      ]
+    }
+  ]
+}
