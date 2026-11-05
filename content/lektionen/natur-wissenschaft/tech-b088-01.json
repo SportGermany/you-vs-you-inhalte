@@ -1,0 +1,121 @@
+{
+  "id": "tech-b088-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Zahlenschloss?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zahlenschloss",
+    "mechanik",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Drei oder vier Rädchen, die richtige Kombination, und das Schloss springt auf.",
+        "Im Inneren arbeitet eine einfache, aber clevere Mechanik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rädchen mit einer Kerbe",
+      "absaetze": [
+        "In einem einfachen Zahlenschloss für Koffer oder Fahrräder sitzt hinter jedem Zahlenrad eine kleine Scheibe. Jede Scheibe hat an einer Stelle eine Aussparung, also eine Kerbe.",
+        "Am Bügel oder Riegel des Schlosses sitzen kleine Zapfen. Sie können sich nur bewegen, wenn alle Kerben genau unter ihnen liegen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die richtige Kombination",
+      "absaetze": [
+        "Stellst du die richtige Zahlenfolge ein, stehen alle Kerben in einer Reihe. Dann gleitet der Riegel durch, und das Schloss öffnet sich.",
+        "Steht auch nur ein Rad falsch, blockiert es den Riegel. Bei vielen Schlössern kannst du die Kombination ändern, indem du die Räder von den Scheiben löst und neu aufsetzt."
+      ],
+      "merke": "Nur wenn alle Kerben in einer Reihe stehen, öffnet sich das Schloss."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sicher sind sie?",
+      "absaetze": [
+        "Ein Schloss mit drei Rädern hat 1.000 mögliche Kombinationen, eines mit vier Rädern 10.000. Das klingt viel, doch einfache Schlösser lassen sich oft durch Ertasten kleiner Spielräume öffnen.",
+        "Für teure Fahrräder sind deshalb massive Bügel- oder Faltschlösser sicherer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hat jede Scheibe in einem Zahlenschloss?",
+      "art": "mc",
+      "optionen": [
+        "Eine Kerbe",
+        "Einen Magneten",
+        "Eine Batterie",
+        "Eine Feder aus Gummi"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kerben müssen in einer Reihe stehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann öffnet sich das Schloss?",
+      "art": "mc",
+      "optionen": [
+        "Wenn alle Kerben in einer Reihe stehen",
+        "Wenn man kräftig schüttelt",
+        "Bei jeder geraden Zahl",
+        "Nach fünf Minuten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann kann der Riegel durchgleiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Kombinationen hat ein Schloss mit vier Rädern?",
+      "art": "mc",
+      "optionen": [
+        "10.000",
+        "40",
+        "400",
+        "1.000"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jedes Rad hat zehn Ziffern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einfache Zahlenschlösser lassen sich oft durch Ertasten öffnen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für teure Räder sind massive Schlösser sicherer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hinter jedem Zahlenrad sitzt eine Scheibe mit Kerbe.",
+        "Nur bei der richtigen Kombination stehen alle Kerben in einer Reihe.",
+        "Vier Räder ergeben 10.000 Kombinationen.",
+        "Einfache Zahlenschlösser bieten wenig Schutz."
+      ]
+    }
+  ]
+}

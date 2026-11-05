@@ -1,0 +1,124 @@
+{
+  "id": "ern-b088-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Paprika?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "paprika",
+    "gemuese",
+    "vitamin c"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grün, gelb oder rot: Paprika bringt Farbe auf den Teller.",
+        "Die Farbe verrät dabei mehr, als du vielleicht denkst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Frage der Reife",
+      "absaetze": [
+        "Grüne Paprika ist meist einfach unreif geerntet. Lässt man sie länger an der Pflanze, wird sie je nach Sorte gelb, orange oder rot.",
+        "Mit der Reife wird sie süßer. Rote Paprika enthält außerdem mehr Betacarotin. Daraus kann der Körper Vitamin A bilden."
+      ],
+      "merke": "Grüne Paprika ist meist unreif, rote ist reif und süßer.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reich an Vitamin C",
+      "absaetze": [
+        "Paprika gehört zu den Gemüsen mit sehr viel Vitamin C. Schon eine halbe rote Schote kann einen großen Teil des Tagesbedarfs decken.",
+        "Vitamin C ist hitzeempfindlich. Roh als Snack oder im Salat bleibt am meisten davon erhalten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemüse und Gewürz",
+      "absaetze": [
+        "Paprika gehört wie Tomate und Kartoffel zu den Nachtschattengewächsen. Für Gemüsepaprika wurden milde Sorten gezüchtet.",
+        "Das rote Gewürzpulver entsteht aus getrockneten, gemahlenen Früchten. Scharfe Sorten enthalten Capsaicin, den Stoff, der auch Chilis scharf macht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist grüne Paprika grün?",
+      "art": "mc",
+      "optionen": [
+        "Sie ist meist unreif geerntet",
+        "Sie ist eine eigene Pflanzenart",
+        "Sie wurde gefärbt",
+        "Sie ist verdorben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit der Reife wird sie gelb, orange oder rot."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Paprika enthält mehr Betacarotin?",
+      "art": "mc",
+      "optionen": [
+        "Rote",
+        "Grüne",
+        "Alle gleich viel",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus kann der Körper Vitamin A bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bleibt am meisten Vitamin C erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Roh essen",
+        "Lange kochen",
+        "Frittieren",
+        "Mehrmals aufwärmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vitamin C ist hitzeempfindlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Paprika gehört zu den Nachtschattengewächsen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wie Tomate und Kartoffel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grüne Paprika ist meist unreif.",
+        "Rote Paprika ist süßer und reich an Betacarotin.",
+        "Paprika liefert sehr viel Vitamin C.",
+        "Roh bleibt das meiste Vitamin C erhalten."
+      ]
+    }
+  ]
+}

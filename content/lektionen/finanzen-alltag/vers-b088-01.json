@@ -1,0 +1,147 @@
+{
+  "id": "vers-b088-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was tust du nach einem Autounfall im Ausland?",
+  "minuten": 4,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Unfall im Ausland",
+      "herausgeber": "Gesamtverband der Deutschen Versicherungswirtschaft (GDV)",
+      "url": "https://www.gdv.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "unfall ausland",
+    "autoversicherung",
+    "urlaub"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Blechschaden im Urlaub, und der andere Fahrer spricht nur Italienisch.",
+        "Mit ein paar Vorbereitungen behältst du auch dann den Überblick."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "An der Unfallstelle",
+      "absaetze": [
+        "Sichere die Unfallstelle ab und kümmere dich um Verletzte. Rufe in der EU über die 112 Hilfe. Bei Verletzten oder Streit solltest du immer die Polizei holen.",
+        "Notiere Kennzeichen, Namen, Adressen und die Versicherung des anderen Fahrers. Mach Fotos von den Fahrzeugen und der Unfallstelle."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Europäische Unfallbericht",
+      "absaetze": [
+        "Der Europäische Unfallbericht ist ein Formular, das in allen Sprachen gleich aufgebaut ist. So könnt ihr ihn ausfüllen, auch wenn ihr verschiedene Sprachen sprecht. Lege ihn vor der Reise ins Handschuhfach.",
+        "Unterschreibe nichts, was du nicht verstehst. Ein Schuldanerkenntnis solltest du an der Unfallstelle nie abgeben."
+      ],
+      "merke": "Der Europäische Unfallbericht ist in allen Sprachen gleich aufgebaut."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schaden von zu Hause regeln",
+      "absaetze": [
+        "Wer in einem EU-Land unverschuldet einen Unfall hat, kann seine Ansprüche oft von Deutschland aus geltend machen. Jede ausländische Versicherung hat dafür hier einen Ansprechpartner.",
+        "Welcher das ist, erfährst du beim Zentralruf der Autoversicherer. Die Grüne Karte, ein internationaler Versicherungsnachweis, ist in vielen Ländern nicht Pflicht, aber hilfreich."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "Checkliste nach dem Unfall",
+      "schritte": [
+        {
+          "titel": "Absichern",
+          "text": "Warnblinker an, Warnweste anziehen, Warndreieck aufstellen."
+        },
+        {
+          "titel": "Hilfe rufen",
+          "text": "Bei Verletzten in der EU die 112 wählen."
+        },
+        {
+          "titel": "Daten sammeln",
+          "text": "Kennzeichen, Namen und Versicherung notieren, Fotos machen."
+        },
+        {
+          "titel": "Unfallbericht",
+          "text": "Den Europäischen Unfallbericht gemeinsam ausfüllen."
+        },
+        {
+          "titel": "Nichts zugeben",
+          "text": "Kein Schuldanerkenntnis unterschreiben."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Notrufnummer gilt in der ganzen EU?",
+      "art": "mc",
+      "optionen": [
+        "112",
+        "911",
+        "110",
+        "999"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist europaweit einheitlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Besondere am Europäischen Unfallbericht?",
+      "art": "mc",
+      "optionen": [
+        "Er ist in allen Sprachen gleich aufgebaut",
+        "Er gilt nur in Deutschland",
+        "Er muss notariell beglaubigt werden",
+        "Er ist nur online verfügbar"
+      ],
+      "richtig": 0,
+      "erklaerung": "So geht das Ausfüllen auch ohne gemeinsame Sprache."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo erfährst du den deutschen Ansprechpartner einer ausländischen Versicherung?",
+      "art": "mc",
+      "optionen": [
+        "Beim Zentralruf der Autoversicherer",
+        "Beim Bürgeramt",
+        "Beim Reisebüro",
+        "Bei der Botschaft des Urlaubslands"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kannst du den Schaden von zu Hause regeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Schuldanerkenntnis an der Unfallstelle ist immer eine gute Idee.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Unterschreibe nichts, was du nicht verstehst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sichere die Unfallstelle und rufe bei Verletzten die 112.",
+        "Sammle Daten und Fotos.",
+        "Nutze den Europäischen Unfallbericht.",
+        "Ansprüche aus EU-Unfällen kannst du oft von zu Hause regeln."
+      ]
+    }
+  ]
+}

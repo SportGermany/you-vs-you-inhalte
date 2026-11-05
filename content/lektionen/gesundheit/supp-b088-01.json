@@ -1,0 +1,146 @@
+{
+  "id": "supp-b088-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von BCAA-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaftliche Stellungnahmen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bcaa",
+    "aminosaeuren",
+    "sport"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Fitnessstudio stehen bunte Pulver mit drei Buchstaben: BCAA.",
+        "Sie sollen Muskeln schützen und aufbauen. Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Drei besondere Aminosäuren",
+      "absaetze": [
+        "BCAA steht für die englische Abkürzung von verzweigtkettigen Aminosäuren. Gemeint sind Leucin, Isoleucin und Valin. Aminosäuren sind die Bausteine von Eiweiß.",
+        "Der Körper kann sie nicht selbst bilden. Sie stecken aber in fast allen eiweißreichen Lebensmitteln, etwa in Milchprodukten, Fleisch, Fisch, Eiern und Hülsenfrüchten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Für den Muskelaufbau braucht der Körper alle Aminosäuren, nicht nur drei. Studien zeigen: Wer ausreichend Eiweiß über die Nahrung bekommt, hat durch BCAA meist keinen zusätzlichen Vorteil.",
+        "Einige Untersuchungen deuten darauf hin, dass BCAA Muskelkater leicht verringern könnten. Die Ergebnisse sind aber uneinheitlich."
+      ],
+      "merke": "Bei ausreichender Eiweißzufuhr bringen BCAA meist keinen Zusatznutzen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teuer und oft überflüssig",
+      "absaetze": [
+        "BCAA-Pulver sind im Vergleich zu normalen Lebensmitteln teuer. Sie enthalten oft Süßstoffe und Aromen.",
+        "Für die meisten Freizeitsportler reicht eine ausgewogene Ernährung mit genug Eiweiß völlig aus."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Nierenerkrankungen solltest du Eiweißpräparate nur nach ärztlicher Rücksprache verwenden.",
+        "Achte auf Süßstoffe und Zusatzstoffe in den Pulvern.",
+        "Nahrungsergänzungsmittel ersetzen keine ausgewogene Ernährung."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "BCAA bauen mehr Muskeln auf als normales Eiweiß.",
+      "urteil": "mythos",
+      "erklaerung": "Muskeln entstehen nur, wenn alle nötigen Aminosäuren vorhanden sind. Normales Eiweiß aus Lebensmitteln enthält BCAA ohnehin. Ein zusätzlicher Vorteil durch Pulver ist bei guter Versorgung nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Aminosäuren gehören zu den BCAA?",
+      "art": "mc",
+      "optionen": [
+        "Leucin, Isoleucin und Valin",
+        "Glukose, Fruktose und Laktose",
+        "Eisen, Zink und Kupfer",
+        "Vitamin A, C und E"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind verzweigtkettige Aminosäuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo stecken BCAA natürlicherweise?",
+      "art": "mc",
+      "optionen": [
+        "In fast allen eiweißreichen Lebensmitteln",
+        "Nur in Pulvern",
+        "Nur in Obst",
+        "In Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa in Milchprodukten, Fleisch und Hülsenfrüchten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was braucht der Körper für den Muskelaufbau?",
+      "art": "mc",
+      "optionen": [
+        "Alle nötigen Aminosäuren",
+        "Nur drei Aminosäuren",
+        "Nur Zucker",
+        "Nur Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb reichen BCAA allein nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei ausreichender Eiweißzufuhr bringen BCAA meist keinen Zusatznutzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das zeigen viele Studien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "BCAA sind Leucin, Isoleucin und Valin.",
+        "Sie stecken in eiweißreichen Lebensmitteln.",
+        "Bei guter Eiweißversorgung bringen sie meist nichts extra.",
+        "Die Pulver sind teuer und oft überflüssig."
+      ]
+    }
+  ]
+}

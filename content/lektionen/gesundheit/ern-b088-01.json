@@ -1,0 +1,130 @@
+{
+  "id": "ern-b088-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Himbeeren?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fragen und Antworten zu Lebensmitteln",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "himbeeren",
+    "beeren",
+    "tiefkuehlobst"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Süß, leicht säuerlich und wunderbar duftend.",
+        "Himbeeren sind empfindlich, aber voller guter Inhaltsstoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele kleine Früchte in einer",
+      "absaetze": [
+        "Eine Himbeere ist eine Sammelfrucht. Sie besteht aus vielen kleinen Einzelfrüchten, die jeweils einen winzigen Kern enthalten.",
+        "Dadurch liefern Himbeeren viele Ballaststoffe. Dazu kommen Vitamin C und rote Pflanzenfarbstoffe, die Anthocyane."
+      ],
+      "merke": "Himbeeren liefern viele Ballaststoffe und Vitamin C.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frisch schnell verbrauchen",
+      "absaetze": [
+        "Frische Himbeeren schimmeln leicht. Bewahre sie ungewaschen im Kühlschrank auf und iss sie innerhalb von ein bis zwei Tagen.",
+        "Wasche sie erst kurz vor dem Essen. Am besten legst du sie dafür kurz in eine Schüssel mit Wasser, statt sie unter einen harten Strahl zu halten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tiefkühlbeeren besser erhitzen",
+      "absaetze": [
+        "Tiefgekühlte Beeren sind praktisch. Sie können aber Viren enthalten, etwa Noroviren, die Magen-Darm-Infekte auslösen. Einfrieren macht diese Viren nicht unschädlich.",
+        "Das Bundesinstitut für Risikobewertung rät deshalb, Tiefkühlbeeren vor dem Essen zu erhitzen. Das gilt besonders für Kinder, ältere und abwehrgeschwächte Menschen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was für eine Frucht ist die Himbeere?",
+      "art": "mc",
+      "optionen": [
+        "Eine Sammelfrucht",
+        "Eine Zitrusfrucht",
+        "Eine Nuss",
+        "Ein Getreide"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie besteht aus vielen kleinen Einzelfrüchten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du frische Himbeeren waschen?",
+      "art": "mc",
+      "optionen": [
+        "Kurz vor dem Essen",
+        "Direkt nach dem Kauf",
+        "Gar nicht",
+        "Am Vortag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gewaschen schimmeln sie schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was rät das BfR bei Tiefkühlbeeren?",
+      "art": "mc",
+      "optionen": [
+        "Sie vor dem Essen zu erhitzen",
+        "Sie doppelt einzufrieren",
+        "Sie mit Zucker zu bestreuen",
+        "Sie nur gefroren zu essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden mögliche Viren unschädlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einfrieren macht Noroviren unschädlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür braucht es Erhitzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Himbeeren sind Sammelfrüchte mit vielen Kernen.",
+        "Sie liefern Ballaststoffe und Vitamin C.",
+        "Frische Beeren halten nur kurz.",
+        "Tiefkühlbeeren solltest du vor dem Essen erhitzen."
+      ]
+    }
+  ]
+}

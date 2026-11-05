@@ -1,0 +1,121 @@
+{
+  "id": "koer-b088-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum tränen die Augen beim Zwiebelschneiden?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zwiebeln",
+    "traenen",
+    "augen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du schneidest eine Zwiebel, und schon laufen dir die Tränen.",
+        "Dahinter steckt ein chemischer Schutzmechanismus der Pflanze."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Abwehr der Zwiebel",
+      "absaetze": [
+        "In unverletzten Zwiebelzellen sind bestimmte Schwefelstoffe und Enzyme getrennt gespeichert. Enzyme sind Eiweiße, die chemische Reaktionen beschleunigen.",
+        "Beim Schneiden werden die Zellen zerstört. Die Stoffe treffen aufeinander. In einer schnellen Reaktion entsteht ein flüchtiges Gas, das in die Luft steigt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Auge passiert",
+      "absaetze": [
+        "Das Gas erreicht deine Augen und reizt dort Nervenenden. Das Gehirn reagiert mit einem Reflex: Die Tränendrüsen produzieren mehr Flüssigkeit, um den Reizstoff wegzuspülen.",
+        "Für die Zwiebel ist das ein Schutz vor Tieren, die sie anknabbern wollen."
+      ],
+      "merke": "Die Tränen spülen einen Reizstoff aus der Zwiebel weg."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich hilft",
+      "absaetze": [
+        "Ein scharfes Messer zerstört weniger Zellen als ein stumpfes. Dadurch entsteht weniger Gas.",
+        "Auch eine gekühlte Zwiebel hilft, weil das Gas dann langsamer aufsteigt. Schneide am besten unter einer laufenden Dunstabzugshaube oder bei offenem Fenster."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht beim Zwiebelschneiden?",
+      "art": "mc",
+      "optionen": [
+        "Ein flüchtiges, reizendes Gas",
+        "Zucker",
+        "Ein Duft nach Rosen",
+        "Kohlendioxid aus der Luft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es entsteht, wenn Zellen zerstört werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen die Tränen?",
+      "art": "mc",
+      "optionen": [
+        "Sie spülen den Reizstoff weg",
+        "Sie kühlen die Zwiebel",
+        "Sie verbessern das Sehen",
+        "Sie haben keinen Zweck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist ein Schutzreflex."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hilft ein scharfes Messer?",
+      "art": "mc",
+      "optionen": [
+        "Es zerstört weniger Zellen",
+        "Es ist kälter",
+        "Es riecht nach Metall",
+        "Es macht die Zwiebel süßer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch entsteht weniger Gas."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine gekühlte Zwiebel kann weniger Tränen auslösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Gas steigt dann langsamer auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Schneiden mischen sich Stoffe aus zerstörten Zellen.",
+        "Dabei entsteht ein reizendes Gas.",
+        "Tränen spülen es aus den Augen.",
+        "Scharfe Messer und kühle Zwiebeln helfen."
+      ]
+    }
+  ]
+}

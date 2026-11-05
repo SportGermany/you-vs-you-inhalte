@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b088-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft eine Schlafmaske beim Schlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafmaske",
+    "licht",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Straßenlaternen, Standby-Lämpchen oder früh hell werdende Sommermorgen.",
+        "Eine Schlafmaske verspricht Dunkelheit auf Knopfdruck."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Dunkelheit wichtig ist",
+      "absaetze": [
+        "Licht ist der stärkste Taktgeber deiner inneren Uhr. Am Abend bremst helles Licht die Bildung von Melatonin. Das ist ein Hormon, das dem Körper Nacht signalisiert.",
+        "Auch durch geschlossene Lider dringt etwas Licht. Ein dunkler Raum kann deshalb helfen, ruhiger durchzuschlafen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Untersuchungen, oft in Kliniken mit viel Licht und Lärm, deuten darauf hin, dass Schlafmasken den Schlaf verbessern können. Häufig wurden sie zusammen mit Ohrstöpseln getestet.",
+        "Für den Alltag zu Hause ist die Studienlage dünner. Viele Menschen empfinden eine Maske aber als angenehm, etwa auf Reisen oder bei Schichtarbeit."
+      ],
+      "merke": "Schlafmasken können vor allem in hellen Umgebungen helfen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten kannst",
+      "absaetze": [
+        "Eine gute Maske liegt weich an und drückt nicht auf die Augen. Modelle mit gewölbten Augenschalen sind für manche bequemer.",
+        "Wer die Maske nicht mag, kann das Schlafzimmer auch mit Verdunklungsvorhängen dunkler machen. Wasche die Maske regelmäßig, denn sie liegt direkt auf der Haut."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bremst helles Licht am Abend?",
+      "art": "mc",
+      "optionen": [
+        "Die Bildung von Melatonin",
+        "Die Verdauung",
+        "Das Wachstum der Haare",
+        "Den Herzschlag vollständig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Melatonin signalisiert dem Körper Nacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurden Schlafmasken oft untersucht?",
+      "art": "mc",
+      "optionen": [
+        "In Kliniken mit viel Licht und Lärm",
+        "Nur im Weltall",
+        "In Schulen",
+        "In Fitnessstudios"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft zusammen mit Ohrstöpseln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Alternative zur Schlafmaske?",
+      "art": "mc",
+      "optionen": [
+        "Verdunklungsvorhänge",
+        "Eine hellere Lampe",
+        "Kaffee am Abend",
+        "Ein offener Rollladen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch so wird das Zimmer dunkler."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch durch geschlossene Augenlider dringt etwas Licht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb kann ein dunkler Raum helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Licht ist der stärkste Taktgeber der inneren Uhr.",
+        "Studien deuten auf Vorteile von Schlafmasken in hellen Umgebungen hin.",
+        "Eine gute Maske drückt nicht auf die Augen.",
+        "Verdunklungsvorhänge sind eine Alternative."
+      ]
+    }
+  ]
+}

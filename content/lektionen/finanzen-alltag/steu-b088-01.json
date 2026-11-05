@@ -1,0 +1,127 @@
+{
+  "id": "steu-b088-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Warum gibt es keine Vermögensteuer mehr?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Dossiers Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vermoegensteuer",
+    "verfassungsgericht",
+    "steuerpolitik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über eine Steuer auf große Vermögen wird in Deutschland immer wieder gestritten.",
+        "Dabei gibt es das Gesetz noch, es wird nur nicht angewendet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Steuer auf Besitz",
+      "absaetze": [
+        "Die Vermögensteuer besteuert nicht das Einkommen, sondern das, was jemand besitzt. Dazu können Geld, Wertpapiere, Immobilien und Firmenanteile zählen.",
+        "In Deutschland wurde sie jährlich erhoben. Die Einnahmen standen den Bundesländern zu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Urteil von 1995",
+      "absaetze": [
+        "1995 entschied das Bundesverfassungsgericht, dass die damalige Vermögensteuer so nicht weiter gelten darf. Der Grund: Immobilien wurden nach veralteten, sehr niedrigen Werten berechnet, Geldvermögen dagegen voll.",
+        "Das verstieß gegen den Gleichheitsgrundsatz. Der Gesetzgeber hätte die Bewertung neu regeln müssen. Das geschah nicht. Seit 1997 wird die Steuer deshalb nicht mehr erhoben."
+      ],
+      "merke": "Seit 1997 wird die Vermögensteuer nicht mehr erhoben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Debatte geht weiter",
+      "absaetze": [
+        "Das Vermögensteuergesetz ist formal nie abgeschafft worden. Befürworter wollen sie wieder einführen, um große Vermögen stärker zu beteiligen.",
+        "Gegner warnen vor hohem Aufwand bei der Bewertung und vor Nachteilen für Unternehmen. Für eine Wiedereinführung bräuchte es ein neues Gesetz."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was besteuert eine Vermögensteuer?",
+      "art": "mc",
+      "optionen": [
+        "Den Besitz, etwa Geld und Immobilien",
+        "Nur das Einkommen",
+        "Nur den Konsum",
+        "Nur Erbschaften"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie setzt beim Vermögen an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entschied 1995 über die Vermögensteuer?",
+      "art": "mc",
+      "optionen": [
+        "Das Bundesverfassungsgericht",
+        "Der Bundespräsident",
+        "Die EU-Kommission",
+        "Die Bundesbank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sah den Gleichheitsgrundsatz verletzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann wird die Vermögensteuer nicht mehr erhoben?",
+      "art": "mc",
+      "optionen": [
+        "Seit 1997",
+        "Seit 1949",
+        "Seit 2010",
+        "Sie wird noch erhoben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bewertung wurde nie neu geregelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Vermögensteuergesetz wurde formal abgeschafft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es besteht formal noch, wird aber nicht angewendet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Vermögensteuer besteuert Besitz.",
+        "1995 erklärte das Verfassungsgericht die Bewertung für ungleich.",
+        "Seit 1997 wird sie nicht mehr erhoben.",
+        "Über eine Wiedereinführung wird weiter gestritten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "haus-b088-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du einen Toaster?",
+  "minuten": 2,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "toaster",
+    "putzen",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Toaster sammelt mit der Zeit erstaunlich viele Krümel.",
+        "Die sind nicht nur unschön, sondern können auch anbrennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zuerst die Sicherheit",
+      "absaetze": [
+        "Ziehe immer den Stecker, bevor du den Toaster reinigst. Lass ihn außerdem vollständig abkühlen.",
+        "Stecke niemals Messer oder Gabeln in die Schlitze, auch nicht um eine verklemmte Scheibe herauszuholen. Du kannst die Heizdrähte beschädigen und bei eingestecktem Gerät einen Stromschlag bekommen."
+      ],
+      "merke": "Stecker ziehen und niemals Metall in die Schlitze stecken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Krümel entfernen",
+      "absaetze": [
+        "Viele Toaster haben unten eine Krümelschublade. Ziehe sie heraus und leere sie über dem Mülleimer.",
+        "Drehe den Toaster dann vorsichtig über dem Spülbecken um und schüttle ihn leicht. Ein trockener Pinsel hilft, Reste aus den Ecken zu lösen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Außen sauber machen",
+      "absaetze": [
+        "Wische das Gehäuse mit einem leicht feuchten Tuch und etwas Spülmittel ab. Das Gerät darf nie ins Wasser.",
+        "Leere die Krümelschublade regelmäßig. Angesammelte Krümel können verkohlen, unangenehm riechen und im schlimmsten Fall Feuer fangen."
+      ]
+    },
+    {
+      "typ": "schritte",
+      "titel": "So reinigst du den Toaster",
+      "schritte": [
+        {
+          "titel": "Stecker ziehen",
+          "text": "Trenne den Toaster vom Strom und lass ihn abkühlen."
+        },
+        {
+          "titel": "Schublade leeren",
+          "text": "Zieh die Krümelschublade heraus und leere sie."
+        },
+        {
+          "titel": "Ausschütteln",
+          "text": "Dreh den Toaster über dem Spülbecken um und schüttle ihn leicht."
+        },
+        {
+          "titel": "Abwischen",
+          "text": "Wische das Gehäuse mit einem feuchten Tuch ab."
+        }
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Reinigen immer tun?",
+      "art": "mc",
+      "optionen": [
+        "Den Stecker ziehen",
+        "Den Toaster einschalten",
+        "Wasser hineingießen",
+        "Ein Messer bereitlegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass das Gerät außerdem abkühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gehört kein Messer in die Schlitze?",
+      "art": "mc",
+      "optionen": [
+        "Es kann die Heizdrähte beschädigen und einen Stromschlag verursachen",
+        "Es wird stumpf",
+        "Der Toast schmeckt dann nach Metall",
+        "Das ist kein Problem"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt besonders bei eingestecktem Gerät."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du die Krümelschublade regelmäßig leeren?",
+      "art": "mc",
+      "optionen": [
+        "Krümel können verkohlen und Feuer fangen",
+        "Sonst toastet er schneller",
+        "Sonst wird das Brot weich",
+        "Damit er leiser wird"
+      ],
+      "richtig": 0,
+      "erklaerung": "Außerdem riechen verkohlte Krümel unangenehm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einen Toaster darfst du kurz unter Wasser halten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Gerät darf nie ins Wasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ziehe vor dem Reinigen den Stecker.",
+        "Stecke kein Metall in die Schlitze.",
+        "Leere die Krümelschublade regelmäßig.",
+        "Wische das Gehäuse nur feucht ab."
+      ]
+    }
+  ]
+}
