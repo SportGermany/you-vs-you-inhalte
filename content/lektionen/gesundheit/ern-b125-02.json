@@ -1,0 +1,124 @@
+{
+  "id": "ern-b125-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Kann zu viel Lakritz schaden?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Süßholz und Lakritz",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lakritz",
+    "suessholz",
+    "blutdruck"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schwarze Schnecken, salzige Rauten, süße Stangen: Lakritz hat treue Fans.",
+        "Wer davon sehr viel isst, sollte aber etwas wissen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus der Süßholzwurzel",
+      "absaetze": [
+        "Lakritz wird aus dem Saft der Süßholzwurzel hergestellt. Sie enthält den Stoff Glycyrrhizin. Er ist viel süßer als Zucker.",
+        "In üblichen Mengen gilt Lakritz als unbedenklich. Probleme entstehen bei großen Mengen über längere Zeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wirkung auf Blutdruck und Kalium",
+      "absaetze": [
+        "Glycyrrhizin kann dazu führen, dass der Körper Natrium und Wasser zurückhält und Kalium verliert. Dadurch kann der Blutdruck steigen.",
+        "Ein niedriger Kaliumspiegel kann Muskelschwäche und Herzrhythmusstörungen auslösen. Besonders vorsichtig sollten Menschen mit Bluthochdruck oder Herzproblemen sein."
+      ],
+      "merke": "Viel Lakritz kann den Blutdruck erhöhen und Kalium senken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Starklakritz mit hohem Gehalt muss einen Warnhinweis für Menschen mit Bluthochdruck tragen. Auch in manchen Tees und Getränken steckt Süßholz.",
+        "Schwangere sollten große Mengen meiden. Genieße Lakritz in Maßen als gelegentliche Nascherei."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Lakritz hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Süßholzwurzel",
+        "Aus Kakao",
+        "Aus Zuckerrohr allein",
+        "Aus Rote Bete"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie enthält Glycyrrhizin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann viel Lakritz bewirken?",
+      "art": "mc",
+      "optionen": [
+        "Den Blutdruck erhöhen",
+        "Den Blutdruck stark senken",
+        "Die Sehkraft verbessern",
+        "Den Schlaf verlängern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper hält Wasser und Natrium zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In üblichen Mengen gilt Lakritz als unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Probleme entstehen bei großen Mengen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was trägt Starklakritz mit hohem Gehalt?",
+      "art": "mc",
+      "optionen": [
+        "Einen Warnhinweis für Menschen mit Bluthochdruck",
+        "Ein Bio-Siegel automatisch",
+        "Keine Kennzeichnung",
+        "Einen Altershinweis ab 18"
+      ],
+      "richtig": 0,
+      "erklaerung": "Achte auf die Verpackung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lakritz enthält Glycyrrhizin aus Süßholz.",
+        "Große Mengen können den Blutdruck erhöhen.",
+        "Kaliummangel kann das Herz belasten.",
+        "In Maßen gilt Lakritz als unbedenklich."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "haus-b125-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du eine Lederjacke?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lederjacke",
+    "leder",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine gute Lederjacke kann Jahrzehnte halten.",
+        "Dafür braucht sie aber die richtige Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reinigen ohne Waschmaschine",
+      "absaetze": [
+        "Leder gehört nicht in die Waschmaschine. Bürste Staub regelmäßig mit einer weichen Bürste ab.",
+        "Leichte Verschmutzungen wischst du mit einem nebelfeuchten Tuch ab. Bei größeren Flecken hilft eine Fachreinigung für Leder."
+      ],
+      "merke": "Leder nicht waschen, sondern sanft abbürsten und abwischen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflegen und schützen",
+      "absaetze": [
+        "Leder kann austrocknen und rissig werden. Eine passende Lederpflege macht es wieder geschmeidig. Teste sie zuerst an einer unauffälligen Stelle.",
+        "Ein Imprägnierspray schützt vor Regen und Flecken. Sprüh es im Freien und lass die Jacke danach gut trocknen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig lagern",
+      "absaetze": [
+        "Häng die Jacke auf einen breiten Kleiderbügel, damit die Schultern in Form bleiben. Lagere sie luftig, nicht in einer Plastikhülle.",
+        "Ist sie nass geworden, lass sie bei Zimmertemperatur trocknen. Heizung und Föhn machen Leder hart und brüchig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gehört eine Lederjacke in die Waschmaschine?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, auf 60 Grad",
+        "Ja, mit Weichspüler",
+        "Nur im Winter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Abbürsten und abwischen reicht meist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ausgetrocknetes Leder wieder geschmeidig?",
+      "art": "mc",
+      "optionen": [
+        "Eine passende Lederpflege",
+        "Heißes Wasser",
+        "Salz",
+        "Spülmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst an einer unauffälligen Stelle testen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine nasse Lederjacke trocknest du am besten mit dem Föhn.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Hitze macht Leder hart und brüchig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lagerst du die Jacke am besten?",
+      "art": "mc",
+      "optionen": [
+        "Auf einem breiten Bügel, luftig",
+        "Zusammengeknüllt im Karton",
+        "In einer luftdichten Plastikhülle",
+        "Auf der Heizung"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleiben die Schultern in Form."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Leder nicht in der Maschine waschen.",
+        "Regelmäßig pflegen und imprägnieren.",
+        "Auf breitem Bügel luftig lagern.",
+        "Nass bei Zimmertemperatur trocknen."
+      ]
+    }
+  ]
+}

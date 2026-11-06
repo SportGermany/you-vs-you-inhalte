@@ -1,0 +1,121 @@
+{
+  "id": "vers-b125-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was unterscheidet Nebenkostenpauschale und Vorauszahlung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Deutscher Mieterbund",
+      "url": "https://www.mieterbund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nebenkosten",
+    "mietvertrag",
+    "betriebskosten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Mietvertrag steht neben der Kaltmiete ein Betrag für Nebenkosten.",
+        "Ob es eine Pauschale oder eine Vorauszahlung ist, macht einen großen Unterschied."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Vorauszahlung",
+      "absaetze": [
+        "Bei einer Vorauszahlung zahlst du monatlich einen Abschlag. Einmal im Jahr rechnet der Vermieter die tatsächlichen Kosten ab.",
+        "Hast du zu viel bezahlt, bekommst du Geld zurück. War es zu wenig, musst du nachzahlen. Die Abrechnung muss innerhalb von zwölf Monaten nach Ende des Abrechnungszeitraums kommen."
+      ],
+      "merke": "Bei der Vorauszahlung gibt es jährlich eine Abrechnung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Pauschale",
+      "absaetze": [
+        "Bei einer Pauschale zahlst du einen festen Betrag. Eine Abrechnung gibt es nicht, also auch keine Nachzahlung oder Erstattung.",
+        "Steigen die Kosten, darf der Vermieter die Pauschale nur erhöhen, wenn das im Vertrag vereinbart ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahme Heizung",
+      "absaetze": [
+        "Heiz- und Warmwasserkosten müssen in den meisten Fällen nach Verbrauch abgerechnet werden. Eine Pauschale ist dafür meist nicht zulässig.",
+        "Prüfe im Mietvertrag genau, welche Form vereinbart ist. Bei Unklarheiten helfen Mietervereine weiter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei einer Vorauszahlung einmal im Jahr?",
+      "art": "mc",
+      "optionen": [
+        "Der Vermieter rechnet die tatsächlichen Kosten ab",
+        "Die Miete verdoppelt sich",
+        "Nichts",
+        "Der Vertrag endet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt eine Erstattung oder Nachzahlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gibt es bei einer Pauschale eine Nachzahlung?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, jedes Jahr",
+        "Nur im Winter",
+        "Nur bei Neubauten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du zahlst einen festen Betrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Heizkosten müssen meist nach Verbrauch abgerechnet werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine Pauschale ist dafür meist nicht zulässig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Innerhalb welcher Frist muss eine Nebenkostenabrechnung kommen?",
+      "art": "mc",
+      "optionen": [
+        "Zwölf Monate nach Ende des Abrechnungszeitraums",
+        "Zwei Wochen",
+        "Fünf Jahre",
+        "Es gibt keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Später kann der Vermieter meist nichts mehr nachfordern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vorauszahlungen werden jährlich abgerechnet.",
+        "Pauschalen werden nicht abgerechnet.",
+        "Heizkosten werden meist nach Verbrauch abgerechnet.",
+        "Prüfe, was im Mietvertrag steht."
+      ]
+    }
+  ]
+}

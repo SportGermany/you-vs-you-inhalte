@@ -1,0 +1,122 @@
+{
+  "id": "schlaf-b125-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Welche Bettdecke passt zu dir?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bettdecke",
+    "schlafklima",
+    "schlafzimmer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mal ist es unter der Decke zu heiß, mal zu kalt.",
+        "Die passende Bettdecke kann für ein angenehmeres Schlafklima sorgen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warm genug, nicht zu warm",
+      "absaetze": [
+        "Im Schlaf sinkt die Körpertemperatur leicht. Die Decke soll Wärme halten, aber Feuchtigkeit nach außen lassen. Nachts gibt der Körper nämlich Schweiß ab.",
+        "Wer schnell schwitzt, braucht eine leichtere Decke. Wer leicht friert, eine wärmere."
+      ],
+      "merke": "Eine gute Decke hält warm und lässt Feuchtigkeit nach außen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Füllungen im Vergleich",
+      "absaetze": [
+        "Daunen und Federn sind leicht, warm und nehmen Feuchtigkeit gut auf. Kunstfaserdecken lassen sich meist leichter waschen und eignen sich oft für Allergiker.",
+        "Decken mit Wolle oder Naturfasern wie Kamelhaar gleichen Feuchtigkeit gut aus. Für Hausstaubmilben-Allergiker sind waschbare Decken bei hoher Temperatur praktisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sommer und Winter",
+      "absaetze": [
+        "Viele nutzen im Sommer eine dünne und im Winter eine dicke Decke. Sogenannte Vier-Jahreszeiten-Decken bestehen aus zwei Teilen, die sich kombinieren lassen.",
+        "Schüttle die Decke morgens auf und lass sie auslüften. Wasch oder reinige sie nach Pflegeetikett in regelmäßigen Abständen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sollte eine gute Bettdecke leisten?",
+      "art": "mc",
+      "optionen": [
+        "Warm halten und Feuchtigkeit nach außen lassen",
+        "Möglichst schwer sein",
+        "Feuchtigkeit speichern",
+        "Luftdicht abschließen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nachts gibt der Körper Schweiß ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Füllung lässt sich meist leicht waschen?",
+      "art": "mc",
+      "optionen": [
+        "Kunstfaser",
+        "Daunen immer",
+        "Kamelhaar",
+        "Seide"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie eignet sich oft für Allergiker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer schnell schwitzt, braucht eine wärmere Decke.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Eine leichtere Decke ist dann besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Vier-Jahreszeiten-Decke?",
+      "art": "mc",
+      "optionen": [
+        "Eine Decke aus zwei kombinierbaren Teilen",
+        "Eine Decke mit Heizung",
+        "Eine Decke nur für den Winter",
+        "Eine Decke aus vier Farben"
+      ],
+      "richtig": 0,
+      "erklaerung": "So passt sie sich der Jahreszeit an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Decke soll wärmen und Feuchtigkeit ableiten.",
+        "Daunen sind leicht und warm.",
+        "Kunstfaser ist gut waschbar.",
+        "Sommer- und Winterdecken helfen beim Schlafklima."
+      ]
+    }
+  ]
+}

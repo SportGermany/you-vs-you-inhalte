@@ -1,0 +1,121 @@
+{
+  "id": "steu-b125-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie wirkt sich Elterngeld auf die Steuer aus?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "elterngeld",
+    "progressionsvorbehalt",
+    "familie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Elterngeld ist steuerfrei. Trotzdem erleben viele Eltern im Jahr danach eine Überraschung.",
+        "Der Grund ist der sogenannte Progressionsvorbehalt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerfrei, aber nicht folgenlos",
+      "absaetze": [
+        "Elterngeld selbst wird nicht besteuert. Es zählt aber bei der Berechnung des Steuersatzes mit.",
+        "Das übrige Einkommen wird dadurch mit einem höheren Prozentsatz besteuert. Fachleute nennen das Progressionsvorbehalt."
+      ],
+      "merke": "Elterngeld ist steuerfrei, erhöht aber den Steuersatz auf das übrige Einkommen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflicht zur Steuererklärung",
+      "absaetze": [
+        "Wer mehr als 410 Euro Lohnersatzleistungen im Jahr bekommt, muss eine Steuererklärung abgeben. Dazu zählt auch Elterngeld.",
+        "Weil beim Lohn das Elterngeld nicht berücksichtigt wurde, kann eine Nachzahlung entstehen. Besonders betroffen ist oft das Elternteil mit dem höheren Einkommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut vorbereitet",
+      "absaetze": [
+        "Leg während der Elternzeit etwas Geld für eine mögliche Nachzahlung zurück. Ein Steuerrechner kann die Höhe grob abschätzen.",
+        "Bei Paaren kann auch die Wahl der Steuerklassen eine Rolle spielen. Lass dich im Zweifel von einem Lohnsteuerhilfeverein beraten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wird Elterngeld selbst besteuert?",
+      "art": "mc",
+      "optionen": [
+        "Nein, es ist steuerfrei",
+        "Ja, voll",
+        "Ja, zur Hälfte",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wirkt aber auf den Steuersatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Effekt auf das übrige Einkommen?",
+      "art": "mc",
+      "optionen": [
+        "Progressionsvorbehalt",
+        "Solidaritätszuschlag",
+        "Kalte Progression",
+        "Grundfreibetrag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Steuersatz steigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab mehr als 410 Euro Lohnersatzleistungen ist eine Steuererklärung Pflicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dazu zählt auch Elterngeld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen eine böse Überraschung?",
+      "art": "mc",
+      "optionen": [
+        "Geld für eine Nachzahlung zurücklegen",
+        "Die Steuererklärung weglassen",
+        "Elterngeld ablehnen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Steuerrechner gibt eine grobe Schätzung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Elterngeld ist steuerfrei.",
+        "Es erhöht den Steuersatz auf anderes Einkommen.",
+        "Eine Steuererklärung ist dann meist Pflicht.",
+        "Rücklagen für Nachzahlungen sind sinnvoll."
+      ]
+    }
+  ]
+}

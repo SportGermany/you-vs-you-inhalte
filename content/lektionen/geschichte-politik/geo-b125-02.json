@@ -1,0 +1,127 @@
+{
+  "id": "geo-b125-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Europäische Chemikalienagentur?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About ECHA",
+      "herausgeber": "Europäische Chemikalienagentur (ECHA)",
+      "url": "https://echa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Europa",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "chemikalien",
+    "reach",
+    "europaeische union"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Kleidung, Möbeln und Spielzeug stecken unzählige Chemikalien.",
+        "Eine EU-Agentur in Finnland soll dafür sorgen, dass sie sicher sind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sitz in Helsinki",
+      "absaetze": [
+        "Die Europäische Chemikalienagentur, kurz ECHA, hat ihren Sitz in Helsinki. Sie nahm 2007 ihre Arbeit auf.",
+        "Grundlage ist die EU-Chemikalienverordnung REACH. Sie gilt als eines der strengsten Chemikaliengesetze der Welt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Daten, kein Markt",
+      "absaetze": [
+        "Nach REACH müssen Unternehmen chemische Stoffe registrieren, wenn sie größere Mengen herstellen oder einführen. Sie müssen Daten zu Gefahren und sicherer Verwendung vorlegen.",
+        "Ohne Registrierung dürfen solche Stoffe nicht auf den Markt. Dieses Prinzip heißt kurz: keine Daten, kein Markt."
+      ],
+      "merke": "Ohne Registrierung dürfen viele Chemikalien nicht verkauft werden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besonders bedenkliche Stoffe",
+      "absaetze": [
+        "Die ECHA führt eine Liste besonders besorgniserregender Stoffe. Sie können etwa Krebs erregen oder sich in der Umwelt anreichern.",
+        "Verbraucher haben ein Recht zu erfahren, ob solche Stoffe in Produkten stecken. Die EU kann sie beschränken oder verbieten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt die Europäische Chemikalienagentur?",
+      "art": "mc",
+      "optionen": [
+        "In Helsinki",
+        "In Brüssel",
+        "In Frankfurt",
+        "In Lissabon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie arbeitet seit 2007."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die EU-Chemikalienverordnung?",
+      "art": "mc",
+      "optionen": [
+        "REACH",
+        "DSGVO",
+        "SOLAS",
+        "MARPOL"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt als sehr streng."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach REACH gilt: keine Daten, kein Markt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ohne Registrierung kein Verkauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was führt die ECHA?",
+      "art": "mc",
+      "optionen": [
+        "Eine Liste besonders besorgniserregender Stoffe",
+        "Eine Liste von Restaurants",
+        "Ein Register für Autos",
+        "Eine Wetterstatistik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Stoffe können beschränkt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die ECHA sitzt in Helsinki.",
+        "Grundlage ist die Verordnung REACH.",
+        "Ohne Daten keine Marktzulassung.",
+        "Besonders bedenkliche Stoffe werden gelistet."
+      ]
+    }
+  ]
+}

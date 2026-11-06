@@ -1,0 +1,121 @@
+{
+  "id": "tech-b125-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Lüftung mit Wärmerückgewinnung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lueftung",
+    "waermerueckgewinnung",
+    "energiesparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Winter lüften heißt oft: Wärme zum Fenster hinaus.",
+        "Moderne Lüftungsanlagen holen frische Luft herein und behalten die Wärme trotzdem im Haus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Luftströme",
+      "absaetze": [
+        "Eine Lüftungsanlage saugt verbrauchte Luft aus Küche und Bad ab. Gleichzeitig bläst sie frische Außenluft in Wohn- und Schlafräume.",
+        "Beide Luftströme laufen durch einen Wärmetauscher. Dort gibt die warme Abluft ihre Wärme an die kalte Zuluft ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme ohne Vermischung",
+      "absaetze": [
+        "Im Wärmetauscher sind die Luftströme durch dünne Wände getrennt. Sie vermischen sich nicht, nur die Wärme geht über.",
+        "So kann ein großer Teil der Wärme im Haus bleiben. Das spart Heizenergie, besonders in gut gedämmten Häusern."
+      ],
+      "merke": "Ein Wärmetauscher überträgt Wärme, ohne die Luft zu vermischen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Lüftungsanlagen sorgen auch bei geschlossenen Fenstern für frische Luft. Das hilft gegen Feuchtigkeit und Schimmel.",
+        "Die Filter müssen regelmäßig gewechselt werden. Für Allergiker gibt es Pollenfilter. Fenster öffnen darf man trotzdem jederzeit."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Wärmetauscher?",
+      "art": "mc",
+      "optionen": [
+        "Warme Abluft gibt Wärme an kalte Zuluft ab",
+        "Die Luft wird gekühlt",
+        "Wasser wird gekocht",
+        "Strom wird erzeugt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Luftströme bleiben dabei getrennt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vermischen sich Abluft und Zuluft?",
+      "art": "mc",
+      "optionen": [
+        "Nein, nur die Wärme geht über",
+        "Ja, vollständig",
+        "Nur nachts",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dünne Wände trennen sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lüftungsanlagen können gegen Schimmel helfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie führen Feuchtigkeit ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was muss regelmäßig gewechselt werden?",
+      "art": "mc",
+      "optionen": [
+        "Die Filter",
+        "Die Fenster",
+        "Die Wände",
+        "Die Heizung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Allergiker gibt es Pollenfilter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lüftungsanlagen tauschen verbrauchte gegen frische Luft.",
+        "Ein Wärmetauscher hält die Wärme im Haus.",
+        "Die Luftströme vermischen sich nicht.",
+        "Filter regelmäßig wechseln."
+      ]
+    }
+  ]
+}

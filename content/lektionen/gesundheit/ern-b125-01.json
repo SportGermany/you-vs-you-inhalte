@@ -1,0 +1,125 @@
+{
+  "id": "ern-b125-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was sind Antioxidantien?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "antioxidantien",
+    "freie radikale",
+    "obst und gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Antioxidantien gelten als Schutzschild für die Zellen. Viele Produkte werben damit.",
+        "Was steckt hinter dem Begriff?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Freie Radikale und Schutzstoffe",
+      "absaetze": [
+        "Im Körper entstehen ständig sogenannte freie Radikale. Das sind sehr reaktionsfreudige Teilchen, die Zellen schädigen können.",
+        "Antioxidantien können diese Teilchen abfangen. Der Körper bildet eigene Schutzstoffe. Weitere nehmen wir mit der Nahrung auf."
+      ],
+      "merke": "Antioxidantien fangen schädliche freie Radikale ab.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Quellen",
+      "absaetze": [
+        "Viele Antioxidantien stecken in Obst, Gemüse, Nüssen und Vollkorn. Dazu gehören Vitamin C, Vitamin E und viele Pflanzenstoffe.",
+        "Menschen, die viel Obst und Gemüse essen, sind im Schnitt gesünder. Daran sind aber viele Stoffe und Lebensgewohnheiten beteiligt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pillen helfen nicht",
+      "absaetze": [
+        "Große Studien zeigen: Hoch dosierte Antioxidantien als Präparate schützen nicht vor Krankheiten. Manche können sogar schaden.",
+        "So erhöhten Betacarotin-Präparate bei Rauchern das Risiko für Lungenkrebs. Bunte, vielfältige Ernährung ist der bessere Weg."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fangen Antioxidantien ab?",
+      "art": "mc",
+      "optionen": [
+        "Freie Radikale",
+        "Vitamine",
+        "Ballaststoffe",
+        "Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese können Zellen schädigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo stecken viele Antioxidantien?",
+      "art": "mc",
+      "optionen": [
+        "In Obst und Gemüse",
+        "In Zucker",
+        "In Weißbrot",
+        "In Limonade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Nüsse und Vollkorn liefern sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hoch dosierte Antioxidantien-Präparate schützen nachweislich vor Krankheiten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Manche können sogar schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte sich bei Betacarotin-Präparaten für Raucher?",
+      "art": "mc",
+      "optionen": [
+        "Ein höheres Lungenkrebsrisiko",
+        "Ein besserer Schutz",
+        "Gar keine Wirkung",
+        "Bessere Haut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb rät man davon ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Antioxidantien fangen freie Radikale ab.",
+        "Obst, Gemüse und Nüsse liefern viele davon.",
+        "Präparate schützen nicht vor Krankheiten.",
+        "Vielfältige Ernährung ist der bessere Weg."
+      ]
+    }
+  ]
+}

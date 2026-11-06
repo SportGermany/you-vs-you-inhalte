@@ -1,0 +1,121 @@
+{
+  "id": "all-b125-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist der Sonnenuntergang auf dem Mars blau?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mars Exploration",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mars",
+    "sonnenuntergang",
+    "atmosphaere"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Erde leuchtet der Himmel bei Sonnenuntergang rot und orange.",
+        "Auf dem Mars ist es genau umgekehrt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein rötlicher Tag",
+      "absaetze": [
+        "Tagsüber wirkt der Marshimmel gelblich bis rötlich-braun. Grund ist feiner, eisenhaltiger Staub in der dünnen Atmosphäre.",
+        "Auf der Erde streuen vor allem die winzigen Luftmoleküle das Licht. Deshalb ist unser Himmel tagsüber blau."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Blau in der Dämmerung",
+      "absaetze": [
+        "Die Staubteilchen auf dem Mars haben eine bestimmte Größe. Sie streuen blaues Licht besonders stark nach vorne, also in die Richtung, in die das Licht fällt.",
+        "Steht die Sonne tief, sieht man rund um sie einen bläulichen Schein. Rover wie Curiosity haben solche Sonnenuntergänge fotografiert."
+      ],
+      "merke": "Marsstaub streut blaues Licht in Richtung der Sonne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Andere Welt, andere Farben",
+      "absaetze": [
+        "Die Farben des Himmels hängen davon ab, welche Teilchen in der Atmosphäre schweben und wie groß sie sind.",
+        "Auf der Erde wird bei tiefer Sonne das blaue Licht weggestreut, das Rot bleibt übrig. Auf dem Mars ist das Zusammenspiel von Staub und Licht anders."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Farbe hat der Marshimmel tagsüber meist?",
+      "art": "mc",
+      "optionen": [
+        "Gelblich bis rötlich-braun",
+        "Tiefblau",
+        "Grün",
+        "Violett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grund ist eisenhaltiger Staub."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Sonnenuntergang auf dem Mars bläulich?",
+      "art": "mc",
+      "optionen": [
+        "Staub streut blaues Licht in Richtung der Sonne",
+        "Der Mars hat Meere",
+        "Die Sonne ist dort blau",
+        "Wegen Polarlichtern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Staubteilchen haben eine bestimmte Größe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rover haben blaue Sonnenuntergänge auf dem Mars fotografiert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Zum Beispiel Curiosity."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was streut auf der Erde tagsüber vor allem das Licht?",
+      "art": "mc",
+      "optionen": [
+        "Winzige Luftmoleküle",
+        "Große Staubkörner",
+        "Wolken allein",
+        "Vögel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist unser Himmel blau."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Marshimmel ist tagsüber rötlich.",
+        "Bei Sonnenuntergang leuchtet er bläulich.",
+        "Grund ist der feine Marsstaub.",
+        "Die Himmelsfarbe hängt von den Teilchen ab."
+      ]
+    }
+  ]
+}
