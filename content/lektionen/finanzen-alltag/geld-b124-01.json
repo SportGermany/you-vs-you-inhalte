@@ -1,0 +1,121 @@
+{
+  "id": "geld-b124-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Ab wann kannst du in Rente gehen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rente",
+      "herausgeber": "Deutsche Rentenversicherung",
+      "url": "https://www.deutsche-rentenversicherung.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rente",
+    "rentenalter",
+    "altersvorsorge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit 65 in Rente? Das war einmal.",
+        "Heute hängt das Rentenalter vom Geburtsjahr und von den Beitragsjahren ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Regelaltersgrenze",
+      "absaetze": [
+        "Die Regelaltersgrenze steigt schrittweise auf 67 Jahre. Für alle, die 1964 oder später geboren sind, liegt sie bei 67.",
+        "Wer bis dahin arbeitet, bekommt die Rente ohne Abschläge. Wer länger arbeitet, erhält einen Zuschlag."
+      ],
+      "merke": "Für Jahrgänge ab 1964 liegt die Regelaltersgrenze bei 67."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Früher gehen",
+      "absaetze": [
+        "Wer mindestens 35 Versicherungsjahre hat, kann schon ab 63 in Rente gehen. Dann gibt es aber Abschläge von 0,3 Prozent für jeden Monat vor der Regelaltersgrenze.",
+        "Diese Abschläge gelten lebenslang. Vier Jahre früher bedeuten so eine deutlich niedrigere Rente."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach 45 Jahren",
+      "absaetze": [
+        "Besonders langjährig Versicherte mit 45 Beitragsjahren können früher ohne Abschläge in Rente gehen. Die Altersgrenze dafür steigt schrittweise auf 65 Jahre.",
+        "Wie viel Rente du einmal bekommst, zeigt die jährliche Renteninformation. Bei Fragen hilft die Deutsche Rentenversicherung kostenlos."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welchem Alter liegt die Regelaltersgrenze für Jahrgänge ab 1964?",
+      "art": "mc",
+      "optionen": [
+        "67",
+        "60",
+        "65",
+        "70"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie steigt schrittweise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch sind die Abschläge pro Monat bei früherem Rentenbeginn?",
+      "art": "mc",
+      "optionen": [
+        "0,3 Prozent",
+        "3 Prozent",
+        "30 Prozent",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gelten lebenslang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer länger als bis zur Regelaltersgrenze arbeitet, bekommt einen Zuschlag.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Rente fällt dann höher aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt dir die voraussichtliche Rentenhöhe?",
+      "art": "mc",
+      "optionen": [
+        "Die jährliche Renteninformation",
+        "Der Steuerbescheid",
+        "Die Lohnabrechnung allein",
+        "Der Mietvertrag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Rentenversicherung berät kostenlos."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Regelaltersgrenze steigt auf 67.",
+        "Früher gehen kostet Abschläge.",
+        "Nach 45 Jahren geht es früher ohne Abschläge.",
+        "Die Renteninformation zeigt deine Ansprüche."
+      ]
+    }
+  ]
+}

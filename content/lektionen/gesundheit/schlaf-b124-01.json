@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b124-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du mit Heuschnupfen besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Pollenallergie",
+      "herausgeber": "Deutscher Allergie- und Asthmabund",
+      "url": "https://www.daab.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "heuschnupfen",
+    "pollen",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Nase läuft, die Augen jucken, und nachts ist an Schlaf kaum zu denken.",
+        "Mit ein paar Regeln hältst du Pollen aus dem Schlafzimmer fern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pollen nicht mit ins Bett",
+      "absaetze": [
+        "Pollen setzen sich tagsüber in Haaren und Kleidung fest. Wasch dir deshalb abends die Haare.",
+        "Zieh Straßenkleidung nicht im Schlafzimmer aus und lagere sie dort auch nicht. Wechsle die Bettwäsche in der Pollenzeit häufiger."
+      ],
+      "merke": "Haare waschen und Kleidung draußen lassen hält Pollen vom Bett fern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig lüften",
+      "absaetze": [
+        "Lüfte zu Zeiten mit weniger Pollen. Als Faustregel gilt: In der Stadt eher morgens, auf dem Land eher abends.",
+        "Pollenschutzgitter am Fenster können zusätzlich helfen. Ein Pollenflug-Kalender zeigt, welche Pflanzen gerade blühen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Behandlung",
+      "absaetze": [
+        "Gegen Heuschnupfen gibt es wirksame Mittel aus der Apotheke und auf Rezept. Manche ältere Antiallergika machen müde, neuere meist weniger.",
+        "Lass dich ärztlich beraten. Eine spezifische Immuntherapie, auch Hyposensibilisierung genannt, kann die Allergie langfristig abschwächen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du abends die Haare waschen?",
+      "art": "mc",
+      "optionen": [
+        "Pollen setzen sich in den Haaren fest",
+        "Damit sie schneller wachsen",
+        "Gegen Kälte",
+        "Wegen des Lichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So gelangen sie nicht ins Bett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann lüftest du in der Stadt als Faustregel besser?",
+      "art": "mc",
+      "optionen": [
+        "Eher morgens",
+        "Eher am Nachmittag",
+        "Nie",
+        "Nur mittags"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf dem Land eher abends."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche ältere Antiallergika können müde machen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Neuere meist weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine Allergie langfristig abschwächen?",
+      "art": "mc",
+      "optionen": [
+        "Eine Hyposensibilisierung",
+        "Mehr Kaffee",
+        "Kalte Duschen",
+        "Weniger Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass dich ärztlich beraten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pollen über Haare und Kleidung fernhalten.",
+        "Zur richtigen Tageszeit lüften.",
+        "Bettwäsche häufiger wechseln.",
+        "Eine Hyposensibilisierung kann langfristig helfen."
+      ]
+    }
+  ]
+}

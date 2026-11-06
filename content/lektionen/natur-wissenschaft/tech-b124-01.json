@@ -1,0 +1,121 @@
+{
+  "id": "tech-b124-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Blitzer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blitzer",
+    "geschwindigkeit",
+    "verkehr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein roter Blitz am Straßenrand, und ein paar Wochen später kommt Post.",
+        "Doch wie misst ein Blitzer eigentlich die Geschwindigkeit?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Radar und Laser",
+      "absaetze": [
+        "Radargeräte senden Funkwellen aus, die vom Auto zurückgeworfen werden. Bewegt sich das Auto, ändert sich die Frequenz des Echos. Daraus wird die Geschwindigkeit berechnet.",
+        "Lasergeräte schicken sehr schnell viele Lichtimpulse los. Aus der Änderung der Laufzeiten ergibt sich das Tempo."
+      ],
+      "merke": "Radar nutzt veränderte Echos, Laser die Laufzeit von Lichtimpulsen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Verfahren",
+      "absaetze": [
+        "Manche Anlagen messen mit Lichtschranken oder Sensoren in der Fahrbahn. Sie erfassen, wie lange ein Auto zwischen zwei Punkten braucht.",
+        "Bei der Abschnittskontrolle wird die Durchschnittsgeschwindigkeit über eine längere Strecke gemessen. Ein kurzes Abbremsen vor dem Blitzer hilft dann nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Messtoleranz",
+      "absaetze": [
+        "Von der gemessenen Geschwindigkeit wird eine Toleranz abgezogen. Bis 100 km/h sind es 3 km/h, darüber 3 Prozent.",
+        "Blitzer sollen vor allem an Gefahrenstellen wie Schulen oder Kurven für Sicherheit sorgen. Langsamer fahren schützt Leben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was nutzt ein Radargerät?",
+      "art": "mc",
+      "optionen": [
+        "Zurückgeworfene Funkwellen",
+        "Schallwellen von Hupen",
+        "Wärmestrahlung",
+        "Magnetfelder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Frequenz des Echos ändert sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was misst die Abschnittskontrolle?",
+      "art": "mc",
+      "optionen": [
+        "Die Durchschnittsgeschwindigkeit über eine Strecke",
+        "Nur das Gewicht",
+        "Die Lautstärke",
+        "Den Reifendruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kurzes Abbremsen hilft dann nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis 100 km/h werden 3 km/h als Toleranz abgezogen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Darüber sind es 3 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sollen Blitzer vor allem stehen?",
+      "art": "mc",
+      "optionen": [
+        "An Gefahrenstellen wie Schulen",
+        "Nur auf Parkplätzen",
+        "In Garagen",
+        "Auf Feldwegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sollen Leben schützen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Radar misst über veränderte Echos.",
+        "Laser nutzt Lichtimpulse.",
+        "Abschnittskontrolle misst den Durchschnitt.",
+        "Eine Messtoleranz wird abgezogen."
+      ]
+    }
+  ]
+}

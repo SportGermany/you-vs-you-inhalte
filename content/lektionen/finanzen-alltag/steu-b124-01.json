@@ -1,0 +1,121 @@
+{
+  "id": "steu-b124-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Muss man Preisgelder und Gewinne versteuern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "preisgeld",
+    "gewinnspiel",
+    "einkommensteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Auto beim Gewinnspiel, ein Preisgeld für einen Wettbewerb, ein Gewinn in einer Fernsehshow.",
+        "Ob das Finanzamt mitkassiert, hängt davon ab, wofür du das Geld bekommst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reines Glück bleibt steuerfrei",
+      "absaetze": [
+        "Gewinne aus Lotterien, Tombolas und Gewinnspielen sind in der Regel steuerfrei. Du musst dafür nichts leisten, es ist reines Glück.",
+        "Erst die Zinsen, die ein Gewinn später auf dem Konto bringt, sind steuerpflichtig."
+      ],
+      "merke": "Reine Glücksgewinne sind meist steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Preisgeld für Leistung",
+      "absaetze": [
+        "Anders sieht es aus, wenn ein Preisgeld eng mit deiner beruflichen Arbeit zusammenhängt. Dann kann es als Einkommen steuerpflichtig sein, etwa bei Architekturwettbewerben.",
+        "Preise für ein Lebenswerk oder für besonderes ehrenamtliches Engagement sind dagegen oft steuerfrei."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewinne aus Fernsehshows",
+      "absaetze": [
+        "Bei Fernsehshows kommt es auf die eigene Leistung an. Musst du dafür etwas leisten, etwa wochenlang auftreten, kann der Gewinn steuerpflichtig sein.",
+        "Im Zweifel lohnt sich eine Beratung. Bewahre Unterlagen zum Gewinn gut auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sind Gewinne aus Gewinnspielen meist steuerpflichtig?",
+      "art": "mc",
+      "optionen": [
+        "Nein, meist steuerfrei",
+        "Ja, immer",
+        "Nur bei Autos",
+        "Nur im Dezember"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist reines Glück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kann ein Preisgeld steuerpflichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es eng mit der beruflichen Arbeit zusammenhängt",
+        "Wenn es in bar kommt",
+        "Wenn es klein ist",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei Architekturwettbewerben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zinsen auf einen Lottogewinn sind steuerpflichtig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Gewinn selbst ist steuerfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf kommt es bei Gewinnen aus Fernsehshows an?",
+      "art": "mc",
+      "optionen": [
+        "Auf die eigene Leistung",
+        "Auf den Sender",
+        "Auf die Uhrzeit",
+        "Auf das Wetter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Zweifel beraten lassen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glücksgewinne sind meist steuerfrei.",
+        "Preisgelder für berufliche Leistung können steuerpflichtig sein.",
+        "Zinsen auf Gewinne sind steuerpflichtig.",
+        "Bei Showgewinnen zählt die eigene Leistung."
+      ]
+    }
+  ]
+}

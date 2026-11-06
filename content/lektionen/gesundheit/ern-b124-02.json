@@ -1,0 +1,123 @@
+{
+  "id": "ern-b124-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was machen Konservierungsstoffe?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "konservierungsstoffe",
+    "zusatzstoffe",
+    "haltbarkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Brot schimmelt, Saft gärt, Wurst verdirbt. Mikroorganismen sind überall.",
+        "Konservierungsstoffe bremsen sie aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz vor Verderb",
+      "absaetze": [
+        "Konservierungsstoffe hemmen das Wachstum von Bakterien, Hefen und Schimmelpilzen. So bleiben Lebensmittel länger haltbar.",
+        "Sie können auch vor gefährlichen Keimen schützen. Nitritpökelsalz etwa verhindert in Wurst das Wachstum gefährlicher Bakterien."
+      ],
+      "merke": "Konservierungsstoffe hemmen Bakterien, Hefen und Schimmel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bekannte Beispiele",
+      "absaetze": [
+        "Sorbinsäure findet sich in Käse, Backwaren und Getränken. Benzoesäure steckt in sauren Lebensmitteln wie Feinkostsalaten.",
+        "Alle zugelassenen Konservierungsstoffe haben eine E-Nummer. Sie wurden auf ihre Sicherheit geprüft und dürfen nur in festgelegten Mengen eingesetzt werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Umstrittene Fälle",
+      "absaetze": [
+        "Nitrit in Wurst kann bei starker Hitze, etwa beim Grillen, Stoffe bilden, die als krebserregend gelten. Gepökelte Wurst sollte deshalb nicht scharf angebraten werden.",
+        "Manche Menschen reagieren empfindlich auf bestimmte Konservierungsstoffe, etwa auf Sulfite in Wein und Trockenobst. Sulfite müssen gekennzeichnet werden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hemmen Konservierungsstoffe?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien, Hefen und Schimmel",
+        "Vitamine",
+        "Zucker",
+        "Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleiben Lebensmittel länger haltbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wogegen schützt Nitritpökelsalz in Wurst?",
+      "art": "mc",
+      "optionen": [
+        "Gegen gefährliche Bakterien",
+        "Gegen Austrocknen",
+        "Gegen Licht",
+        "Gegen Gewichtsverlust"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es hemmt gefährliche Keime."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gepökelte Wurst eignet sich gut zum scharfen Grillen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dabei können bedenkliche Stoffe entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Konservierungsstoffe müssen besonders gekennzeichnet werden?",
+      "art": "mc",
+      "optionen": [
+        "Sulfite",
+        "Salz",
+        "Zucker",
+        "Essig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Menschen reagieren empfindlich darauf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Konservierungsstoffe machen Lebensmittel haltbarer.",
+        "Sie können vor gefährlichen Keimen schützen.",
+        "Gepökeltes nicht scharf grillen.",
+        "Sulfite müssen gekennzeichnet werden."
+      ]
+    }
+  ]
+}
