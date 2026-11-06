@@ -1,0 +1,121 @@
+{
+  "id": "umw-b114-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum lohnt es sich, Regenwasser zu sammeln?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasser im Haushalt",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "regenwasser",
+    "garten",
+    "wasser sparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sommer verbraucht ein Garten viel Wasser.",
+        "Dabei fällt das passende Wasser kostenlos vom Himmel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weich und gut für Pflanzen",
+      "absaetze": [
+        "Regenwasser enthält kaum Kalk. Viele Pflanzen vertragen es deshalb besser als Leitungswasser. Das gilt besonders für Rhododendron, Hortensien und Zimmerpflanzen.",
+        "Wer damit gießt, spart Trinkwasser und oft auch Geld. Denn Leitungswasser muss aufwendig aufbereitet werden."
+      ],
+      "merke": "Regenwasser ist kalkarm und gut zum Gießen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regentonne richtig nutzen",
+      "absaetze": [
+        "Eine Regentonne am Fallrohr ist einfach anzuschließen. Ein Deckel ist wichtig. Er hält Mückenlarven und Laub fern und schützt Kinder vor dem Hineinfallen.",
+        "Leere die Tonne vor dem ersten Frost. Gefrierendes Wasser kann sie sonst beschädigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Trinkwasser",
+      "absaetze": [
+        "Regenwasser ist kein Trinkwasser. Auf dem Dach sammeln sich Staub, Vogelkot und Keime.",
+        "Manche Häuser nutzen eine Zisterne für Toilettenspülung oder Waschmaschine. Dafür braucht es getrennte Leitungen. Die Anlage muss in der Regel beim Wasserversorger gemeldet werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum mögen viele Pflanzen Regenwasser?",
+      "art": "mc",
+      "optionen": [
+        "Es enthält kaum Kalk",
+        "Es ist besonders salzig",
+        "Es enthält Dünger",
+        "Es ist immer warm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt besonders für kalkempfindliche Pflanzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient der Deckel einer Regentonne?",
+      "art": "mc",
+      "optionen": [
+        "Er hält Mücken fern und schützt Kinder",
+        "Er kühlt das Wasser",
+        "Er macht das Wasser trinkbar",
+        "Er erhöht den Druck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Offene Tonnen sind eine Gefahr für Kleinkinder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Regenwasser aus der Tonne kannst du bedenkenlos trinken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann Keime und Schmutz enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem ersten Frost tun?",
+      "art": "mc",
+      "optionen": [
+        "Die Tonne leeren",
+        "Die Tonne randvoll füllen",
+        "Salz hineingeben",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gefrierendes Wasser kann sie beschädigen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Regenwasser ist kalkarm und ideal zum Gießen.",
+        "Es spart Trinkwasser.",
+        "Regentonnen brauchen einen Deckel.",
+        "Regenwasser ist kein Trinkwasser."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "all-b114-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum wirkt der Mond am Horizont so groß?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Der Mond",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mond",
+    "wahrnehmung",
+    "himmelsbeobachtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein riesiger Mond geht über den Dächern auf. Ein paar Stunden später wirkt er hoch am Himmel viel kleiner.",
+        "Dabei hat er seine Größe gar nicht verändert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Täuschung",
+      "absaetze": [
+        "Der Mond erscheint am Himmel immer etwa gleich groß, ungefähr ein halbes Grad. Am Horizont ist er sogar ein wenig weiter von dir entfernt.",
+        "Das kannst du selbst prüfen. Halte den Daumen am ausgestreckten Arm neben den Mond. Oder vergleiche Fotos mit gleicher Einstellung."
+      ],
+      "merke": "Der Mond am Horizont ist nicht größer, er wirkt nur so."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Erklärungen",
+      "absaetze": [
+        "Am Horizont vergleicht dein Gehirn den Mond mit Bäumen und Häusern. Daneben wirkt er größer.",
+        "Außerdem nehmen wir den Himmel nicht als Halbkugel wahr, sondern eher als flache Kuppel. Am Horizont scheint er weiter weg. Ein weit entferntes Objekt gleicher Winkelgröße schätzt das Gehirn als größer ein. Ganz geklärt ist die Täuschung bis heute nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rötliche Farbe",
+      "absaetze": [
+        "Am Horizont wirkt der Mond oft orange oder rötlich. Sein Licht muss dort einen langen Weg durch die Luft zurücklegen.",
+        "Dabei wird blaues Licht stärker gestreut als rotes. Das ist derselbe Grund, warum Sonnenuntergänge rot sind."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist der Mond am Horizont wirklich größer?",
+      "art": "mc",
+      "optionen": [
+        "Nein, er wirkt nur so",
+        "Ja, deutlich größer",
+        "Ja, weil er näher ist",
+        "Nur bei Vollmond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist dort sogar ein wenig weiter entfernt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du die Täuschung prüfen?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Daumen am ausgestreckten Arm",
+        "Mit einem Thermometer",
+        "Mit einem Kompass",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Mond deckt gleich viel ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Mondtäuschung ist bis heute nicht vollständig geklärt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es gibt mehrere Erklärungsansätze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wirkt der Mond am Horizont oft rötlich?",
+      "art": "mc",
+      "optionen": [
+        "Blaues Licht wird in der Luft stärker gestreut",
+        "Er glüht stärker",
+        "Er spiegelt die Erde",
+        "Er ist dann wärmer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie beim Sonnenuntergang."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Mond hat am Horizont dieselbe Größe.",
+        "Die Vergrößerung ist eine Täuschung des Gehirns.",
+        "Vergleiche mit der Umgebung spielen mit.",
+        "Die rötliche Farbe kommt von gestreutem Licht."
+      ]
+    }
+  ]
+}

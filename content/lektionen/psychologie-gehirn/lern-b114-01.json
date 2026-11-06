@@ -1,0 +1,122 @@
+{
+  "id": "lern-b114-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie lernst du sinnvoll mit KI-Chatbots?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Künstliche Intelligenz",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuenstliche intelligenz",
+    "chatbot",
+    "lernstrategien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "KI-Chatbots beantworten fast jede Frage in Sekunden. Für das Lernen klingt das wie eine Abkürzung.",
+        "Doch wer nur Antworten abholt, lernt oft wenig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Denken bleibt deine Aufgabe",
+      "absaetze": [
+        "Lernen entsteht vor allem, wenn du dich selbst anstrengst. Erst versuchen, dann nachschauen, bringt mehr als sofort die Lösung zu lesen.",
+        "Erste Studien deuten darauf hin, dass Lernende weniger behalten, wenn sie Lösungen nur übernehmen. Nutze KI daher eher als Trainingspartner."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Einsatzmöglichkeiten",
+      "absaetze": [
+        "Lass dir einen Begriff einfacher erklären oder mit einem Beispiel zeigen. Bitte den Chatbot, dir Übungsfragen zu stellen.",
+        "Erkläre ihm ein Thema und lass dich auf Lücken hinweisen. So nutzt du bewährte Lernmethoden wie Abfragen und Erklären."
+      ],
+      "merke": "Nutze KI als Trainingspartner, nicht als Abschreibhilfe."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Antworten prüfen",
+      "absaetze": [
+        "Chatbots können überzeugend klingen und trotzdem falsch liegen. Manchmal erfinden sie sogar Quellen.",
+        "Prüfe wichtige Fakten im Lehrbuch oder bei seriösen Quellen. Gib keine persönlichen Daten ein. Halte dich an die Regeln deiner Schule oder Hochschule."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bringt beim Lernen mehr?",
+      "art": "mc",
+      "optionen": [
+        "Erst selbst versuchen, dann nachschauen",
+        "Sofort die Lösung lesen",
+        "Antworten abschreiben",
+        "Nur Zusammenfassungen kopieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lernen braucht eigene Anstrengung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du einen Chatbot sinnvoll nutzen?",
+      "art": "mc",
+      "optionen": [
+        "Er kann dir Übungsfragen stellen",
+        "Er schreibt deine Prüfung",
+        "Er ersetzt das Lernen",
+        "Er hat immer recht"
+      ],
+      "richtig": 0,
+      "erklaerung": "So nutzt du das Abfragen als Lernmethode."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Chatbots können sich irren und Quellen erfinden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Prüfe wichtige Fakten nach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nicht in einen Chatbot eingeben?",
+      "art": "mc",
+      "optionen": [
+        "Persönliche Daten",
+        "Fragen zu Fachbegriffen",
+        "Bitten um Beispiele",
+        "Übungswünsche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schütze deine Privatsphäre."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eigenes Nachdenken ist der Kern des Lernens.",
+        "Nutze KI für Erklärungen und Übungsfragen.",
+        "Prüfe Antworten bei seriösen Quellen.",
+        "Gib keine persönlichen Daten ein."
+      ]
+    }
+  ]
+}

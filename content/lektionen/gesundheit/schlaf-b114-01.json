@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b114-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Darfst du mit Kontaktlinsen schlafen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kontaktlinsen",
+    "augen",
+    "hornhaut"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem langen Abend fallen dir die Augen zu. Die Kontaktlinsen sind noch drin.",
+        "Ist das schlimm, oder kannst du sie einfach drinlassen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Hornhaut braucht Luft",
+      "absaetze": [
+        "Die Hornhaut deines Auges hat keine Blutgefäße. Sie bekommt Sauerstoff vor allem direkt aus der Luft.",
+        "Eine Kontaktlinse verringert diese Versorgung. Sind die Augen im Schlaf geschlossen, kommt noch weniger Sauerstoff an. Die Hornhaut kann anschwellen und anfälliger werden."
+      ],
+      "merke": "Die Hornhaut bekommt Sauerstoff vor allem aus der Luft.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Höheres Infektionsrisiko",
+      "absaetze": [
+        "Wer mit Kontaktlinsen schläft, erkrankt deutlich häufiger an einer Hornhautentzündung. Fachleute nennen sie Keratitis.",
+        "Bakterien oder andere Erreger können die Hornhaut schädigen. Im schlimmsten Fall bleiben Narben, die das Sehen dauerhaft verschlechtern."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Entferne die Linsen vor dem Schlafen, auch nach einem kurzen Nickerchen. Es gibt spezielle Linsen, die für das Tragen über Nacht zugelassen sind. Das klärst du mit deiner Augenarztpraxis.",
+        "Rote, schmerzende oder lichtempfindliche Augen sind ein Warnzeichen. Dann solltest du die Linsen herausnehmen und schnell ärztlichen Rat holen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher bekommt die Hornhaut ihren Sauerstoff vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Direkt aus der Luft",
+        "Aus Blutgefäßen in der Hornhaut",
+        "Aus der Tränenflüssigkeit allein",
+        "Aus dem Sehnerv"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb stören Linsen im Schlaf die Versorgung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt eine Entzündung der Hornhaut?",
+      "art": "mc",
+      "optionen": [
+        "Keratitis",
+        "Bindehautödem",
+        "Glaukom",
+        "Katarakt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Risiko steigt beim Schlafen mit Linsen deutlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für ein kurzes Nickerchen kannst du normale Linsen bedenkenlos drinlassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch dann solltest du sie herausnehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Warnzeichen nach dem Tragen von Linsen?",
+      "art": "mc",
+      "optionen": [
+        "Rote, schmerzende Augen",
+        "Leichtes Gähnen",
+        "Kalte Füße",
+        "Müdigkeit am Abend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann Linsen heraus und schnell ärztlichen Rat holen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mit Kontaktlinsen bekommt die Hornhaut weniger Sauerstoff.",
+        "Schlafen mit Linsen erhöht das Risiko für Entzündungen.",
+        "Entferne Linsen vor jedem Schlafen.",
+        "Rote, schmerzende Augen gehören abgeklärt."
+      ]
+    }
+  ]
+}

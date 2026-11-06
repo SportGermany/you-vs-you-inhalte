@@ -1,0 +1,123 @@
+{
+  "id": "ern-b114-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Senf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "senf",
+    "wuerzmittel",
+    "allergene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ohne Senf fehlt vielen bei der Bratwurst etwas.",
+        "Dabei steckt in der gelben Paste mehr als nur Schärfe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus kleinen Körnern",
+      "absaetze": [
+        "Senf wird aus den Samen der Senfpflanze hergestellt. Es gibt gelbe, braune und schwarze Senfkörner. Gemahlen und mit Essig, Wasser und Salz vermischt entsteht die Paste.",
+        "Je mehr braune oder schwarze Körner, desto schärfer der Senf. Süßer Senf enthält dagegen viel Zucker."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher die Schärfe kommt",
+      "absaetze": [
+        "In den Körnern stecken Senfölglykoside. Erst beim Mahlen mit Wasser setzt ein Enzym daraus scharfe Senföle frei.",
+        "Diese Stoffe kommen auch in Kohl, Rettich und Kresse vor. Studien deuten darauf hin, dass sie Bakterien hemmen können. Für gesundheitliche Wirkungen beim Menschen reichen die Belege aber nicht."
+      ],
+      "merke": "Die Schärfe entsteht erst, wenn Senfkörner mit Wasser gemahlen werden.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Senf hat wenig Kalorien. Er enthält aber oft viel Salz. Achte daher auf die Menge.",
+        "Senf zählt zu den 14 Hauptallergenen. Er muss deshalb auf verpackten Lebensmitteln immer gekennzeichnet werden. Senfallergien können heftig verlaufen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Senf hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Aus den Samen der Senfpflanze",
+        "Aus Kurkumawurzeln",
+        "Aus Meerrettich",
+        "Aus Eigelb"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt gelbe, braune und schwarze Körner."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entstehen die scharfen Senföle?",
+      "art": "mc",
+      "optionen": [
+        "Beim Mahlen mit Wasser",
+        "Beim Trocknen in der Sonne",
+        "Erst im Magen",
+        "Beim Einfrieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Enzym setzt sie frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Senf muss als Allergen auf verpackten Lebensmitteln gekennzeichnet werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er gehört zu den 14 Hauptallergenen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält süßer Senf reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Zucker",
+        "Eiweiß",
+        "Ballaststoffe",
+        "Vitamin D"
+      ],
+      "richtig": 0,
+      "erklaerung": "Achte bei süßem Senf auf die Menge."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Senf entsteht aus gemahlenen Senfkörnern.",
+        "Die Schärfe stammt von Senfölen.",
+        "Senf ist kalorienarm, aber oft salzig.",
+        "Senf ist ein kennzeichnungspflichtiges Allergen."
+      ]
+    }
+  ]
+}

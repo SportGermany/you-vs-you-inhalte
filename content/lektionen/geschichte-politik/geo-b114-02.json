@@ -1,0 +1,127 @@
+{
+  "id": "geo-b114-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Internationale Zivilluftfahrtorganisation?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About ICAO",
+      "herausgeber": "Internationale Zivilluftfahrtorganisation (ICAO)",
+      "url": "https://www.icao.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Länder und Organisationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "icao",
+    "luftfahrt",
+    "internationale organisationen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Flugzeug startet in Frankfurt und landet in Tokio. Unterwegs überquert es viele Länder.",
+        "Damit das sicher klappt, braucht es gemeinsame Regeln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Chicagoer Abkommen",
+      "absaetze": [
+        "1944 trafen sich Staaten in Chicago, um die zivile Luftfahrt nach dem Krieg zu ordnen. Daraus entstand das Chicagoer Abkommen.",
+        "1947 nahm die Internationale Zivilluftfahrtorganisation ihre Arbeit auf. Die Abkürzung ICAO kommt aus dem Englischen. Sie ist eine Sonderorganisation der Vereinten Nationen mit Sitz in Montreal."
+      ],
+      "merke": "Die ICAO sitzt in Montreal und beruht auf dem Chicagoer Abkommen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemeinsame Standards",
+      "absaetze": [
+        "Die ICAO legt Standards für Sicherheit, Flugsicherung, Pässe und Flughäfen fest. Deshalb ist Englisch die gemeinsame Sprache im Funkverkehr.",
+        "Auch die maschinenlesbaren Reisepässe gehen auf ihre Vorgaben zurück. Die Staaten setzen die Standards dann in eigene Gesetze um."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vier Buchstaben",
+      "absaetze": [
+        "Die ICAO vergibt Flughafencodes mit vier Buchstaben. Frankfurt heißt zum Beispiel EDDF.",
+        "Die bekannten Codes mit drei Buchstaben, etwa FRA, stammen dagegen vom Airline-Verband IATA. Sie stehen auf Gepäckanhängern und Tickets."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hat die ICAO ihren Sitz?",
+      "art": "mc",
+      "optionen": [
+        "In Montreal",
+        "In Chicago",
+        "In Genf",
+        "In London"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gegründet wurde sie auf Basis des Chicagoer Abkommens."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf welchem Abkommen beruht die ICAO?",
+      "art": "mc",
+      "optionen": [
+        "Dem Chicagoer Abkommen von 1944",
+        "Dem Versailler Vertrag",
+        "Dem Pariser Klimaabkommen",
+        "Den Römischen Verträgen"
+      ],
+      "richtig": 0,
+      "erklaerung": "1947 nahm die ICAO ihre Arbeit auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Code FRA für Frankfurt stammt von der ICAO.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dreibuchstabige Codes stammen von der IATA."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sprache ist im internationalen Flugfunk Standard?",
+      "art": "mc",
+      "optionen": [
+        "Englisch",
+        "Französisch",
+        "Spanisch",
+        "Latein"
+      ],
+      "richtig": 0,
+      "erklaerung": "So verstehen sich Crews und Lotsen weltweit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die ICAO beruht auf dem Chicagoer Abkommen von 1944.",
+        "Sie sitzt in Montreal.",
+        "Sie setzt weltweite Standards für die Luftfahrt.",
+        "Sie vergibt Flughafencodes mit vier Buchstaben."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "vers-b114-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer haftet, wenn ein bestelltes Paket verloren geht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "paket",
+    "onlinehandel",
+    "verbraucherrechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Laut Sendungsverfolgung ist das Paket zugestellt. Doch bei dir ist nichts angekommen.",
+        "Wer muss jetzt für den Schaden geradestehen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Onlinehändler",
+      "absaetze": [
+        "Kaufst du als Verbraucherin oder Verbraucher bei einem Händler, trägt der Händler das Versandrisiko. Erst wenn du das Paket erhältst, geht das Risiko auf dich über.",
+        "Geht das Paket unterwegs verloren, muss der Händler neu liefern oder das Geld erstatten. Wende dich deshalb an den Händler, nicht an den Paketdienst."
+      ],
+      "merke": "Beim Onlinehändler trägt der Händler das Versandrisiko."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abstellort und Nachbarn",
+      "absaetze": [
+        "Hast du eine Abstellgenehmigung erteilt, etwa für die Garage, gilt das Paket mit dem Abstellen meist als zugestellt. Verschwindet es danach, trägst du oft selbst das Risiko.",
+        "Erteile solche Genehmigungen daher nur für sichere Orte. Prüfe auch, ob ein Nachbar das Paket angenommen hat."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Privatverkauf",
+      "absaetze": [
+        "Kaufst du privat, etwa über Kleinanzeigen, gelten andere Regeln. Hier geht das Risiko oft schon über, sobald der Verkäufer das Paket abgibt.",
+        "Vereinbare daher versicherten Versand mit Sendungsnummer. Bewahre Belege und Fotos der Verpackung auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer trägt beim Onlinehändler das Versandrisiko?",
+      "art": "mc",
+      "optionen": [
+        "Der Händler",
+        "Du als Kundin oder Kunde",
+        "Der Paketdienst allein",
+        "Die Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst mit der Übergabe an dich geht das Risiko über."
+    },
+    {
+      "typ": "quiz",
+      "frage": "An wen wendest du dich, wenn ein Paket vom Händler nicht ankommt?",
+      "art": "mc",
+      "optionen": [
+        "An den Händler",
+        "An die Polizei",
+        "An den Nachbarn",
+        "An die Verbraucherzentrale zuerst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er muss neu liefern oder erstatten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit einer Abstellgenehmigung trägst du oft selbst das Risiko nach dem Abstellen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wähle daher nur sichere Orte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft beim Privatverkauf?",
+      "art": "mc",
+      "optionen": [
+        "Versicherter Versand mit Sendungsnummer",
+        "Bargeld im Umschlag",
+        "Ein unversicherter Brief",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hier geht das Risiko oft schon beim Abgeben über."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Händlerkauf trägt der Händler das Versandrisiko.",
+        "Melde fehlende Pakete beim Händler.",
+        "Abstellgenehmigungen verschieben das Risiko auf dich.",
+        "Beim Privatkauf auf versicherten Versand achten."
+      ]
+    }
+  ]
+}

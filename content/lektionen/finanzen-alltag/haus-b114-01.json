@@ -1,0 +1,121 @@
+{
+  "id": "haus-b114-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du eine Regenjacke richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "regenjacke",
+    "waesche",
+    "impraegnierung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Regenjacke war mal dicht. Jetzt saugt sich der Stoff bei jedem Schauer voll.",
+        "Oft liegt das nicht am Alter, sondern an der Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie eine Regenjacke funktioniert",
+      "absaetze": [
+        "Viele Regenjacken haben eine Membran. Sie lässt Wasserdampf von innen nach außen, aber keinen Regen hinein. Außen sorgt eine Imprägnierung dafür, dass Tropfen abperlen.",
+        "Schmutz, Hautfett und Waschmittelreste stören beides. Dann wird der Oberstoff nass und die Jacke fühlt sich klamm an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig waschen",
+      "absaetze": [
+        "Wasche die Jacke nach Pflegeetikett, meist im Schonwaschgang. Nimm Flüssigwaschmittel oder ein spezielles Funktionswaschmittel.",
+        "Weichspüler ist tabu, denn er verklebt die Membran. Spüle lieber einmal extra, damit keine Waschmittelreste bleiben."
+      ],
+      "merke": "Kein Weichspüler: Er verklebt die Membran."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Imprägnierung auffrischen",
+      "absaetze": [
+        "Oft reicht Wärme, um die Imprägnierung zu reaktivieren. Erlaubt das Etikett den Trockner, nutze eine schonende Stufe.",
+        "Perlt das Wasser trotzdem nicht ab, hilft ein Imprägniermittel zum Einwaschen oder Sprühen. Achte auf Produkte ohne PFAS. Sprühmittel nutzt du nur draußen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Weichspüler für Regenjacken schlecht?",
+      "art": "mc",
+      "optionen": [
+        "Er verklebt die Membran",
+        "Er macht sie zu warm",
+        "Er färbt sie aus",
+        "Er macht sie schwerer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann kann Feuchtigkeit nicht mehr nach außen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine nachlassende Imprägnierung oft wieder aktivieren?",
+      "art": "mc",
+      "optionen": [
+        "Wärme, etwa im Trockner auf schonender Stufe",
+        "Einfrieren",
+        "Sonnencreme",
+        "Weichspüler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur, wenn das Pflegeetikett es erlaubt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Imprägniersprays solltest du draußen verwenden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So atmest du keinen Sprühnebel ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stört Membran und Imprägnierung?",
+      "art": "mc",
+      "optionen": [
+        "Schmutz, Hautfett und Waschmittelreste",
+        "Frische Luft",
+        "Regen allein",
+        "Kälte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb hilft regelmäßiges Waschen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Membran und Imprägnierung halten Regen draußen.",
+        "Wasche nach Etikett ohne Weichspüler.",
+        "Wärme kann die Imprägnierung reaktivieren.",
+        "Sprays nur im Freien verwenden."
+      ]
+    }
+  ]
+}

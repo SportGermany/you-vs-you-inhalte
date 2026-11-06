@@ -1,0 +1,123 @@
+{
+  "id": "ern-b114-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Lachs?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lachs",
+    "fisch",
+    "omega-3"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lachs ist einer der beliebtesten Speisefische in Deutschland.",
+        "Doch zwischen Zuchtlachs und Wildlachs gibt es Unterschiede."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fett, das gut tut",
+      "absaetze": [
+        "Lachs ist ein fettreicher Seefisch. Er liefert die Omega-3-Fettsäuren EPA und DHA. Sie sind wichtig für Herz, Gehirn und Augen.",
+        "Dazu kommen hochwertiges Eiweiß, Vitamin D und Jod. Fachgesellschaften empfehlen, regelmäßig Fisch zu essen, auch fettreichen."
+      ],
+      "merke": "Lachs liefert die Omega-3-Fettsäuren EPA und DHA.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zucht oder Wildfang",
+      "absaetze": [
+        "Der meiste Lachs im Supermarkt stammt aus Aquakultur, oft aus Norwegen. Wildlachs kommt meist aus dem Nordpazifik.",
+        "Zuchtlachs bekommt seine rosa Farbe durch den Farbstoff Astaxanthin im Futter. Wildlachs nimmt ihn über Krebstierchen auf. Siegel wie MSC oder ASC helfen bei der Auswahl."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Räucherlachs",
+      "absaetze": [
+        "Räucherlachs und Graved Lachs werden nicht erhitzt. Sie können Listerien enthalten. Das sind Bakterien, die in der Schwangerschaft gefährlich werden können.",
+        "Schwangere und Menschen mit geschwächter Abwehr sollten deshalb nur durchgegarten Lachs essen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäuren liefert Lachs?",
+      "art": "mc",
+      "optionen": [
+        "Omega-3-Fettsäuren EPA und DHA",
+        "Transfette",
+        "Nur gesättigte Fette",
+        "Keine Fette"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind wichtig für Herz, Gehirn und Augen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher bekommt Zuchtlachs seine rosa Farbe?",
+      "art": "mc",
+      "optionen": [
+        "Durch Astaxanthin im Futter",
+        "Durch Lebensmittelfarbe nach dem Fang",
+        "Durch Sonnenlicht",
+        "Durch Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wildlachs nimmt den Farbstoff über Krebstierchen auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Räucherlachs ist in der Schwangerschaft unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kann Listerien enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt der meiste Lachs im Supermarkt?",
+      "art": "mc",
+      "optionen": [
+        "Aus Aquakultur",
+        "Aus Flüssen in Deutschland",
+        "Aus dem Mittelmeer",
+        "Aus Wildfang in der Ostsee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft kommt er aus Norwegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lachs liefert Omega-3-Fettsäuren, Eiweiß und Vitamin D.",
+        "Der meiste Lachs stammt aus Zucht.",
+        "Siegel helfen bei der Auswahl.",
+        "Schwangere essen Lachs besser nur durchgegart."
+      ]
+    }
+  ]
+}

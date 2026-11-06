@@ -1,0 +1,127 @@
+{
+  "id": "tech-b114-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Sicherheitsgurt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sicherheit im Straßenverkehr",
+      "herausgeber": "Deutscher Verkehrssicherheitsrat",
+      "url": "https://www.dvr.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sicherheitsgurt",
+    "auto",
+    "verkehrssicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Normalerweise lässt sich der Gurt locker herausziehen. Bei einer Vollbremsung hält er plötzlich fest.",
+        "Hinter diesem Trick steckt clevere Mechanik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Dreipunktgurt",
+      "absaetze": [
+        "Der heute übliche Dreipunktgurt wurde 1959 vom schwedischen Ingenieur Nils Bohlin für Volvo entwickelt. Er hält Becken und Oberkörper zugleich.",
+        "Volvo gab das Patent frei. So konnten alle Hersteller den Gurt einbauen. Er gilt als eine der wichtigsten Sicherheitserfindungen im Auto."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum er blockiert",
+      "absaetze": [
+        "Im Gurtaufroller sitzt ein kleiner Sensor, etwa eine Kugel oder ein Pendel. Bremst das Auto stark oder kippt es, bewegt sich der Sensor und sperrt die Rolle.",
+        "Ein zweiter Mechanismus reagiert, wenn der Gurt sehr schnell herausgezogen wird. Deshalb blockiert er, wenn du ruckartig ziehst."
+      ],
+      "merke": "Ein Sensor im Aufroller sperrt den Gurt bei starkem Bremsen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Straffer und Begrenzer",
+      "absaetze": [
+        "Moderne Gurte haben einen Gurtstraffer. Bei einem Unfall zieht er den Gurt in Sekundenbruchteilen stramm. Ein Kraftbegrenzer gibt danach etwas nach, um den Brustkorb zu schonen.",
+        "In Deutschland gilt seit 1976 die Pflicht, sich auf den Vordersitzen anzuschnallen. Heute gilt sie auf allen Plätzen mit Gurt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entwickelte den Dreipunktgurt?",
+      "art": "mc",
+      "optionen": [
+        "Nils Bohlin für Volvo",
+        "Carl Benz",
+        "Henry Ford",
+        "Rudolf Diesel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Volvo gab das Patent frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sperrt den Gurt bei einer Vollbremsung?",
+      "art": "mc",
+      "optionen": [
+        "Ein Sensor im Gurtaufroller",
+        "Der Fahrer per Knopf",
+        "Ein Elektromotor im Sitz",
+        "Die Luft im Airbag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa eine Kugel oder ein Pendel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Gurtstraffer?",
+      "art": "mc",
+      "optionen": [
+        "Er zieht den Gurt beim Unfall stramm",
+        "Er löst den Gurt automatisch",
+        "Er wärmt den Gurt",
+        "Er misst den Puls"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geschieht in Sekundenbruchteilen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Gurt blockiert auch, wenn du sehr schnell an ihm ziehst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dafür gibt es einen zweiten Mechanismus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Dreipunktgurt stammt von 1959.",
+        "Ein Sensor sperrt den Gurt beim Bremsen.",
+        "Gurtstraffer und Kraftbegrenzer schützen zusätzlich.",
+        "In Deutschland gilt die Anschnallpflicht."
+      ]
+    }
+  ]
+}
