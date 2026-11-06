@@ -1,0 +1,132 @@
+{
+  "id": "stoff-b129-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was passiert bei Zöliakie im Darm?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zöliakie",
+      "herausgeber": "Deutsche Zöliakie-Gesellschaft",
+      "url": "https://www.dzg-online.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Patienteninformationen",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten (DGVS)",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zoeliakie",
+    "gluten",
+    "duenndarm"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Für die meisten Menschen ist Brot ein harmloses Grundnahrungsmittel.",
+        "Bei Zöliakie greift das Immunsystem den eigenen Darm an, sobald Gluten auf dem Teller landet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Autoimmunerkrankung",
+      "absaetze": [
+        "Zöliakie ist keine Allergie und keine Modeerscheinung. Das Klebereiweiß Gluten löst bei Betroffenen eine Abwehrreaktion gegen die Dünndarmschleimhaut aus.",
+        "Die Darmzotten bilden sich dabei zurück. Das sind feine Ausstülpungen, über die der Körper Nährstoffe aufnimmt. Etwa ein Prozent der Bevölkerung ist betroffen."
+      ],
+      "merke": "Bei Zöliakie schädigt Gluten die Dünndarmschleimhaut.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Gesichter",
+      "absaetze": [
+        "Typisch sind Durchfall, Blähungen und Gewichtsverlust. Oft zeigen sich aber nur Müdigkeit, Eisenmangel oder Knochenprobleme.",
+        "Manche haben kaum Beschwerden. Deshalb bleibt Zöliakie oft lange unerkannt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Diagnose und Behandlung",
+      "absaetze": [
+        "Die Diagnose stellt die Ärztin oder der Arzt mit einem Bluttest und meist einer Gewebeprobe aus dem Dünndarm. Wichtig: Vorher nicht auf eigene Faust glutenfrei essen, sonst wird der Test ungenau.",
+        "Die einzige Behandlung ist eine lebenslang glutenfreie Ernährung. Dann erholt sich der Darm meist wieder."
+      ],
+      "merke": "Vor dem Test nicht eigenmächtig glutenfrei essen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Zöliakie?",
+      "art": "mc",
+      "optionen": [
+        "Eine Autoimmunerkrankung, ausgelöst durch Gluten",
+        "Eine Lebensmittelvergiftung",
+        "Eine Modediät",
+        "Ein Vitaminmangel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Immunsystem greift die Darmschleimhaut an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit den Darmzotten?",
+      "art": "mc",
+      "optionen": [
+        "Sie bilden sich zurück",
+        "Sie wachsen stärker",
+        "Sie färben sich blau",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dadurch werden Nährstoffe schlechter aufgenommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor dem Zöliakie-Test solltest du schon glutenfrei essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das macht den Test ungenau."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Zöliakie behandelt?",
+      "art": "mc",
+      "optionen": [
+        "Mit lebenslang glutenfreier Ernährung",
+        "Mit einer Impfung",
+        "Mit Antibiotika",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann erholt sich der Darm meist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zöliakie ist eine Autoimmunerkrankung.",
+        "Gluten schädigt dabei die Dünndarmschleimhaut.",
+        "Die Beschwerden sind sehr unterschiedlich.",
+        "Behandlung ist eine lebenslang glutenfreie Ernährung.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

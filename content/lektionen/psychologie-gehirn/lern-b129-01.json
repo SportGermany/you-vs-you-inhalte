@@ -1,0 +1,123 @@
+{
+  "id": "lern-b129-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Was ist ein Flipped Classroom?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "flipped-classroom",
+    "unterricht",
+    "lernmethoden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Normalerweise erklärt die Lehrkraft im Unterricht, geübt wird zu Hause.",
+        "Beim Flipped Classroom ist es genau umgekehrt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der umgedrehte Unterricht",
+      "absaetze": [
+        "Die Lernenden schauen sich neue Inhalte vorher zu Hause an, oft als kurzes Video. Im Unterricht wird dann geübt, gefragt und diskutiert.",
+        "Die Lehrkraft hat so mehr Zeit, einzelnen Lernenden zu helfen. Die Erklärungen können sie im eigenen Tempo und mehrfach ansehen."
+      ],
+      "merke": "Erklärung zu Hause, Übung im Unterricht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Viele Studien fanden leicht bessere Lernergebnisse als im klassischen Unterricht. Die Unterschiede sind aber oft klein.",
+        "Entscheidend ist offenbar, wie gut die Präsenzzeit genutzt wird. Aktives Üben und Rückmeldung scheinen wichtiger zu sein als das Video selbst."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen",
+      "absaetze": [
+        "Das Modell funktioniert nur, wenn die Vorbereitung zu Hause klappt. Nicht alle haben dort Ruhe, Technik oder Unterstützung.",
+        "Für Selbstlernende eignet sich das Prinzip ebenfalls. Schau dir ein Thema vorab an und nutze gemeinsame Zeit für Fragen und Übungen."
+      ],
+      "merke": "Ohne Vorbereitung zu Hause funktioniert das Modell nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Flipped Classroom zu Hause?",
+      "art": "mc",
+      "optionen": [
+        "Neue Inhalte werden angeschaut",
+        "Nur Hausaufgaben werden korrigiert",
+        "Gar nichts",
+        "Es werden Prüfungen geschrieben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft mit kurzen Videos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird die Zeit im Unterricht genutzt?",
+      "art": "mc",
+      "optionen": [
+        "Zum Üben, Fragen und Diskutieren",
+        "Für lange Vorträge",
+        "Zum Schlafen",
+        "Nur für Tests"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Lehrkraft kann gezielter helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Studien zeigen riesige Vorteile des Flipped Classroom.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Vorteile sind meist eher klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran kann das Modell scheitern?",
+      "art": "mc",
+      "optionen": [
+        "An fehlender Vorbereitung zu Hause",
+        "An zu viel Übung",
+        "An zu vielen Fragen",
+        "An guter Technik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nicht alle haben zu Hause gute Bedingungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Flipped Classroom kommen Erklärungen vorab.",
+        "Im Unterricht wird geübt und diskutiert.",
+        "Studien zeigen meist kleine Vorteile.",
+        "Die Vorbereitung zu Hause ist entscheidend."
+      ]
+    }
+  ]
+}

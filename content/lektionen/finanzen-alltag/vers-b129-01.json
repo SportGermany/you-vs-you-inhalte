@@ -1,0 +1,128 @@
+{
+  "id": "vers-b129-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was macht der Versicherungsombudsmann?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherschutz",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ombudsmann",
+    "schlichtung",
+    "beschwerde"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Versicherung lehnt deinen Schaden ab, und du hältst das für falsch.",
+        "Bevor du vor Gericht ziehst, gibt es einen einfacheren Weg."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine kostenlose Schlichtungsstelle",
+      "absaetze": [
+        "Der Versicherungsombudsmann ist eine unabhängige Schlichtungsstelle. Verbraucherinnen und Verbraucher können sich dort kostenlos beschweren.",
+        "Er ist zuständig für die meisten Versicherungen, etwa Hausrat, Haftpflicht oder Lebensversicherung. Für private Kranken- und Pflegeversicherungen gibt es einen eigenen Ombudsmann."
+      ],
+      "merke": "Die Schlichtung ist für Verbraucher kostenlos."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So läuft es ab",
+      "absaetze": [
+        "Zuerst musst du dich direkt bei deiner Versicherung beschweren. Hilft das nicht, kannst du den Ombudsmann einschalten, meist schriftlich oder online.",
+        "Während das Verfahren läuft, ist die Verjährung deiner Ansprüche gehemmt. Du verlierst also keine Zeit für eine mögliche Klage."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bindend für die Versicherung",
+      "absaetze": [
+        "Bis zu einem bestimmten Streitwert muss sich die Versicherung an die Entscheidung halten. Du selbst kannst trotzdem noch vor Gericht gehen.",
+        "Bei höheren Beträgen gibt der Ombudsmann eine Empfehlung ab. Zusätzlich kannst du dich bei der Finanzaufsicht BaFin beschweren."
+      ],
+      "merke": "Die Entscheidung bindet die Versicherung, dich aber nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kostet ein Verfahren beim Versicherungsombudsmann für Verbraucher?",
+      "art": "mc",
+      "optionen": [
+        "Nichts",
+        "Eine hohe Gebühr",
+        "Einen Monatsbeitrag",
+        "Die Hälfte des Schadens"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schlichtung ist kostenlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was musst du vorher tun?",
+      "art": "mc",
+      "optionen": [
+        "Dich direkt bei der Versicherung beschweren",
+        "Einen Anwalt beauftragen",
+        "Den Vertrag kündigen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erst danach ist der Ombudsmann zuständig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Entscheidung des Ombudsmanns hindert dich daran, später zu klagen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Du kannst trotzdem vor Gericht gehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist für private Krankenversicherungen zuständig?",
+      "art": "mc",
+      "optionen": [
+        "Ein eigener Ombudsmann",
+        "Die Polizei",
+        "Das Finanzamt",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt eine eigene Schlichtungsstelle dafür."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Versicherungsombudsmann schlichtet kostenlos.",
+        "Zuerst beschwerst du dich bei der Versicherung.",
+        "Die Verjährung ist während des Verfahrens gehemmt.",
+        "Die Entscheidung bindet bis zu einem Betrag nur die Versicherung."
+      ]
+    }
+  ]
+}

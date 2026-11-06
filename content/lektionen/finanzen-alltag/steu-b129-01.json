@@ -1,0 +1,128 @@
+{
+  "id": "steu-b129-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was unterscheidet Grenzsteuersatz und Durchschnittssteuersatz?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "einkommensteuer",
+    "steuertarif",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast gehört, du liegst beim Spitzensteuersatz von 42 Prozent.",
+        "Heißt das, fast die Hälfte deines Einkommens geht an den Staat? Nein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Grenzsteuersatz",
+      "absaetze": [
+        "Der Grenzsteuersatz gibt an, wie viel Steuer auf den nächsten zusätzlich verdienten Euro fällt. In Deutschland steigt er mit dem Einkommen.",
+        "Er beginnt oberhalb des Grundfreibetrags bei 14 Prozent. Für hohe Einkommen erreicht er 42 Prozent, für sehr hohe 45 Prozent."
+      ],
+      "merke": "Der Grenzsteuersatz gilt für den nächsten verdienten Euro."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Durchschnittssteuersatz",
+      "absaetze": [
+        "Der Durchschnittssteuersatz zeigt, welcher Anteil deines gesamten zu versteuernden Einkommens als Steuer anfällt. Er ist immer niedriger als der Grenzsteuersatz.",
+        "Denn der Grundfreibetrag bleibt steuerfrei, und die unteren Einkommensteile werden geringer besteuert. Erst die obersten Euros treffen den hohen Satz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das wichtig ist",
+      "absaetze": [
+        "Eine Gehaltserhöhung lässt dein Netto nie sinken, nur weil der Steuersatz steigt. Nur der zusätzliche Teil wird höher besteuert.",
+        "Der Grenzsteuersatz zeigt dir, wie viel du durch absetzbare Kosten sparst. Bei 30 Prozent bringt jeder abgesetzte Euro etwa 30 Cent Ersparnis."
+      ],
+      "merke": "Eine Gehaltserhöhung senkt nie das Netto durch die Einkommensteuer."
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Durch eine Gehaltserhöhung kann man wegen der Steuer weniger netto haben.",
+      "urteil": "mythos",
+      "erklaerung": "Falsch. Nur der zusätzliche Teil des Einkommens wird höher besteuert, nicht das ganze Gehalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt der Grenzsteuersatz an?",
+      "art": "mc",
+      "optionen": [
+        "Die Steuer auf den nächsten verdienten Euro",
+        "Die Steuer auf das ganze Einkommen",
+        "Den Mehrwertsteuersatz",
+        "Die Kirchensteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er steigt mit dem Einkommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Spitzensteuersatz für hohe Einkommen?",
+      "art": "mc",
+      "optionen": [
+        "42 Prozent",
+        "14 Prozent",
+        "19 Prozent",
+        "60 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für sehr hohe Einkommen gelten 45 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Durchschnittssteuersatz ist immer niedriger als der Grenzsteuersatz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die unteren Einkommensteile werden geringer besteuert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bringt dir ein abgesetzter Euro bei einem Grenzsteuersatz von 30 Prozent?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 30 Cent Ersparnis",
+        "Einen ganzen Euro",
+        "Nichts",
+        "Zwei Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Grenzsteuersatz bestimmt die Ersparnis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Grenzsteuersatz gilt für den nächsten verdienten Euro.",
+        "Der Durchschnittssteuersatz bezieht sich auf das ganze Einkommen.",
+        "Er ist immer niedriger als der Grenzsteuersatz.",
+        "Eine Gehaltserhöhung senkt das Netto nicht."
+      ]
+    }
+  ]
+}

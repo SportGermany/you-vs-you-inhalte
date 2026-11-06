@@ -1,0 +1,124 @@
+{
+  "id": "ern-b129-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Mais?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mais",
+    "getreide",
+    "glutenfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob als Kolben vom Grill, aus der Dose im Salat oder als Polenta: Mais ist vielseitig.",
+        "Aber was steckt eigentlich in den gelben Körnern?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Getreide aus Amerika",
+      "absaetze": [
+        "Mais wurde vor Jahrtausenden in Mittelamerika aus einem Wildgras gezüchtet. Heute ist er eines der wichtigsten Getreide der Welt.",
+        "In Deutschland wächst vor allem Futtermais und Mais für Biogasanlagen. Für die Küche wird meist Zuckermais genutzt, der süßer und zarter ist."
+      ],
+      "merke": "Mais stammt ursprünglich aus Mittelamerika."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Mais liefert Kohlenhydrate, Ballaststoffe und etwas Eiweiß. Die gelbe Farbe stammt von Farbstoffen wie Lutein, die auch im Auge vorkommen.",
+        "Mais ist von Natur aus glutenfrei. Polenta und Maismehl eignen sich deshalb für Menschen mit Zöliakie, wenn sie nicht verunreinigt sind."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Popcorn, Flakes und Co.",
+      "absaetze": [
+        "Für Popcorn wird eine besondere Sorte verwendet, der Puffmais. Beim Erhitzen verdampft Wasser im Korn und es platzt auf.",
+        "Wie gesund Maisprodukte sind, hängt stark von der Verarbeitung ab. Cornflakes und süßes Popcorn enthalten oft viel Zucker oder Salz."
+      ],
+      "merke": "Bei Maisprodukten kommt es auf die Verarbeitung an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Mais ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Mittelamerika",
+        "Aus Skandinavien",
+        "Aus Australien",
+        "Aus der Arktis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wurde dort vor Jahrtausenden gezüchtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mais ist von Natur aus glutenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Polenta kann deshalb bei Zöliakie passen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Maissorte wird für Popcorn genutzt?",
+      "art": "mc",
+      "optionen": [
+        "Puffmais",
+        "Futtermais",
+        "Zuckermais",
+        "Ziermais"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sein Korn platzt beim Erhitzen auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird in Deutschland viel Mais angebaut?",
+      "art": "mc",
+      "optionen": [
+        "Als Tierfutter und für Biogas",
+        "Nur für Popcorn",
+        "Für Kleidung",
+        "Für Papier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Speisemais macht nur einen kleinen Teil aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mais stammt aus Mittelamerika.",
+        "Er liefert Kohlenhydrate und Ballaststoffe.",
+        "Mais ist glutenfrei.",
+        "Bei Maisprodukten zählt die Verarbeitung."
+      ]
+    }
+  ]
+}

@@ -3,121 +3,119 @@
   "version": 1,
   "themenwelt": "psychologie-gehirn",
   "unterthema": "lernen-gedaechtnis",
-  "titel": "Warum hilft gemischtes Üben beim Lernen?",
+  "titel": "Was ist Bildungsurlaub?",
   "minuten": 3,
-  "studienlage": 2,
-  "zeitlos": true,
-  "gueltig_von": null,
-  "gueltig_bis": null,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
   "ersetzt_durch": null,
   "stand": "2026-10",
   "pruefstatus": "entwurf",
   "quellen": [
     {
-      "titel": "Psychology Topics",
-      "herausgeber": "American Psychological Association",
-      "url": "https://www.apa.org",
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
       "abgerufen": ""
     }
   ],
   "tags": [
-    "interleaving",
-    "ueben",
-    "lernstrategie"
+    "bildungsurlaub",
+    "weiterbildung",
+    "gesetze"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Erst zwanzig Aufgaben zu Brüchen, dann zwanzig zu Prozenten: So üben viele.",
-        "Die Forschung deutet darauf hin, dass gemischtes Üben oft mehr bringt."
+        "Ein Sprachkurs, ein Seminar zur Gesundheit oder politische Bildung, und der Arbeitgeber zahlt weiter dein Gehalt.",
+        "In den meisten Bundesländern ist das möglich: mit Bildungsurlaub."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Blöcke gegen Mischung",
+      "titel": "Bezahlte Zeit zum Lernen",
       "absaetze": [
-        "Beim Üben in Blöcken bearbeitest du viele gleiche Aufgaben hintereinander. Beim gemischten Üben wechseln die Aufgabentypen ab.",
-        "In Studien mit Matheaufgaben schnitten Lernende mit gemischtem Üben im späteren Test oft besser ab. Auch beim Unterscheiden von Malstilen fand man solche Effekte."
+        "Bildungsurlaub ist eine bezahlte Freistellung von der Arbeit für anerkannte Weiterbildungen. Er kommt zusätzlich zum normalen Urlaub.",
+        "Geregelt ist er nicht bundesweit, sondern in Gesetzen der Bundesländer. Je nach Land heißt er auch Bildungszeit oder Bildungsfreistellung."
       ],
-      "merke": "Gemischtes Üben führt oft zu besseren Testergebnissen.",
-      "studienlage": 2
+      "merke": "Bildungsurlaub ist bezahlte Freistellung für Weiterbildung."
     },
     {
       "typ": "wissen",
-      "titel": "Warum es wirkt",
+      "titel": "Unterschiede zwischen den Ländern",
       "absaetze": [
-        "Beim gemischten Üben musst du jedes Mal erst erkennen, welche Art Aufgabe vor dir liegt. Genau das wird später in der Prüfung verlangt.",
-        "Du lernst also nicht nur den Lösungsweg, sondern auch, wann er passt. Wie groß der Vorteil ist, hängt aber vom Fach ab und ist teils noch unklar."
-      ],
-      "studienlage": 2
+        "In den meisten Ländern stehen Beschäftigten meist fünf Arbeitstage pro Jahr zu. Oft lassen sich zwei Jahre zusammenlegen.",
+        "Bayern und Sachsen haben kein solches Gesetz. Welche Kurse zählen, regelt jedes Land selbst. Oft gehören berufliche und politische Bildung dazu."
+      ]
     },
     {
       "typ": "wissen",
-      "titel": "Es fühlt sich schwerer an",
+      "titel": "So gehst du vor",
       "absaetze": [
-        "Gemischtes Üben wirkt anstrengender. Viele halten Blöcke deshalb für die bessere Methode.",
-        "Das Gefühl täuscht oft. Eine gewisse Anstrengung beim Lernen kann das Behalten fördern. Lerne neue Inhalte erst kurz im Block und mische dann."
+        "Suche einen Kurs, der in deinem Bundesland als Bildungsurlaub anerkannt ist. Volkshochschulen und andere Anbieter weisen das meist aus.",
+        "Beantrage die Freistellung rechtzeitig schriftlich bei deinem Arbeitgeber. Die Fristen legt das jeweilige Landesgesetz fest, oft sind es einige Wochen."
       ],
-      "merke": "Mühsameres Üben kann besser im Gedächtnis bleiben."
+      "merke": "Nur anerkannte Kurse zählen als Bildungsurlaub."
     },
     {
       "typ": "quiz",
-      "frage": "Was bedeutet gemischtes Üben?",
+      "frage": "Was ist Bildungsurlaub?",
       "art": "mc",
       "optionen": [
-        "Verschiedene Aufgabentypen abwechseln",
-        "Nur eine Aufgabe sehr oft lösen",
-        "Gar nicht üben",
-        "Nur Lösungen lesen"
+        "Bezahlte Freistellung für anerkannte Weiterbildung",
+        "Unbezahlter Urlaub für Reisen",
+        "Ein Schulfach",
+        "Urlaub nur für Lehrkräfte"
       ],
       "richtig": 0,
-      "erklaerung": "Die Aufgabentypen wechseln ab."
+      "erklaerung": "Er kommt zum normalen Urlaub hinzu."
     },
     {
       "typ": "quiz",
-      "frage": "Warum hilft gemischtes Üben?",
+      "frage": "Wer regelt den Bildungsurlaub?",
       "art": "mc",
       "optionen": [
-        "Du lernst zu erkennen, welcher Lösungsweg passt",
-        "Es geht schneller",
-        "Es fühlt sich leichter an",
-        "Du brauchst keine Pausen"
+        "Die Bundesländer",
+        "Die Europäische Union",
+        "Jede Firma frei",
+        "Die Krankenkassen"
       ],
       "richtig": 0,
-      "erklaerung": "Das wird auch in Prüfungen verlangt."
+      "erklaerung": "Deshalb gibt es Unterschiede."
     },
     {
       "typ": "quiz",
-      "frage": "Gemischtes Üben fühlt sich meist leichter an als Üben in Blöcken.",
+      "frage": "In Bayern gibt es ein Gesetz zum Bildungsurlaub.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
       "richtig": 1,
-      "erklaerung": "Falsch. Es wirkt anstrengender, bringt aber oft mehr."
+      "erklaerung": "Falsch. Bayern und Sachsen haben kein solches Gesetz."
     },
     {
       "typ": "quiz",
-      "frage": "Wie kannst du neue Inhalte sinnvoll üben?",
+      "frage": "Was musst du bei der Kurswahl beachten?",
       "art": "mc",
       "optionen": [
-        "Erst kurz im Block, dann gemischt",
-        "Nur im Block",
-        "Nur einmal lesen",
-        "Gar nicht wiederholen"
+        "Der Kurs muss im Bundesland anerkannt sein",
+        "Er muss im Ausland stattfinden",
+        "Er muss mindestens ein Jahr dauern",
+        "Er muss kostenlos sein"
       ],
       "richtig": 0,
-      "erklaerung": "So kombinierst du beide Vorteile."
+      "erklaerung": "Anbieter weisen die Anerkennung meist aus."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Gemischtes Üben wechselt Aufgabentypen ab.",
-        "Es führt oft zu besseren Testergebnissen.",
-        "Du lernst, welcher Lösungsweg wann passt.",
-        "Es fühlt sich schwerer an, wirkt aber oft besser."
+        "Bildungsurlaub ist bezahlte Freistellung für Weiterbildung.",
+        "Die Bundesländer regeln ihn unterschiedlich.",
+        "Meist stehen fünf Tage pro Jahr zur Verfügung.",
+        "Bayern und Sachsen haben kein solches Gesetz."
       ]
     }
   ]

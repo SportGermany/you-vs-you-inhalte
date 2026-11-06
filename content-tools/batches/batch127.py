@@ -19,6 +19,7 @@ UBA = Q("Umwelttipps für den Alltag", "Umweltbundesamt", "https://www.umweltbun
 DERMA = Q("Hautgesundheit", "Deutsche Dermatologische Gesellschaft", "https://derma.de")
 NABU = Q("Tiere und Pflanzen", "NABU", "https://www.nabu.de")
 ESA = Q("Space Science", "Europäische Weltraumorganisation (ESA)", "https://www.esa.int")
+BMAS = Q("Arbeitsrecht", "Bundesministerium für Arbeit und Soziales", "https://www.bmas.de")
 APA = Q("Psychology Topics", "American Psychological Association", "https://www.apa.org")
 
 ZEIT = dict(zeitlos=False, gueltig_von="2026-01-01", gueltig_bis="2027-06-30")
@@ -737,38 +738,39 @@ L.append(lektion(
 # ---------------- Lernen und Gedächtnis ----------------
 
 L.append(lektion(
-    "lern-b127-01", "psychologie-gehirn", "lernen-gedaechtnis", "Warum hilft gemischtes Üben beim Lernen?", 3, 2, [APA],
-    ["interleaving", "ueben", "lernstrategie"],
-    ["Erst zwanzig Aufgaben zu Brüchen, dann zwanzig zu Prozenten: So üben viele.",
-     "Die Forschung deutet darauf hin, dass gemischtes Üben oft mehr bringt."],
-    [("Blöcke gegen Mischung",
-      ["Beim Üben in Blöcken bearbeitest du viele gleiche Aufgaben hintereinander. Beim gemischten Üben wechseln die Aufgabentypen ab.",
-       "In Studien mit Matheaufgaben schnitten Lernende mit gemischtem Üben im späteren Test oft besser ab. Auch beim Unterscheiden von Malstilen fand man solche Effekte."],
-      "Gemischtes Üben führt oft zu besseren Testergebnissen.", 2),
-     ("Warum es wirkt",
-      ["Beim gemischten Üben musst du jedes Mal erst erkennen, welche Art Aufgabe vor dir liegt. Genau das wird später in der Prüfung verlangt.",
-       "Du lernst also nicht nur den Lösungsweg, sondern auch, wann er passt. Wie groß der Vorteil ist, hängt aber vom Fach ab und ist teils noch unklar."],
-      None, 2),
-     ("Es fühlt sich schwerer an",
-      ["Gemischtes Üben wirkt anstrengender. Viele halten Blöcke deshalb für die bessere Methode.",
-       "Das Gefühl täuscht oft. Eine gewisse Anstrengung beim Lernen kann das Behalten fördern. Lerne neue Inhalte erst kurz im Block und mische dann."],
-      "Mühsameres Üben kann besser im Gedächtnis bleiben.", None)],
+    "lern-b127-01", "psychologie-gehirn", "lernen-gedaechtnis", "Was ist Bildungsurlaub?", 3, None, [BMAS],
+    ["bildungsurlaub", "weiterbildung", "gesetze"],
+    ["Ein Sprachkurs, ein Seminar zur Gesundheit oder politische Bildung, und der Arbeitgeber zahlt weiter dein Gehalt.",
+     "In den meisten Bundesländern ist das möglich: mit Bildungsurlaub."],
+    [("Bezahlte Zeit zum Lernen",
+      ["Bildungsurlaub ist eine bezahlte Freistellung von der Arbeit für anerkannte Weiterbildungen. Er kommt zusätzlich zum normalen Urlaub.",
+       "Geregelt ist er nicht bundesweit, sondern in Gesetzen der Bundesländer. Je nach Land heißt er auch Bildungszeit oder Bildungsfreistellung."],
+      "Bildungsurlaub ist bezahlte Freistellung für Weiterbildung.", None),
+     ("Unterschiede zwischen den Ländern",
+      ["In den meisten Ländern stehen Beschäftigten meist fünf Arbeitstage pro Jahr zu. Oft lassen sich zwei Jahre zusammenlegen.",
+       "Bayern und Sachsen haben kein solches Gesetz. Welche Kurse zählen, regelt jedes Land selbst. Oft gehören berufliche und politische Bildung dazu."],
+      None, None),
+     ("So gehst du vor",
+      ["Suche einen Kurs, der in deinem Bundesland als Bildungsurlaub anerkannt ist. Volkshochschulen und andere Anbieter weisen das meist aus.",
+       "Beantrage die Freistellung rechtzeitig schriftlich bei deinem Arbeitgeber. Die Fristen legt das jeweilige Landesgesetz fest, oft sind es einige Wochen."],
+      "Nur anerkannte Kurse zählen als Bildungsurlaub.", None)],
     None, None,
-    [("Was bedeutet gemischtes Üben?", "mc",
-      ["Verschiedene Aufgabentypen abwechseln", "Nur eine Aufgabe sehr oft lösen", "Gar nicht üben", "Nur Lösungen lesen"], 0,
-      "Die Aufgabentypen wechseln ab."),
-     ("Warum hilft gemischtes Üben?", "mc",
-      ["Du lernst zu erkennen, welcher Lösungsweg passt", "Es geht schneller", "Es fühlt sich leichter an", "Du brauchst keine Pausen"], 0,
-      "Das wird auch in Prüfungen verlangt."),
-     ("Gemischtes Üben fühlt sich meist leichter an als Üben in Blöcken.", "tf", None, 1,
-      "Falsch. Es wirkt anstrengender, bringt aber oft mehr."),
-     ("Wie kannst du neue Inhalte sinnvoll üben?", "mc",
-      ["Erst kurz im Block, dann gemischt", "Nur im Block", "Nur einmal lesen", "Gar nicht wiederholen"], 0,
-      "So kombinierst du beide Vorteile.")],
-    ["Gemischtes Üben wechselt Aufgabentypen ab.",
-     "Es führt oft zu besseren Testergebnissen.",
-     "Du lernst, welcher Lösungsweg wann passt.",
-     "Es fühlt sich schwerer an, wirkt aber oft besser."]
+    [("Was ist Bildungsurlaub?", "mc",
+      ["Bezahlte Freistellung für anerkannte Weiterbildung", "Unbezahlter Urlaub für Reisen", "Ein Schulfach", "Urlaub nur für Lehrkräfte"], 0,
+      "Er kommt zum normalen Urlaub hinzu."),
+     ("Wer regelt den Bildungsurlaub?", "mc",
+      ["Die Bundesländer", "Die Europäische Union", "Jede Firma frei", "Die Krankenkassen"], 0,
+      "Deshalb gibt es Unterschiede."),
+     ("In Bayern gibt es ein Gesetz zum Bildungsurlaub.", "tf", None, 1,
+      "Falsch. Bayern und Sachsen haben kein solches Gesetz."),
+     ("Was musst du bei der Kurswahl beachten?", "mc",
+      ["Der Kurs muss im Bundesland anerkannt sein", "Er muss im Ausland stattfinden", "Er muss mindestens ein Jahr dauern", "Er muss kostenlos sein"], 0,
+      "Anbieter weisen die Anerkennung meist aus.")],
+    ["Bildungsurlaub ist bezahlte Freistellung für Weiterbildung.",
+     "Die Bundesländer regeln ihn unterschiedlich.",
+     "Meist stehen fünf Tage pro Jahr zur Verfügung.",
+     "Bayern und Sachsen haben kein solches Gesetz."],
+    **ZEIT
 ))
 
 # ---------------- Motivation und Emotionen ----------------

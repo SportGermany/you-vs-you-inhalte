@@ -1,0 +1,122 @@
+{
+  "id": "haus-b129-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie trocknest du nasse Schuhe richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schuhe",
+    "trocknen",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Regenschauer, eine Pfütze, und die Schuhe sind durch.",
+        "Jetzt schnell auf die Heizung damit? Besser nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zeitungspapier statt Heizung",
+      "absaetze": [
+        "Nimm Einlegesohlen heraus und öffne die Schnürung weit. Stopfe die Schuhe locker mit Zeitungspapier aus und wechsle es nach einigen Stunden.",
+        "Das Papier saugt Feuchtigkeit auf und hält die Form. Lass die Schuhe dann bei Zimmertemperatur an einem luftigen Ort trocknen."
+      ],
+      "merke": "Zeitungspapier saugt Feuchtigkeit auf und hält die Form."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Hitze schadet",
+      "absaetze": [
+        "Auf der Heizung oder mit dem Föhn trocknen Schuhe zu schnell. Leder wird hart und rissig, Klebstoffe können sich lösen.",
+        "Auch Sohlen aus Gummi können sich verformen. Etwas Geduld schont die Schuhe, auch wenn es einen Tag dauert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Danach pflegen",
+      "absaetze": [
+        "Lederschuhe brauchen nach dem Trocknen Pflege. Eine passende Creme macht das Leder wieder geschmeidig. Wasserränder lassen sich oft mit einem feuchten Tuch angleichen.",
+        "Hast du öfter nasse Füße, lohnt ein zweites Paar zum Wechseln. Imprägnieren schützt vorab vor Nässe."
+      ],
+      "merke": "Leder nach dem Trocknen pflegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit trocknest du nasse Schuhe schonend?",
+      "art": "mc",
+      "optionen": [
+        "Mit Zeitungspapier bei Zimmertemperatur",
+        "Auf der heißen Heizung",
+        "Im Backofen",
+        "Mit dem Föhn auf höchster Stufe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Papier saugt Feuchtigkeit auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hitze macht Leder weich und geschmeidig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Leder wird durch Hitze hart und rissig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Trocknen herausnehmen?",
+      "art": "mc",
+      "optionen": [
+        "Die Einlegesohlen",
+        "Die Absätze",
+        "Die Nähte",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So trocknet alles schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt Schuhe vorab vor Nässe?",
+      "art": "mc",
+      "optionen": [
+        "Imprägnieren",
+        "Salz",
+        "Kaltes Wasser",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Imprägnierspray hält Wasser ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einlegesohlen herausnehmen und Schuhe ausstopfen.",
+        "Bei Zimmertemperatur trocknen lassen.",
+        "Heizung und Föhn schaden dem Material.",
+        "Leder danach pflegen."
+      ]
+    }
+  ]
+}

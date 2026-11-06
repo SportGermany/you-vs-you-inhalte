@@ -1,0 +1,140 @@
+{
+  "id": "supp-b129-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Nachtkerzenöl-Kapseln zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nachtkerzenoel",
+    "neurodermitis",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachtkerzenöl wird für trockene Haut, Neurodermitis und Beschwerden vor der Periode angepriesen.",
+        "Was sagen die Studien?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Das Öl wird aus den Samen der Nachtkerze gepresst. Es enthält die Fettsäure Gamma-Linolensäure.",
+        "Ihr wird eine entzündungshemmende Wirkung zugeschrieben. Deshalb wurde Nachtkerzenöl früher sogar als Arzneimittel bei Neurodermitis eingesetzt."
+      ],
+      "merke": "Nachtkerzenöl enthält Gamma-Linolensäure."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Große Übersichtsarbeiten fanden bei Neurodermitis keinen klaren Nutzen von Kapseln mit Nachtkerzenöl.",
+        "Auch bei Beschwerden vor der Periode und in den Wechseljahren ist die Wirkung unklar. Äußerlich in Cremes kann das Öl die Haut pflegen wie andere Öle auch."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nebenwirkungen",
+      "absaetze": [
+        "Möglich sind Magen-Darm-Beschwerden und Kopfschmerzen. Das Öl könnte die Blutgerinnung beeinflussen.",
+        "Wer Blutverdünner bekommt oder eine Operation vor sich hat, sollte das ärztlich besprechen. Bei Neurodermitis gibt es gut untersuchte Behandlungen."
+      ],
+      "merke": "Bei Neurodermitis auf gut untersuchte Behandlungen setzen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Mit blutverdünnenden Medikamenten nur nach ärztlicher Rücksprache verwenden.",
+        "Vor Operationen Ärztin oder Arzt über die Kapseln informieren.",
+        "Neurodermitis gehört in ärztliche Behandlung, Kapseln ersetzen sie nicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäure steckt in Nachtkerzenöl?",
+      "art": "mc",
+      "optionen": [
+        "Gamma-Linolensäure",
+        "Omega-3 aus Fisch",
+        "Transfett",
+        "Buttersäure"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihr wird eine entzündungshemmende Wirkung zugeschrieben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Große Übersichtsarbeiten zeigten einen klaren Nutzen bei Neurodermitis.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein klarer Nutzen fand sich nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Nachtkerzenöl möglicherweise beeinflussen?",
+      "art": "mc",
+      "optionen": [
+        "Die Blutgerinnung",
+        "Die Augenfarbe",
+        "Die Körpergröße",
+        "Das Gehör"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb Vorsicht mit Blutverdünnern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür kann Nachtkerzenöl äußerlich sinnvoll sein?",
+      "art": "mc",
+      "optionen": [
+        "Zur Hautpflege wie andere Öle",
+        "Gegen Knochenbrüche",
+        "Gegen Erkältung",
+        "Zum Abnehmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es pflegt trockene Haut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachtkerzenöl enthält Gamma-Linolensäure.",
+        "Bei Neurodermitis fand sich kein klarer Nutzen.",
+        "Bei Periodenbeschwerden ist die Wirkung unklar.",
+        "Mit Blutverdünnern ärztlich abstimmen."
+      ]
+    }
+  ]
+}

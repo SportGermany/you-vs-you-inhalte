@@ -1,0 +1,128 @@
+{
+  "id": "tech-b129-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Ultraschallgerät?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ultraschall",
+    "medizintechnik",
+    "schall"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das erste Bild eines Babys im Bauch, die Untersuchung der Schilddrüse: Ultraschall gehört zum Praxisalltag.",
+        "Aber wie entsteht aus Schall ein Bild?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schall, den wir nicht hören",
+      "absaetze": [
+        "Ultraschall ist Schall mit so hoher Frequenz, dass Menschen ihn nicht hören können. Fledermäuse und Delfine nutzen ihn zur Orientierung.",
+        "Im Schallkopf des Geräts sitzen Kristalle. Unter Strom schwingen sie und senden kurze Schallimpulse in den Körper."
+      ],
+      "merke": "Ultraschall ist für Menschen unhörbar hoher Schall."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Echos werden zum Bild",
+      "absaetze": [
+        "An Grenzen zwischen Geweben wird ein Teil des Schalls zurückgeworfen. Der Schallkopf fängt diese Echos auf.",
+        "Der Computer berechnet aus der Laufzeit, wie tief die Grenze liegt. So entsteht in Echtzeit ein Schnittbild. Das Gel verhindert, dass Luft den Schall schluckt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohne Strahlung",
+      "absaetze": [
+        "Ultraschall arbeitet ohne Röntgenstrahlung. Deshalb wird er auch in der Schwangerschaft eingesetzt.",
+        "Mit dem Doppler-Verfahren lässt sich sogar Blutfluss sichtbar machen. Knochen und luftgefüllte Organe wie die Lunge kann Ultraschall dagegen kaum durchdringen."
+      ],
+      "merke": "Ultraschall arbeitet ohne Röntgenstrahlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Ultraschall?",
+      "art": "mc",
+      "optionen": [
+        "Schall, der für Menschen zu hoch ist",
+        "Ein besonders lauter Knall",
+        "Eine Form von Licht",
+        "Röntgenstrahlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fledermäuse nutzen ihn zur Orientierung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient das Gel bei der Untersuchung?",
+      "art": "mc",
+      "optionen": [
+        "Es verhindert, dass Luft den Schall schluckt",
+        "Es kühlt den Schallkopf",
+        "Es färbt das Bild",
+        "Es betäubt die Haut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Luft würde den Schall stark abschwächen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ultraschall arbeitet mit Röntgenstrahlung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er nutzt Schallwellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Ultraschall kaum durchdringen?",
+      "art": "mc",
+      "optionen": [
+        "Knochen und luftgefüllte Organe",
+        "Muskeln",
+        "Fettgewebe",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb eignet er sich nicht für alle Organe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ultraschall ist unhörbar hoher Schall.",
+        "Echos von Gewebegrenzen werden zu einem Bild.",
+        "Er arbeitet ohne Röntgenstrahlung.",
+        "Knochen und Luft kann er kaum durchdringen."
+      ]
+    }
+  ]
+}

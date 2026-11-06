@@ -1,0 +1,128 @@
+{
+  "id": "all-b129-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum schweben Astronauten in der Raumstation?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schwerelosigkeit",
+    "raumstation",
+    "schwerkraft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf Videos aus der Raumstation schweben Menschen, Wassertropfen und Werkzeug durch den Raum.",
+        "Gibt es dort oben etwa keine Schwerkraft?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schwerkraft ist noch da",
+      "absaetze": [
+        "Die Internationale Raumstation fliegt in rund 400 Kilometern Höhe. Dort wirkt immer noch etwa 90 Prozent der Erdanziehung.",
+        "Ohne Schwerkraft würde die Station geradeaus ins All davonfliegen. Die Anziehung der Erde hält sie auf ihrer Bahn."
+      ],
+      "merke": "In der Raumstation wirkt noch etwa 90 Prozent der Erdanziehung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein ewiger freier Fall",
+      "absaetze": [
+        "Die Station und alles darin fällt ständig Richtung Erde. Weil sie aber sehr schnell seitlich fliegt, fällt sie immer um die Erde herum.",
+        "Da alles gleich schnell fällt, schwebt alles relativ zueinander. Fachleute sprechen deshalb lieber von Mikrogravitation statt von Schwerelosigkeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen für den Körper",
+      "absaetze": [
+        "Ohne Belastung bauen Muskeln und Knochen ab. Astronauten trainieren deshalb täglich etwa zwei Stunden an speziellen Geräten.",
+        "Auf der Erde lässt sich Schwerelosigkeit kurz in Parabelflügen erleben. Dabei fällt ein Flugzeug für jeweils gut 20 Sekunden frei."
+      ],
+      "merke": "Astronauten trainieren täglich gegen Muskel- und Knochenabbau."
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Im Weltall gibt es keine Schwerkraft.",
+      "urteil": "mythos",
+      "erklaerung": "Falsch. Schwerkraft wirkt überall. Astronauten schweben, weil sie sich im freien Fall befinden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Erdanziehung wirkt in der Höhe der Raumstation noch?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 90 Prozent",
+        "Gar keine",
+        "Etwa 1 Prozent",
+        "Doppelt so viel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Station ist nur rund 400 Kilometer hoch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schweben Astronauten?",
+      "art": "mc",
+      "optionen": [
+        "Sie befinden sich mit der Station im freien Fall",
+        "Die Station hat Magnete",
+        "Es gibt dort keine Luft",
+        "Sie tragen Ballons"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alles fällt gleich schnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohne Training bauen Muskeln und Knochen im All ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb trainieren Astronauten täglich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kann man Schwerelosigkeit auf der Erde kurz erleben?",
+      "art": "mc",
+      "optionen": [
+        "Bei einem Parabelflug",
+        "In einem Aufzug im Stillstand",
+        "Beim Tauchen in der Badewanne",
+        "Auf einem Berg"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Flugzeug fällt dabei kurz frei."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Auch in der Raumstation wirkt Schwerkraft.",
+        "Astronauten schweben, weil sie ständig um die Erde fallen.",
+        "Muskeln und Knochen bauen ohne Training ab.",
+        "Parabelflüge simulieren kurz Schwerelosigkeit."
+      ]
+    }
+  ]
+}

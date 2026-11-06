@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b129-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie hängen Schlaf und Blutzucker zusammen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blutzucker",
+    "diabetes",
+    "schlafmangel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer kurzen Nacht greifst du eher zu Süßem.",
+        "Doch Schlafmangel beeinflusst den Zuckerstoffwechsel auch direkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger Schlaf, schlechtere Verwertung",
+      "absaetze": [
+        "In Studien bekamen gesunde Menschen einige Nächte lang zu wenig Schlaf. Danach reagierte ihr Körper schlechter auf das Hormon Insulin.",
+        "Der Blutzucker blieb nach dem Essen länger erhöht. Nach erholsamen Nächten normalisierte sich das wieder."
+      ],
+      "merke": "Schon wenige kurze Nächte verschlechtern die Insulinwirkung.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Risiko auf Dauer",
+      "absaetze": [
+        "Beobachtungsstudien zeigen: Wer dauerhaft sehr wenig schläft, erkrankt häufiger an Typ-2-Diabetes. Auch Schichtarbeit hängt mit einem höheren Risiko zusammen.",
+        "Ob der Schlaf allein die Ursache ist, lässt sich schwer trennen. Ernährung, Bewegung und Gewicht spielen ebenfalls hinein."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlafapnoe und Diabetes",
+      "absaetze": [
+        "Atemaussetzer im Schlaf stressen den Körper und können den Zuckerstoffwechsel stören. Viele Menschen mit Typ-2-Diabetes haben zugleich eine Schlafapnoe.",
+        "Lautes Schnarchen mit Pausen und starke Tagesmüdigkeit sollten ärztlich abgeklärt werden. Menschen mit Diabetes sollten nächtliche Unterzuckerungen ernst nehmen."
+      ],
+      "merke": "Schnarchen mit Atemaussetzern ärztlich abklären lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Schlafmangel kurzfristig auf Insulin?",
+      "art": "mc",
+      "optionen": [
+        "Der Körper reagiert schlechter darauf",
+        "Insulin wirkt doppelt so stark",
+        "Gar nicht",
+        "Insulin wird überflüssig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Blutzucker bleibt länger erhöht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer dauerhaft sehr wenig schläft, erkrankt häufiger an Typ-2-Diabetes.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das zeigen Beobachtungsstudien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schlafstörung tritt oft zusammen mit Typ-2-Diabetes auf?",
+      "art": "mc",
+      "optionen": [
+        "Schlafapnoe",
+        "Schlafwandeln",
+        "Sprechen im Schlaf",
+        "Klarträume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Atemaussetzer stressen den Körper."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert nach erholsamen Nächten?",
+      "art": "mc",
+      "optionen": [
+        "Die Insulinwirkung normalisiert sich wieder",
+        "Der Blutzucker steigt dauerhaft",
+        "Nichts ändert sich",
+        "Man wird zuckerkrank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die kurzfristigen Effekte sind umkehrbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafmangel verschlechtert die Insulinwirkung.",
+        "Dauerhaft kurzer Schlaf hängt mit Typ-2-Diabetes zusammen.",
+        "Schlafapnoe tritt oft mit Diabetes auf.",
+        "Ausreichend Schlaf unterstützt den Zuckerstoffwechsel."
+      ]
+    }
+  ]
+}
