@@ -1,0 +1,124 @@
+{
+  "id": "ern-b132-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was sind Einkorn und Emmer?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "urgetreide",
+    "einkorn",
+    "emmer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Bioladen liegen Brot und Nudeln aus Einkorn und Emmer.",
+        "Diese Getreide sind uralt und erleben gerade ein Comeback."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Vorfahren des Weizens",
+      "absaetze": [
+        "Einkorn und Emmer gehören zu den ersten Getreiden, die Menschen angebaut haben. Das begann vor rund 10.000 Jahren im Fruchtbaren Halbmond im Nahen Osten.",
+        "Aus ihnen sind später andere Weizenarten hervorgegangen. Emmer gilt als Vorfahr des Hartweizens, aus dem Nudeln gemacht werden."
+      ],
+      "merke": "Einkorn und Emmer zählen zu den ältesten Getreiden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie ausmacht",
+      "absaetze": [
+        "Einkorn hat oft ein gelbliches Mehl. Das liegt an Farbstoffen wie Lutein. Emmer schmeckt kräftig und leicht nussig.",
+        "Beide bringen weniger Ertrag als moderner Weizen. Deshalb sind sie teurer und wurden lange kaum angebaut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht glutenfrei",
+      "absaetze": [
+        "Einkorn und Emmer enthalten Gluten. Für Menschen mit Zöliakie sind sie nicht geeignet.",
+        "Manche Menschen berichten, Urgetreide besser zu vertragen. Ob das an der Getreideart oder an der Verarbeitung liegt, etwa langer Teigführung, ist noch unklar."
+      ],
+      "merke": "Einkorn und Emmer enthalten Gluten.",
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann begann der Anbau von Einkorn und Emmer?",
+      "art": "mc",
+      "optionen": [
+        "Vor rund 10.000 Jahren",
+        "Vor 200 Jahren",
+        "Im Mittelalter",
+        "Im 20. Jahrhundert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Fruchtbaren Halbmond."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Weizenart stammt vom Emmer ab?",
+      "art": "mc",
+      "optionen": [
+        "Hartweizen",
+        "Mais",
+        "Reis",
+        "Hafer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Aus Hartweizen werden Nudeln gemacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einkorn ist glutenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Einkorn enthält Gluten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Einkorn und Emmer teurer?",
+      "art": "mc",
+      "optionen": [
+        "Sie bringen weniger Ertrag",
+        "Sie wachsen nur im Ausland",
+        "Sie sind besteuert",
+        "Sie sind künstlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb wurden sie lange kaum angebaut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Einkorn und Emmer sind Urgetreide.",
+        "Sie wurden vor rund 10.000 Jahren angebaut.",
+        "Sie bringen weniger Ertrag als moderner Weizen.",
+        "Beide enthalten Gluten."
+      ]
+    }
+  ]
+}

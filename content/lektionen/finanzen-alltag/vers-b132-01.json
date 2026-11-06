@@ -1,0 +1,128 @@
+{
+  "id": "vers-b132-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Worauf achtest du beim Handyvertrag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher Telekommunikation",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "handyvertrag",
+    "mobilfunk",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Neues Smartphone für einen Euro, dazu ein Vertrag mit viel Datenvolumen.",
+        "Klingt verlockend, kann aber teuer werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Laufzeit und Kündigung",
+      "absaetze": [
+        "Handyverträge dürfen höchstens 24 Monate Mindestlaufzeit haben. Anbieter müssen auch einen Vertrag mit höchstens zwölf Monaten Laufzeit anbieten.",
+        "Nach Ablauf der Mindestlaufzeit kannst du seit Ende 2021 jederzeit mit einer Frist von einem Monat kündigen. Eine automatische Verlängerung um ein ganzes Jahr ist nicht mehr erlaubt."
+      ],
+      "merke": "Nach der Mindestlaufzeit ist der Vertrag monatlich kündbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Handy ist nicht geschenkt",
+      "absaetze": [
+        "Ein Smartphone für einen Euro ist meist über einen höheren Monatspreis finanziert. Rechne alle Kosten über die Laufzeit zusammen und vergleiche mit dem Kaufpreis des Geräts.",
+        "Vor Vertragsschluss bekommst du eine Vertragszusammenfassung. Sie zeigt Preise, Laufzeit und Leistungen auf einen Blick."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Passt der Tarif?",
+      "absaetze": [
+        "Prüfe in den Einstellungen deines Handys, wie viel Datenvolumen du wirklich brauchst. Viele zahlen für mehr, als sie nutzen.",
+        "Prepaid-Tarife oder Verträge ohne Laufzeit sind oft flexibler. Achte bei sehr günstigen Angeboten auf die Netzabdeckung an deinem Wohnort."
+      ],
+      "merke": "Rechne die Gesamtkosten über die ganze Laufzeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lang darf die Mindestlaufzeit eines Handyvertrags höchstens sein?",
+      "art": "mc",
+      "optionen": [
+        "24 Monate",
+        "36 Monate",
+        "Fünf Jahre",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Anbieter müssen auch kürzere Verträge anbieten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du nach Ablauf der Mindestlaufzeit kündigen?",
+      "art": "mc",
+      "optionen": [
+        "Jederzeit mit einem Monat Frist",
+        "Nur einmal im Jahr",
+        "Gar nicht",
+        "Nur mit Anwalt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt seit Ende 2021."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Handy für einen Euro im Vertrag ist wirklich fast geschenkt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es wird meist über den Monatspreis finanziert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt dir die Vertragszusammenfassung?",
+      "art": "mc",
+      "optionen": [
+        "Preise, Laufzeit und Leistungen",
+        "Deine Schufa-Daten",
+        "Die Handynummern deiner Freunde",
+        "Die Wettervorhersage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du bekommst sie vor Vertragsschluss."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Handyverträge laufen höchstens 24 Monate.",
+        "Danach sind sie monatlich kündbar.",
+        "Rechne die Gesamtkosten über die Laufzeit.",
+        "Prüfe, wie viel Datenvolumen du wirklich brauchst."
+      ]
+    }
+  ]
+}

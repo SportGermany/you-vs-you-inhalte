@@ -1,0 +1,124 @@
+{
+  "id": "lern-b132-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Was zeigt der Stroop-Test?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stroop-effekt",
+    "aufmerksamkeit",
+    "lesen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Wort Rot steht in grüner Schrift auf dem Bildschirm. Deine Aufgabe: die Farbe der Schrift nennen.",
+        "Das ist erstaunlich schwer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Konflikt im Kopf",
+      "absaetze": [
+        "Beim Stroop-Test sollen Versuchspersonen die Schriftfarbe von Farbwörtern nennen. Passen Wort und Farbe nicht zusammen, werden sie langsamer und machen mehr Fehler.",
+        "Benannt ist der Test nach dem Psychologen John Ridley Stroop. Er beschrieb den Effekt 1935."
+      ],
+      "merke": "Passen Wort und Schriftfarbe nicht zusammen, wird es schwer.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lesen läuft automatisch",
+      "absaetze": [
+        "Geübte Leser können ein Wort kaum nicht lesen. Das Lesen läuft automatisch ab und drängt sich vor.",
+        "Um trotzdem die Farbe zu nennen, muss das Gehirn die automatische Antwort unterdrücken. Das kostet Zeit und Konzentration."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür er genutzt wird",
+      "absaetze": [
+        "Der Test wird in der Forschung eingesetzt, um Aufmerksamkeit und Selbstkontrolle zu untersuchen. Auch in der Diagnostik spielt er eine Rolle.",
+        "Er zeigt etwas Wichtiges übers Lernen: Was oft geübt wurde, läuft automatisch. Gewohnte Abläufe zu ändern, erfordert deshalb bewusste Anstrengung."
+      ],
+      "merke": "Gut Geübtes läuft automatisch und ist schwer zu unterdrücken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sollen Versuchspersonen beim Stroop-Test nennen?",
+      "art": "mc",
+      "optionen": [
+        "Die Schriftfarbe der Wörter",
+        "Die Anzahl der Buchstaben",
+        "Das Wort rückwärts",
+        "Ein Reimwort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Wort selbst ist ein Farbname."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird die Aufgabe schwer?",
+      "art": "mc",
+      "optionen": [
+        "Wenn Wort und Schriftfarbe nicht zusammenpassen",
+        "Wenn alles schwarz ist",
+        "Wenn die Schrift groß ist",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann entsteht ein Konflikt im Kopf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geübte Leser können ein Wort leicht ignorieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Lesen läuft automatisch ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt der Test übers Lernen?",
+      "art": "mc",
+      "optionen": [
+        "Gut Geübtes läuft automatisch ab",
+        "Lesen ist unwichtig",
+        "Farben lernt man nie",
+        "Übung bringt nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gewohntes zu ändern, braucht Anstrengung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Stroop-Test wird die Schriftfarbe genannt.",
+        "Widersprechen sich Wort und Farbe, wird es schwer.",
+        "Lesen läuft bei Geübten automatisch.",
+        "Gewohntes zu unterdrücken, kostet Konzentration."
+      ]
+    }
+  ]
+}

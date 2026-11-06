@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b132-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du nach einer Nachtschicht am Tag gut?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schichtarbeit",
+    "tagschlaf",
+    "nachtschicht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach der Nachtschicht bist du todmüde. Doch draußen ist es hell, die Nachbarn mähen Rasen.",
+        "Mit ein paar Kniffen gelingt der Schlaf am Tag besser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dunkel, ruhig und kühl",
+      "absaetze": [
+        "Licht ist das stärkste Signal für die innere Uhr. Verdunkle das Schlafzimmer so gut wie möglich, etwa mit Rollläden oder einer Schlafmaske.",
+        "Ohrstöpsel dämpfen Lärm von draußen. Ein kühles Zimmer erleichtert das Einschlafen auch am Tag."
+      ],
+      "merke": "Verdunkle das Schlafzimmer so gut wie möglich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Heimweg zählt",
+      "absaetze": [
+        "Helles Morgenlicht auf dem Heimweg signalisiert dem Körper: Der Tag beginnt. Eine Sonnenbrille kann das abmildern.",
+        "Geh nach der Ankunft möglichst bald schlafen. Ein großes Frühstück und Kaffee gegen Ende der Schicht machen das schwerer."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feste Abläufe",
+      "absaetze": [
+        "Ein möglichst fester Schlafblock nach jeder Nachtschicht hilft dem Körper. Manchen tut zusätzlich ein kurzer Schlaf vor der nächsten Schicht gut.",
+        "Sprich mit Familie und Mitbewohnern über deine Ruhezeiten. Anhaltende Schlafprobleme durch Schichtarbeit gehören ärztlich besprochen."
+      ],
+      "merke": "Sprich deine Ruhezeiten mit Familie und Mitbewohnern ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das stärkste Signal für die innere Uhr?",
+      "art": "mc",
+      "optionen": [
+        "Licht",
+        "Musik",
+        "Essen allein",
+        "Kälte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb hilft Verdunkeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu kann eine Sonnenbrille auf dem Heimweg dienen?",
+      "art": "mc",
+      "optionen": [
+        "Sie mildert das wachmachende Morgenlicht",
+        "Sie macht schneller",
+        "Sie wärmt die Augen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt der Körper eher im Schlafmodus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kaffee gegen Ende der Nachtschicht erleichtert den Tagschlaf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kann das Einschlafen danach erschweren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft zusätzlich gegen Störungen?",
+      "art": "mc",
+      "optionen": [
+        "Ruhezeiten mit Familie absprechen",
+        "Das Handy laut stellen",
+        "Bei offener Tür schlafen",
+        "Viel Licht ins Zimmer lassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wirst du seltener geweckt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Verdunkle das Schlafzimmer gut.",
+        "Ohrstöpsel und ein kühles Zimmer helfen.",
+        "Morgenlicht auf dem Heimweg abmildern.",
+        "Ruhezeiten mit anderen absprechen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "stoff-b132-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was hilft bei einem Magen-Darm-Infekt?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Infektionskrankheiten A bis Z",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "magen-darm",
+    "norovirus",
+    "fluessigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich Übelkeit, Erbrechen und Durchfall: Ein Magen-Darm-Infekt kann einen regelrecht umhauen.",
+        "Meist ist er nach wenigen Tagen vorbei. Bis dahin kommt es auf ein paar Dinge an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Meist sind es Viren",
+      "absaetze": [
+        "Häufige Auslöser sind Viren wie Noroviren oder Rotaviren. Sie sind sehr ansteckend und verbreiten sich über Hände, Oberflächen und Lebensmittel.",
+        "Gründliches Händewaschen mit Seife ist der wichtigste Schutz. Für Noroviren braucht es spezielle Desinfektionsmittel, die gegen diese Viren wirken."
+      ],
+      "merke": "Händewaschen ist der wichtigste Schutz vor Ansteckung.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Flüssigkeit ersetzen",
+      "absaetze": [
+        "Durch Erbrechen und Durchfall verliert der Körper viel Wasser und Salze. Trink deshalb häufig kleine Mengen.",
+        "Gut geeignet sind Wasser, Tee und Lösungen aus der Apotheke, die Salze und Zucker im passenden Verhältnis enthalten. Sobald du Appetit hast, darfst du leicht verdauliche Kost essen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann ärztliche Hilfe nötig ist",
+      "absaetze": [
+        "Bei Blut im Stuhl, hohem Fieber oder starken Bauchschmerzen solltest du ärztlich abklären lassen. Das gilt auch, wenn die Beschwerden mehrere Tage anhalten.",
+        "Säuglinge, Kleinkinder und alte Menschen trocknen schnell aus. Anzeichen sind wenig Urin, Benommenheit und trockene Schleimhäute."
+      ],
+      "merke": "Kleine Kinder und alte Menschen trocknen schnell aus."
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Cola und Salzstangen sind das richtige Hausmittel bei Durchfall.",
+      "urteil": "mythos",
+      "erklaerung": "Nicht ganz. Cola enthält viel Zucker und wenig von den nötigen Salzen. Lösungen aus der Apotheke sind besser zusammengesetzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind häufige Auslöser von Magen-Darm-Infekten?",
+      "art": "mc",
+      "optionen": [
+        "Viren wie Noroviren",
+        "Zu viel Gemüse",
+        "Kalte Füße",
+        "Zu wenig Schlaf allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind sehr ansteckend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der wichtigste Schutz vor Ansteckung?",
+      "art": "mc",
+      "optionen": [
+        "Gründliches Händewaschen",
+        "Viel Kaffee",
+        "Warme Socken",
+        "Ein Mundschutz beim Essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Viren verbreiten sich über die Hände."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Cola ist ideal zum Ersetzen der verlorenen Salze.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie enthält viel Zucker und wenig Salze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer trocknet bei Durchfall besonders schnell aus?",
+      "art": "mc",
+      "optionen": [
+        "Kleinkinder und alte Menschen",
+        "Nur Sportler",
+        "Nur Jugendliche",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Achte bei ihnen besonders auf Warnzeichen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Magen-Darm-Infekte werden oft von Viren ausgelöst.",
+        "Händewaschen schützt vor Ansteckung.",
+        "Häufig kleine Mengen trinken und Salze ersetzen.",
+        "Bei Warnzeichen ärztliche Hilfe suchen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

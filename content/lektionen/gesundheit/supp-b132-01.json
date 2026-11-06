@@ -1,0 +1,140 @@
+{
+  "id": "supp-b132-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Sulforaphan-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sulforaphan",
+    "brokkoli",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Stoff aus Brokkoli wird in Kapseln als Zellschutz und Entgiftungshilfe beworben.",
+        "Was weiß man über Sulforaphan?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Sulforaphan entsteht",
+      "absaetze": [
+        "In Brokkoli und anderen Kohlsorten steckt eine Vorstufe namens Glucoraphanin. Erst beim Kauen oder Schneiden wandelt ein Enzym sie in Sulforaphan um.",
+        "Besonders viel der Vorstufe enthalten junge Brokkolisprossen. Starkes Kochen kann das Enzym zerstören."
+      ],
+      "merke": "Sulforaphan entsteht beim Zerkleinern von Kohlgemüse."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In Laborversuchen und Tierstudien zeigte Sulforaphan schützende Effekte auf Zellen. Daraus entstand die Hoffnung auf Schutz vor Krebs und anderen Krankheiten.",
+        "Studien am Menschen sind bisher klein und uneinheitlich. Ob Kapseln gesundheitlich etwas bringen, ist unklar."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lieber auf den Teller",
+      "absaetze": [
+        "Kohlgemüse wie Brokkoli, Rosenkohl oder Rucola liefert Sulforaphan zusammen mit Ballaststoffen und Vitaminen. Kurz gedünstet oder roh bleibt mehr davon erhalten.",
+        "Rohe Sprossen können Keime enthalten. Für Schwangere, Kinder und Menschen mit schwachem Immunsystem sind sie deshalb weniger geeignet."
+      ],
+      "merke": "Kohlgemüse liefert Sulforaphan mit vielen weiteren Nährstoffen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Für Schwangerschaft und Stillzeit fehlen Daten zur Sicherheit von Präparaten.",
+        "Bei Medikamenten oder Schilddrüsenerkrankungen vorher ärztlich Rücksprache halten.",
+        "Rohe Sprossen können Keime enthalten, besonders für Schwangere und Kinder ungeeignet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht Sulforaphan?",
+      "art": "mc",
+      "optionen": [
+        "Beim Kauen oder Schneiden von Kohlgemüse",
+        "Beim Einfrieren",
+        "Beim Salzen",
+        "Gar nicht von selbst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Enzym wandelt die Vorstufe um."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Brokkoliform enthält besonders viel der Vorstufe?",
+      "art": "mc",
+      "optionen": [
+        "Junge Brokkolisprossen",
+        "Alte Stängel",
+        "Getrocknetes Pulver aus dem Garten",
+        "Brokkolisaft aus Konzentrat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sprossen sind sehr reich daran."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist gut belegt, dass Sulforaphan-Kapseln vor Krebs schützen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Studien am Menschen sind klein und uneinheitlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine gute Alternative zu Kapseln?",
+      "art": "mc",
+      "optionen": [
+        "Regelmäßig Kohlgemüse essen",
+        "Mehr Zucker essen",
+        "Gar kein Gemüse",
+        "Nur Säfte trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es liefert zusätzlich Ballaststoffe und Vitamine."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sulforaphan stammt aus Kohlgemüse wie Brokkoli.",
+        "Es entsteht beim Zerkleinern.",
+        "Ein Nutzen von Kapseln ist beim Menschen unklar.",
+        "Kohlgemüse auf dem Teller ist die bessere Wahl."
+      ]
+    }
+  ]
+}

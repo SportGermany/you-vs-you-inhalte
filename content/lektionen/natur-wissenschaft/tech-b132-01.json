@@ -1,0 +1,128 @@
+{
+  "id": "tech-b132-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie findet ein Mähroboter seinen Weg?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Garten und Natur",
+      "herausgeber": "NABU",
+      "url": "https://www.nabu.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "maehroboter",
+    "garten",
+    "igel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Leise surrend fährt er über den Rasen, ganz ohne Mensch am Steuer.",
+        "Woher weiß ein Mähroboter, wo er mähen soll?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen aus Draht oder Satellit",
+      "absaetze": [
+        "Viele Mähroboter orientieren sich an einem Begrenzungsdraht, der um die Rasenfläche verlegt wird. Durch den Draht fließt ein schwacher Strom, den Sensoren im Gerät erkennen.",
+        "Neuere Modelle arbeiten ohne Draht. Sie nutzen satellitengestützte Ortung mit einer Referenzstation im Garten oder Kameras."
+      ],
+      "merke": "Ein Begrenzungsdraht oder Satellitenortung zeigt die Grenzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mähen in kleinen Schritten",
+      "absaetze": [
+        "Die Messer sind klein und schneiden nur wenige Millimeter ab. Der Roboter fährt dafür fast täglich.",
+        "Das feine Schnittgut bleibt liegen und dient als Dünger. Sensoren erkennen Hindernisse oder Anheben und stoppen die Messer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr für Igel",
+      "absaetze": [
+        "Igel sind nachts unterwegs und rollen sich bei Gefahr ein, statt zu flüchten. Mähroboter erkennen sie oft nicht und können sie schwer verletzen.",
+        "Lass den Roboter deshalb nur tagsüber laufen. Einige Städte haben den Betrieb in der Nacht bereits untersagt."
+      ],
+      "merke": "Mähroboter nur tagsüber fahren lassen, um Igel zu schützen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran orientieren sich viele Mähroboter?",
+      "art": "mc",
+      "optionen": [
+        "An einem Begrenzungsdraht",
+        "An Musik",
+        "Am Geruch des Grases",
+        "An Sternen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Durch ihn fließt ein schwacher Strom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit dem Schnittgut?",
+      "art": "mc",
+      "optionen": [
+        "Es bleibt liegen und düngt den Rasen",
+        "Es wird gesammelt und verbrannt",
+        "Es wird verkauft",
+        "Es verschwindet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist sehr fein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mähroboter erkennen Igel immer zuverlässig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Igel rollen sich ein und werden oft nicht erkannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollte ein Mähroboter laufen?",
+      "art": "mc",
+      "optionen": [
+        "Nur tagsüber",
+        "Nur nachts",
+        "Rund um die Uhr",
+        "Nur bei Regen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nachts sind Igel unterwegs."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mähroboter folgen einem Draht oder Satellitensignalen.",
+        "Sie schneiden täglich kleine Mengen ab.",
+        "Das Schnittgut düngt den Rasen.",
+        "Zum Schutz von Igeln nur tagsüber mähen."
+      ]
+    }
+  ]
+}

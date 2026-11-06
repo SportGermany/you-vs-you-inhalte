@@ -1,0 +1,122 @@
+{
+  "id": "all-b132-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist die kosmische Hintergrundstrahlung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hintergrundstrahlung",
+    "urknall",
+    "kosmologie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wohin man auch schaut, aus allen Richtungen des Himmels kommt ein schwaches Leuchten.",
+        "Es ist das älteste Licht, das wir sehen können."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Nachglühen des Urknalls",
+      "absaetze": [
+        "Kurz nach dem Urknall war das Universum heiß und undurchsichtig. Etwa 380.000 Jahre später kühlte es so weit ab, dass sich Licht frei ausbreiten konnte.",
+        "Dieses Licht ist bis heute unterwegs. Durch die Ausdehnung des Weltalls ist es aber stark gestreckt und erreicht uns als Mikrowellenstrahlung."
+      ],
+      "merke": "Die Hintergrundstrahlung ist das älteste Licht im Universum."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Entdeckung durch Zufall",
+      "absaetze": [
+        "1965 bemerkten die Radioastronomen Arno Penzias und Robert Wilson ein Rauschen, das sie nicht wegbekamen. Sie verdächtigten sogar Taubenkot auf ihrer Antenne.",
+        "Tatsächlich hatten sie die Hintergrundstrahlung entdeckt. Dafür erhielten sie 1978 den Nobelpreis für Physik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie verrät",
+      "absaetze": [
+        "Die Strahlung entspricht einer Temperatur von nur knapp drei Grad über dem absoluten Nullpunkt. Sie ist fast überall gleich stark.",
+        "Winzige Unterschiede wurden von Satelliten wie Planck der ESA genau vermessen. Sie zeigen, wo sich später Galaxien gebildet haben, und stützen die Urknalltheorie."
+      ],
+      "merke": "Winzige Unterschiede zeigen, wo später Galaxien entstanden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde das Universum durchsichtig für Licht?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 380.000 Jahre nach dem Urknall",
+        "Sofort beim Urknall",
+        "Vor 1.000 Jahren",
+        "Erst mit der Entstehung der Erde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seitdem ist dieses Licht unterwegs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entdeckte die Hintergrundstrahlung 1965?",
+      "art": "mc",
+      "optionen": [
+        "Arno Penzias und Robert Wilson",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Edwin Hubble"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie erhielten dafür den Nobelpreis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Hintergrundstrahlung kommt nur aus einer Richtung des Himmels.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie kommt aus allen Richtungen fast gleich stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher ESA-Satellit vermaß die Strahlung genau?",
+      "art": "mc",
+      "optionen": [
+        "Planck",
+        "Hubble",
+        "Voyager",
+        "Sputnik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er zeigte winzige Unterschiede."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Hintergrundstrahlung ist das älteste sichtbare Licht.",
+        "Sie entstand etwa 380.000 Jahre nach dem Urknall.",
+        "1965 wurde sie zufällig entdeckt.",
+        "Winzige Unterschiede verraten die Entstehung von Galaxien."
+      ]
+    }
+  ]
+}
