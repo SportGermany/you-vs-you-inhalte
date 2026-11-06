@@ -1,0 +1,129 @@
+{
+  "id": "ern-b115-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Paranüsse?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Radioaktivität in Lebensmitteln",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "paranuesse",
+    "selen",
+    "nuesse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Paranüsse sind die großen, länglichen Nüsse in jeder Studentenfutter-Mischung.",
+        "Sie haben ein paar Besonderheiten, die andere Nüsse nicht haben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus dem Regenwald",
+      "absaetze": [
+        "Paranüsse wachsen auf riesigen Bäumen im Amazonasgebiet. Die Nüsse stecken zu mehreren in einer harten Kapsel, die so groß wie eine Kokosnuss ist.",
+        "Die Bäume brauchen bestimmte Wildbienen zur Bestäubung. Deshalb stammen die meisten Paranüsse aus Wildsammlung, nicht aus Plantagen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sehr viel Selen",
+      "absaetze": [
+        "Paranüsse enthalten mehr Selen als jedes andere übliche Lebensmittel. Selen ist ein Spurenelement, das unter anderem die Schilddrüse braucht.",
+        "Schon wenige Nüsse liefern sehr viel davon. Wer zusätzlich Selen-Präparate verwendet, kann leicht zu viel aufnehmen. Genieße Paranüsse daher in Maßen."
+      ],
+      "merke": "Paranüsse sind die selenreichste übliche Nuss.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Besonderheiten",
+      "absaetze": [
+        "Paranüsse enthalten von Natur aus etwas mehr Radium als andere Lebensmittel. Bei üblichen Mengen gilt das als unbedenklich.",
+        "Wie alle Nüsse können sie Schimmelpilzgifte enthalten. Wirf ranzig riechende oder verfärbte Nüsse weg."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wachsen Paranüsse?",
+      "art": "mc",
+      "optionen": [
+        "Im Amazonasgebiet",
+        "In Bayern",
+        "In der Sahara",
+        "In Skandinavien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bäume werden riesig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon enthalten Paranüsse besonders viel?",
+      "art": "mc",
+      "optionen": [
+        "Selen",
+        "Vitamin C",
+        "Laktose",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schon wenige Nüsse liefern viel davon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die meisten Paranüsse stammen aus Plantagen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist werden sie wild gesammelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du mit ranzig riechenden Nüssen tun?",
+      "art": "mc",
+      "optionen": [
+        "Wegwerfen",
+        "Rösten und essen",
+        "Einfrieren",
+        "Mit Salz essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie können Schimmelpilzgifte enthalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Paranüsse kommen aus dem Amazonasgebiet.",
+        "Sie enthalten sehr viel Selen.",
+        "Genieße sie in Maßen.",
+        "Ranzige Nüsse gehören in den Müll."
+      ]
+    }
+  ]
+}

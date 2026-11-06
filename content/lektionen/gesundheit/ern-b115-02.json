@@ -1,0 +1,123 @@
+{
+  "id": "ern-b115-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Kakao?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kakao",
+    "flavanole",
+    "getraenke"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Heißer Kakao gehört für viele zum Winter.",
+        "Doch zwischen reinem Kakao und Kakaogetränkepulver liegen Welten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von der Bohne zum Pulver",
+      "absaetze": [
+        "Kakao stammt aus den Samen des Kakaobaums. Sie werden fermentiert, getrocknet, geröstet und gemahlen. Für Kakaopulver wird ein Teil der Kakaobutter abgepresst.",
+        "Reines Kakaopulver ist herb und kaum süß. Viele Instant-Getränkepulver bestehen dagegen zum größten Teil aus Zucker."
+      ],
+      "merke": "Instant-Kakaopulver besteht oft vor allem aus Zucker."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Flavanole und Theobromin",
+      "absaetze": [
+        "Kakao enthält Flavanole. Das sind sekundäre Pflanzenstoffe. Studien deuten darauf hin, dass sie die Gefäße günstig beeinflussen können. Durch Verarbeitung gehen sie aber teilweise verloren.",
+        "Kakao enthält außerdem Theobromin, einen anregenden Stoff ähnlich dem Koffein. Für Hunde ist Theobromin giftig."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Kakao kann Cadmium enthalten, ein Schwermetall aus dem Boden. In der EU gelten dafür Höchstgehalte.",
+        "Mische dir Kakao am besten selbst aus reinem Pulver und Milch oder Pflanzendrink. So bestimmst du, wie viel Zucker hineinkommt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Instant-Kakaopulver oft vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Aus Zucker",
+        "Aus Kakaobutter",
+        "Aus Milch",
+        "Aus Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Blick auf die Zutatenliste lohnt sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff im Kakao ist für Hunde giftig?",
+      "art": "mc",
+      "optionen": [
+        "Theobromin",
+        "Vitamin E",
+        "Magnesium",
+        "Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wirkt ähnlich wie Koffein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Flavanole im Kakao bleiben bei jeder Verarbeitung vollständig erhalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Teil geht verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du die Zuckermenge im Kakao selbst bestimmen?",
+      "art": "mc",
+      "optionen": [
+        "Mit reinem Kakaopulver selbst mischen",
+        "Mehr Instantpulver nehmen",
+        "Kakao nur kalt trinken",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reines Kakaopulver ist kaum süß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kakao stammt aus den Samen des Kakaobaums.",
+        "Instant-Pulver enthält oft viel Zucker.",
+        "Flavanole gelten als interessant, die Belege sind noch begrenzt.",
+        "Theobromin ist für Hunde giftig."
+      ]
+    }
+  ]
+}

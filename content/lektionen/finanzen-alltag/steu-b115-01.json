@@ -1,0 +1,121 @@
+{
+  "id": "steu-b115-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wann kannst du ein häusliches Arbeitszimmer absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "arbeitszimmer",
+    "werbungskosten",
+    "homeoffice"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein eigener Raum nur fürs Arbeiten kostet Miete, Strom und Heizung.",
+        "Ob das Finanzamt sich beteiligt, hängt von einer wichtigen Frage ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mittelpunkt entscheidet",
+      "absaetze": [
+        "Ein häusliches Arbeitszimmer ist ein abgeschlossener Raum, der fast nur beruflich genutzt wird. Eine Arbeitsecke im Wohnzimmer zählt nicht.",
+        "Seit 2023 kannst du die Kosten nur absetzen, wenn das Zimmer der Mittelpunkt deiner gesamten beruflichen Tätigkeit ist. Du arbeitest also überwiegend dort."
+      ],
+      "merke": "Absetzbar ist das Arbeitszimmer nur als Mittelpunkt deiner Arbeit."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tatsächliche Kosten oder Pauschale",
+      "absaetze": [
+        "Ist die Voraussetzung erfüllt, kannst du die anteiligen Kosten absetzen. Dazu gehören Miete, Heizung, Strom und Reinigung.",
+        "Statt Belege zu sammeln, kannst du auch eine Jahrespauschale von 1.260 Euro nutzen. Nutzt du das Zimmer nur einen Teil des Jahres, gibt es entsprechend weniger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn das nicht passt",
+      "absaetze": [
+        "Arbeitest du teils im Büro und teils zu Hause, greift meist die Homeoffice-Pauschale. Sie beträgt 6 Euro pro Tag, höchstens 1.260 Euro im Jahr.",
+        "Arbeitsmittel wie Laptop oder Schreibtischstuhl kannst du unabhängig davon absetzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist ein Arbeitszimmer seit 2023 absetzbar?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es der Mittelpunkt deiner gesamten Arbeit ist",
+        "Immer, wenn du einen Schreibtisch hast",
+        "Nur für Selbstständige",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du musst überwiegend dort arbeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Jahrespauschale für ein Arbeitszimmer?",
+      "art": "mc",
+      "optionen": [
+        "1.260 Euro",
+        "100 Euro",
+        "5.000 Euro",
+        "600 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Statt Einzelbelegen kannst du sie nutzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Arbeitsecke im Wohnzimmer zählt als Arbeitszimmer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es muss ein abgeschlossener Raum sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt meist, wenn du teils im Büro, teils zu Hause arbeitest?",
+      "art": "mc",
+      "optionen": [
+        "Die Homeoffice-Pauschale",
+        "Die volle Miete ist absetzbar",
+        "Gar nichts",
+        "Die Pendlerpauschale verdoppelt sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie beträgt 6 Euro pro Tag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Arbeitszimmer muss ein abgeschlossener Raum sein.",
+        "Es zählt nur als Mittelpunkt deiner Arbeit.",
+        "Möglich sind echte Kosten oder 1.260 Euro Pauschale.",
+        "Sonst greift oft die Homeoffice-Pauschale."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "koer-b115-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum ist Blut rot?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blut",
+    "haemoglobin",
+    "eisen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleiner Schnitt, und schon leuchtet es rot.",
+        "Die Farbe verrät viel darüber, wie dein Körper Sauerstoff transportiert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hämoglobin und Eisen",
+      "absaetze": [
+        "Die roten Blutkörperchen enthalten den Farbstoff Hämoglobin. In seiner Mitte sitzt Eisen. Dort bindet sich Sauerstoff.",
+        "Diese Verbindung aus Eisen und Sauerstoff erscheint rot. Ohne Eisen kann der Körper nicht genug Hämoglobin bilden."
+      ],
+      "merke": "Hämoglobin mit Eisen macht das Blut rot."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hellrot und dunkelrot",
+      "absaetze": [
+        "Sauerstoffreiches Blut aus den Arterien ist hellrot. Hat es den Sauerstoff abgegeben, wird es dunkelrot.",
+        "Blau ist Blut nie. Venen wirken nur bläulich, weil die Haut rotes Licht anders zurückwirft als blaues."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Andere Tiere, andere Farben",
+      "absaetze": [
+        "Nicht alle Tiere haben rotes Blut. Tintenfische und manche Krebse transportieren Sauerstoff mit Hämocyanin. Darin sitzt Kupfer statt Eisen.",
+        "Ihr Blut wird dadurch bläulich. Manche Würmer haben sogar grünliches Blut."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Farbstoff macht das Blut rot?",
+      "art": "mc",
+      "optionen": [
+        "Hämoglobin",
+        "Chlorophyll",
+        "Melanin",
+        "Keratin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er sitzt in den roten Blutkörperchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Metall sitzt im Hämoglobin?",
+      "art": "mc",
+      "optionen": [
+        "Eisen",
+        "Kupfer",
+        "Gold",
+        "Zink"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort bindet sich der Sauerstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sauerstoffarmes Blut in den Venen ist blau.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist dunkelrot, Venen wirken nur bläulich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit transportieren Tintenfische Sauerstoff?",
+      "art": "mc",
+      "optionen": [
+        "Mit Hämocyanin",
+        "Mit Hämoglobin",
+        "Mit Wasser",
+        "Mit Chlorophyll"
+      ],
+      "richtig": 0,
+      "erklaerung": "Darin sitzt Kupfer, ihr Blut ist bläulich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hämoglobin mit Eisen färbt das Blut rot.",
+        "Sauerstoffreiches Blut ist hellrot.",
+        "Venen wirken nur bläulich.",
+        "Manche Tiere haben bläuliches Blut."
+      ]
+    }
+  ]
+}

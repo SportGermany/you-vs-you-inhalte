@@ -1,0 +1,121 @@
+{
+  "id": "haus-b115-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du dein Auto innen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Autopflege",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "auto",
+    "reinigen",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Krümel auf dem Sitz, Staub auf dem Armaturenbrett, Schlieren auf der Scheibe.",
+        "Mit der richtigen Reihenfolge wird der Innenraum schnell wieder sauber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von oben nach unten",
+      "absaetze": [
+        "Räum zuerst alles aus, was nicht ins Auto gehört. Nimm die Fußmatten heraus und klopf sie aus.",
+        "Sauge dann von oben nach unten: Sitze, Ritzen, zuletzt den Boden. Eine schmale Düse kommt gut zwischen Sitz und Mittelkonsole."
+      ],
+      "merke": "Reinige immer von oben nach unten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kunststoff und Polster",
+      "absaetze": [
+        "Wische Armaturen und Verkleidungen mit einem leicht feuchten Mikrofasertuch ab. Glänzende Pflegesprays gehören nicht auf Lenkrad und Pedale, denn dann rutscht man ab.",
+        "Flecken auf Stoffsitzen behandelst du mit einem Polsterreiniger. Teste ihn erst an einer unauffälligen Stelle. Ledersitze brauchen ein passendes Pflegemittel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klare Sicht",
+      "absaetze": [
+        "Auf der Innenseite der Scheiben bildet sich ein Schmierfilm. Er stört vor allem bei Gegenlicht und tiefer Sonne.",
+        "Reinige die Scheiben zuletzt mit Glasreiniger und einem sauberen Tuch. Wische in eine Richtung, dann siehst du Schlieren leichter."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welcher Reihenfolge saugst du den Innenraum?",
+      "art": "mc",
+      "optionen": [
+        "Von oben nach unten",
+        "Von unten nach oben",
+        "Nur den Boden",
+        "Egal"
+      ],
+      "richtig": 0,
+      "erklaerung": "So fällt Schmutz nicht auf saubere Flächen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gehört Glanzspray nicht aufs Lenkrad?",
+      "art": "mc",
+      "optionen": [
+        "Die Hände rutschen ab",
+        "Es riecht zu stark",
+        "Es ist zu teuer",
+        "Es entfärbt das Leder sofort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gleiches gilt für die Pedale."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Polsterreiniger solltest du zuerst an einer unauffälligen Stelle testen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So vermeidest du Flecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann stört ein Schmierfilm auf der Scheibe besonders?",
+      "art": "mc",
+      "optionen": [
+        "Bei Gegenlicht und tiefer Sonne",
+        "Nur nachts im Stand",
+        "Bei Regen von außen",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb lohnt sich das Putzen innen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erst ausräumen und Matten ausklopfen.",
+        "Von oben nach unten saugen.",
+        "Lenkrad und Pedale nicht glänzend pflegen.",
+        "Scheiben innen zuletzt putzen."
+      ]
+    }
+  ]
+}

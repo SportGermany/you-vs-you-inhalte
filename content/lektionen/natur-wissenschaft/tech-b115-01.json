@@ -1,0 +1,121 @@
+{
+  "id": "tech-b115-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Feuerlöscher?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Brandschutz",
+      "herausgeber": "Deutscher Feuerwehrverband",
+      "url": "https://www.feuerwehrverband.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "feuerloescher",
+    "brandschutz",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleiner Brand in der Küche kann in Minuten zum großen Feuer werden.",
+        "Ein Feuerlöscher hilft, wenn du weißt, wie er funktioniert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ein Feuer braucht",
+      "absaetze": [
+        "Ein Feuer braucht brennbares Material, Sauerstoff und genug Hitze. Fehlt eines davon, geht es aus.",
+        "Feuerlöscher setzen genau hier an. Wasser kühlt, Schaum deckt ab, Kohlendioxid verdrängt den Sauerstoff. Löschpulver stört die chemische Reaktion der Flammen."
+      ],
+      "merke": "Feuer braucht Brennstoff, Sauerstoff und Hitze."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Brandklassen",
+      "absaetze": [
+        "Auf jedem Löscher stehen Buchstaben für Brandklassen. A steht für feste Stoffe wie Holz, B für Flüssigkeiten, C für Gase, D für Metalle und F für Speisefette.",
+        "Ein brennender Topf mit Fett darf nie mit Wasser gelöscht werden. Das Wasser verdampft schlagartig und schleudert brennendes Fett heraus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig löschen",
+      "absaetze": [
+        "Ziehe die Sicherung, richte den Strahl auf die Glut und lösche stoßweise. Bei Wind löschst du mit dem Wind im Rücken.",
+        "Bring dich nie selbst in Gefahr und ruf bei größeren Bränden sofort die 112. Lass Feuerlöscher regelmäßig prüfen, meist alle zwei Jahre."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was braucht ein Feuer?",
+      "art": "mc",
+      "optionen": [
+        "Brennstoff, Sauerstoff und Hitze",
+        "Nur Wind",
+        "Wasser und Licht",
+        "Nur Holz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fehlt eines davon, erlischt es."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht die Brandklasse F?",
+      "art": "mc",
+      "optionen": [
+        "Speisefette und Öle",
+        "Feste Stoffe",
+        "Gase",
+        "Metalle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür gibt es spezielle Fettbrandlöscher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Fettbrand im Topf lässt sich gut mit Wasser löschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kommt zu einer gefährlichen Fettexplosion."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du mit einem Feuerlöscher löschen?",
+      "art": "mc",
+      "optionen": [
+        "Stoßweise auf die Glut",
+        "In einem langen Strahl in die Luft",
+        "Gegen den Wind",
+        "Nur auf den Rauch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Wind mit dem Wind im Rücken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Feuer braucht Brennstoff, Sauerstoff und Hitze.",
+        "Löschmittel nehmen dem Feuer eine dieser Zutaten.",
+        "Fettbrände nie mit Wasser löschen.",
+        "Feuerlöscher regelmäßig prüfen lassen."
+      ]
+    }
+  ]
+}

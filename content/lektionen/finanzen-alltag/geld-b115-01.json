@@ -1,0 +1,127 @@
+{
+  "id": "geld-b115-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist der MSCI World?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wertpapiere verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geldanlage",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "msci world",
+    "etf",
+    "aktienindex"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer über ETFs liest, stößt schnell auf drei Wörter: MSCI World.",
+        "Klingt nach der ganzen Welt. Ganz so ist es aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Index für Industrieländer",
+      "absaetze": [
+        "Der MSCI World ist ein Aktienindex des US-Finanzdienstleisters MSCI. Er umfasst weit über 1.000 große und mittelgroße Unternehmen.",
+        "Sie stammen aus 23 Industrieländern, etwa den USA, Japan, Deutschland und Großbritannien. Schwellenländer wie China oder Indien sind nicht enthalten."
+      ],
+      "merke": "Der MSCI World enthält nur Unternehmen aus Industrieländern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewichtet nach Größe",
+      "absaetze": [
+        "Je größer der Börsenwert eines Unternehmens, desto stärker zählt es im Index. Deshalb dominieren große US-Konzerne.",
+        "Mehr als zwei Drittel des Index entfallen auf die USA. Wer nur den MSCI World kauft, setzt also stark auf die US-Börse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum er so beliebt ist",
+      "absaetze": [
+        "Viele ETFs bilden den MSCI World nach. Mit einem Produkt verteilst du dein Geld auf viele Firmen und Länder.",
+        "Für eine breitere Streuung kombinieren manche ihn mit einem Schwellenländer-Index. Wie bei allen Aktien kann der Wert stark schwanken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus welchen Ländern stammen die Unternehmen im MSCI World?",
+      "art": "mc",
+      "optionen": [
+        "Aus Industrieländern",
+        "Aus allen Ländern der Welt",
+        "Nur aus Europa",
+        "Nur aus Schwellenländern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schwellenländer sind nicht enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land hat im MSCI World das größte Gewicht?",
+      "art": "mc",
+      "optionen": [
+        "Die USA",
+        "Deutschland",
+        "Japan",
+        "Frankreich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr als zwei Drittel entfallen auf die USA."
+    },
+    {
+      "typ": "quiz",
+      "frage": "China ist im MSCI World enthalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. China zählt als Schwellenland."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach richtet sich das Gewicht eines Unternehmens im Index?",
+      "art": "mc",
+      "optionen": [
+        "Nach seinem Börsenwert",
+        "Nach der Zahl der Mitarbeiter",
+        "Nach dem Alter",
+        "Nach dem Alphabet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große Konzerne zählen stärker."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der MSCI World enthält Firmen aus 23 Industrieländern.",
+        "Schwellenländer fehlen.",
+        "Die USA machen mehr als zwei Drittel aus.",
+        "Viele ETFs bilden den Index nach."
+      ]
+    }
+  ]
+}

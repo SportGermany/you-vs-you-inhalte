@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b115-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Ist eine Narkose wie Schlaf?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zur Narkose",
+      "herausgeber": "Deutsche Gesellschaft für Anästhesiologie und Intensivmedizin",
+      "url": "https://www.dgai.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "narkose",
+    "anaesthesie",
+    "bewusstsein"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor einer Operation heißt es oft: Gleich schläfst du ein. Und dann fehlt dir ein Stück Zeit.",
+        "Doch eine Narkose ist etwas ganz anderes als Schlaf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was in der Narkose passiert",
+      "absaetze": [
+        "Bei einer Vollnarkose schalten Medikamente das Bewusstsein gezielt aus. Gleichzeitig verhindern sie Schmerzen und lassen oft die Muskeln erschlaffen.",
+        "Die Narkoseärztin oder der Narkosearzt überwacht dabei ständig Atmung, Kreislauf und Narkosetiefe."
+      ],
+      "merke": "Eine Narkose ist ein durch Medikamente gesteuerter Zustand.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Unterschied zum Schlaf",
+      "absaetze": [
+        "Aus dem Schlaf kannst du durch Lärm oder Berührung geweckt werden. Aus einer tiefen Narkose nicht, selbst bei einem Schnitt.",
+        "Auch die Hirnströme sehen anders aus. Im Schlaf wechseln sich Phasen wie Tiefschlaf und Traumschlaf ab. In der Narkose fehlt dieser Rhythmus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das fehlende Zeitgefühl",
+      "absaetze": [
+        "Viele erleben das Aufwachen, als wären nur Sekunden vergangen. Im normalen Schlaf spürst du dagegen meist, dass Zeit vergangen ist.",
+        "Nach einer Narkose können Müdigkeit und Schlafprobleme einige Tage anhalten. Halte dich an die Hinweise des Behandlungsteams."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt eine Vollnarkose?",
+      "art": "mc",
+      "optionen": [
+        "Medikamente schalten Bewusstsein und Schmerz aus",
+        "Man schläft einfach besonders tief",
+        "Man hypnotisiert den Körper",
+        "Das Herz bleibt stehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei werden Atmung und Kreislauf überwacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus einer tiefen Narkose kann man durch Lärm geweckt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ist ein wichtiger Unterschied zum Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fehlt in der Narkose im Vergleich zum Schlaf?",
+      "art": "mc",
+      "optionen": [
+        "Der Wechsel der Schlafphasen",
+        "Der Herzschlag",
+        "Die Körpertemperatur",
+        "Die Atmung immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Schlaf wechseln sich Tiefschlaf und Traumschlaf ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie erleben viele die Zeit in der Narkose?",
+      "art": "mc",
+      "optionen": [
+        "Als wären nur Sekunden vergangen",
+        "Als lange Traumreise",
+        "Als quälend langsam",
+        "Als viele Tage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Zeitgefühl fehlt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Narkose ist kein Schlaf.",
+        "Medikamente schalten Bewusstsein und Schmerz gezielt aus.",
+        "Die Schlafphasen fehlen in der Narkose.",
+        "Danach kann der Schlaf einige Tage gestört sein."
+      ]
+    }
+  ]
+}

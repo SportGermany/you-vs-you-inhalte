@@ -1,0 +1,121 @@
+{
+  "id": "vers-b115-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer muss im Winter Schnee räumen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Deutscher Mieterbund",
+      "url": "https://www.mieterbund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "winterdienst",
+    "mietrecht",
+    "haftung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über Nacht hat es geschneit, der Gehweg ist glatt.",
+        "Wer muss jetzt zur Schaufel greifen, und wer haftet bei einem Sturz?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemeinde, Eigentümer, Mieter",
+      "absaetze": [
+        "Für Gehwege ist zunächst die Gemeinde verantwortlich. Sie überträgt die Räum- und Streupflicht meist per Satzung auf die Hauseigentümer.",
+        "Die Eigentümer können die Pflicht an Mieterinnen und Mieter weitergeben. Das muss wirksam vereinbart sein, etwa im Mietvertrag. Sonst bleibt die Pflicht beim Eigentümer."
+      ],
+      "merke": "Mieter müssen nur räumen, wenn das wirksam vereinbart ist."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann und wie viel",
+      "absaetze": [
+        "Die Zeiten legt die Gemeinde fest, oft ab dem frühen Morgen bis zum Abend. Bei anhaltendem Schneefall musst du mehrmals ran.",
+        "Es reicht meist ein Streifen, auf dem zwei Menschen aneinander vorbeigehen können. Achte auf erlaubte Streumittel, denn Salz ist vielerorts verboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haftung und Urlaub",
+      "absaetze": [
+        "Stürzt jemand auf einem nicht geräumten Weg, kann der Verantwortliche haften. Die private Haftpflicht hilft dann oft weiter.",
+        "Bist du verreist oder krank, musst du für Ersatz sorgen. Das kann ein Nachbar oder ein Winterdienst sein. Die Kosten eines Dienstes können über die Nebenkosten umgelegt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist zunächst für das Räumen von Gehwegen zuständig?",
+      "art": "mc",
+      "optionen": [
+        "Die Gemeinde",
+        "Die Polizei",
+        "Die Post",
+        "Der Bund"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie überträgt die Pflicht meist auf die Eigentümer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann müssen Mieter räumen?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es wirksam vereinbart ist",
+        "Immer",
+        "Nie",
+        "Nur im Erdgeschoss"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa im Mietvertrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer verreist ist, ist automatisch von der Räumpflicht befreit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Du musst für Ersatz sorgen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft oft, wenn jemand auf deinem Abschnitt stürzt?",
+      "art": "mc",
+      "optionen": [
+        "Die private Haftpflichtversicherung",
+        "Die Hausratversicherung",
+        "Die Kfz-Versicherung",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie springt bei Schäden an Dritten ein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gemeinden übertragen die Räumpflicht meist auf Eigentümer.",
+        "Mieter räumen nur bei wirksamer Vereinbarung.",
+        "Zeiten und Streumittel regelt die Gemeinde.",
+        "Bei Abwesenheit musst du für Ersatz sorgen."
+      ]
+    }
+  ]
+}
