@@ -1,0 +1,133 @@
+{
+  "id": "supp-b126-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Lebertran zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lebertran",
+    "vitamin d",
+    "omega-3"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher bekamen viele Kinder täglich einen Löffel Lebertran. Beliebt war er wegen des Geschmacks nicht.",
+        "Ist das alte Hausmittel heute noch sinnvoll?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Öl aus der Fischleber",
+      "absaetze": [
+        "Lebertran wird aus der Leber von Fischen gewonnen, meist vom Dorsch. Er enthält viel Vitamin A und Vitamin D sowie Omega-3-Fettsäuren.",
+        "Früher half er, Rachitis bei Kindern zu verhindern. Das ist eine Knochenerkrankung durch Vitamin-D-Mangel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu viel Vitamin A",
+      "absaetze": [
+        "Lebertran enthält sehr viel Vitamin A. Zu viel davon kann der Leber schaden und in der Schwangerschaft das ungeborene Kind gefährden.",
+        "Wer zusätzlich andere Präparate mit Vitamin A oder D nutzt, kann leicht zu viel aufnehmen."
+      ],
+      "merke": "Lebertran liefert viel Vitamin A, zu viel davon kann schaden.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was heute empfohlen wird",
+      "absaetze": [
+        "Heute gibt es gezieltere Wege, einen Mangel auszugleichen. Bei Säuglingen etwa wird Vitamin D meist als eigenes Präparat nach ärztlichem Rat gegeben.",
+        "Fettreicher Seefisch liefert Omega-3-Fettsäuren und Vitamin D auf natürlichem Weg. Sprich mit deiner Arztpraxis, bevor du Lebertran nutzt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Sehr viel Vitamin A, nicht in der Schwangerschaft ohne ärztlichen Rat",
+        "Nicht mit anderen Vitamin-A- oder Vitamin-D-Präparaten kombinieren ohne Beratung",
+        "Bei Lebererkrankungen ärztlich beraten lassen"
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Lebertran gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Leber von Fischen",
+        "Aus Kokosnüssen",
+        "Aus Oliven",
+        "Aus Rinderleber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist vom Dorsch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Krankheit sollte Lebertran früher verhindern?",
+      "art": "mc",
+      "optionen": [
+        "Rachitis",
+        "Schnupfen",
+        "Karies",
+        "Kurzsichtigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie entsteht durch Vitamin-D-Mangel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lebertran ist in der Schwangerschaft unbedenklich, egal wie viel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Zu viel Vitamin A kann dem Kind schaden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefert Omega-3 auf natürlichem Weg?",
+      "art": "mc",
+      "optionen": [
+        "Fettreicher Seefisch",
+        "Weißbrot",
+        "Zucker",
+        "Limonade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er enthält auch Vitamin D."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lebertran stammt aus Fischleber.",
+        "Er enthält viel Vitamin A und D.",
+        "Zu viel Vitamin A kann schaden.",
+        "Vor der Anwendung ärztlich beraten lassen."
+      ]
+    }
+  ]
+}

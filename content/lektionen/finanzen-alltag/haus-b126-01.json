@@ -1,0 +1,121 @@
+{
+  "id": "haus-b126-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie werden Schuhe wieder frisch?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schuhe",
+    "geruch",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Turnschuhe nach dem Sport oder Winterstiefel nach einem langen Tag: Manche riechen streng.",
+        "Mit ein paar Tricks werden sie wieder frisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher der Geruch kommt",
+      "absaetze": [
+        "Füße schwitzen, und im Schuh ist es warm und feucht. Bakterien zersetzen den Schweiß. Dabei entstehen unangenehme Gerüche.",
+        "Je feuchter der Schuh, desto besser vermehren sich die Bakterien."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Trocken halten",
+      "absaetze": [
+        "Wechsle deine Schuhe ab, damit jedes Paar mindestens einen Tag trocknen kann. Nimm herausnehmbare Einlegesohlen zum Trocknen heraus.",
+        "Stopf feuchte Schuhe mit Zeitungspapier aus. Socken aus Baumwolle oder Wolle nehmen Schweiß besser auf als reine Kunstfasern."
+      ],
+      "merke": "Trockene Schuhe riechen weniger, weil Bakterien schlechter wachsen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frisch machen",
+      "absaetze": [
+        "Etwas Natron über Nacht in den Schuhen bindet Gerüche. Morgens gut ausschütten.",
+        "Viele Turnschuhe und Einlegesohlen kann man nach Pflegeetikett waschen. Hilft nichts mehr, sind neue Einlegesohlen oft die einfachste Lösung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt der Geruch in Schuhen?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien zersetzen den Schweiß",
+        "Das Leder fault",
+        "Vom Staub auf der Straße",
+        "Vom Kleber allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Feuchtigkeit fördert sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du Schuhe abwechseln?",
+      "art": "mc",
+      "optionen": [
+        "Damit jedes Paar trocknen kann",
+        "Damit sie gleich alt werden",
+        "Wegen der Mode",
+        "Damit sie schneller kaputtgehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trockene Schuhe riechen weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Natron kann Gerüche in Schuhen binden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Morgens gut ausschütten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Socken nehmen Schweiß gut auf?",
+      "art": "mc",
+      "optionen": [
+        "Socken aus Baumwolle oder Wolle",
+        "Reine Plastiksocken",
+        "Gar keine Socken",
+        "Nylonstrümpfe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie halten die Füße trockener."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bakterien im feuchten Schuh verursachen Geruch.",
+        "Schuhe abwechseln und trocknen lassen.",
+        "Natron bindet Gerüche.",
+        "Einlegesohlen waschen oder ersetzen."
+      ]
+    }
+  ]
+}

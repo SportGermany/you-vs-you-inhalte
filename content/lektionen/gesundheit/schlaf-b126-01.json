@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b126-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du mit Tinnitus besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tinnitus",
+    "ohrgeraeusche",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tagsüber geht das Pfeifen im Ohr oft unter. Abends in der Stille wird es plötzlich laut.",
+        "Viele Menschen mit Tinnitus schlafen deshalb schlecht ein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum die Stille stört",
+      "absaetze": [
+        "Ein Tinnitus ist ein Ohrgeräusch ohne äußere Quelle. In ruhiger Umgebung richtet das Gehirn mehr Aufmerksamkeit darauf.",
+        "Je mehr man sich darüber ärgert, desto stärker fällt es oft auf. Grübeln und Stress verstärken das Problem."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanfte Geräusche helfen",
+      "absaetze": [
+        "Ein leises Hintergrundgeräusch kann den Tinnitus überdecken. Geeignet sind etwa Rauschen, Regengeräusche oder ruhige Musik.",
+        "Studien deuten darauf hin, dass solche Geräusche vielen beim Einschlafen helfen. Die Lautstärke sollte unter dem Tinnitus liegen oder ihn nur leicht überdecken."
+      ],
+      "merke": "Leise Hintergrundgeräusche können den Tinnitus beim Einschlafen überdecken.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann Hilfe nötig ist",
+      "absaetze": [
+        "Ein neu aufgetretener Tinnitus sollte ärztlich abgeklärt werden, vor allem mit Hörverlust oder Schwindel.",
+        "Bei dauerhaftem Tinnitus hilft oft eine Verhaltenstherapie, besser mit dem Geräusch umzugehen. Auch Entspannungsübungen vor dem Schlafen sind sinnvoll."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum stört Tinnitus abends oft stärker?",
+      "art": "mc",
+      "optionen": [
+        "In der Stille richtet das Gehirn mehr Aufmerksamkeit darauf",
+        "Das Ohr wird abends größer",
+        "Es wird abends lauter erzeugt",
+        "Wegen des Lichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tagsüber überdecken Geräusche ihn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann beim Einschlafen helfen?",
+      "art": "mc",
+      "optionen": [
+        "Leise Hintergrundgeräusche",
+        "Völlige Stille",
+        "Laute Musik",
+        "Ohren zuhalten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Rauschen oder Regengeräusche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein neu aufgetretener Tinnitus sollte ärztlich abgeklärt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Vor allem mit Hörverlust oder Schwindel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Behandlung hilft vielen bei dauerhaftem Tinnitus?",
+      "art": "mc",
+      "optionen": [
+        "Eine Verhaltenstherapie",
+        "Mehr Kaffee",
+        "Laute Konzerte",
+        "Weniger schlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie hilft, besser mit dem Geräusch umzugehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stille macht Tinnitus deutlicher.",
+        "Leise Geräusche können ihn überdecken.",
+        "Neuen Tinnitus ärztlich abklären.",
+        "Verhaltenstherapie hilft beim Umgang."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "geld-b126-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist der digitale Euro?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Digitaler Euro",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "digitaler euro",
+    "bezahlen",
+    "zentralbank"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bargeld wird seltener genutzt, Kartenzahlung und Apps nehmen zu.",
+        "Die Europäische Zentralbank bereitet deshalb einen digitalen Euro vor."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Digitales Bargeld",
+      "absaetze": [
+        "Der digitale Euro soll eine elektronische Form von Bargeld werden. Er würde direkt von der Europäischen Zentralbank ausgegeben, wie Münzen und Scheine.",
+        "Das Geld auf deinem Girokonto ist dagegen eine Forderung an deine Bank. Der digitale Euro wäre Zentralbankgeld."
+      ],
+      "merke": "Der digitale Euro wäre Zentralbankgeld in elektronischer Form."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er bringen soll",
+      "absaetze": [
+        "Er soll überall im Euroraum als Zahlungsmittel funktionieren, in Geschäften und online. Europa wäre so weniger abhängig von Kartenfirmen aus anderen Ländern.",
+        "Geplant ist auch, dass kleine Zahlungen offline möglich sind. Bargeld soll es weiterhin geben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Offene Fragen",
+      "absaetze": [
+        "Diskutiert werden Datenschutz, eine Obergrenze für das Guthaben pro Person und die Folgen für Banken.",
+        "Die Gesetzgebung der EU und die Vorbereitung der Zentralbank laufen noch. Wann der digitale Euro kommt, ist offen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer würde den digitalen Euro ausgeben?",
+      "art": "mc",
+      "optionen": [
+        "Die Europäische Zentralbank",
+        "Jede Bank selbst",
+        "Ein Technikkonzern",
+        "Das Finanzamt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie Münzen und Scheine."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Geld auf deinem Girokonto?",
+      "art": "mc",
+      "optionen": [
+        "Eine Forderung an deine Bank",
+        "Zentralbankgeld",
+        "Eine Kryptowährung",
+        "Gold"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der digitale Euro wäre etwas anderes."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit dem digitalen Euro soll das Bargeld abgeschafft werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bargeld soll es weiterhin geben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird beim digitalen Euro noch diskutiert?",
+      "art": "mc",
+      "optionen": [
+        "Datenschutz und Obergrenzen",
+        "Die Farbe der Münzen",
+        "Der Name des Euro",
+        "Die Uhrzeit von Zahlungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wann er kommt, ist offen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der digitale Euro wäre elektronisches Zentralbankgeld.",
+        "Er soll im ganzen Euroraum funktionieren.",
+        "Bargeld soll bleiben.",
+        "Datenschutz und Einführung sind noch offen."
+      ]
+    }
+  ]
+}

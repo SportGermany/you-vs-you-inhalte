@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b126-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was unterscheidet Glukose und Fruktose?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glukose",
+    "fruktose",
+    "zuckerstoffwechsel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Traubenzucker und Fruchtzucker klingen ähnlich.",
+        "Im Körper werden sie aber ganz unterschiedlich verarbeitet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Glukose: Treibstoff für alle Zellen",
+      "absaetze": [
+        "Glukose, auch Traubenzucker genannt, ist der wichtigste Energielieferant des Körpers. Fast alle Zellen können sie nutzen, das Gehirn ist besonders darauf angewiesen.",
+        "Nach dem Essen steigt der Blutzucker. Das Hormon Insulin sorgt dafür, dass Glukose in die Zellen gelangt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fruktose: ein Fall für die Leber",
+      "absaetze": [
+        "Fruktose, der Fruchtzucker, wird vor allem in der Leber verarbeitet. Sie lässt den Blutzucker kaum steigen.",
+        "Große Mengen Fruktose aus gesüßten Getränken können die Leber belasten. Studien deuten darauf hin, dass sie die Entstehung einer Fettleber fördern können."
+      ],
+      "merke": "Fruktose wird vor allem in der Leber verarbeitet.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Obst ist kein Problem",
+      "absaetze": [
+        "Haushaltszucker besteht zu gleichen Teilen aus Glukose und Fruktose. Auch Honig enthält beide.",
+        "Im ganzen Obst steckt Fruktose zusammen mit Ballaststoffen, Wasser und Vitaminen. Bei normalen Mengen ist das unbedenklich. Problematisch ist vor allem zugesetzter Zucker in Getränken."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Glukose?",
+      "art": "mc",
+      "optionen": [
+        "Traubenzucker, der wichtigste Energielieferant",
+        "Ein Vitamin",
+        "Ein Ballaststoff",
+        "Ein Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn ist besonders darauf angewiesen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird Fruktose vor allem verarbeitet?",
+      "art": "mc",
+      "optionen": [
+        "In der Leber",
+        "Im Gehirn",
+        "In den Muskeln",
+        "In der Haut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lässt den Blutzucker kaum steigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Haushaltszucker besteht aus Glukose und Fruktose.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Zu gleichen Teilen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für ganzes Obst?",
+      "art": "mc",
+      "optionen": [
+        "In normalen Mengen unbedenklich",
+        "Es ist so schädlich wie Limo",
+        "Es enthält keinen Zucker",
+        "Es sollte gemieden werden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ballaststoffe und Wasser gehören dazu."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glukose ist der Treibstoff der Zellen.",
+        "Fruktose wird vor allem in der Leber verarbeitet.",
+        "Viel Fruktose aus Getränken kann die Leber belasten.",
+        "Ganzes Obst ist unbedenklich.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

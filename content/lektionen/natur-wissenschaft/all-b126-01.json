@@ -1,0 +1,121 @@
+{
+  "id": "all-b126-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum geht der Mond jeden Tag später auf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Raumfahrtgeschichte",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mond",
+    "mondaufgang",
+    "himmelsbeobachtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Heute Abend steht der Mond schon in der Dämmerung am Himmel. Morgen erscheint er spürbar später.",
+        "Das liegt an seiner eigenen Reise um die Erde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Mond wandert mit",
+      "absaetze": [
+        "Die Erde dreht sich in rund 24 Stunden einmal um sich selbst. Gleichzeitig wandert der Mond auf seiner Bahn ein Stück weiter, in dieselbe Richtung.",
+        "Für eine Runde um die Erde braucht er etwa 27 Tage. Pro Tag legt er also ein gutes Stück seiner Bahn zurück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Etwa 50 Minuten später",
+      "absaetze": [
+        "Damit der Mond wieder an derselben Stelle am Himmel steht, muss sich die Erde ein wenig weiter drehen. Das dauert im Schnitt etwa 50 Minuten.",
+        "Deshalb geht der Mond jeden Tag später auf. Die genaue Verspätung schwankt im Lauf des Monats und des Jahres."
+      ],
+      "merke": "Der Mond geht jeden Tag im Schnitt etwa 50 Minuten später auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mond am Tag",
+      "absaetze": [
+        "Weil sich die Aufgangszeit ständig verschiebt, steht der Mond mal nachts, mal tagsüber am Himmel. Der Vollmond geht ungefähr bei Sonnenuntergang auf.",
+        "Wer den Mond eine Woche lang zur gleichen Uhrzeit beobachtet, sieht, wie er sich am Himmel verschiebt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welche Richtung wandert der Mond auf seiner Bahn?",
+      "art": "mc",
+      "optionen": [
+        "In dieselbe Richtung, in die sich die Erde dreht",
+        "In die Gegenrichtung",
+        "Gar nicht",
+        "Nur nach oben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb muss die Erde sich weiter drehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel später geht der Mond im Schnitt jeden Tag auf?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 50 Minuten",
+        "Etwa 5 Minuten",
+        "Etwa 5 Stunden",
+        "Gar nicht später"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die genaue Zeit schwankt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Vollmond geht ungefähr bei Sonnenuntergang auf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er steht der Sonne gegenüber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht der Mond für eine Runde um die Erde?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 27 Tage",
+        "Einen Tag",
+        "Ein Jahr",
+        "Eine Woche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pro Tag legt er ein gutes Stück zurück."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Mond wandert täglich auf seiner Bahn weiter.",
+        "Die Erde muss sich deshalb weiter drehen.",
+        "Er geht im Schnitt etwa 50 Minuten später auf.",
+        "Der Vollmond geht bei Sonnenuntergang auf."
+      ]
+    }
+  ]
+}

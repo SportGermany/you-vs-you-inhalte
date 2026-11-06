@@ -1,0 +1,123 @@
+{
+  "id": "ern-b126-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Gelatine?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gelatine",
+    "geliermittel",
+    "vegetarisch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Gummibärchen, Panna cotta und Tortenguss haben eines gemeinsam: Sie werden oft mit Gelatine fest.",
+        "Woraus besteht sie eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus tierischem Kollagen",
+      "absaetze": [
+        "Gelatine wird aus Kollagen hergestellt. Das ist ein Eiweiß aus Haut, Knochen und Bindegewebe von Tieren, meist von Schweinen oder Rindern.",
+        "Deshalb ist Gelatine weder vegetarisch noch vegan. Manche Religionen schließen bestimmte Gelatine aus."
+      ],
+      "merke": "Gelatine stammt aus tierischem Kollagen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So geliert sie",
+      "absaetze": [
+        "Blattgelatine wird zuerst in kaltem Wasser eingeweicht. Dann wird sie ausgedrückt und in einer warmen Flüssigkeit aufgelöst. Kochen sollte sie nicht.",
+        "Beim Abkühlen bildet sie ein Netz und die Masse wird fest. Wird es wieder warm, schmilzt sie. Deshalb zergehen Gummibärchen im Mund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alternativen",
+      "absaetze": [
+        "Pflanzliche Geliermittel wie Agar-Agar, Pektin oder Stärke ersetzen Gelatine. Viele Süßigkeiten gibt es inzwischen auch ohne tierische Zutaten.",
+        "Gelatine selbst liefert Eiweiß, aber wenig wertvolles. Dass Gelatine-Produkte Gelenke stärken, ist nicht belegt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Gelatine hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Aus tierischem Kollagen",
+        "Aus Algen",
+        "Aus Äpfeln",
+        "Aus Mais"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist von Schweinen oder Rindern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Gelatine vegetarisch?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja",
+        "Nur im Pudding",
+        "Nur als Pulver"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stammt von Tieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gelatine sollte stark kochen, damit sie wirkt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie wird in warmer Flüssigkeit aufgelöst, nicht gekocht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches pflanzliche Geliermittel ersetzt Gelatine?",
+      "art": "mc",
+      "optionen": [
+        "Agar-Agar",
+        "Butter",
+        "Salz",
+        "Mehl allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Pektin eignet sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gelatine stammt aus tierischem Kollagen.",
+        "Sie ist nicht vegetarisch.",
+        "Sie geliert beim Abkühlen und schmilzt bei Wärme.",
+        "Agar-Agar und Pektin sind pflanzliche Alternativen."
+      ]
+    }
+  ]
+}

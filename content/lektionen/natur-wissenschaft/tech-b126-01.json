@@ -1,0 +1,121 @@
+{
+  "id": "tech-b126-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine elektrische Zahnbürste?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zahnbuerste",
+    "zahnpflege",
+    "elektromotor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sie brummt, summt und vibriert: die elektrische Zahnbürste.",
+        "Es gibt zwei Hauptarten, die unterschiedlich arbeiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rund oder schwingend",
+      "absaetze": [
+        "Rotierend-oszillierende Zahnbürsten haben einen kleinen runden Kopf. Er dreht sich schnell hin und her und umschließt jeden Zahn einzeln.",
+        "Schallzahnbürsten haben einen länglichen Kopf. Er schwingt sehr schnell seitlich und erzeugt dabei ein hohes Summen."
+      ],
+      "merke": "Es gibt rotierend-oszillierende Bürsten und Schallzahnbürsten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Antrieb und Akku",
+      "absaetze": [
+        "Ein kleiner Elektromotor im Griff erzeugt die Bewegung. Der Akku wird meist kabellos über eine Ladestation geladen, durch Induktion.",
+        "Viele Modelle haben einen Timer und eine Andruckkontrolle. Sie warnt, wenn du zu fest drückst, denn das schadet dem Zahnfleisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut putzen",
+      "absaetze": [
+        "Studien zeigen, dass elektrische Zahnbürsten etwas mehr Belag entfernen als Handzahnbürsten. Entscheidend bleibt aber die richtige Technik.",
+        "Putze zweimal am Tag etwa zwei Minuten. Wechsle den Bürstenkopf regelmäßig, etwa alle drei Monate. Zahnseide oder Zwischenraumbürsten ergänzen das Putzen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bewegt sich der Kopf einer Schallzahnbürste?",
+      "art": "mc",
+      "optionen": [
+        "Er schwingt sehr schnell seitlich",
+        "Er dreht sich im Kreis langsam",
+        "Gar nicht",
+        "Er springt auf und ab"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei entsteht ein hohes Summen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird der Akku meist geladen?",
+      "art": "mc",
+      "optionen": [
+        "Kabellos durch Induktion",
+        "Mit Solarzellen",
+        "Mit Batterien aus dem Supermarkt allein",
+        "Mit Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Über eine Ladestation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu festes Drücken beim Putzen schadet dem Zahnfleisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine Andruckkontrolle warnt davor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du den Bürstenkopf etwa wechseln?",
+      "art": "mc",
+      "optionen": [
+        "Alle drei Monate",
+        "Einmal im Jahr",
+        "Jeden Tag",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Abgenutzte Borsten putzen schlechter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Es gibt rotierende und schwingende Zahnbürsten.",
+        "Ein Elektromotor treibt den Kopf an.",
+        "Andruckkontrolle schützt das Zahnfleisch.",
+        "Bürstenkopf regelmäßig wechseln."
+      ]
+    }
+  ]
+}
