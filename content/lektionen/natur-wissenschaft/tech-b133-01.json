@@ -1,0 +1,122 @@
+{
+  "id": "tech-b133-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was macht ein Router?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sichere Passwörter",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "router",
+    "heimnetz",
+    "internet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleines Kästchen mit blinkenden Lämpchen verbindet deine Wohnung mit dem Internet.",
+        "Was macht der Router eigentlich genau?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Vermittler",
+      "absaetze": [
+        "Der Router verbindet dein Heimnetz mit dem Internet. Er empfängt Daten vom Anbieter und leitet sie an das richtige Gerät weiter, etwa ans Handy oder an den Laptop.",
+        "Dafür gibt er jedem Gerät im Heimnetz eine eigene Adresse. Nach außen erscheinen alle Geräte unter einer gemeinsamen Adresse."
+      ],
+      "merke": "Der Router verbindet dein Heimnetz mit dem Internet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "WLAN und Schutz",
+      "absaetze": [
+        "Die meisten Router funken zugleich das WLAN. Außerdem enthalten sie eine Firewall, die unerwünschte Verbindungen von außen blockiert.",
+        "Ändere das voreingestellte Passwort für die Benutzeroberfläche und nutze eine sichere WLAN-Verschlüsselung. Spiele Updates regelmäßig ein, damit Sicherheitslücken geschlossen werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bessere Verbindung",
+      "absaetze": [
+        "Stell den Router möglichst zentral und frei auf, nicht in einen Schrank oder hinter den Fernseher. Dicke Wände und Metall schwächen das Funksignal.",
+        "Für große Wohnungen helfen Zusatzgeräte wie Repeater oder Mesh-Systeme. Ein Neustart behebt viele kleine Störungen."
+      ],
+      "merke": "Router zentral und frei aufstellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Hauptaufgabe eines Routers?",
+      "art": "mc",
+      "optionen": [
+        "Das Heimnetz mit dem Internet verbinden",
+        "Strom erzeugen",
+        "Fernsehen aufnehmen",
+        "Die Heizung steuern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er leitet Daten an das richtige Gerät weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was blockiert unerwünschte Verbindungen von außen?",
+      "art": "mc",
+      "optionen": [
+        "Die Firewall",
+        "Der Bildschirm",
+        "Die Steckdose",
+        "Das Netzkabel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist in den meisten Routern eingebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das voreingestellte Passwort des Routers kannst du bedenkenlos behalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ändere es, um dein Netz zu schützen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo stellst du den Router am besten auf?",
+      "art": "mc",
+      "optionen": [
+        "Zentral und frei",
+        "Im geschlossenen Schrank",
+        "Hinter dem Fernseher",
+        "Im Keller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wände und Metall schwächen das Signal."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Router verbindet Heimnetz und Internet.",
+        "Er verteilt Adressen an die Geräte.",
+        "Passwort ändern und Updates einspielen.",
+        "Zentral aufstellen für gutes WLAN."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ern-b133-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Knäckebrot ein gutes Diätbrot?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "knaeckebrot",
+    "brot",
+    "vollkorn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knäckebrot hat den Ruf, besonders leicht und schlank zu sein.",
+        "Doch der Eindruck täuscht ein wenig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Brot aus Schweden",
+      "absaetze": [
+        "Knäckebrot stammt aus Skandinavien. Traditionell wird es aus Roggenvollkorn gebacken.",
+        "Weil es kaum Wasser enthält, ist es sehr lange haltbar. Früher war das im langen nordischen Winter ein großer Vorteil."
+      ],
+      "merke": "Knäckebrot ist sehr trocken und lange haltbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leicht, aber nicht kalorienarm",
+      "absaetze": [
+        "Eine Scheibe Knäckebrot ist leicht und liefert deshalb wenig Energie. Bezogen auf das Gewicht enthält es aber eher mehr Energie als frisches Brot, weil das Wasser fehlt.",
+        "Vollkorn-Knäckebrot liefert viele Ballaststoffe und macht gut satt. Wichtig ist auch, was obendrauf kommt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten kannst",
+      "absaetze": [
+        "Beim Backen und Rösten kann Acrylamid entstehen. Hersteller sollen den Gehalt möglichst gering halten. Sehr dunkle Sorten enthalten tendenziell mehr.",
+        "Achte auf Vollkorn und wenig Salz. Viel Wasser dazu trinken hilft, weil Knäckebrot sehr trocken ist."
+      ],
+      "merke": "Vollkorn-Knäckebrot liefert viele Ballaststoffe.",
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Knäckebrot macht schlank.",
+      "urteil": "mythos",
+      "erklaerung": "Nicht automatisch. Bezogen auf das Gewicht hat es eher mehr Kalorien als frisches Brot. Es kommt auf die Menge und den Belag an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Knäckebrot?",
+      "art": "mc",
+      "optionen": [
+        "Aus Skandinavien",
+        "Aus Italien",
+        "Aus Mexiko",
+        "Aus Japan"
+      ],
+      "richtig": 0,
+      "erklaerung": "Traditionell aus Roggenvollkorn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Knäckebrot so lange haltbar?",
+      "art": "mc",
+      "optionen": [
+        "Es enthält kaum Wasser",
+        "Es wird gesalzen wie Fisch",
+        "Es enthält Alkohol",
+        "Es wird eingefroren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Wasser verdirbt es kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Knäckebrot hat bezogen auf das Gewicht weniger Kalorien als frisches Brot.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es hat eher mehr, weil das Wasser fehlt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff kann beim Rösten entstehen?",
+      "art": "mc",
+      "optionen": [
+        "Acrylamid",
+        "Vitamin C",
+        "Koffein",
+        "Laktose"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sehr dunkle Sorten enthalten eher mehr."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Knäckebrot ist trocken und lange haltbar.",
+        "Bezogen auf das Gewicht hat es eher mehr Kalorien als frisches Brot.",
+        "Vollkorn-Knäckebrot macht gut satt.",
+        "Sehr dunkle Sorten können mehr Acrylamid enthalten."
+      ]
+    }
+  ]
+}

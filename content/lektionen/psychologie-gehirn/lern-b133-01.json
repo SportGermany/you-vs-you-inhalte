@@ -1,0 +1,122 @@
+{
+  "id": "lern-b133-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie merkst du dir sichere Passwörter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sichere Passwörter",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "passwoerter",
+    "merken",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein sicheres Passwort soll lang und kompliziert sein. Gleichzeitig sollst du es dir merken.",
+        "Mit ein paar Tricks geht das besser, als du denkst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lange Sätze statt kurzer Codes",
+      "absaetze": [
+        "Lange Passwörter sind schwerer zu knacken als kurze. Gut merken lassen sich Passphrasen aus mehreren zufälligen Wörtern.",
+        "Ein Bild im Kopf hilft beim Erinnern. Stell dir zum Beispiel eine Szene vor, in der die Wörter vorkommen. So verknüpft das Gedächtnis sie miteinander."
+      ],
+      "merke": "Passphrasen aus mehreren Wörtern sind sicher und merkbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Anfangsbuchstaben-Methode",
+      "absaetze": [
+        "Denk dir einen Satz aus, den nur du kennst. Nimm von jedem Wort den ersten Buchstaben und ergänze Zahlen und Zeichen.",
+        "Der Satz ist die Eselsbrücke. So entsteht ein scheinbar zufälliges Passwort, das du trotzdem rekonstruieren kannst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alles im Kopf behalten",
+      "absaetze": [
+        "Für jedes Konto ein eigenes Passwort ist wichtig, aber kaum zu merken. Ein Passwortmanager speichert sie verschlüsselt.",
+        "Du musst dir dann nur noch ein starkes Hauptpasswort einprägen. Wo möglich, schützt eine Zwei-Faktor-Anmeldung zusätzlich."
+      ],
+      "merke": "Ein Passwortmanager entlastet dein Gedächtnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist leichter zu merken und trotzdem sicher?",
+      "art": "mc",
+      "optionen": [
+        "Eine Passphrase aus mehreren Wörtern",
+        "Ein kurzes Wort wie Hallo",
+        "Die eigene Telefonnummer",
+        "123456"
+      ],
+      "richtig": 0,
+      "erklaerung": "Länge macht Passwörter sicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie funktioniert die Anfangsbuchstaben-Methode?",
+      "art": "mc",
+      "optionen": [
+        "Erste Buchstaben eines Satzes plus Zahlen und Zeichen",
+        "Das Passwort rückwärts schreiben",
+        "Nur Zahlen verwenden",
+        "Den eigenen Namen nehmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Satz dient als Eselsbrücke."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du solltest für alle Konten dasselbe Passwort verwenden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Jedes Konto braucht ein eigenes Passwort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entlastet dein Gedächtnis bei vielen Konten?",
+      "art": "mc",
+      "optionen": [
+        "Ein Passwortmanager",
+        "Ein Zettel am Bildschirm",
+        "Ein einziges Passwort für alles",
+        "Kurze Passwörter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann brauchst du nur ein starkes Hauptpasswort."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lange Passphrasen sind sicher und merkbar.",
+        "Bilder im Kopf helfen beim Erinnern.",
+        "Die Anfangsbuchstaben-Methode nutzt Eselsbrücken.",
+        "Ein Passwortmanager entlastet das Gedächtnis."
+      ]
+    }
+  ]
+}

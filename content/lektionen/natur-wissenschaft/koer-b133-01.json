@@ -1,0 +1,128 @@
+{
+  "id": "koer-b133-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was verrät dein Ruhepuls?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Herzgesundheit",
+      "herausgeber": "Deutsche Herzstiftung",
+      "url": "https://www.herzstiftung.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "puls",
+    "herz",
+    "fitness"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Finger am Handgelenk, eine Minute zählen: Schon hast du deinen Puls gemessen.",
+        "Der Wert in Ruhe sagt einiges über dein Herz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was normal ist",
+      "absaetze": [
+        "Der Ruhepuls ist die Zahl der Herzschläge pro Minute, wenn du entspannt sitzt oder liegst. Bei Erwachsenen liegt er meist zwischen 60 und 100 Schlägen.",
+        "Am besten misst du ihn morgens nach dem Aufwachen, noch im Liegen. Dann stören Bewegung, Kaffee und Stress am wenigsten."
+      ],
+      "merke": "Bei Erwachsenen liegt der Ruhepuls meist zwischen 60 und 100."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Training senkt den Puls",
+      "absaetze": [
+        "Wer regelmäßig Ausdauersport treibt, hat oft einen niedrigeren Ruhepuls. Das trainierte Herz pumpt mit jedem Schlag mehr Blut.",
+        "Fieber, Flüssigkeitsmangel, Stress, Koffein und manche Medikamente erhöhen den Puls dagegen. Ein einzelner Wert sagt deshalb wenig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann zum Arzt",
+      "absaetze": [
+        "Lass einen dauerhaft sehr hohen oder sehr niedrigen Puls ärztlich prüfen, besonders mit Schwindel oder Atemnot. Auch Herzstolpern oder unregelmäßiger Puls gehören abgeklärt.",
+        "Sportuhren messen den Puls oft gut, aber nicht immer genau. Bei Auffälligkeiten ist ein EKG in der Praxis zuverlässiger."
+      ],
+      "merke": "Unregelmäßigen Puls oder Schwindel ärztlich abklären lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo liegt der Ruhepuls bei Erwachsenen meist?",
+      "art": "mc",
+      "optionen": [
+        "Zwischen 60 und 100 Schlägen pro Minute",
+        "Zwischen 10 und 20",
+        "Über 150",
+        "Genau bei 120"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemessen in entspanntem Zustand."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann misst du den Ruhepuls am besten?",
+      "art": "mc",
+      "optionen": [
+        "Morgens nach dem Aufwachen im Liegen",
+        "Direkt nach dem Joggen",
+        "Nach drei Tassen Kaffee",
+        "Während eines Streits"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann stören Einflüsse am wenigsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Regelmäßiger Ausdauersport kann den Ruhepuls senken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das trainierte Herz arbeitet effizienter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Auffälligkeiten zuverlässiger als eine Sportuhr?",
+      "art": "mc",
+      "optionen": [
+        "Ein EKG in der Praxis",
+        "Ein Schrittzähler",
+        "Ein Thermometer",
+        "Eine Waage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es zeichnet den Herzrhythmus genau auf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Ruhepuls liegt meist zwischen 60 und 100.",
+        "Miss ihn morgens im Liegen.",
+        "Ausdauertraining kann ihn senken.",
+        "Unregelmäßigkeiten ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

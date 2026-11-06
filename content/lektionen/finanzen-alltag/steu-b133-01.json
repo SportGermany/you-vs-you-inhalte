@@ -1,0 +1,122 @@
+{
+  "id": "steu-b133-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du die Kosten für deine Steuerberatung absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuerberatung",
+    "werbungskosten",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer sich bei der Steuererklärung helfen lässt, zahlt dafür oft einige hundert Euro.",
+        "Ob das Finanzamt sich daran beteiligt, hängt davon ab, wofür die Beratung war."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Absetzbar, wenn es um Einkünfte geht",
+      "absaetze": [
+        "Kosten für Steuerberatung sind absetzbar, soweit sie mit deinen Einkünften zusammenhängen. Etwa für die Anlage zu deinem Arbeitslohn oder für Mieteinnahmen.",
+        "Sie zählen dann zu den Werbungskosten oder bei Selbstständigen zu den Betriebsausgaben. Das gilt auch für Steuersoftware und Fachliteratur."
+      ],
+      "merke": "Beratung zu Einkünften ist absetzbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Privater Teil zählt nicht",
+      "absaetze": [
+        "Kosten für den allgemeinen Teil der Erklärung sind seit 2006 nicht mehr absetzbar. Dazu gehören etwa Angaben zu Sonderausgaben oder Kindern.",
+        "Der Steuerberater sollte die Rechnung deshalb aufteilen. Bei gemischten Kosten bis zu einer kleinen Grenze akzeptiert das Finanzamt oft eine pauschale Aufteilung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lohnsteuerhilfevereine",
+      "absaetze": [
+        "Für Arbeitnehmer und Rentner kann ein Lohnsteuerhilfeverein günstiger sein. Der Mitgliedsbeitrag lässt sich in der Regel ebenfalls anteilig absetzen.",
+        "Wie bei allen Werbungskosten gilt: Sie wirken sich bei Arbeitnehmern erst aus, wenn sie zusammen den Arbeitnehmer-Pauschbetrag übersteigen."
+      ],
+      "merke": "Steuersoftware ist oft ebenfalls absetzbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sind Steuerberatungskosten absetzbar?",
+      "art": "mc",
+      "optionen": [
+        "Wenn sie mit Einkünften zusammenhängen",
+        "Immer vollständig",
+        "Nie",
+        "Nur für Rentner"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa für Arbeitslohn oder Mieteinnahmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann ist der private Teil nicht mehr absetzbar?",
+      "art": "mc",
+      "optionen": [
+        "Seit 2006",
+        "Seit 1950",
+        "Seit 2024",
+        "Er war es nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören etwa Sonderausgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kosten für Steuersoftware können absetzbar sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ebenso Fachliteratur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sollte der Steuerberater auf der Rechnung tun?",
+      "art": "mc",
+      "optionen": [
+        "Die Kosten aufteilen",
+        "Nur einen Pauschalbetrag ohne Angaben nennen",
+        "Die Rechnung weglassen",
+        "Die Kosten verdoppeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "So ist klar, welcher Teil absetzbar ist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beratungskosten zu Einkünften sind absetzbar.",
+        "Der private Teil ist seit 2006 nicht absetzbar.",
+        "Die Rechnung sollte aufgeteilt werden.",
+        "Auch Steuersoftware kann absetzbar sein."
+      ]
+    }
+  ]
+}

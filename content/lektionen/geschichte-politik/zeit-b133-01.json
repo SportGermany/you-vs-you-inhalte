@@ -1,0 +1,128 @@
+{
+  "id": "zeit-b133-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was wurde aus dem Waldsterben der 1980er-Jahre?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelt und Abfall",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waldsterben",
+    "saurer-regen",
+    "1980er"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Anfang der 1980er-Jahre fürchteten viele in Deutschland, der Wald werde bald verschwunden sein.",
+        "Das Waldsterben wurde zu einem der großen Umweltthemen seiner Zeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Saurer Regen",
+      "absaetze": [
+        "Kraftwerke, Industrie und Autos stießen große Mengen Schwefeldioxid und Stickoxide aus. In der Luft bildeten sich Säuren, die mit dem Regen auf die Wälder fielen.",
+        "In vielen Mittelgebirgen zeigten Bäume deutliche Schäden. Besonders betroffen waren Fichten und Tannen in höheren Lagen."
+      ],
+      "merke": "Saurer Regen entstand vor allem aus Schwefeldioxid."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Politik reagierte",
+      "absaetze": [
+        "1983 wurden Großkraftwerke verpflichtet, ihre Abgase zu entschwefeln. Wenig später kamen Katalysator und bleifreies Benzin für Autos.",
+        "Der Schwefelausstoß sank in den folgenden Jahrzehnten drastisch. Auch international wurden Abkommen gegen grenzüberschreitende Luftverschmutzung geschlossen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wir daraus lernen",
+      "absaetze": [
+        "Das befürchtete großflächige Absterben blieb aus. Gründe waren die Schutzmaßnahmen, aber auch zu düstere Prognosen.",
+        "Gesund ist der Wald trotzdem nicht. Heute setzen ihm vor allem Dürre, Hitze und Schädlinge im Zuge des Klimawandels zu."
+      ],
+      "merke": "Schutzmaßnahmen haben den sauren Regen stark verringert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was war die Hauptursache für sauren Regen?",
+      "art": "mc",
+      "optionen": [
+        "Schwefeldioxid aus Kraftwerken und Industrie",
+        "Zu viel Sonnenlicht",
+        "Vulkanausbrüche in Deutschland",
+        "Waldbrände"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kamen Stickoxide."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wurde 1983 für Großkraftwerke vorgeschrieben?",
+      "art": "mc",
+      "optionen": [
+        "Die Entschwefelung der Abgase",
+        "Die Abschaltung aller Kraftwerke",
+        "Eine Steuer auf Holz",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schwefelausstoß sank danach stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das befürchtete großflächige Waldsterben ist eingetreten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es blieb aus, auch dank Schutzmaßnahmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was setzt dem Wald heute besonders zu?",
+      "art": "mc",
+      "optionen": [
+        "Dürre, Hitze und Schädlinge",
+        "Saurer Regen wie in den 1980ern",
+        "Zu viele Wanderer",
+        "Zu viel Schnee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das hängt mit dem Klimawandel zusammen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In den 1980ern schädigte saurer Regen viele Wälder.",
+        "Ursache war vor allem Schwefeldioxid.",
+        "Abgasentschwefelung und Katalysator halfen.",
+        "Heute leidet der Wald vor allem unter dem Klimawandel."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b133-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist ein Kaffee-Nickerchen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nickerchen",
+    "koffein",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Erst einen Espresso trinken und sich dann sofort hinlegen? Das klingt widersinnig.",
+        "Manche schwören trotzdem auf dieses Kaffee-Nickerchen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee dahinter",
+      "absaetze": [
+        "Koffein braucht nach dem Trinken etwa 20 bis 30 Minuten, bis es richtig wirkt. Ein kurzes Nickerchen dauert ähnlich lange.",
+        "Die Vermutung: Wer direkt nach dem Kaffee kurz schläft, wacht auf, wenn das Koffein einsetzt. Ob das im Alltag viel bringt, ist unklar."
+      ],
+      "merke": "Koffein wirkt erst nach etwa 20 bis 30 Minuten.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass die Kombination wacher macht als Kaffee oder Nickerchen allein. Etwa bei müden Autofahrern im Fahrsimulator.",
+        "Die Studien sind aber wenige und klein. Ob der Effekt im Alltag groß ist, bleibt unklar."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "So geht es",
+      "absaetze": [
+        "Halte das Nickerchen kurz, etwa 15 bis 20 Minuten. Längerer Schlaf führt eher zu Benommenheit nach dem Aufwachen.",
+        "Am späten Nachmittag ist Koffein ungünstig für den Nachtschlaf. Bei Müdigkeit am Steuer ist eine echte Pause wichtig. Ein Kaffee ersetzt keinen ausreichenden Schlaf."
+      ],
+      "merke": "Bei Müdigkeit am Steuer immer eine Pause machen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange braucht Koffein, bis es richtig wirkt?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 20 bis 30 Minuten",
+        "Wenige Sekunden",
+        "Mehrere Stunden",
+        "Einen Tag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Darauf beruht die Idee."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lang sollte ein Kaffee-Nickerchen sein?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 15 bis 20 Minuten",
+        "Zwei Stunden",
+        "Eine Minute",
+        "Die ganze Nacht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Länger macht eher benommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Wirkung des Kaffee-Nickerchens ist durch große Studien gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt nur wenige kleine Studien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ersetzt ein Kaffee nicht?",
+      "art": "mc",
+      "optionen": [
+        "Ausreichenden Schlaf",
+        "Ein Glas Wasser",
+        "Einen Löffel Zucker",
+        "Eine Zeitung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Müdigkeit hilft auf Dauer nur Schlaf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Koffein wirkt nach etwa 20 bis 30 Minuten.",
+        "Beim Kaffee-Nickerchen schläfst du direkt danach kurz.",
+        "Kleine Studien deuten auf einen Vorteil hin.",
+        "Am Steuer immer eine echte Pause machen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "vers-b133-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie verbindlich ist ein Kostenvoranschlag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kostenvoranschlag",
+    "handwerker",
+    "vertrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Handwerker schätzt die Reparatur auf 800 Euro. Am Ende steht auf der Rechnung deutlich mehr.",
+        "Musst du das einfach bezahlen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Meist unverbindlich",
+      "absaetze": [
+        "Ein Kostenvoranschlag ist in der Regel eine unverbindliche Schätzung. Kleinere Abweichungen nach oben sind deshalb erlaubt.",
+        "Anders ist es bei einem verbindlichen Kostenvoranschlag oder einem Festpreis. Dann gilt der vereinbarte Betrag, auch wenn der Aufwand größer wird."
+      ],
+      "merke": "Ein normaler Kostenvoranschlag ist eine unverbindliche Schätzung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es deutlich teurer wird",
+      "absaetze": [
+        "Merkt der Handwerker, dass die Kosten wesentlich überschritten werden, muss er dich rechtzeitig informieren. Du kannst den Auftrag dann kündigen.",
+        "Bereits erbrachte Arbeit musst du dann anteilig bezahlen. Als wesentlich gilt oft eine Überschreitung um etwa 15 bis 20 Prozent, eine feste Grenze gibt es aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kostet der Kostenvoranschlag selbst etwas?",
+      "absaetze": [
+        "Ein Kostenvoranschlag ist im Zweifel kostenlos. Will der Handwerker dafür Geld, muss er das vorher mit dir vereinbaren.",
+        "Lass dir Angebote schriftlich geben und vergleiche mehrere. So kannst du später nachvollziehen, was vereinbart war."
+      ],
+      "merke": "Vereinbarungen immer schriftlich festhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein normaler Kostenvoranschlag rechtlich?",
+      "art": "mc",
+      "optionen": [
+        "Eine unverbindliche Schätzung",
+        "Ein fester Preis",
+        "Eine Rechnung",
+        "Eine Versicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kleinere Abweichungen sind erlaubt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was muss der Handwerker bei einer wesentlichen Überschreitung tun?",
+      "art": "mc",
+      "optionen": [
+        "Dich rechtzeitig informieren",
+        "Einfach weiterarbeiten",
+        "Die Arbeit kostenlos machen",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du kannst den Auftrag dann kündigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kostenvoranschlag kostet immer Geld.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Im Zweifel ist er kostenlos, außer es wurde etwas anderes vereinbart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt bei einem vereinbarten Festpreis?",
+      "art": "mc",
+      "optionen": [
+        "Der vereinbarte Betrag",
+        "Der Handwerker darf beliebig erhöhen",
+        "Gar nichts",
+        "Nur die Materialkosten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch wenn der Aufwand größer wird."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Kostenvoranschlag ist meist unverbindlich.",
+        "Bei deutlicher Überschreitung musst du informiert werden.",
+        "Dann kannst du den Auftrag kündigen.",
+        "Der Kostenvoranschlag ist im Zweifel kostenlos."
+      ]
+    }
+  ]
+}

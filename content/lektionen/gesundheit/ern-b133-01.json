@@ -1,0 +1,130 @@
+{
+  "id": "ern-b133-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund und nachhaltig sind Garnelen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "garnelen",
+    "meeresfruechte",
+    "nachhaltigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob in der Pfanne, im Salat oder auf dem Brötchen: Garnelen sind beliebt.",
+        "Gesundheitlich haben sie einiges zu bieten. Bei der Herkunft lohnt aber ein zweiter Blick."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Eiweiß, wenig Fett",
+      "absaetze": [
+        "Garnelen liefern viel Eiweiß und kaum Fett. Dazu kommen Jod und Selen, die in vielen anderen Lebensmitteln selten sind.",
+        "Sie enthalten etwas Cholesterin. Für die meisten Menschen spielt das im Rahmen einer ausgewogenen Ernährung keine große Rolle."
+      ],
+      "merke": "Garnelen sind eiweißreich und fettarm.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher sie kommen",
+      "absaetze": [
+        "Viele Garnelen stammen aus Zuchtanlagen in Südostasien oder Lateinamerika. Für manche Anlagen wurden Mangrovenwälder abgeholzt, teils werden Antibiotika eingesetzt.",
+        "Wild gefangene Garnelen werden oft mit Grundschleppnetzen gefischt. Dabei landet viel Beifang im Netz. Siegel für Zucht und Fang helfen bei der Auswahl."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Einkauf und Kochen",
+      "absaetze": [
+        "Garnelen sollten immer gut durchgegart werden. Tiefgekühlte Ware taust du am besten im Kühlschrank auf.",
+        "Wer auf Krebstiere allergisch reagiert, muss Garnelen meiden. Die Allergie kann heftig verlaufen und ist auf der Verpackung kennzeichnungspflichtig."
+      ],
+      "merke": "Garnelen immer gut durchgaren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefern Garnelen vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Viel Eiweiß bei wenig Fett",
+        "Viel Zucker",
+        "Viel Vitamin C",
+        "Viele Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Jod und Selen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Umweltproblem ist mit manchen Zuchtanlagen verbunden?",
+      "art": "mc",
+      "optionen": [
+        "Abholzung von Mangrovenwäldern",
+        "Zu viele Wale",
+        "Vulkanausbrüche",
+        "Waldbrände in Kanada"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Antibiotika werden teils eingesetzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Garnelen können eine heftige Allergie auslösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Krebstiere sind kennzeichnungspflichtige Allergene."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie taust du tiefgekühlte Garnelen am besten auf?",
+      "art": "mc",
+      "optionen": [
+        "Im Kühlschrank",
+        "In der Sonne",
+        "Im warmen Wasser über Nacht",
+        "Auf der Heizung"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleiben sie hygienisch einwandfrei."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Garnelen sind eiweißreich und fettarm.",
+        "Viele stammen aus problematischer Zucht oder Fang.",
+        "Siegel helfen bei der Auswahl.",
+        "Immer gut durchgaren."
+      ]
+    }
+  ]
+}

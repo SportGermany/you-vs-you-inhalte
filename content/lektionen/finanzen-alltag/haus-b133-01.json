@@ -1,0 +1,128 @@
+{
+  "id": "haus-b133-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entsorgst du altes Speiseöl richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelt und Abfall",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "speiseoel",
+    "entsorgung",
+    "abfluss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Frittieren bleibt eine Menge Fett übrig.",
+        "Der Weg in den Ausguss scheint der einfachste. Genau der ist aber der falsche."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht in den Abfluss",
+      "absaetze": [
+        "Fett und Öl kühlen in den Rohren ab und werden fest. Zusammen mit anderen Resten bilden sie Ablagerungen, die Leitungen verstopfen.",
+        "In der Kanalisation entstehen so teure Schäden. Zudem lockt das Fett Ratten an. Auch die Toilette ist kein geeigneter Weg."
+      ],
+      "merke": "Speiseöl gehört nie in den Abfluss oder die Toilette."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Mengen",
+      "absaetze": [
+        "Reste in der Pfanne wischst du am besten mit Küchenpapier aus. Das Papier kommt in den Restmüll.",
+        "Etwas größere Mengen füllst du nach dem Abkühlen in ein verschließbares Gefäß, etwa eine alte Flasche. Diese kommt ebenfalls in den Restmüll."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Große Mengen",
+      "absaetze": [
+        "Größere Mengen Frittierfett nehmen viele Wertstoffhöfe an. Daraus kann zum Beispiel Biodiesel entstehen.",
+        "Ob Speisereste mit Fett in die Biotonne dürfen, regelt jede Kommune selbst. Frag im Zweifel bei deinem örtlichen Entsorger nach."
+      ],
+      "merke": "Größere Mengen gehören zum Wertstoffhof."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gehört Speiseöl nicht in den Abfluss?",
+      "art": "mc",
+      "optionen": [
+        "Es wird fest und verstopft die Rohre",
+        "Es macht das Wasser zu heiß",
+        "Es löst Rohre auf",
+        "Es ist verboten zu kochen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Außerdem lockt es Ratten an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin kommen kleine Mengen Öl im Küchenpapier?",
+      "art": "mc",
+      "optionen": [
+        "In den Restmüll",
+        "In die Papiertonne",
+        "In den Gelben Sack",
+        "Ins Altglas"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Papier ist mit Fett verschmutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Öl darf in die Toilette gekippt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch dort verstopft es Leitungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kannst du größere Mengen Frittierfett abgeben?",
+      "art": "mc",
+      "optionen": [
+        "Beim Wertstoffhof",
+        "Im Supermarkt an der Kasse",
+        "Im Wald",
+        "Im Garten vergraben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus kann Biodiesel entstehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Speiseöl nie in Abfluss oder Toilette.",
+        "Kleine Mengen mit Küchenpapier in den Restmüll.",
+        "Größere Mengen in verschlossenen Gefäßen entsorgen.",
+        "Viele Wertstoffhöfe nehmen Frittierfett an."
+      ]
+    }
+  ]
+}

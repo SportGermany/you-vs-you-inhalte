@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b133-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was machen die Schilddrüsenhormone?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schilddruese",
+    "hormone",
+    "jod"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Schilddrüse ist klein, doch ihre Hormone wirken in fast jeder Zelle.",
+        "Gerät sie aus dem Takt, merkt das der ganze Körper."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "T4 und T3",
+      "absaetze": [
+        "Die Schilddrüse bildet vor allem zwei Hormone: Thyroxin, kurz T4, und Trijodthyronin, kurz T3. Für beide braucht sie Jod.",
+        "T4 wird im Körper teilweise in das wirksamere T3 umgewandelt. Beide gelangen über das Blut in nahezu alle Gewebe."
+      ],
+      "merke": "Für ihre Hormone braucht die Schilddrüse Jod.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gaspedal des Stoffwechsels",
+      "absaetze": [
+        "Schilddrüsenhormone beeinflussen, wie viel Energie der Körper verbraucht. Sie wirken auf Herzschlag, Körpertemperatur, Verdauung und Stimmung.",
+        "Bei Kindern sind sie für Wachstum und die Entwicklung des Gehirns wichtig. Deshalb wird bei Neugeborenen die Schilddrüsenfunktion untersucht."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Regelkreis",
+      "absaetze": [
+        "Die Hirnanhangdrüse steuert die Schilddrüse mit dem Hormon TSH. Ist zu wenig Schilddrüsenhormon im Blut, steigt TSH an, und umgekehrt.",
+        "Deshalb wird bei Verdacht auf eine Störung meist zuerst TSH im Blut gemessen. Die Behandlung gehört in ärztliche Hände."
+      ],
+      "merke": "Meist wird zuerst der TSH-Wert gemessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Stoff braucht die Schilddrüse für ihre Hormone?",
+      "art": "mc",
+      "optionen": [
+        "Jod",
+        "Eisen",
+        "Kalzium",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist Jod in der Ernährung wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon ist besonders wirksam?",
+      "art": "mc",
+      "optionen": [
+        "T3",
+        "Insulin",
+        "Adrenalin",
+        "Melatonin"
+      ],
+      "richtig": 0,
+      "erklaerung": "T4 wird teilweise in T3 umgewandelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schilddrüsenhormone beeinflussen Herzschlag und Körpertemperatur.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie wirken in fast allen Geweben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Wert wird bei Verdacht auf eine Störung meist zuerst gemessen?",
+      "art": "mc",
+      "optionen": [
+        "TSH",
+        "HbA1c",
+        "Cholesterin",
+        "Ferritin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es stammt aus der Hirnanhangdrüse."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Schilddrüse bildet die Hormone T4 und T3.",
+        "Dafür braucht sie Jod.",
+        "Die Hormone steuern den Energieverbrauch.",
+        "Die Hirnanhangdrüse regelt sie über TSH.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
