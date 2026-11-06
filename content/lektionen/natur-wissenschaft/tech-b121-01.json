@@ -1,0 +1,121 @@
+{
+  "id": "tech-b121-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie korrigiert eine Brille das Sehen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Augengesundheit",
+      "herausgeber": "Berufsverband der Augenärzte Deutschlands",
+      "url": "https://www.augeninfo.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "brille",
+    "kurzsichtigkeit",
+    "linsen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ohne Brille verschwimmt die Tafel oder die Zeitung. Mit Brille ist alles scharf.",
+        "Dahinter steckt einfache Optik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Bild auf der Netzhaut",
+      "absaetze": [
+        "Hornhaut und Linse im Auge bündeln das Licht. Im gesunden Auge entsteht ein scharfes Bild genau auf der Netzhaut.",
+        "Bei Kurzsichtigkeit ist der Augapfel meist etwas zu lang. Das scharfe Bild entsteht vor der Netzhaut. Ferne Dinge wirken verschwommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zerstreuen oder sammeln",
+      "absaetze": [
+        "Brillengläser für Kurzsichtige sind in der Mitte dünner als am Rand. Sie zerstreuen das Licht etwas, sodass das Bild weiter hinten auf der Netzhaut landet.",
+        "Bei Weitsichtigkeit ist es umgekehrt. Sammelnde Gläser sind in der Mitte dicker. Die Stärke wird in Dioptrien angegeben, mit Minus oder Plus."
+      ],
+      "merke": "Minusgläser zerstreuen, Plusgläser sammeln das Licht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Sehfehler",
+      "absaetze": [
+        "Bei einer Hornhautverkrümmung ist die Hornhaut ungleichmäßig gewölbt. Spezielle Gläser gleichen das aus.",
+        "Ab etwa 45 Jahren wird die Augenlinse weniger elastisch. Dann brauchen viele eine Lesebrille. Lass deine Augen regelmäßig prüfen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo entsteht das scharfe Bild bei Kurzsichtigkeit?",
+      "art": "mc",
+      "optionen": [
+        "Vor der Netzhaut",
+        "Hinter dem Kopf",
+        "Genau auf der Netzhaut",
+        "In der Linse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ferne Dinge wirken dann verschwommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Gläser brauchen Kurzsichtige?",
+      "art": "mc",
+      "optionen": [
+        "Zerstreuende Minusgläser",
+        "Sammelnde Plusgläser",
+        "Farbige Gläser",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind in der Mitte dünner."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Stärke von Brillengläsern wird in Dioptrien angegeben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Mit Minus oder Plus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum brauchen viele ab etwa 45 eine Lesebrille?",
+      "art": "mc",
+      "optionen": [
+        "Die Augenlinse wird weniger elastisch",
+        "Die Augen werden größer",
+        "Das Licht wird schwächer",
+        "Wegen zu viel Lesen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man Alterssichtigkeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein scharfes Bild entsteht auf der Netzhaut.",
+        "Kurzsichtige brauchen zerstreuende Gläser.",
+        "Weitsichtige brauchen sammelnde Gläser.",
+        "Mit dem Alter brauchen viele eine Lesebrille."
+      ]
+    }
+  ]
+}

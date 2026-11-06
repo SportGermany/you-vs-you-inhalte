@@ -1,0 +1,123 @@
+{
+  "id": "ern-b121-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Agar-Agar?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "agar-agar",
+    "geliermittel",
+    "vegan"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer vegane Götterspeise macht, greift oft zu Agar-Agar.",
+        "Das weiße Pulver stammt aus dem Meer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus Rotalgen",
+      "absaetze": [
+        "Agar-Agar wird aus bestimmten Rotalgen gewonnen. Es ist ein pflanzliches Geliermittel und ersetzt Gelatine, die aus Tierknochen und Haut stammt.",
+        "In der EU ist es als Zusatzstoff E 406 zugelassen."
+      ],
+      "merke": "Agar-Agar ist ein pflanzliches Geliermittel aus Rotalgen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Anders als Gelatine",
+      "absaetze": [
+        "Agar-Agar muss kurz aufgekocht werden, damit es wirkt. Beim Abkühlen geliert es schon bei vergleichsweise hohen Temperaturen.",
+        "Es geliert stärker als Gelatine. Du brauchst also weniger davon. Die Masse wird eher fest und weniger wabbelig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch im Labor",
+      "absaetze": [
+        "In der Mikrobiologie ist Agar unverzichtbar. Nährböden in Petrischalen bestehen oft daraus. Darauf wachsen Bakterien in Kolonien.",
+        "Als Ballaststoff kann Agar-Agar in großen Mengen abführend wirken. In üblichen Kochmengen spielt das kaum eine Rolle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Agar-Agar gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus Rotalgen",
+        "Aus Schweinehaut",
+        "Aus Mais",
+        "Aus Milch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist pflanzlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was muss man mit Agar-Agar tun, damit es wirkt?",
+      "art": "mc",
+      "optionen": [
+        "Kurz aufkochen",
+        "Einfrieren",
+        "Nur kalt einrühren",
+        "Mit Essig mischen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Abkühlen geliert es."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Agar-Agar geliert schwächer als Gelatine.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es geliert stärker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird Agar im Labor genutzt?",
+      "art": "mc",
+      "optionen": [
+        "Für Nährböden in Petrischalen",
+        "Als Brennstoff",
+        "Zum Putzen",
+        "Als Farbstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Darauf wachsen Bakterien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Agar-Agar stammt aus Rotalgen.",
+        "Es ersetzt Gelatine pflanzlich.",
+        "Es muss aufgekocht werden.",
+        "Im Labor dient es als Nährboden."
+      ]
+    }
+  ]
+}

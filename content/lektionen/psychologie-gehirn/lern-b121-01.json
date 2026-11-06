@@ -1,0 +1,124 @@
+{
+  "id": "lern-b121-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Was unterscheidet Kurzzeit- und Langzeitgedächtnis?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gedaechtnis",
+    "hippocampus",
+    "lernen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Telefonnummer hast du kurz im Kopf, dann ist sie weg. Den Namen deiner ersten Lehrerin weißt du nach Jahrzehnten noch.",
+        "Das liegt an unterschiedlichen Gedächtnissystemen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurz und begrenzt",
+      "absaetze": [
+        "Das Kurzzeitgedächtnis hält Informationen für Sekunden bis wenige Minuten. Seine Kapazität ist klein.",
+        "Ohne Wiederholung oder Bedeutung verschwindet die Information schnell wieder. Eng verwandt ist das Arbeitsgedächtnis, mit dem wir Informationen gleichzeitig bearbeiten."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lang und riesig",
+      "absaetze": [
+        "Das Langzeitgedächtnis kann Informationen über Jahre und Jahrzehnte speichern. Seine Kapazität scheint praktisch unbegrenzt.",
+        "Damit etwas dorthin gelangt, hilft Wiederholung, Bedeutung und Verknüpfung mit Bekanntem. Auch Schlaf spielt eine wichtige Rolle beim Festigen."
+      ],
+      "merke": "Wiederholung, Bedeutung und Schlaf bringen Wissen ins Langzeitgedächtnis.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein berühmter Patient",
+      "absaetze": [
+        "Viel lernte die Forschung von Henry Molaison. Ihm wurden 1953 Teile des Gehirns entfernt, darunter große Teile beider Hippocampi.",
+        "Danach konnte er sich kaum noch Neues dauerhaft merken. Alte Erinnerungen und Fertigkeiten blieben aber teilweise erhalten. So zeigte sich die wichtige Rolle des Hippocampus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hält das Kurzzeitgedächtnis Informationen?",
+      "art": "mc",
+      "optionen": [
+        "Sekunden bis wenige Minuten",
+        "Jahrzehnte",
+        "Genau einen Tag",
+        "Ein Jahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seine Kapazität ist klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, Wissen ins Langzeitgedächtnis zu bringen?",
+      "art": "mc",
+      "optionen": [
+        "Wiederholung, Bedeutung und Schlaf",
+        "Nur einmaliges Lesen",
+        "Lärm",
+        "Hunger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verknüpfungen mit Bekanntem helfen ebenfalls."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Langzeitgedächtnis hat eine sehr kleine Kapazität.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie scheint praktisch unbegrenzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hirnregion zeigte sich bei Henry Molaison als wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Der Hippocampus",
+        "Das Kleinhirn",
+        "Der Sehnerv",
+        "Die Hypophyse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne ihn konnte er sich kaum Neues merken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Kurzzeitgedächtnis ist kurz und begrenzt.",
+        "Das Langzeitgedächtnis speichert über Jahrzehnte.",
+        "Wiederholung und Schlaf festigen Wissen.",
+        "Der Hippocampus ist für neue Erinnerungen wichtig."
+      ]
+    }
+  ]
+}

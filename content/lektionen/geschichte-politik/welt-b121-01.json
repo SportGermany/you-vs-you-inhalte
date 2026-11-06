@@ -1,0 +1,121 @@
+{
+  "id": "welt-b121-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Andreas Vesalius?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte im Überblick",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vesalius",
+    "anatomie",
+    "renaissance"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über 1.000 Jahre lang lernten Ärzte die Anatomie aus alten Büchern.",
+        "Ein junger Arzt schaute selbst nach und stellte vieles richtig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Anatom aus Brüssel",
+      "absaetze": [
+        "Andreas Vesalius wurde 1514 in Brüssel geboren. Er studierte Medizin und wurde schon mit Anfang 20 Professor in Padua.",
+        "Damals lasen Professoren die Lehren des antiken Arztes Galen vor. Gehilfen sezierten dazu, oft ohne genau hinzusehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selbst sezieren",
+      "absaetze": [
+        "Vesalius sezierte Menschen selbst und beobachtete genau. Dabei fand er viele Fehler in Galens Schriften. Galen hatte vor allem Tiere untersucht.",
+        "1543 veröffentlichte Vesalius sein großes Werk über den Bau des menschlichen Körpers. Es enthielt sehr genaue, kunstvolle Abbildungen."
+      ],
+      "merke": "Vesalius korrigierte die Anatomie durch eigene Sektionen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Wendepunkt",
+      "absaetze": [
+        "Sein Buch gilt als Beginn der modernen Anatomie. Wichtig war vor allem die Methode: genau beobachten statt nur alten Autoritäten zu glauben.",
+        "Vesalius wurde später Leibarzt von Kaiser Karl V. Er starb 1564 auf der Rückreise von einer Pilgerfahrt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurde Vesalius geboren?",
+      "art": "mc",
+      "optionen": [
+        "In Brüssel",
+        "In Rom",
+        "In Wien",
+        "In London"
+      ],
+      "richtig": 0,
+      "erklaerung": "Professor wurde er in Padua."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wessen Fehler korrigierte er?",
+      "art": "mc",
+      "optionen": [
+        "Die Fehler Galens",
+        "Die Fehler Newtons",
+        "Die Fehler Darwins",
+        "Die Fehler Kochs"
+      ],
+      "richtig": 0,
+      "erklaerung": "Galen hatte vor allem Tiere untersucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann erschien sein großes Werk?",
+      "art": "mc",
+      "optionen": [
+        "1543",
+        "1492",
+        "1789",
+        "1900"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es enthielt sehr genaue Abbildungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vesalius verließ sich vor allem auf alte Bücher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er sezierte und beobachtete selbst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vesalius sezierte Menschen selbst.",
+        "Er fand viele Fehler in Galens Lehre.",
+        "1543 erschien sein großes Anatomiewerk.",
+        "Er gilt als Begründer der modernen Anatomie."
+      ]
+    }
+  ]
+}

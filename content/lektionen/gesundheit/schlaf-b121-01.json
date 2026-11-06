@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b121-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hat jede Zelle eine innere Uhr?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "innere uhr",
+    "rhythmus",
+    "chronobiologie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du denkst bei der inneren Uhr vielleicht an das Gehirn.",
+        "Tatsächlich ticken in fast allen Organen eigene kleine Uhren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Uhren in den Zellen",
+      "absaetze": [
+        "Fast jede Zelle des Körpers hat Gene, die in einem etwa 24-stündigen Rhythmus an- und abgeschaltet werden. Sie bilden eine molekulare Uhr.",
+        "Für die Entdeckung dieser Uhrgene bei Fruchtfliegen erhielten drei Forscher 2017 den Nobelpreis für Medizin."
+      ],
+      "merke": "In fast allen Zellen tickt eine eigene innere Uhr.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Dirigent im Gehirn",
+      "absaetze": [
+        "Eine Hauptuhr sitzt im Gehirn, im Hypothalamus. Sie bekommt über die Augen Informationen über Licht und Dunkelheit.",
+        "Sie stimmt die Uhren in Leber, Herz, Darm und anderen Organen aufeinander ab. So arbeiten sie im Takt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Takt durcheinandergerät",
+      "absaetze": [
+        "Neben Licht stellen auch Essenszeiten die Uhren in den Organen. Wer nachts isst, kann sie aus dem Takt bringen.",
+        "Bei Schichtarbeit oder Jetlag laufen Hauptuhr und Organuhren oft nicht mehr synchron. Studien deuten darauf hin, dass das langfristig den Stoffwechsel belasten kann."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo gibt es innere Uhren?",
+      "art": "mc",
+      "optionen": [
+        "In fast allen Zellen",
+        "Nur im Gehirn",
+        "Nur im Herzen",
+        "Nur in der Haut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gene schalten sich im Tagesrhythmus an und ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür gab es 2017 den Nobelpreis für Medizin?",
+      "art": "mc",
+      "optionen": [
+        "Für die Entdeckung von Uhrgenen",
+        "Für ein Schlafmittel",
+        "Für einen Wecker",
+        "Für die Entdeckung des Melatonins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Forscher arbeiteten mit Fruchtfliegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch Essenszeiten können die Organuhren verstellen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Neben Licht wirken auch Mahlzeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt die Hauptuhr?",
+      "art": "mc",
+      "optionen": [
+        "Im Hypothalamus im Gehirn",
+        "In der Leber",
+        "Im Magen",
+        "In der Lunge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie bekommt Lichtinformationen über die Augen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fast jede Zelle hat eine innere Uhr.",
+        "Eine Hauptuhr im Gehirn gibt den Takt vor.",
+        "Licht und Essenszeiten stellen die Uhren.",
+        "Schichtarbeit kann den Takt stören."
+      ]
+    }
+  ]
+}

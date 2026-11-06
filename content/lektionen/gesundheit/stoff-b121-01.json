@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b121-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Kann der Körper Zucker selbst herstellen?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "glukoneogenese",
+    "blutzucker",
+    "leber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auch wenn du stundenlang nichts gegessen hast, sinkt dein Blutzucker nicht auf null.",
+        "Der Körper kann Zucker nämlich selbst herstellen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zuerst die Speicher",
+      "absaetze": [
+        "Nach dem Essen speichert der Körper Zucker als Glykogen in Leber und Muskeln. Zwischen den Mahlzeiten gibt die Leber daraus Zucker ins Blut ab.",
+        "Diese Speicher reichen aber nur begrenzt. Nach etwa einem Tag ohne Nahrung sind sie in der Leber weitgehend leer."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zucker aus anderen Stoffen",
+      "absaetze": [
+        "Dann bildet der Körper neuen Zucker. Fachleute nennen das Glukoneogenese. Sie findet vor allem in der Leber statt, teils auch in den Nieren.",
+        "Als Bausteine dienen etwa Milchsäure aus den Muskeln, Teile von Fett und Eiweißbausteine. Aus Fettsäuren selbst kann der Mensch dagegen kaum Zucker bilden."
+      ],
+      "merke": "Bei Bedarf bildet die Leber Zucker aus anderen Stoffen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das wichtig ist",
+      "absaetze": [
+        "Das Gehirn und rote Blutkörperchen brauchen ständig Zucker. Die Glukoneogenese sichert ihre Versorgung, etwa nachts oder beim Fasten.",
+        "Bei Diabetes kann die Leber zu viel Zucker bilden. Das trägt zu erhöhten Werten am Morgen bei."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Neubildung von Zucker im Körper?",
+      "art": "mc",
+      "optionen": [
+        "Glukoneogenese",
+        "Photosynthese",
+        "Verdauung",
+        "Fermentation"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie läuft vor allem in der Leber ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird Zucker kurzfristig gespeichert?",
+      "art": "mc",
+      "optionen": [
+        "Als Glykogen in Leber und Muskeln",
+        "In den Knochen",
+        "Im Blut als Fett",
+        "In der Haut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Speicher reichen nur begrenzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus Fettsäuren kann der Mensch problemlos Zucker bilden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Aus Fettsäuren selbst kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer braucht ständig Zucker?",
+      "art": "mc",
+      "optionen": [
+        "Das Gehirn und rote Blutkörperchen",
+        "Nur die Haare",
+        "Nur die Fingernägel",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Glukoneogenese sichert ihre Versorgung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Körper speichert Zucker als Glykogen.",
+        "Sind die Speicher leer, bildet die Leber neuen Zucker.",
+        "Dafür nutzt sie Milchsäure und Eiweißbausteine.",
+        "So bleibt das Gehirn versorgt.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

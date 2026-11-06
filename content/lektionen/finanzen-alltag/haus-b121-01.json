@@ -1,0 +1,121 @@
+{
+  "id": "haus-b121-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entsorgst du Farb- und Lackreste?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Abfall richtig entsorgen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "farbe",
+    "lack",
+    "entsorgung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Renovieren bleiben oft halbvolle Farbeimer übrig.",
+        "Wohin damit? Auf keinen Fall in den Ausguss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wandfarbe",
+      "absaetze": [
+        "Reste von Wandfarbe auf Wasserbasis kannst du eintrocknen lassen. Lass dazu den offenen Eimer an einem sicheren Ort stehen.",
+        "Eingetrocknete Reste dürfen in vielen Gemeinden in den Restmüll. Flüssige Farbe gehört dagegen nicht in die Tonne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lacke und Lösemittel",
+      "absaetze": [
+        "Lacke, Lasuren, Verdünner und Pinselreiniger enthalten oft Lösemittel. Sie sind Sonderabfall und gehören zur Schadstoffsammlung oder auf den Wertstoffhof.",
+        "Gieß niemals Farbreste oder Lösemittel in Ausguss oder Toilette. Kläranlagen können sie nicht vollständig entfernen."
+      ],
+      "merke": "Lacke und Lösemittel gehören zur Schadstoffsammlung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leere Eimer und Tipps",
+      "absaetze": [
+        "Restlos leere und trockene Eimer gehören meist zu den Verpackungen. Was genau gilt, regelt deine Gemeinde.",
+        "Kauf beim nächsten Mal nur so viel Farbe, wie du brauchst. Gut verschlossene Reste kann man auch an Nachbarn oder Initiativen verschenken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machst du mit Resten von Wandfarbe auf Wasserbasis?",
+      "art": "mc",
+      "optionen": [
+        "Eintrocknen lassen",
+        "In den Ausguss gießen",
+        "In die Toilette kippen",
+        "Im Garten vergraben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eingetrocknet dürfen sie oft in den Restmüll."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin gehören Lacke und Lösemittel?",
+      "art": "mc",
+      "optionen": [
+        "Zur Schadstoffsammlung",
+        "In die Biotonne",
+        "In den Ausguss",
+        "In den Gelben Sack"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind Sonderabfall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Farbreste darf man in die Toilette kippen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Kläranlagen können sie nicht vollständig entfernen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was regelt, wohin leere Eimer gehören?",
+      "art": "mc",
+      "optionen": [
+        "Deine Gemeinde",
+        "Der Baumarkt",
+        "Der Maler",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Meist gehören sie zu den Verpackungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wasserbasierte Farbe eintrocknen lassen.",
+        "Lacke und Lösemittel zur Schadstoffsammlung.",
+        "Niemals in Ausguss oder Toilette.",
+        "Nur so viel kaufen, wie du brauchst."
+      ]
+    }
+  ]
+}

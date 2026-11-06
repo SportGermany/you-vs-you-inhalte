@@ -1,0 +1,121 @@
+{
+  "id": "welt-b121-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer entdeckte den Blutkreislauf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte im Überblick",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "harvey",
+    "blutkreislauf",
+    "medizingeschichte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Heute weiß jedes Schulkind: Das Herz pumpt Blut im Kreis durch den Körper.",
+        "Bewiesen hat das erst ein englischer Arzt im 17. Jahrhundert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die alte Vorstellung",
+      "absaetze": [
+        "Lange glaubte man, die Leber bilde ständig neues Blut aus der Nahrung. Der Körper würde es dann verbrauchen.",
+        "Diese Lehre ging auf den antiken Arzt Galen zurück und galt über 1.000 Jahre."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Harveys Beweis",
+      "absaetze": [
+        "Der Engländer William Harvey veröffentlichte 1628 ein Buch über die Bewegung des Herzens und des Blutes. Er hatte Tiere und Menschen genau beobachtet.",
+        "Er rechnete aus, wie viel Blut das Herz in einer Stunde pumpt. Die Menge war viel zu groß, um ständig neu gebildet zu werden. Das Blut musste also im Kreis fließen."
+      ],
+      "merke": "William Harvey bewies 1628, dass das Blut im Kreislauf fließt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein fehlendes Puzzlestück",
+      "absaetze": [
+        "Harvey konnte nicht zeigen, wie das Blut von den Arterien in die Venen gelangt. Dafür fehlten ihm die Mittel.",
+        "Wenige Jahrzehnte später entdeckte der Italiener Marcello Malpighi mit dem Mikroskop die feinen Haargefäße. Sie verbinden Arterien und Venen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bewies den Blutkreislauf?",
+      "art": "mc",
+      "optionen": [
+        "William Harvey",
+        "Galen",
+        "Paracelsus",
+        "Robert Koch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sein Buch erschien 1628."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was glaubte man vorher?",
+      "art": "mc",
+      "optionen": [
+        "Die Leber bildet ständig neues Blut",
+        "Das Blut kommt aus der Luft",
+        "Das Herz denkt",
+        "Blut gibt es nur im Kopf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Lehre ging auf Galen zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Harvey nutzte auch eine Berechnung der Blutmenge.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Menge war zu groß, um ständig neu gebildet zu werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entdeckte die feinen Haargefäße?",
+      "art": "mc",
+      "optionen": [
+        "Marcello Malpighi",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Andreas Vesalius"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er nutzte ein Mikroskop."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lange galt, die Leber bilde ständig neues Blut.",
+        "William Harvey bewies 1628 den Blutkreislauf.",
+        "Er nutzte Beobachtung und Berechnung.",
+        "Malpighi fand später die Haargefäße."
+      ]
+    }
+  ]
+}

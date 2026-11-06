@@ -1,0 +1,121 @@
+{
+  "id": "steu-b121-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was bedeutet Steuerklasse 6?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lohnsteuer",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuerklasse",
+    "zweitjob",
+    "lohnsteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du hast neben deinem Hauptjob eine zweite feste Stelle angenommen.",
+        "Auf der Abrechnung siehst du: Steuerklasse 6, und es bleibt erstaunlich wenig übrig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für jedes weitere Arbeitsverhältnis",
+      "absaetze": [
+        "Steuerklasse 6 gilt für ein zweites oder weiteres Arbeitsverhältnis. Das erste Arbeitsverhältnis läuft weiter über deine normale Steuerklasse.",
+        "Minijobs, die pauschal versteuert werden, fallen in der Regel nicht darunter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum der Abzug so hoch ist",
+      "absaetze": [
+        "In Steuerklasse 6 werden keine Freibeträge berücksichtigt, auch nicht der Grundfreibetrag. Er wird schon beim Hauptjob verrechnet.",
+        "Deshalb wird jeder Euro im Zweitjob sofort besteuert. Der Abzug wirkt hoch, ist aber keine zusätzliche Strafsteuer."
+      ],
+      "merke": "In Steuerklasse 6 gibt es keine Freibeträge."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausgleich über die Steuererklärung",
+      "absaetze": [
+        "Wer Lohn in Steuerklasse 6 bekommt, muss in der Regel eine Steuererklärung abgeben. Dabei werden alle Einkünfte zusammengerechnet.",
+        "Je nach Lage gibt es dann Geld zurück oder es kommt zu einer Nachzahlung. Lege im Zweifel etwas Geld zur Seite."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür gilt Steuerklasse 6?",
+      "art": "mc",
+      "optionen": [
+        "Für ein zweites oder weiteres Arbeitsverhältnis",
+        "Für Rentner",
+        "Für Alleinerziehende",
+        "Für Verheiratete"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Hauptarbeitsverhältnis bleibt in der normalen Klasse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Abzug in Steuerklasse 6 so hoch?",
+      "art": "mc",
+      "optionen": [
+        "Es werden keine Freibeträge berücksichtigt",
+        "Es gibt eine Strafsteuer",
+        "Weil Zweitjobs verboten sind",
+        "Wegen der Kirchensteuer allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Grundfreibetrag zählt schon beim Hauptjob."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit Steuerklasse 6 musst du in der Regel eine Steuererklärung abgeben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dabei werden alle Einkünfte zusammengerechnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fallen pauschal versteuerte Minijobs meist unter Steuerklasse 6?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer",
+        "Nur im Sommer",
+        "Nur bei Studierenden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden pauschal versteuert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Steuerklasse 6 gilt für weitere Arbeitsverhältnisse.",
+        "Freibeträge werden dort nicht berücksichtigt.",
+        "Der hohe Abzug ist keine Extrasteuer.",
+        "Die Steuererklärung gleicht am Ende aus."
+      ]
+    }
+  ]
+}

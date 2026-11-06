@@ -1,0 +1,121 @@
+{
+  "id": "umw-b121-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie entsteht ein Hurrikan?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hurrikan",
+    "wirbelsturm",
+    "wetter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hurrikans gehören zu den gewaltigsten Stürmen der Erde.",
+        "Sie entstehen über warmem Meer, oft Tausende Kilometer von ihrem Ziel entfernt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warmes Wasser als Motor",
+      "absaetze": [
+        "Ein Hurrikan braucht sehr warmes Meerwasser von mindestens etwa 26 Grad. Darüber verdunstet viel Wasser und steigt auf.",
+        "Beim Aufsteigen kondensiert der Dampf zu Wolken und setzt Wärme frei. Diese Energie treibt den Sturm an. Die Erddrehung bringt ihn in Rotation."
+      ],
+      "merke": "Warmes Meerwasser liefert die Energie für einen Hurrikan."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Auge in der Mitte",
+      "absaetze": [
+        "In der Mitte eines Hurrikans liegt das Auge. Dort ist es oft fast windstill und manchmal sogar wolkenfrei.",
+        "Um das Auge herum toben die stärksten Winde. Die Stärke wird in fünf Kategorien eingeteilt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Namen, ein Phänomen",
+      "absaetze": [
+        "Im Atlantik und Nordostpazifik heißen diese Stürme Hurrikan, im Nordwestpazifik Taifun und im Indischen Ozean Zyklon.",
+        "Über Land fehlt ihnen der Nachschub an warmem Wasser. Dann schwächen sie sich ab. Gefährlich sind oft nicht nur der Wind, sondern auch Sturmfluten und starker Regen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was braucht ein Hurrikan als Energiequelle?",
+      "art": "mc",
+      "optionen": [
+        "Sehr warmes Meerwasser",
+        "Kalte Luft",
+        "Schnee",
+        "Wüstensand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mindestens etwa 26 Grad."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die ruhige Mitte eines Hurrikans?",
+      "art": "mc",
+      "optionen": [
+        "Das Auge",
+        "Das Herz",
+        "Die Krone",
+        "Der Kern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Um das Auge toben die stärksten Winde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Nordwestpazifik heißen diese Stürme Taifun.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Im Indischen Ozean heißen sie Zyklon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schwächen sich Hurrikans über Land ab?",
+      "art": "mc",
+      "optionen": [
+        "Ihnen fehlt warmes Wasser",
+        "Bäume halten sie auf",
+        "Die Sonne scheint stärker",
+        "Die Erde dreht sich langsamer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gefährlich bleiben Regen und Sturmfluten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hurrikans entstehen über warmem Meer.",
+        "Verdunstung und Kondensation liefern Energie.",
+        "In der Mitte liegt das ruhige Auge.",
+        "Je nach Region heißen sie Hurrikan, Taifun oder Zyklon."
+      ]
+    }
+  ]
+}

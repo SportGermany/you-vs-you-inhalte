@@ -1,0 +1,121 @@
+{
+  "id": "vers-b121-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer kümmert sich um die Rauchmelder in der Mietwohnung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Deutscher Mieterbund",
+      "url": "https://www.mieterbund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rauchmelder",
+    "mietrecht",
+    "brandschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In allen Bundesländern sind Rauchmelder in Wohnungen inzwischen Pflicht.",
+        "Doch wer muss sie einbauen, und wer prüft, ob sie funktionieren?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo sie hängen müssen",
+      "absaetze": [
+        "Rauchmelder sind vor allem in Schlafzimmern, Kinderzimmern und in Fluren vorgeschrieben, die als Fluchtwege dienen. Die Details regeln die Landesbauordnungen.",
+        "In Küche und Bad sind sie meist nicht Pflicht, weil Dampf dort Fehlalarme auslösen kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einbau und Wartung",
+      "absaetze": [
+        "Den Einbau muss in der Regel der Eigentümer übernehmen, also der Vermieter. Die Kosten für die Geräte kann er teilweise als Modernisierung umlegen.",
+        "Wer die Melder warten muss, ist je nach Bundesland unterschiedlich geregelt. Mal ist es der Mieter, mal der Vermieter. Oft übernimmt das eine Fachfirma."
+      ],
+      "merke": "Den Einbau übernimmt meist der Vermieter, die Wartung ist je nach Land geregelt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun solltest",
+      "absaetze": [
+        "Drück regelmäßig auf den Testknopf, auch wenn du nicht dazu verpflichtet bist. Ein Rauchmelder kann Leben retten.",
+        "Entferne oder deaktiviere ihn niemals. Piept er wegen einer schwachen Batterie, informiere den Verantwortlichen schnell."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sind Rauchmelder meist vorgeschrieben?",
+      "art": "mc",
+      "optionen": [
+        "In Schlafzimmern und Fluren",
+        "Nur in der Küche",
+        "Nur im Keller",
+        "Nirgends"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Details regeln die Länder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer baut die Rauchmelder in der Regel ein?",
+      "art": "mc",
+      "optionen": [
+        "Der Vermieter",
+        "Der Mieter",
+        "Die Feuerwehr",
+        "Der Nachbar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist als Eigentümer verpflichtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer die Rauchmelder wartet, ist in allen Bundesländern gleich geregelt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ist je nach Land unterschiedlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei einem piependen Rauchmelder tun?",
+      "art": "mc",
+      "optionen": [
+        "Den Verantwortlichen informieren",
+        "Ihn abreißen",
+        "Die Batterie dauerhaft entfernen",
+        "Ignorieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein funktionierender Melder kann Leben retten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rauchmelder sind in allen Bundesländern Pflicht.",
+        "Vor allem in Schlafräumen und Fluren.",
+        "Den Einbau übernimmt meist der Vermieter.",
+        "Rauchmelder nie entfernen oder abschalten."
+      ]
+    }
+  ]
+}

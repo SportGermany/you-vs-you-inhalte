@@ -1,0 +1,121 @@
+{
+  "id": "geld-b121-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind Neobanken?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Bankkonto",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "neobank",
+    "girokonto",
+    "banking"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Konto eröffnen in wenigen Minuten, alles per App, keine Filiale.",
+        "Sogenannte Neobanken sind besonders bei Jüngeren beliebt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bank im Smartphone",
+      "absaetze": [
+        "Neobanken bieten Konten und Karten fast nur über eine App an. Filialen gibt es meist nicht. Kontoeröffnung und Identitätsprüfung laufen online.",
+        "Viele werben mit niedrigen Gebühren, Echtzeit-Benachrichtigungen und einfachen Budget-Funktionen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit des Geldes",
+      "absaetze": [
+        "Hat der Anbieter eine eigene Banklizenz in der EU, greift die gesetzliche Einlagensicherung. Sie schützt Guthaben bis 100.000 Euro pro Person und Bank.",
+        "Manche Anbieter sind selbst keine Bank, sondern arbeiten mit einer Partnerbank. Prüf deshalb, wo dein Geld tatsächlich liegt."
+      ],
+      "merke": "Prüf, ob der Anbieter eine eigene Banklizenz hat."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Bargeld abheben kann bei manchen Anbietern Gebühren kosten oder ist begrenzt. Bareinzahlungen sind oft umständlich.",
+        "Teste vorher, wie gut der Kundenservice erreichbar ist. Bei Problemen mit gesperrtem Konto kann ein schneller Kontakt wichtig sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeichnet Neobanken aus?",
+      "art": "mc",
+      "optionen": [
+        "Konto und Karte fast nur per App",
+        "Viele Filialen",
+        "Nur Bargeld",
+        "Nur für Firmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kontoeröffnung läuft online."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welchem Betrag schützt die gesetzliche Einlagensicherung?",
+      "art": "mc",
+      "optionen": [
+        "100.000 Euro pro Person und Bank",
+        "1.000 Euro",
+        "10 Millionen Euro",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt für Banken mit Lizenz in der EU."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle Neobanken haben eine eigene Banklizenz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Manche arbeiten mit Partnerbanken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei Neobanken umständlich sein?",
+      "art": "mc",
+      "optionen": [
+        "Bargeld einzahlen",
+        "Überweisungen per App",
+        "Kontostand ansehen",
+        "Karten sperren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Abhebungen können Gebühren kosten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Neobanken arbeiten fast nur per App.",
+        "Die Einlagensicherung gilt bei Banklizenz in der EU.",
+        "Prüf, wo dein Geld tatsächlich liegt.",
+        "Bargeld und Service vorher testen."
+      ]
+    }
+  ]
+}

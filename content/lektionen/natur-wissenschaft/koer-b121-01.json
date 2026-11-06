@@ -1,0 +1,121 @@
+{
+  "id": "koer-b121-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie funktioniert der Tastsinn?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tastsinn",
+    "haut",
+    "nerven"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit geschlossenen Augen erkennst du eine Münze in der Hosentasche.",
+        "Dein Tastsinn verrät dir Form, Oberfläche und Temperatur."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verschiedene Sensoren",
+      "absaetze": [
+        "In der Haut sitzen unterschiedliche Rezeptoren. Manche reagieren auf leichten Druck, andere auf Vibration oder Dehnung der Haut.",
+        "Weitere Nervenenden melden Wärme, Kälte und Schmerz. Das Gehirn setzt alle Signale zu einem Bild zusammen."
+      ],
+      "merke": "Verschiedene Rezeptoren melden Druck, Vibration, Temperatur und Schmerz."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fingerspitzen sind Spezialisten",
+      "absaetze": [
+        "An Fingerspitzen, Lippen und Zunge liegen besonders viele Rezeptoren dicht beieinander. Dort kannst du zwei Berührungen schon im Abstand weniger Millimeter unterscheiden.",
+        "Am Rücken müssen sie mehrere Zentimeter auseinanderliegen. Im Gehirn nehmen Hände und Gesicht deshalb viel Platz ein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tasten im Alltag",
+      "absaetze": [
+        "Blinde Menschen lesen mit den Fingerspitzen die Brailleschrift. Sie besteht aus erhabenen Punkten.",
+        "Viele Rezeptoren gewöhnen sich schnell an einen Reiz. Deshalb spürst du deine Kleidung kurz nach dem Anziehen kaum noch."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf reagieren Rezeptoren in der Haut?",
+      "art": "mc",
+      "optionen": [
+        "Auf Druck, Vibration und Dehnung",
+        "Nur auf Licht",
+        "Nur auf Geräusche",
+        "Nur auf Geruch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Temperatur und Schmerz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kannst du Berührungen besonders fein unterscheiden?",
+      "art": "mc",
+      "optionen": [
+        "An den Fingerspitzen",
+        "Am Rücken",
+        "Am Oberschenkel",
+        "Am Ellenbogen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort liegen viele Rezeptoren dicht beieinander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum spürst du deine Kleidung kurz nach dem Anziehen kaum noch?",
+      "art": "mc",
+      "optionen": [
+        "Rezeptoren gewöhnen sich an den Reiz",
+        "Die Kleidung wird leichter",
+        "Die Haut wird taub",
+        "Das Gehirn schläft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man Gewöhnung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brailleschrift wird mit den Fingerspitzen gelesen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie besteht aus erhabenen Punkten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Haut hat verschiedene Tastrezeptoren.",
+        "Fingerspitzen sind besonders empfindlich.",
+        "Das Gehirn setzt alle Signale zusammen.",
+        "Rezeptoren gewöhnen sich an Dauerreize."
+      ]
+    }
+  ]
+}

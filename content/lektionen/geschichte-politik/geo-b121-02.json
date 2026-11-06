@@ -1,0 +1,121 @@
+{
+  "id": "geo-b121-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Europäische Weltraumorganisation?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About ESA",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "esa",
+    "raumfahrt",
+    "europa"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Europäische Astronauten auf der Raumstation, Satelliten für Wetter und Navigation, Raketen aus Südamerika.",
+        "Hinter vielen dieser Projekte steht die ESA."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gegründet 1975",
+      "absaetze": [
+        "Die Europäische Weltraumorganisation, kurz ESA, wurde 1975 gegründet. Ihr Hauptsitz ist in Paris.",
+        "Sie ist keine Einrichtung der EU, arbeitet aber eng mit ihr zusammen. Mitglied sind die meisten EU-Staaten und einige weitere Länder wie Norwegen, die Schweiz und Großbritannien."
+      ],
+      "merke": "Die ESA ist eigenständig und nicht Teil der EU."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Standorte in Deutschland",
+      "absaetze": [
+        "In Darmstadt steuert die ESA viele Satelliten und Raumsonden. In Köln werden europäische Astronautinnen und Astronauten ausgebildet.",
+        "Ihre Raketen starten vom Weltraumbahnhof Kourou in Französisch-Guayana in Südamerika. Die Nähe zum Äquator spart Treibstoff."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie erforscht",
+      "absaetze": [
+        "Die ESA betreibt Missionen zu Planeten, Kometen und zur Sonne. Ihre Satelliten beobachten Klima, Meere und Eis auf der Erde.",
+        "Gemeinsam mit der EU hat sie das Navigationssystem Galileo aufgebaut. Damit ist Europa weniger auf das amerikanische GPS angewiesen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hat die ESA ihren Hauptsitz?",
+      "art": "mc",
+      "optionen": [
+        "In Paris",
+        "In Brüssel",
+        "In Berlin",
+        "In Rom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gegründet wurde sie 1975."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist die ESA eine Einrichtung der EU?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie ist eigenständig",
+        "Ja, ein EU-Organ",
+        "Sie gehört zur NATO",
+        "Sie gehört zur UNO"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie arbeitet aber eng mit der EU zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In Darmstadt steuert die ESA viele Satelliten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In Köln werden Astronauten ausgebildet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das europäische Navigationssystem?",
+      "art": "mc",
+      "optionen": [
+        "Galileo",
+        "Kepler",
+        "Ariane",
+        "Apollo"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es macht Europa unabhängiger von GPS."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die ESA wurde 1975 gegründet.",
+        "Sie sitzt in Paris und ist nicht Teil der EU.",
+        "Raketen starten in Kourou.",
+        "Mit der EU baute sie Galileo auf."
+      ]
+    }
+  ]
+}
