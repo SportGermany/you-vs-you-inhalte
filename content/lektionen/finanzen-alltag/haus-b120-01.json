@@ -1,0 +1,121 @@
+{
+  "id": "haus-b120-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du ein Glaskeramik-Kochfeld?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kochfeld",
+    "reinigen",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Übergekochte Milch, Fettspritzer, Kalkränder: Ein Glaskeramik-Kochfeld zeigt jeden Fleck.",
+        "Mit dem richtigen Werkzeug wird es ohne Kratzer wieder sauber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst abkühlen lassen",
+      "absaetze": [
+        "Warte, bis das Kochfeld abgekühlt ist. Sonst kannst du dich verbrennen oder Reiniger brennt sich ein.",
+        "Eine Ausnahme ist übergelaufener Zucker. Er sollte möglichst noch warm mit einem Glasschaber entfernt werden. Erkaltet kann er die Oberfläche beschädigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der richtige Schaber",
+      "absaetze": [
+        "Für Eingebranntes gibt es spezielle Glasschaber mit Klinge. Halte ihn flach, in einem kleinen Winkel zur Fläche.",
+        "So lassen sich auch hartnäckige Reste lösen, ohne zu kratzen. Danach wischst du mit einem feuchten Tuch und etwas Spülmittel nach."
+      ],
+      "merke": "Ein flach gehaltener Glasschaber löst Eingebranntes ohne Kratzer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du meiden solltest",
+      "absaetze": [
+        "Scheuermilch, Stahlwolle und die raue Seite von Schwämmen zerkratzen die Oberfläche. Auch Backofenspray ist ungeeignet.",
+        "Gegen Kalkflecken hilft etwas Essig oder ein spezieller Kochfeldreiniger. Trockne das Feld danach mit einem weichen Tuch."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Reinigen meist tun?",
+      "art": "mc",
+      "optionen": [
+        "Das Kochfeld abkühlen lassen",
+        "Es auf höchste Stufe stellen",
+        "Wasser darauf kochen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst brennt Reiniger ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Ausnahme gilt bei übergelaufenem Zucker?",
+      "art": "mc",
+      "optionen": [
+        "Er sollte noch warm entfernt werden",
+        "Er kann wochenlang bleiben",
+        "Er löst sich mit kaltem Wasser",
+        "Er ist harmlos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Erkaltet kann er die Fläche beschädigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Stahlwolle ist ideal für Glaskeramik.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zerkratzt die Oberfläche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Kalkflecken?",
+      "art": "mc",
+      "optionen": [
+        "Etwas Essig oder Kochfeldreiniger",
+        "Backofenspray",
+        "Sand",
+        "Bleiche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach trocken wischen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kochfeld vor dem Putzen abkühlen lassen.",
+        "Zucker noch warm entfernen.",
+        "Eingebranntes mit dem Glasschaber lösen.",
+        "Keine Scheuermittel oder Stahlwolle."
+      ]
+    }
+  ]
+}

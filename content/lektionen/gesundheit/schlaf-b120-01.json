@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b120-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie beeinflusst der Monatszyklus den Schlaf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zyklus",
+    "hormone",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Frauen schlafen in bestimmten Tagen vor der Periode schlechter.",
+        "Das hat mit den Hormonen zu tun, die sich im Lauf des Zyklus verändern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hormone im Wechsel",
+      "absaetze": [
+        "Im Monatszyklus steigen und fallen die Hormone Östrogen und Progesteron. Nach dem Eisprung steigt Progesteron an.",
+        "Progesteron wirkt leicht schläfrig machend. Es erhöht aber auch die Körpertemperatur ein wenig. Eine höhere Temperatur in der Nacht kann den Schlaf leichter machen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Tage vor der Periode",
+      "absaetze": [
+        "Kurz vor der Periode fallen beide Hormone ab. In dieser Zeit berichten viele Frauen über unruhigeren Schlaf, häufigeres Aufwachen oder lebhafte Träume.",
+        "Auch Beschwerden wie Krämpfe, Kopfschmerzen oder Stimmungstiefs können den Schlaf stören. Studien deuten darauf hin, dass dies besonders bei starkem prämenstruellem Syndrom gilt."
+      ],
+      "merke": "Vor der Periode schlafen viele Frauen unruhiger.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Ein kühles Schlafzimmer, regelmäßige Schlafzeiten und Bewegung tagsüber unterstützen den Schlaf. Ein Zyklus- oder Schlaftagebuch zeigt, ob sich Probleme regelmäßig wiederholen.",
+        "Sind die Beschwerden stark oder belastend, lohnt ein Gespräch in der gynäkologischen Praxis."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon steigt nach dem Eisprung an?",
+      "art": "mc",
+      "optionen": [
+        "Progesteron",
+        "Insulin",
+        "Adrenalin",
+        "Melatonin allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wirkt leicht schläfrig machend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann der Anstieg von Progesteron nachts bewirken?",
+      "art": "mc",
+      "optionen": [
+        "Eine etwas höhere Körpertemperatur",
+        "Kalte Füße",
+        "Weniger Durst",
+        "Bessere Sicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann den Schlaf leichter machen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor der Periode schlafen viele Frauen unruhiger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Hormone fallen dann ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt, ob Schlafprobleme mit dem Zyklus zusammenhängen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Zyklus- oder Schlaftagebuch",
+        "Ein Blutdruckmessgerät",
+        "Ein Thermometer im Kühlschrank",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden Muster sichtbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Östrogen und Progesteron ändern sich im Zyklus.",
+        "Progesteron erhöht die Körpertemperatur leicht.",
+        "Vor der Periode ist der Schlaf oft unruhiger.",
+        "Ein Tagebuch zeigt Muster."
+      ]
+    }
+  ]
+}

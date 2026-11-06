@@ -1,0 +1,121 @@
+{
+  "id": "koer-b120-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie sehen wir räumlich?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sehen",
+    "augen",
+    "gehirn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Halte dir abwechselnd ein Auge zu und schau auf deinen Daumen. Er springt hin und her.",
+        "Genau dieser Unterschied hilft dir, die Welt dreidimensional zu sehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei leicht verschiedene Bilder",
+      "absaetze": [
+        "Deine Augen liegen einige Zentimeter auseinander. Deshalb sieht jedes Auge die Welt aus einem etwas anderen Winkel.",
+        "Das Gehirn vergleicht beide Bilder. Je größer der Unterschied, desto näher ist ein Gegenstand. So entsteht der räumliche Eindruck."
+      ],
+      "merke": "Das Gehirn berechnet Tiefe aus zwei leicht verschiedenen Bildern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Hinweise",
+      "absaetze": [
+        "Auch mit einem Auge kannst du Entfernungen schätzen. Das Gehirn nutzt Hinweise wie Größe, Überlappung, Schatten und Perspektive.",
+        "Weit entfernte Dinge wirken außerdem blasser. Beim Bewegen ziehen nahe Dinge schneller vorbei als ferne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "3D im Kino",
+      "absaetze": [
+        "3D-Filme nutzen das gleiche Prinzip. Die Brille sorgt dafür, dass jedes Auge ein etwas anderes Bild bekommt.",
+        "Manche Menschen können nicht räumlich sehen, etwa nach einem Schielen in der Kindheit. Sie gleichen das oft gut mit anderen Hinweisen aus."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sieht jedes Auge ein etwas anderes Bild?",
+      "art": "mc",
+      "optionen": [
+        "Die Augen liegen einige Zentimeter auseinander",
+        "Ein Auge ist immer schwächer",
+        "Das Licht ist unterschiedlich",
+        "Wegen der Augenfarbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn vergleicht beide Bilder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt ein großer Unterschied zwischen beiden Bildern?",
+      "art": "mc",
+      "optionen": [
+        "Der Gegenstand ist nah",
+        "Der Gegenstand ist weit weg",
+        "Der Gegenstand ist farbig",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Probier es mit deinem Daumen aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit nur einem Auge kann man gar keine Entfernungen schätzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Gehirn nutzt auch andere Hinweise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie funktioniert 3D im Kino?",
+      "art": "mc",
+      "optionen": [
+        "Jedes Auge bekommt ein etwas anderes Bild",
+        "Die Leinwand ist gewölbt",
+        "Der Ton kommt von hinten",
+        "Das Licht ist heller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Brille trennt die Bilder."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Jedes Auge sieht die Welt etwas anders.",
+        "Das Gehirn errechnet daraus Tiefe.",
+        "Auch Schatten und Perspektive helfen.",
+        "3D-Filme nutzen dasselbe Prinzip."
+      ]
+    }
+  ]
+}

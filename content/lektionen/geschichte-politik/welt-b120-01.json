@@ -1,0 +1,121 @@
+{
+  "id": "welt-b120-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Galen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte im Überblick",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "galen",
+    "medizin",
+    "antike"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über 1.000 Jahre lang galt ein antiker Arzt als oberste Autorität der Medizin.",
+        "Sein Name war Galen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Gladiatorenarzt zum Kaiserarzt",
+      "absaetze": [
+        "Galen wurde um 129 nach Christus in Pergamon geboren, einer griechischen Stadt in der heutigen Türkei. Dort behandelte er zunächst verletzte Gladiatoren.",
+        "Später ging er nach Rom und wurde Leibarzt mehrerer Kaiser, darunter Mark Aurel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Forschung an Tieren",
+      "absaetze": [
+        "Galen untersuchte den Körper genau. Weil Sektionen von Menschen damals kaum erlaubt waren, sezierte er vor allem Tiere, etwa Affen und Schweine.",
+        "Er zeigte zum Beispiel, dass Arterien Blut und nicht Luft führen. Manche seiner Annahmen über den Menschen waren aber falsch, weil er Tierbefunde übertrug."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein langes Erbe",
+      "absaetze": [
+        "Galen schrieb sehr viele Bücher. Er baute auf der Lehre von den vier Körpersäften auf. Seine Schriften prägten die Medizin in Europa und der islamischen Welt.",
+        "Erst Andreas Vesalius korrigierte 1543 viele seiner Fehler durch Sektionen am Menschen."
+      ],
+      "merke": "Galens Lehren prägten die Medizin über 1.000 Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurde Galen geboren?",
+      "art": "mc",
+      "optionen": [
+        "In Pergamon",
+        "In Rom",
+        "In Athen",
+        "In Alexandria"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Stadt liegt in der heutigen Türkei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wen behandelte er zu Beginn seiner Laufbahn?",
+      "art": "mc",
+      "optionen": [
+        "Gladiatoren",
+        "Seeleute",
+        "Mönche",
+        "Bergleute"
+      ],
+      "richtig": 0,
+      "erklaerung": "Später wurde er Arzt von Kaisern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Galen sezierte vor allem Menschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er sezierte vor allem Tiere."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer korrigierte 1543 viele seiner Fehler?",
+      "art": "mc",
+      "optionen": [
+        "Andreas Vesalius",
+        "Paracelsus",
+        "Hippokrates",
+        "Robert Koch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er sezierte Menschen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Galen war ein Arzt der römischen Kaiserzeit.",
+        "Er forschte vor allem an Tieren.",
+        "Seine Lehren prägten die Medizin über 1.000 Jahre.",
+        "Vesalius korrigierte viele seiner Fehler."
+      ]
+    }
+  ]
+}

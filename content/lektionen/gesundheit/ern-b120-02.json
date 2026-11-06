@@ -1,0 +1,123 @@
+{
+  "id": "ern-b120-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Kokoswasser ein gesunder Durstlöscher?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kokoswasser",
+    "getraenke",
+    "elektrolyte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kokoswasser wird oft als natürlicher Sportdrink beworben.",
+        "Doch hält es, was die Werbung verspricht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus jungen Kokosnüssen",
+      "absaetze": [
+        "Kokoswasser ist die klare Flüssigkeit aus jungen, grünen Kokosnüssen. Es ist nicht dasselbe wie Kokosmilch. Diese wird aus dem Fruchtfleisch gepresst und ist sehr fetthaltig.",
+        "Kokoswasser enthält dagegen kaum Fett. Es schmeckt leicht süßlich und nussig."
+      ],
+      "merke": "Kokoswasser ist nicht dasselbe wie fettreiche Kokosmilch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Kokoswasser liefert Kalium und etwas Natrium und Magnesium. Es enthält natürlichen Zucker, aber weniger als die meisten Säfte.",
+        "Für normales Training ist Wasser völlig ausreichend. Ein besonderer Vorteil von Kokoswasser für Sportler ist nicht klar belegt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Viele Produkte enthalten zugesetzten Zucker oder Aromen. Ein Blick auf die Zutatenliste lohnt sich.",
+        "Kokoswasser ist meist deutlich teurer als Leitungswasser. Durch den weiten Transport ist auch die Umweltbilanz schlechter. Bei Nierenerkrankungen kann der hohe Kaliumgehalt problematisch sein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Kokoswasser gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus jungen, grünen Kokosnüssen",
+        "Aus gepresstem Fruchtfleisch",
+        "Aus Kokosöl und Wasser",
+        "Aus Palmblättern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kokosmilch stammt dagegen aus dem Fruchtfleisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Mineralstoff steckt reichlich in Kokoswasser?",
+      "art": "mc",
+      "optionen": [
+        "Kalium",
+        "Jod",
+        "Fluor",
+        "Selen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen etwas Natrium und Magnesium."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für normales Training reicht Wasser völlig aus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Vorteil von Kokoswasser ist nicht klar belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen kann Kokoswasser problematisch sein?",
+      "art": "mc",
+      "optionen": [
+        "Für Menschen mit Nierenerkrankungen",
+        "Für alle Sportler",
+        "Für Kinder ab zehn",
+        "Für niemanden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Grund ist der hohe Kaliumgehalt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kokoswasser stammt aus jungen Kokosnüssen.",
+        "Es liefert vor allem Kalium.",
+        "Für normales Training reicht Wasser.",
+        "Auf zugesetzten Zucker achten."
+      ]
+    }
+  ]
+}

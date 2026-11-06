@@ -1,0 +1,121 @@
+{
+  "id": "geld-b120-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind Dark Patterns beim Online-Shopping?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dark patterns",
+    "online-shopping",
+    "verbraucherschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nur noch 2 Stück verfügbar! Angebot endet in 10 Minuten!",
+        "Solche Hinweise sollen dich zum schnellen Kauf drängen. Oft sind sie Teil eines Tricks."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Manipulatives Design",
+      "absaetze": [
+        "Dark Patterns sind Gestaltungstricks auf Webseiten und in Apps. Sie verleiten dich zu Entscheidungen, die du sonst vielleicht nicht treffen würdest.",
+        "Sie nutzen menschliche Denkmuster aus, etwa die Angst, etwas zu verpassen."
+      ],
+      "merke": "Dark Patterns sind Tricks, die dich zu ungewollten Entscheidungen drängen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Beispiele",
+      "absaetze": [
+        "Künstlicher Zeitdruck mit Countdowns. Angeblich knappe Ware. Vorab angekreuzte Zusatzleistungen im Warenkorb.",
+        "Dazu kommen Abos, die sich leicht abschließen, aber schwer kündigen lassen. Oder ein großer bunter Ja-Knopf neben einem kleinen grauen Nein-Link."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du dich",
+      "absaetze": [
+        "Nimm dir Zeit und prüfe den Warenkorb vor dem Bezahlen genau. Entferne Zusatzleistungen, die du nicht willst.",
+        "Lass dich von Countdowns nicht hetzen. In der EU sind manche dieser Tricks verboten. Verstöße kannst du der Verbraucherzentrale melden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Dark Patterns?",
+      "art": "mc",
+      "optionen": [
+        "Gestaltungstricks, die zu ungewollten Entscheidungen drängen",
+        "Dunkle Designs ohne Farbe",
+        "Sichere Bezahlwege",
+        "Gütesiegel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie nutzen Denkmuster aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Beispiel ist ein Dark Pattern?",
+      "art": "mc",
+      "optionen": [
+        "Vorab angekreuzte Zusatzleistungen",
+        "Eine klare Preisangabe",
+        "Ein gut sichtbarer Kündigungsknopf",
+        "Ein Impressum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Prüfe deinen Warenkorb vor dem Bezahlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Countdowns auf Shopseiten sind immer echt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft erzeugen sie nur künstlichen Zeitdruck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem kannst du Verstöße melden?",
+      "art": "mc",
+      "optionen": [
+        "Der Verbraucherzentrale",
+        "Der Feuerwehr",
+        "Dem Wetterdienst",
+        "Niemandem"
+      ],
+      "richtig": 0,
+      "erklaerung": "In der EU sind manche Tricks verboten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Dark Patterns drängen zu ungewollten Entscheidungen.",
+        "Typisch sind Zeitdruck und vorab angekreuzte Extras.",
+        "Prüfe den Warenkorb in Ruhe.",
+        "Verstöße kannst du melden."
+      ]
+    }
+  ]
+}

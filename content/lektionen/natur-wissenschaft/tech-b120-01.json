@@ -1,0 +1,121 @@
+{
+  "id": "tech-b120-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Warum kühlt ein Ventilator?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ventilator",
+    "hitze",
+    "verdunstung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An heißen Tagen läuft in vielen Wohnungen ein Ventilator.",
+        "Dabei macht er die Luft gar nicht kälter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewegte Luft, nicht kalte Luft",
+      "absaetze": [
+        "Ein Ventilator dreht Rotorblätter mit einem Elektromotor. Sie schieben Luft vor sich her. Die Temperatur im Raum sinkt dadurch nicht.",
+        "Weil der Motor Wärme abgibt, wird der Raum sogar minimal wärmer."
+      ],
+      "merke": "Ein Ventilator kühlt nicht die Luft, sondern dich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es sich kühl anfühlt",
+      "absaetze": [
+        "Deine Haut gibt ständig Wärme ab und verdunstet Schweiß. Um dich herum bildet sich eine dünne Schicht warmer, feuchter Luft.",
+        "Der Luftstrom bläst diese Schicht weg. Schweiß verdunstet schneller und entzieht der Haut dabei Wärme. So fühlst du dich kühler."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Clever einsetzen",
+      "absaetze": [
+        "Ein Ventilator im leeren Raum bringt nichts. Schalte ihn aus, wenn niemand da ist.",
+        "Nachts kann er kühle Luft durch ein offenes Fenster hereinholen. Bei sehr hohen Temperaturen hilft er weniger, weil die Luft dann selbst warm ist. Achte auf ausreichend Trinken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Senkt ein Ventilator die Raumtemperatur?",
+      "art": "mc",
+      "optionen": [
+        "Nein, er bewegt nur die Luft",
+        "Ja, um mehrere Grad",
+        "Ja, wie eine Klimaanlage",
+        "Nur nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Motor gibt sogar etwas Wärme ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum fühlst du dich mit Ventilator kühler?",
+      "art": "mc",
+      "optionen": [
+        "Schweiß verdunstet schneller",
+        "Die Luft wird kälter",
+        "Der Ventilator erzeugt Eis",
+        "Das Herz schlägt langsamer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verdunstung entzieht der Haut Wärme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Ventilator im leeren Raum kühlt den Raum ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kühlt nur Menschen, die im Luftstrom sind."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kann ein Ventilator nachts helfen?",
+      "art": "mc",
+      "optionen": [
+        "Kühle Luft durch das offene Fenster holen",
+        "Die Heizung ersetzen",
+        "Den Strom abschalten",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann bringt er frische, kühlere Luft herein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Ventilator bewegt Luft, kühlt sie aber nicht.",
+        "Er bläst die warme Luftschicht von der Haut weg.",
+        "Schweiß verdunstet schneller und kühlt.",
+        "Im leeren Raum ist er nutzlos."
+      ]
+    }
+  ]
+}

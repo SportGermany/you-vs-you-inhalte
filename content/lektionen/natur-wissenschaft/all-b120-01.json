@@ -1,0 +1,121 @@
+{
+  "id": "all-b120-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist der Orionnebel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sterne und Nebel",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "orionnebel",
+    "sternentstehung",
+    "himmelsbeobachtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Unter dem Gürtel des Orion siehst du an dunklen Orten einen kleinen verschwommenen Fleck.",
+        "Dort werden gerade neue Sterne geboren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Wolke aus Gas und Staub",
+      "absaetze": [
+        "Der Orionnebel ist eine riesige Wolke aus Gas und Staub. Er liegt etwa 1.300 Lichtjahre von uns entfernt.",
+        "Er gehört zu den hellsten Nebeln am Himmel. Mit bloßem Auge erscheint er als schwacher Fleck im Schwert des Orion."
+      ],
+      "merke": "Der Orionnebel ist eine Wolke aus Gas und Staub, in der Sterne entstehen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Kinderstube der Sterne",
+      "absaetze": [
+        "In der Wolke ziehen sich dichte Bereiche durch ihre Schwerkraft zusammen. Dabei entstehen neue Sterne.",
+        "Junge, heiße Sterne in der Mitte bringen das Gas zum Leuchten. Weltraumteleskope entdeckten dort auch Scheiben aus Staub um junge Sterne. Aus ihnen können Planeten entstehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selbst beobachten",
+      "absaetze": [
+        "Am besten siehst du den Orionnebel in Winternächten. Schon ein Fernglas zeigt einen deutlichen Nebel.",
+        "Ein kleines Teleskop zeigt in der Mitte vier eng stehende Sterne, das sogenannte Trapez. Fotos mit langer Belichtung zeigen rötliche und bläuliche Farben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Orionnebel?",
+      "art": "mc",
+      "optionen": [
+        "Eine Wolke aus Gas und Staub",
+        "Ein Planet",
+        "Ein Komet",
+        "Eine Galaxie"
+      ],
+      "richtig": 0,
+      "erklaerung": "In ihr entstehen neue Sterne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie weit ist der Orionnebel etwa entfernt?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 1.300 Lichtjahre",
+        "Etwa 1 Lichtjahr",
+        "Etwa 13 Millionen Lichtjahre",
+        "Etwa 13 Lichtminuten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er liegt in unserer Milchstraße."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Den Orionnebel kann man an dunklen Orten mit bloßem Auge sehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er erscheint als schwacher Fleck im Schwert des Orion."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die vier Sterne in seiner Mitte?",
+      "art": "mc",
+      "optionen": [
+        "Das Trapez",
+        "Der Wagen",
+        "Das Dreieck",
+        "Die Krone"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein kleines Teleskop zeigt sie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Orionnebel ist eine Gas- und Staubwolke.",
+        "Dort entstehen neue Sterne.",
+        "Er liegt etwa 1.300 Lichtjahre entfernt.",
+        "Im Winter ist er schon mit dem Fernglas gut sichtbar."
+      ]
+    }
+  ]
+}

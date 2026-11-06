@@ -1,0 +1,121 @@
+{
+  "id": "umw-b120-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie entsteht Wind?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wind",
+    "luftdruck",
+    "wetter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mal weht ein laues Lüftchen, mal tobt ein Sturm.",
+        "Doch woher kommt der Wind überhaupt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ungleiche Erwärmung",
+      "absaetze": [
+        "Die Sonne erwärmt die Erde ungleichmäßig. Über warmem Boden steigt Luft auf, über kaltem sinkt sie ab.",
+        "Dadurch entstehen Unterschiede im Luftdruck. Es gibt Hochdruck- und Tiefdruckgebiete."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausgleich der Druckunterschiede",
+      "absaetze": [
+        "Luft strömt vom hohen zum niedrigen Druck, um den Unterschied auszugleichen. Diese Bewegung spüren wir als Wind.",
+        "Je größer der Druckunterschied auf kurzer Strecke, desto stärker weht der Wind. Wegen der Erddrehung strömt die Luft aber nicht geradeaus, sondern wird abgelenkt."
+      ],
+      "merke": "Wind ist Luft, die vom hohen zum niedrigen Luftdruck strömt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wind im Kleinen",
+      "absaetze": [
+        "Am Meer weht tagsüber oft ein Wind vom Wasser zum Land. Das Land erwärmt sich schneller, die Luft darüber steigt auf. Nachts kehrt sich das um.",
+        "Gemessen wird die Windstärke oft mit der Beaufort-Skala. Sie reicht von Windstille bis Orkan."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entsteht Wind?",
+      "art": "mc",
+      "optionen": [
+        "Durch Unterschiede im Luftdruck",
+        "Durch die Bewegung der Bäume",
+        "Durch das Meer allein",
+        "Durch den Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Luft strömt vom hohen zum niedrigen Druck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was führt zu stärkerem Wind?",
+      "art": "mc",
+      "optionen": [
+        "Ein großer Druckunterschied auf kurzer Strecke",
+        "Mehr Wolken",
+        "Weniger Sonne",
+        "Ruhiges Meer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann strömt die Luft schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wegen der Erddrehung strömt der Wind nicht geradeaus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er wird abgelenkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welcher Skala wird Windstärke oft angegeben?",
+      "art": "mc",
+      "optionen": [
+        "Beaufort-Skala",
+        "Richterskala",
+        "Celsius-Skala",
+        "Kelvin-Skala"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie reicht bis zum Orkan."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Sonne erwärmt die Erde ungleichmäßig.",
+        "So entstehen Luftdruckunterschiede.",
+        "Wind gleicht diese Unterschiede aus.",
+        "Die Erddrehung lenkt ihn ab."
+      ]
+    }
+  ]
+}

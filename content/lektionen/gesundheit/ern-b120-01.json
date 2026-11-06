@@ -1,0 +1,123 @@
+{
+  "id": "ern-b120-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Grünkern?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gruenkern",
+    "dinkel",
+    "getreide"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grünkernbratlinge kennen viele aus der vegetarischen Küche.",
+        "Hinter dem Namen steckt ein altes Getreide, das früher geerntet wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unreifer Dinkel",
+      "absaetze": [
+        "Grünkern ist Dinkel, der halbreif geerntet wird. Die Körner sind dann noch grün und weich.",
+        "Anschließend werden sie gedarrt, also über Hitze getrocknet. Dadurch bekommen sie ihren würzigen, leicht rauchigen Geschmack. Traditionell stammt Grünkern aus Baden und Franken."
+      ],
+      "merke": "Grünkern ist halbreif geernteter und gedarrter Dinkel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er liefert",
+      "absaetze": [
+        "Grünkern enthält Ballaststoffe, Eiweiß, B-Vitamine und Mineralstoffe wie Magnesium und Eisen. Als Vollkorn sättigt er gut.",
+        "Wie Dinkel enthält er Gluten. Für Menschen mit Zöliakie ist er deshalb nicht geeignet."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Küche",
+      "absaetze": [
+        "Grünkern gibt es als ganze Körner, geschrotet oder als Mehl. Geschrotet eignet er sich gut für Bratlinge, Suppen und Füllungen.",
+        "Ganze Körner werden am besten einige Stunden eingeweicht. So verkürzt sich die Kochzeit."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Grünkern?",
+      "art": "mc",
+      "optionen": [
+        "Halbreif geernteter Dinkel",
+        "Eine Grünalgenart",
+        "Unreifer Mais",
+        "Eine Hülsenfrucht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Körner werden anschließend gedarrt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt der rauchige Geschmack?",
+      "art": "mc",
+      "optionen": [
+        "Vom Darren über Hitze",
+        "Vom Räuchern mit Fisch",
+        "Von Gewürzen",
+        "Von der Lagerung im Keller"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei werden die Körner getrocknet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Grünkern ist glutenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wie Dinkel enthält er Gluten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür eignet sich geschroteter Grünkern gut?",
+      "art": "mc",
+      "optionen": [
+        "Für Bratlinge und Suppen",
+        "Für Eis",
+        "Für Getränke",
+        "Für Kuchenglasur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ganze Körner vorher einweichen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grünkern ist halbreif geernteter Dinkel.",
+        "Das Darren gibt ihm seinen Geschmack.",
+        "Er liefert Ballaststoffe und Mineralstoffe.",
+        "Er enthält Gluten."
+      ]
+    }
+  ]
+}
