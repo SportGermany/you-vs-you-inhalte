@@ -1,0 +1,122 @@
+{
+  "id": "geld-b130-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie entsteht eigentlich Geld?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geld und Geldpolitik",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "geldschoepfung",
+    "banken",
+    "zentralbank"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele denken, Geld wird einfach in der Druckerei gemacht.",
+        "Tatsächlich entsteht der größte Teil des Geldes ganz anders."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bargeld und Buchgeld",
+      "absaetze": [
+        "Bargeld, also Scheine und Münzen, ist nur ein kleiner Teil des Geldes. Den größten Teil macht Buchgeld aus. Das ist das Guthaben auf Bankkonten.",
+        "Banknoten gibt im Euroraum das Eurosystem aus, zu dem die Bundesbank gehört. Münzen prägen die Staaten selbst."
+      ],
+      "merke": "Der größte Teil des Geldes ist Buchgeld auf Konten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Banken schaffen Buchgeld",
+      "absaetze": [
+        "Wenn eine Bank einen Kredit vergibt, schreibt sie dem Kunden den Betrag auf seinem Konto gut. In diesem Moment entsteht neues Buchgeld.",
+        "Wird der Kredit zurückgezahlt, verschwindet dieses Geld wieder. Banken verleihen also nicht einfach nur Spargeld anderer Kunden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen der Geldschöpfung",
+      "absaetze": [
+        "Banken können nicht beliebig Geld schaffen. Sie müssen Eigenkapital und Reserven bei der Zentralbank vorhalten. Außerdem brauchen sie Kunden, die Kredite wollen und zurückzahlen können.",
+        "Die Zentralbank steuert über den Leitzins, wie teuer Kredite sind. So beeinflusst sie, wie viel neues Geld entsteht."
+      ],
+      "merke": "Über den Leitzins beeinflusst die Zentralbank die Geldmenge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Form macht den größten Teil des Geldes aus?",
+      "art": "mc",
+      "optionen": [
+        "Buchgeld auf Konten",
+        "Münzen",
+        "Banknoten",
+        "Gold"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bargeld ist nur ein kleiner Teil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn eine Bank einen Kredit vergibt?",
+      "art": "mc",
+      "optionen": [
+        "Es entsteht neues Buchgeld",
+        "Geld wird vernichtet",
+        "Die Bank druckt Scheine",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Betrag wird dem Konto gutgeschrieben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Banken können beliebig viel Geld schaffen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Eigenkapital, Reserven und Nachfrage setzen Grenzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit beeinflusst die Zentralbank die Geldschöpfung?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Leitzins",
+        "Mit dem Wetterbericht",
+        "Mit Steuererklärungen",
+        "Mit Briefmarken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er bestimmt, wie teuer Kredite sind."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der größte Teil des Geldes ist Buchgeld.",
+        "Banken schaffen Buchgeld durch Kredite.",
+        "Bei der Rückzahlung verschwindet es wieder.",
+        "Die Zentralbank steuert über den Leitzins."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "steu-b130-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist das Steuergeheimnis?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuergeheimnis",
+    "datenschutz",
+    "finanzamt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Finanzamt weiß viel über dich: Einkommen, Spenden, Krankheitskosten, Kirchenzugehörigkeit.",
+        "Darf es das einfach weitererzählen? Nein, denn es gilt das Steuergeheimnis."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was geschützt ist",
+      "absaetze": [
+        "Das Steuergeheimnis ist in der Abgabenordnung geregelt. Alles, was Finanzbeamte im Steuerverfahren über dich erfahren, müssen sie für sich behalten.",
+        "Das gilt nicht nur für Zahlen, sondern auch für persönliche Umstände. Etwa Krankheiten, Familienverhältnisse oder Spenden."
+      ],
+      "merke": "Finanzbeamte müssen alles aus dem Steuerverfahren geheim halten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es das gibt",
+      "absaetze": [
+        "Du musst dem Finanzamt sehr viel offenlegen. Im Gegenzug soll der Staat diese Daten schützen.",
+        "Ohne dieses Vertrauen wären viele Menschen weniger ehrlich. Wer das Steuergeheimnis verletzt, macht sich strafbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen",
+      "absaetze": [
+        "Das Gesetz erlaubt bestimmte Ausnahmen. Etwa für Strafverfahren oder wenn der Verdacht auf Missbrauch von Sozialleistungen besteht.",
+        "Auch mit deiner Zustimmung dürfen Daten weitergegeben werden. Der Arbeitgeber erfährt über die Lohnsteuer nur das, was er für die Abrechnung braucht."
+      ],
+      "merke": "Ausnahmen sind gesetzlich eng geregelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist das Steuergeheimnis geregelt?",
+      "art": "mc",
+      "optionen": [
+        "In der Abgabenordnung",
+        "Im Mietrecht",
+        "In der Straßenverkehrsordnung",
+        "Im Grundgesetz wörtlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist das Grundgesetz des Steuerrechts."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt das Steuergeheimnis?",
+      "art": "mc",
+      "optionen": [
+        "Alles, was das Finanzamt im Steuerverfahren erfährt",
+        "Nur dein Einkommen",
+        "Nur deine Adresse",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch persönliche Umstände gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer das Steuergeheimnis verletzt, kann sich strafbar machen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es ist streng geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann dürfen Daten trotzdem weitergegeben werden?",
+      "art": "mc",
+      "optionen": [
+        "In gesetzlich geregelten Ausnahmen",
+        "Immer auf Nachfrage",
+        "Wenn der Nachbar fragt",
+        "Nie, ohne Ausnahme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa in Strafverfahren oder mit deiner Zustimmung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Steuergeheimnis schützt deine Steuerdaten.",
+        "Finanzbeamte müssen darüber schweigen.",
+        "Verstöße sind strafbar.",
+        "Ausnahmen regelt das Gesetz."
+      ]
+    }
+  ]
+}

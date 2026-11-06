@@ -1,0 +1,122 @@
+{
+  "id": "welt-b130-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Fibonacci?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fibonacci",
+    "mathematik",
+    "mittelalter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "0, 1, 1, 2, 3, 5, 8, 13: Diese Zahlenfolge kennen viele aus dem Matheunterricht.",
+        "Ihr Namensgeber hat aber noch etwas viel Wichtigeres nach Europa gebracht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kaufmannssohn aus Pisa",
+      "absaetze": [
+        "Leonardo von Pisa lebte etwa von 1170 bis 1240. Bekannt ist er unter dem Namen Fibonacci.",
+        "Als junger Mann begleitete er seinen Vater nach Nordafrika. Dort lernte er die indisch-arabischen Ziffern und das Rechnen mit der Null kennen."
+      ],
+      "merke": "Fibonacci lernte in Nordafrika die indisch-arabischen Ziffern kennen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Buch verändert Europa",
+      "absaetze": [
+        "1202 schrieb er das Liber Abaci, das Buch der Rechenkunst. Darin erklärte er das Rechnen mit den neuen Ziffern.",
+        "Kaufleute merkten, wie viel einfacher das war als mit römischen Zahlen. Nach und nach setzten sich die Ziffern in Europa durch, die wir heute benutzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die berühmte Folge",
+      "absaetze": [
+        "In seinem Buch stellte Fibonacci eine Rechenaufgabe über die Vermehrung von Kaninchen. Daraus ergibt sich die Folge, bei der jede Zahl die Summe der beiden vorherigen ist.",
+        "Die Fibonacci-Zahlen tauchen auch in der Natur auf. Etwa in der Anordnung von Sonnenblumenkernen oder Tannenzapfenschuppen."
+      ],
+      "merke": "Jede Fibonacci-Zahl ist die Summe der beiden vorherigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brachte Fibonacci vor allem nach Europa?",
+      "art": "mc",
+      "optionen": [
+        "Die indisch-arabischen Ziffern",
+        "Das Papier",
+        "Den Kompass",
+        "Das Schießpulver"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er lernte sie in Nordafrika kennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt sein berühmtes Buch?",
+      "art": "mc",
+      "optionen": [
+        "Liber Abaci",
+        "Principia",
+        "Die Elemente",
+        "Der Fürst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es erschien 1202."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In der Fibonacci-Folge ist jede Zahl die Summe der beiden vorherigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. 0, 1, 1, 2, 3, 5, 8 und so weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo tauchen Fibonacci-Zahlen in der Natur auf?",
+      "art": "mc",
+      "optionen": [
+        "In Sonnenblumen",
+        "In Wolken",
+        "In Steinen",
+        "Im Regen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bei Tannenzapfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fibonacci hieß eigentlich Leonardo von Pisa.",
+        "Er brachte die indisch-arabischen Ziffern nach Europa.",
+        "Sein Buch Liber Abaci erschien 1202.",
+        "Die Fibonacci-Folge taucht auch in der Natur auf."
+      ]
+    }
+  ]
+}

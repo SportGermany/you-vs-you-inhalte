@@ -1,0 +1,140 @@
+{
+  "id": "supp-b130-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Kiefernrindenextrakt zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kiefernrinde",
+    "pycnogenol",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Extrakt aus Baumrinde soll gegen müde Beine, Bluthochdruck und Falten helfen.",
+        "Was steckt hinter Kiefernrindenextrakt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus der Rinde der Seekiefer",
+      "absaetze": [
+        "Der Extrakt wird aus der Rinde der Seekiefer gewonnen, die vor allem an der französischen Atlantikküste wächst. Bekannt ist er unter dem Markennamen Pycnogenol.",
+        "Er enthält Pflanzenstoffe aus der Gruppe der Polyphenole. Ihnen werden schützende Wirkungen auf Gefäße und Zellen zugeschrieben."
+      ],
+      "merke": "Der Extrakt stammt aus der Rinde der Seekiefer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Es gibt Studien zu Venenleiden, Bluthochdruck, Asthma und anderen Beschwerden. Die meisten sind klein und von mäßiger Qualität.",
+        "Eine große Übersichtsarbeit kam zu dem Schluss, dass die Belege für einen Nutzen bei chronischen Erkrankungen nicht ausreichen. Ob der Extrakt wirkt, bleibt unklar."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Wechselwirkungen",
+      "absaetze": [
+        "Möglich sind Magenbeschwerden, Schwindel und Kopfschmerzen. Der Extrakt könnte die Blutgerinnung beeinflussen.",
+        "Die Präparate sind meist teuer. Bei Venenproblemen oder Bluthochdruck gibt es gut untersuchte Behandlungen, die du mit deiner Praxis besprechen kannst."
+      ],
+      "merke": "Bei Venenproblemen und Bluthochdruck gibt es gut untersuchte Behandlungen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Mit blutverdünnenden Medikamenten nur nach ärztlicher Rücksprache verwenden.",
+        "In Schwangerschaft und Stillzeit fehlen Daten zur Sicherheit.",
+        "Vor Operationen Ärztin oder Arzt über die Einnahme von Nahrungsergänzungsmitteln informieren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird der Extrakt gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Rinde der Seekiefer",
+        "Aus Fichtennadeln",
+        "Aus Tannenzapfen",
+        "Aus Birkensaft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Seekiefer wächst an der Atlantikküste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine große Übersichtsarbeit fand ausreichende Belege für einen Nutzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Belege reichen nicht aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was könnte der Extrakt beeinflussen?",
+      "art": "mc",
+      "optionen": [
+        "Die Blutgerinnung",
+        "Die Augenfarbe",
+        "Die Körpergröße",
+        "Das Gehör"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb Vorsicht mit Blutverdünnern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Pflanzenstoffe enthält der Extrakt?",
+      "art": "mc",
+      "optionen": [
+        "Polyphenole",
+        "Koffein",
+        "Nikotin",
+        "Gluten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihnen werden schützende Wirkungen zugeschrieben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Extrakt stammt aus der Rinde der Seekiefer.",
+        "Die meisten Studien sind klein.",
+        "Ein Nutzen ist nicht ausreichend belegt.",
+        "Mit Blutverdünnern Rücksprache halten."
+      ]
+    }
+  ]
+}

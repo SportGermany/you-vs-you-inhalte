@@ -1,0 +1,128 @@
+{
+  "id": "tech-b130-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Herzschrittmacher?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "herzschrittmacher",
+    "medizintechnik",
+    "herz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Gerät, kaum größer als eine Streichholzschachtel, sorgt bei vielen Menschen für einen verlässlichen Herzschlag.",
+        "Wie macht es das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Taktgeber für das Herz",
+      "absaetze": [
+        "Normalerweise erzeugt das Herz seine elektrischen Impulse selbst. Schlägt es zu langsam oder setzt es aus, kann ein Herzschrittmacher helfen.",
+        "Das Gerät misst ständig den Herzrhythmus. Nur wenn ein eigener Schlag ausbleibt, sendet es einen kleinen elektrischen Impuls."
+      ],
+      "merke": "Der Schrittmacher springt ein, wenn das Herz zu langsam schlägt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So wird er eingesetzt",
+      "absaetze": [
+        "Der Schrittmacher wird meist unter dem Schlüsselbein unter die Haut gesetzt. Dünne Kabel, die Sonden, führen über eine Vene bis ins Herz.",
+        "Die Batterie hält viele Jahre. Ist sie leer, wird das Gerät in einem kleinen Eingriff ausgetauscht. Der erste Herzschrittmacher wurde 1958 in Schweden eingesetzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leben mit Schrittmacher",
+      "absaetze": [
+        "Die meisten Menschen leben damit ganz normal. Ein Schrittmacherausweis informiert etwa bei Sicherheitskontrollen am Flughafen.",
+        "Starke Magnetfelder können stören. Deshalb wird empfohlen, Handys nicht direkt über dem Gerät zu tragen. Regelmäßige Kontrollen in der Praxis gehören dazu."
+      ],
+      "merke": "Ein Schrittmacherausweis gehört immer dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gibt ein Herzschrittmacher einen Impuls ab?",
+      "art": "mc",
+      "optionen": [
+        "Wenn ein eigener Herzschlag ausbleibt",
+        "Bei jedem Herzschlag",
+        "Nur nachts",
+        "Wenn man Sport treibt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er misst ständig den Rhythmus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird der Schrittmacher meist eingesetzt?",
+      "art": "mc",
+      "optionen": [
+        "Unter dem Schlüsselbein",
+        "Im Bauch",
+        "Im Kopf",
+        "Im Oberschenkel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonden führen über eine Vene zum Herz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der erste Herzschrittmacher wurde 1958 eingesetzt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das geschah in Schweden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird bei Handys empfohlen?",
+      "art": "mc",
+      "optionen": [
+        "Sie nicht direkt über dem Gerät zu tragen",
+        "Sie gar nicht zu benutzen",
+        "Sie immer in der Brusttasche zu tragen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Starke Magnetfelder können stören."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Herzschrittmacher springt bei zu langsamem Herzschlag ein.",
+        "Er wird meist unter dem Schlüsselbein eingesetzt.",
+        "Die Batterie hält viele Jahre.",
+        "Ein Ausweis und regelmäßige Kontrollen gehören dazu."
+      ]
+    }
+  ]
+}

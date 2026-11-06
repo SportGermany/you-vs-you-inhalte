@@ -1,0 +1,130 @@
+{
+  "id": "ern-b130-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Tapioka?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tapioka",
+    "maniok",
+    "bubble-tea"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die bunten Kugeln im Bubble Tea, Pudding oder glutenfreies Brot: Oft steckt Tapioka dahinter.",
+        "Woher kommt diese Stärke eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stärke aus einer Wurzel",
+      "absaetze": [
+        "Tapioka wird aus der Wurzelknolle des Maniok gewonnen, auch Cassava genannt. Die Pflanze stammt aus Südamerika und ist heute in vielen tropischen Ländern ein Grundnahrungsmittel.",
+        "Roh enthält Maniok giftige Stoffe, aus denen Blausäure entstehen kann. Durch Waschen, Pressen und Erhitzen werden sie entfernt."
+      ],
+      "merke": "Tapioka ist Stärke aus der Maniokwurzel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fast reine Stärke",
+      "absaetze": [
+        "Tapioka besteht fast nur aus Stärke. Eiweiß, Vitamine und Ballaststoffe enthält sie kaum.",
+        "Dafür ist sie von Natur aus glutenfrei. In der Küche bindet sie Soßen und macht Teige elastisch."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Bubble Tea",
+      "absaetze": [
+        "Die Perlen im Bubble Tea bestehen meist aus Tapioka. Die Getränke enthalten oft sehr viel Zucker.",
+        "Für kleine Kinder können die Kugeln gefährlich sein. Sie werden durch den dicken Strohhalm gesaugt und können in die Atemwege geraten."
+      ],
+      "merke": "Bubble-Tea-Perlen sind für kleine Kinder eine Erstickungsgefahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Tapioka gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Maniokwurzel",
+        "Aus Reis",
+        "Aus Kartoffeln",
+        "Aus Mais"
+      ],
+      "richtig": 0,
+      "erklaerung": "Maniok heißt auch Cassava."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Roher Maniok kann giftige Stoffe enthalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Durch die Verarbeitung werden sie entfernt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefert Tapioka vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Stärke",
+        "Eiweiß",
+        "Vitamin C",
+        "Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Andere Nährstoffe enthält sie kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Bubble-Tea-Perlen für kleine Kinder riskant?",
+      "art": "mc",
+      "optionen": [
+        "Sie können in die Atemwege geraten",
+        "Sie sind scharf",
+        "Sie sind zu kalt",
+        "Sie enthalten Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden durch den dicken Strohhalm gesaugt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tapioka ist Stärke aus der Maniokwurzel.",
+        "Sie ist glutenfrei, aber nährstoffarm.",
+        "Roher Maniok muss vorher entgiftet werden.",
+        "Bubble-Tea-Perlen sind für kleine Kinder riskant."
+      ]
+    }
+  ]
+}

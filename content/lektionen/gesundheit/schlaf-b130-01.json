@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b130-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Solltest du hungrig ins Bett gehen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Ernährung",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hunger",
+    "abendessen",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Magen knurrt, doch es ist schon spät. Jetzt noch essen oder lieber nicht?",
+        "Beides kann den Schlaf beeinflussen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunger hält wach",
+      "absaetze": [
+        "Starker Hunger macht wach. Der Körper schüttet dann Stoffe aus, die eher aktivieren. Ein knurrender Magen lenkt zusätzlich ab.",
+        "Ob das den Schlaf messbar verschlechtert, ist wenig untersucht und noch unklar. Viele Menschen berichten aber, hungrig schlechter einzuschlafen."
+      ],
+      "merke": "Starker Hunger kann das Einschlafen erschweren.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aber nicht zu viel",
+      "absaetze": [
+        "Ein großes, fettreiches Essen kurz vor dem Schlafen belastet die Verdauung. Es kann Sodbrennen auslösen und den Schlaf unruhiger machen.",
+        "Fachleute raten deshalb, die Hauptmahlzeit einige Stunden vor dem Zubettgehen zu essen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der kleine Mittelweg",
+      "absaetze": [
+        "Wenn dich spät Hunger plagt, kann ein kleiner, leichter Snack helfen. Ein Joghurt, eine Banane oder ein Stück Brot sind Beispiele.",
+        "Menschen mit Diabetes sollten Abendmahlzeiten mit ihrem Behandlungsteam abstimmen. Nächtliche Unterzuckerungen stören den Schlaf und können gefährlich sein."
+      ],
+      "merke": "Ein kleiner, leichter Snack kann späten Hunger stillen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt starker Hunger am Abend?",
+      "art": "mc",
+      "optionen": [
+        "Er kann wach halten",
+        "Er macht sofort müde",
+        "Er senkt den Puls stark",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper schaltet eher auf Aktivität."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein großes, fettes Essen kurz vor dem Schlafen ist ideal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann Sodbrennen und unruhigen Schlaf fördern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei spätem Hunger ein guter Mittelweg?",
+      "art": "mc",
+      "optionen": [
+        "Ein kleiner, leichter Snack",
+        "Eine große Pizza",
+        "Ein Energydrink",
+        "Gar nichts trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zum Beispiel ein Joghurt oder eine Banane."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist gut erforscht, wie Hunger den Schlaf verändert?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das ist noch unklar",
+        "Ja, vollständig",
+        "Nur bei Kindern",
+        "Nur bei Tieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt vor allem Erfahrungsberichte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Starker Hunger kann das Einschlafen erschweren.",
+        "Große Mahlzeiten spät am Abend stören eher.",
+        "Ein kleiner, leichter Snack ist ein Mittelweg.",
+        "Bei Diabetes Abendmahlzeiten ärztlich abstimmen."
+      ]
+    }
+  ]
+}
