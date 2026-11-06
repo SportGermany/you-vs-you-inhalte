@@ -1,0 +1,121 @@
+{
+  "id": "steu-b113-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wann verjähren Steuern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "verjaehrung",
+    "festsetzungsfrist",
+    "finanzamt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kann das Finanzamt nach zehn Jahren noch Geld nachfordern?",
+        "Das hängt davon ab, ob jemand ehrlich war oder nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die normale Frist",
+      "absaetze": [
+        "Steuern verjähren nicht nach einer festen Zahl von Jahren ab dem Steuerjahr. Entscheidend ist die Festsetzungsfrist. Sie beträgt in der Regel vier Jahre.",
+        "Die Frist beginnt meist mit dem Ende des Jahres, in dem du die Steuererklärung abgegeben hast. Wer zur Abgabe verpflichtet ist, kann den Beginn nicht ewig hinauszögern."
+      ],
+      "merke": "Die normale Festsetzungsfrist beträgt vier Jahre."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Längere Fristen bei Fehlverhalten",
+      "absaetze": [
+        "Wer leichtfertig zu wenig Steuern zahlt, für den gilt eine Frist von fünf Jahren. Leichtfertig heißt grob nachlässig.",
+        "Bei Steuerhinterziehung, also bewusstem Betrug, sind es zehn Jahre. Das Finanzamt kann dann deutlich länger zurück nachfordern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut für Freiwillige",
+      "absaetze": [
+        "Die Frist hilft auch dir. Wer keine Steuererklärung abgeben muss, kann sie freiwillig einreichen. Dafür hast du vier Jahre Zeit.",
+        "Die Erklärung für 2022 kannst du also bis Ende 2026 abgeben. Oft gibt es Geld zurück."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lang ist die normale Festsetzungsfrist?",
+      "art": "mc",
+      "optionen": [
+        "Vier Jahre",
+        "Ein Jahr",
+        "Zehn Jahre",
+        "Dreißig Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie beginnt meist mit dem Ende des Abgabejahres."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Frist gilt bei Steuerhinterziehung?",
+      "art": "mc",
+      "optionen": [
+        "Zehn Jahre",
+        "Zwei Jahre",
+        "Vier Jahre",
+        "Es gibt keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei bewusstem Betrug ist die Frist am längsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine freiwillige Steuererklärung kannst du bis zu vier Jahre rückwirkend abgeben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Oft lohnt sich das."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet leichtfertig?",
+      "art": "mc",
+      "optionen": [
+        "Grob nachlässig",
+        "Absichtlich",
+        "Unverschuldet",
+        "Mit Steuerberatung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann gilt eine Frist von fünf Jahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die normale Frist beträgt vier Jahre.",
+        "Bei Leichtfertigkeit sind es fünf Jahre.",
+        "Bei Steuerhinterziehung sind es zehn Jahre.",
+        "Freiwillige Erklärungen gehen vier Jahre rückwirkend."
+      ]
+    }
+  ]
+}

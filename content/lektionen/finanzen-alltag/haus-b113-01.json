@@ -1,0 +1,121 @@
+{
+  "id": "haus-b113-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Tastatur und Smartphone?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "reinigen",
+    "tastatur",
+    "smartphone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Handy und Tastatur fasst du viele Male am Tag an. Entsprechend sammeln sich Krümel, Fett und Keime.",
+        "Mit Wasser und Putzmittel kannst du hier aber viel kaputt machen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst ausschalten",
+      "absaetze": [
+        "Schalte Geräte vor dem Putzen aus und trenne sie vom Strom. Eine Tastatur steckst du ab.",
+        "Krümel bekommst du heraus, wenn du die Tastatur umdrehst und sanft ausklopfst. Ein weicher Pinsel oder etwas Druckluft hilft zwischen den Tasten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feucht, aber nicht nass",
+      "absaetze": [
+        "Nimm ein weiches Mikrofasertuch und befeuchte es nur leicht. Sprühe nie direkt auf das Gerät, denn Flüssigkeit kann in Öffnungen laufen.",
+        "Viele Hersteller erlauben Tücher mit Isopropylalkohol für Gehäuse und Tasten. Schau dazu in die Anleitung deines Geräts."
+      ],
+      "merke": "Tuch leicht befeuchten, nie direkt aufs Gerät sprühen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du vermeiden solltest",
+      "absaetze": [
+        "Scheuermittel, Glasreiniger und Küchenpapier können Bildschirme zerkratzen oder ihre Beschichtung angreifen. Auch Bleichmittel sind tabu.",
+        "Reinige Handy und Tastatur am besten regelmäßig, etwa einmal pro Woche. Waschen der Hände vor dem Benutzen hilft zusätzlich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Putzen tun?",
+      "art": "mc",
+      "optionen": [
+        "Das Gerät ausschalten und vom Strom trennen",
+        "Das Gerät aufladen",
+        "Den Bildschirm heller stellen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du Schäden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du solltest Reiniger direkt auf das Handy sprühen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Flüssigkeit kann in Öffnungen laufen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit bekommst du Krümel aus der Tastatur?",
+      "art": "mc",
+      "optionen": [
+        "Umdrehen und sanft ausklopfen",
+        "Unter dem Wasserhahn abspülen",
+        "In die Spülmaschine legen",
+        "Mit Scheuermilch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein weicher Pinsel hilft zusätzlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann die Bildschirmbeschichtung angreifen?",
+      "art": "mc",
+      "optionen": [
+        "Scheuermittel und Glasreiniger",
+        "Ein trockenes Mikrofasertuch",
+        "Ein weicher Pinsel",
+        "Leichtes Pusten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Küchenpapier kann kratzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Geräte vor dem Putzen ausschalten.",
+        "Krümel durch Ausklopfen entfernen.",
+        "Nur ein leicht feuchtes Tuch verwenden.",
+        "Keine Scheuermittel oder Glasreiniger nutzen."
+      ]
+    }
+  ]
+}

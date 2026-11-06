@@ -1,0 +1,121 @@
+{
+  "id": "geld-b113-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sagt das Kurs-Gewinn-Verhältnis?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wertpapiere verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kgv",
+    "aktien",
+    "kennzahlen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ist eine Aktie teuer oder günstig? Der Kurs allein verrät das nicht.",
+        "Eine bekannte Kennzahl hilft beim Vergleich: das KGV."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So wird es berechnet",
+      "absaetze": [
+        "KGV steht für Kurs-Gewinn-Verhältnis. Du teilst den Aktienkurs durch den Gewinn pro Aktie.",
+        "Kostet eine Aktie 100 Euro und verdient das Unternehmen 5 Euro pro Aktie, liegt das KGV bei 20. Anleger zahlen dann das Zwanzigfache des Jahresgewinns."
+      ],
+      "merke": "KGV = Aktienkurs geteilt durch Gewinn pro Aktie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hoch und niedrig bedeuten",
+      "absaetze": [
+        "Ein hohes KGV zeigt oft, dass Anleger viel Wachstum erwarten. Ein niedriges KGV kann auf eine günstige Aktie hindeuten.",
+        "Es kann aber auch heißen, dass der Markt dem Unternehmen wenig zutraut. Die Zahl allein ist also kein Kaufsignal."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen der Kennzahl",
+      "absaetze": [
+        "Vergleiche das KGV nur innerhalb einer Branche. Technologiefirmen haben meist höhere Werte als etwa Versorger.",
+        "Oft wird mit geschätzten künftigen Gewinnen gerechnet. Schätzungen können danebenliegen. Macht ein Unternehmen Verluste, lässt sich kein sinnvolles KGV berechnen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie berechnest du das KGV?",
+      "art": "mc",
+      "optionen": [
+        "Aktienkurs geteilt durch Gewinn pro Aktie",
+        "Gewinn mal Kurs",
+        "Umsatz geteilt durch Mitarbeiter",
+        "Dividende geteilt durch Kurs"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Ergebnis zeigt, das Wievielfache des Gewinns du zahlst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kurs von 100 Euro und 5 Euro Gewinn pro Aktie ergeben welches KGV?",
+      "art": "mc",
+      "optionen": [
+        "20",
+        "5",
+        "100",
+        "500"
+      ],
+      "richtig": 0,
+      "erklaerung": "100 geteilt durch 5 ergibt 20."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein niedriges KGV ist immer ein Kaufsignal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann auch geringe Erwartungen zeigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit solltest du KGVs vergleichen?",
+      "art": "mc",
+      "optionen": [
+        "Mit Firmen derselben Branche",
+        "Mit dem Wetter",
+        "Mit beliebigen Firmen",
+        "Mit dem Leitzins allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Branchen haben unterschiedlich hohe Werte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das KGV setzt Kurs und Gewinn ins Verhältnis.",
+        "Ein hohes KGV spiegelt oft hohe Erwartungen.",
+        "Ein niedriges KGV ist kein sicheres Schnäppchen.",
+        "Vergleiche nur innerhalb einer Branche."
+      ]
+    }
+  ]
+}

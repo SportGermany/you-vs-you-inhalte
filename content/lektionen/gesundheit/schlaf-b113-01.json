@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b113-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum musst du nachts auf die Toilette?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nykturie",
+    "harndrang",
+    "durchschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du wachst auf und musst dringend zur Toilette. Manchen passiert das jede Nacht mehrmals.",
+        "Dafür gibt es harmlose, aber auch ernstere Gründe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Nykturie bedeutet",
+      "absaetze": [
+        "Fachleute sprechen von Nykturie, wenn jemand nachts zum Wasserlassen aufwacht. Einmal pro Nacht ist häufig und meist unbedenklich.",
+        "Ab zweimal pro Nacht leiden Schlaf und Erholung oft spürbar. Mit dem Alter wird nächtlicher Harndrang häufiger."
+      ],
+      "merke": "Nykturie heißt nächtliches Aufwachen zum Wasserlassen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alltägliche Ursachen",
+      "absaetze": [
+        "Viel Flüssigkeit am Abend füllt die Blase. Kaffee, Tee und Alkohol treiben zusätzlich die Ausscheidung an.",
+        "Normalerweise bildet der Körper nachts ein Hormon, das die Harnmenge drosselt. Im Alter wird davon oft weniger ausgeschüttet."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du es abklären lässt",
+      "absaetze": [
+        "Hinter häufigem nächtlichem Harndrang können Krankheiten stecken. Beispiele sind eine vergrößerte Prostata, Diabetes, Herzschwäche oder eine Schlafapnoe.",
+        "Bei einer Herzschwäche sammelt sich tagsüber Wasser in den Beinen. Im Liegen gelangt es zurück ins Blut und wird ausgeschieden. Lass das Muster ärztlich prüfen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennen Fachleute nächtliches Aufwachen zum Wasserlassen?",
+      "art": "mc",
+      "optionen": [
+        "Nykturie",
+        "Insomnie",
+        "Narkolepsie",
+        "Apnoe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nykturie kommt vom griechischen Wort für Nacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was drosselt normalerweise nachts die Harnmenge?",
+      "art": "mc",
+      "optionen": [
+        "Ein Hormon",
+        "Der Herzschlag",
+        "Die Körpertemperatur",
+        "Der Blutzucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Alter wird davon oft weniger gebildet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einmal pro Nacht zur Toilette ist meist unbedenklich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Häufigeres Aufwachen solltest du abklären lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum kann eine Herzschwäche nachts Harndrang auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Wasser aus den Beinen gelangt im Liegen zurück ins Blut",
+        "Das Herz schlägt nachts schneller",
+        "Die Blase wird kleiner",
+        "Der Magen drückt auf die Blase"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Nieren scheiden das Wasser dann aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nykturie heißt nächtlicher Harndrang.",
+        "Getränke am Abend, Kaffee und Alkohol verstärken ihn.",
+        "Im Alter wird er häufiger.",
+        "Häufiger nächtlicher Harndrang gehört ärztlich abgeklärt."
+      ]
+    }
+  ]
+}

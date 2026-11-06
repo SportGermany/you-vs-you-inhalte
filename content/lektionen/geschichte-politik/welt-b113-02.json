@@ -1,0 +1,121 @@
+{
+  "id": "welt-b113-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Euklid?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte der Antike",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "euklid",
+    "antike",
+    "mathematik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Lehrbuch, das über 2000 Jahre lang benutzt wurde. Das hat kaum ein anderes Werk geschafft.",
+        "Geschrieben hat es ein Mathematiker aus Alexandria."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mathematiker in Alexandria",
+      "absaetze": [
+        "Euklid lebte um 300 vor Christus in Alexandria in Ägypten. Die Stadt war damals ein Zentrum der Wissenschaft mit einer berühmten Bibliothek.",
+        "Über sein Leben ist fast nichts bekannt. Umso bekannter ist sein Werk."
+      ],
+      "merke": "Euklid lebte um 300 vor Christus in Alexandria."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Elemente",
+      "absaetze": [
+        "Sein Hauptwerk heißt Die Elemente. Es besteht aus 13 Büchern über Geometrie und Zahlen.",
+        "Euklid sammelte das Wissen seiner Zeit und ordnete es streng. Er begann mit wenigen Grundannahmen, den Axiomen. Daraus leitete er Schritt für Schritt neue Sätze ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wirkung bis heute",
+      "absaetze": [
+        "Die Elemente gehören zu den meistgedruckten Büchern der Geschichte. Bis ins 20. Jahrhundert dienten sie als Schulbuch.",
+        "Auch die Idee, dass es unendlich viele Primzahlen gibt, wurde dort bewiesen. Die Schulgeometrie heißt bis heute euklidische Geometrie."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo lebte Euklid?",
+      "art": "mc",
+      "optionen": [
+        "In Alexandria",
+        "In Rom",
+        "In Athen",
+        "In Babylon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Stadt war ein Zentrum der Wissenschaft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt sein Hauptwerk?",
+      "art": "mc",
+      "optionen": [
+        "Die Elemente",
+        "Die Republik",
+        "Die Odyssee",
+        "Die Physik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es umfasst 13 Bücher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Axiome?",
+      "art": "mc",
+      "optionen": [
+        "Grundannahmen, aus denen man Sätze ableitet",
+        "Bewiesene Formeln",
+        "Besondere Dreiecke",
+        "Messgeräte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Euklid baute sein Werk darauf auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In den Elementen wird bewiesen, dass es unendlich viele Primzahlen gibt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Beweis gilt bis heute."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Euklid lebte um 300 vor Christus in Alexandria.",
+        "Sein Werk Die Elemente ordnete die Mathematik.",
+        "Er leitete Sätze aus wenigen Axiomen ab.",
+        "Die Schulgeometrie trägt seinen Namen."
+      ]
+    }
+  ]
+}

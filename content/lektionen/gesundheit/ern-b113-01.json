@@ -1,0 +1,130 @@
+{
+  "id": "ern-b113-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Möhren?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "moehren",
+    "gemuese",
+    "betacarotin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Möhren gehören zu den beliebtesten Gemüsesorten in Deutschland.",
+        "Um sie rankt sich außerdem ein hartnäckiger Mythos über gute Augen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Orange durch Betacarotin",
+      "absaetze": [
+        "Die orange Farbe stammt von Betacarotin. Der Körper kann daraus Vitamin A bilden. Es ist wichtig für Augen, Haut und Abwehrkräfte.",
+        "Möhren liefern außerdem Ballaststoffe und Kalium. Sie sind kalorienarm und lassen sich roh, gekocht oder gebacken genießen."
+      ],
+      "merke": "Aus Betacarotin bildet der Körper Vitamin A.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit etwas Fett",
+      "absaetze": [
+        "Betacarotin ist fettlöslich. Mit etwas Öl oder Butter kann der Körper mehr davon aufnehmen.",
+        "Auch Kochen hilft, weil es die Zellwände aufbricht. Rohe Möhren sind trotzdem ein guter Snack. Sie liefern dann mehr Biss und knackige Ballaststoffe."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Wer sehr viele Möhren isst, bekommt manchmal leicht gelbliche Haut, etwa an den Handflächen. Das ist harmlos und verschwindet wieder.",
+        "Möhren gibt es auch in Gelb, Weiß und Lila. Die orange Sorte setzte sich erst vor einigen Jahrhunderten durch."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Wer viele Möhren isst, sieht besser als andere.",
+      "urteil": "mythos",
+      "erklaerung": "Bei einem Vitamin-A-Mangel können Möhren das Sehen in der Dämmerung verbessern. Wer gut versorgt ist, sieht durch Möhren nicht schärfer. Der Mythos wurde im Zweiten Weltkrieg in Großbritannien verbreitet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bildet der Körper Vitamin A?",
+      "art": "mc",
+      "optionen": [
+        "Aus Betacarotin",
+        "Aus Ballaststoffen",
+        "Aus Kalium",
+        "Aus Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Betacarotin gibt Möhren ihre Farbe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hilft etwas Fett zu Möhren?",
+      "art": "mc",
+      "optionen": [
+        "Betacarotin ist fettlöslich",
+        "Fett macht Möhren süßer",
+        "Fett ersetzt Vitamine",
+        "Fett macht sie haltbarer"
+      ],
+      "richtig": 0,
+      "erklaerung": "So nimmt der Körper mehr davon auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer gut mit Vitamin A versorgt ist, sieht durch Möhren schärfer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur bei einem Mangel können sie das Sehen verbessern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann passieren, wenn du sehr viele Möhren isst?",
+      "art": "mc",
+      "optionen": [
+        "Leicht gelbliche Haut",
+        "Haarausfall",
+        "Blaue Lippen",
+        "Nichts kann passieren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist harmlos und verschwindet wieder."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Möhren liefern viel Betacarotin.",
+        "Daraus bildet der Körper Vitamin A.",
+        "Etwas Fett verbessert die Aufnahme.",
+        "Schärfer sehen lässt dich die Möhre nur bei Mangel."
+      ]
+    }
+  ]
+}

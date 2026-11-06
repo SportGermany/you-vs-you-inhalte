@@ -1,0 +1,121 @@
+{
+  "id": "all-b113-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was passiert bei einem Merkur- oder Venustransit?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Planeten und Sonnensystem",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "transit",
+    "merkur",
+    "venus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manchmal zieht ein winziger schwarzer Punkt langsam über die Sonne.",
+        "Das ist ein Planet, der genau zwischen Sonne und Erde vorbeizieht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Planet vor der Sonne",
+      "absaetze": [
+        "Nur Merkur und Venus kreisen näher an der Sonne als die Erde. Deshalb können nur sie von hier aus vor der Sonne vorbeiziehen. Das nennt man Transit.",
+        "Meist laufen sie knapp über oder unter der Sonnenscheibe vorbei. Denn ihre Bahnen sind leicht gegen die Erdbahn geneigt."
+      ],
+      "merke": "Nur Merkur und Venus können vor der Sonne vorbeiziehen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selten und noch seltener",
+      "absaetze": [
+        "Einen Merkurtransit gibt es etwa 13 bis 14 Mal pro Jahrhundert. Der letzte war 2019, der nächste folgt 2032.",
+        "Venustransite sind viel seltener. Sie kommen paarweise im Abstand von acht Jahren. Die letzten waren 2004 und 2012. Der nächste ist erst 2117."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtig für die Forschung",
+      "absaetze": [
+        "Im 18. Jahrhundert nutzten Forschende Venustransite, um die Entfernung zur Sonne zu bestimmen.",
+        "Heute suchen Teleskope nach Planeten bei fernen Sternen auf ähnliche Weise. Sie messen, wie das Sternenlicht beim Vorbeiziehen schwächer wird. Schau nie ohne Schutz in die Sonne."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Planeten können von der Erde aus vor der Sonne vorbeiziehen?",
+      "art": "mc",
+      "optionen": [
+        "Merkur und Venus",
+        "Mars und Jupiter",
+        "Saturn und Uranus",
+        "Alle Planeten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nur sie kreisen näher an der Sonne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist der nächste Venustransit?",
+      "art": "mc",
+      "optionen": [
+        "2117",
+        "2027",
+        "2032",
+        "2050"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die letzten waren 2004 und 2012."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu nutzte man Venustransite im 18. Jahrhundert?",
+      "art": "mc",
+      "optionen": [
+        "Um die Entfernung zur Sonne zu bestimmen",
+        "Um Uhren zu stellen",
+        "Um das Wetter vorherzusagen",
+        "Um neue Monde zu finden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür reisten Forschende um die halbe Welt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einen Transit darfst du mit bloßem Auge direkt in der Sonne beobachten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ohne Schutz drohen schwere Augenschäden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nur Merkur und Venus können vor der Sonne vorbeiziehen.",
+        "Merkurtransite gibt es mehrmals pro Jahrhundert.",
+        "Der nächste Venustransit ist 2117.",
+        "Nie ohne Schutz in die Sonne schauen."
+      ]
+    }
+  ]
+}

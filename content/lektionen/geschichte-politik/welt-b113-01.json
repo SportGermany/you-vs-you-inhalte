@@ -1,0 +1,121 @@
+{
+  "id": "welt-b113-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wer war Pythagoras?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte der Antike",
+      "herausgeber": "Deutsches Historisches Museum",
+      "url": "https://www.dhm.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pythagoras",
+    "antike",
+    "mathematik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Den Satz des Pythagoras lernen fast alle in der Schule.",
+        "Doch über den Mann dahinter weiß man erstaunlich wenig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Leben voller Rätsel",
+      "absaetze": [
+        "Pythagoras lebte im 6. Jahrhundert vor Christus. Er stammte von der griechischen Insel Samos.",
+        "Später zog er nach Kroton in Süditalien. Dort gründete er eine Gemeinschaft mit strengen Regeln. Seine Anhänger hießen Pythagoreer. Schriften von ihm selbst sind nicht erhalten."
+      ],
+      "merke": "Pythagoras stammte von der Insel Samos."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zahlen als Schlüssel zur Welt",
+      "absaetze": [
+        "Die Pythagoreer glaubten, dass sich die Welt mit Zahlen erklären lässt. Sie entdeckten etwa, dass harmonische Töne mit einfachen Zahlenverhältnissen zusammenhängen.",
+        "Eine halb so lange Saite klingt eine Oktave höher. Mathematik, Musik und Religion gingen für sie Hand in Hand."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der berühmte Satz",
+      "absaetze": [
+        "Der Satz besagt: Im rechtwinkligen Dreieck ist a² + b² = c². Dabei ist c die längste Seite.",
+        "Babylonier kannten diesen Zusammenhang schon über tausend Jahre früher. Ob Pythagoras ihn selbst bewiesen hat, ist unklar."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von welcher Insel stammte Pythagoras?",
+      "art": "mc",
+      "optionen": [
+        "Samos",
+        "Kreta",
+        "Sizilien",
+        "Rhodos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Später lebte er in Süditalien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was besagt der Satz des Pythagoras?",
+      "art": "mc",
+      "optionen": [
+        "a² + b² = c² im rechtwinkligen Dreieck",
+        "Die Winkelsumme im Dreieck ist 360 Grad",
+        "Alle Dreiecke sind gleich groß",
+        "Ein Kreis hat keine Ecken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei ist c die längste Seite."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Zusammenhang war schon den Babyloniern bekannt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie kannten ihn lange vor Pythagoras."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbanden die Pythagoreer mit Zahlen?",
+      "art": "mc",
+      "optionen": [
+        "Musik und Harmonie",
+        "Landwirtschaft",
+        "Seefahrt",
+        "Kriegsführung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Harmonische Töne folgen einfachen Zahlenverhältnissen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pythagoras lebte im 6. Jahrhundert vor Christus.",
+        "Er gründete in Süditalien eine Gemeinschaft.",
+        "Die Pythagoreer sahen Zahlen als Schlüssel zur Welt.",
+        "Der berühmte Satz war schon vorher bekannt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "geo-b113-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Weltorganisation für Meteorologie?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About WMO",
+      "herausgeber": "Weltorganisation für Meteorologie (WMO)",
+      "url": "https://wmo.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Internationale Zusammenarbeit",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wmo",
+    "wetter",
+    "internationale organisationen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wetter kennt keine Grenzen. Ein Tief über dem Atlantik erreicht ein paar Tage später Deutschland.",
+        "Deshalb arbeiten Wetterdienste weltweit eng zusammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine UN-Organisation für Wetter",
+      "absaetze": [
+        "Die Weltorganisation für Meteorologie, kurz WMO, hat ihren Sitz in Genf. Sie entstand 1950 und ist eine Sonderorganisation der Vereinten Nationen.",
+        "Ihr Vorläufer war die Internationale Meteorologische Organisation. Sie wurde schon im 19. Jahrhundert gegründet."
+      ],
+      "merke": "Die WMO sitzt in Genf und gehört zur UN-Familie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Daten für alle",
+      "absaetze": [
+        "Die WMO sorgt dafür, dass Wetterdaten weltweit nach gleichen Regeln gemessen und ausgetauscht werden. Dazu zählen Messungen von Wetterstationen, Bojen, Ballons und Satelliten.",
+        "Ohne diesen Austausch wären genaue Vorhersagen unmöglich. Auch der Deutsche Wetterdienst ist eingebunden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnungen und Klima",
+      "absaetze": [
+        "Die WMO legt fest, wie tropische Wirbelstürme benannt werden. Sie unterstützt Frühwarnsysteme für Unwetter.",
+        "Zusammen mit dem UN-Umweltprogramm gründete sie 1988 den Weltklimarat. Jedes Jahr berichtet sie über den Zustand des Klimas."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hat die WMO ihren Sitz?",
+      "art": "mc",
+      "optionen": [
+        "In Genf",
+        "In Bern",
+        "In Wien",
+        "In Rom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort sitzen viele UN-Organisationen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gremium gründete die WMO 1988 mit?",
+      "art": "mc",
+      "optionen": [
+        "Den Weltklimarat",
+        "Die NATO",
+        "Die Weltbank",
+        "Die OPEC"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeinsam mit dem UN-Umweltprogramm."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die WMO legt fest, wie tropische Wirbelstürme benannt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dafür gibt es Namenslisten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Austausch von Wetterdaten so wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Wetter kennt keine Grenzen",
+        "Er ist gesetzlich vorgeschrieben",
+        "Er spart Strom",
+        "Er ersetzt Satelliten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne ihn wären genaue Vorhersagen unmöglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die WMO sitzt in Genf.",
+        "Sie sorgt für weltweit einheitliche Wetterdaten.",
+        "Sie unterstützt Frühwarnsysteme.",
+        "Sie gründete 1988 den Weltklimarat mit."
+      ]
+    }
+  ]
+}

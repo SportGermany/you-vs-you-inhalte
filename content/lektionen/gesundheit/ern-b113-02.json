@@ -1,0 +1,123 @@
+{
+  "id": "ern-b113-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Buchweizen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "buchweizen",
+    "glutenfrei",
+    "pseudogetreide"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Buchweizen klingt nach Getreide und wird auch so gegessen.",
+        "Botanisch ist er aber etwas ganz anderes."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Getreide",
+      "absaetze": [
+        "Buchweizen gehört zu den Knöterichgewächsen und ist mit Sauerampfer verwandt. Man nennt ihn ein Pseudogetreide. Das heißt: Er wird wie Getreide genutzt, ist aber keins.",
+        "Seine dreieckigen Körner erinnern an Bucheckern. Daher kommt der Name."
+      ],
+      "merke": "Buchweizen ist kein Getreide, sondern ein Knöterichgewächs."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er liefert",
+      "absaetze": [
+        "Buchweizen enthält wertvolles Eiweiß, Ballaststoffe, Magnesium und Eisen. Dazu kommt der Pflanzenstoff Rutin.",
+        "Er ist von Natur aus glutenfrei. Für Menschen mit Zöliakie eignet er sich deshalb gut. Achte aber auf den Hinweis glutenfrei, denn bei der Verarbeitung kann Getreide hineingeraten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "So wird er gegessen",
+      "absaetze": [
+        "Buchweizen gibt es als ganze Körner, Grütze oder Mehl. Bekannt sind Galettes aus der Bretagne und Blini aus Osteuropa.",
+        "Ganze Körner kochst du ähnlich wie Reis. Geröstet schmecken sie nussig. Manche Menschen reagieren allergisch auf Buchweizen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Pflanzenfamilie gehört Buchweizen?",
+      "art": "mc",
+      "optionen": [
+        "Knöterichgewächse",
+        "Süßgräser",
+        "Hülsenfrüchte",
+        "Kreuzblütler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist mit Sauerampfer verwandt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Buchweizen ist von Natur aus glutenfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei der Verarbeitung kann aber Getreide hineingeraten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Pseudogetreide?",
+      "art": "mc",
+      "optionen": [
+        "Wird wie Getreide genutzt, ist aber keins",
+        "Ein künstlich hergestelltes Getreide",
+        "Getreide ohne Ballaststoffe",
+        "Ein Getreide aus dem Labor"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Quinoa und Amaranth zählen dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen Galettes aus Buchweizenmehl?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Bretagne",
+        "Aus Bayern",
+        "Aus Japan",
+        "Aus Mexiko"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die herzhaften Pfannkuchen sind dort eine Spezialität."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Buchweizen ist kein Getreide.",
+        "Er liefert Eiweiß, Ballaststoffe und Mineralstoffe.",
+        "Er ist von Natur aus glutenfrei.",
+        "Es gibt ihn als Körner, Grütze oder Mehl."
+      ]
+    }
+  ]
+}

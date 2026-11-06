@@ -1,0 +1,121 @@
+{
+  "id": "koer-b113-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was hilft bei Nasenbluten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nasenbluten",
+    "erste hilfe",
+    "nase"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Plötzlich tropft Blut aus der Nase. Das sieht oft schlimmer aus, als es ist.",
+        "Mit dem richtigen Griff hört es meist schnell wieder auf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum die Nase blutet",
+      "absaetze": [
+        "Im vorderen Teil der Nasenscheidewand liegt ein dichtes Geflecht feiner Blutgefäße. Dort beginnt die meiste Blutung.",
+        "Trockene Heizungsluft, Schnupfen, Nasebohren oder ein Stoß können die Gefäße verletzen. Auch starkes Schnäuzen reicht manchmal aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kopf nach vorn",
+      "absaetze": [
+        "Setz dich hin und beuge den Kopf nach vorn. So läuft das Blut nicht in den Rachen und Magen.",
+        "Drück die weichen Nasenflügel etwa zehn Minuten lang fest zusammen. Atme durch den Mund. Ein kühles Tuch im Nacken kann zusätzlich helfen."
+      ],
+      "merke": "Kopf nach vorn, Nasenflügel zehn Minuten zusammendrücken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du Hilfe brauchst",
+      "absaetze": [
+        "Hört die Blutung nach etwa 20 Minuten nicht auf, suche ärztliche Hilfe. Das gilt auch nach einem Unfall oder Schlag auf den Kopf.",
+        "Häufiges Nasenbluten ohne erkennbaren Grund sollte ebenfalls abgeklärt werden. Das gilt besonders bei blutverdünnenden Medikamenten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin solltest du den Kopf bei Nasenbluten neigen?",
+      "art": "mc",
+      "optionen": [
+        "Nach vorn",
+        "Nach hinten",
+        "Zur Seite",
+        "Gar nicht bewegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So läuft kein Blut in den Rachen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange solltest du die Nasenflügel zusammendrücken?",
+      "art": "mc",
+      "optionen": [
+        "Etwa zehn Minuten",
+        "Zehn Sekunden",
+        "Eine Stunde",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Atme dabei durch den Mund."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Den Kopf in den Nacken zu legen ist die richtige Erste Hilfe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Blut läuft dann in den Rachen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann brauchst du ärztliche Hilfe?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es nach etwa 20 Minuten nicht aufhört",
+        "Immer sofort",
+        "Nur bei Kindern",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch nach Unfällen solltest du dich untersuchen lassen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Meist blutet ein Gefäß vorn in der Nase.",
+        "Kopf nach vorn neigen, nicht nach hinten.",
+        "Nasenflügel etwa zehn Minuten zusammendrücken.",
+        "Nach 20 Minuten oder nach Unfällen Hilfe holen."
+      ]
+    }
+  ]
+}
