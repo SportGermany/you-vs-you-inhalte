@@ -1,0 +1,146 @@
+{
+  "id": "supp-b127-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Aktivkohle-Tabletten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "aktivkohle",
+    "durchfall",
+    "detox"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schwarze Tabletten gegen Durchfall, schwarze Säfte zum Entgiften: Aktivkohle ist wieder in Mode.",
+        "Was kann sie wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine riesige Oberfläche",
+      "absaetze": [
+        "Aktivkohle ist sehr porös. Ein Gramm hat eine enorme innere Oberfläche. Daran bleiben viele Stoffe haften.",
+        "In der Notfallmedizin wird sie bei bestimmten Vergiftungen eingesetzt. Das entscheiden aber Fachleute, nicht du selbst."
+      ],
+      "merke": "Aktivkohle bindet viele Stoffe an ihrer Oberfläche."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bei Durchfall",
+      "absaetze": [
+        "Gegen Durchfall wird Aktivkohle seit Langem verwendet. Gute Belege für einen echten Nutzen fehlen jedoch weitgehend.",
+        "Wichtiger ist bei Durchfall, genug zu trinken und Salze zu ersetzen. Bei Fieber, Blut im Stuhl oder langer Dauer gehört der Durchfall in ärztliche Hände."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bindet auch Medikamente",
+      "absaetze": [
+        "Aktivkohle unterscheidet nicht zwischen Gift und Arznei. Sie kann auch Medikamente binden, zum Beispiel die Pille.",
+        "Detox-Getränke mit Aktivkohle sind deshalb nicht harmlos. Ein Nutzen fürs Entgiften ist nicht belegt. Der Körper entgiftet über Leber und Nieren selbst."
+      ],
+      "merke": "Aktivkohle kann die Wirkung von Medikamenten schwächen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Aktivkohle kann die Wirkung von Medikamenten und der Pille abschwächen.",
+        "Bei Vergiftungsverdacht den Giftnotruf oder den Notruf anrufen, nicht selbst behandeln.",
+        "Bei Durchfall mit Fieber, Blut oder langer Dauer ärztlich abklären lassen."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Aktivkohle-Drinks entgiften den Körper.",
+      "urteil": "mythos",
+      "erklaerung": "Dafür gibt es keine Belege. Sie können aber Medikamente binden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bindet Aktivkohle viele Stoffe?",
+      "art": "mc",
+      "optionen": [
+        "Sie hat eine riesige innere Oberfläche",
+        "Sie ist magnetisch",
+        "Sie löst sich auf",
+        "Sie enthält Bakterien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Stoffe bleiben an den Poren haften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aktivkohle kann die Wirkung der Pille schwächen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie unterscheidet nicht zwischen Gift und Arznei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Durchfall besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Genug trinken und Salze ersetzen",
+        "Möglichst wenig trinken",
+        "Viel Aktivkohle-Saft",
+        "Sport treiben"
+      ],
+      "richtig": 0,
+      "erklaerung": "So beugst du einem Flüssigkeitsmangel vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Nutzen von Detox-Drinks mit Aktivkohle belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, eindeutig",
+        "Nur morgens",
+        "Nur bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper entgiftet über Leber und Nieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aktivkohle bindet viele Stoffe an ihrer Oberfläche.",
+        "Bei Vergiftungen setzen Fachleute sie gezielt ein.",
+        "Gegen Durchfall ist der Nutzen kaum belegt.",
+        "Sie kann Medikamente wie die Pille binden."
+      ]
+    }
+  ]
+}

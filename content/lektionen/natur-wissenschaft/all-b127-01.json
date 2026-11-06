@@ -1,0 +1,122 @@
+{
+  "id": "all-b127-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist der Sonnenwind?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sonnenwind",
+    "sonne",
+    "magnetfeld"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Von der Sonne kommt nicht nur Licht. Sie bläst auch ständig Teilchen ins All.",
+        "Diesen Strom nennt man Sonnenwind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teilchen aus der Korona",
+      "absaetze": [
+        "Die äußerste Schicht der Sonne heißt Korona. Sie ist so heiß, dass geladene Teilchen ins All entweichen. Vor allem sind das Protonen und Elektronen.",
+        "Der Sonnenwind ist mit Hunderten Kilometern pro Sekunde unterwegs. Bis zur Erde braucht er trotzdem einige Tage."
+      ],
+      "merke": "Der Sonnenwind besteht aus geladenen Teilchen der Sonne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unser Schutzschild",
+      "absaetze": [
+        "Das Magnetfeld der Erde lenkt die meisten Teilchen ab. Ohne diesen Schutz würde der Sonnenwind die Atmosphäre langsam abtragen.",
+        "In der Nähe der Pole dringen einige Teilchen tiefer ein. Dort lassen sie die Luft leuchten. So entstehen Polarlichter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spuren im Sonnensystem",
+      "absaetze": [
+        "Der Sonnenwind bläst den Schweif eines Kometen von der Sonne weg. Deshalb zeigt ein Schweif nicht immer in Flugrichtung.",
+        "Der Wind bildet eine riesige Blase um das Sonnensystem, die Heliosphäre. Die Raumsonde Voyager 1 hat sie 2012 verlassen."
+      ],
+      "merke": "Der Sonnenwind bläst Kometenschweife von der Sonne weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht der Sonnenwind?",
+      "art": "mc",
+      "optionen": [
+        "Aus geladenen Teilchen",
+        "Aus Wasserdampf",
+        "Aus Staubwolken der Erde",
+        "Aus Schall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem aus Protonen und Elektronen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt die Erde vor dem Sonnenwind?",
+      "art": "mc",
+      "optionen": [
+        "Ihr Magnetfeld",
+        "Der Mond",
+        "Die Wolken",
+        "Die Ozeane"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es lenkt die meisten Teilchen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kometenschweif zeigt immer in Flugrichtung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Sonnenwind bläst ihn von der Sonne weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Raumsonde verließ 2012 die Heliosphäre?",
+      "art": "mc",
+      "optionen": [
+        "Voyager 1",
+        "Apollo 11",
+        "Sputnik",
+        "Hubble"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist seit 1977 unterwegs."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Sonnenwind ist ein Strom geladener Teilchen.",
+        "Das Erdmagnetfeld lenkt ihn ab.",
+        "Er erzeugt Polarlichter.",
+        "Er bläst Kometenschweife von der Sonne weg."
+      ]
+    }
+  ]
+}

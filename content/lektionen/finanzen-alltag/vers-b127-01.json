@@ -1,0 +1,122 @@
+{
+  "id": "vers-b127-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bringt ein Rabattschutz in der Autoversicherung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rabattschutz",
+    "kfz-versicherung",
+    "schadenfreiheitsklasse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleiner Unfall, und im nächsten Jahr wird die Autoversicherung teurer.",
+        "Manche Versicherer bieten dagegen einen Rabattschutz an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er verspricht",
+      "absaetze": [
+        "Normalerweise wirst du nach einem Schaden in eine schlechtere Schadenfreiheitsklasse zurückgestuft. Dann steigt der Beitrag.",
+        "Mit Rabattschutz bleibt deine Einstufung nach einem Schaden im Jahr gleich. Der Versicherer verzichtet also auf die Rückstufung."
+      ],
+      "merke": "Rabattschutz verhindert die Rückstufung nach einem Schaden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Haken beim Wechsel",
+      "absaetze": [
+        "Der Schutz gilt meist nur bei deinem jetzigen Versicherer. Wechselst du, meldet er der neuen Gesellschaft deinen tatsächlichen Schadenverlauf.",
+        "Dann wirst du dort doch zurückgestuft. Der Rabattschutz bindet dich also an deinen Anbieter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lohnt sich das?",
+      "absaetze": [
+        "Der Rabattschutz kostet einen Aufpreis, oft jedes Jahr. Er lohnt sich vor allem bei hohem Beitrag und schlechter Einstufung.",
+        "Rechne nach, was eine Rückstufung kosten würde. Kleine Schäden kannst du oft auch selbst bezahlen und so deinen Rabatt behalten."
+      ],
+      "merke": "Rechne den Aufpreis gegen eine mögliche Rückstufung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verhindert ein Rabattschutz?",
+      "art": "mc",
+      "optionen": [
+        "Die Rückstufung nach einem Schaden",
+        "Jeden Unfall",
+        "Die Kfz-Steuer",
+        "Die Hauptuntersuchung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deine Schadenfreiheitsklasse bleibt gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Rabattschutz gilt auch beim Wechsel zu einem anderen Versicherer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der neue Versicherer erfährt den echten Schadenverlauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei kleinen Schäden eine Alternative sein?",
+      "art": "mc",
+      "optionen": [
+        "Den Schaden selbst bezahlen",
+        "Den Schaden verschweigen",
+        "Das Auto abmelden",
+        "Die Versicherung kündigen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So behältst du deinen Rabatt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kostet der Rabattschutz extra?",
+      "art": "mc",
+      "optionen": [
+        "Ja, meist einen Aufpreis",
+        "Nein, nie",
+        "Nur beim Neuwagen",
+        "Nur im Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb solltest du nachrechnen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rabattschutz verhindert die Rückstufung nach einem Schaden.",
+        "Er gilt meist nur beim jetzigen Versicherer.",
+        "Er kostet einen Aufpreis.",
+        "Kleine Schäden selbst zu zahlen, kann günstiger sein."
+      ]
+    }
+  ]
+}

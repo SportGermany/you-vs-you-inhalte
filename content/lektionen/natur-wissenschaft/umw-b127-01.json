@@ -1,0 +1,128 @@
+{
+  "id": "umw-b127-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum sind Libellen so besondere Insekten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Tiere und Pflanzen",
+      "herausgeber": "NABU",
+      "url": "https://www.nabu.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "libellen",
+    "insekten",
+    "gewaesser"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Blau schillernd stehen sie über dem Teich in der Luft und schießen dann blitzschnell davon.",
+        "Libellen sind wahre Flugkünstler."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Leben im Wasser",
+      "absaetze": [
+        "Den größten Teil ihres Lebens verbringen Libellen als Larven unter Wasser. Dort jagen sie andere kleine Tiere, je nach Art oft mehrere Jahre lang.",
+        "Das erwachsene Tier lebt dagegen meist nur wenige Wochen. Weil die Larven saubere und passende Gewässer brauchen, zeigen Libellen den Zustand von Teichen und Bächen an."
+      ],
+      "merke": "Libellenlarven leben oft jahrelang im Wasser."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Meister der Lüfte",
+      "absaetze": [
+        "Libellen können ihre vier Flügel unabhängig voneinander bewegen. So stehen sie in der Luft und fliegen sogar rückwärts.",
+        "Ihre großen Facettenaugen bestehen aus Tausenden Einzelaugen. Damit erkennen sie Beute im Flug und fangen sie mit den Beinen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Harmlos und bedroht",
+      "absaetze": [
+        "Libellen haben keinen Stachel und können nicht stechen. Für Menschen sind sie völlig ungefährlich.",
+        "In Deutschland leben rund 80 Arten. Viele stehen auf der Roten Liste, weil Tümpel, Moore und naturnahe Ufer verschwunden sind. Ein Gartenteich ohne Fische kann ihnen helfen."
+      ],
+      "merke": "Libellen stechen nicht."
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Libellen können Menschen stechen.",
+      "urteil": "mythos",
+      "erklaerung": "Falsch. Libellen haben keinen Stachel und sind für Menschen ungefährlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo leben Libellenlarven?",
+      "art": "mc",
+      "optionen": [
+        "Im Wasser",
+        "In der Erde",
+        "In Baumrinde",
+        "In Blüten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft mehrere Jahre lang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Können Libellen rückwärts fliegen?",
+      "art": "mc",
+      "optionen": [
+        "Ja",
+        "Nein",
+        "Nur nachts",
+        "Nur als Larve"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie bewegen ihre vier Flügel unabhängig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Libellen können stechen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie haben keinen Stachel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gelten Libellen als Zeiger für Gewässer?",
+      "art": "mc",
+      "optionen": [
+        "Ihre Larven brauchen saubere, passende Gewässer",
+        "Sie trinken viel Wasser",
+        "Sie färben das Wasser",
+        "Sie bauen Dämme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fehlen sie, stimmt oft etwas nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Libellenlarven leben oft jahrelang im Wasser.",
+        "Erwachsene Libellen sind geschickte Flieger.",
+        "Libellen stechen nicht.",
+        "Viele Arten sind durch verschwundene Gewässer bedroht."
+      ]
+    }
+  ]
+}

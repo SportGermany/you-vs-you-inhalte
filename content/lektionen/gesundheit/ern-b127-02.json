@@ -1,0 +1,124 @@
+{
+  "id": "ern-b127-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Quinoa?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "quinoa",
+    "pseudogetreide",
+    "glutenfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Quinoa hat es von den Anden in fast jeden Supermarkt geschafft.",
+        "Aber ist das kleine Korn wirklich etwas Besonderes?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein echtes Getreide",
+      "absaetze": [
+        "Quinoa sieht aus wie Getreide, gehört aber botanisch nicht zu den Gräsern. Man nennt sie deshalb Pseudogetreide.",
+        "Die Pflanze stammt aus den Anden in Südamerika. Dort wird sie seit Jahrtausenden angebaut. Quinoa ist von Natur aus glutenfrei."
+      ],
+      "merke": "Quinoa ist ein glutenfreies Pseudogetreide aus den Anden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Quinoa liefert vergleichsweise viel Eiweiß. Es enthält alle Aminosäuren, die der Körper nicht selbst bilden kann.",
+        "Dazu kommen Ballaststoffe, Magnesium und Eisen. Besser als alle anderen Körner ist sie trotzdem nicht. Hirse, Hafer oder Hülsenfrüchte haben ebenfalls viel zu bieten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor dem Kochen waschen",
+      "absaetze": [
+        "Die Körner sind von Natur aus mit Saponinen überzogen. Diese Bitterstoffe schützen die Pflanze vor Fraß.",
+        "Spüle Quinoa vor dem Kochen gründlich in einem Sieb ab. Viele Sorten im Handel sind schon vorgewaschen. Dann schmeckt sie mild und leicht nussig."
+      ],
+      "merke": "Quinoa vor dem Kochen gründlich abspülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum heißt Quinoa Pseudogetreide?",
+      "art": "mc",
+      "optionen": [
+        "Sie ist kein Gras, sieht aber wie Getreide aus",
+        "Sie ist künstlich",
+        "Sie enthält viel Gluten",
+        "Sie wächst unter Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Echte Getreide gehören zu den Gräsern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Quinoa enthält von Natur aus Gluten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Quinoa ist glutenfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du Quinoa vor dem Kochen abspülen?",
+      "art": "mc",
+      "optionen": [
+        "Um Bitterstoffe zu entfernen",
+        "Damit sie schneller gart",
+        "Um Gluten zu entfernen",
+        "Damit sie Farbe bekommt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Saponine schmecken bitter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Quinoa?",
+      "art": "mc",
+      "optionen": [
+        "Aus den Anden",
+        "Aus Skandinavien",
+        "Aus der Sahara",
+        "Aus Japan"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort wird sie seit Jahrtausenden angebaut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Quinoa ist ein Pseudogetreide aus den Anden.",
+        "Sie ist glutenfrei.",
+        "Sie liefert viel Eiweiß und Ballaststoffe.",
+        "Vor dem Kochen gründlich abspülen."
+      ]
+    }
+  ]
+}

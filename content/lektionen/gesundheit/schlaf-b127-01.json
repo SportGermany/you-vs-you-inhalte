@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b127-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie hängen Schlaf und Migräne zusammen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zu Migräne",
+      "herausgeber": "Deutsche Migräne- und Kopfschmerzgesellschaft (DMKG)",
+      "url": "https://www.dmkg.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "migraene",
+    "kopfschmerz",
+    "schlafrhythmus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Menschen mit Migräne kennen das: Nach einer kurzen Nacht kommt die Attacke.",
+        "Und manchmal kommt sie gerade am Wochenende, wenn du endlich ausschläfst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein empfindliches Gehirn",
+      "absaetze": [
+        "Bei Migräne reagiert das Gehirn empfindlich auf Veränderungen. Dazu gehören auch Schwankungen im Schlaf.",
+        "Zu wenig Schlaf gilt als häufiger Auslöser. Aber auch deutlich mehr Schlaf als üblich kann eine Attacke begünstigen. Wichtig ist offenbar vor allem der gleichmäßige Rhythmus."
+      ],
+      "merke": "Schwankungen im Schlaf können Migräne begünstigen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Attacken aus dem Schlaf",
+      "absaetze": [
+        "Manche Attacken beginnen schon nachts oder in den frühen Morgenstunden. Du wachst dann bereits mit Kopfschmerz auf.",
+        "Umgekehrt hilft vielen Betroffenen Schlaf, eine Attacke zu beenden. Wie genau Schlaf und Migräne zusammenhängen, ist noch nicht vollständig geklärt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Fachleute raten zu festen Zeiten fürs Zubettgehen und Aufstehen, auch am Wochenende. Ein Kopfschmerzkalender hilft, persönliche Auslöser zu erkennen.",
+        "Häufige oder sehr starke Attacken gehören in ärztliche Hände. Auch Schnarchen mit Atemaussetzern kann Kopfschmerzen am Morgen verursachen."
+      ],
+      "merke": "Ein regelmäßiger Schlafrhythmus hilft vielen mit Migräne."
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Ausschlafen am Wochenende schützt vor Migräne.",
+      "urteil": "mythos",
+      "erklaerung": "Nicht unbedingt. Ein stark verschobener Rhythmus kann bei manchen gerade eine Attacke begünstigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt als häufiger Migräne-Auslöser?",
+      "art": "mc",
+      "optionen": [
+        "Zu wenig Schlaf",
+        "Frische Luft",
+        "Ein Glas Wasser",
+        "Ein kurzer Spaziergang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch starke Schwankungen im Rhythmus spielen eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auch deutlich mehr Schlaf als üblich kann Migräne begünstigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gleichmäßigkeit scheint wichtig zu sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, persönliche Auslöser zu erkennen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Kopfschmerzkalender",
+        "Ein Schrittzähler",
+        "Ein neues Kissen",
+        "Ein Wecker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort notierst du Attacken und mögliche Auslöser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was raten Fachleute zum Schlaf bei Migräne?",
+      "art": "mc",
+      "optionen": [
+        "Feste Schlafzeiten, auch am Wochenende",
+        "Möglichst wenig schlafen",
+        "Nur tagsüber schlafen",
+        "Jede Nacht anders schlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein gleichmäßiger Rhythmus hilft vielen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zu wenig und zu viel Schlaf können Migräne begünstigen.",
+        "Ein gleichmäßiger Rhythmus hilft vielen Betroffenen.",
+        "Ein Kopfschmerzkalender zeigt persönliche Auslöser.",
+        "Häufige Attacken gehören in ärztliche Hände."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "tech-b127-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Luftentfeuchter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "luftentfeuchter",
+    "feuchtigkeit",
+    "kondensation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Keller riecht es muffig, die Wäsche trocknet nicht.",
+        "Ein Luftentfeuchter zieht Wasser direkt aus der Luft. Aber wie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalte Flächen sammeln Wasser",
+      "absaetze": [
+        "Die meisten Geräte arbeiten wie ein kleiner Kühlschrank. Ein Ventilator saugt Raumluft über eiskalte Metallrippen.",
+        "Dort kühlt die Luft ab und kann weniger Wasser halten. Der Dampf kondensiert zu Tropfen, wie an einer kalten Flasche. Das Wasser läuft in einen Behälter."
+      ],
+      "merke": "Kondens-Entfeuchter kühlen die Luft, bis Wasser ausfällt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Danach wird es wärmer",
+      "absaetze": [
+        "Die getrocknete Luft strömt anschließend über warme Rippen und verlässt das Gerät. Der Raum wird dadurch sogar etwas wärmer.",
+        "In kalten Räumen arbeiten solche Geräte schlechter. Dort eignen sich Geräte mit einem Trockenmittel besser, das Wasser direkt aufnimmt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Lösung für jede Ursache",
+      "absaetze": [
+        "Kleine Boxen mit Granulat binden nur wenig Wasser. Für einen ganzen Raum reichen sie kaum.",
+        "Wichtig ist, die Ursache zu finden. Feuchte Wände durch Schäden oder fehlendes Lüften löst ein Entfeuchter nicht. Er läuft zudem mit Strom und kostet laufend Geld."
+      ],
+      "merke": "Ein Entfeuchter ersetzt nicht die Suche nach der Ursache."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gewinnt ein Kondens-Entfeuchter Wasser aus der Luft?",
+      "art": "mc",
+      "optionen": [
+        "Er kühlt die Luft an kalten Rippen ab",
+        "Er filtert das Wasser mit Papier",
+        "Er kocht die Luft",
+        "Er lädt das Wasser elektrisch auf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kalte Luft kann weniger Wasser halten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kondens-Entfeuchter macht den Raum etwas wärmer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Luft strömt über warme Rippen hinaus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Geräte eignen sich besser für kalte Räume?",
+      "art": "mc",
+      "optionen": [
+        "Geräte mit Trockenmittel",
+        "Föhne",
+        "Ventilatoren",
+        "Kühlschränke"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Trockenmittel nimmt Wasser direkt auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst ein Luftentfeuchter nicht?",
+      "art": "mc",
+      "optionen": [
+        "Die Ursache feuchter Wände",
+        "Feuchtigkeit in der Luft",
+        "Beschlagene Fenster kurzfristig",
+        "Langsames Trocknen von Wäsche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ursache muss gefunden werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die meisten Entfeuchter kühlen die Luft ab.",
+        "Dabei kondensiert Wasser und läuft in einen Behälter.",
+        "Für kalte Räume eignen sich Geräte mit Trockenmittel.",
+        "Die Ursache der Feuchte muss trotzdem behoben werden."
+      ]
+    }
+  ]
+}

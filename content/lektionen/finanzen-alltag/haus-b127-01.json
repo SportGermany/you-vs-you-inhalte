@@ -1,0 +1,128 @@
+{
+  "id": "haus-b127-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Warum wird weiße Wäsche grau?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Umwelttipps für den Alltag",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waesche",
+    "waschmittel",
+    "weisswaesche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das neue weiße Shirt sieht nach ein paar Wäschen plötzlich trüb und grau aus.",
+        "Meist liegt das nicht am Shirt, sondern an der Art zu waschen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das falsche Waschmittel",
+      "absaetze": [
+        "Colorwaschmittel und die meisten Flüssigwaschmittel enthalten keine Bleiche. Sie schonen Farben, lassen Weißes auf Dauer aber vergrauen.",
+        "Für weiße Wäsche eignet sich ein Vollwaschmittel, am besten als Pulver. Es enthält Bleichmittel, die Verfärbungen lösen."
+      ],
+      "merke": "Für Weißes eignet sich ein Vollwaschmittel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abfärben und volle Trommel",
+      "absaetze": [
+        "Schon ein einzelnes farbiges Teil kann eine ganze Ladung trüben. Sortiere Weißes deshalb getrennt.",
+        "Auch eine überfüllte Trommel schadet. Dann bewegt sich die Wäsche kaum, und gelöster Schmutz setzt sich wieder ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasserhärte beachten",
+      "absaetze": [
+        "Bei hartem Wasser bindet Kalk einen Teil des Waschmittels. Dann bleibt zu wenig für den Schmutz übrig.",
+        "Die Angaben zur Wasserhärte stehen auf der Packung. Deine Wasserhärte erfährst du beim örtlichen Wasserversorger. Zu viel Waschmittel hilft dagegen nicht und belastet die Umwelt."
+      ],
+      "merke": "Richte die Waschmittelmenge nach der Wasserhärte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Waschmittel eignet sich für weiße Wäsche?",
+      "art": "mc",
+      "optionen": [
+        "Ein Vollwaschmittel",
+        "Ein Colorwaschmittel",
+        "Ein Wollwaschmittel",
+        "Spülmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es enthält Bleichmittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Colorwaschmittel enthalten meist keine Bleiche.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sollen Farben schonen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schadet eine überfüllte Trommel?",
+      "art": "mc",
+      "optionen": [
+        "Gelöster Schmutz setzt sich wieder ab",
+        "Die Wäsche wird zu heiß",
+        "Das Wasser wird weicher",
+        "Die Bleiche wirkt stärker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wäsche kann sich kaum bewegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo erfährst du deine Wasserhärte?",
+      "art": "mc",
+      "optionen": [
+        "Beim örtlichen Wasserversorger",
+        "Beim Finanzamt",
+        "Auf dem Etikett des Shirts",
+        "Bei der Post"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft steht sie auch auf dessen Website."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Für Weißes ein Vollwaschmittel verwenden.",
+        "Weiße Wäsche getrennt waschen.",
+        "Die Trommel nicht überfüllen.",
+        "Waschmittel nach der Wasserhärte bemessen."
+      ]
+    }
+  ]
+}
