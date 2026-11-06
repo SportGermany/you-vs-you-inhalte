@@ -1,0 +1,121 @@
+{
+  "id": "umw-b112-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum sinkt vielerorts das Grundwasser?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Grundwasser",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "grundwasser",
+    "trockenheit",
+    "trinkwasser"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der größte Teil unseres Trinkwassers kommt aus dem Grundwasser.",
+        "In vielen Regionen Deutschlands sind die Grundwasserstände in den letzten Jahren gesunken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Grundwasser entsteht",
+      "absaetze": [
+        "Grundwasser bildet sich, wenn Regen im Boden versickert und sich in tieferen Schichten sammelt. Das dauert oft lange.",
+        "Vor allem Niederschläge im Winter füllen die Vorräte auf. Im Sommer verdunstet viel Wasser oder wird von Pflanzen aufgenommen, bevor es tief genug kommt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum die Pegel sinken",
+      "absaetze": [
+        "Mehrere sehr trockene Jahre haben die Neubildung von Grundwasser verringert. Höhere Temperaturen lassen mehr Wasser verdunsten.",
+        "Versiegelte Flächen lassen kaum Regen versickern. Gleichzeitig wird viel Wasser entnommen, etwa für Trinkwasser, Industrie und die Bewässerung von Feldern."
+      ],
+      "merke": "Trockenheit, Hitze und Versiegelung verringern die Neubildung von Grundwasser."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Flächen zu entsiegeln, Regenwasser versickern zu lassen und Moore zu schützen hilft, Grundwasser neu zu bilden.",
+        "Auch beim Wasserverbrauch lässt sich sparen, etwa beim Bewässern von Gärten in trockenen Zeiten. In manchen Gemeinden wird dann schon zum Wassersparen aufgerufen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt der größte Teil unseres Trinkwassers?",
+      "art": "mc",
+      "optionen": [
+        "Aus dem Grundwasser",
+        "Aus dem Meer",
+        "Aus Gletschern",
+        "Aus Regenfässern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist es so wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird vor allem neues Grundwasser gebildet?",
+      "art": "mc",
+      "optionen": [
+        "Im Winter",
+        "Im Hochsommer",
+        "Nur bei Gewittern",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Sommer verdunstet viel Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verringert die Neubildung?",
+      "art": "mc",
+      "optionen": [
+        "Versiegelte Flächen",
+        "Feuchte Moore",
+        "Unbebaute Wiesen",
+        "Wälder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort kann Regen kaum versickern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Entsiegelung kann helfen, mehr Grundwasser zu bilden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann kann Regen wieder versickern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grundwasser ist die wichtigste Trinkwasserquelle.",
+        "Es wird vor allem im Winter neu gebildet.",
+        "Trockenheit und Versiegelung lassen die Pegel sinken.",
+        "Entsiegeln und Moore schützen helfen."
+      ]
+    }
+  ]
+}

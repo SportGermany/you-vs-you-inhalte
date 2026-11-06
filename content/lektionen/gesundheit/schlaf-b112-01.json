@@ -1,0 +1,124 @@
+{
+  "id": "schlaf-b112-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft warme Milch mit Honig beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "warme milch",
+    "hausmittel",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schon die Großeltern schworen auf warme Milch mit Honig vor dem Schlafen.",
+        "Steckt dahinter mehr als eine schöne Erinnerung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Theorie mit dem Tryptophan",
+      "absaetze": [
+        "Milch enthält Tryptophan. Aus diesem Eiweißbaustein bildet der Körper Serotonin und daraus das Schlafhormon Melatonin.",
+        "Die Menge in einem Glas Milch ist aber klein. Dass sie allein müde macht, ist unklar und nicht belegt."
+      ],
+      "merke": "Die Menge an Tryptophan in einem Glas Milch ist zu klein für eine Schlafwirkung.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Ritual zählt",
+      "absaetze": [
+        "Vieles deutet darauf hin, dass warme Milch trotzdem helfen kann. Ein warmes Getränk am Abend kann beruhigen und ist ein Signal: Jetzt ist Zeit zum Abschalten.",
+        "Vermutlich wirkt dabei vor allem die Gewohnheit. Auch Kräutertee ohne Koffein erfüllt diesen Zweck."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Honig ist Zucker. Putz dir danach die Zähne. Wer Milch nicht verträgt, nimmt besser ein anderes warmes Getränk.",
+        "Babys unter einem Jahr dürfen keinen Honig bekommen. Er kann Bakteriensporen enthalten, die für Säuglinge gefährlich sind."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff in Milch soll beim Einschlafen helfen?",
+      "art": "mc",
+      "optionen": [
+        "Tryptophan",
+        "Koffein",
+        "Vitamin C",
+        "Eisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Menge in einem Glas ist aber klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wirkt wahrscheinlich vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Das beruhigende Ritual",
+        "Der Zucker im Honig",
+        "Die Temperatur der Tasse allein",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es signalisiert: Zeit zum Abschalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer darf keinen Honig bekommen?",
+      "art": "mc",
+      "optionen": [
+        "Babys unter einem Jahr",
+        "Erwachsene",
+        "Senioren",
+        "Sportler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Honig kann gefährliche Bakteriensporen enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Glas Milch enthält genug Tryptophan, um sicher müde zu machen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ist nicht belegt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Milch enthält nur wenig Tryptophan.",
+        "Eine direkte Schlafwirkung ist nicht belegt.",
+        "Das warme Ritual kann beim Abschalten helfen.",
+        "Kein Honig für Babys unter einem Jahr."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ern-b112-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie verträglich ist Ziegenmilch?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ziegenmilch",
+    "laktose",
+    "milchallergie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele greifen zu Ziegenmilch, weil sie Kuhmilch schlecht vertragen.",
+        "Hilft das wirklich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fast so viel Milchzucker",
+      "absaetze": [
+        "Ziegenmilch enthält kaum weniger Milchzucker als Kuhmilch. Für Menschen mit Laktoseintoleranz ist sie deshalb keine gute Alternative.",
+        "Besser geeignet sind laktosefreie Milchprodukte. Ziegenkäse enthält, wie viele gereifte Käse, oft nur noch wenig Milchzucker."
+      ],
+      "merke": "Ziegenmilch enthält fast so viel Milchzucker wie Kuhmilch.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bei Milchallergie meist ungeeignet",
+      "absaetze": [
+        "Bei einer Allergie gegen Kuhmilcheiweiß reagieren die meisten Betroffenen auch auf Ziegenmilch. Die Eiweiße sind sich sehr ähnlich.",
+        "Wer eine Milchallergie hat, sollte deshalb nicht einfach auf Ziegenmilch umsteigen, sondern das ärztlich besprechen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für Babys",
+      "absaetze": [
+        "Reine Ziegenmilch ist als Ersatz für Muttermilch oder Säuglingsnahrung ungeeignet. Ihr fehlen wichtige Nährstoffe, und sie belastet die Nieren eines Babys.",
+        "Für Säuglinge gibt es spezielle Säuglingsnahrung auf Basis von Ziegenmilch. Ob sie sinnvoll ist, klärst du am besten mit der Kinderarztpraxis."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Ziegenmilch bei Laktoseintoleranz eine gute Alternative?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie enthält fast so viel Milchzucker",
+        "Ja, sie ist laktosefrei",
+        "Ja, aber nur warm",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laktosefreie Produkte sind besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie reagieren die meisten Menschen mit Kuhmilchallergie auf Ziegenmilch?",
+      "art": "mc",
+      "optionen": [
+        "Sie reagieren meist auch darauf",
+        "Sie vertragen sie immer",
+        "Sie werden gesund",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Eiweiße sind sehr ähnlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist reine Ziegenmilch für Babys geeignet?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer",
+        "Nur gekocht",
+        "Nur am Abend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es fehlen wichtige Nährstoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gereifter Ziegenkäse enthält oft nur wenig Milchzucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei der Reifung wird Milchzucker abgebaut."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ziegenmilch ist nicht laktosefrei.",
+        "Bei Kuhmilchallergie ist sie meist ungeeignet.",
+        "Reine Ziegenmilch ist nichts für Babys.",
+        "Gereifter Ziegenkäse enthält wenig Milchzucker."
+      ]
+    }
+  ]
+}

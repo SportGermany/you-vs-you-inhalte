@@ -1,0 +1,121 @@
+{
+  "id": "steu-b112-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was unterscheidet Steuerhinterziehung von Steuervermeidung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuerhinterziehung",
+    "steuervermeidung",
+    "steuerrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Steuern sparen will fast jeder. Aber wo endet das erlaubte Sparen?",
+        "Der Unterschied zwischen Vermeiden und Hinterziehen ist entscheidend."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erlaubtes Sparen",
+      "absaetze": [
+        "Wer Werbungskosten angibt, Pauschalen nutzt oder steuerbegünstigt vorsorgt, vermeidet Steuern ganz legal. Die Gesetze sehen diese Möglichkeiten ausdrücklich vor.",
+        "Steuervermeidung ist also erlaubt, solange alle Angaben ehrlich sind. Bei sehr ausgeklügelten Modellen großer Unternehmen wird allerdings oft diskutiert, ob sie noch fair sind."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hinterziehung ist eine Straftat",
+      "absaetze": [
+        "Steuerhinterziehung bedeutet, dem Finanzamt falsche oder unvollständige Angaben zu machen. Wer etwa Einnahmen verschweigt, zahlt zu wenig Steuern.",
+        "Das ist eine Straftat. Es drohen Geldstrafen und in schweren Fällen Freiheitsstrafen. Zusätzlich müssen die Steuern mit Zinsen nachgezahlt werden."
+      ],
+      "merke": "Steuerhinterziehung ist eine Straftat, Steuervermeidung mit ehrlichen Angaben ist erlaubt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fehler korrigieren",
+      "absaetze": [
+        "Wer einen Fehler in der Steuererklärung bemerkt, sollte ihn dem Finanzamt sofort melden. Bei Versehen ohne Absicht ist das meist unproblematisch.",
+        "Bei bewusster Hinterziehung kann eine vollständige Selbstanzeige unter bestimmten Bedingungen vor Strafe schützen. Dafür ist fachlicher Rat wichtig."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Steuervermeidung?",
+      "art": "mc",
+      "optionen": [
+        "Legales Sparen mit ehrlichen Angaben",
+        "Verschweigen von Einnahmen",
+        "Fälschen von Belegen",
+        "Nichtabgabe der Erklärung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gesetze sehen solche Möglichkeiten vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Steuerhinterziehung?",
+      "art": "mc",
+      "optionen": [
+        "Falsche oder unvollständige Angaben machen",
+        "Werbungskosten angeben",
+        "Einen Freibetrag nutzen",
+        "Riester-Vertrag abschließen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine Straftat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann unter bestimmten Bedingungen vor Strafe schützen?",
+      "art": "mc",
+      "optionen": [
+        "Eine vollständige Selbstanzeige",
+        "Eine Entschuldigung per Mail",
+        "Ein Umzug ins Ausland",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür ist fachlicher Rat wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Einen Fehler in der Steuererklärung solltest du sofort melden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei Versehen ist das meist unproblematisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Steuervermeidung mit ehrlichen Angaben ist erlaubt.",
+        "Steuerhinterziehung ist eine Straftat.",
+        "Fehler sofort beim Finanzamt melden.",
+        "Eine Selbstanzeige kann unter Bedingungen vor Strafe schützen."
+      ]
+    }
+  ]
+}

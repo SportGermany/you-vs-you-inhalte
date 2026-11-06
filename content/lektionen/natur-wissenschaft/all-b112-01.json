@@ -1,0 +1,121 @@
+{
+  "id": "all-b112-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was machen die Mars-Rover?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mars Exploration",
+      "herausgeber": "NASA",
+      "url": "https://www.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mars-rover",
+    "perseverance",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf dem Mars fahren Roboter umher, steuern sich teils selbst und untersuchen Gestein.",
+        "Sie sind unsere Augen auf dem Roten Planeten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fahrende Labore",
+      "absaetze": [
+        "Mars-Rover sind Fahrzeuge mit Kameras, Messgeräten und Bohrern. Sie untersuchen Gestein, Boden und Atmosphäre des Mars.",
+        "Funksignale brauchen je nach Abstand mehrere Minuten bis zum Mars. Deshalb können die Rover nicht live gesteuert werden. Sie fahren teilweise selbstständig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erfolgreiche Missionen",
+      "absaetze": [
+        "Der kleine Rover Opportunity sollte ursprünglich nur 90 Tage arbeiten. Er fuhr aber fast 15 Jahre über den Mars. Seit 2012 erkundet Curiosity einen großen Krater.",
+        "2021 landete Perseverance in einem Krater, in dem früher ein See lag. Er sammelt Gesteinsproben, die später zur Erde gebracht werden sollen."
+      ],
+      "merke": "Perseverance sammelt seit 2021 Gesteinsproben in einem ehemaligen Seebecken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hubschrauber auf dem Mars",
+      "absaetze": [
+        "Mit Perseverance kam auch der kleine Hubschrauber Ingenuity zum Mars. 2021 gelang ihm der erste gesteuerte Motorflug auf einem anderen Planeten.",
+        "Die Rover suchen nach Spuren von früherem Leben. Sie fanden viele Hinweise, dass es auf dem Mars einst Wasser gab."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum fahren Mars-Rover teilweise selbstständig?",
+      "art": "mc",
+      "optionen": [
+        "Funksignale brauchen mehrere Minuten bis zum Mars",
+        "Niemand will sie steuern",
+        "Sie haben kein Funkgerät",
+        "Es ist dort zu dunkel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Steuerung in Echtzeit ist nicht möglich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange war Opportunity ursprünglich geplant?",
+      "art": "mc",
+      "optionen": [
+        "90 Tage",
+        "15 Jahre",
+        "Eine Woche",
+        "Ein Jahrhundert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er fuhr dann fast 15 Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sammelt Perseverance?",
+      "art": "mc",
+      "optionen": [
+        "Gesteinsproben",
+        "Wasserflaschen",
+        "Pflanzen",
+        "Tiere"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sollen später zur Erde gebracht werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Hubschrauber flog 2021 auf dem Mars.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er hieß Ingenuity."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mars-Rover sind fahrende Labore.",
+        "Wegen der Funkverzögerung fahren sie teils selbstständig.",
+        "Perseverance sammelt Gesteinsproben.",
+        "Ingenuity flog 2021 als erster Hubschrauber auf einem anderen Planeten."
+      ]
+    }
+  ]
+}

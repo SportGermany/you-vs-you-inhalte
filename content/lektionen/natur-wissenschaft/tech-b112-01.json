@@ -1,0 +1,121 @@
+{
+  "id": "tech-b112-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Radio?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "radio",
+    "funkwellen",
+    "ukw"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Musik und Nachrichten reisen unsichtbar durch die Luft zu deinem Radio.",
+        "Wie kommt der Ton vom Sender in den Lautsprecher?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Töne auf Wellen",
+      "absaetze": [
+        "Ein Radiosender verwandelt Musik und Sprache in elektrische Signale. Diese Signale werden auf eine Funkwelle aufgeprägt. Fachleute nennen diese Welle Trägerwelle.",
+        "Beim UKW-Radio verändert das Tonsignal die Frequenz der Welle ganz leicht. Die Antenne des Senders strahlt die Welle dann ab."
+      ],
+      "merke": "Ein Sender prägt Töne auf eine Funkwelle, die Trägerwelle."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Empfang zum Ton",
+      "absaetze": [
+        "Die Antenne deines Radios fängt viele Wellen gleichzeitig auf. Mit dem Senderknopf wählst du eine bestimmte Frequenz aus.",
+        "Das Radio trennt das Tonsignal wieder von der Trägerwelle. Ein Verstärker macht es kräftig genug, und der Lautsprecher verwandelt es in hörbare Töne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Analog und digital",
+      "absaetze": [
+        "UKW nutzt in Deutschland Frequenzen zwischen etwa 87,5 und 108 Megahertz. Daneben gibt es das digitale Radio DAB plus. Es bietet mehr Sender und oft besseren Klang.",
+        "Viele hören Radio heute auch über das Internet. Die Technik dahinter ist dann eine andere, das Prinzip des Rundfunks bleibt aber gleich."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Welle, auf die der Ton aufgeprägt wird?",
+      "art": "mc",
+      "optionen": [
+        "Trägerwelle",
+        "Schallwelle",
+        "Meereswelle",
+        "Hitzewelle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird vom Sender abgestrahlt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machst du mit dem Senderknopf?",
+      "art": "mc",
+      "optionen": [
+        "Eine bestimmte Frequenz auswählen",
+        "Die Lautstärke des Senders ändern",
+        "Den Strom abschalten",
+        "Die Antenne ausfahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Antenne empfängt viele Wellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt das digitale Radio in Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "DAB plus",
+        "UKW",
+        "MP3",
+        "GPS"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es bietet mehr Sender."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim UKW-Radio verändert das Tonsignal die Frequenz der Welle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das nennt man Frequenzmodulation."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sender prägen Töne auf eine Trägerwelle.",
+        "Die Antenne empfängt, der Senderknopf wählt aus.",
+        "Das Radio trennt den Ton wieder ab.",
+        "Neben UKW gibt es digitales DAB plus."
+      ]
+    }
+  ]
+}

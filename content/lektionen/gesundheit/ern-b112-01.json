@@ -1,0 +1,123 @@
+{
+  "id": "ern-b112-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Petersilie?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "petersilie",
+    "kraeuter",
+    "vitamine"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Petersilie landet oft nur als Deko auf dem Tellerrand.",
+        "Dabei steckt in dem grünen Kraut erstaunlich viel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein, aber vitaminreich",
+      "absaetze": [
+        "Petersilie enthält viel Vitamin C, oft mehr als Zitronen, wenn man gleiche Mengen vergleicht. Außerdem liefert sie sehr viel Vitamin K sowie Folat und Eisen.",
+        "Weil man meist nur kleine Mengen isst, ist ihr Beitrag zur Versorgung begrenzt. Großzügig verwendet, etwa im Salat, kommt aber einiges zusammen."
+      ],
+      "merke": "Petersilie liefert viel Vitamin C und Vitamin K.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Glatt oder kraus",
+      "absaetze": [
+        "Glatte Petersilie hat ein kräftiges Aroma und eignet sich gut zum Kochen. Krause Petersilie ist milder und wird oft zum Garnieren genutzt.",
+        "Gib frische Petersilie erst kurz vor dem Servieren ans Essen. So bleiben Geschmack und Vitamin C besser erhalten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Wer gerinnungshemmende Medikamente mit Vitamin-K-Wirkung nimmt, sollte Vitamin-K-reiche Lebensmittel gleichmäßig essen. Große Schwankungen können die Wirkung beeinflussen.",
+        "In üblichen Küchenmengen ist Petersilie unbedenklich. Konzentrierte Öle aus Petersiliensamen sind dagegen nicht für die Schwangerschaft geeignet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin liefert Petersilie besonders reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin K",
+        "Vitamin B12",
+        "Vitamin D",
+        "Gar keines"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommt viel Vitamin C."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sorte hat das kräftigere Aroma?",
+      "art": "mc",
+      "optionen": [
+        "Glatte Petersilie",
+        "Krause Petersilie",
+        "Beide schmecken gleich",
+        "Getrocknete Petersilie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie eignet sich gut zum Kochen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du Petersilie ans Essen geben?",
+      "art": "mc",
+      "optionen": [
+        "Kurz vor dem Servieren",
+        "Ganz am Anfang",
+        "Gar nicht",
+        "Nach dem Abwasch"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleiben Aroma und Vitamin C erhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei bestimmten Gerinnungshemmern sollte man Vitamin-K-reiche Lebensmittel gleichmäßig essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Große Schwankungen können die Wirkung beeinflussen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Petersilie liefert Vitamin C, K und Folat.",
+        "Glatte Petersilie schmeckt kräftiger.",
+        "Erst kurz vor dem Servieren zugeben.",
+        "Bei Gerinnungshemmern gleichmäßig essen."
+      ]
+    }
+  ]
+}

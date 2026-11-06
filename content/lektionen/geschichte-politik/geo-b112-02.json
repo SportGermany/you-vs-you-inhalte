@@ -1,0 +1,127 @@
+{
+  "id": "geo-b112-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Internationale Fernmeldeunion?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About ITU",
+      "herausgeber": "Internationale Fernmeldeunion (ITU)",
+      "url": "https://www.itu.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Länder und Organisationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "itu",
+    "funkfrequenzen",
+    "telekommunikation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Dein Handy funktioniert auch im Ausland, und Satelliten stören sich nicht gegenseitig.",
+        "Dafür sorgt im Hintergrund eine der ältesten internationalen Organisationen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Älter als die Vereinten Nationen",
+      "absaetze": [
+        "Die Internationale Fernmeldeunion, kurz ITU, wurde 1865 in Paris gegründet. Damals ging es um Regeln für Telegramme zwischen Ländern.",
+        "Seit 1947 ist sie eine Sonderorganisation der Vereinten Nationen. Ihr Sitz ist in Genf. Fast alle Staaten der Welt sind Mitglied."
+      ],
+      "merke": "Die ITU wurde 1865 gegründet und ist heute eine UN-Sonderorganisation."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ordnung im Funkverkehr",
+      "absaetze": [
+        "Funkwellen kennen keine Grenzen. Damit sich Radio, Mobilfunk und Satelliten nicht stören, verteilt die ITU die Funkfrequenzen weltweit.",
+        "Sie koordiniert auch die Plätze von Satelliten auf ihren Umlaufbahnen. Auf großen Konferenzen einigen sich die Staaten regelmäßig über die Nutzung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemeinsame Standards",
+      "absaetze": [
+        "Die ITU erarbeitet technische Standards, etwa für Mobilfunk, Videoformate oder das Internet. Dadurch funktionieren Geräte weltweit zusammen.",
+        "Außerdem setzt sie sich dafür ein, dass mehr Menschen Zugang zum Internet bekommen. Noch immer sind viele Menschen weltweit offline."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde die ITU gegründet?",
+      "art": "mc",
+      "optionen": [
+        "1865",
+        "1945",
+        "1990",
+        "2005"
+      ],
+      "richtig": 0,
+      "erklaerung": "Damals ging es um Telegramme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hat die ITU ihren Sitz?",
+      "art": "mc",
+      "optionen": [
+        "In Genf",
+        "In New York",
+        "In Paris",
+        "In Brüssel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seit 1947 gehört sie zu den Vereinten Nationen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verteilt die ITU weltweit?",
+      "art": "mc",
+      "optionen": [
+        "Funkfrequenzen",
+        "Lebensmittel",
+        "Reisepässe",
+        "Fußballtickets"
+      ],
+      "richtig": 0,
+      "erklaerung": "So stören sich Funkdienste nicht gegenseitig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die ITU koordiniert auch Plätze für Satelliten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auf ihren Umlaufbahnen ist der Platz begrenzt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die ITU wurde 1865 gegründet.",
+        "Sie ist eine UN-Sonderorganisation in Genf.",
+        "Sie verteilt Funkfrequenzen und Satellitenplätze.",
+        "Sie erarbeitet weltweite technische Standards."
+      ]
+    }
+  ]
+}

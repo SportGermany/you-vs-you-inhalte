@@ -1,0 +1,121 @@
+{
+  "id": "vers-b112-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Darfst du in der Mietwohnung rauchen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rauchen",
+    "mietwohnung",
+    "nachbarn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Zigarette auf dem Balkon oder am Küchenfenster sorgt in vielen Häusern für Streit.",
+        "Was ist erlaubt?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Wohnung grundsätzlich erlaubt",
+      "absaetze": [
+        "Rauchen in der eigenen Wohnung gehört nach der Rechtsprechung grundsätzlich zum erlaubten Gebrauch. Ein allgemeines Rauchverbot in einem vorgedruckten Mietvertrag ist meist unwirksam.",
+        "Individuell ausgehandelt kann ein Rauchverbot aber gültig sein. Lies deinen Mietvertrag deshalb genau."
+      ],
+      "merke": "Rauchen in der eigenen Wohnung ist grundsätzlich erlaubt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn Schäden entstehen",
+      "absaetze": [
+        "Starkes Rauchen kann Wände, Decken und Türen verfärben. Lassen sich die Spuren nicht mehr durch normales Streichen beseitigen, kann der Vermieter Schadensersatz verlangen.",
+        "Regelmäßiges Lüften verringert Gerüche und Ablagerungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rücksicht auf Nachbarn",
+      "absaetze": [
+        "Auf dem Balkon darfst du grundsätzlich rauchen. Fühlen sich Nachbarn aber erheblich gestört, kann ein Gericht rauchfreie Zeiten festlegen. So hat es der Bundesgerichtshof entschieden.",
+        "Im Treppenhaus und in anderen gemeinsamen Räumen kann das Rauchen durch die Hausordnung verboten werden. Ein Gespräch mit den Nachbarn löst viele Konflikte, bevor sie eskalieren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Rauchen in der eigenen Mietwohnung erlaubt?",
+      "art": "mc",
+      "optionen": [
+        "Grundsätzlich ja",
+        "Nie",
+        "Nur mit Erlaubnis der Nachbarn",
+        "Nur im Winter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Verbot im Formularvertrag ist meist unwirksam."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kann der Vermieter Schadensersatz verlangen?",
+      "art": "mc",
+      "optionen": [
+        "Wenn Spuren nicht mehr durch normales Streichen weggehen",
+        "Bei jeder Zigarette",
+        "Nie",
+        "Wenn die Wohnung gelüftet wurde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Starkes Rauchen kann Wände verfärben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein Gericht bei starker Störung auf dem Balkon festlegen?",
+      "art": "mc",
+      "optionen": [
+        "Rauchfreie Zeiten",
+        "Eine Gefängnisstrafe",
+        "Einen Umzug",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So entschied es der Bundesgerichtshof."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Treppenhaus kann das Rauchen durch die Hausordnung verboten werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gemeinsame Räume betreffen alle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rauchen in der Wohnung ist grundsätzlich erlaubt.",
+        "Starke Schäden können Schadensersatz nach sich ziehen.",
+        "Bei erheblicher Störung sind rauchfreie Zeiten möglich.",
+        "Im Treppenhaus kann Rauchen verboten werden."
+      ]
+    }
+  ]
+}
