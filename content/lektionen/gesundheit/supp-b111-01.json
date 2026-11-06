@@ -1,0 +1,139 @@
+{
+  "id": "supp-b111-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von D-Mannose zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "d-mannose",
+    "blasenentzuendung",
+    "harnwege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer immer wieder Blasenentzündungen hat, stößt oft auf D-Mannose.",
+        "Der Zucker soll Bakterien aus der Blase spülen. Was weiß man darüber?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein besonderer Zucker",
+      "absaetze": [
+        "D-Mannose ist ein Einfachzucker. Er wird im Körper kaum verwertet und größtenteils mit dem Urin ausgeschieden.",
+        "Die Idee: In der Blase soll D-Mannose an Bakterien binden. Diese können sich dann schlechter an der Blasenwand festhalten und werden ausgespült."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Kleinere Studien deuteten darauf hin, dass D-Mannose wiederkehrenden Blasenentzündungen vorbeugen könnte. Eine große Studie aus Großbritannien fand jedoch keinen Unterschied zu einem Scheinmittel.",
+        "Der Nutzen ist damit fraglich. Zur Behandlung einer akuten Blasenentzündung ist D-Mannose nicht geeignet."
+      ],
+      "merke": "Eine große Studie fand keinen Nutzen von D-Mannose gegen wiederkehrende Blasenentzündungen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "D-Mannose gilt als gut verträglich, kann aber Durchfall oder Blähungen auslösen. Menschen mit Diabetes sollten vorher ärztlich nachfragen.",
+        "Bei Fieber, Flankenschmerzen oder Blut im Urin geh sofort zum Arzt. Dann kann eine Nierenbeckenentzündung dahinterstecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht zur Behandlung einer akuten Blasenentzündung geeignet.",
+        "Bei Diabetes vorher ärztlich nachfragen.",
+        "Bei Fieber, Flankenschmerzen oder Blut im Urin sofort ärztliche Hilfe suchen.",
+        "In der Schwangerschaft nicht ohne ärztlichen Rat verwenden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist D-Mannose?",
+      "art": "mc",
+      "optionen": [
+        "Ein Einfachzucker",
+        "Ein Antibiotikum",
+        "Ein Vitamin",
+        "Ein Mineralstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird größtenteils mit dem Urin ausgeschieden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was soll D-Mannose in der Blase bewirken?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien binden, damit sie ausgespült werden",
+        "Die Blase vergrößern",
+        "Den Urin färben",
+        "Den Durst steigern"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sollen sie schlechter haften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fand eine große Studie?",
+      "art": "mc",
+      "optionen": [
+        "Keinen Unterschied zu einem Scheinmittel",
+        "Einen sehr großen Nutzen",
+        "Gefährliche Nebenwirkungen bei allen",
+        "Gar nichts, sie wurde abgebrochen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Nutzen ist damit fraglich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Fieber und Flankenschmerzen solltest du zum Arzt gehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dahinter kann eine Nierenbeckenentzündung stecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "D-Mannose ist ein Einfachzucker.",
+        "Er soll Bakterien in der Blase binden.",
+        "Eine große Studie fand keinen Nutzen.",
+        "Bei Fieber oder Flankenschmerzen ärztlich abklären."
+      ]
+    }
+  ]
+}

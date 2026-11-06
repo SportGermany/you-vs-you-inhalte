@@ -1,0 +1,129 @@
+{
+  "id": "ern-b111-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Honigmelone?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "honigmelone",
+    "obst",
+    "lebensmittelhygiene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine reife Honigmelone duftet süß und ist herrlich saftig.",
+        "Was steckt in ihr, und worauf solltest du beim Aufschneiden achten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Wasser, viel Geschmack",
+      "absaetze": [
+        "Honigmelonen bestehen zum größten Teil aus Wasser. Sie haben wenige Kalorien und liefern Kalium und Vitamin C.",
+        "Sorten mit orangefarbenem Fruchtfleisch enthalten außerdem Beta-Carotin. Daraus bildet der Körper Vitamin A."
+      ],
+      "merke": "Honigmelonen sind wasserreich und liefern Kalium und Vitamin C.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schale vor dem Schneiden waschen",
+      "absaetze": [
+        "Auf der rauen Schale können Keime haften, etwa Listerien. Beim Aufschneiden gelangen sie mit dem Messer ins Fruchtfleisch.",
+        "Wasche die Melone deshalb vor dem Schneiden gründlich. Für Schwangere, ältere Menschen und Menschen mit geschwächter Abwehr ist das besonders wichtig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig aufbewahren",
+      "absaetze": [
+        "Aufgeschnittene Melone gehört abgedeckt in den Kühlschrank und sollte bald gegessen werden. Bei Zimmertemperatur können sich Keime schnell vermehren.",
+        "Eine reife Honigmelone erkennst du am süßen Duft am Stielansatz. Sie gibt dort bei leichtem Druck etwas nach."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen Honigmelonen zum größten Teil?",
+      "art": "mc",
+      "optionen": [
+        "Aus Wasser",
+        "Aus Fett",
+        "Aus Eiweiß",
+        "Aus Stärke"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb haben sie wenige Kalorien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du die Schale vor dem Schneiden waschen?",
+      "art": "mc",
+      "optionen": [
+        "Keime könnten sonst ins Fruchtfleisch gelangen",
+        "Damit sie süßer wird",
+        "Damit sie schneller reift",
+        "Wegen der Farbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Messer trägt Keime mit nach innen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo gehört aufgeschnittene Melone hin?",
+      "art": "mc",
+      "optionen": [
+        "Abgedeckt in den Kühlschrank",
+        "Offen in die Sonne",
+        "In den Backofen",
+        "Auf die Heizung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Wärme vermehren sich Keime schnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine reife Melone duftet süß am Stielansatz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie gibt dort auch etwas nach."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Honigmelonen sind wasserreich und kalorienarm.",
+        "Orange Sorten liefern Beta-Carotin.",
+        "Die Schale vor dem Schneiden waschen.",
+        "Aufgeschnitten kühl lagern und bald essen."
+      ]
+    }
+  ]
+}

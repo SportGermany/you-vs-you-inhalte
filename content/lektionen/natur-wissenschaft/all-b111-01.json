@@ -1,0 +1,121 @@
+{
+  "id": "all-b111-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum ist es im Weltall still?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Leben im All",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schall",
+    "vakuum",
+    "weltall"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Science-Fiction-Filmen donnern Explosionen durchs All.",
+        "In Wirklichkeit würdest du davon nichts hören."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schall braucht einen Träger",
+      "absaetze": [
+        "Schall ist eine Schwingung, die sich durch einen Stoff ausbreitet, etwa durch Luft oder Wasser. Die Teilchen stoßen sich gegenseitig an und geben die Schwingung weiter.",
+        "Im Weltall ist der Raum fast leer. Fachleute nennen das Vakuum. Ohne Teilchen kann sich Schall nicht ausbreiten."
+      ],
+      "merke": "Schall braucht Luft oder einen anderen Stoff, im Vakuum gibt es keinen Ton."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reden im All",
+      "absaetze": [
+        "In einer Raumstation gibt es Luft. Dort können Astronautinnen und Astronauten ganz normal miteinander sprechen.",
+        "Bei Außeneinsätzen im Raumanzug geht das nicht direkt. Dann sprechen sie über Funk. Funkwellen sind elektromagnetische Wellen und brauchen keine Luft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klänge aus Daten",
+      "absaetze": [
+        "Ganz ohne Schwingungen ist das All nicht. In dünnen Gaswolken und im Plasma gibt es Wellen, die Messgeräte erfassen können.",
+        "Forschende wandeln solche Daten manchmal in hörbare Töne um. So entstehen Klänge von Planeten oder Schwarzen Löchern. Mit eigenen Ohren hören könnte man sie im All aber nicht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gibt es im Weltall keinen Schall?",
+      "art": "mc",
+      "optionen": [
+        "Es fehlen Teilchen, die die Schwingung weitergeben",
+        "Es ist zu kalt",
+        "Es ist zu dunkel",
+        "Die Sterne sind zu laut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das All ist nahezu ein Vakuum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sprechen Astronauten bei Außeneinsätzen?",
+      "art": "mc",
+      "optionen": [
+        "Über Funk",
+        "Durch Rufen",
+        "Gar nicht",
+        "Mit Zeichensprache allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Funkwellen brauchen keine Luft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo können Astronauten normal sprechen?",
+      "art": "mc",
+      "optionen": [
+        "In der Raumstation mit Luft",
+        "Draußen im All",
+        "Im Vakuum",
+        "Auf dem Mond ohne Helm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort gibt es Luft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Forschende wandeln Messdaten aus dem All manchmal in Töne um.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Hören könnte man sie im All aber nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schall braucht einen Stoff wie Luft.",
+        "Im Vakuum des Alls gibt es keinen Ton.",
+        "Astronauten sprechen draußen über Funk.",
+        "Messdaten lassen sich in Töne umwandeln."
+      ]
+    }
+  ]
+}

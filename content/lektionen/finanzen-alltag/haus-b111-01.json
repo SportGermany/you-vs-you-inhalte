@@ -1,0 +1,127 @@
+{
+  "id": "haus-b111-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du Jeans richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "jeans",
+    "waesche",
+    "kleidungspflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeans gehören zu den beliebtesten Kleidungsstücken der Welt.",
+        "Mit der richtigen Pflege bleiben Farbe und Form lange erhalten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Seltener waschen",
+      "absaetze": [
+        "Jeans müssen nicht nach jedem Tragen in die Maschine. Oft reicht es, sie auszulüften. Jede Wäsche lässt die Farbe etwas verblassen und belastet den Stoff.",
+        "Kleine Flecken kannst du mit einem feuchten Tuch entfernen. So hält die Hose länger und du sparst Wasser und Energie."
+      ],
+      "merke": "Jeans halten länger, wenn du sie seltener wäschst."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend waschen",
+      "absaetze": [
+        "Dreh die Jeans vor dem Waschen auf links und schließe Knöpfe und Reißverschluss. Wasche sie bei niedriger Temperatur mit ähnlichen Farben.",
+        "Neue, dunkle Jeans geben anfangs oft Farbe ab. Wasche sie die ersten Male getrennt, damit helle Wäsche nicht verfärbt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Trocknen und ein Mythos",
+      "absaetze": [
+        "Hänge Jeans am besten an der Luft auf. Der Trockner kann sie einlaufen lassen und belastet das Material.",
+        "Manche legen Jeans ins Gefrierfach, um Bakterien abzutöten. Das funktioniert nicht zuverlässig, denn viele Bakterien überstehen Kälte. Gegen Gerüche hilft eher Lüften."
+      ]
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Jeans im Gefrierfach werden keimfrei.",
+      "urteil": "mythos",
+      "erklaerung": "Viele Bakterien überleben die Kälte und vermehren sich danach wieder. Gegen Gerüche hilft Lüften oder Waschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du Jeans waschen?",
+      "art": "mc",
+      "optionen": [
+        "Seltener, oft reicht Lüften",
+        "Nach jedem Tragen",
+        "Zweimal täglich",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jede Wäsche lässt die Farbe verblassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wäschst du Jeans schonend?",
+      "art": "mc",
+      "optionen": [
+        "Auf links gedreht bei niedriger Temperatur",
+        "Bei 90 Grad mit Bleiche",
+        "Mit weißer Wäsche zusammen",
+        "Mit Steinen in der Trommel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Knöpfe und Reißverschluss schließen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei neuen dunklen Jeans zu beachten?",
+      "art": "mc",
+      "optionen": [
+        "Anfangs getrennt waschen",
+        "Sofort mit Weißwäsche waschen",
+        "Nie waschen",
+        "In der Sonne bleichen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie geben oft Farbe ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Gefrierfach macht Jeans zuverlässig keimfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Viele Bakterien überstehen die Kälte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Jeans seltener waschen und öfter lüften.",
+        "Auf links und bei niedriger Temperatur waschen.",
+        "Neue dunkle Jeans getrennt waschen.",
+        "Das Gefrierfach macht sie nicht keimfrei."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "steu-b111-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie werden ETF-Gewinne besteuert?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "etf",
+    "abgeltungsteuer",
+    "teilfreistellung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer in ETFs spart, freut sich über Gewinne. Ein Teil davon geht aber ans Finanzamt.",
+        "Wie viel genau, hängt von einigen Regeln ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Abgeltungsteuer",
+      "absaetze": [
+        "Gewinne aus ETFs werden mit der Abgeltungsteuer belastet. Sie beträgt 25 Prozent. Dazu kommen der Solidaritätszuschlag und gegebenenfalls Kirchensteuer.",
+        "Die Bank zieht die Steuer meist automatisch ab. Bis zum Sparerpauschbetrag von 1.000 Euro im Jahr bleiben Kapitalerträge aber steuerfrei, wenn du einen Freistellungsauftrag erteilst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Teilfreistellung",
+      "absaetze": [
+        "Bei Aktien-ETFs ist ein Teil der Erträge von vornherein steuerfrei. Diese Teilfreistellung beträgt 30 Prozent. Nur die übrigen 70 Prozent werden besteuert.",
+        "Sie gilt für Fonds, die mindestens zur Hälfte in Aktien investieren. Damit soll ausgeglichen werden, dass auf Ebene der Unternehmen bereits Steuern gezahlt wurden."
+      ],
+      "merke": "Bei Aktien-ETFs sind 30 Prozent der Erträge steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Vorabpauschale",
+      "absaetze": [
+        "Bei thesaurierenden ETFs, die Erträge wieder anlegen, wird jedes Jahr eine Vorabpauschale besteuert. Ihre Höhe hängt von einem jährlich festgelegten Basiszins ab.",
+        "Beim späteren Verkauf wird sie angerechnet, sodass nichts doppelt besteuert wird. Halte etwas Geld auf dem Verrechnungskonto bereit, damit die Bank die Steuer abbuchen kann."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Abgeltungsteuer?",
+      "art": "mc",
+      "optionen": [
+        "25 Prozent",
+        "5 Prozent",
+        "50 Prozent",
+        "70 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Soli und gegebenenfalls Kirchensteuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Prozent der Erträge sind bei Aktien-ETFs steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "30 Prozent",
+        "100 Prozent",
+        "0 Prozent",
+        "10 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist die Teilfreistellung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt die Vorabpauschale ab?",
+      "art": "mc",
+      "optionen": [
+        "Von einem jährlich festgelegten Basiszins",
+        "Vom Wetter",
+        "Vom Alter des Anlegers",
+        "Von der Farbe des Depots"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie betrifft thesaurierende ETFs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit einem Freistellungsauftrag bleiben bis 1.000 Euro Kapitalerträge im Jahr steuerfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist der Sparerpauschbetrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "ETF-Gewinne unterliegen der Abgeltungsteuer.",
+        "Bis 1.000 Euro im Jahr bleiben steuerfrei.",
+        "Bei Aktien-ETFs sind 30 Prozent steuerfrei.",
+        "Thesaurierende ETFs zahlen jährlich eine Vorabpauschale."
+      ]
+    }
+  ]
+}

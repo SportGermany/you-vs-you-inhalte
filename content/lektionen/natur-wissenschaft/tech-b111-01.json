@@ -1,0 +1,121 @@
+{
+  "id": "tech-b111-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie entsteht eine Wettervorhersage?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wettervorhersage",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wettervorhersage",
+    "wettermodelle",
+    "supercomputer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Regnet es morgen? Die Wetter-App weiß es meist schon.",
+        "Hinter jeder Vorhersage stecken Millionen Messwerte und riesige Computer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Messen, messen, messen",
+      "absaetze": [
+        "Wetterstationen messen weltweit Temperatur, Luftdruck, Wind und Feuchtigkeit. Wetterballons steigen bis in große Höhen, Satelliten beobachten Wolken von oben.",
+        "Auch Flugzeuge, Schiffe und Wetterradare liefern Daten. Diese Messungen beschreiben den aktuellen Zustand der Atmosphäre."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Supercomputer rechnen die Zukunft",
+      "absaetze": [
+        "Wettermodelle teilen die Atmosphäre in ein riesiges Netz aus Würfeln. Für jeden Würfel berechnen Supercomputer mit physikalischen Gleichungen, wie sich das Wetter entwickelt.",
+        "In Deutschland betreibt der Deutsche Wetterdienst eigene Modelle. Meteorologinnen und Meteorologen prüfen die Ergebnisse und erstellen daraus die Vorhersage."
+      ],
+      "merke": "Supercomputer berechnen mit physikalischen Gleichungen, wie sich das Wetter entwickelt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen der Vorhersage",
+      "absaetze": [
+        "Das Wetter ist ein chaotisches System. Kleine Messfehler können sich über die Tage stark auswirken. Deshalb werden Vorhersagen unsicherer, je weiter sie in die Zukunft reichen.",
+        "Fachleute rechnen viele leicht veränderte Varianten. Stimmen sie überein, ist die Vorhersage sicherer. Heute sind Vorhersagen für mehrere Tage deutlich genauer als noch vor einigen Jahrzehnten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefert Daten für die Wettervorhersage?",
+      "art": "mc",
+      "optionen": [
+        "Wetterstationen, Ballons und Satelliten",
+        "Nur Bauernregeln",
+        "Zufallszahlen",
+        "Horoskope"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Flugzeuge und Radare helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was machen Wettermodelle?",
+      "art": "mc",
+      "optionen": [
+        "Sie berechnen die Entwicklung der Atmosphäre",
+        "Sie zeichnen schöne Bilder",
+        "Sie zählen Regentropfen",
+        "Sie messen nur die Temperatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu nutzen sie physikalische Gleichungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden lange Vorhersagen unsicherer?",
+      "art": "mc",
+      "optionen": [
+        "Weil das Wetter ein chaotisches System ist",
+        "Weil die Computer müde werden",
+        "Weil es nachts dunkel ist",
+        "Weil Satelliten verschwinden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kleine Fehler wachsen mit der Zeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Heute sind Vorhersagen deutlich genauer als vor einigen Jahrzehnten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bessere Daten und Computer helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viele Messungen beschreiben den Zustand der Atmosphäre.",
+        "Supercomputer berechnen die Wetterentwicklung.",
+        "Das Wetter ist chaotisch, lange Vorhersagen sind unsicher.",
+        "Vorhersagen sind heute deutlich genauer als früher."
+      ]
+    }
+  ]
+}

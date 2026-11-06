@@ -1,0 +1,123 @@
+{
+  "id": "ern-b111-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Sauerkraut?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sauerkraut",
+    "fermentation",
+    "kohl"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sauerkraut gilt als typisch deutsches Gericht. Früher half es Seefahrern durch lange Reisen.",
+        "Was macht das gesäuerte Kraut so besonders?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kohl, Salz und Bakterien",
+      "absaetze": [
+        "Für Sauerkraut wird Weißkohl fein gehobelt und mit Salz vermischt. Milchsäurebakterien, die natürlich auf dem Kohl leben, wandeln den Zucker im Kohl in Milchsäure um.",
+        "Die Säure macht das Kraut haltbar und gibt ihm seinen typischen Geschmack. Dieser Vorgang heißt Fermentation."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Sauerkraut liefert Ballaststoffe und Vitamin C. Deshalb nahmen Seefahrer es früher mit, um Skorbut vorzubeugen.",
+        "Frisches, nicht erhitztes Sauerkraut enthält lebende Milchsäurebakterien. Sauerkraut aus der Dose oder dem Glas ist meist erhitzt, die Bakterien sind dann abgestorben."
+      ],
+      "merke": "Nur nicht erhitztes Sauerkraut enthält noch lebende Milchsäurebakterien.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Sauerkraut enthält recht viel Salz. Wer auf Salz achten muss, isst es in kleineren Mengen.",
+        "Manche Menschen bekommen davon Blähungen. Wer Histamin schlecht verträgt, kann auf fermentierte Lebensmittel empfindlich reagieren."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Sauerkraut hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Aus Weißkohl und Salz",
+        "Aus Rotkohl und Zucker",
+        "Aus Spinat und Essig",
+        "Aus Kartoffeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Milchsäurebakterien erledigen den Rest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu nahmen Seefahrer Sauerkraut mit?",
+      "art": "mc",
+      "optionen": [
+        "Gegen Skorbut",
+        "Als Treibstoff",
+        "Zum Angeln",
+        "Als Dekoration"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es enthält Vitamin C."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Sauerkraut enthält lebende Bakterien?",
+      "art": "mc",
+      "optionen": [
+        "Frisches, nicht erhitztes",
+        "Sauerkraut aus der Dose",
+        "Jedes Sauerkraut",
+        "Keines"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Erhitzen sterben die Bakterien ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sauerkraut enthält recht viel Salz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei salzarmer Ernährung kleinere Mengen essen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sauerkraut entsteht durch Fermentation von Weißkohl.",
+        "Es liefert Ballaststoffe und Vitamin C.",
+        "Nur frisches Sauerkraut enthält lebende Bakterien.",
+        "Es enthält recht viel Salz."
+      ]
+    }
+  ]
+}

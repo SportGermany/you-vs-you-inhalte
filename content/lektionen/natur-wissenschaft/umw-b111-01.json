@@ -1,0 +1,121 @@
+{
+  "id": "umw-b111-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum sind Honigbienen bedroht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Bienenschutz",
+      "herausgeber": "Julius Kühn-Institut",
+      "url": "https://www.julius-kuehn.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "honigbienen",
+    "varroamilbe",
+    "imkerei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Honigbienen liefern Honig und bestäuben viele Pflanzen.",
+        "In manchen Wintern sterben trotzdem viele Bienenvölker."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Varroamilbe",
+      "absaetze": [
+        "Der größte Feind der Honigbiene ist ein winziger Parasit, die Varroamilbe. Sie stammt aus Asien und kam 1977 nach Deutschland.",
+        "Die Milbe saugt an Bienen und ihrer Brut und überträgt Viren. Ohne Behandlung durch Imkerinnen und Imker sterben befallene Völker meist innerhalb weniger Jahre."
+      ],
+      "merke": "Die Varroamilbe ist die größte Bedrohung für Honigbienen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Gefahren",
+      "absaetze": [
+        "Auch bestimmte Pflanzenschutzmittel können Bienen schaden. Die EU hat deshalb mehrere Insektizide im Freiland verboten.",
+        "In Landschaften mit großen Monokulturen finden Bienen nach der Blüte oft kaum Nahrung. Im Spätsommer fehlt es dann an Blüten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wildbienen nicht vergessen",
+      "absaetze": [
+        "Die Honigbiene ist ein Nutztier, das von Imkern gepflegt wird. Ihr Bestand in Deutschland ist insgesamt eher stabil.",
+        "Viel stärker bedroht sind die rund 600 Wildbienenarten. Blühende Gärten, Balkone und Wiesen helfen Honig- und Wildbienen gleichermaßen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der größte Feind der Honigbiene?",
+      "art": "mc",
+      "optionen": [
+        "Die Varroamilbe",
+        "Der Bär",
+        "Der Regen",
+        "Der Wind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kam 1977 nach Deutschland."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was überträgt die Varroamilbe?",
+      "art": "mc",
+      "optionen": [
+        "Viren",
+        "Pollen",
+        "Honig",
+        "Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Behandlung sterben befallene Völker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Bienen sind in Deutschland stärker bedroht?",
+      "art": "mc",
+      "optionen": [
+        "Wildbienen",
+        "Honigbienen",
+        "Beide gar nicht",
+        "Nur Hummeln im Zoo"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt rund 600 Wildbienenarten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Blühende Gärten helfen Honig- und Wildbienen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie finden dort Nahrung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Varroamilbe ist die größte Gefahr.",
+        "Sie überträgt Viren auf die Bienen.",
+        "Pflanzenschutzmittel und Nahrungsmangel schaden zusätzlich.",
+        "Wildbienen sind noch stärker bedroht."
+      ]
+    }
+  ]
+}

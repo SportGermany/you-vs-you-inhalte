@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b111-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist Hypersomnie?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hypersomnie",
+    "tagesschlaefrigkeit",
+    "schlafstoerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zehn Stunden geschlafen und trotzdem todmüde. Für manche Menschen ist das Alltag.",
+        "Dahinter kann eine seltene Schlafstörung stecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Müde trotz langem Schlaf",
+      "absaetze": [
+        "Bei der idiopathischen Hypersomnie sind Menschen tagsüber extrem schläfrig, obwohl sie nachts lange schlafen. Idiopathisch bedeutet, dass die Ursache unbekannt ist.",
+        "Typisch ist eine starke Schlaftrunkenheit am Morgen. Betroffene kommen kaum aus dem Bett. Nickerchen am Tag erfrischen sie meist nicht."
+      ],
+      "merke": "Bei Hypersomnie sind Menschen trotz langem Schlaf tagsüber extrem müde.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abgrenzung zu anderen Ursachen",
+      "absaetze": [
+        "Starke Tagesmüdigkeit hat viel häufiger andere Gründe. Dazu gehören Schlafmangel, Schlafapnoe, Depressionen oder Medikamente. Diese Ursachen müssen zuerst ausgeschlossen werden.",
+        "Bei der Narkolepsie wirken kurze Nickerchen dagegen oft erfrischend. Hypersomnie ist eine eigene Störung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Diagnose und Hilfe",
+      "absaetze": [
+        "Die Diagnose stellen Fachleute im Schlaflabor. Dort wird auch gemessen, wie schnell jemand tagsüber einschläft.",
+        "Es gibt Medikamente, die die Wachheit verbessern können. Wer dauerhaft trotz ausreichend Schlaf kaum wach wird, sollte ärztlichen Rat suchen. Bis zur Klärung ist am Steuer besondere Vorsicht geboten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für idiopathische Hypersomnie?",
+      "art": "mc",
+      "optionen": [
+        "Extreme Tagesmüdigkeit trotz langem Nachtschlaf",
+        "Schlaflosigkeit in der Nacht",
+        "Schnarchen",
+        "Albträume"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Ursache ist unbekannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet idiopathisch?",
+      "art": "mc",
+      "optionen": [
+        "Die Ursache ist unbekannt",
+        "Sehr gefährlich",
+        "Nur bei Kindern",
+        "Ansteckend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Andere Ursachen werden zuerst ausgeschlossen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird die Diagnose gestellt?",
+      "art": "mc",
+      "optionen": [
+        "Im Schlaflabor",
+        "In der Apotheke",
+        "Beim Optiker",
+        "Zu Hause per App"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort wird auch die Einschlafneigung am Tag gemessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tagesmüdigkeit hat meist andere Ursachen als Hypersomnie.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa Schlafmangel oder Schlafapnoe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hypersomnie bedeutet extreme Tagesmüdigkeit trotz langem Schlaf.",
+        "Nickerchen erfrischen meist nicht.",
+        "Häufigere Ursachen werden zuerst ausgeschlossen.",
+        "Die Diagnose stellt das Schlaflabor."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "zeit-b111-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Wie entstand das World Wide Web?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "The birth of the Web",
+      "herausgeber": "CERN",
+      "url": "https://home.cern",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "world wide web",
+    "internet",
+    "cern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Webseiten, Links, Browser: Für uns ist das Alltag.",
+        "Erfunden wurde das World Wide Web erst 1989 in einem Forschungszentrum in der Schweiz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Idee am CERN",
+      "absaetze": [
+        "Tim Berners-Lee arbeitete als Informatiker am CERN, einem großen Forschungszentrum bei Genf. Forschende dort hatten Probleme, Informationen zwischen verschiedenen Computern auszutauschen.",
+        "1989 schlug er ein System vor, in dem Dokumente über Links miteinander verbunden sind. Daraus entstand das World Wide Web."
+      ],
+      "merke": "Tim Berners-Lee entwickelte 1989 am CERN das World Wide Web."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Internet und Web sind nicht dasselbe",
+      "absaetze": [
+        "Das Internet ist das weltweite Netz aus verbundenen Computern. Es entstand schon Jahrzehnte früher.",
+        "Das Web ist ein Dienst, der das Internet nutzt. Dazu erfand Berners-Lee drei Bausteine: eine Sprache für Webseiten, Adressen für jede Seite und eine Regel für den Austausch zwischen Computern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Geschenk an die Welt",
+      "absaetze": [
+        "1991 ging die erste Webseite online. 1993 gab das CERN die Technik frei, sodass jeder sie kostenlos nutzen durfte.",
+        "Bald darauf machten erste Browser mit Bildern das Web für alle zugänglich. Ohne die freie Nutzung wäre das Web wohl nie so schnell gewachsen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erfand das World Wide Web?",
+      "art": "mc",
+      "optionen": [
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Steve Jobs",
+        "Konrad Zuse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er arbeitete am CERN."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo entstand das Web?",
+      "art": "mc",
+      "optionen": [
+        "Am CERN bei Genf",
+        "In einer Garage in Kalifornien",
+        "In Tokio",
+        "In Berlin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist ein großes Forschungszentrum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Unterschied zwischen Internet und Web?",
+      "art": "mc",
+      "optionen": [
+        "Das Web ist ein Dienst, der das Internet nutzt",
+        "Es gibt keinen Unterschied",
+        "Das Internet ist ein Teil des Webs",
+        "Das Web ist älter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Internet entstand schon früher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das CERN gab die Web-Technik 1993 zur freien Nutzung frei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das half dem Web, schnell zu wachsen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tim Berners-Lee erfand 1989 das Web am CERN.",
+        "Das Web ist ein Dienst im Internet.",
+        "1991 ging die erste Webseite online.",
+        "1993 wurde die Technik frei nutzbar."
+      ]
+    }
+  ]
+}
