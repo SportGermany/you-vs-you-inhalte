@@ -1,0 +1,140 @@
+{
+  "id": "supp-b117-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft Natron gegen Sodbrennen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "natron",
+    "sodbrennen",
+    "hausmittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Natron steht in vielen Küchenschränken. Manche greifen bei Sodbrennen darauf zurück.",
+        "Das Hausmittel wirkt schnell, hat aber Haken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie es wirkt",
+      "absaetze": [
+        "Natron ist Natriumhydrogencarbonat. Es neutralisiert Magensäure. Dabei entsteht Kohlendioxid, also Gas.",
+        "Das brennende Gefühl lässt deshalb oft schnell nach. Die Wirkung hält aber nur kurz an."
+      ],
+      "merke": "Natron neutralisiert Magensäure, aber nur kurz.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Nachteile",
+      "absaetze": [
+        "Das entstehende Gas kann Blähungen und Aufstoßen auslösen. Manche Fachleute beschreiben, dass der Magen danach vermehrt Säure bilden kann.",
+        "Natron enthält viel Natrium. Bei Bluthochdruck, Herz- oder Nierenerkrankungen kann das problematisch sein. Für die regelmäßige Anwendung ist es deshalb nicht geeignet."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was besser hilft",
+      "absaetze": [
+        "Häufig helfen kleinere Mahlzeiten, weniger Alkohol und kein Essen kurz vor dem Schlafen. Auch Übergewicht und Rauchen fördern Sodbrennen.",
+        "Es gibt Mittel aus der Apotheke, die gezielter wirken. Tritt Sodbrennen öfter als ein- bis zweimal pro Woche auf, lass es ärztlich abklären."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Hoher Natriumgehalt, Vorsicht bei Bluthochdruck, Herz- und Nierenerkrankungen",
+        "Nicht zur regelmäßigen Anwendung geeignet",
+        "Häufiges Sodbrennen ärztlich abklären"
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Natron chemisch?",
+      "art": "mc",
+      "optionen": [
+        "Natriumhydrogencarbonat",
+        "Kochsalz",
+        "Zitronensäure",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es neutralisiert Säure."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gas entsteht bei der Reaktion mit Magensäure?",
+      "art": "mc",
+      "optionen": [
+        "Kohlendioxid",
+        "Sauerstoff",
+        "Stickstoff",
+        "Wasserstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kann Aufstoßen auslösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Natron eignet sich gut für die tägliche Daueranwendung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es enthält viel Natrium und wirkt nur kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du Sodbrennen ärztlich abklären lassen?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es öfter als ein- bis zweimal pro Woche auftritt",
+        "Nach dem ersten Mal",
+        "Nie",
+        "Nur bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann können gezieltere Behandlungen helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Natron neutralisiert Magensäure kurzzeitig.",
+        "Es kann Blähungen und Aufstoßen auslösen.",
+        "Es enthält viel Natrium.",
+        "Häufiges Sodbrennen gehört ärztlich abgeklärt."
+      ]
+    }
+  ]
+}

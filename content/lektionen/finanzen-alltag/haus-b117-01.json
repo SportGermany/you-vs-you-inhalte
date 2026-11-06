@@ -1,0 +1,121 @@
+{
+  "id": "haus-b117-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bügelst du ein Hemd richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "buegeln",
+    "hemd",
+    "waesche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein frisch gebügeltes Hemd sieht gleich ordentlicher aus.",
+        "Mit der richtigen Reihenfolge geht es schneller als gedacht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut vorbereitet",
+      "absaetze": [
+        "Bügle das Hemd am besten noch leicht feucht. Ist es schon trocken, besprühe es mit etwas Wasser.",
+        "Stell die Temperatur nach Pflegeetikett ein. Baumwolle und Leinen vertragen viel Hitze, Mischgewebe weniger. Fang mit niedrigeren Temperaturen an, wenn du unsicher bist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Reihenfolge",
+      "absaetze": [
+        "Beginne mit dem Kragen, zuerst von innen, dann von außen. Danach folgen Manschetten und Ärmel.",
+        "Dann bügelst du die Schulterpartie, die Vorderteile und zuletzt den Rücken. So knitterst du bereits gebügelte Stellen nicht wieder."
+      ],
+      "merke": "Kragen, Manschetten, Ärmel, Schultern, Vorderteile, Rücken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tipps für weniger Arbeit",
+      "absaetze": [
+        "Häng Hemden direkt nach dem Waschen auf einen Bügel und zieh sie glatt. Dann knittern sie weniger.",
+        "Nach dem Bügeln lässt du das Hemd kurz auf dem Bügel auskühlen, bevor du es anziehst oder in den Schrank hängst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit beginnst du beim Hemdenbügeln?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Kragen",
+        "Mit dem Rücken",
+        "Mit den Knöpfen",
+        "Mit der Tasche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zuerst von innen, dann von außen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann lässt sich ein Hemd am besten bügeln?",
+      "art": "mc",
+      "optionen": [
+        "Leicht feucht",
+        "Klatschnass",
+        "Nach Wochen im Schrank",
+        "Gefroren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trockene Hemden kannst du besprühen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mischgewebe verträgt meist genauso viel Hitze wie Leinen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Mischgewebe braucht oft weniger Hitze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, damit Hemden weniger knittern?",
+      "art": "mc",
+      "optionen": [
+        "Direkt nach dem Waschen auf einen Bügel hängen",
+        "Lange in der Trommel liegen lassen",
+        "Zusammengeknüllt trocknen",
+        "Im Trockner auf heißester Stufe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Glattziehen spart später Arbeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Leicht feucht bügeln.",
+        "Temperatur nach Etikett wählen.",
+        "Mit dem Kragen beginnen, mit dem Rücken enden.",
+        "Hemden nach dem Waschen gleich aufhängen."
+      ]
+    }
+  ]
+}

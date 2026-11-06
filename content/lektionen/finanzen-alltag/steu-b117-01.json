@@ -1,0 +1,121 @@
+{
+  "id": "steu-b117-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Krankheitskosten von der Steuer absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "krankheitskosten",
+    "aussergewoehnliche belastungen",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zuzahlungen in der Apotheke, eine neue Brille, Zahnersatz: Krankheit kostet oft viel Geld.",
+        "Ein Teil davon kann sich in der Steuererklärung lohnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dazu zählt",
+      "absaetze": [
+        "Krankheitskosten zählen zu den außergewöhnlichen Belastungen. Dazu gehören Zuzahlungen zu Medikamenten, Eigenanteile beim Zahnersatz und Kosten für Brillen.",
+        "Auch Fahrtkosten zu Behandlungen können zählen. Wichtig ist meist eine ärztliche Verordnung. Beiträge zur Krankenversicherung gehören dagegen woanders hin."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die zumutbare Belastung",
+      "absaetze": [
+        "Das Finanzamt erkennt nur den Teil an, der über deiner zumutbaren Belastung liegt. Diese Grenze hängt von Einkommen, Familienstand und Zahl der Kinder ab.",
+        "Wer wenig verdient oder Kinder hat, erreicht die Grenze schneller. Sammle deshalb alle Belege eines Jahres."
+      ],
+      "merke": "Nur Kosten über der zumutbaren Belastung wirken sich aus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besondere Fälle",
+      "absaetze": [
+        "Für eine Kur brauchst du vorher ein amtsärztliches Gutachten oder eine Bescheinigung des Medizinischen Dienstes. Ohne diesen Nachweis wird es schwierig.",
+        "Nicht absetzbar sind meist Kosten für Wellness, Fitnessstudio oder vorbeugende Maßnahmen ohne Verordnung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Gruppe zählen Krankheitskosten steuerlich?",
+      "art": "mc",
+      "optionen": [
+        "Außergewöhnliche Belastungen",
+        "Werbungskosten",
+        "Einnahmen",
+        "Vorsorgeaufwendungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gilt eine zumutbare Belastung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt die zumutbare Belastung ab?",
+      "art": "mc",
+      "optionen": [
+        "Von Einkommen, Familienstand und Kinderzahl",
+        "Vom Wohnort",
+        "Vom Alter des Autos",
+        "Von der Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Familien erreichen die Grenze schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kosten für das Fitnessstudio sind ohne Verordnung meist absetzbar.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Vorbeugende Maßnahmen ohne Verordnung zählen meist nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du vor einer Kur meist?",
+      "art": "mc",
+      "optionen": [
+        "Ein amtsärztliches Gutachten oder eine Bescheinigung",
+        "Eine Urlaubsbestätigung",
+        "Nichts",
+        "Eine Rechnung vom Hotel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Nachweis wird es schwierig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Krankheitskosten sind außergewöhnliche Belastungen.",
+        "Nur der Teil über der zumutbaren Belastung zählt.",
+        "Belege und Verordnungen sind wichtig.",
+        "Vor einer Kur brauchst du einen Nachweis."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "umw-b117-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie entsteht ein Regenbogen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "regenbogen",
+    "licht",
+    "wetter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Schauer bricht die Sonne durch, und plötzlich spannt sich ein bunter Bogen über den Himmel.",
+        "Für dieses Schauspiel braucht es Sonne und Regen zugleich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sonne im Rücken",
+      "absaetze": [
+        "Einen Regenbogen siehst du, wenn die Sonne hinter dir steht und vor dir Regentropfen fallen. Die Sonne darf dabei nicht zu hoch stehen.",
+        "Deshalb sieht man Regenbögen oft am Morgen oder am späten Nachmittag."
+      ],
+      "merke": "Für einen Regenbogen brauchst du die Sonne im Rücken und Regen vor dir."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht wird zerlegt",
+      "absaetze": [
+        "Sonnenlicht enthält alle Farben. Fällt es in einen Regentropfen, wird es gebrochen, innen gespiegelt und beim Austritt erneut gebrochen.",
+        "Jede Farbe wird dabei etwas anders abgelenkt. So fächert sich das Licht auf. Rot liegt außen, Violett innen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erstaunliche Details",
+      "absaetze": [
+        "Manchmal erscheint darüber ein schwächerer Nebenregenbogen. Seine Farben sind umgekehrt angeordnet.",
+        "Eigentlich ist ein Regenbogen ein Kreis. Vom Boden aus verdeckt der Horizont den unteren Teil. Aus dem Flugzeug sieht man manchmal den ganzen Kreis."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo muss die Sonne stehen, damit du einen Regenbogen siehst?",
+      "art": "mc",
+      "optionen": [
+        "Hinter dir",
+        "Vor dir",
+        "Genau über dir",
+        "Unter dem Horizont"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor dir müssen Regentropfen fallen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Farbe liegt im Hauptregenbogen außen?",
+      "art": "mc",
+      "optionen": [
+        "Rot",
+        "Violett",
+        "Grün",
+        "Blau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Violett liegt innen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Nebenregenbogen sind die Farben umgekehrt angeordnet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist außerdem schwächer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Form hat ein Regenbogen eigentlich?",
+      "art": "mc",
+      "optionen": [
+        "Einen Kreis",
+        "Ein Quadrat",
+        "Eine gerade Linie",
+        "Ein Dreieck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Horizont verdeckt meist den unteren Teil."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Regenbogen braucht Sonne im Rücken und Regen vor dir.",
+        "Tropfen brechen und spiegeln das Licht.",
+        "Rot liegt außen, Violett innen.",
+        "Eigentlich ist ein Regenbogen ein Kreis."
+      ]
+    }
+  ]
+}

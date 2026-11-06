@@ -1,0 +1,124 @@
+{
+  "id": "ern-b117-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Mate-Tee gesund?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mate",
+    "tee",
+    "koffein"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Südamerika wird Mate aus einem Kürbisgefäß mit Metallhalm getrunken. Bei uns steckt er in vielen Limonaden.",
+        "Was steckt in dem herben Getränk?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Blätter eines Stechpalmengewächses",
+      "absaetze": [
+        "Mate wird aus getrockneten Blättern der Mate-Pflanze gemacht. Sie wächst vor allem in Argentinien, Brasilien, Paraguay und Uruguay.",
+        "Mate enthält Koffein, oft ähnlich viel wie eine Tasse Tee oder etwas mehr. Deshalb wirkt er anregend. Dazu kommen Pflanzenstoffe wie Polyphenole."
+      ],
+      "merke": "Mate enthält Koffein und wirkt anregend.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei sehr heißem Mate",
+      "absaetze": [
+        "Traditionell wird Mate oft sehr heiß getrunken. Studien aus Südamerika deuten darauf hin, dass sehr heiße Getränke das Risiko für Speiseröhrenkrebs erhöhen.",
+        "Die Internationale Agentur für Krebsforschung stuft Getränke über 65 Grad als wahrscheinlich krebserregend ein. Lass Mate deshalb etwas abkühlen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mate in Limonaden",
+      "absaetze": [
+        "Viele Mate-Limonaden enthalten viel Zucker und zusätzlich Koffein. Wie viel genau, steht auf dem Etikett.",
+        "Für Kinder, Schwangere und koffeinempfindliche Menschen sind solche Getränke weniger geeignet. Ungesüßter Mate-Tee ist die bessere Wahl."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Mate gemacht?",
+      "art": "mc",
+      "optionen": [
+        "Aus getrockneten Blättern der Mate-Pflanze",
+        "Aus Kaffeebohnen",
+        "Aus Kakaoschalen",
+        "Aus Hopfen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflanze wächst vor allem in Südamerika."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wirkt Mate anregend?",
+      "art": "mc",
+      "optionen": [
+        "Er enthält Koffein",
+        "Er enthält Alkohol",
+        "Er enthält viel Eisen",
+        "Er ist besonders kalt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft ähnlich viel wie Tee oder etwas mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sehr heiße Getränke über 65 Grad gelten als wahrscheinlich krebserregend.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Lass Mate etwas abkühlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf solltest du bei Mate-Limonaden achten?",
+      "art": "mc",
+      "optionen": [
+        "Auf Zucker und Koffein",
+        "Auf Vitamin D",
+        "Auf Ballaststoffe",
+        "Auf Gluten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beides steht auf dem Etikett."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mate stammt aus Südamerika.",
+        "Er enthält Koffein.",
+        "Sehr heiß getrunken kann er schaden.",
+        "Mate-Limonaden enthalten oft viel Zucker."
+      ]
+    }
+  ]
+}

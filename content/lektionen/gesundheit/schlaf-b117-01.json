@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b117-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du mit einer Erkältung besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "erkaeltung",
+    "verstopfte nase",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Nase ist zu, der Hals kratzt, und an Schlaf ist kaum zu denken.",
+        "Dabei braucht der Körper gerade jetzt Erholung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Erkältungen den Schlaf stören",
+      "absaetze": [
+        "Im Liegen schwellen die Schleimhäute der Nase oft stärker an. Die Nase verstopft, und du atmest durch den Mund. Das trocknet den Hals aus.",
+        "Husten und Gliederschmerzen wecken dich zusätzlich. Gleichzeitig macht die Abwehrreaktion des Körpers müde."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Lagere den Kopf mit einem zusätzlichen Kissen etwas höher. So kann Schleim besser abfließen.",
+        "Trink über den Tag genug. Ein kühles, gut gelüftetes Schlafzimmer ist angenehmer als trockene Heizungsluft. Warme Getränke vor dem Schlafen können den Hals beruhigen."
+      ],
+      "merke": "Ein etwas erhöhter Kopf erleichtert das Atmen im Liegen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht mit Mitteln",
+      "absaetze": [
+        "Abschwellende Nasensprays solltest du nur wenige Tage nutzen. Sonst kann sich die Nase an sie gewöhnen.",
+        "Kombipräparate gegen Erkältung können Stoffe enthalten, die wach halten oder müde machen. Lass dich in der Apotheke beraten. Bei hohem Fieber oder Atemnot hol ärztliche Hilfe."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum verstopft die Nase im Liegen oft stärker?",
+      "art": "mc",
+      "optionen": [
+        "Die Schleimhäute schwellen stärker an",
+        "Die Nase wird kälter",
+        "Man atmet weniger",
+        "Das Kissen drückt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann atmet man durch den Mund."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erleichtert das Atmen im Bett?",
+      "art": "mc",
+      "optionen": [
+        "Den Kopf etwas höher lagern",
+        "Ganz flach liegen",
+        "Die Heizung voll aufdrehen",
+        "Auf dem Bauch liegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kann Schleim besser abfließen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Abschwellende Nasensprays kannst du bedenkenlos wochenlang nutzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur wenige Tage, sonst gewöhnt sich die Nase daran."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Erkältungs-Kombipräparaten zu beachten?",
+      "art": "mc",
+      "optionen": [
+        "Sie können wach halten oder müde machen",
+        "Sie wirken immer gleich",
+        "Sie ersetzen Schlaf",
+        "Sie enthalten nur Vitamine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass dich in der Apotheke beraten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erkältungen stören den Schlaf durch Schwellung und Husten.",
+        "Ein erhöhter Kopf hilft beim Atmen.",
+        "Kühle, frische Luft ist angenehmer.",
+        "Nasensprays nur wenige Tage nutzen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tech-b117-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein FI-Schutzschalter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fi-schalter",
+    "strom",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sicherungskasten sitzt oft ein Schalter mit einer kleinen Testtaste.",
+        "Er kann im Ernstfall Leben retten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er misst",
+      "absaetze": [
+        "Ein FI-Schutzschalter heißt auch Fehlerstrom-Schutzschalter. Er vergleicht ständig den Strom, der in ein Gerät hineinfließt, mit dem Strom, der zurückkommt.",
+        "Normalerweise sind beide gleich. Fließt aber Strom woanders ab, etwa durch einen Menschen zur Erde, entsteht eine Differenz."
+      ],
+      "merke": "Der FI-Schalter vergleicht hin- und zurückfließenden Strom."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Blitzschnell aus",
+      "absaetze": [
+        "Erkennt der Schalter eine Differenz, trennt er den Stromkreis in Sekundenbruchteilen. Für den Schutz von Menschen löst er meist schon bei sehr kleinen Fehlerströmen aus.",
+        "Eine normale Sicherung reagiert dagegen erst bei sehr hohen Strömen. Sie schützt vor allem Leitungen vor Überhitzung, nicht Menschen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig testen",
+      "absaetze": [
+        "Drück die Testtaste regelmäßig, zum Beispiel zweimal im Jahr. Der Schalter muss dann auslösen. Danach schaltest du ihn wieder ein.",
+        "Löst er ohne Test immer wieder aus, steckt oft ein defektes Gerät dahinter. Arbeiten im Sicherungskasten gehören in die Hände von Fachleuten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was vergleicht ein FI-Schutzschalter?",
+      "art": "mc",
+      "optionen": [
+        "Hin- und zurückfließenden Strom",
+        "Spannung und Temperatur",
+        "Uhrzeit und Verbrauch",
+        "Licht und Wärme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Differenz deutet auf einen Fehler hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schnell schaltet er ab?",
+      "art": "mc",
+      "optionen": [
+        "In Sekundenbruchteilen",
+        "Nach einer Minute",
+        "Nach einer Stunde",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann Leben retten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine normale Sicherung schützt Menschen genauso gut wie ein FI-Schalter.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie schützt vor allem Leitungen vor Überhitzung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du die Testtaste etwa drücken?",
+      "art": "mc",
+      "optionen": [
+        "Etwa zweimal im Jahr",
+        "Nie",
+        "Jede Stunde",
+        "Nur beim Einzug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schalter muss dann auslösen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der FI-Schalter vergleicht hin- und zurückfließenden Strom.",
+        "Bei einer Differenz schaltet er sofort ab.",
+        "Er schützt Menschen vor Stromschlägen.",
+        "Teste ihn regelmäßig."
+      ]
+    }
+  ]
+}

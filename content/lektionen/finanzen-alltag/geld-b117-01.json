@@ -1,0 +1,121 @@
+{
+  "id": "geld-b117-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie entsteht ein Wechselkurs?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wechselkurse",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wechselkurs",
+    "waehrung",
+    "reisen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor dem Urlaub fragst du dich: Wie viel ist mein Euro dort wert?",
+        "Die Antwort ändert sich jeden Tag ein wenig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Angebot und Nachfrage",
+      "absaetze": [
+        "Der Wechselkurs gibt an, wie viel eine Währung in einer anderen wert ist. Beim Euro wird er frei am Devisenmarkt gebildet, also durch Angebot und Nachfrage.",
+        "Wollen viele Menschen und Firmen Euro kaufen, steigt sein Kurs. Wollen viele ihn verkaufen, sinkt er."
+      ],
+      "merke": "Der Euro-Wechselkurs bildet sich durch Angebot und Nachfrage."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was den Kurs bewegt",
+      "absaetze": [
+        "Zinsen spielen eine große Rolle. Steigen die Zinsen im Euroraum, wird es attraktiver, Geld in Euro anzulegen.",
+        "Auch Wirtschaftsdaten, Inflation, Handel und politische Ereignisse beeinflussen den Kurs. Die Europäische Zentralbank veröffentlicht täglich Referenzkurse."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das für dich bedeutet",
+      "absaetze": [
+        "Ein starker Euro macht Urlaub im Ausland und Importe günstiger. Für Exportfirmen wird es dagegen schwerer, im Ausland zu verkaufen.",
+        "Beim Geldwechseln zahlst du meist einen schlechteren Kurs als den Referenzkurs. Die Differenz ist der Verdienst der Bank oder Wechselstube."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entsteht der Wechselkurs des Euro?",
+      "art": "mc",
+      "optionen": [
+        "Durch Angebot und Nachfrage am Devisenmarkt",
+        "Durch ein festes Gesetz",
+        "Durch die Bundesregierung allein",
+        "Durch Zufall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ändert sich ständig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht den Euro oft attraktiver?",
+      "art": "mc",
+      "optionen": [
+        "Steigende Zinsen im Euroraum",
+        "Mehr Feiertage",
+        "Kälteres Wetter",
+        "Neue Münzmotive"
+      ],
+      "richtig": 0,
+      "erklaerung": "Geldanlagen in Euro werden dann interessanter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein starker Euro macht Urlaub im Ausland günstiger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für Exporteure wird es dagegen schwerer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist der Kurs beim Geldwechseln schlechter als der Referenzkurs?",
+      "art": "mc",
+      "optionen": [
+        "Bank oder Wechselstube verdienen an der Differenz",
+        "Der Referenzkurs ist falsch",
+        "Bargeld ist weniger wert",
+        "Wegen der Mehrwertsteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vergleichen lohnt sich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wechselkurse entstehen durch Angebot und Nachfrage.",
+        "Zinsen und Wirtschaftsdaten bewegen den Kurs.",
+        "Ein starker Euro hilft Reisenden.",
+        "Beim Wechseln verdient die Bank an der Spanne."
+      ]
+    }
+  ]
+}
