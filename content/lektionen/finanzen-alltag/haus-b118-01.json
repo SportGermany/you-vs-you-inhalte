@@ -1,0 +1,121 @@
+{
+  "id": "haus-b118-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie lagerst du Wein richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wein",
+    "lagern",
+    "haushalt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Flasche Wein als Geschenk bekommen, aber erst später öffnen?",
+        "Damit sie nicht verdirbt, kommt es auf den richtigen Platz an."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühl, dunkel, ruhig",
+      "absaetze": [
+        "Wein mag gleichmäßige Kühle, etwa zwischen 10 und 15 Grad. Große Temperaturschwankungen schaden mehr als eine etwas höhere, aber konstante Temperatur.",
+        "Licht, vor allem Sonnenlicht, verändert den Geschmack. Auch Erschütterungen und starke Gerüche in der Nähe sind ungünstig."
+      ],
+      "merke": "Wein lagert am besten kühl, dunkel und ohne Schwankungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Liegend oder stehend",
+      "absaetze": [
+        "Flaschen mit Naturkorken lagerst du liegend. So bleibt der Korken feucht und dichtet gut ab.",
+        "Flaschen mit Schraubverschluss können auch stehen. Die meisten Weine im Handel sind ohnehin zum baldigen Trinken gedacht und werden durch Lagern nicht besser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nach dem Öffnen",
+      "absaetze": [
+        "Ist die Flasche offen, kommt Sauerstoff an den Wein. Verschlossen im Kühlschrank hält er sich meist einige Tage.",
+        "Wein und andere alkoholische Getränke gehören außer Reichweite von Kindern und Jugendlichen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Temperatur ist für die Lagerung günstig?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 10 bis 15 Grad",
+        "Über 25 Grad",
+        "Unter minus 5 Grad",
+        "Egal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wichtig ist vor allem Gleichmäßigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lagerst du Flaschen mit Naturkorken?",
+      "art": "mc",
+      "optionen": [
+        "Liegend",
+        "Stehend",
+        "Kopfüber",
+        "Schräg nach oben"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt der Korken feucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die meisten Weine im Handel werden durch langes Lagern besser.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind meist zum baldigen Trinken gedacht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hält sich offener Wein im Kühlschrank meist?",
+      "art": "mc",
+      "optionen": [
+        "Einige Tage",
+        "Mehrere Jahre",
+        "Wenige Minuten",
+        "Ewig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sauerstoff verändert ihn."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wein lagert kühl, dunkel und ruhig.",
+        "Gleichmäßige Temperatur ist wichtig.",
+        "Korkflaschen liegend lagern.",
+        "Offener Wein hält im Kühlschrank einige Tage."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "geo-b118-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht die Europäische Arzneimittel-Agentur?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About us",
+      "herausgeber": "Europäische Arzneimittel-Agentur (EMA)",
+      "url": "https://www.ema.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Länder und Organisationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ema",
+    "arzneimittel",
+    "europaeische union"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein neues Medikament soll in allen EU-Ländern auf den Markt kommen.",
+        "Bevor das geschieht, prüft eine EU-Agentur seine Wirksamkeit und Sicherheit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sitz in Amsterdam",
+      "absaetze": [
+        "Die Europäische Arzneimittel-Agentur, kurz EMA, wurde 1995 gegründet. Lange saß sie in London.",
+        "Nach dem Brexit zog sie 2019 nach Amsterdam. Sie arbeitet mit den Arzneimittelbehörden der Mitgliedstaaten eng zusammen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Prüfen und empfehlen",
+      "absaetze": [
+        "Viele neue Medikamente durchlaufen ein zentrales Verfahren. Fachleute der EMA bewerten dabei Studien zu Nutzen und Risiken.",
+        "Die EMA gibt dann eine Empfehlung ab. Die eigentliche Zulassung erteilt die Europäische Kommission. Sie gilt in der ganzen EU."
+      ],
+      "merke": "Die EMA bewertet Medikamente, die Kommission lässt sie zu."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überwachung nach der Zulassung",
+      "absaetze": [
+        "Auch nach der Zulassung beobachtet die EMA, ob Nebenwirkungen auftreten. Meldungen aus ganz Europa werden gesammelt und ausgewertet.",
+        "Bei Problemen kann sie Warnhinweise oder Einschränkungen empfehlen. In der Corona-Pandemie bewertete sie die Impfstoffe für die EU."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt die EMA heute?",
+      "art": "mc",
+      "optionen": [
+        "In Amsterdam",
+        "In London",
+        "In Berlin",
+        "In Brüssel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach dem Brexit zog sie 2019 um."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erteilt die Zulassung im zentralen Verfahren?",
+      "art": "mc",
+      "optionen": [
+        "Die Europäische Kommission",
+        "Die EMA selbst",
+        "Das Europäische Parlament",
+        "Jede Apotheke"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die EMA gibt eine Empfehlung ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die EMA überwacht Medikamente auch nach der Zulassung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie sammelt Meldungen zu Nebenwirkungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wurde die EMA gegründet?",
+      "art": "mc",
+      "optionen": [
+        "1995",
+        "1957",
+        "2019",
+        "2020"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zunächst saß sie in London."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die EMA bewertet Medikamente für die EU.",
+        "Sie sitzt seit 2019 in Amsterdam.",
+        "Die Zulassung erteilt die Kommission.",
+        "Die EMA überwacht auch Nebenwirkungen."
+      ]
+    }
+  ]
+}

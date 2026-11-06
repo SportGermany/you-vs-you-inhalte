@@ -1,0 +1,121 @@
+{
+  "id": "tech-b118-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Spülmaschine?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spuelmaschine",
+    "haushaltsgeraete",
+    "technik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tür zu, Knopf drücken, und eine Stunde später ist das Geschirr sauber.",
+        "In der Maschine passiert mehr, als man denkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser im Kreislauf",
+      "absaetze": [
+        "Eine Spülmaschine nimmt nur wenige Liter Wasser auf und erhitzt es. Eine Pumpe schickt es immer wieder durch die Sprüharme.",
+        "Der Wasserdruck lässt die Sprüharme rotieren. So erreicht das Wasser alle Seiten des Geschirrs. Ein Sieb fängt Speisereste auf."
+      ],
+      "merke": "Wenig Wasser wird immer wieder umgewälzt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Chemie gegen Schmutz",
+      "absaetze": [
+        "Spülmittel für Maschinen enthält Enzyme. Sie zerlegen Eiweiß und Stärke, etwa von Eiern oder Nudeln. Dazu kommen Stoffe, die Fett lösen und bleichen.",
+        "Viele Maschinen haben einen Enthärter. Er braucht Regeneriersalz und verhindert Kalkflecken. Klarspüler sorgt dafür, dass das Wasser glatt abläuft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Eco so lange dauert",
+      "absaetze": [
+        "Das Eco-Programm spült mit niedrigerer Temperatur, dafür länger. Die Enzyme haben mehr Zeit zu wirken.",
+        "Das Aufheizen kostet am meisten Energie. Deshalb spart ein langes, kühleres Programm Strom. Eine volle Maschine ist am effizientesten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was lässt die Sprüharme rotieren?",
+      "art": "mc",
+      "optionen": [
+        "Der Wasserdruck",
+        "Ein eigener Motor pro Arm",
+        "Magnete",
+        "Die Schwerkraft"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird das Geschirr von allen Seiten erreicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient Regeneriersalz?",
+      "art": "mc",
+      "optionen": [
+        "Es hält den Enthärter am Laufen",
+        "Es würzt das Geschirr",
+        "Es ersetzt das Spülmittel",
+        "Es kühlt die Maschine"
+      ],
+      "richtig": 0,
+      "erklaerung": "So entstehen weniger Kalkflecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Eco-Programm spart Energie, weil es mit niedrigerer Temperatur länger spült.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Aufheizen kostet am meisten Energie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zerlegen Enzyme im Spülmittel?",
+      "art": "mc",
+      "optionen": [
+        "Eiweiß und Stärke",
+        "Glas",
+        "Metall",
+        "Plastik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Reste von Eiern oder Nudeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wenig Wasser wird erhitzt und umgewälzt.",
+        "Enzyme zerlegen Speisereste.",
+        "Salz und Klarspüler verhindern Flecken.",
+        "Eco-Programme sparen durch niedrigere Temperatur."
+      ]
+    }
+  ]
+}

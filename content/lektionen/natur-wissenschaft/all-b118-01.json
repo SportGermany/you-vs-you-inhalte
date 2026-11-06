@@ -1,0 +1,121 @@
+{
+  "id": "all-b118-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist das Wintersechseck?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Himmelsbeobachtung",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wintersechseck",
+    "sterne",
+    "himmelsbeobachtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Klare Winternächte bieten einige der hellsten Sterne des Jahres.",
+        "Sechs davon bilden ein riesiges Sechseck am Himmel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sechs helle Sterne",
+      "absaetze": [
+        "Das Wintersechseck besteht aus Sirius, Prokyon, Pollux, Kapella, Aldebaran und Rigel. Sie gehören zu sechs verschiedenen Sternbildern.",
+        "Sirius im Großen Hund ist der hellste Stern am Nachthimmel. Mit dem Sommerdreieck ist das Sechseck eine beliebte Orientierungshilfe."
+      ],
+      "merke": "Das Wintersechseck verbindet sechs helle Sterne verschiedener Sternbilder."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Orion in der Mitte",
+      "absaetze": [
+        "Im Inneren des Sechsecks liegt der rötliche Stern Beteigeuze im Orion. Rigel markiert den Fuß des Orion und gehört zugleich zum Sechseck.",
+        "Den Orion erkennst du leicht an drei Sternen in einer Reihe, dem Gürtel. Verlängert man den Gürtel nach unten, trifft man auf Sirius."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du es siehst",
+      "absaetze": [
+        "Das Wintersechseck ist von Dezember bis März am Abendhimmel gut zu sehen. Es steht dann im Süden.",
+        "Die Farben der Sterne fallen auf: Rigel leuchtet bläulich, Beteigeuze und Aldebaran rötlich. Die Farbe verrät die Temperatur eines Sterns."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stern im Wintersechseck ist der hellste am Nachthimmel?",
+      "art": "mc",
+      "optionen": [
+        "Sirius",
+        "Pollux",
+        "Kapella",
+        "Prokyon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gehört zum Großen Hund."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Sternbild liegt in der Mitte des Sechsecks?",
+      "art": "mc",
+      "optionen": [
+        "Orion",
+        "Großer Wagen",
+        "Kassiopeia",
+        "Schwan"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du erkennst ihn an seinem Gürtel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rigel leuchtet bläulich, Beteigeuze rötlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Farbe verrät die Temperatur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann siehst du das Wintersechseck gut?",
+      "art": "mc",
+      "optionen": [
+        "Von Dezember bis März abends",
+        "Im Juli um Mitternacht",
+        "Nur bei Vollmond",
+        "Nie in Deutschland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es steht dann im Süden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Wintersechseck verbindet sechs helle Sterne.",
+        "Sirius ist der hellste Stern am Nachthimmel.",
+        "In der Mitte liegt der Orion.",
+        "Sternfarben verraten Temperaturen."
+      ]
+    }
+  ]
+}

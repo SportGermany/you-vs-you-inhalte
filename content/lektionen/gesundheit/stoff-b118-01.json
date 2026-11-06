@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b118-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie baut der Körper Alkohol ab?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Alkohol und Gesundheit",
+      "herausgeber": "Bundesinstitut für Öffentliche Gesundheit (BZgA)",
+      "url": "https://www.kenn-dein-limit.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "alkohol",
+    "leber",
+    "stoffwechsel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer Feier fragen sich viele: Wann bin ich wieder nüchtern?",
+        "Die Antwort hängt vor allem von der Leber ab, und die lässt sich nicht hetzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Leber übernimmt",
+      "absaetze": [
+        "Alkohol gelangt über Magen und Dünndarm schnell ins Blut. Den größten Teil baut die Leber ab.",
+        "Ein Enzym wandelt Alkohol zunächst in Acetaldehyd um. Dieser Stoff ist giftig und trägt zu Kopfschmerzen und Übelkeit bei. Danach wird er weiter abgebaut."
+      ],
+      "merke": "Die Leber baut den größten Teil des Alkohols ab.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Langsam und gleichmäßig",
+      "absaetze": [
+        "Die Leber baut pro Stunde nur eine bestimmte Menge ab. Als grobe Faustregel sinkt der Blutalkohol um etwa 0,1 Promille pro Stunde.",
+        "Kaffee, kaltes Duschen oder frische Luft beschleunigen das nicht. Man fühlt sich vielleicht wacher, ist aber nicht nüchterner."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschiede und Restalkohol",
+      "absaetze": [
+        "Frauen haben bei gleicher Menge meist einen höheren Promillewert als Männer. Ein Grund: Ihr Körper enthält anteilig weniger Wasser.",
+        "Wer abends viel getrunken hat, kann morgens noch Restalkohol im Blut haben. Das ist im Straßenverkehr gefährlich."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Organ baut den meisten Alkohol ab?",
+      "art": "mc",
+      "optionen": [
+        "Die Leber",
+        "Die Lunge",
+        "Das Herz",
+        "Die Haut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Enzym beginnt den Abbau."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stark sinkt der Blutalkohol pro Stunde etwa?",
+      "art": "mc",
+      "optionen": [
+        "Um etwa 0,1 Promille",
+        "Um etwa 1 Promille",
+        "Um etwa 0,001 Promille",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine grobe Faustregel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein starker Kaffee macht schneller nüchtern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Man fühlt sich wacher, ist aber nicht nüchterner."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum haben Frauen bei gleicher Menge oft mehr Promille?",
+      "art": "mc",
+      "optionen": [
+        "Ihr Körper enthält anteilig weniger Wasser",
+        "Sie trinken schneller",
+        "Ihr Magen ist größer",
+        "Sie haben mehr Leber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Alkohol verteilt sich in weniger Wasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Leber baut Alkohol langsam ab.",
+        "Zwischenprodukt Acetaldehyd ist giftig.",
+        "Kaffee oder Duschen beschleunigen nichts.",
+        "Restalkohol am Morgen ist gefährlich.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

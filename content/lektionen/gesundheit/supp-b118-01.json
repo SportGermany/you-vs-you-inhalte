@@ -1,0 +1,132 @@
+{
+  "id": "supp-b118-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Hilft Pfefferminzöl bei Kopfschmerzen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kopfschmerz und Migräne",
+      "herausgeber": "Deutsche Migräne- und Kopfschmerzgesellschaft",
+      "url": "https://www.dmkg.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pfefferminzoel",
+    "kopfschmerzen",
+    "pflanzliche arzneimittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein paar Tropfen auf die Stirn, und schon kühlt es angenehm.",
+        "Pfefferminzöl ist ein beliebtes Hausmittel bei Kopfschmerzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühlender Effekt",
+      "absaetze": [
+        "Pfefferminzöl enthält Menthol. Es reizt Kälterezeptoren der Haut und erzeugt ein kühles Gefühl. Gleichzeitig kann es die Schmerzwahrnehmung dämpfen.",
+        "Aufgetragen wird es auf Stirn und Schläfen, nicht eingenommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Bei Spannungskopfschmerzen deuten Studien auf eine lindernde Wirkung hin. Fachgesellschaften nennen Pfefferminzöl daher als Möglichkeit bei dieser Kopfschmerzform.",
+        "Bei Migräne ist die Wirkung weniger gut belegt. Es gibt spezielle Zubereitungen aus der Apotheke für diesen Zweck."
+      ],
+      "merke": "Bei Spannungskopfschmerzen kann Pfefferminzöl lindern.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtige Vorsicht",
+      "absaetze": [
+        "Pfefferminzöl gehört nicht in die Augen und nicht auf verletzte Haut. Wasch dir nach dem Auftragen die Hände.",
+        "Bei Säuglingen und Kleinkindern darf es nicht im Gesicht angewendet werden. Es kann bei ihnen gefährliche Atemprobleme auslösen. Häufige oder ungewohnt starke Kopfschmerzen gehören ärztlich abgeklärt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht in die Augen und nicht auf verletzte Haut",
+        "Nicht bei Säuglingen und Kleinkindern im Gesicht anwenden",
+        "Häufige oder starke Kopfschmerzen ärztlich abklären"
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff im Pfefferminzöl sorgt für das kühle Gefühl?",
+      "art": "mc",
+      "optionen": [
+        "Menthol",
+        "Koffein",
+        "Zucker",
+        "Eisen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es reizt Kälterezeptoren der Haut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Kopfschmerzform deuten Studien auf eine Wirkung hin?",
+      "art": "mc",
+      "optionen": [
+        "Spannungskopfschmerz",
+        "Clusterkopfschmerz",
+        "Kopfschmerz nach Unfall",
+        "Bei allen gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Migräne ist es weniger gut belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pfefferminzöl ist für das Gesicht von Säuglingen geeignet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann gefährliche Atemprobleme auslösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin wird Pfefferminzöl bei Kopfschmerzen aufgetragen?",
+      "art": "mc",
+      "optionen": [
+        "Auf Stirn und Schläfen",
+        "In die Augen",
+        "Auf die Zunge",
+        "In die Nase"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach Hände waschen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pfefferminzöl kühlt durch Menthol.",
+        "Bei Spannungskopfschmerzen kann es lindern.",
+        "Nicht in Augen und nicht bei Kleinkindern im Gesicht.",
+        "Häufige Kopfschmerzen ärztlich abklären."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "steu-b118-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was tust du bei einer Steuernachzahlung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nachzahlung",
+    "steuerbescheid",
+    "finanzamt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Steuerbescheid ist da, und statt einer Erstattung steht dort eine Nachzahlung.",
+        "Jetzt ist es wichtig, die Fristen zu kennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Nachzahlungen entstehen",
+      "absaetze": [
+        "Nachzahlungen entstehen oft, wenn Einkünfte nicht schon beim Lohn versteuert wurden. Beispiele sind Nebenjobs, Mieteinnahmen, Renten oder bestimmte Steuerklassen-Kombinationen.",
+        "Wer selbstständig ist oder Nebeneinkünfte hat, legt am besten regelmäßig Geld dafür zurück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fristen und Zuschläge",
+      "absaetze": [
+        "Die Zahlung ist in der Regel einen Monat nach Bekanntgabe des Bescheids fällig. Das Datum steht im Bescheid.",
+        "Wer zu spät zahlt, muss Säumniszuschläge zahlen. Sie betragen ein Prozent des Betrags für jeden angefangenen Monat. Ein Einspruch stoppt die Zahlungspflicht nicht automatisch."
+      ],
+      "merke": "Zahle fristgerecht, sonst drohen Säumniszuschläge."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn das Geld knapp ist",
+      "absaetze": [
+        "Kannst du nicht sofort zahlen, sprich früh mit dem Finanzamt. Du kannst eine Stundung oder Ratenzahlung beantragen.",
+        "Prüf den Bescheid auch auf Fehler. Hält das Finanzamt Nachzahlungen für wahrscheinlich, setzt es oft Vorauszahlungen für die Zukunft fest."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist eine Nachzahlung in der Regel fällig?",
+      "art": "mc",
+      "optionen": [
+        "Einen Monat nach Bekanntgabe des Bescheids",
+        "Sofort am selben Tag",
+        "Nach einem Jahr",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Datum steht im Bescheid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Säumniszuschlag?",
+      "art": "mc",
+      "optionen": [
+        "Ein Prozent pro angefangenem Monat",
+        "Zehn Prozent pro Tag",
+        "Ein Euro pro Jahr",
+        "Es gibt keinen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pünktlich zahlen lohnt sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Einspruch stoppt automatisch die Zahlungspflicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür braucht es einen eigenen Antrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kannst du tun, wenn das Geld knapp ist?",
+      "art": "mc",
+      "optionen": [
+        "Stundung oder Ratenzahlung beantragen",
+        "Den Bescheid ignorieren",
+        "Ins Ausland ziehen",
+        "Einfach weniger zahlen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sprich früh mit dem Finanzamt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachzahlungen entstehen oft durch Nebeneinkünfte.",
+        "Die Frist beträgt meist einen Monat.",
+        "Bei Verspätung drohen Säumniszuschläge.",
+        "Bei Geldnot Stundung oder Raten beantragen."
+      ]
+    }
+  ]
+}

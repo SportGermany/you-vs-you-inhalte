@@ -1,0 +1,121 @@
+{
+  "id": "geld-b118-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie funktioniert eine Privatinsolvenz?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "privatinsolvenz",
+    "schulden",
+    "restschuldbefreiung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manchmal sind die Schulden so hoch, dass sie sich aus eigener Kraft nicht mehr abbauen lassen.",
+        "Für diesen Fall gibt es in Deutschland einen geordneten Weg in einen Neuanfang."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst der Einigungsversuch",
+      "absaetze": [
+        "Vor dem Gericht steht ein außergerichtlicher Einigungsversuch mit den Gläubigern. Dabei hilft eine anerkannte Schuldnerberatung.",
+        "Kommt keine Einigung zustande, kannst du beim Insolvenzgericht einen Antrag stellen. Die Beratung bei Verbraucherzentralen und Wohlfahrtsverbänden ist oft kostenlos."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Wohlverhaltensphase",
+      "absaetze": [
+        "Im Verfahren wird ein Treuhänder bestimmt. Der pfändbare Teil deines Einkommens geht an ihn und wird an die Gläubiger verteilt.",
+        "Du musst dich in dieser Zeit um Arbeit bemühen und Pflichten erfüllen. Wer neues Vermögen erbt, muss einen Teil abgeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Restschuldbefreiung",
+      "absaetze": [
+        "Seit einer Reform beträgt die Dauer bis zur Restschuldbefreiung in der Regel drei Jahre. Danach sind die meisten übrigen Schulden erlassen.",
+        "Manche Schulden bleiben, etwa Geldstrafen. Der Eintrag bei Auskunfteien wie der Schufa bleibt noch einige Zeit bestehen."
+      ],
+      "merke": "Am Ende steht meist nach drei Jahren die Restschuldbefreiung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steht vor dem gerichtlichen Verfahren?",
+      "art": "mc",
+      "optionen": [
+        "Ein außergerichtlicher Einigungsversuch",
+        "Ein Umzug",
+        "Ein neuer Kredit",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei hilft eine Schuldnerberatung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin geht der pfändbare Teil des Einkommens?",
+      "art": "mc",
+      "optionen": [
+        "An einen Treuhänder",
+        "An das Finanzamt allein",
+        "An die Familie",
+        "Auf ein Sparkonto"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verteilt das Geld an die Gläubiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach wie vielen Jahren gibt es in der Regel die Restschuldbefreiung?",
+      "art": "mc",
+      "optionen": [
+        "Nach drei Jahren",
+        "Nach einem Monat",
+        "Nach 30 Jahren",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt seit einer Reform."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit der Restschuldbefreiung verschwinden auch alle Geldstrafen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Manche Schulden wie Geldstrafen bleiben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zuerst wird eine Einigung mit Gläubigern versucht.",
+        "Schuldnerberatung hilft oft kostenlos.",
+        "Der pfändbare Teil des Einkommens geht an die Gläubiger.",
+        "Meist folgt nach drei Jahren die Restschuldbefreiung."
+      ]
+    }
+  ]
+}

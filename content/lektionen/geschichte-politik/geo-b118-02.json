@@ -1,0 +1,127 @@
+{
+  "id": "geo-b118-02",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "geopolitik",
+  "titel": "Was macht Eurojust?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "About Eurojust",
+      "herausgeber": "Eurojust",
+      "url": "https://www.eurojust.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Länder und Organisationen",
+      "herausgeber": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "eurojust",
+    "justiz",
+    "europaeische union"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Betrugsnetzwerk arbeitet von mehreren Ländern aus. Jede Staatsanwaltschaft kennt nur einen Teil.",
+        "Damit sie zusammenarbeiten, gibt es Eurojust."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Justiz über Grenzen hinweg",
+      "absaetze": [
+        "Eurojust ist die EU-Agentur für die Zusammenarbeit in Strafsachen. Sie wurde 2002 gegründet und sitzt in Den Haag.",
+        "Jedes Mitgliedsland entsendet erfahrene Staatsanwälte oder Richter. Sie bilden eine Brücke zu den Behörden ihres Heimatlandes."
+      ],
+      "merke": "Eurojust koordiniert Staatsanwaltschaften in Europa."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Eurojust hilft",
+      "absaetze": [
+        "Eurojust bringt Ermittler und Staatsanwälte aus verschiedenen Ländern an einen Tisch. Gemeinsam planen sie Durchsuchungen oder Festnahmen am selben Tag.",
+        "Es unterstützt auch gemeinsame Ermittlungsgruppen. Typische Fälle sind Drogenhandel, Menschenhandel, Cyberkriminalität und Betrug."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abgrenzung",
+      "absaetze": [
+        "Eurojust ermittelt nicht selbst und klagt niemanden an. Diese Aufgaben bleiben bei den nationalen Behörden.",
+        "Europol unterstützt dagegen vor allem die Polizei. Beide arbeiten in Den Haag eng zusammen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt Eurojust?",
+      "art": "mc",
+      "optionen": [
+        "In Den Haag",
+        "In Luxemburg",
+        "In Wien",
+        "In Madrid"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort sitzt auch Europol."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wen bringt Eurojust zusammen?",
+      "art": "mc",
+      "optionen": [
+        "Staatsanwälte und Ermittler verschiedener Länder",
+        "Fußballvereine",
+        "Banken",
+        "Schulen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden Aktionen koordiniert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eurojust klagt Verdächtige selbst an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das machen die nationalen Behörden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was unterscheidet Europol von Eurojust?",
+      "art": "mc",
+      "optionen": [
+        "Europol unterstützt vor allem die Polizei",
+        "Europol ist ein Gericht",
+        "Europol vergibt Patente",
+        "Es gibt keinen Unterschied"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eurojust arbeitet mit der Justiz."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eurojust koordiniert die Strafjustiz in Europa.",
+        "Es wurde 2002 gegründet und sitzt in Den Haag.",
+        "Es hilft bei grenzüberschreitenden Fällen.",
+        "Ermitteln und anklagen tun die Länder selbst."
+      ]
+    }
+  ]
+}

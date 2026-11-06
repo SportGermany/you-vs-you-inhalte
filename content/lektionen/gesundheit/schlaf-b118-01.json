@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b118-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist Fatigue?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fatigue",
+    "erschoepfung",
+    "muedigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Normale Müdigkeit verschwindet nach einer guten Nacht.",
+        "Bei Fatigue hilft selbst langer Schlaf kaum."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als müde",
+      "absaetze": [
+        "Fatigue ist eine starke, anhaltende Erschöpfung. Sie steht oft in keinem Verhältnis zur vorherigen Anstrengung und bessert sich durch Ruhe nicht ausreichend.",
+        "Betroffene beschreiben, dass schon kleine Aufgaben große Kraft kosten. Auch Konzentration und Gedächtnis können leiden."
+      ],
+      "merke": "Fatigue ist Erschöpfung, die sich durch Schlaf kaum bessert.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Ursachen",
+      "absaetze": [
+        "Fatigue tritt häufig bei Krebs und während einer Krebstherapie auf. Auch Multiple Sklerose, Rheuma oder die Folgen von Infektionen können sie auslösen.",
+        "Eine besondere Form ist das chronische Erschöpfungssyndrom, auch ME/CFS genannt. Dabei verschlechtern sich die Beschwerden oft nach Belastung."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Wichtig ist eine ärztliche Abklärung, um behandelbare Ursachen wie Blutarmut oder Schilddrüsenprobleme zu finden.",
+        "Je nach Ursache helfen angepasste Bewegung oder ein gezielter Umgang mit den eigenen Kräften. Bei ME/CFS kann Überlastung schaden. Hier ist fachliche Begleitung besonders wichtig."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was unterscheidet Fatigue von normaler Müdigkeit?",
+      "art": "mc",
+      "optionen": [
+        "Sie bessert sich durch Schlaf kaum",
+        "Sie dauert nur eine Stunde",
+        "Sie tritt nur morgens auf",
+        "Sie ist immer harmlos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schon kleine Aufgaben kosten viel Kraft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Erkrankung tritt Fatigue häufig auf?",
+      "art": "mc",
+      "optionen": [
+        "Bei Krebs",
+        "Bei Kurzsichtigkeit",
+        "Bei Schluckauf",
+        "Bei Sonnenbrand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bei Multipler Sklerose und Rheuma."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei ME/CFS kann Überlastung die Beschwerden verschlechtern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb ist fachliche Begleitung wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei anhaltender Erschöpfung wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Eine ärztliche Abklärung",
+        "Mehr Kaffee",
+        "Abwarten über Jahre",
+        "Ein Urlaub reicht immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "So lassen sich behandelbare Ursachen finden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fatigue ist anhaltende, starke Erschöpfung.",
+        "Schlaf allein hilft kaum.",
+        "Sie tritt bei vielen Erkrankungen auf.",
+        "Ärztliche Abklärung ist wichtig."
+      ]
+    }
+  ]
+}

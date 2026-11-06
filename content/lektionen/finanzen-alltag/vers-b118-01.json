@@ -1,0 +1,121 @@
+{
+  "id": "vers-b118-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was musst du nach einem Umzug beim Amt erledigen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Melderecht",
+      "herausgeber": "Bundesministerium des Innern",
+      "url": "https://www.bmi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ummelden",
+    "meldepflicht",
+    "umzug"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Kisten sind ausgepackt, die neue Wohnung ist bezogen.",
+        "Jetzt fehlt noch ein wichtiger Gang: die Anmeldung beim Amt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Wochen Zeit",
+      "absaetze": [
+        "In Deutschland musst du dich innerhalb von zwei Wochen nach dem Einzug bei der Meldebehörde anmelden. Das ist meist das Bürgeramt.",
+        "In vielen Städten geht das inzwischen auch online. Wer die Frist versäumt, riskiert ein Bußgeld."
+      ],
+      "merke": "Anmelden musst du dich innerhalb von zwei Wochen nach dem Einzug."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Wohnungsgeberbestätigung",
+      "absaetze": [
+        "Für die Anmeldung brauchst du eine Wohnungsgeberbestätigung. Darin bestätigt dein Vermieter, dass du eingezogen bist.",
+        "Der Vermieter ist verpflichtet, sie auszustellen. Eine Bestätigung für eine Scheinadresse ist dagegen verboten und kann teuer werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was danach wichtig ist",
+      "absaetze": [
+        "Eine Abmeldung am alten Wohnort brauchst du meist nur bei einem Umzug ins Ausland. Innerhalb Deutschlands erledigt das die Anmeldung mit.",
+        "Ändere danach deine Adresse bei Bank, Versicherungen, Arbeitgeber und Krankenkasse. Für den Personalausweis gibt es meist einen neuen Adressaufkleber."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Zeit hast du für die Anmeldung?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Wochen nach dem Einzug",
+        "Sechs Monate",
+        "Ein Jahr",
+        "Gar keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst droht ein Bußgeld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bestätigt die Wohnungsgeberbestätigung?",
+      "art": "mc",
+      "optionen": [
+        "Dass du eingezogen bist",
+        "Dass du die Miete bezahlt hast",
+        "Dass die Wohnung renoviert ist",
+        "Deinen Verdienst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Vermieter muss sie ausstellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einem Umzug innerhalb Deutschlands musst du dich am alten Ort extra abmelden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das erledigt die Anmeldung mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo änderst du danach unter anderem deine Adresse?",
+      "art": "mc",
+      "optionen": [
+        "Bei Bank und Versicherungen",
+        "Nirgends",
+        "Nur beim Bäcker",
+        "Nur im Fitnessstudio"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Arbeitgeber und Krankenkasse sollten Bescheid wissen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Anmeldung innerhalb von zwei Wochen.",
+        "Der Vermieter stellt die Wohnungsgeberbestätigung aus.",
+        "Abmelden nur beim Umzug ins Ausland.",
+        "Adresse bei Bank und Versicherungen ändern."
+      ]
+    }
+  ]
+}

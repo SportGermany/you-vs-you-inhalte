@@ -1,0 +1,121 @@
+{
+  "id": "umw-b118-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie entsteht Schnee?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schnee",
+    "wetter",
+    "eiskristalle"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Keine zwei Schneeflocken sehen gleich aus, heißt es.",
+        "Doch alle haben eine Gemeinsamkeit: sechs Ecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eis in der Wolke",
+      "absaetze": [
+        "Schnee entsteht in Wolken, wenn es dort kalt genug ist. Wasserdampf lagert sich an winzigen Staubteilchen an und wird direkt zu Eis.",
+        "So wachsen kleine Eiskristalle. Fallen sie und bleibt es bis zum Boden kalt genug, kommen sie als Schnee an."
+      ],
+      "merke": "Schnee entsteht aus Wasserdampf, der in Wolken zu Eis wird."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum sechs Ecken",
+      "absaetze": [
+        "Wassermoleküle ordnen sich im Eis in einem sechseckigen Muster an. Deshalb haben Schneekristalle immer sechs Arme oder Seiten.",
+        "Wie sie genau aussehen, hängt von Temperatur und Feuchtigkeit ab. Es gibt Plättchen, Säulen, Nadeln und die bekannten Sternchen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Flocken und Stille",
+      "absaetze": [
+        "Eine Schneeflocke besteht oft aus vielen Kristallen, die zusammenkleben. Bei Temperaturen nahe null Grad werden die Flocken besonders groß.",
+        "Frischer Schnee enthält viel Luft. Er schluckt Schall. Deshalb wirkt eine verschneite Landschaft so still."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo entsteht Schnee?",
+      "art": "mc",
+      "optionen": [
+        "In Wolken",
+        "Am Boden",
+        "Im Meer",
+        "In Bäumen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort wird Wasserdampf zu Eis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum haben Schneekristalle sechs Seiten?",
+      "art": "mc",
+      "optionen": [
+        "Wegen der Anordnung der Wassermoleküle",
+        "Wegen des Windes",
+        "Wegen des Lichts",
+        "Zufall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Eis entsteht ein sechseckiges Muster."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Temperaturen nahe null Grad werden Schneeflocken besonders groß.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Viele Kristalle kleben dann zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wirkt eine verschneite Landschaft still?",
+      "art": "mc",
+      "optionen": [
+        "Frischer Schnee schluckt Schall",
+        "Vögel schlafen",
+        "Die Luft ist dünner",
+        "Der Wind hört auf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er enthält viel Luft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schnee entsteht in kalten Wolken.",
+        "Wasserdampf wird direkt zu Eis.",
+        "Schneekristalle haben sechs Seiten.",
+        "Frischer Schnee schluckt Schall."
+      ]
+    }
+  ]
+}
