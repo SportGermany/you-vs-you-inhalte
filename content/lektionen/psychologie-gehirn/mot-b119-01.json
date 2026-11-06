@@ -1,0 +1,124 @@
+{
+  "id": "mot-b119-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "motivation-emotionen",
+  "titel": "Was ist der Bestätigungsfehler?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bestaetigungsfehler",
+    "denkfehler",
+    "meinungen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer überzeugt ist, findet überall Belege für seine Meinung.",
+        "Gegenargumente übersehen wir dagegen gern. Das passiert nicht nur anderen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wir suchen, was passt",
+      "absaetze": [
+        "Der Bestätigungsfehler beschreibt unsere Neigung, Informationen so zu suchen und zu deuten, dass sie zu unserer Meinung passen.",
+        "Widersprechende Hinweise nehmen wir weniger wahr oder halten sie für unwichtig. Das spart Denkarbeit, kann aber zu Fehlurteilen führen."
+      ],
+      "merke": "Wir bevorzugen Informationen, die unsere Meinung bestätigen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein klassisches Experiment",
+      "absaetze": [
+        "Der britische Psychologe Peter Wason gab Versuchspersonen in den 1960er-Jahren eine Zahlenfolge: 2, 4, 6. Sie sollten die dahinterliegende Regel finden.",
+        "Die meisten testeten nur Folgen, die ihre Vermutung bestätigten, etwa 8, 10, 12. Die Regel lautete aber einfach: aufsteigende Zahlen. Sie hätten Gegenbeispiele testen müssen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Frag dich bewusst: Was spräche gegen meine Meinung? Lies auch Quellen, die anders denken.",
+        "Hilfreich ist es, Gegenargumente aufzuschreiben, bevor man entscheidet. Im Netz verstärken Algorithmen den Effekt oft, weil sie uns zeigen, was uns gefällt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt der Bestätigungsfehler?",
+      "art": "mc",
+      "optionen": [
+        "Wir bevorzugen Informationen, die zu unserer Meinung passen",
+        "Wir vergessen Namen",
+        "Wir überschätzen Entfernungen",
+        "Wir hören schlechter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gegenargumente übersehen wir eher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zahlenfolge nutzte Wason?",
+      "art": "mc",
+      "optionen": [
+        "2, 4, 6",
+        "1, 1, 2",
+        "10, 20, 30",
+        "3, 6, 9"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Regel war: aufsteigende Zahlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Bestätigungsfehler betrifft nur wenig gebildete Menschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er betrifft alle Menschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen den Bestätigungsfehler?",
+      "art": "mc",
+      "optionen": [
+        "Gezielt nach Gegenargumenten suchen",
+        "Nur Gleichgesinnte lesen",
+        "Schneller entscheiden",
+        "Algorithmen vertrauen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch andere Quellen zu lesen hilft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wir suchen gern Belege für unsere Meinung.",
+        "Gegenargumente übersehen wir leicht.",
+        "Wasons Experiment zeigte den Effekt.",
+        "Bewusst nach Gegenargumenten suchen hilft."
+      ]
+    }
+  ]
+}

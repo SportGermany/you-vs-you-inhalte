@@ -1,0 +1,127 @@
+{
+  "id": "geld-b119-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie schützt du dich vor Betrug auf Kleinanzeigen-Portalen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Betrug im Internet",
+      "herausgeber": "Polizeiliche Kriminalprävention der Länder und des Bundes",
+      "url": "https://www.polizei-beratung.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kleinanzeigen",
+    "betrug",
+    "online-handel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Gebrauchtes verkaufen oder günstig kaufen: Kleinanzeigen-Portale sind beliebt.",
+        "Leider auch bei Betrügern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefälschte Bezahllinks",
+      "absaetze": [
+        "Eine verbreitete Masche: Angebliche Käufer schicken einen Link, über den du dein Geld empfangen sollst. Die Seite sieht echt aus, fragt aber Bankdaten ab.",
+        "Klicke nie auf solche Links aus Nachrichten. Echte Zahlungen brauchen keine Eingabe deiner Kartendaten auf fremden Seiten."
+      ],
+      "merke": "Klicke nie auf Bezahllinks, die dir Fremde schicken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorkasse für nichts",
+      "absaetze": [
+        "Beim Kaufen ist Vorkasse das größte Risiko. Manche Angebote existieren gar nicht. Besonders günstige Preise sind ein Warnzeichen.",
+        "Am sichersten ist Abholung mit Barzahlung oder ein Bezahlverfahren mit Käuferschutz. Bleib bei der Kommunikation möglichst auf der Plattform."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es passiert ist",
+      "absaetze": [
+        "Hast du Daten preisgegeben, sperre sofort Karte oder Konto. Die zentrale Sperrnummer ist 116 116.",
+        "Erstatte Anzeige bei der Polizei, das geht auch online. Melde das Profil des Betrügers außerdem beim Portal."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine verbreitete Betrugsmasche?",
+      "art": "mc",
+      "optionen": [
+        "Gefälschte Bezahllinks in Nachrichten",
+        "Barzahlung bei Abholung",
+        "Ein persönliches Treffen am Tag",
+        "Eine Quittung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Seiten fragen Bankdaten ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist beim Kaufen am sichersten?",
+      "art": "mc",
+      "optionen": [
+        "Abholung mit Barzahlung",
+        "Vorkasse an Fremde",
+        "Geld in einem Brief",
+        "Bezahlung per Gutschein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oder ein Verfahren mit Käuferschutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Besonders günstige Preise können ein Warnzeichen sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Manche Angebote existieren gar nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Nummer hilft beim Sperren von Karten?",
+      "art": "mc",
+      "optionen": [
+        "116 116",
+        "110",
+        "112",
+        "0800 123"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach Anzeige bei der Polizei erstatten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Klicke nie auf fremde Bezahllinks.",
+        "Vorkasse ist beim Kaufen riskant.",
+        "Bleib bei der Kommunikation auf der Plattform.",
+        "Im Ernstfall sofort sperren und Anzeige erstatten."
+      ]
+    }
+  ]
+}

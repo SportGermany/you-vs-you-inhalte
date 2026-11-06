@@ -1,0 +1,123 @@
+{
+  "id": "ern-b119-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Natto?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "natto",
+    "fermentation",
+    "vitamin k"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Klebrig, fadenziehend und mit kräftigem Geruch: Natto spaltet die Meinungen.",
+        "In Japan gehört es für viele zum Frühstück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fermentierte Sojabohnen",
+      "absaetze": [
+        "Natto besteht aus gekochten Sojabohnen, die mit einem bestimmten Bakterium vergoren werden. Dabei entsteht die typische klebrige Schicht mit langen Fäden.",
+        "Der Geschmack ist kräftig und erinnert manche an reifen Käse. Gegessen wird Natto oft mit Reis, Senf und Sojasoße."
+      ],
+      "merke": "Natto sind vergorene Sojabohnen mit klebrigen Fäden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Vitamin K2",
+      "absaetze": [
+        "Natto gehört zu den Lebensmitteln mit dem meisten Vitamin K2. Dieses Vitamin ist wichtig für die Blutgerinnung und den Knochenstoffwechsel.",
+        "Natto liefert außerdem Eiweiß und Ballaststoffe. Studien aus Japan deuten auf Zusammenhänge mit der Knochengesundheit hin. Ursache und Wirkung sind aber nicht geklärt."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtig bei Blutverdünnern",
+      "absaetze": [
+        "Wer bestimmte gerinnungshemmende Medikamente nimmt, muss auf Vitamin K achten. Viel Vitamin K kann deren Wirkung abschwächen.",
+        "Sprich deshalb mit deiner Arztpraxis, bevor du Natto oft isst. Wer Soja nicht verträgt, sollte es meiden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Natto?",
+      "art": "mc",
+      "optionen": [
+        "Aus vergorenen Sojabohnen",
+        "Aus Reis und Fisch",
+        "Aus Algen",
+        "Aus Weizen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Bakterium sorgt für die Gärung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Vitamin steckt reichlich in Natto?",
+      "art": "mc",
+      "optionen": [
+        "Vitamin K2",
+        "Vitamin C",
+        "Vitamin B12 in großen Mengen",
+        "Vitamin A"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist wichtig für die Blutgerinnung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viel Vitamin K kann bestimmte Blutverdünner abschwächen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sprich vorher mit deiner Arztpraxis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit wird Natto in Japan oft gegessen?",
+      "art": "mc",
+      "optionen": [
+        "Mit Reis",
+        "Mit Kuchen",
+        "Mit Pommes",
+        "Mit Eis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen oft Senf und Sojasoße."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Natto sind fermentierte Sojabohnen.",
+        "Es enthält sehr viel Vitamin K2.",
+        "Bei Blutverdünnern ärztlich beraten lassen.",
+        "Der Geschmack ist kräftig und gewöhnungsbedürftig."
+      ]
+    }
+  ]
+}

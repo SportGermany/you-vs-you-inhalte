@@ -1,0 +1,121 @@
+{
+  "id": "tech-b119-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Einparkhilfe?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "einparkhilfe",
+    "ultraschall",
+    "auto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beim Rückwärtsfahren piept es immer schneller, bis ein Dauerton ertönt.",
+        "Woher weiß das Auto, wie nah das Hindernis ist?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schall und Echo",
+      "absaetze": [
+        "In der Stoßstange sitzen kleine runde Sensoren. Sie senden Ultraschall aus, also Schallwellen, die zu hoch für unser Gehör sind.",
+        "Trifft der Schall auf ein Hindernis, wird er zurückgeworfen. Der Sensor misst, wie lange das Echo braucht. Daraus berechnet das Auto den Abstand."
+      ],
+      "merke": "Einparkhilfen messen die Laufzeit von Ultraschall-Echos."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Piepen zum Bild",
+      "absaetze": [
+        "Je näher das Hindernis, desto schneller piept es. Viele Autos zeigen zusätzlich ein Bild mit farbigen Bereichen.",
+        "Rückfahrkameras ergänzen die Sensoren. Manche Autos können sogar selbst einparken und lenken dabei automatisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen",
+      "absaetze": [
+        "Dünne Pfosten, Ketten oder niedrige Kanten erkennt Ultraschall manchmal schlecht. Auch Schnee, Eis oder Schmutz auf den Sensoren stören.",
+        "Die Einparkhilfe unterstützt, ersetzt aber nicht den Blick in Spiegel und über die Schulter. Verantwortlich bleibt immer die Person am Steuer."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was senden die Sensoren einer Einparkhilfe aus?",
+      "art": "mc",
+      "optionen": [
+        "Ultraschall",
+        "Röntgenstrahlen",
+        "Funkwellen fürs Radio",
+        "Wärme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wellen sind zu hoch für unser Gehör."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie berechnet das Auto den Abstand?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Laufzeit des Echos",
+        "Aus der Farbe des Hindernisses",
+        "Aus dem Gewicht",
+        "Aus der Uhrzeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je kürzer die Laufzeit, desto näher das Hindernis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Einparkhilfe erkennt dünne Pfosten immer zuverlässig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dünne oder niedrige Hindernisse werden manchmal übersehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann die Sensoren stören?",
+      "art": "mc",
+      "optionen": [
+        "Schnee oder Schmutz",
+        "Musik im Auto",
+        "Sonnenbrillen",
+        "Klimaanlage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Halte die Sensoren sauber."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sensoren senden Ultraschall aus.",
+        "Aus der Echozeit ergibt sich der Abstand.",
+        "Kameras ergänzen die Sensoren.",
+        "Der eigene Blick bleibt wichtig."
+      ]
+    }
+  ]
+}
