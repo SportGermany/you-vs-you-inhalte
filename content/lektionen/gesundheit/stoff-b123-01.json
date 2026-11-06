@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b123-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was bedeutet Stoffwechsel eigentlich?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "stoffwechsel",
+    "energie",
+    "grundlagen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Stoffwechsel ist ein Wort, das ständig fällt. Mal ist er schnell, mal langsam, mal soll man ihn anregen.",
+        "Doch was ist damit eigentlich gemeint?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alle chemischen Vorgänge",
+      "absaetze": [
+        "Stoffwechsel umfasst alle chemischen Vorgänge in deinem Körper. Dazu gehört, wie Nahrung zerlegt, Energie gewonnen und neues Gewebe aufgebaut wird.",
+        "Diese Vorgänge laufen in jeder Zelle ab, Tag und Nacht. Gesteuert werden sie von Enzymen und Hormonen."
+      ],
+      "merke": "Stoffwechsel sind alle chemischen Vorgänge im Körper.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abbauen und aufbauen",
+      "absaetze": [
+        "Beim Abbau zerlegt der Körper Nährstoffe in kleinere Teile. Dabei wird Energie frei, die er in einem Speicherstoff namens ATP zwischenlagert.",
+        "Beim Aufbau nutzt er diese Energie, um Muskeln, Knochen, Hormone und Zellen herzustellen. Fachleute sprechen von Katabolismus und Anabolismus."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ihn beeinflusst",
+      "absaetze": [
+        "Wie viel Energie du verbrauchst, hängt vor allem von Körpergröße, Muskelmasse, Alter und Bewegung ab.",
+        "Kurzfristige Tricks wie scharfe Gewürze oder spezielle Tees verändern den Energieverbrauch kaum. Mehr Bewegung und Muskelaufbau wirken deutlich stärker."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was umfasst der Stoffwechsel?",
+      "art": "mc",
+      "optionen": [
+        "Alle chemischen Vorgänge im Körper",
+        "Nur die Verdauung",
+        "Nur das Atmen",
+        "Nur das Schwitzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er läuft in jeder Zelle ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Energiespeicherstoff der Zellen?",
+      "art": "mc",
+      "optionen": [
+        "ATP",
+        "DNA",
+        "LDL",
+        "BMI"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort wird Energie zwischengelagert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Scharfe Gewürze steigern den Energieverbrauch stark.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Effekt ist sehr gering."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beeinflusst den Energieverbrauch deutlich?",
+      "art": "mc",
+      "optionen": [
+        "Muskelmasse und Bewegung",
+        "Die Haarfarbe",
+        "Das Sternzeichen",
+        "Die Uhrzeit des Duschens"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Körpergröße und Alter spielen mit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stoffwechsel sind alle chemischen Vorgänge im Körper.",
+        "Der Körper baut ab, um Energie zu gewinnen.",
+        "Mit dieser Energie baut er Gewebe auf.",
+        "Bewegung und Muskeln beeinflussen ihn stark.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

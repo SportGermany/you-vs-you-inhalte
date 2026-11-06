@@ -1,0 +1,130 @@
+{
+  "id": "schlaf-b123-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft Lichttherapie gegen Winterdepression?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lichttherapie",
+    "winterdepression",
+    "innere uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn die Tage kürzer werden, fühlen sich manche Menschen über Wochen niedergeschlagen.",
+        "Bei einer Winterdepression kann helles Licht eine Behandlung sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als ein Wintertief",
+      "absaetze": [
+        "Eine Winterdepression ist eine Form der Depression, die regelmäßig in der dunklen Jahreszeit auftritt. Typisch sind Niedergeschlagenheit, großes Schlafbedürfnis und Heißhunger auf Süßes.",
+        "Im Frühjahr bessern sich die Beschwerden meist. Ein leichtes Wintertief ist dagegen häufig und noch keine Krankheit."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Lichttherapie wirkt",
+      "absaetze": [
+        "Bei der Lichttherapie sitzt man morgens vor einer speziellen, sehr hellen Lampe. Das Licht wirkt über die Augen auf die innere Uhr und die Stimmung.",
+        "Studien zeigen, dass Lichttherapie bei Winterdepression wirksam sein kann. Sie wird in Leitlinien als Behandlung genannt."
+      ],
+      "merke": "Lichttherapie kann bei Winterdepression wirksam sein.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Eine Depression gehört in ärztliche oder psychotherapeutische Hände. Lass dich beraten, bevor du eine Lampe kaufst.",
+        "Nebenwirkungen wie Kopfschmerzen oder gereizte Augen sind möglich. Wer Augenkrankheiten hat oder lichtempfindlich machende Medikamente nimmt, sollte vorher ärztlichen Rat einholen. Auch ein täglicher Spaziergang bei Tageslicht hilft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist typisch für eine Winterdepression?",
+      "art": "mc",
+      "optionen": [
+        "Sie tritt regelmäßig in der dunklen Jahreszeit auf",
+        "Sie kommt nur im Sommer",
+        "Sie dauert nur einen Tag",
+        "Sie betrifft nur Kinder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Frühjahr bessert sie sich meist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt Lichttherapie?",
+      "art": "mc",
+      "optionen": [
+        "Über die Augen auf innere Uhr und Stimmung",
+        "Über die Haut auf die Knochen",
+        "Über den Magen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man sitzt morgens vor einer hellen Lampe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein leichtes Wintertief ist immer eine Krankheit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein leichtes Tief ist häufig und normal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Kauf einer Lampe tun?",
+      "art": "mc",
+      "optionen": [
+        "Dich ärztlich beraten lassen",
+        "Die hellste Lampe ohne Rat kaufen",
+        "Nachts davor sitzen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Depression gehört in fachliche Hände."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Winterdepression tritt in der dunklen Jahreszeit auf.",
+        "Lichttherapie kann wirksam sein.",
+        "Sie wirkt über die Augen auf die innere Uhr.",
+        "Vorher fachlich beraten lassen."
+      ]
+    }
+  ]
+}

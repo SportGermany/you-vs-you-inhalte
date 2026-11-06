@@ -1,0 +1,121 @@
+{
+  "id": "haus-b123-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Gartenmöbel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gartenmoebel",
+    "reinigen",
+    "garten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Winter sind Gartenmöbel oft grau, grünlich oder fleckig.",
+        "Je nach Material brauchen sie eine andere Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Holzmöbel",
+      "absaetze": [
+        "Holz reinigst du mit lauwarmem Wasser, etwas Schmierseife und einer weichen Bürste. Bürste immer in Richtung der Holzfasern.",
+        "Ein Hochdruckreiniger kann die Oberfläche aufrauen und Fasern herauslösen. Nach dem Trocknen schützt ein passendes Öl das Holz vor Wetter."
+      ],
+      "merke": "Holz sanft mit Seifenwasser und Bürste reinigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kunststoff und Metall",
+      "absaetze": [
+        "Kunststoffmöbel reinigst du mit warmem Wasser und mildem Reiniger. Scheuermittel machen die Oberfläche rau, dann setzt sich Schmutz schneller fest.",
+        "Bei Metallmöbeln entfernst du Rost an kleinen Stellen mit einer Drahtbürste. Danach hilft ein Schutzlack gegen neuen Rost."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig lagern",
+      "absaetze": [
+        "Polster und Kissen lagerst du trocken und luftig, sonst schimmeln sie. Lass sie nach Regen gut trocknen.",
+        "Im Winter stehen Möbel am besten geschützt in Schuppen oder Keller. Wer sie draußen lässt, nutzt atmungsaktive Schutzhüllen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit reinigst du Holzmöbel?",
+      "art": "mc",
+      "optionen": [
+        "Mit Seifenwasser und weicher Bürste",
+        "Mit Stahlwolle",
+        "Mit Bleiche",
+        "Mit Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Immer in Faserrichtung bürsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist ein Hochdruckreiniger bei Holz problematisch?",
+      "art": "mc",
+      "optionen": [
+        "Er raut die Oberfläche auf",
+        "Er färbt das Holz blau",
+        "Er ist zu leise",
+        "Er macht das Holz schwerer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fasern können herausgelöst werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Polster sollten feucht gelagert werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sonst schimmeln sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Metallmöbeln gegen neuen Rost?",
+      "art": "mc",
+      "optionen": [
+        "Ein Schutzlack",
+        "Wasser",
+        "Salz",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorher Rost mit der Drahtbürste entfernen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Holz sanft mit Seifenwasser reinigen.",
+        "Kunststoff ohne Scheuermittel pflegen.",
+        "Rost an Metall früh behandeln.",
+        "Polster trocken lagern."
+      ]
+    }
+  ]
+}

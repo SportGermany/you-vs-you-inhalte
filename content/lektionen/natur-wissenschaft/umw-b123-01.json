@@ -1,0 +1,121 @@
+{
+  "id": "umw-b123-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum leuchten Glühwürmchen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Insekten",
+      "herausgeber": "Bundesamt für Naturschutz (BfN)",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gluehwuermchen",
+    "insekten",
+    "biolumineszenz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In warmen Sommernächten schweben kleine Lichter über Wiesen und Waldränder.",
+        "Glühwürmchen sind gar keine Würmer, sondern Käfer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leuchtkäfer",
+      "absaetze": [
+        "Glühwürmchen heißen auch Leuchtkäfer. In Deutschland sieht man sie vor allem im Juni und Juli. Weil sie um den Johannistag auftauchen, nennt man sie auch Johanniswürmchen.",
+        "Ihre Larven leben mehrere Jahre am Boden und fressen vor allem Schnecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kaltes Licht",
+      "absaetze": [
+        "Das Leuchten entsteht durch eine chemische Reaktion. Ein Stoff namens Luciferin reagiert mithilfe eines Enzyms mit Sauerstoff. Dabei entsteht Licht.",
+        "Fast die gesamte Energie wird zu Licht, kaum etwas zu Wärme. Fachleute nennen das Biolumineszenz."
+      ],
+      "merke": "Glühwürmchen leuchten durch eine chemische Reaktion ohne viel Wärme."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht für die Partnersuche",
+      "absaetze": [
+        "Mit ihrem Licht finden Männchen und Weibchen zueinander. Bei manchen Arten leuchten vor allem die Weibchen am Boden.",
+        "Künstliches Licht in der Nacht stört diese Partnersuche. Auch das Verschwinden naturnaher Wiesen setzt Glühwürmchen zu. Wer im Garten wenig Licht macht und Wildwuchs zulässt, hilft ihnen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Glühwürmchen?",
+      "art": "mc",
+      "optionen": [
+        "Käfer",
+        "Würmer",
+        "Schmetterlinge",
+        "Spinnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie heißen auch Leuchtkäfer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht ihr Leuchten?",
+      "art": "mc",
+      "optionen": [
+        "Durch eine chemische Reaktion",
+        "Durch kleine Batterien",
+        "Durch Sonnenlicht, das sie speichern",
+        "Durch Reibung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Luciferin reagiert mit Sauerstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Leuchten entsteht viel Wärme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist kaltes Licht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stört Glühwürmchen bei der Partnersuche?",
+      "art": "mc",
+      "optionen": [
+        "Künstliches Licht in der Nacht",
+        "Regen",
+        "Wind",
+        "Vogelgesang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wenig Licht im Garten hilft ihnen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Glühwürmchen sind Leuchtkäfer.",
+        "Ihr Licht entsteht durch eine chemische Reaktion.",
+        "Es dient der Partnersuche.",
+        "Künstliches Licht stört sie."
+      ]
+    }
+  ]
+}

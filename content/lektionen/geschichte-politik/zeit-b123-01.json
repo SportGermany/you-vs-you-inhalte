@@ -1,0 +1,121 @@
+{
+  "id": "zeit-b123-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was war die Bodenreform von 1945?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte der DDR",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bodenreform",
+    "sbz",
+    "ddr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Junkerland in Bauernhand: Mit diesem Spruch begann 1945 eine große Umverteilung.",
+        "Sie veränderte die Landwirtschaft im Osten Deutschlands für Jahrzehnte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Enteignung der Großgrundbesitzer",
+      "absaetze": [
+        "Nach dem Zweiten Weltkrieg ließ die sowjetische Besatzungsmacht in ihrer Zone eine Bodenreform durchführen. Großgrundbesitzer mit mehr als 100 Hektar wurden ohne Entschädigung enteignet.",
+        "Auch Land von Menschen, die als Kriegsverbrecher oder führende Nationalsozialisten galten, wurde eingezogen."
+      ],
+      "merke": "1945 wurden in der sowjetischen Zone Großgrundbesitzer enteignet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Land für Neubauern",
+      "absaetze": [
+        "Das Land wurde an Landarbeiter, Kleinbauern und Vertriebene verteilt. Sie wurden Neubauern genannt.",
+        "Viele Höfe waren aber zu klein und schlecht ausgestattet, um gut wirtschaften zu können. Die alten Gutsbesitzer mussten oft fliehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen bis heute",
+      "absaetze": [
+        "Ab 1952 drängte die DDR die Bauern in landwirtschaftliche Genossenschaften, die LPG. Das geschah oft mit großem Druck.",
+        "Nach der Wiedervereinigung wurden die Enteignungen von 1945 bis 1949 nicht rückgängig gemacht. Das Bundesverfassungsgericht bestätigte diese Regelung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ließ die Bodenreform durchführen?",
+      "art": "mc",
+      "optionen": [
+        "Die sowjetische Besatzungsmacht",
+        "Die USA",
+        "Die Bundesregierung in Bonn",
+        "Die Kirchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie fand in der sowjetischen Zone statt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welcher Größe wurden Höfe enteignet?",
+      "art": "mc",
+      "optionen": [
+        "Ab mehr als 100 Hektar",
+        "Ab 1 Hektar",
+        "Ab 10.000 Hektar",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Entschädigung gab es nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Enteignungen von 1945 wurden nach 1990 rückgängig gemacht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie blieben bestehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hießen die Empfänger des Landes?",
+      "art": "mc",
+      "optionen": [
+        "Neubauern",
+        "Altbauern",
+        "Junker",
+        "Gutsherren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Höfe waren zu klein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "1945 wurden Großgrundbesitzer enteignet.",
+        "Das Land ging an Neubauern.",
+        "Später folgte die Zwangskollektivierung in LPGs.",
+        "Die Enteignungen blieben nach 1990 bestehen."
+      ]
+    }
+  ]
+}

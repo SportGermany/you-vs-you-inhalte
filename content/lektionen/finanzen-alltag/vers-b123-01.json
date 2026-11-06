@@ -1,0 +1,121 @@
+{
+  "id": "vers-b123-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was darf ein Vermieter in der Selbstauskunft fragen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Deutscher Mieterbund",
+      "url": "https://www.mieterbund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "selbstauskunft",
+    "wohnungssuche",
+    "datenschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei der Wohnungssuche bekommst du oft einen Fragebogen: die Mieterselbstauskunft.",
+        "Nicht jede Frage darin ist erlaubt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erlaubte Fragen",
+      "absaetze": [
+        "Ein Vermieter darf wissen, ob du die Miete bezahlen kannst. Fragen nach Einkommen, Beruf und Arbeitgeber sind deshalb meist zulässig.",
+        "Auch die Zahl der Personen, die einziehen, und geplante Haustiere darf er erfragen. Bei erlaubten Fragen musst du ehrlich antworten."
+      ],
+      "merke": "Fragen zur Zahlungsfähigkeit sind meist erlaubt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unzulässige Fragen",
+      "absaetze": [
+        "Fragen nach Religion, Partei, Schwangerschaft, sexueller Orientierung oder Familienplanung sind nicht erlaubt.",
+        "Solche Fragen musst du nicht beantworten. Nach verbreiteter Rechtsauffassung darfst du darauf sogar unwahr antworten, ohne Nachteile befürchten zu müssen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Datenschutz",
+      "absaetze": [
+        "Eine Selbstauskunft und Unterlagen wie Gehaltsnachweise darf der Vermieter in der Regel erst verlangen, wenn du ernsthaft Interesse an der Wohnung hast. Das ist meist nach der Besichtigung.",
+        "Schwärze auf Kontoauszügen und Gehaltszetteln, was nicht nötig ist. Bekommst du die Wohnung nicht, müssen deine Daten gelöscht werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Frage ist in der Selbstauskunft meist erlaubt?",
+      "art": "mc",
+      "optionen": [
+        "Nach dem Einkommen",
+        "Nach der Religion",
+        "Nach einer Schwangerschaft",
+        "Nach der Parteizugehörigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es geht um die Zahlungsfähigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Musst du unzulässige Fragen beantworten?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer",
+        "Nur schriftlich",
+        "Nur mündlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Solche Fragen verletzen deine Privatsphäre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bekommst du die Wohnung nicht, müssen deine Daten gelöscht werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das verlangt der Datenschutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann darf der Vermieter Unterlagen wie Gehaltsnachweise meist verlangen?",
+      "art": "mc",
+      "optionen": [
+        "Nach der Besichtigung bei ernstem Interesse",
+        "Schon vor dem ersten Kontakt",
+        "Nie",
+        "Erst nach Vertragsende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorher braucht er sie meist nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fragen zur Zahlungsfähigkeit sind erlaubt.",
+        "Fragen zu Religion oder Schwangerschaft nicht.",
+        "Unterlagen meist erst nach der Besichtigung.",
+        "Bei Absage müssen Daten gelöscht werden."
+      ]
+    }
+  ]
+}

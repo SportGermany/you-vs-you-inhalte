@@ -1,0 +1,121 @@
+{
+  "id": "koer-b123-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was passiert, wenn du dich verschluckst?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Erste Hilfe",
+      "herausgeber": "Deutsches Rotes Kreuz",
+      "url": "https://www.drk.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "verschlucken",
+    "kehldeckel",
+    "erste hilfe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Krümel gerät in die falsche Röhre, und schon musst du heftig husten.",
+        "Dahinter steckt ein wichtiger Schutzmechanismus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Weiche im Hals",
+      "absaetze": [
+        "Im Hals kreuzen sich Luftweg und Speiseweg. Beim Schlucken klappt der Kehldeckel über den Eingang der Luftröhre. So rutscht das Essen in die Speiseröhre.",
+        "Sprichst oder lachst du beim Essen, kann die Weiche zu spät schließen. Dann gelangt etwas in die Luftröhre."
+      ],
+      "merke": "Der Kehldeckel schützt die Luftröhre beim Schlucken."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Husten als Schutz",
+      "absaetze": [
+        "Die Luftröhre reagiert sofort mit einem starken Hustenreflex. Er schleudert Fremdkörper meist wieder heraus.",
+        "Lass jemanden, der sich verschluckt hat und noch husten kann, weiter husten. Klopf nicht vorschnell auf den Rücken, solange das Husten wirkt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es ernst wird",
+      "absaetze": [
+        "Kann jemand nicht mehr husten, sprechen oder atmen, ist das ein Notfall. Ruf die 112.",
+        "Ersthelfer geben dann kräftige Schläge zwischen die Schulterblätter. Hilft das nicht, folgen Oberbauchkompressionen. Für Babys gelten eigene Handgriffe. Ein Erste-Hilfe-Kurs zeigt, wie es richtig geht."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt die Luftröhre beim Schlucken?",
+      "art": "mc",
+      "optionen": [
+        "Der Kehldeckel",
+        "Die Zunge allein",
+        "Die Zähne",
+        "Die Nase"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er klappt über den Eingang der Luftröhre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du tun, wenn jemand nach dem Verschlucken noch husten kann?",
+      "art": "mc",
+      "optionen": [
+        "Weiter husten lassen",
+        "Sofort kräftig auf den Rücken schlagen",
+        "Wasser geben",
+        "Hinlegen lassen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Hustenreflex wirkt meist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kann jemand nicht mehr atmen, ist das ein Notfall.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ruf sofort die 112."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum verschluckt man sich beim Lachen leichter?",
+      "art": "mc",
+      "optionen": [
+        "Die Weiche im Hals schließt zu spät",
+        "Das Essen wird größer",
+        "Der Magen ist voll",
+        "Die Luft wird kälter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sprechen und Lachen stören das Schlucken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Kehldeckel trennt Luft- und Speiseweg.",
+        "Husten befördert Fremdkörper meist heraus.",
+        "Wer noch hustet, soll weiter husten.",
+        "Bei Atemnot sofort 112 und Erste Hilfe."
+      ]
+    }
+  ]
+}

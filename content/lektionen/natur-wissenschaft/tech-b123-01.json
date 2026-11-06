@@ -1,0 +1,121 @@
+{
+  "id": "tech-b123-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Elektrozaun?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "elektrozaun",
+    "landwirtschaft",
+    "strom"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Weide hält oft nur ein dünner Draht Kühe oder Pferde zurück.",
+        "Das Geheimnis: Er steht unter Strom, aber auf besondere Weise."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurze Impulse",
+      "absaetze": [
+        "Ein Weidezaungerät schickt etwa einmal pro Sekunde einen sehr kurzen Stromimpuls durch den Draht. Die Spannung ist hoch, mehrere tausend Volt.",
+        "Die Energie jedes Impulses ist aber sehr gering. Der Strom fließt nur für einen Bruchteil einer Sekunde."
+      ],
+      "merke": "Ein Elektrozaun gibt kurze Impulse mit hoher Spannung, aber wenig Energie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Stromkreis",
+      "absaetze": [
+        "Berührt ein Tier den Draht, fließt der Strom durch seinen Körper in den Boden. Das Gerät ist ebenfalls mit dem Boden verbunden. So schließt sich der Stromkreis.",
+        "Das Tier spürt einen unangenehmen Schlag. Es lernt schnell, Abstand zum Zaun zu halten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit",
+      "absaetze": [
+        "Für gesunde Menschen ist ein korrekt gebauter Elektrozaun schmerzhaft, aber nicht gefährlich. Fass ihn trotzdem nie absichtlich an.",
+        "Menschen mit Herzschrittmacher sollten besonders vorsichtig sein. Elektrozäune an Wegen müssen mit Warnschildern gekennzeichnet sein. Halte Kinder fern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft gibt ein Weidezaungerät etwa einen Impuls ab?",
+      "art": "mc",
+      "optionen": [
+        "Etwa einmal pro Sekunde",
+        "Ununterbrochen",
+        "Einmal pro Stunde",
+        "Nur nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jeder Impuls ist sehr kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schließt sich der Stromkreis?",
+      "art": "mc",
+      "optionen": [
+        "Über das Tier und den Boden",
+        "Über die Luft",
+        "Über das Gras allein",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch das Gerät ist mit dem Boden verbunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein korrekter Elektrozaun ist für gesunde Menschen meist schmerzhaft, aber nicht gefährlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Trotzdem nie absichtlich anfassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte besonders vorsichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Herzschrittmacher",
+        "Menschen mit Brille",
+        "Linkshänder",
+        "Menschen mit Gummistiefeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Halte auch Kinder fern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Elektrozaun gibt kurze Stromimpulse ab.",
+        "Die Spannung ist hoch, die Energie gering.",
+        "Der Strom fließt über Tier und Boden.",
+        "Nie absichtlich anfassen."
+      ]
+    }
+  ]
+}

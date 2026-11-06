@@ -1,0 +1,121 @@
+{
+  "id": "all-b123-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was haben Sternzeichen mit Sternbildern zu tun?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Himmelsbeobachtung",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sternzeichen",
+    "tierkreis",
+    "astrologie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du bist Löwe oder Fisch? Dein Sternzeichen hängt vom Geburtsdatum ab.",
+        "Mit dem echten Himmel hat es heute aber nur noch wenig zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Tierkreis",
+      "absaetze": [
+        "Von der Erde aus scheint die Sonne im Lauf eines Jahres durch eine Reihe von Sternbildern zu wandern. Diese Bahn nennt man Ekliptik.",
+        "Die Sternbilder entlang dieser Bahn bilden den Tierkreis. Die Astrologie teilte ihn vor rund 2.000 Jahren in zwölf gleich große Abschnitte ein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Himmel hat sich verschoben",
+      "absaetze": [
+        "Die Erdachse taumelt sehr langsam wie ein Kreisel. Ein Umlauf dauert etwa 26.000 Jahre.",
+        "Deshalb steht die Sonne an deinem Geburtstag heute meist in einem anderen Sternbild als dein Sternzeichen behauptet. Die Verschiebung beträgt etwa ein ganzes Sternbild."
+      ],
+      "merke": "Sternzeichen und tatsächliches Sternbild stimmen heute meist nicht überein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein dreizehntes Sternbild",
+      "absaetze": [
+        "Die Sonne zieht außerdem durch das Sternbild Schlangenträger. In der Astrologie kommt es nicht vor.",
+        "Astronomie ist eine Naturwissenschaft. Astrologie, also die Deutung von Charakter aus Sternzeichen, hat dagegen keine wissenschaftliche Grundlage."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die scheinbare Bahn der Sonne am Himmel?",
+      "art": "mc",
+      "optionen": [
+        "Ekliptik",
+        "Äquator",
+        "Meridian",
+        "Horizont"
+      ],
+      "richtig": 0,
+      "erklaerung": "Entlang dieser Bahn liegt der Tierkreis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum stimmen Sternzeichen und Sternbild heute meist nicht überein?",
+      "art": "mc",
+      "optionen": [
+        "Die Erdachse taumelt langsam",
+        "Die Sterne sind erloschen",
+        "Der Kalender wurde verboten",
+        "Die Sonne ist gewachsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Umlauf dauert etwa 26.000 Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Sonne zieht auch durch das Sternbild Schlangenträger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In der Astrologie kommt es nicht vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hat Astrologie eine wissenschaftliche Grundlage?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, eine sehr gute",
+        "Nur bei Löwen",
+        "Nur im Winter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Astronomie ist dagegen eine Naturwissenschaft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Tierkreis liegt entlang der Sonnenbahn.",
+        "Durch das Taumeln der Erdachse hat er sich verschoben.",
+        "Die Sonne zieht durch dreizehn Sternbilder.",
+        "Astrologie ist keine Wissenschaft."
+      ]
+    }
+  ]
+}
