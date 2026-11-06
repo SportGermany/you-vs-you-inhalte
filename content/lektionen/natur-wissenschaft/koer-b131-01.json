@@ -1,0 +1,122 @@
+{
+  "id": "koer-b131-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum werden Augen rot?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "augen",
+    "bindehaut",
+    "reizung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer kurzen Nacht, nach dem Schwimmbad oder bei Heuschnupfen: Die Augen sind plötzlich rot.",
+        "Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erweiterte Äderchen",
+      "absaetze": [
+        "Über dem Weiß des Auges liegt die Bindehaut. Darin verlaufen feine Blutgefäße, die normalerweise kaum zu sehen sind.",
+        "Wird das Auge gereizt, erweitern sich diese Gefäße und werden stärker durchblutet. Dann sieht das Auge rot aus."
+      ],
+      "merke": "Rote Augen entstehen durch erweiterte Gefäße in der Bindehaut."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Ursachen",
+      "absaetze": [
+        "Oft stecken harmlose Gründe dahinter: Müdigkeit, trockene Luft, langes Arbeiten am Bildschirm, Rauch oder Chlorwasser.",
+        "Auch Allergien und Bindehautentzündungen machen die Augen rot. Eine Bindehautentzündung durch Viren oder Bakterien kann ansteckend sein, deshalb Hände waschen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann zum Arzt",
+      "absaetze": [
+        "Bei starken Schmerzen, Sehstörungen oder großer Lichtempfindlichkeit solltest du zügig eine Augenarztpraxis aufsuchen. Das gilt auch nach einer Verletzung.",
+        "Ein einzelner roter Fleck nach Husten oder Pressen ist meist ein harmloser Bluterguss. Er verschwindet nach einigen Tagen von selbst."
+      ],
+      "merke": "Bei Schmerzen oder Sehstörungen zur Augenarztpraxis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sehen gereizte Augen rot aus?",
+      "art": "mc",
+      "optionen": [
+        "Gefäße in der Bindehaut erweitern sich",
+        "Die Iris färbt sich um",
+        "Die Pupille wird größer",
+        "Der Augapfel blutet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden stärker durchblutet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Ursache für rote Augen ist häufig harmlos?",
+      "art": "mc",
+      "optionen": [
+        "Müdigkeit oder trockene Luft",
+        "Ein Netzhautriss",
+        "Grüner Star",
+        "Eine Hirnblutung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Chlorwasser reizt die Augen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Bindehautentzündung durch Viren kann ansteckend sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Gründliches Händewaschen hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du zügig in eine Augenarztpraxis?",
+      "art": "mc",
+      "optionen": [
+        "Bei starken Schmerzen oder Sehstörungen",
+        "Nach einem Kinobesuch",
+        "Bei leicht müden Augen am Abend",
+        "Nach dem Gähnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch nach Verletzungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rote Augen entstehen durch erweiterte Gefäße.",
+        "Oft sind Müdigkeit oder Reizungen die Ursache.",
+        "Bindehautentzündungen können ansteckend sein.",
+        "Bei Schmerzen oder Sehstörungen zum Arzt."
+      ]
+    }
+  ]
+}

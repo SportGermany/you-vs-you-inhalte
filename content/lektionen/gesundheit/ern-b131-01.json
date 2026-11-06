@@ -1,0 +1,124 @@
+{
+  "id": "ern-b131-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Teff?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "teff",
+    "getreide",
+    "glutenfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Äthiopien gehört es zu fast jeder Mahlzeit, bei uns ist es noch eher unbekannt.",
+        "Teff ist ein winziges Getreide mit großer Bedeutung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das kleinste Getreide",
+      "absaetze": [
+        "Teff ist ein Süßgras aus Äthiopien und Eritrea. Seine Körner gehören zu den kleinsten aller Getreidearten.",
+        "In Äthiopien wird daraus Injera gebacken. Das ist ein großer, säuerlicher Fladen, der zugleich als Teller und Besteck dient."
+      ],
+      "merke": "Teff ist ein Getreide aus Äthiopien."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Weil die Körner so klein sind, wird meist das ganze Korn mit Schale gegessen. Teff liefert deshalb viele Ballaststoffe.",
+        "Dazu kommen Mineralstoffe wie Eisen und Kalzium. Teff ist von Natur aus glutenfrei und eignet sich für Menschen mit Zöliakie."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Küche",
+      "absaetze": [
+        "Hierzulande gibt es Teff als Mehl, Flocken oder ganze Körner. Das Mehl eignet sich für Pfannkuchen, Brot und Gebäck.",
+        "Die Körner kochst du ähnlich wie Hirse zu Brei oder Beilage. Teff ist bei uns noch teuer, weil er meist importiert wird."
+      ],
+      "merke": "Teff gibt es als Mehl, Flocken und Körner."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Teff?",
+      "art": "mc",
+      "optionen": [
+        "Aus Äthiopien und Eritrea",
+        "Aus Kanada",
+        "Aus Japan",
+        "Aus Island"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort ist es ein Grundnahrungsmittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird in Äthiopien aus Teff gebacken?",
+      "art": "mc",
+      "optionen": [
+        "Injera, ein säuerlicher Fladen",
+        "Baguette",
+        "Brezeln",
+        "Pizza"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er dient zugleich als Teller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Teff enthält von Natur aus Gluten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Teff ist glutenfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum liefert Teff viele Ballaststoffe?",
+      "art": "mc",
+      "optionen": [
+        "Meist wird das ganze Korn gegessen",
+        "Er wird mit Zucker gemischt",
+        "Er wächst unter Wasser",
+        "Er ist künstlich angereichert"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die winzigen Körner werden kaum geschält."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Teff ist ein winziges Getreide aus Äthiopien.",
+        "Daraus wird der Fladen Injera gebacken.",
+        "Teff ist glutenfrei und ballaststoffreich.",
+        "Bei uns gibt es Teff als Mehl, Flocken und Körner."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b131-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Sind Blutzuckerspitzen bei Gesunden schädlich?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wissenschaft und Ernährung",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blutzucker",
+    "glukosesensor",
+    "trends"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In sozialen Medien zeigen Menschen ihre Blutzuckerkurven vom Sensor am Oberarm.",
+        "Jede Spitze nach dem Essen wird dort als Gefahr dargestellt. Zu Recht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Anstieg ist normal",
+      "absaetze": [
+        "Nach einer Mahlzeit mit Kohlenhydraten steigt der Blutzucker an. Bei gesunden Menschen schüttet die Bauchspeicheldrüse dann Insulin aus, und der Wert sinkt wieder.",
+        "Diese Schwankungen sind ein ganz normaler Teil des Stoffwechsels. Wie hoch der Anstieg ausfällt, ist von Mensch zu Mensch verschieden."
+      ],
+      "merke": "Ein Anstieg des Blutzuckers nach dem Essen ist normal."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Forschung weiß",
+      "absaetze": [
+        "Bei Diabetes sind dauerhaft hohe Werte nachweislich schädlich. Ob einzelne Spitzen bei Gesunden langfristig schaden, ist dagegen noch unklar.",
+        "Fachgesellschaften sehen keinen Nutzen darin, dass gesunde Menschen ihren Blutzucker ständig messen. Die vielen Zahlen können eher verunsichern."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewährte Grundsätze",
+      "absaetze": [
+        "Ballaststoffe, Eiweiß und Fett in einer Mahlzeit lassen den Blutzucker langsamer steigen. Ein kurzer Spaziergang nach dem Essen kann ihn ebenfalls dämpfen.",
+        "Wer Durst, häufiges Wasserlassen oder starke Müdigkeit bemerkt, sollte den Blutzucker ärztlich prüfen lassen."
+      ],
+      "merke": "Ballaststoffe und Bewegung dämpfen den Anstieg.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei Gesunden nach einer kohlenhydratreichen Mahlzeit?",
+      "art": "mc",
+      "optionen": [
+        "Der Blutzucker steigt und sinkt dann wieder",
+        "Er bleibt völlig gleich",
+        "Er steigt dauerhaft",
+        "Er fällt sofort stark ab"
+      ],
+      "richtig": 0,
+      "erklaerung": "Insulin sorgt dafür, dass er wieder sinkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist belegt, dass einzelne Spitzen bei Gesunden langfristig schaden?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das ist noch unklar",
+        "Ja, eindeutig",
+        "Nur bei Kindern",
+        "Nur am Morgen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Diabetes ist die Lage anders."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Spaziergang nach dem Essen kann den Blutzuckeranstieg dämpfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Die Muskeln nehmen Zucker auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welchen Zeichen solltest du den Blutzucker ärztlich prüfen lassen?",
+      "art": "mc",
+      "optionen": [
+        "Starker Durst und häufiges Wasserlassen",
+        "Gute Laune",
+        "Ein ruhiger Schlaf",
+        "Kalte Füße im Winter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das können Hinweise auf Diabetes sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Anstieg nach dem Essen ist normal.",
+        "Ob Spitzen bei Gesunden schaden, ist unklar.",
+        "Ständiges Messen bringt Gesunden wohl keinen Nutzen.",
+        "Ballaststoffe und Bewegung dämpfen den Anstieg.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

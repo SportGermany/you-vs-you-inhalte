@@ -1,0 +1,128 @@
+{
+  "id": "haus-b131-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wirst du Sperrmüll richtig los?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Abfall und Ressourcen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sperrmuell",
+    "entsorgung",
+    "umzug"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das alte Sofa, der kaputte Schrank, die durchgelegene Matratze: Irgendwann muss das raus.",
+        "Einfach an die Straße stellen ist aber keine gute Idee."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Sperrmüll ist",
+      "absaetze": [
+        "Sperrmüll sind große Gegenstände aus dem Haushalt, die nicht in die Mülltonne passen. Dazu gehören Möbel, Matratzen, Teppiche und große Spielgeräte.",
+        "Elektrogeräte, Bauschutt und Autoreifen gehören meist nicht dazu. Für sie gibt es eigene Sammelwege, etwa den Wertstoffhof."
+      ],
+      "merke": "Sperrmüll sind große Haushaltsgegenstände wie Möbel und Matratzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So läuft die Abholung",
+      "absaetze": [
+        "Die Abholung organisiert deine Stadt oder dein Landkreis. Du meldest sie meist online oder telefonisch an und bekommst einen Termin.",
+        "In vielen Orten ist eine bestimmte Menge im Jahr kostenlos, anderswo kostet sie eine Gebühr. Alternativ kannst du die Sachen selbst zum Wertstoffhof bringen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst weitergeben, dann wegwerfen",
+      "absaetze": [
+        "Gut erhaltene Möbel freuen oft noch andere. Verschenken über Nachbarschaftsportale oder Sozialkaufhäuser schont Ressourcen.",
+        "Stell Sperrmüll nicht ohne Termin an die Straße. Das gilt vielerorts als illegale Müllentsorgung und kann ein Bußgeld kosten."
+      ],
+      "merke": "Sperrmüll nie ohne Termin an die Straße stellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört typischerweise zum Sperrmüll?",
+      "art": "mc",
+      "optionen": [
+        "Möbel und Matratzen",
+        "Alte Handys",
+        "Bauschutt",
+        "Altöl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Elektrogeräte haben eigene Sammelwege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer organisiert die Sperrmüllabholung?",
+      "art": "mc",
+      "optionen": [
+        "Die Stadt oder der Landkreis",
+        "Die Post",
+        "Die Krankenkasse",
+        "Der Vermieter immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Anmeldung läuft meist online."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sperrmüll darfst du jederzeit ohne Termin an die Straße stellen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das kann als illegale Entsorgung gelten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist mit gut erhaltenen Möbeln eine gute Idee?",
+      "art": "mc",
+      "optionen": [
+        "Sie verschenken oder spenden",
+        "Sie im Wald abstellen",
+        "Sie verbrennen",
+        "Sie in die Biotonne werfen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden Ressourcen geschont."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sperrmüll sind große Haushaltsgegenstände.",
+        "Die Abholung meldest du bei Stadt oder Landkreis an.",
+        "Gut erhaltene Dinge lieber weitergeben.",
+        "Nie ohne Termin an die Straße stellen."
+      ]
+    }
+  ]
+}

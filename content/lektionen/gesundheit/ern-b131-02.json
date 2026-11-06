@@ -1,0 +1,130 @@
+{
+  "id": "ern-b131-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Müsli?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "muesli",
+    "fruehstueck",
+    "zucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Müsli gilt als das gesunde Frühstück schlechthin.",
+        "Doch im Supermarktregal steckt oft mehr Süßigkeit als Vollkorn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Grundidee",
+      "absaetze": [
+        "Ein klassisches Müsli besteht aus Getreideflocken, Nüssen, Samen und Obst. Erfunden hat es der Schweizer Arzt Maximilian Bircher-Benner um 1900.",
+        "Vollkornflocken liefern Ballaststoffe, die lange satt machen. Nüsse und Samen bringen gute Fette, frisches Obst Vitamine."
+      ],
+      "merke": "Ein Grundmüsli aus Flocken, Nüssen und Obst ist eine gute Wahl.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Zuckerfalle",
+      "absaetze": [
+        "Viele Fertigmüslis enthalten viel Zucker. Knuspermüslis werden außerdem mit Fett geröstet und sind sehr energiereich.",
+        "Wirf einen Blick auf die Nährwerttabelle. Zucker versteckt sich auch hinter Namen wie Glukosesirup, Honig oder Dextrose."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selbst mischen",
+      "absaetze": [
+        "Am einfachsten mischst du dein Müsli selbst. Haferflocken als Basis, dazu Nüsse, Samen und frisches Obst der Saison.",
+        "Mit Joghurt, Milch oder einem Pflanzendrink wird ein ausgewogenes Frühstück daraus. Süße liefert das Obst oft schon von selbst."
+      ],
+      "merke": "Selbst gemischtes Müsli enthält meist weniger Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erfand das Müsli?",
+      "art": "mc",
+      "optionen": [
+        "Der Schweizer Arzt Bircher-Benner",
+        "Ein italienischer Koch",
+        "Ein amerikanischer Bäcker",
+        "Ein japanischer Mönch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daher kommt der Name Birchermüsli."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Knuspermüslis sind meist fettarm und zuckerfrei.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie werden oft mit Fett und Zucker geröstet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Name auf der Zutatenliste steht für Zucker?",
+      "art": "mc",
+      "optionen": [
+        "Glukosesirup",
+        "Haferflocken",
+        "Leinsamen",
+        "Walnüsse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Dextrose und Honig sind Zucker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine gute Basis für selbst gemischtes Müsli?",
+      "art": "mc",
+      "optionen": [
+        "Haferflocken",
+        "Schokoladenstückchen",
+        "Puffreis mit Zuckerguss",
+        "Kekse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu passen Nüsse und frisches Obst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Grundmüsli aus Flocken, Nüssen und Obst ist ausgewogen.",
+        "Viele Fertigmüslis enthalten viel Zucker.",
+        "Knuspermüslis sind besonders energiereich.",
+        "Selbst mischen ist oft die bessere Wahl."
+      ]
+    }
+  ]
+}

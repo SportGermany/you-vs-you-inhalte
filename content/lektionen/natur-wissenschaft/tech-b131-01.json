@@ -1,0 +1,128 @@
+{
+  "id": "tech-b131-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Powerbank?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "powerbank",
+    "akku",
+    "laden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Unterwegs ist der Handyakku leer, doch die Powerbank rettet den Tag.",
+        "Was steckt in dem kleinen Kasten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Akku zum Mitnehmen",
+      "absaetze": [
+        "In einer Powerbank stecken meist Lithium-Ionen-Akkus, ähnlich wie im Handy. Eine Elektronik steuert das Laden und Entladen.",
+        "Sie wandelt die Spannung des Akkus so um, dass sie zum USB-Anschluss passt. Schutzschaltungen verhindern Überladen und Kurzschlüsse."
+      ],
+      "merke": "Eine Powerbank ist ein Akku mit Ladeelektronik."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Angaben bedeuten",
+      "absaetze": [
+        "Die Kapazität wird meist in Milliamperestunden angegeben. Wegen der Spannungsumwandlung geht dabei ein Teil der Energie als Wärme verloren.",
+        "Eine Powerbank mit 10.000 Milliamperestunden lädt ein Handy mit gleicher Angabe deshalb nicht ganz einmal voll. Aussagekräftiger ist die Angabe in Wattstunden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher unterwegs",
+      "absaetze": [
+        "Im Flugzeug gehören Powerbanks ins Handgepäck, nicht in den Koffer. Für größere Modelle gelten Obergrenzen, und viele Airlines schränken die Nutzung an Bord ein.",
+        "Kaufe Geräte mit Prüfzeichen von bekannten Herstellern. Beschädigte oder aufgeblähte Powerbanks solltest du nicht mehr nutzen und fachgerecht entsorgen."
+      ],
+      "merke": "Powerbanks gehören im Flugzeug ins Handgepäck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt meist in einer Powerbank?",
+      "art": "mc",
+      "optionen": [
+        "Lithium-Ionen-Akkus",
+        "Eine Bleibatterie",
+        "Ein kleiner Motor",
+        "Ein Solarpanel immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ähnlich wie im Handy."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Powerbank mit 10.000 mAh lädt ein Handy mit 10.000 mAh immer vollständig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei der Umwandlung geht Energie verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin gehört eine Powerbank im Flugzeug?",
+      "art": "mc",
+      "optionen": [
+        "Ins Handgepäck",
+        "In den aufgegebenen Koffer",
+        "In die Toilette",
+        "Gar nicht mit"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kann die Crew bei Problemen eingreifen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du mit einer aufgeblähten Powerbank?",
+      "art": "mc",
+      "optionen": [
+        "Nicht mehr nutzen und fachgerecht entsorgen",
+        "Weiter benutzen",
+        "In den Hausmüll werfen",
+        "Im Backofen trocknen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kann gefährlich werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Powerbank ist ein Akku mit Ladeelektronik.",
+        "Bei der Umwandlung geht Energie verloren.",
+        "Im Flugzeug gehört sie ins Handgepäck.",
+        "Aufgeblähte Geräte fachgerecht entsorgen."
+      ]
+    }
+  ]
+}

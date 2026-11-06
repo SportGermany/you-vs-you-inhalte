@@ -1,0 +1,140 @@
+{
+  "id": "supp-b131-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Wann sind Fluoridtabletten sinnvoll?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fluorid",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fluorid",
+    "karies",
+    "kinder"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher bekamen fast alle Babys Fluoridtabletten. Heute raten viele Fachleute stattdessen zur Zahnpasta.",
+        "Was hat sich verändert?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fluorid schützt die Zähne",
+      "absaetze": [
+        "Fluorid macht den Zahnschmelz widerstandsfähiger gegen Säuren. Damit beugt es Karies vor.",
+        "Am besten wirkt es direkt am Zahn, also über fluoridhaltige Zahnpasta. Auch Speisesalz mit Fluorid trägt zum Schutz bei."
+      ],
+      "merke": "Fluorid härtet den Zahnschmelz gegen Karies.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zahnpasta oder Tablette",
+      "absaetze": [
+        "Kinderärzte und Zahnärzte haben ihre Empfehlungen für Babys inzwischen angeglichen. Meist wird Zahnpasta mit Fluorid ab dem ersten Zahn empfohlen.",
+        "Tabletten kommen vor allem dann infrage, wenn keine fluoridhaltige Zahnpasta verwendet wird. Was für dein Kind passt, besprichst du in der Praxis."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht doppelt",
+      "absaetze": [
+        "Zu viel Fluorid im Kindesalter kann weiße Flecken auf den bleibenden Zähnen verursachen. Das nennt man Fluorose.",
+        "Deshalb sollten verschiedene Fluoridquellen nicht unbedacht kombiniert werden. Für Erwachsene sind Tabletten in der Regel nicht nötig."
+      ],
+      "merke": "Fluoridquellen nicht unbedacht kombinieren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Kläre mit Kinder- oder Zahnarztpraxis, welche Fluoridquelle für dein Kind passt.",
+        "Kombiniere Tabletten, Fluoridsalz und Zahnpasta nicht ohne Rücksprache.",
+        "Erwachsene brauchen in der Regel keine Fluoridtabletten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovor schützt Fluorid die Zähne?",
+      "art": "mc",
+      "optionen": [
+        "Vor Karies",
+        "Vor Zahnfehlstellungen",
+        "Vor Zahnstein allein",
+        "Vor Weisheitszähnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es härtet den Zahnschmelz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wirkt Fluorid am besten?",
+      "art": "mc",
+      "optionen": [
+        "Direkt am Zahn, etwa über Zahnpasta",
+        "Nur im Magen",
+        "Nur im Blut",
+        "In den Haaren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist Zahnpasta so wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu viel Fluorid kann bei Kindern weiße Flecken auf den Zähnen verursachen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das nennt man Fluorose."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kommen Fluoridtabletten vor allem infrage?",
+      "art": "mc",
+      "optionen": [
+        "Wenn keine fluoridhaltige Zahnpasta genutzt wird",
+        "Immer zusätzlich zu allem",
+        "Nur bei Erwachsenen",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das besprichst du am besten in der Praxis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fluorid schützt vor Karies.",
+        "Es wirkt am besten direkt am Zahn.",
+        "Für Babys wird meist Zahnpasta mit Fluorid empfohlen.",
+        "Fluoridquellen nicht unbedacht kombinieren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "geld-b131-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie schützt dich Käuferschutz beim Online-Bezahlen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kaeuferschutz",
+    "online-shopping",
+    "zahlung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Ware kommt nicht an oder ist ganz anders als beschrieben.",
+        "Ob du dein Geld zurückbekommst, hängt stark davon ab, wie du bezahlt hast."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bezahldienste und Kreditkarten",
+      "absaetze": [
+        "Viele Bezahldienste wie PayPal bieten einen Käuferschutz. Kommt die Ware nicht oder ist sie erheblich mangelhaft, kannst du innerhalb einer Frist einen Antrag stellen.",
+        "Bei Kreditkarten gibt es das sogenannte Chargeback-Verfahren. Die Bank kann eine Zahlung unter bestimmten Bedingungen zurückbuchen."
+      ],
+      "merke": "Bezahldienste und Kreditkarten bieten oft Käuferschutz."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lastschrift und Überweisung",
+      "absaetze": [
+        "Eine SEPA-Lastschrift kannst du innerhalb von acht Wochen ohne Angabe von Gründen zurückholen. Das ist ein starker Schutz.",
+        "Eine Überweisung lässt sich dagegen meist nicht zurückholen. Bei Vorkasse an unbekannte Händler ist das Geld deshalb oft verloren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Fallen",
+      "absaetze": [
+        "Zahlungen über die Funktion für Freunde und Familie sind vom Käuferschutz ausgeschlossen. Betrüger bitten deshalb gern genau darum.",
+        "Sei misstrauisch, wenn ein Verkäufer nur Überweisung oder Geschenkkarten akzeptiert. Kauf auf Rechnung ist für dich am sichersten, wenn er angeboten wird."
+      ],
+      "merke": "Zahlungen an Freunde und Familie haben keinen Käuferschutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange kannst du eine SEPA-Lastschrift ohne Grund zurückholen?",
+      "art": "mc",
+      "optionen": [
+        "Acht Wochen",
+        "Einen Tag",
+        "Ein Jahr",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist ein starker Schutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Überweisung lässt sich meist einfach zurückholen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei Überweisungen ist das Geld oft verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zahlungsart ist vom Käuferschutz ausgeschlossen?",
+      "art": "mc",
+      "optionen": [
+        "Zahlungen an Freunde und Familie",
+        "Kreditkartenzahlungen",
+        "Kauf auf Rechnung",
+        "Lastschrift"
+      ],
+      "richtig": 0,
+      "erklaerung": "Betrüger bitten gern genau darum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zahlungsart ist für dich besonders sicher?",
+      "art": "mc",
+      "optionen": [
+        "Kauf auf Rechnung",
+        "Vorkasse per Überweisung",
+        "Geschenkkarten",
+        "Bargeld per Post"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du zahlst erst, wenn die Ware da ist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bezahldienste und Kreditkarten bieten oft Käuferschutz.",
+        "Lastschriften lassen sich acht Wochen lang zurückholen.",
+        "Überweisungen sind kaum rückholbar.",
+        "Zahlungen an Freunde und Familie sind nicht geschützt."
+      ]
+    }
+  ]
+}

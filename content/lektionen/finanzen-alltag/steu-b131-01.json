@@ -1,0 +1,122 @@
+{
+  "id": "steu-b131-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wozu dient eine Umsatzsteuer-Identifikationsnummer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "umsatzsteuer",
+    "selbststaendig",
+    "eu-binnenmarkt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Steuernummer, Steuer-ID, Umsatzsteuer-ID: Gerade wer sich selbstständig macht, verliert leicht den Überblick.",
+        "Die Umsatzsteuer-ID hat eine ganz bestimmte Aufgabe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für Geschäfte in der EU",
+      "absaetze": [
+        "Die Umsatzsteuer-Identifikationsnummer brauchen Unternehmen vor allem für Geschäfte mit Firmen in anderen EU-Staaten. In Deutschland beginnt sie mit DE, gefolgt von neun Ziffern.",
+        "Bei vielen solchen Geschäften zahlt nicht der Verkäufer, sondern der Käufer die Umsatzsteuer in seinem Land. Die Nummer zeigt, dass beide Seiten Unternehmen sind."
+      ],
+      "merke": "Die Umsatzsteuer-ID dient vor allem Geschäften innerhalb der EU."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht verwechseln",
+      "absaetze": [
+        "Die Steuer-ID hat jeder Mensch in Deutschland, ein Leben lang. Die Steuernummer vergibt das Finanzamt etwa für Selbstständige.",
+        "Die Umsatzsteuer-ID vergibt das Bundeszentralamt für Steuern. Man kann sie auf Rechnungen angeben, statt die Steuernummer zu zeigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht vor Betrug",
+      "absaetze": [
+        "Neue Selbstständige bekommen manchmal Briefe, die amtlich aussehen. Darin wird eine Gebühr für die Registrierung einer Umsatzsteuer-ID verlangt.",
+        "Die Vergabe durch das Bundeszentralamt ist kostenlos. Solche Schreiben sind meist Betrugsversuche. Gültige Nummern anderer Firmen kannst du online beim Bundeszentralamt prüfen."
+      ],
+      "merke": "Die Vergabe der Umsatzsteuer-ID ist kostenlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür brauchen Unternehmen die Umsatzsteuer-ID vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Für Geschäfte mit Firmen in anderen EU-Staaten",
+        "Für die Hundesteuer",
+        "Für den Führerschein",
+        "Für die Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie zeigt, dass beide Seiten Unternehmen sind."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit beginnt eine deutsche Umsatzsteuer-ID?",
+      "art": "mc",
+      "optionen": [
+        "Mit DE",
+        "Mit EU",
+        "Mit 49",
+        "Mit UST"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach folgen neun Ziffern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Vergabe der Umsatzsteuer-ID kostet eine Gebühr.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist kostenlos. Gebührenbriefe sind meist Betrug."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer vergibt die Umsatzsteuer-ID?",
+      "art": "mc",
+      "optionen": [
+        "Das Bundeszentralamt für Steuern",
+        "Die Industrie- und Handelskammer",
+        "Die Bank",
+        "Das Einwohnermeldeamt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort kannst du auch Nummern prüfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Umsatzsteuer-ID dient Geschäften innerhalb der EU.",
+        "Sie beginnt in Deutschland mit DE.",
+        "Das Bundeszentralamt für Steuern vergibt sie kostenlos.",
+        "Gebührenbriefe für die Registrierung sind meist Betrug."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "vers-b131-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was bedeutet Grundversorgung beim Strom?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucher Energie",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "strom",
+    "grundversorgung",
+    "energievertrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du ziehst in eine neue Wohnung und schaltest das Licht an. Es funktioniert, obwohl du noch keinen Stromvertrag hast.",
+        "Möglich macht das die Grundversorgung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Strom für alle",
+      "absaetze": [
+        "In jedem Netzgebiet gibt es einen Grundversorger. Das ist der Anbieter, der dort die meisten Haushalte beliefert, oft die Stadtwerke.",
+        "Wer keinen eigenen Vertrag abschließt, wird automatisch von ihm beliefert. So bleibt niemand ohne Strom."
+      ],
+      "merke": "Ohne eigenen Vertrag beliefert dich der Grundversorger."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Flexibel, aber oft teurer",
+      "absaetze": [
+        "Ein Vertrag in der Grundversorgung kann mit einer Frist von zwei Wochen gekündigt werden. Das macht ihn sehr flexibel.",
+        "Dafür ist der Tarif oft teurer als andere Angebote. Ein Vergleich lohnt sich, vor allem nach einem Umzug."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Anbieter pleitegeht",
+      "absaetze": [
+        "Geht dein Stromanbieter in die Insolvenz, fällt der Strom nicht aus. Du rutschst automatisch in die Ersatzversorgung beim Grundversorger.",
+        "Sie gilt höchstens drei Monate. In dieser Zeit solltest du einen neuen Vertrag abschließen. Für Gas gilt das gleiche Prinzip."
+      ],
+      "merke": "Bei einer Anbieterpleite springt die Ersatzversorgung ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist der Grundversorger?",
+      "art": "mc",
+      "optionen": [
+        "Der Anbieter mit den meisten Haushaltskunden im Netzgebiet",
+        "Immer der billigste Anbieter",
+        "Die Bundesnetzagentur",
+        "Der Vermieter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft sind das die Stadtwerke."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welcher Frist kannst du die Grundversorgung kündigen?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Wochen",
+        "Zwei Jahre",
+        "Gar nicht",
+        "Sechs Monate"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das macht sie sehr flexibel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Grundversorgung ist immer der günstigste Tarif.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist oft teurer als andere Angebote."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn dein Stromanbieter pleitegeht?",
+      "art": "mc",
+      "optionen": [
+        "Du kommst in die Ersatzversorgung",
+        "Der Strom fällt sofort aus",
+        "Du musst nachzahlen",
+        "Nichts, du bekommst Strom gratis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt höchstens drei Monate."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ohne eigenen Vertrag beliefert dich der Grundversorger.",
+        "Die Grundversorgung ist mit zwei Wochen Frist kündbar.",
+        "Sie ist oft teurer als andere Tarife.",
+        "Bei Anbieterpleite springt die Ersatzversorgung ein."
+      ]
+    }
+  ]
+}

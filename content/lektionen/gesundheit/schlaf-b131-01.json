@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b131-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Sollte die Schule später beginnen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "jugendliche",
+    "schulbeginn",
+    "innere-uhr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Um halb acht im Klassenraum sitzen viele Jugendliche müde und unkonzentriert.",
+        "Liegt das nur an zu viel Handy am Abend?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine verschobene innere Uhr",
+      "absaetze": [
+        "In der Pubertät verschiebt sich die innere Uhr nach hinten. Jugendliche werden abends später müde, ganz unabhängig vom Handy.",
+        "Gleichzeitig brauchen sie viel Schlaf, oft acht bis zehn Stunden. Ein früher Schulbeginn verkürzt deshalb bei vielen die Nacht."
+      ],
+      "merke": "In der Pubertät verschiebt sich die innere Uhr nach hinten.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In mehreren Ländern haben Schulen den Unterricht später beginnen lassen. Studien deuten darauf hin, dass die Schüler dann länger schlafen.",
+        "Teilweise sanken auch Fehlzeiten und die Stimmung verbesserte sich. Wie stark sich das auf die Noten auswirkt, ist noch nicht eindeutig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Jugendliche selbst tun können",
+      "absaetze": [
+        "Ein möglichst regelmäßiger Rhythmus hilft, auch am Wochenende. Helles Licht am Morgen bringt die innere Uhr nach vorne.",
+        "Am Abend unterstützen gedimmtes Licht und weniger aufregende Medien das Einschlafen. Fachgesellschaften empfehlen trotzdem, die Schulzeiten mit zu bedenken."
+      ],
+      "merke": "Licht am Morgen bringt die innere Uhr nach vorne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert in der Pubertät mit der inneren Uhr?",
+      "art": "mc",
+      "optionen": [
+        "Sie verschiebt sich nach hinten",
+        "Sie verschiebt sich nach vorne",
+        "Sie bleibt stehen",
+        "Sie verschwindet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jugendliche werden später müde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Schlaf brauchen Jugendliche oft?",
+      "art": "mc",
+      "optionen": [
+        "Acht bis zehn Stunden",
+        "Vier Stunden",
+        "Zwölf bis vierzehn Stunden",
+        "Sechs Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr als viele Erwachsene."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Studien deuten darauf hin, dass Jugendliche bei späterem Schulbeginn länger schlafen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Teilweise sanken auch Fehlzeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bringt die innere Uhr nach vorne?",
+      "art": "mc",
+      "optionen": [
+        "Helles Licht am Morgen",
+        "Spätes Fernsehen",
+        "Ein Energydrink am Abend",
+        "Lange Nickerchen am Nachmittag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht ist der wichtigste Taktgeber."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In der Pubertät verschiebt sich die innere Uhr.",
+        "Ein früher Schulbeginn verkürzt die Nacht vieler Jugendlicher.",
+        "Späterer Unterricht kann zu mehr Schlaf führen.",
+        "Morgenlicht und regelmäßige Zeiten helfen."
+      ]
+    }
+  ]
+}
