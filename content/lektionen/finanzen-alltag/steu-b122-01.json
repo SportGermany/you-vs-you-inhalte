@@ -1,0 +1,121 @@
+{
+  "id": "steu-b122-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Kosten für dein Haustier absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haustier",
+    "haushaltsnahe dienstleistungen",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Futter, Tierarzt, Hundesitter: Ein Haustier kostet einiges.",
+        "Einen kleinen Teil davon kannst du unter Umständen von der Steuer absetzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Betreuung zu Hause",
+      "absaetze": [
+        "Kosten für die Betreuung deines Tieres in deiner Wohnung können als haushaltsnahe Dienstleistung zählen. Ein Beispiel ist ein Tiersitter, der zu dir nach Hause kommt.",
+        "Absetzbar sind dann 20 Prozent der Arbeitskosten. Wichtig sind eine Rechnung und eine Überweisung, keine Barzahlung."
+      ],
+      "merke": "Tierbetreuung in deinem Haushalt kann als haushaltsnahe Dienstleistung zählen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nicht zählt",
+      "absaetze": [
+        "Futter, Tierarzt und Zubehör gelten als private Kosten. Sie sind in der Regel nicht absetzbar.",
+        "Auch eine Tierpension außerhalb deiner Wohnung zählt meist nicht, weil die Leistung nicht in deinem Haushalt erbracht wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besondere Fälle",
+      "absaetze": [
+        "Für Assistenzhunde, etwa Blindenhunde, können Kosten als außergewöhnliche Belastung anerkannt werden.",
+        "Wer mit Tieren beruflich arbeitet, etwa als Hundetrainer, kann Kosten als Betriebsausgaben geltend machen. Die Hundesteuer der Gemeinde ist dagegen privat und nicht absetzbar."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tierkosten können als haushaltsnahe Dienstleistung zählen?",
+      "art": "mc",
+      "optionen": [
+        "Die Betreuung in deiner Wohnung",
+        "Das Futter",
+        "Der Tierarzt",
+        "Spielzeug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa ein Tiersitter bei dir zu Hause."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Prozent der Arbeitskosten sind dann absetzbar?",
+      "art": "mc",
+      "optionen": [
+        "20 Prozent",
+        "100 Prozent",
+        "5 Prozent",
+        "50 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rechnung und Überweisung sind wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tierarztkosten sind in der Regel absetzbar.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gelten meist als private Kosten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welche Tiere können Kosten als außergewöhnliche Belastung zählen?",
+      "art": "mc",
+      "optionen": [
+        "Für Assistenzhunde wie Blindenhunde",
+        "Für Zierfische",
+        "Für Katzen allgemein",
+        "Für Pferde im Hobby"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind für ihre Halter notwendig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tierbetreuung zu Hause kann absetzbar sein.",
+        "20 Prozent der Arbeitskosten zählen.",
+        "Futter und Tierarzt sind privat.",
+        "Assistenzhunde sind ein Sonderfall."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b122-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was macht die Leber mit Medikamenten?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "leber",
+    "medikamente",
+    "stoffwechsel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Tablette wirkt nach einer Weile und lässt dann wieder nach.",
+        "Dass sie aus dem Körper verschwindet, liegt vor allem an der Leber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Leber als Filter",
+      "absaetze": [
+        "Wirkstoffe aus Tabletten gelangen über den Darm ins Blut. Von dort fließt das Blut zuerst durch die Leber.",
+        "Dort wird oft schon ein Teil des Wirkstoffs abgebaut, bevor er wirken kann. Das nennt man First-Pass-Effekt. Deshalb brauchen manche Medikamente als Tablette eine höhere Dosis als als Spritze."
+      ],
+      "merke": "Die Leber baut viele Wirkstoffe ab, bevor sie wirken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Enzyme bei der Arbeit",
+      "absaetze": [
+        "Spezielle Enzyme in der Leber verändern die Wirkstoffe. Danach können sie über Nieren oder Galle ausgeschieden werden.",
+        "Manche Stoffe hemmen oder beschleunigen diese Enzyme. Dazu gehören Grapefruitsaft und Johanniskraut. Dann wirken andere Medikamente stärker oder schwächer."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Alkohol und bestimmte Schmerzmittel belasten zusammen die Leber zusätzlich. Halte dich an die Angaben im Beipackzettel.",
+        "Bei Lebererkrankungen passen Ärztinnen und Ärzte Medikamente oft an. Sag in der Praxis und Apotheke immer, welche Mittel du sonst noch nimmst, auch pflanzliche."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Abbau eines Wirkstoffs in der Leber, bevor er wirkt?",
+      "art": "mc",
+      "optionen": [
+        "First-Pass-Effekt",
+        "Placebo-Effekt",
+        "Halo-Effekt",
+        "Jojo-Effekt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb brauchen Tabletten manchmal eine höhere Dosis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann Leberenzyme beeinflussen?",
+      "art": "mc",
+      "optionen": [
+        "Grapefruitsaft und Johanniskraut",
+        "Mineralwasser",
+        "Frische Luft",
+        "Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wirken andere Medikamente anders."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alkohol kann die Leber zusammen mit bestimmten Schmerzmitteln zusätzlich belasten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Halte dich an den Beipackzettel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du in Praxis und Apotheke angeben?",
+      "art": "mc",
+      "optionen": [
+        "Alle Mittel, die du nimmst, auch pflanzliche",
+        "Nur verschreibungspflichtige Mittel",
+        "Gar nichts",
+        "Nur Vitamine"
+      ],
+      "richtig": 0,
+      "erklaerung": "So lassen sich Wechselwirkungen vermeiden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Leber baut viele Wirkstoffe ab.",
+        "Ein Teil wird schon vor der Wirkung abgebaut.",
+        "Manche Stoffe verändern die Leberenzyme.",
+        "Informiere über alle Mittel, die du nimmst.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

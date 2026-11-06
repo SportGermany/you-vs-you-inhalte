@@ -1,0 +1,121 @@
+{
+  "id": "tech-b122-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Taschenwärmer zum Knicken?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "taschenwaermer",
+    "chemie",
+    "waerme"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein kleines Kissen mit Flüssigkeit, ein Knick am Metallplättchen, und plötzlich wird es warm und fest.",
+        "Was passiert da drin?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine übersättigte Lösung",
+      "absaetze": [
+        "Viele Taschenwärmer enthalten Natriumacetat, gelöst in Wasser. Die Lösung enthält mehr Salz, als eigentlich gelöst bleiben dürfte. Sie ist übersättigt.",
+        "Trotzdem bleibt sie flüssig, solange nichts sie stört. Dieser Zustand ist instabil."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Knick startet die Kristalle",
+      "absaetze": [
+        "Knickst du das Metallplättchen, entstehen winzige Störungen. An ihnen beginnt das Salz zu kristallisieren. Die Kristalle breiten sich in Sekunden im ganzen Kissen aus.",
+        "Beim Kristallisieren wird Wärme frei. Das Kissen erwärmt sich auf etwa 50 Grad und bleibt eine Weile warm."
+      ],
+      "merke": "Beim Kristallisieren gibt das Salz Wärme ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wiederverwendbar",
+      "absaetze": [
+        "Leg das feste Kissen in kochendes Wasser, bis sich alle Kristalle aufgelöst haben. Danach kühlt es wieder flüssig ab.",
+        "So lässt es sich viele Male verwenden. Einmal-Handwärmer funktionieren anders: Darin reagiert Eisenpulver mit Sauerstoff aus der Luft."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Salz steckt in vielen Knick-Taschenwärmern?",
+      "art": "mc",
+      "optionen": [
+        "Natriumacetat",
+        "Kochsalz",
+        "Backpulver",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist in Wasser gelöst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Knicken des Plättchens?",
+      "art": "mc",
+      "optionen": [
+        "Das Salz beginnt zu kristallisieren",
+        "Ein Akku startet",
+        "Eine Flamme entsteht",
+        "Es kühlt ab"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei wird Wärme frei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Knick-Taschenwärmer lässt sich in kochendem Wasser wieder flüssig machen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So ist er viele Male verwendbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie funktionieren Einmal-Handwärmer?",
+      "art": "mc",
+      "optionen": [
+        "Eisenpulver reagiert mit Sauerstoff",
+        "Mit Batterien",
+        "Mit Sonnenlicht",
+        "Mit Eis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lassen sich nicht wieder aufladen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Taschenwärmer enthalten eine übersättigte Salzlösung.",
+        "Der Knick startet die Kristallbildung.",
+        "Dabei wird Wärme frei.",
+        "In kochendem Wasser wird er wieder flüssig."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "vers-b122-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Darfst du in der Mietwohnung Löcher bohren?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Deutscher Mieterbund",
+      "url": "https://www.mieterbund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "duebel",
+    "mietrecht",
+    "renovieren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bilder, Regale, Lampen: In einer neuen Wohnung wird viel gebohrt.",
+        "Doch was sagt der Vermieter dazu?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bohren gehört dazu",
+      "absaetze": [
+        "Löcher für Bilder, Regale oder Lampen gehören zur normalen Nutzung einer Wohnung. Dafür brauchst du in der Regel keine Erlaubnis.",
+        "Entscheidend ist ein üblicher Umfang. Dutzende Löcher in einer Wand gehen über das Normale hinaus."
+      ],
+      "merke": "Dübellöcher in üblichem Umfang gehören zur normalen Nutzung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Fliesen und Leitungen",
+      "absaetze": [
+        "In Fliesen solltest du möglichst in die Fugen bohren. Löcher mitten in Fliesen lassen sich kaum unsichtbar reparieren.",
+        "Prüfe vor dem Bohren mit einem Leitungssucher, ob Strom- oder Wasserleitungen in der Wand liegen. Ein angebohrtes Rohr kann teuer werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Auszug",
+      "absaetze": [
+        "Was beim Auszug mit den Löchern passieren muss, hängt vom Mietvertrag und vom Umfang ab. Häufig ist es sinnvoll, sie sauber zu verschließen.",
+        "Eine Übergabe mit Protokoll schafft Klarheit. Schäden, die über normale Abnutzung hinausgehen, kann der Vermieter in Rechnung stellen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Brauchst du für normale Dübellöcher eine Erlaubnis?",
+      "art": "mc",
+      "optionen": [
+        "In der Regel nicht",
+        "Immer",
+        "Nur am Wochenende",
+        "Nur im Badezimmer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gehören zur normalen Nutzung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin bohrst du bei Fliesen am besten?",
+      "art": "mc",
+      "optionen": [
+        "In die Fugen",
+        "Mitten in die Fliese",
+        "Gar nicht",
+        "In die Ecke der Fliese"
+      ],
+      "richtig": 0,
+      "erklaerung": "So lassen sich Löcher besser reparieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vor dem Bohren sollte man nach Leitungen in der Wand suchen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Leitungssucher hilft dabei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schafft beim Auszug Klarheit?",
+      "art": "mc",
+      "optionen": [
+        "Eine Übergabe mit Protokoll",
+        "Ein Anruf ein Jahr später",
+        "Nichts",
+        "Ein Foto vom Treppenhaus"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sind Schäden dokumentiert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Dübellöcher in üblichem Umfang sind erlaubt.",
+        "In Fliesen möglichst in die Fugen bohren.",
+        "Vor dem Bohren nach Leitungen suchen.",
+        "Ein Übergabeprotokoll schafft Klarheit."
+      ]
+    }
+  ]
+}

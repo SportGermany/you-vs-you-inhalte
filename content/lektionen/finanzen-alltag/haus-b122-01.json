@@ -1,0 +1,121 @@
+{
+  "id": "haus-b122-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wohin mit kaputten Energiesparlampen und LEDs?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Elektroaltgeräte",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "energiesparlampe",
+    "led",
+    "entsorgung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Lampe ist kaputt. Ab in den Hausmüll?",
+        "Bei Energiesparlampen und LEDs ist das keine gute Idee."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Fall für den Hausmüll",
+      "absaetze": [
+        "Energiesparlampen und Leuchtstoffröhren enthalten eine kleine Menge Quecksilber. Sie gehören deshalb nicht in den Hausmüll.",
+        "Auch LED-Lampen sind Elektroschrott. Sie enthalten Elektronik und wertvolle Rohstoffe, die recycelt werden können."
+      ],
+      "merke": "Energiesparlampen und LEDs gehören nicht in den Hausmüll."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo du sie abgibst",
+      "absaetze": [
+        "Du kannst sie kostenlos beim Wertstoffhof abgeben. Auch größere Händler, die Elektrogeräte verkaufen, müssen alte Lampen zurücknehmen.",
+        "Klassische Glühbirnen und Halogenlampen sind dagegen meist ein Fall für den Restmüll. Schau im Zweifel bei deiner Gemeinde nach."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn eine Lampe zerbricht",
+      "absaetze": [
+        "Zerbricht eine Energiesparlampe, lüfte den Raum gründlich. Verlasse ihn für etwa eine Viertelstunde.",
+        "Sammle die Scherben nicht mit dem Staubsauger, sondern mit Pappe oder Klebeband auf. Gib alles in ein verschließbares Glas und bring es zur Sammelstelle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gehören Energiesparlampen nicht in den Hausmüll?",
+      "art": "mc",
+      "optionen": [
+        "Sie enthalten etwas Quecksilber",
+        "Sie sind zu groß",
+        "Sie sind aus Holz",
+        "Sie leuchten noch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie müssen gesondert entsorgt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kannst du alte Lampen kostenlos abgeben?",
+      "art": "mc",
+      "optionen": [
+        "Beim Wertstoffhof",
+        "In der Biotonne",
+        "Im Altglascontainer",
+        "In der Papiertonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch größere Elektrohändler nehmen sie zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine zerbrochene Energiesparlampe saugst du am besten mit dem Staubsauger auf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nimm Pappe oder Klebeband und lüfte gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wohin gehören klassische Glühbirnen meist?",
+      "art": "mc",
+      "optionen": [
+        "In den Restmüll",
+        "In den Wertstoffhof als Sondermüll",
+        "In den Gelben Sack",
+        "In die Biotonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Zweifel bei der Gemeinde nachfragen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Energiesparlampen enthalten Quecksilber.",
+        "LEDs sind Elektroschrott.",
+        "Abgabe beim Wertstoffhof oder Handel.",
+        "Zerbrochene Lampen: lüften und mit Pappe aufnehmen."
+      ]
+    }
+  ]
+}

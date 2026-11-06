@@ -1,0 +1,124 @@
+{
+  "id": "mot-b122-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "motivation-emotionen",
+  "titel": "Warum passen Horoskope scheinbar auf jeden?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "barnum-effekt",
+    "horoskope",
+    "denkfehler"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du bist manchmal gesellig, manchmal brauchst du Ruhe. Das trifft doch genau zu!",
+        "Solche Aussagen passen auf fast alle Menschen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Barnum-Effekt",
+      "absaetze": [
+        "Menschen halten allgemeine Beschreibungen ihrer Persönlichkeit oft für sehr treffend. Das nennt man Barnum-Effekt, nach einem amerikanischen Zirkusunternehmer.",
+        "Die Aussagen sind so vage, dass sich fast jeder darin wiederfindet."
+      ],
+      "merke": "Vage Aussagen wirken persönlich, obwohl sie auf fast alle passen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Experiment von Forer",
+      "absaetze": [
+        "1948 gab der Psychologe Bertram Forer Studierenden eine angeblich persönliche Persönlichkeitsanalyse. In Wahrheit bekamen alle denselben Text, zusammengestellt aus Horoskopen.",
+        "Die meisten bewerteten die Beschreibung als sehr zutreffend. Der Effekt wurde seitdem oft bestätigt."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo er wirkt",
+      "absaetze": [
+        "Der Effekt steckt in Horoskopen, manchen Online-Tests und bei Wahrsagern. Auch schmeichelhafte Aussagen werden eher geglaubt.",
+        "Frag dich bei einer Beschreibung: Würde sie auch auf meine Freunde passen? Wenn ja, sagt sie wenig über dich aus."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beschreibt der Barnum-Effekt?",
+      "art": "mc",
+      "optionen": [
+        "Allgemeine Aussagen wirken persönlich zutreffend",
+        "Wir vergessen Namen",
+        "Wir schätzen Zeit falsch ein",
+        "Wir hören besser im Dunkeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Aussagen sind sehr vage."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer führte 1948 ein bekanntes Experiment dazu durch?",
+      "art": "mc",
+      "optionen": [
+        "Bertram Forer",
+        "Sigmund Freud",
+        "Iwan Pawlow",
+        "Jean Piaget"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alle bekamen denselben Text."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Experiment bekam jede Person einen individuellen Text.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Alle bekamen denselben Text."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Frage hilft gegen den Effekt?",
+      "art": "mc",
+      "optionen": [
+        "Würde das auch auf meine Freunde passen?",
+        "Ist das schmeichelhaft?",
+        "Ist der Text lang?",
+        "Ist er gut geschrieben?"
+      ],
+      "richtig": 0,
+      "erklaerung": "Passt es auf alle, sagt es wenig über dich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vage Aussagen wirken persönlich.",
+        "Forer zeigte den Effekt 1948.",
+        "Horoskope nutzen ihn.",
+        "Prüfe, ob eine Aussage auf alle passt."
+      ]
+    }
+  ]
+}

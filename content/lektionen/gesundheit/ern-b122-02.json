@@ -1,0 +1,123 @@
+{
+  "id": "ern-b122-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Stevia?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "stevia",
+    "suessungsmittel",
+    "zucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Süß, aber ohne Kalorien: So wird Stevia oft beworben.",
+        "Was steckt hinter dem Süßungsmittel aus einer Pflanze?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Pflanze aus Südamerika",
+      "absaetze": [
+        "Stevia ist eine Pflanze, die ursprünglich aus Paraguay stammt. Ihre Blätter schmecken sehr süß.",
+        "Die süßen Stoffe heißen Steviolglycoside. Sie werden aus den Blättern gewonnen und gereinigt. In der EU sind sie seit 2011 als Zusatzstoff E 960 zugelassen."
+      ],
+      "merke": "Die Süße von Stevia stammt von Steviolglycosiden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel süßer als Zucker",
+      "absaetze": [
+        "Steviolglycoside sind etwa 200- bis 300-mal süßer als Haushaltszucker. Deshalb reichen winzige Mengen.",
+        "Sie liefern praktisch keine Kalorien und schaden den Zähnen nicht. Viele empfinden aber einen leicht bitteren Nachgeschmack."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Natürlich ist relativ",
+      "absaetze": [
+        "Was im Supermarkt als Stevia verkauft wird, ist ein stark verarbeiteter Extrakt. Die getrockneten Blätter selbst sind als Lebensmittel nur eingeschränkt zugelassen.",
+        "Manche Produkte mischen Stevia mit Zucker oder anderen Süßstoffen. Ein Blick auf die Zutatenliste lohnt sich. Wer sich an weniger Süße gewöhnt, braucht auf Dauer weniger Süßungsmittel."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die Stevia-Pflanze ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Paraguay",
+        "Aus Japan",
+        "Aus Norwegen",
+        "Aus Kanada"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihre Blätter schmecken sehr süß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel süßer als Zucker sind Steviolglycoside etwa?",
+      "art": "mc",
+      "optionen": [
+        "200- bis 300-mal",
+        "Zweimal",
+        "Halb so süß",
+        "Gleich süß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb reichen winzige Mengen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Stevia schadet den Zähnen wie Zucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Steviolglycoside schaden den Zähnen nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie ist Stevia im Supermarkt meist?",
+      "art": "mc",
+      "optionen": [
+        "Ein stark verarbeiteter Extrakt",
+        "Frische Blätter",
+        "Reiner Zucker",
+        "Ein Gewürz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Natürlich ist also relativ."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stevia stammt aus Südamerika.",
+        "Ihre Süßstoffe sind viel süßer als Zucker.",
+        "Sie liefern kaum Kalorien.",
+        "Supermarkt-Stevia ist stark verarbeitet."
+      ]
+    }
+  ]
+}

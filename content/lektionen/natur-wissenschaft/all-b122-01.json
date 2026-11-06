@@ -1,0 +1,121 @@
+{
+  "id": "all-b122-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie funktioniert ein Teleskop?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Himmelsbeobachtung",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "teleskop",
+    "optik",
+    "himmelsbeobachtung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit bloßem Auge siehst du einige Tausend Sterne. Mit einem Teleskop werden es viel mehr.",
+        "Das Wichtigste dabei ist nicht die Vergrößerung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht sammeln",
+      "absaetze": [
+        "Ein Teleskop sammelt Licht auf einer viel größeren Fläche als dein Auge. So werden schwache Objekte sichtbar.",
+        "Entscheidend ist deshalb der Durchmesser der Öffnung. Je größer sie ist, desto mehr Licht und Details. Eine hohe Vergrößerung allein nützt wenig."
+      ],
+      "merke": "Wichtiger als die Vergrößerung ist die Licht sammelnde Öffnung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Linsen oder Spiegel",
+      "absaetze": [
+        "Linsenteleskope bündeln das Licht mit Glaslinsen. Galileo Galilei richtete 1609 ein solches Fernrohr an den Himmel und entdeckte Monde des Jupiter.",
+        "Spiegelteleskope nutzen einen gewölbten Spiegel. Isaac Newton baute eines der ersten. Große Profi-Teleskope sind heute fast immer Spiegelteleskope."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ins All hinaus",
+      "absaetze": [
+        "Die Lufthülle der Erde verwischt das Bild und schluckt manches Licht. Deshalb stehen große Teleskope auf hohen Bergen in trockenen Gegenden.",
+        "Weltraumteleskope wie Hubble und James Webb umgehen die Luft ganz. Sie liefern besonders scharfe Bilder."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei einem Teleskop am wichtigsten?",
+      "art": "mc",
+      "optionen": [
+        "Die Licht sammelnde Öffnung",
+        "Die Farbe",
+        "Das Gewicht",
+        "Die Länge des Stativs"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je größer, desto mehr Licht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer richtete 1609 ein Fernrohr an den Himmel?",
+      "art": "mc",
+      "optionen": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Johannes Kepler"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er entdeckte Monde des Jupiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Große Profi-Teleskope sind heute fast immer Spiegelteleskope.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Große Spiegel sind leichter zu bauen als große Linsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum stehen große Teleskope oft auf hohen Bergen?",
+      "art": "mc",
+      "optionen": [
+        "Dort stört die Lufthülle weniger",
+        "Dort ist es wärmer",
+        "Dort gibt es mehr Sterne",
+        "Wegen der Aussicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weltraumteleskope umgehen die Luft ganz."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Teleskop sammelt mehr Licht als das Auge.",
+        "Die Öffnung ist wichtiger als die Vergrößerung.",
+        "Es gibt Linsen- und Spiegelteleskope.",
+        "Die Lufthülle stört die Sicht."
+      ]
+    }
+  ]
+}
