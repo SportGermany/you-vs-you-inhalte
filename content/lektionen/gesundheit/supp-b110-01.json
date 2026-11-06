@@ -1,0 +1,140 @@
+{
+  "id": "supp-b110-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Hanfsamen-Produkten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Hanfhaltige Lebensmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hanfsamen",
+    "hanfoel",
+    "thc"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hanfsamen, Hanföl und Hanfprotein stehen in vielen Supermärkten.",
+        "Machen sie high? Und sind sie wirklich so gesund wie beworben?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nährstoffreiche Samen",
+      "absaetze": [
+        "Hanfsamen liefern viel Eiweiß, Ballaststoffe und Magnesium. Ihr Öl enthält Omega-3- und Omega-6-Fettsäuren in einem günstigen Verhältnis.",
+        "Als Lebensmittel können geschälte Hanfsamen eine sinnvolle Ergänzung sein, etwa im Müsli oder Salat. Mehr als ein normales Lebensmittel sind sie aber nicht."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ist mit THC?",
+      "absaetze": [
+        "Die Samen selbst enthalten kaum THC, den berauschenden Stoff der Hanfpflanze. Bei der Ernte können sie aber mit Teilen der Pflanze in Kontakt kommen, die THC enthalten.",
+        "Untersuchungen fanden in einzelnen Hanflebensmitteln THC-Gehalte, die gesundheitlich bedenklich sein können. Inzwischen gelten in der EU Höchstgehalte für Hanfsamen und Hanföl."
+      ],
+      "merke": "Hanfsamen selbst enthalten kaum THC, Verunreinigungen sind aber möglich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Kaufe Hanfprodukte von seriösen Herstellern, die THC-Gehalte prüfen lassen. Bei Hanftee und Hanfextrakten ist besondere Vorsicht geboten.",
+        "Hanfsamenprodukte sind etwas anderes als CBD-Öl oder Cannabis. Für Schwangere, Stillende und Kinder ist bei THC-haltigen Produkten besondere Zurückhaltung angebracht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Auf Produkte von Herstellern achten, die THC-Gehalte prüfen lassen.",
+        "Bei Hanftee und Hanfextrakten besonders vorsichtig sein.",
+        "Für Schwangere, Stillende und Kinder bei THC-haltigen Produkten zurückhaltend sein.",
+        "Nicht mit CBD-Öl oder Cannabis verwechseln."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefern Hanfsamen reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Eiweiß, Ballaststoffe und Magnesium",
+        "Koffein",
+        "Vitamin B12",
+        "Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihr Öl enthält auch Omega-3-Fettsäuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel THC enthalten die Samen selbst?",
+      "art": "mc",
+      "optionen": [
+        "Kaum etwas",
+        "Sehr viel",
+        "Genauso viel wie die Blüten",
+        "Mehr als Cannabis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verunreinigungen bei der Ernte sind aber möglich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt in der EU für Hanfsamen und Hanföl?",
+      "art": "mc",
+      "optionen": [
+        "Höchstgehalte für THC",
+        "Ein komplettes Verbot",
+        "Gar keine Regeln",
+        "Nur Werbeverbote"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sollen die Sicherheit verbessern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hanfsamenprodukte sind dasselbe wie CBD-Öl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. CBD-Öl ist ein anderes Produkt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hanfsamen sind nährstoffreich.",
+        "Die Samen enthalten kaum THC.",
+        "Verunreinigungen mit THC sind möglich.",
+        "Auf geprüfte Produkte achten."
+      ]
+    }
+  ]
+}

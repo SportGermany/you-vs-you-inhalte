@@ -1,0 +1,121 @@
+{
+  "id": "vers-b110-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was ist eine Staffelmiete?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "staffelmiete",
+    "mietvertrag",
+    "mieterhoehung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einer Staffelmiete weißt du schon beim Einzug, wie viel Miete du in den nächsten Jahren zahlst.",
+        "Das schafft Planbarkeit, hat aber auch Haken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erhöhungen im Voraus festgelegt",
+      "absaetze": [
+        "Bei einer Staffelmiete stehen künftige Mieterhöhungen schon im Mietvertrag. Für jede Stufe müssen Datum und Betrag in Euro genannt sein. Eine Prozentangabe reicht nicht.",
+        "Zwischen zwei Erhöhungen muss mindestens ein Jahr liegen. Die Miete steigt dann automatisch, ohne dass der Vermieter sie erneut ankündigen muss."
+      ],
+      "merke": "Bei einer Staffelmiete stehen Höhe und Zeitpunkt künftiger Erhöhungen schon im Vertrag."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine weiteren Erhöhungen",
+      "absaetze": [
+        "Während der Staffelmiete sind andere Mieterhöhungen ausgeschlossen. Der Vermieter kann die Miete also nicht zusätzlich an die ortsübliche Vergleichsmiete anpassen.",
+        "Nur die Betriebskosten können sich ändern. In Gebieten mit Mietpreisbremse darf auch jede einzelne Stufe die erlaubte Grenze nicht überschreiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor- und Nachteile",
+      "absaetze": [
+        "Du kannst die Kosten gut planen. Steigen die Mieten in der Umgebung kaum, zahlst du aber möglicherweise mehr als nötig.",
+        "Bei einer Staffelmiete darf ein Kündigungsverzicht von höchstens vier Jahren vereinbart werden. Prüfe deshalb vor der Unterschrift, ob du so lange in der Wohnung bleiben willst."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was muss bei jeder Stufe der Staffelmiete angegeben sein?",
+      "art": "mc",
+      "optionen": [
+        "Datum und Betrag in Euro",
+        "Nur ein Prozentsatz",
+        "Nur das Jahr",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Prozentangabe reicht nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Zeit muss zwischen zwei Erhöhungen liegen?",
+      "art": "mc",
+      "optionen": [
+        "Mindestens ein Jahr",
+        "Mindestens eine Woche",
+        "Höchstens ein Monat",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Miete steigt dann automatisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann sich bei einer Staffelmiete zusätzlich ändern?",
+      "art": "mc",
+      "optionen": [
+        "Die Betriebskosten",
+        "Die Kaltmiete nach Belieben",
+        "Die Größe der Wohnung",
+        "Nichts davon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Andere Mieterhöhungen sind ausgeschlossen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Kündigungsverzicht darf bei einer Staffelmiete höchstens vier Jahre dauern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Prüfe vorher, ob das zu dir passt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei der Staffelmiete stehen alle Erhöhungen im Vertrag.",
+        "Jede Stufe braucht Datum und Euro-Betrag.",
+        "Andere Mieterhöhungen sind ausgeschlossen.",
+        "Ein Kündigungsverzicht ist höchstens vier Jahre möglich."
+      ]
+    }
+  ]
+}

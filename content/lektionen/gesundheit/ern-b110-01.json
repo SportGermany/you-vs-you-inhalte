@@ -1,0 +1,123 @@
+{
+  "id": "ern-b110-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Knochenbrühe?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "knochenbruehe",
+    "gelatine",
+    "trends"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knochenbrühe wird in sozialen Medien für Darm, Haut und Gelenke angepriesen.",
+        "Was steckt wirklich in der lange gekochten Brühe?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stundenlang gekocht",
+      "absaetze": [
+        "Für Knochenbrühe werden Knochen von Rind oder Huhn viele Stunden lang in Wasser gekocht. Dabei lösen sich Gelatine und etwas Mineralstoffe aus Knochen und Knorpel.",
+        "Gelatine entsteht aus dem Eiweiß Kollagen. Sie lässt die abgekühlte Brühe fest werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Für die beworbenen Wirkungen auf Darm, Haut oder Gelenke gibt es kaum Studien am Menschen. Kollagen aus der Nahrung wird bei der Verdauung in seine Bausteine zerlegt. Es wandert nicht direkt in Haut oder Gelenke.",
+        "Einzelne Untersuchungen deuten darauf hin, dass der Gehalt an Mineralstoffen in Brühe eher gering ist."
+      ],
+      "merke": "Für die beworbenen Wirkungen von Knochenbrühe gibt es kaum Belege.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Trotzdem ein gutes Essen",
+      "absaetze": [
+        "Eine warme Brühe kann wohltuend sein, etwa bei einer Erkältung. Sie liefert Flüssigkeit und etwas Eiweiß.",
+        "Achte beim Fertigprodukt auf den Salzgehalt, der oft hoch ist. Selbst gekocht mit Gemüse ist Brühe eine gute Grundlage für Suppen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst sich beim langen Kochen aus den Knochen?",
+      "art": "mc",
+      "optionen": [
+        "Gelatine und etwas Mineralstoffe",
+        "Vitamin C",
+        "Koffein",
+        "Ballaststoffe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gelatine lässt die Brühe fest werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Kollagen aus der Nahrung?",
+      "art": "mc",
+      "optionen": [
+        "Es wird bei der Verdauung zerlegt",
+        "Es wandert direkt in die Haut",
+        "Es bleibt unverändert im Magen",
+        "Es wird zu Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kommt nicht direkt in Haut oder Gelenken an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf solltest du bei fertiger Brühe achten?",
+      "art": "mc",
+      "optionen": [
+        "Auf den Salzgehalt",
+        "Auf die Farbe der Packung",
+        "Auf den Koffeingehalt",
+        "Auf nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fertigprodukte enthalten oft viel Salz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Wirkungen von Knochenbrühe auf Haut und Gelenke sind gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es kaum Studien am Menschen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Knochenbrühe enthält Gelatine und wenig Mineralstoffe.",
+        "Kollagen wird bei der Verdauung zerlegt.",
+        "Die beworbenen Wirkungen sind kaum belegt.",
+        "Als warme Mahlzeit ist Brühe trotzdem gut."
+      ]
+    }
+  ]
+}

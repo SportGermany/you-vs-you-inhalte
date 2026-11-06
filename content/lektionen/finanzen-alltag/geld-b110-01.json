@@ -1,0 +1,121 @@
+{
+  "id": "geld-b110-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist Geldwäsche?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldwäscheprävention",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "geldwaesche",
+    "kriminalitaet",
+    "finanzagenten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer mit Verbrechen Geld verdient, hat ein Problem: Er kann es nicht einfach ausgeben.",
+        "Damit es sauber aussieht, wird es gewaschen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schmutziges Geld sauber machen",
+      "absaetze": [
+        "Geldwäsche bedeutet, die Herkunft von Geld aus Straftaten zu verschleiern. Am Ende soll es wie legal verdient aussehen.",
+        "Fachleute unterscheiden drei Schritte. Zuerst wird das Geld in den Geldkreislauf gebracht, etwa über Bareinzahlungen. Dann wird es über viele Konten verschoben. Zuletzt fließt es scheinbar sauber zurück, etwa in Immobilien."
+      ],
+      "merke": "Geldwäsche verschleiert, dass Geld aus Straftaten stammt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Banken müssen melden",
+      "absaetze": [
+        "Banken und viele andere Unternehmen müssen verdächtige Geldflüsse melden. In Deutschland gehen solche Meldungen an eine besondere Stelle beim Zoll.",
+        "Deshalb fragen Banken bei großen Bareinzahlungen manchmal nach, woher das Geld stammt. Das ist kein Misstrauen gegen dich persönlich, sondern gesetzliche Pflicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht vor Lockangeboten",
+      "absaetze": [
+        "Kriminelle suchen oft im Internet nach Helfern. Sie bieten leicht verdientes Geld dafür, Zahlungen auf dem eigenen Konto anzunehmen und weiterzuleiten.",
+        "Wer das tut, macht sich selbst strafbar und kann sein Konto verlieren. Lass dich nie darauf ein, fremdes Geld über dein Konto zu leiten."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Ziel von Geldwäsche?",
+      "art": "mc",
+      "optionen": [
+        "Die kriminelle Herkunft von Geld zu verschleiern",
+        "Geldscheine zu reinigen",
+        "Steuern zu sparen ohne Straftat",
+        "Geld zu verschenken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am Ende soll es legal aussehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer muss verdächtige Geldflüsse melden?",
+      "art": "mc",
+      "optionen": [
+        "Banken und viele andere Unternehmen",
+        "Niemand",
+        "Nur Privatleute",
+        "Nur Schulen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Meldungen gehen an eine Stelle beim Zoll."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nie tun?",
+      "art": "mc",
+      "optionen": [
+        "Fremdes Geld über dein Konto weiterleiten",
+        "Eine Überweisung prüfen",
+        "Deinen Kontostand ansehen",
+        "Sparen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Damit machst du dich selbst strafbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer Geld für Kriminelle weiterleitet, kann sich selbst strafbar machen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Solche Angebote sind eine Falle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Geldwäsche verschleiert die Herkunft von Geld aus Straftaten.",
+        "Sie läuft meist in drei Schritten ab.",
+        "Banken müssen verdächtige Fälle melden.",
+        "Nie fremdes Geld über das eigene Konto leiten."
+      ]
+    }
+  ]
+}

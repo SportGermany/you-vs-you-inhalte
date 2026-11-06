@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b110-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was ist die Cortisol-Aufwachreaktion?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "cortisol",
+    "aufwachen",
+    "tagesrhythmus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kurz nach dem Aufwachen passiert in deinem Körper etwas Erstaunliches.",
+        "Ein Hormon steigt steil an und bringt dich in Schwung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein morgendlicher Anstieg",
+      "absaetze": [
+        "Cortisol ist ein Hormon der Nebennieren. Sein Spiegel folgt einem festen Tagesrhythmus. Morgens ist er hoch, nachts niedrig.",
+        "In der ersten halben Stunde nach dem Aufwachen steigt Cortisol zusätzlich deutlich an. Fachleute nennen das Cortisol-Aufwachreaktion."
+      ],
+      "merke": "Kurz nach dem Aufwachen steigt das Hormon Cortisol deutlich an.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wozu das gut ist",
+      "absaetze": [
+        "Cortisol stellt Energie bereit, indem es den Blutzucker anhebt. Es hilft dem Körper, vom Schlaf in den aktiven Zustand zu wechseln.",
+        "Studien deuten darauf hin, dass die Aufwachreaktion den Körper auf die Anforderungen des Tages vorbereitet. Bei Schichtarbeit oder starkem Stress kann sie verändert sein."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kaffee erst später?",
+      "absaetze": [
+        "In sozialen Medien heißt es oft, man solle mit dem ersten Kaffee 90 Minuten warten, weil Cortisol sonst gestört werde. Für diese Regel gibt es keine guten Belege.",
+        "Wichtiger für einen guten Start sind ausreichend Schlaf, Tageslicht am Morgen und regelmäßige Aufstehzeiten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Mit dem ersten Kaffee solltest du 90 Minuten warten.",
+      "urteil": "mythos",
+      "erklaerung": "Für diese verbreitete Regel gibt es keine guten Studien. Ob du früh oder später Kaffee trinkst, ist eher eine Frage des persönlichen Empfindens."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist der Cortisolspiegel normalerweise am höchsten?",
+      "art": "mc",
+      "optionen": [
+        "Am Morgen",
+        "Um Mitternacht",
+        "Am späten Abend",
+        "Er ist immer gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nachts ist er niedrig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann tritt die Cortisol-Aufwachreaktion auf?",
+      "art": "mc",
+      "optionen": [
+        "In der ersten halben Stunde nach dem Aufwachen",
+        "Beim Einschlafen",
+        "Nach dem Mittagessen",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Spiegel steigt dann deutlich an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft für einen guten Start in den Tag?",
+      "art": "mc",
+      "optionen": [
+        "Genug Schlaf und Tageslicht am Morgen",
+        "Spät ins Bett gehen",
+        "Dunkle Räume am Morgen",
+        "Wechselnde Aufstehzeiten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Regelmäßigkeit hilft dem Rhythmus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die 90-Minuten-Regel für Kaffee ist gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es keine guten Belege."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cortisol folgt einem Tagesrhythmus.",
+        "Kurz nach dem Aufwachen steigt es deutlich an.",
+        "Es hilft beim Wechsel in den aktiven Zustand.",
+        "Die 90-Minuten-Kaffee-Regel ist nicht belegt."
+      ]
+    }
+  ]
+}

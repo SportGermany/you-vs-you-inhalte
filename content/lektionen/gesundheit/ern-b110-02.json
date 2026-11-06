@@ -1,0 +1,124 @@
+{
+  "id": "ern-b110-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Polenta?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "polenta",
+    "mais",
+    "glutenfrei"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Polenta ist ein goldgelber Brei aus Norditalien. Sie lässt sich auch in Scheiben schneiden und braten.",
+        "Woraus besteht sie, und wie gesund ist sie?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grieß aus Mais",
+      "absaetze": [
+        "Polenta wird aus Maisgrieß gekocht. Ihre gelbe Farbe stammt von Pflanzenfarbstoffen wie Lutein und Zeaxanthin.",
+        "Mais enthält kein Gluten. Polenta ist deshalb eine gute Beilage für Menschen mit Zöliakie, wenn die Packung als glutenfrei gekennzeichnet ist."
+      ],
+      "merke": "Polenta besteht aus Maisgrieß und ist von Natur aus glutenfrei.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Polenta besteht vor allem aus Stärke und liefert damit Energie. Sie enthält etwas Eiweiß, aber eher wenig Ballaststoffe, weil die Schale meist entfernt wird.",
+        "Wer mehr Ballaststoffe möchte, kann Vollkorn-Maisgrieß verwenden oder Polenta mit viel Gemüse kombinieren."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zubereitung",
+      "absaetze": [
+        "Klassische Polenta muss lange unter Rühren köcheln. Instant-Polenta ist vorgegart und in wenigen Minuten fertig.",
+        "Polenta passt zu Pilzen, Gemüse oder Käse. Abgekühlt wird sie fest und kann gebraten oder gegrillt werden."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Polenta gekocht?",
+      "art": "mc",
+      "optionen": [
+        "Aus Maisgrieß",
+        "Aus Weizenmehl",
+        "Aus Reis",
+        "Aus Kartoffeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stammt aus Norditalien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Enthält Polenta Gluten?",
+      "art": "mc",
+      "optionen": [
+        "Nein, Mais ist glutenfrei",
+        "Ja, sehr viel",
+        "Nur im Sommer",
+        "Nur gebraten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf die Kennzeichnung achten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bekommst du mehr Ballaststoffe?",
+      "art": "mc",
+      "optionen": [
+        "Mit Vollkorn-Maisgrieß und viel Gemüse",
+        "Mit mehr Butter",
+        "Mit Zucker",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Normaler Maisgrieß enthält wenig Ballaststoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Abgekühlte Polenta kann man braten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie wird beim Abkühlen fest."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Polenta besteht aus Maisgrieß.",
+        "Sie ist von Natur aus glutenfrei.",
+        "Sie liefert vor allem Stärke.",
+        "Abgekühlt lässt sie sich braten."
+      ]
+    }
+  ]
+}

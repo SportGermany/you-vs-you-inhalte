@@ -1,0 +1,121 @@
+{
+  "id": "all-b110-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Sind wir aus Sternenstaub?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Astronomie",
+      "herausgeber": "Europäische Südsternwarte (ESO)",
+      "url": "https://www.eso.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sternenstaub",
+    "elemente",
+    "sterne"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Kohlenstoff in deinen Zellen und das Eisen in deinem Blut haben eine lange Reise hinter sich.",
+        "Sie entstanden einst im Inneren von Sternen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Am Anfang nur Leichtes",
+      "absaetze": [
+        "Nach dem Urknall gab es fast nur die leichtesten Elemente, vor allem Wasserstoff und Helium. Kohlenstoff, Sauerstoff oder Eisen fehlten noch.",
+        "Diese schwereren Elemente mussten erst entstehen. Ihre Geburtsorte sind die Sterne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sterne als Schmelzöfen",
+      "absaetze": [
+        "Im Inneren von Sternen verschmelzen leichte Atomkerne zu schwereren. So entstehen nach und nach Kohlenstoff, Sauerstoff und weitere Elemente bis zum Eisen.",
+        "Wenn große Sterne am Ende ihres Lebens explodieren, schleudern sie diese Elemente ins All. Manche schweren Elemente wie Gold entstehen auch, wenn Neutronensterne zusammenstoßen."
+      ],
+      "merke": "Die meisten schweren Elemente entstanden im Inneren von Sternen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Teil des Kosmos",
+      "absaetze": [
+        "Aus diesem Staub bildeten sich später neue Sterne und Planeten, auch unsere Sonne und die Erde. Der Kohlenstoff in deinem Körper war also einmal Teil eines Sterns.",
+        "Fast alle Atome in dir außer dem Wasserstoff stammen aus Sternen. In diesem Sinne bestehen wir tatsächlich aus Sternenstaub."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Elemente gab es nach dem Urknall vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Wasserstoff und Helium",
+        "Gold und Silber",
+        "Eisen und Kupfer",
+        "Kohlenstoff und Sauerstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schwerere Elemente entstanden erst später."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo entstehen Kohlenstoff und Sauerstoff?",
+      "art": "mc",
+      "optionen": [
+        "Im Inneren von Sternen",
+        "In Vulkanen auf der Erde",
+        "Im Meer",
+        "In Pflanzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort verschmelzen leichte Atomkerne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelangen die Elemente ins All?",
+      "art": "mc",
+      "optionen": [
+        "Durch Explosionen großer Sterne",
+        "Durch Regen",
+        "Durch Raumschiffe",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus entstehen später neue Sterne und Planeten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gold kann entstehen, wenn Neutronensterne zusammenstoßen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist ein Ursprung schwerer Elemente."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach dem Urknall gab es vor allem Wasserstoff und Helium.",
+        "Schwerere Elemente entstanden in Sternen.",
+        "Sternexplosionen verteilten sie im All.",
+        "Die Atome in uns stammen großteils aus Sternen."
+      ]
+    }
+  ]
+}

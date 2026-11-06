@@ -1,0 +1,121 @@
+{
+  "id": "steu-b110-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist der Altersentlastungsbetrag?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "altersentlastungsbetrag",
+    "rentner",
+    "freibetrag"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer im Alter noch arbeitet oder Mieteinnahmen hat, kann einen besonderen Steuerbonus bekommen.",
+        "Er heißt Altersentlastungsbetrag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für ältere Steuerpflichtige",
+      "absaetze": [
+        "Den Altersentlastungsbetrag bekommen Menschen, die vor Beginn des Steuerjahres 64 Jahre alt geworden sind. Er mindert das zu versteuernde Einkommen.",
+        "Das Finanzamt berücksichtigt ihn automatisch, wenn das Geburtsdatum bekannt ist. Ein eigener Antrag ist nicht nötig."
+      ],
+      "merke": "Den Altersentlastungsbetrag gibt es ab dem Jahr nach dem 64. Geburtstag."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für jede Einnahme",
+      "absaetze": [
+        "Der Betrag gilt nicht für gesetzliche Renten und Beamtenpensionen. Er gilt für andere Einkünfte, etwa Lohn aus einem Job, Mieteinnahmen oder Zinsen, die in der Steuererklärung stehen.",
+        "Wer also im Rentenalter noch arbeitet oder vermietet, profitiert davon."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Er wird kleiner",
+      "absaetze": [
+        "Die Höhe richtet sich nach dem Jahr, in dem jemand 65 wird. Je später der Jahrgang, desto kleiner ist der Betrag.",
+        "Langfristig wird er ganz abgeschafft. Den genauen Prozentsatz und Höchstbetrag für deinen Jahrgang findest du in den Unterlagen des Finanzamts."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer bekommt den Altersentlastungsbetrag?",
+      "art": "mc",
+      "optionen": [
+        "Wer vor Beginn des Steuerjahres 64 geworden ist",
+        "Alle Kinder",
+        "Nur Studierende",
+        "Jeder unter 30"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er mindert das zu versteuernde Einkommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für welche Einnahmen gilt er nicht?",
+      "art": "mc",
+      "optionen": [
+        "Für gesetzliche Renten und Pensionen",
+        "Für Arbeitslohn",
+        "Für Mieteinnahmen",
+        "Für Zinsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gilt für andere Einkünfte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit dem Betrag bei späteren Jahrgängen?",
+      "art": "mc",
+      "optionen": [
+        "Er wird kleiner",
+        "Er wird größer",
+        "Er bleibt immer gleich",
+        "Er verdoppelt sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Langfristig wird er abgeschafft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für den Altersentlastungsbetrag ist kein eigener Antrag nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Finanzamt berücksichtigt ihn automatisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Betrag gilt ab dem Jahr nach dem 64. Geburtstag.",
+        "Er gilt nicht für Renten und Pensionen.",
+        "Er hilft etwa bei Arbeitslohn oder Mieteinnahmen.",
+        "Für spätere Jahrgänge wird er kleiner."
+      ]
+    }
+  ]
+}

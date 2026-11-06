@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b110-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist Homocystein?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "homocystein",
+    "b-vitamine",
+    "blutwerte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Homocystein ist ein Blutwert, der oft als Selbstzahlerleistung angeboten wird.",
+        "Was sagt er aus, und lohnt sich die Messung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Zwischenprodukt im Stoffwechsel",
+      "absaetze": [
+        "Homocystein ist eine Aminosäure, die beim Abbau von Eiweiß entsteht. Normalerweise wird sie schnell weiterverarbeitet.",
+        "Dafür braucht der Körper die Vitamine B6, B12 und Folsäure. Fehlen sie, kann Homocystein im Blut ansteigen. Auch Nierenerkrankungen und bestimmte Erbanlagen erhöhen den Wert."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Zusammenhang mit dem Herzen",
+      "absaetze": [
+        "Menschen mit hohem Homocystein haben häufiger Herz-Kreislauf-Erkrankungen. Deshalb wurde vermutet, dass das Senken des Werts schützt.",
+        "Große Studien zeigten aber: B-Vitamine senken zwar den Homocysteinwert, verhindern Herzinfarkte jedoch nicht. Der Wert ist also eher ein Begleiter als eine Ursache."
+      ],
+      "merke": "Homocystein mit B-Vitaminen zu senken, verhindert keine Herzinfarkte.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann der Wert sinnvoll ist",
+      "absaetze": [
+        "Bei Verdacht auf einen Vitamin-B12-Mangel kann Homocystein helfen, den Mangel zu erkennen. Für gesunde Menschen ohne Beschwerden ist eine routinemäßige Messung meist nicht nötig.",
+        "Lass dich ärztlich beraten, bevor du einen Test selbst bezahlst. Wichtiger für das Herz sind Blutdruck, Blutfette, Bewegung und Nichtrauchen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Homocystein?",
+      "art": "mc",
+      "optionen": [
+        "Eine Aminosäure aus dem Eiweißabbau",
+        "Ein Vitamin",
+        "Ein Hormon der Schilddrüse",
+        "Ein Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Normalerweise wird sie schnell weiterverarbeitet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vitamine braucht der Körper zum Abbau?",
+      "art": "mc",
+      "optionen": [
+        "B6, B12 und Folsäure",
+        "Vitamin C und E",
+        "Vitamin D und K",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fehlen sie, steigt der Wert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten große Studien mit B-Vitaminen?",
+      "art": "mc",
+      "optionen": [
+        "Der Wert sank, Herzinfarkte wurden aber nicht verhindert",
+        "Alle Herzinfarkte wurden verhindert",
+        "Der Wert stieg stark an",
+        "Es gab keine Studien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Wert ist eher ein Begleiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für gesunde Menschen ist eine routinemäßige Messung meist nicht nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sinnvoll ist sie etwa bei Verdacht auf B12-Mangel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Homocystein entsteht beim Eiweißabbau.",
+        "B-Vitamine helfen beim Abbau.",
+        "Senken des Werts schützt nicht vor Herzinfarkt.",
+        "Messung ist vor allem bei Verdacht auf B12-Mangel sinnvoll.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

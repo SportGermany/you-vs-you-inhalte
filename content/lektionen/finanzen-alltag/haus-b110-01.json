@@ -1,0 +1,121 @@
+{
+  "id": "haus-b110-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du eine Badewanne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "badewanne",
+    "bad",
+    "reinigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Schaumbad entspannt. Danach bleiben oft ein Rand, Kalk und Haare zurück.",
+        "Wie du die Wanne reinigst, hängt vom Material ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst das Material kennen",
+      "absaetze": [
+        "Die meisten Badewannen bestehen aus Acryl, einem Kunststoff, oder aus Stahlemaille. Acryl ist leichter und wärmer, aber empfindlich gegen Kratzer.",
+        "Bei Acryl sind Scheuermittel und kratzige Schwämme tabu. Nimm ein weiches Tuch und milden Badreiniger oder Spülmittel. Emaille ist robuster."
+      ],
+      "merke": "Acrylwannen nie mit Scheuermitteln oder kratzigen Schwämmen reinigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalk und Schmutzrand",
+      "absaetze": [
+        "Gegen den grauen Rand aus Seifenresten und Hautfett hilft warmes Wasser mit Spülmittel. Gegen Kalk helfen Essig oder Zitronensäure, auf Acryl aber nur verdünnt und kurz.",
+        "Spüle danach gründlich mit klarem Wasser nach. Säure kann Armaturen und Silikonfugen angreifen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wichtige Vorsicht",
+      "absaetze": [
+        "Mische niemals chlorhaltige Reiniger mit säurehaltigen Mitteln wie Essig. Dabei kann giftiges Chlorgas entstehen.",
+        "Am wenigsten Arbeit hast du, wenn du die Wanne nach jedem Baden kurz ausspülst und trocken wischst. Ein Sieb im Abfluss fängt Haare auf."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Acrylwannen tabu?",
+      "art": "mc",
+      "optionen": [
+        "Scheuermittel und kratzige Schwämme",
+        "Warmes Wasser",
+        "Weiche Tücher",
+        "Spülmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Acryl zerkratzt leicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Kalk?",
+      "art": "mc",
+      "optionen": [
+        "Verdünnter Essig oder Zitronensäure",
+        "Olivenöl",
+        "Salz und Pfeffer",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gründlich nachspülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darfst du niemals mischen?",
+      "art": "mc",
+      "optionen": [
+        "Chlorreiniger und säurehaltige Mittel",
+        "Wasser und Spülmittel",
+        "Warmes und kaltes Wasser",
+        "Zwei weiche Tücher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei kann giftiges Chlorgas entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach dem Baden kurz ausspülen spart später Arbeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann setzen sich Rand und Kalk kaum fest."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erst das Material der Wanne prüfen.",
+        "Acryl nur sanft reinigen.",
+        "Gegen Kalk helfen verdünnte Säuren.",
+        "Nie Chlor- und Säurereiniger mischen."
+      ]
+    }
+  ]
+}

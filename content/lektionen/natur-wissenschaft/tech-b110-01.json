@@ -1,0 +1,121 @@
+{
+  "id": "tech-b110-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Toilettenspülung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "toilettenspuelung",
+    "spuelkasten",
+    "wasser"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Knopfdruck, es rauscht, und alles ist weg.",
+        "Im Spülkasten steckt einfache, aber kluge Technik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Ventile im Kasten",
+      "absaetze": [
+        "Im Spülkasten gibt es zwei wichtige Teile. Das Ablaufventil am Boden lässt das Wasser in die Toilette strömen. Das Füllventil lässt danach neues Wasser nachlaufen.",
+        "Drückst du die Taste, hebt sich das Ablaufventil. Das Wasser schießt in die Schüssel und spült alles in den Abfluss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Schwimmer stoppt das Wasser",
+      "absaetze": [
+        "Beim Nachfüllen steigt ein Schwimmer mit dem Wasserspiegel nach oben. Ist der Kasten voll, schließt der Schwimmer das Füllventil.",
+        "Viele moderne Spülkästen haben zwei Tasten. Die kleine spart Wasser, weil sie nur einen Teil des Kastens ablaufen lässt."
+      ],
+      "merke": "Ein Schwimmer schließt das Füllventil, wenn der Spülkasten voll ist."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Geruch dank Wasser",
+      "absaetze": [
+        "Unter der Toilette macht das Abflussrohr einen Bogen. Darin bleibt immer etwas Wasser stehen. Dieser Wasserverschluss hält Gerüche aus der Kanalisation zurück.",
+        "Läuft die Spülung ständig nach, verschwendet sie viel Wasser. Ein paar Tropfen Lebensmittelfarbe im Spülkasten zeigen, ob er undicht ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Drücken der Taste?",
+      "art": "mc",
+      "optionen": [
+        "Das Ablaufventil hebt sich",
+        "Das Wasser wird erhitzt",
+        "Der Deckel schließt sich",
+        "Ein Ventilator springt an"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann strömt das Wasser in die Schüssel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was stoppt das Nachfüllen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Schwimmer",
+        "Eine Zeitschaltuhr",
+        "Ein Sensor im Deckel",
+        "Ein Magnet in der Schüssel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er steigt mit dem Wasserspiegel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält Gerüche aus der Kanalisation zurück?",
+      "art": "mc",
+      "optionen": [
+        "Wasser im gebogenen Abflussrohr",
+        "Ein Duftstein",
+        "Der Toilettendeckel",
+        "Das Licht im Bad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das nennt man Wasserverschluss."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit Lebensmittelfarbe kannst du prüfen, ob der Spülkasten undicht ist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Färbt sich die Schüssel ohne Spülen, läuft Wasser nach."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Ablaufventil lässt das Wasser in die Schüssel.",
+        "Ein Schwimmer stoppt das Nachfüllen.",
+        "Die kleine Taste spart Wasser.",
+        "Ein Wasserverschluss hält Gerüche zurück."
+      ]
+    }
+  ]
+}
