@@ -1,0 +1,122 @@
+{
+  "id": "steu-b128-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist eine Nichtveranlagungsbescheinigung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nv-bescheinigung",
+    "kapitalertraege",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Deine Bank behält auf Zinsen und Dividenden automatisch Steuern ein.",
+        "Wer nur ein geringes Einkommen hat, kann das mit einer besonderen Bescheinigung verhindern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür sie gedacht ist",
+      "absaetze": [
+        "Auf Kapitalerträge zieht die Bank die Abgeltungsteuer direkt ab. Mit einem Freistellungsauftrag bleiben Erträge bis zum Sparer-Pauschbetrag steuerfrei. Er liegt bei 1.000 Euro pro Person.",
+        "Liegt dein gesamtes Einkommen aber unter dem Grundfreibetrag, musst du gar keine Einkommensteuer zahlen. Dann hilft die Nichtveranlagungsbescheinigung, kurz NV-Bescheinigung."
+      ],
+      "merke": "Mit einer NV-Bescheinigung behält die Bank keine Steuer ein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer sie bekommt",
+      "absaetze": [
+        "Typisch ist sie für Studierende, Auszubildende oder Menschen mit kleiner Rente, die höhere Kapitalerträge haben. Den Antrag stellst du beim Finanzamt.",
+        "Die Bescheinigung gilt in der Regel bis zu drei Jahre. Du reichst sie bei deiner Bank ein. Ändert sich dein Einkommen deutlich, musst du das Finanzamt informieren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und ohne Bescheinigung?",
+      "absaetze": [
+        "Hat die Bank schon Steuern abgezogen, ist das Geld nicht verloren. Du kannst es dir über die Steuererklärung zurückholen.",
+        "Die NV-Bescheinigung spart dir nur diesen Umweg. Bei kleinen Erträgen reicht meist schon ein Freistellungsauftrag."
+      ],
+      "merke": "Zu viel gezahlte Steuer holst du über die Steuererklärung zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann hilft eine NV-Bescheinigung?",
+      "art": "mc",
+      "optionen": [
+        "Wenn das Einkommen unter dem Grundfreibetrag liegt",
+        "Bei jedem hohen Einkommen",
+        "Nur beim Autokauf",
+        "Nur für Firmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann fällt keine Einkommensteuer an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo beantragst du die NV-Bescheinigung?",
+      "art": "mc",
+      "optionen": [
+        "Beim Finanzamt",
+        "Bei der Krankenkasse",
+        "Beim Bürgeramt",
+        "Bei der Post"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach reichst du sie bei der Bank ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ohne Bescheinigung ist zu viel gezahlte Steuer endgültig verloren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Du kannst sie über die Steuererklärung zurückholen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange gilt eine NV-Bescheinigung in der Regel höchstens?",
+      "art": "mc",
+      "optionen": [
+        "Drei Jahre",
+        "Einen Tag",
+        "Lebenslang",
+        "Zehn Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach musst du sie neu beantragen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Banken ziehen Steuer auf Kapitalerträge direkt ab.",
+        "Mit NV-Bescheinigung entfällt der Abzug bei geringem Einkommen.",
+        "Den Antrag stellst du beim Finanzamt.",
+        "Ohne Bescheinigung hilft die Steuererklärung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b128-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Welche Medikamente können den Schlaf stören?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "medikamente",
+    "schlafstoerung",
+    "nebenwirkungen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du schläfst plötzlich schlecht, und nichts in deinem Alltag hat sich verändert.",
+        "Außer vielleicht einem neuen Medikament."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Störenfriede",
+      "absaetze": [
+        "Manche Arzneien können den Schlaf beeinträchtigen. Dazu gehören zum Beispiel Kortison, entwässernde Mittel und manche Mittel gegen Bluthochdruck.",
+        "Auch einige Antidepressiva und Medikamente mit Koffein können wach halten. Ob es dich betrifft, ist sehr individuell."
+      ],
+      "merke": "Manche Medikamente können den Schlaf stören.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sie stören",
+      "absaetze": [
+        "Entwässernde Mittel können nachts auf die Toilette treiben. Andere Stoffe wirken anregend oder verändern die Traumphasen.",
+        "Manche Mittel gegen Bluthochdruck stehen im Verdacht, lebhafte Träume auszulösen. Nicht jede Person reagiert gleich darauf."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Setze ein Medikament nie eigenmächtig ab. Sprich Schlafprobleme in der Praxis oder Apotheke an.",
+        "Oft hilft es schon, den Zeitpunkt zu ändern, zu dem du ein Mittel bekommst. Manchmal gibt es auch eine Alternative mit weniger Wirkung auf den Schlaf."
+      ],
+      "merke": "Medikamente nie eigenmächtig absetzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Medikament kann den Schlaf stören?",
+      "art": "mc",
+      "optionen": [
+        "Kortison",
+        "Ein Pflaster",
+        "Eine Salbe gegen Sonnenbrand",
+        "Ein Hustenbonbon ohne Wirkstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch entwässernde Mittel gehören dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum können entwässernde Mittel den Schlaf stören?",
+      "art": "mc",
+      "optionen": [
+        "Sie treiben nachts auf die Toilette",
+        "Sie machen Lärm",
+        "Sie senken die Raumtemperatur",
+        "Sie wirken wie Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Zeitpunkt kann deshalb wichtig sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Schlafproblemen solltest du ein Medikament sofort eigenmächtig absetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sprich zuerst mit Praxis oder Apotheke."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann oft schon helfen?",
+      "art": "mc",
+      "optionen": [
+        "Den Zeitpunkt in Absprache zu ändern",
+        "Mehr Kaffee",
+        "Später ins Bett gehen",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ärztin oder Arzt können das mit dir planen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Manche Medikamente können den Schlaf stören.",
+        "Beispiele sind Kortison und entwässernde Mittel.",
+        "Medikamente nie eigenmächtig absetzen.",
+        "Ein anderer Zeitpunkt kann helfen."
+      ]
+    }
+  ]
+}

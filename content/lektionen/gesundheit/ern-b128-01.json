@@ -1,0 +1,130 @@
+{
+  "id": "ern-b128-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Sardinen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Ernährung",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sardinen",
+    "fisch",
+    "omega-3"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Sardinen aus der Dose gelten als Notvorrat oder Studentenessen.",
+        "Dabei stecken in den kleinen Fischen erstaunlich viele Nährstoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleiner Fisch, viel Fett",
+      "absaetze": [
+        "Sardinen gehören zu den fettreichen Seefischen. Sie liefern Omega-3-Fettsäuren, die in pflanzlichen Lebensmitteln kaum vorkommen.",
+        "Die DGE empfiehlt, ein- bis zweimal pro Woche Fisch zu essen, davon gelegentlich fettreichen. Sardinen passen gut in diese Empfehlung."
+      ],
+      "merke": "Sardinen liefern wertvolle Omega-3-Fettsäuren.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit Gräten essen",
+      "absaetze": [
+        "In Dosensardinen sind die Gräten so weich, dass man sie mitessen kann. Dadurch liefern sie auch Kalzium.",
+        "Dazu kommen Eiweiß, Jod und Vitamin D. Achte beim Kauf auf den Salzgehalt und darauf, in welchem Öl oder welcher Soße sie liegen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut für Umwelt und Geldbeutel",
+      "absaetze": [
+        "Sardinen stehen weit unten in der Nahrungskette. Deshalb reichern sie meist weniger Schadstoffe an als große Raubfische wie Thunfisch.",
+        "Wie nachhaltig sie sind, hängt vom Fanggebiet ab. Menschen mit Gicht sollten wissen, dass Sardinen viele Purine enthalten."
+      ],
+      "merke": "Kleine Fische enthalten meist weniger Schadstoffe als große Raubfische."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäuren liefern Sardinen?",
+      "art": "mc",
+      "optionen": [
+        "Omega-3-Fettsäuren",
+        "Transfette",
+        "Gar keine",
+        "Nur gesättigte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kommen in Pflanzen kaum vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum liefern Dosensardinen Kalzium?",
+      "art": "mc",
+      "optionen": [
+        "Weil die weichen Gräten mitgegessen werden",
+        "Weil Milch zugesetzt wird",
+        "Weil die Dose Kalzium abgibt",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gräten sind sehr weich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleine Fische reichern meist weniger Schadstoffe an als große Raubfische.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie stehen weit unten in der Nahrungskette."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte auf den Puringehalt von Sardinen achten?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Gicht",
+        "Alle Kinder",
+        "Sportler",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Purine können die Harnsäure erhöhen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sardinen liefern Omega-3-Fettsäuren.",
+        "Mit Gräten gegessen liefern sie Kalzium.",
+        "Sie reichern meist wenig Schadstoffe an.",
+        "Bei Gicht auf den Puringehalt achten."
+      ]
+    }
+  ]
+}

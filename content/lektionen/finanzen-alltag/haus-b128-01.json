@@ -1,0 +1,122 @@
+{
+  "id": "haus-b128-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Warum werden Gläser in der Spülmaschine trüb?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "glaeser",
+    "spuelmaschine",
+    "kalk"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher glänzten deine Gläser, jetzt sehen sie milchig aus.",
+        "Dahinter können zwei ganz verschiedene Ursachen stecken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalk: abwaschbar",
+      "absaetze": [
+        "Bei hartem Wasser setzen sich Kalkreste auf dem Glas ab. Das passiert vor allem, wenn Regeneriersalz oder Klarspüler fehlen.",
+        "Dieser Belag lässt sich entfernen. Lege das Glas eine Weile in Essigwasser. Wird es wieder klar, war es Kalk."
+      ],
+      "merke": "Kalkbelag verschwindet in Essigwasser."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Glaskorrosion: dauerhaft",
+      "absaetze": [
+        "Bleibt das Glas nach dem Essigbad trüb, ist die Oberfläche selbst angegriffen. Das nennt man Glaskorrosion.",
+        "Sie entsteht oft bei sehr weichem Wasser, hohen Temperaturen und langen Programmen. Die Trübung lässt sich nicht mehr entfernen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du deine Gläser",
+      "absaetze": [
+        "Stelle die Wasserhärte an der Maschine richtig ein. Wähle für Gläser ein niedrigeres Programm und nimm sie bald nach dem Ende heraus.",
+        "Hochwertige Gläser und alte Stücke spülst du besser von Hand. Manche Hersteller kennzeichnen Gläser als spülmaschinenfest."
+      ],
+      "merke": "Wasserhärte richtig einstellen und Gläser schonend spülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie erkennst du Kalk auf Gläsern?",
+      "art": "mc",
+      "optionen": [
+        "Er verschwindet in Essigwasser",
+        "Er lässt sich nie entfernen",
+        "Er riecht nach Seife",
+        "Er ist blau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Glaskorrosion bleibt das Glas trüb."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Glaskorrosion lässt sich mit Essig beseitigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Glasoberfläche ist dauerhaft angegriffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was begünstigt Glaskorrosion?",
+      "art": "mc",
+      "optionen": [
+        "Sehr weiches Wasser und hohe Temperaturen",
+        "Kaltes Wasser von Hand",
+        "Ein Spültuch",
+        "Zu viel Kalk"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch lange Programme spielen eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen Kalkbeläge?",
+      "art": "mc",
+      "optionen": [
+        "Regeneriersalz und Klarspüler",
+        "Mehr Zucker",
+        "Öl im Spülgang",
+        "Eine heißere Küche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Und die richtige Einstellung der Wasserhärte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Trübe Gläser können Kalk oder Glaskorrosion zeigen.",
+        "Kalk verschwindet in Essigwasser.",
+        "Glaskorrosion ist dauerhaft.",
+        "Richtige Wasserhärte und schonende Programme schützen."
+      ]
+    }
+  ]
+}

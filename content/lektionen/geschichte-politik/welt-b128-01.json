@@ -1,0 +1,128 @@
+{
+  "id": "welt-b128-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "weltgeschichte",
+  "titel": "Wie maß Eratosthenes den Umfang der Erde?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space for Kids und Bildung",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "eratosthenes",
+    "antike",
+    "erdumfang"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor über 2.000 Jahren bestimmte ein Grieche den Umfang der Erde, nur mit Schatten und Geometrie.",
+        "Sein Ergebnis war erstaunlich gut."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Gelehrter in Alexandria",
+      "absaetze": [
+        "Eratosthenes lebte im 3. Jahrhundert vor Christus. Er leitete die berühmte Bibliothek von Alexandria in Ägypten.",
+        "Er beschäftigte sich mit Mathematik, Geografie und Astronomie. Auf ihn geht auch ein Verfahren zurück, mit dem man Primzahlen findet: das Sieb des Eratosthenes."
+      ],
+      "merke": "Eratosthenes leitete die Bibliothek von Alexandria."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schatten verraten die Krümmung",
+      "absaetze": [
+        "Eratosthenes hörte, dass die Sonne in Syene, dem heutigen Assuan, mittags einmal im Jahr senkrecht stand. Zur gleichen Zeit warfen Stäbe in Alexandria einen kurzen Schatten.",
+        "Aus dem Winkel des Schattens schloss er: Der Abstand der Städte ist etwa ein Fünfzigstel des Erdumfangs."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein gutes Ergebnis",
+      "absaetze": [
+        "Er multiplizierte die Entfernung zwischen beiden Städten mit fünfzig. Heraus kam ein Wert, der je nach Umrechnung seiner Längeneinheit dem heutigen recht nahe kommt.",
+        "Damit zeigte er auch: Gebildete Menschen der Antike wussten längst, dass die Erde eine Kugel ist."
+      ],
+      "merke": "Schon in der Antike war bekannt, dass die Erde eine Kugel ist."
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Im Mittelalter glaubten alle, die Erde sei eine Scheibe.",
+      "urteil": "mythos",
+      "erklaerung": "Gebildete Menschen wussten seit der Antike, dass die Erde eine Kugel ist. Eratosthenes maß sogar ihren Umfang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Einrichtung leitete Eratosthenes?",
+      "art": "mc",
+      "optionen": [
+        "Die Bibliothek von Alexandria",
+        "Die Akademie in Athen",
+        "Das Kolosseum",
+        "Den Leuchtturm von Rhodos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie war die berühmteste Bibliothek der Antike."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit bestimmte er den Erdumfang?",
+      "art": "mc",
+      "optionen": [
+        "Mit Schattenwinkeln und Geometrie",
+        "Mit einem Schiff um die Welt",
+        "Mit einem Fernrohr",
+        "Mit einem Satelliten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verglich Schatten in zwei Städten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gebildete Menschen der Antike hielten die Erde für eine Scheibe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie wussten, dass die Erde eine Kugel ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist das Sieb des Eratosthenes bekannt?",
+      "art": "mc",
+      "optionen": [
+        "Zum Finden von Primzahlen",
+        "Zum Mehlsieben",
+        "Zum Goldwaschen",
+        "Zur Zeitmessung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist bis heute im Matheunterricht bekannt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eratosthenes leitete die Bibliothek von Alexandria.",
+        "Er verglich Schatten in Syene und Alexandria.",
+        "So bestimmte er den Erdumfang erstaunlich gut.",
+        "Die Kugelgestalt der Erde war in der Antike bekannt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "koer-b128-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wozu haben wir Nasenhaare?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nase",
+    "atmung",
+    "abwehr"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele finden sie lästig und greifen zur Schere.",
+        "Doch die Haare in deiner Nase haben eine wichtige Aufgabe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein erster Filter",
+      "absaetze": [
+        "Nasenhaare fangen größere Teilchen aus der Atemluft ab. Dazu gehören Staub, Pollen und kleine Insekten.",
+        "So gelangen weniger Fremdkörper tiefer in die Atemwege. Die Haare sind die erste Stufe eines mehrteiligen Schutzsystems."
+      ],
+      "merke": "Nasenhaare filtern größere Teilchen aus der Luft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schleim und Flimmerhärchen",
+      "absaetze": [
+        "Hinter den sichtbaren Haaren ist die Nase mit Schleimhaut ausgekleidet. Ihr Schleim bindet feinere Teilchen und Keime.",
+        "Winzige Flimmerhärchen auf der Schleimhaut transportieren den Schleim Richtung Rachen. Dort wird er unbemerkt geschluckt. Zugleich wird die Luft angewärmt und befeuchtet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kürzen statt ausreißen",
+      "absaetze": [
+        "Wer Nasenhaare entfernen möchte, sollte sie vorsichtig kürzen. Ausreißen kann kleine Wunden und Entzündungen verursachen.",
+        "Mit dem Alter wachsen Nasenhaare bei vielen Menschen kräftiger. Das ist normal und harmlos."
+      ],
+      "merke": "Nasenhaare besser kürzen als ausreißen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fangen Nasenhaare ab?",
+      "art": "mc",
+      "optionen": [
+        "Größere Teilchen wie Staub und Pollen",
+        "Sauerstoff",
+        "Gerüche vollständig",
+        "Wasserdampf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind ein erster Filter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was transportiert den Schleim in der Nase Richtung Rachen?",
+      "art": "mc",
+      "optionen": [
+        "Flimmerhärchen",
+        "Die Zunge",
+        "Die Ohren",
+        "Die Zähne"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Schleim wird dann unbemerkt geschluckt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ausreißen ist die schonendste Art, Nasenhaare zu entfernen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es kann Wunden und Entzündungen verursachen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht die Nase außerdem mit der Atemluft?",
+      "art": "mc",
+      "optionen": [
+        "Sie wärmt und befeuchtet sie",
+        "Sie kühlt sie stark ab",
+        "Sie trocknet sie aus",
+        "Sie färbt sie"
+      ],
+      "richtig": 0,
+      "erklaerung": "So schont sie die Lunge."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nasenhaare filtern größere Teilchen.",
+        "Schleim bindet feine Teilchen und Keime.",
+        "Flimmerhärchen transportieren den Schleim ab.",
+        "Nasenhaare besser kürzen als ausreißen."
+      ]
+    }
+  ]
+}

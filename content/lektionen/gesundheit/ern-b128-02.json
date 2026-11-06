@@ -1,0 +1,124 @@
+{
+  "id": "ern-b128-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Gerste?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gerste",
+    "getreide",
+    "ballaststoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei Gerste denken viele zuerst an Bier.",
+        "Dabei ist das alte Getreide auch auf dem Teller eine gute Wahl."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein uraltes Getreide",
+      "absaetze": [
+        "Gerste gehört zu den ältesten Getreidearten der Menschheit. Heute landet ein großer Teil im Tierfutter oder wird zu Malz für Bier verarbeitet.",
+        "In der Küche kennst du Gerste vor allem als Graupen. Das sind geschälte und polierte Gerstenkörner, die in Suppen und Eintöpfen landen."
+      ],
+      "merke": "Graupen sind geschälte, polierte Gerstenkörner."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beta-Glucane",
+      "absaetze": [
+        "Gerste enthält viele lösliche Ballaststoffe, die Beta-Glucane. Sie quellen im Darm und machen lange satt.",
+        "Beta-Glucane aus Gerste und Hafer können helfen, einen normalen Cholesterinspiegel zu erhalten. Dazu müssen sie regelmäßig auf dem Speiseplan stehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht glutenfrei",
+      "absaetze": [
+        "Gerste enthält Gluten. Für Menschen mit Zöliakie ist sie deshalb nicht geeignet, auch nicht als Malz.",
+        "Als Vollkorn liefert Gerste mehr Ballaststoffe und Mineralstoffe als stark polierte Graupen. Probiere Gerste als Beilage statt Reis."
+      ],
+      "merke": "Gerste enthält Gluten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Graupen?",
+      "art": "mc",
+      "optionen": [
+        "Geschälte, polierte Gerstenkörner",
+        "Getrocknete Erbsen",
+        "Eine Nudelsorte",
+        "Gemahlener Mais"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stecken oft in Eintöpfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die löslichen Ballaststoffe in Gerste?",
+      "art": "mc",
+      "optionen": [
+        "Beta-Glucane",
+        "Omega-3",
+        "Laktose",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kommen auch im Hafer vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gerste ist für Menschen mit Zöliakie geeignet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gerste enthält Gluten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür wird ein großer Teil der Gerste verwendet?",
+      "art": "mc",
+      "optionen": [
+        "Für Tierfutter und Malz",
+        "Für Papier",
+        "Für Kleidung",
+        "Für Treibstoff ausschließlich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Malz ist ein Grundstoff für Bier."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gerste ist ein uraltes Getreide.",
+        "Graupen sind geschälte Gerstenkörner.",
+        "Ihre Beta-Glucane machen lange satt.",
+        "Gerste enthält Gluten."
+      ]
+    }
+  ]
+}

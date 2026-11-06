@@ -1,0 +1,122 @@
+{
+  "id": "all-b128-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist die Ekliptik?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space for Kids und Bildung",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ekliptik",
+    "sonnenbahn",
+    "planeten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Sonne zieht im Laufe eines Jahres scheinbar durch verschiedene Sternbilder.",
+        "Ihre Bahn am Himmel hat einen eigenen Namen: Ekliptik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Bahn der Sonne",
+      "absaetze": [
+        "Weil die Erde um die Sonne kreist, sehen wir die Sonne im Jahreslauf vor wechselnden Sternen. Ihre scheinbare Bahn am Himmel heißt Ekliptik.",
+        "Eigentlich ist die Ekliptik die Ebene, in der die Erde um die Sonne läuft. Von der Erde aus erscheint sie als Linie am Himmel."
+      ],
+      "merke": "Die Ekliptik ist die scheinbare Jahresbahn der Sonne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schräg zum Äquator",
+      "absaetze": [
+        "Die Erdachse ist geneigt. Deshalb verläuft die Ekliptik schräg zum Himmelsäquator, um etwa 23,4 Grad.",
+        "Darum steht die Sonne im Sommer hoch und im Winter tief am Himmel. Die Neigung ist der Grund für die Jahreszeiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo die Planeten wandern",
+      "absaetze": [
+        "Auch die Planeten und der Mond bewegen sich in der Nähe der Ekliptik. Sie kreisen ungefähr in derselben Ebene wie die Erde.",
+        "Wer am Abend einen hellen Planeten sucht, findet ihn deshalb immer entlang dieser Linie. Der Name kommt von Eklipse, also Finsternis: Finsternisse gibt es nur nahe der Ekliptik."
+      ],
+      "merke": "Planeten und Mond findest du nahe der Ekliptik."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Ekliptik?",
+      "art": "mc",
+      "optionen": [
+        "Die scheinbare Jahresbahn der Sonne am Himmel",
+        "Ein Sternbild",
+        "Ein Komet",
+        "Die Bahn der ISS"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ergibt sich aus der Bahn der Erde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Um wie viel Grad ist die Ekliptik gegen den Himmelsäquator geneigt?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 23,4 Grad",
+        "Genau 90 Grad",
+        "Gar nicht",
+        "Etwa 2 Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das entspricht der Neigung der Erdachse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Planeten findest du am Himmel in der Nähe der Ekliptik.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie kreisen etwa in derselben Ebene."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt der Name Ekliptik?",
+      "art": "mc",
+      "optionen": [
+        "Von Eklipse, also Finsternis",
+        "Von einem Astronomen namens Eklip",
+        "Von Ellipse",
+        "Von einem Gott"
+      ],
+      "richtig": 0,
+      "erklaerung": "Finsternisse gibt es nur nahe dieser Linie."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Ekliptik ist die scheinbare Jahresbahn der Sonne.",
+        "Sie ist um etwa 23,4 Grad gegen den Himmelsäquator geneigt.",
+        "Die Neigung verursacht die Jahreszeiten.",
+        "Planeten und Mond wandern nahe der Ekliptik."
+      ]
+    }
+  ]
+}

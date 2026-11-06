@@ -1,0 +1,125 @@
+{
+  "id": "stoff-b128-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie genau sind Kalorienangaben auf Lebensmitteln?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kalorien",
+    "naehrwerte",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf fast jeder Packung steht, wie viele Kilokalorien darin stecken.",
+        "Doch wie genau ist diese Zahl eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Berechnet, nicht gemessen",
+      "absaetze": [
+        "Kalorienangaben werden meist aus den Nährstoffen berechnet. Dafür gibt es feste Umrechnungswerte für Fett, Kohlenhydrate, Eiweiß und Alkohol.",
+        "Die Werte sind Durchschnitte. Natürliche Schwankungen bei Zutaten und Herstellung führen dazu, dass ein Produkt etwas abweichen kann. Dafür gibt es erlaubte Toleranzen."
+      ],
+      "merke": "Kalorienangaben sind berechnete Durchschnittswerte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was der Körper wirklich aufnimmt",
+      "absaetze": [
+        "Nicht jede Kalorie auf dem Etikett landet im Körper. Bei ganzen Nüssen etwa bleibt ein Teil der Energie in den Zellwänden eingeschlossen.",
+        "Auch Kochen, Mahlen und die Darmflora beeinflussen, wie viel Energie du aufnimmst. Wie groß diese Unterschiede genau sind, ist noch unklar."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein grober Kompass",
+      "absaetze": [
+        "Kalorienangaben helfen beim Vergleichen von Produkten. Als exakte Rechnung für den Tag taugen sie kaum.",
+        "Sich ständig mit Zahlen zu beschäftigen, kann belasten. Wer merkt, dass Essen und Zählen den Alltag bestimmen, findet bei Beratungsstellen Unterstützung."
+      ],
+      "merke": "Kalorienangaben eignen sich zum Vergleichen, nicht zum exakten Rechnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entstehen die meisten Kalorienangaben?",
+      "art": "mc",
+      "optionen": [
+        "Sie werden aus den Nährstoffen berechnet",
+        "Jede Packung wird verbrannt und gemessen",
+        "Sie werden geschätzt ohne Grundlage",
+        "Sie stammen vom Kunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür gibt es feste Umrechnungswerte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Produkt darf etwas von der angegebenen Kalorienzahl abweichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dafür gibt es erlaubte Toleranzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum nimmt der Körper aus ganzen Nüssen weniger Energie auf als angegeben?",
+      "art": "mc",
+      "optionen": [
+        "Ein Teil bleibt in den Zellwänden eingeschlossen",
+        "Nüsse haben keine Kalorien",
+        "Die Schale wird mitgegessen",
+        "Nüsse werden nicht verdaut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mahlen verändert das."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür eignen sich Kalorienangaben besonders?",
+      "art": "mc",
+      "optionen": [
+        "Zum Vergleichen von Produkten",
+        "Zur exakten Tagesrechnung",
+        "Zur Bestimmung des Geschmacks",
+        "Zum Ablesen des Preises"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind ein grober Kompass."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kalorienangaben sind berechnete Durchschnittswerte.",
+        "Produkte dürfen etwas abweichen.",
+        "Wie viel der Körper aufnimmt, hängt von vielen Faktoren ab.",
+        "Zum Vergleichen sind die Angaben hilfreich.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

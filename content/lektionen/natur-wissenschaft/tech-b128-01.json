@@ -1,0 +1,122 @@
+{
+  "id": "tech-b128-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Metalldetektor?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "metalldetektor",
+    "elektromagnetismus",
+    "induktion"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Strand schwenkt jemand ein Gerät über den Sand, plötzlich piept es.",
+        "Wie spürt der Metalldetektor verborgenes Metall auf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Magnetfeld im Boden",
+      "absaetze": [
+        "In der Suchscheibe steckt eine Spule, durch die Wechselstrom fließt. Sie erzeugt ein schnell wechselndes Magnetfeld, das in den Boden reicht.",
+        "Trifft dieses Feld auf Metall, entstehen darin kleine elektrische Ströme. Man nennt sie Wirbelströme."
+      ],
+      "merke": "Die Spule erzeugt ein wechselndes Magnetfeld."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Echo des Metalls",
+      "absaetze": [
+        "Die Wirbelströme erzeugen ihrerseits ein schwaches Magnetfeld. Eine Empfangsspule im Gerät registriert diese Veränderung.",
+        "Die Elektronik wandelt das Signal in einen Ton um. Gute Geräte unterscheiden sogar, ob es sich eher um Eisen oder um Edelmetall handelt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Flughafen bis zur Archäologie",
+      "absaetze": [
+        "Das gleiche Prinzip steckt in Sicherheitsschleusen am Flughafen. Auch beim Bau werden so Leitungen und Kampfmittel gesucht.",
+        "Wer als Hobby nach Schätzen sucht, braucht in Deutschland oft eine Genehmigung der Denkmalbehörde. Archäologische Funde gehören vielerorts dem Land."
+      ],
+      "merke": "Für die Schatzsuche brauchst du oft eine Genehmigung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erzeugt die Spule im Metalldetektor?",
+      "art": "mc",
+      "optionen": [
+        "Ein wechselndes Magnetfeld",
+        "Licht",
+        "Schallwellen",
+        "Wärme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es reicht in den Boden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die Ströme, die im Metall entstehen?",
+      "art": "mc",
+      "optionen": [
+        "Wirbelströme",
+        "Gleichströme",
+        "Meeresströme",
+        "Luftströme"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie erzeugen ein eigenes Magnetfeld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für die Hobby-Schatzsuche braucht man in Deutschland nie eine Genehmigung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft ist eine Genehmigung der Denkmalbehörde nötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird das gleiche Prinzip genutzt?",
+      "art": "mc",
+      "optionen": [
+        "In Sicherheitsschleusen am Flughafen",
+        "In Kühlschränken",
+        "In Glühbirnen",
+        "In Wasserhähnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort wird nach Metall gesucht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Spule erzeugt ein wechselndes Magnetfeld.",
+        "Im Metall entstehen Wirbelströme.",
+        "Eine Empfangsspule erkennt deren Feld.",
+        "Für die Schatzsuche ist oft eine Genehmigung nötig."
+      ]
+    }
+  ]
+}
