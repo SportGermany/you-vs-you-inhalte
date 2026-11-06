@@ -1,0 +1,121 @@
+{
+  "id": "umw-b116-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie entsteht Nebel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wetterlexikon",
+      "herausgeber": "Deutscher Wetterdienst",
+      "url": "https://www.dwd.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nebel",
+    "wetter",
+    "luftfeuchtigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An manchen Herbstmorgen siehst du kaum bis zum Nachbarhaus.",
+        "Nebel ist im Grunde eine Wolke, die auf dem Boden liegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasserdampf wird sichtbar",
+      "absaetze": [
+        "Luft enthält unsichtbaren Wasserdampf. Wie viel sie aufnehmen kann, hängt von der Temperatur ab. Warme Luft kann mehr Wasserdampf halten als kalte.",
+        "Kühlt Luft ab, erreicht sie irgendwann den Taupunkt. Dann kondensiert der Dampf zu winzigen Wassertröpfchen. Diese schweben in der Luft und machen sie trüb."
+      ],
+      "merke": "Nebel entsteht, wenn feuchte Luft bis zum Taupunkt abkühlt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Typische Nebelarten",
+      "absaetze": [
+        "Häufig ist Strahlungsnebel. Er entsteht in klaren, windstillen Nächten, wenn der Boden viel Wärme abgibt. Besonders im Herbst sammelt er sich in Tälern und Senken.",
+        "Ziehen feuchte, warme Luftmassen über kalten Boden oder kaltes Wasser, entsteht ebenfalls Nebel. Das passiert oft an Küsten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann es Nebel heißt",
+      "absaetze": [
+        "Von Nebel sprechen Fachleute, wenn man weniger als einen Kilometer weit sieht. Bei mehr Sicht spricht man von Dunst.",
+        "Im Straßenverkehr ist Nebel gefährlich. Fahr langsam, halte Abstand und schalte das Abblendlicht ein."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert am Taupunkt?",
+      "art": "mc",
+      "optionen": [
+        "Wasserdampf kondensiert zu Tröpfchen",
+        "Wasser gefriert sofort",
+        "Die Luft wird wärmer",
+        "Der Wind dreht"
+      ],
+      "richtig": 0,
+      "erklaerung": "So werden aus Dampf winzige Tropfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht Strahlungsnebel besonders oft?",
+      "art": "mc",
+      "optionen": [
+        "In klaren, windstillen Herbstnächten",
+        "Bei Sturm am Mittag",
+        "In heißen Sommernachmittagen",
+        "Bei starkem Regen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Boden gibt dann viel Wärme ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kalte Luft kann mehr Wasserdampf halten als warme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Warme Luft kann mehr halten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab welcher Sichtweite spricht man von Nebel?",
+      "art": "mc",
+      "optionen": [
+        "Unter einem Kilometer",
+        "Unter zehn Kilometern",
+        "Unter zehn Metern",
+        "Unter hundert Kilometern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei mehr Sicht heißt es Dunst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nebel ist eine Wolke am Boden.",
+        "Er entsteht, wenn feuchte Luft bis zum Taupunkt abkühlt.",
+        "Strahlungsnebel ist im Herbst häufig.",
+        "Unter einem Kilometer Sicht spricht man von Nebel."
+      ]
+    }
+  ]
+}

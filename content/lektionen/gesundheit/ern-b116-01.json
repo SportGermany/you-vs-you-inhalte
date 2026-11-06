@@ -1,0 +1,124 @@
+{
+  "id": "ern-b116-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Olivenöl?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "olivenoel",
+    "fette",
+    "mittelmeerkueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Olivenöl ist das Herzstück der Mittelmeerküche.",
+        "Doch was steckt drin, und worauf achtest du beim Kauf?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Fette",
+      "absaetze": [
+        "Olivenöl besteht vor allem aus einfach ungesättigten Fettsäuren. Sie gelten als günstig für die Blutfette, wenn sie gesättigte Fette ersetzen.",
+        "Natives Olivenöl enthält außerdem Polyphenole. Das sind Pflanzenstoffe, die dem Öl seinen leicht bitteren, scharfen Geschmack geben."
+      ],
+      "merke": "Olivenöl liefert vor allem einfach ungesättigte Fettsäuren.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Die Mittelmeerküche mit viel Olivenöl wird gut untersucht. Eine große spanische Studie deutet darauf hin, dass sie das Risiko für Herz-Kreislauf-Erkrankungen senken kann.",
+        "Dabei zählt das ganze Essmuster, nicht nur das Öl. Gemüse, Hülsenfrüchte, Fisch und Nüsse gehören dazu."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kauf und Verwendung",
+      "absaetze": [
+        "Nativ extra ist die höchste Güteklasse. Das Öl wird nur mechanisch gewonnen, ohne Chemie und starke Hitze.",
+        "Zum Braten bei mittlerer Hitze eignet es sich gut. Lagere Olivenöl dunkel und kühl, aber nicht im Kühlschrank. Licht und Wärme lassen es schneller altern."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Fettsäuren stecken vor allem in Olivenöl?",
+      "art": "mc",
+      "optionen": [
+        "Einfach ungesättigte Fettsäuren",
+        "Transfette",
+        "Vor allem gesättigte Fette",
+        "Omega-3-Fettsäuren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gelten als günstig für die Blutfette."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet nativ extra?",
+      "art": "mc",
+      "optionen": [
+        "Höchste Güteklasse, nur mechanisch gewonnen",
+        "Mit Aromen verfeinert",
+        "Raffiniert und gebleicht",
+        "Aus Olivenkernen gepresst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Chemie und starke Hitze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für die Wirkung der Mittelmeerküche zählt nur das Olivenöl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ganze Essmuster ist entscheidend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lagerst du Olivenöl am besten?",
+      "art": "mc",
+      "optionen": [
+        "Dunkel und kühl",
+        "Auf der sonnigen Fensterbank",
+        "Neben dem Herd",
+        "Offen in der Schüssel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht und Wärme lassen es altern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Olivenöl liefert einfach ungesättigte Fettsäuren.",
+        "Natives Öl enthält Polyphenole.",
+        "Die Mittelmeerküche gilt als herzfreundlich.",
+        "Dunkel und kühl lagern."
+      ]
+    }
+  ]
+}

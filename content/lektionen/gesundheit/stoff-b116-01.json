@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b116-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist eine Schilddrüsenunterfunktion?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schilddruese",
+    "hypothyreose",
+    "hormone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ständig müde, schnell kalt, ein paar Kilo mehr: Das kann viele Gründe haben.",
+        "Manchmal steckt eine träge Schilddrüse dahinter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu wenig Hormon",
+      "absaetze": [
+        "Die Schilddrüse bildet Hormone, die den Stoffwechsel antreiben. Bildet sie zu wenig davon, spricht man von einer Unterfunktion. Der Fachbegriff ist Hypothyreose.",
+        "Dann läuft vieles im Körper langsamer. Typisch sind Müdigkeit, Frieren, trockene Haut, Verstopfung und eine leichte Gewichtszunahme."
+      ],
+      "merke": "Bei einer Unterfunktion bildet die Schilddrüse zu wenig Hormone.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ursachen und Diagnose",
+      "absaetze": [
+        "In Deutschland ist die häufigste Ursache Hashimoto. Dabei greift das Immunsystem die Schilddrüse an. Auch Operationen oder Jodmangel kommen infrage.",
+        "Den Verdacht prüft ein Bluttest. Ein erhöhter TSH-Wert zeigt, dass das Gehirn die Schilddrüse stärker antreiben muss."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Behandlung",
+      "absaetze": [
+        "Eine Unterfunktion lässt sich gut behandeln. Das fehlende Hormon wird als Tablette ersetzt. Die Menge legt die Arztpraxis fest und prüft sie regelmäßig.",
+        "Bei Neugeborenen wird die Schilddrüse routinemäßig getestet. Eine unbehandelte Unterfunktion könnte sonst die Entwicklung stören."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Hypothyreose?",
+      "art": "mc",
+      "optionen": [
+        "Eine Schilddrüsenunterfunktion",
+        "Eine Überfunktion",
+        "Ein Nierenstein",
+        "Eine Allergie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schilddrüse bildet dann zu wenig Hormone."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist in Deutschland die häufigste Ursache?",
+      "art": "mc",
+      "optionen": [
+        "Hashimoto",
+        "Zu viel Sport",
+        "Zu viel Schlaf",
+        "Kaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Immunsystem greift dabei die Schilddrüse an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein erhöhter TSH-Wert kann auf eine Unterfunktion hinweisen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Gehirn muss die Schilddrüse dann stärker antreiben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Anzeichen passt zu einer Unterfunktion?",
+      "art": "mc",
+      "optionen": [
+        "Schnelles Frieren",
+        "Starkes Herzrasen",
+        "Ständiges Schwitzen",
+        "Schlaflosigkeit durch Unruhe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Stoffwechsel läuft langsamer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Unterfunktion fehlen Schilddrüsenhormone.",
+        "Müdigkeit und Frieren sind typisch.",
+        "Häufigste Ursache ist Hashimoto.",
+        "Das Hormon lässt sich gut ersetzen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

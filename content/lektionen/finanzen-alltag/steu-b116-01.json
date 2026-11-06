@@ -1,0 +1,121 @@
+{
+  "id": "steu-b116-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Versicherungsbeiträge von der Steuer absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vorsorgeaufwendungen",
+    "sonderausgaben",
+    "versicherungen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Krankenversicherung, Rentenversicherung, Haftpflicht: Jeden Monat gehen Beiträge vom Konto.",
+        "Einen Teil davon kannst du in der Steuererklärung angeben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsorgeaufwendungen",
+      "absaetze": [
+        "Viele Versicherungsbeiträge zählen steuerlich zu den Vorsorgeaufwendungen. Das ist eine Form von Sonderausgaben.",
+        "Bei Arbeitnehmern werden viele Beiträge schon beim Lohnsteuerabzug berücksichtigt. In der Steuererklärung trägst du sie trotzdem ein, damit alles korrekt verrechnet wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was voll zählt",
+      "absaetze": [
+        "Beiträge zur Basis-Krankenversicherung und zur Pflegeversicherung sind voll absetzbar. Zusatzleistungen wie Chefarztbehandlung zählen nicht dazu.",
+        "Beiträge zur Altersvorsorge, etwa zur gesetzlichen Rente, sind seit 2023 bis zu einem hohen Höchstbetrag vollständig absetzbar."
+      ],
+      "merke": "Basis-Kranken- und Pflegeversicherung sind voll absetzbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Rest teilt sich einen Topf",
+      "absaetze": [
+        "Haftpflicht, Unfallversicherung, Arbeitslosenversicherung oder Risikolebensversicherung teilen sich einen begrenzten Höchstbetrag. Für Arbeitnehmer liegt er bei 1.900 Euro im Jahr, für Selbstständige bei 2.800 Euro.",
+        "Oft ist dieser Topf schon durch die Krankenversicherung ausgeschöpft. Eintragen lohnt sich trotzdem, denn das Finanzamt prüft das automatisch."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Gruppe zählen viele Versicherungsbeiträge steuerlich?",
+      "art": "mc",
+      "optionen": [
+        "Vorsorgeaufwendungen",
+        "Werbungskosten",
+        "Betriebsausgaben",
+        "Einnahmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind eine Form der Sonderausgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Beiträge sind voll absetzbar?",
+      "art": "mc",
+      "optionen": [
+        "Basis-Kranken- und Pflegeversicherung",
+        "Handyversicherung",
+        "Reisegepäckversicherung",
+        "Glasversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zusatzleistungen zählen nicht dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Höchstbetrag für sonstige Vorsorgeaufwendungen bei Arbeitnehmern?",
+      "art": "mc",
+      "optionen": [
+        "1.900 Euro im Jahr",
+        "190 Euro im Jahr",
+        "19.000 Euro im Jahr",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Selbstständige sind es 2.800 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es lohnt sich nie, Haftpflichtbeiträge einzutragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das Finanzamt prüft automatisch, ob noch Spielraum ist."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Versicherungsbeiträge sind oft Vorsorgeaufwendungen.",
+        "Basis-Kranken- und Pflegeversicherung zählen voll.",
+        "Andere Versicherungen teilen sich einen Höchstbetrag.",
+        "Eintragen lohnt sich trotzdem."
+      ]
+    }
+  ]
+}

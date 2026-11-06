@@ -1,0 +1,123 @@
+{
+  "id": "ern-b116-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Miso?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "miso",
+    "fermentation",
+    "japanische kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Misosuppe gibt es in fast jedem japanischen Restaurant.",
+        "Hinter der würzigen Paste steckt eine jahrhundertealte Kunst der Fermentation."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bohnen, Salz und ein Pilz",
+      "absaetze": [
+        "Miso ist eine Paste aus Sojabohnen, Salz und Koji. Koji ist ein Edelschimmelpilz, der oft auf Reis oder Gerste gezüchtet wird.",
+        "Die Mischung reift Wochen bis Jahre. Dabei zerlegt der Pilz Eiweiß und Stärke. So entsteht der kräftige, herzhafte Geschmack."
+      ],
+      "merke": "Miso ist fermentierte Sojapaste mit Salz und Koji."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hell bis dunkel",
+      "absaetze": [
+        "Helles Miso reift kurz und schmeckt mild und leicht süß. Dunkles Miso reift länger und schmeckt kräftiger und salziger.",
+        "Miso würzt Suppen, Dressings, Marinaden und Gemüse. Gib es erst am Ende in die Suppe und lass es nicht mehr kochen. So bleibt das Aroma erhalten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Miso enthält viel Salz. Schon kleine Mengen tragen deutlich zur Tagesmenge bei. Bei Bluthochdruck solltest du darauf achten.",
+        "Fermentierte Lebensmittel werden viel erforscht. Ob Miso der Darmflora nützt, ist beim Menschen noch unklar. Wer Soja nicht verträgt, sollte Miso meiden."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Miso?",
+      "art": "mc",
+      "optionen": [
+        "Aus Sojabohnen, Salz und Koji",
+        "Aus Fisch und Essig",
+        "Aus Reis und Zucker",
+        "Aus Algen und Öl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Koji ist ein Edelschimmelpilz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schmeckt helles Miso im Vergleich zu dunklem?",
+      "art": "mc",
+      "optionen": [
+        "Milder und leicht süß",
+        "Salziger und kräftiger",
+        "Bitter",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dunkles Miso reift länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Miso sollte in der Suppe lange sprudelnd kochen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gib es erst am Ende dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf solltest du bei Miso achten?",
+      "art": "mc",
+      "optionen": [
+        "Auf den hohen Salzgehalt",
+        "Auf zu viel Vitamin C",
+        "Auf Koffein",
+        "Auf Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders bei Bluthochdruck."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Miso ist eine fermentierte Sojapaste.",
+        "Koji-Pilz sorgt für den Geschmack.",
+        "Erst am Ende in die Suppe geben.",
+        "Miso ist sehr salzreich."
+      ]
+    }
+  ]
+}

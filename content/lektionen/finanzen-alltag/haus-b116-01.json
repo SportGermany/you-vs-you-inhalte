@@ -1,0 +1,121 @@
+{
+  "id": "haus-b116-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du einen Rucksack?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rucksack",
+    "waesche",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Brotkrümel, verschütteter Saft, Schweiß am Rückenteil: Ein Rucksack wird schnell schmutzig.",
+        "Mit etwas Sorgfalt wird er wieder frisch, ohne Schaden zu nehmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbereitung",
+      "absaetze": [
+        "Leere alle Fächer vollständig und schüttle Krümel aus. Ein Staubsauger hilft in den Ecken.",
+        "Schau aufs Pflegeetikett. Viele Rucksäcke vertragen nur Handwäsche. Modelle mit festem Tragegestell gehören nie in die Waschmaschine."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sanft reinigen",
+      "absaetze": [
+        "Weiche den Rucksack in lauwarmem Wasser mit etwas mildem Waschmittel ein. Bürste Flecken mit einer weichen Bürste aus.",
+        "Spüle gründlich mit klarem Wasser nach. Waschmittelreste ziehen sonst neuen Schmutz an. Darf er in die Maschine, nutze einen Schonwaschgang und einen Wäschesack."
+      ],
+      "merke": "Lauwarmes Wasser, mildes Waschmittel und eine weiche Bürste reichen meist."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig trocknen",
+      "absaetze": [
+        "Häng den Rucksack offen und kopfüber auf. So kann Wasser abtropfen und die Fächer trocknen gut.",
+        "Vermeide Heizung, Trockner und pralle Sonne. Hitze kann Beschichtungen und Kunststoffteile beschädigen. Eine Imprägnierung kannst du danach auffrischen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Rucksäcke gehören nie in die Waschmaschine?",
+      "art": "mc",
+      "optionen": [
+        "Modelle mit festem Tragegestell",
+        "Alle Stoffrucksäcke",
+        "Nur kleine Rucksäcke",
+        "Rucksäcke ohne Fächer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gestell kann Schaden nehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du gründlich nachspülen?",
+      "art": "mc",
+      "optionen": [
+        "Waschmittelreste ziehen Schmutz an",
+        "Damit er schwerer wird",
+        "Damit er schneller trocknet",
+        "Das ist unnötig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Klares Wasser entfernt die Reste."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Rucksack trocknet am besten auf der Heizung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Hitze kann Beschichtungen beschädigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hängst du den Rucksack zum Trocknen auf?",
+      "art": "mc",
+      "optionen": [
+        "Offen und kopfüber",
+        "Geschlossen und gefaltet",
+        "In einer Plastiktüte",
+        "In der prallen Sonne"
+      ],
+      "richtig": 0,
+      "erklaerung": "So tropft das Wasser gut ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erst alle Fächer leeren.",
+        "Mild und lauwarm von Hand waschen.",
+        "Gründlich nachspülen.",
+        "Offen und kopfüber ohne Hitze trocknen."
+      ]
+    }
+  ]
+}

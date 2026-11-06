@@ -1,0 +1,121 @@
+{
+  "id": "geld-b116-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was misst das Bruttoinlandsprodukt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Volkswirtschaftliche Gesamtrechnungen",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bip",
+    "wirtschaft",
+    "konjunktur"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten heißt es oft: Die Wirtschaft ist gewachsen oder geschrumpft.",
+        "Gemeint ist meist das Bruttoinlandsprodukt, kurz BIP."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Wert der Wirtschaftsleistung",
+      "absaetze": [
+        "Das BIP misst den Wert aller Waren und Dienstleistungen, die in einem Land in einem bestimmten Zeitraum hergestellt werden. Vorleistungen werden abgezogen, damit nichts doppelt zählt.",
+        "In Deutschland berechnet es das Statistische Bundesamt. Es veröffentlicht Zahlen für jedes Quartal und jedes Jahr."
+      ],
+      "merke": "Das BIP misst den Wert aller hergestellten Waren und Dienstleistungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Real und nominal",
+      "absaetze": [
+        "Das nominale BIP rechnet mit aktuellen Preisen. Steigen nur die Preise, wächst es auch.",
+        "Das reale BIP rechnet die Preissteigerung heraus. Es zeigt, ob tatsächlich mehr hergestellt wurde. Schrumpft es zwei Quartale in Folge, spricht man oft von einer Rezession."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das BIP nicht zeigt",
+      "absaetze": [
+        "Das BIP erfasst keine unbezahlte Arbeit wie Hausarbeit oder Pflege in der Familie. Auch Umweltschäden oder Zufriedenheit misst es nicht.",
+        "Für den Wohlstand einzelner Menschen ist das BIP pro Kopf aussagekräftiger. Doch auch dieser Durchschnitt verrät nichts über die Verteilung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was misst das BIP?",
+      "art": "mc",
+      "optionen": [
+        "Den Wert aller hergestellten Waren und Dienstleistungen",
+        "Die Zahl der Arbeitslosen",
+        "Die Höhe der Staatsschulden",
+        "Den Ölpreis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorleistungen werden abgezogen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was rechnet das reale BIP heraus?",
+      "art": "mc",
+      "optionen": [
+        "Die Preissteigerung",
+        "Die Exporte",
+        "Die Steuern",
+        "Die Bevölkerung"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sieht man, ob wirklich mehr hergestellt wurde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das BIP erfasst auch unbezahlte Hausarbeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Unbezahlte Arbeit fließt nicht ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann spricht man oft von einer Rezession?",
+      "art": "mc",
+      "optionen": [
+        "Wenn das reale BIP zwei Quartale in Folge schrumpft",
+        "Wenn die Preise steigen",
+        "Wenn die Börse an einem Tag fällt",
+        "Wenn die Zinsen sinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist eine gängige Faustregel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das BIP misst die Wirtschaftsleistung eines Landes.",
+        "Das reale BIP rechnet die Preissteigerung heraus.",
+        "Zwei Quartale Rückgang gelten oft als Rezession.",
+        "Unbezahlte Arbeit und Umwelt fehlen im BIP."
+      ]
+    }
+  ]
+}

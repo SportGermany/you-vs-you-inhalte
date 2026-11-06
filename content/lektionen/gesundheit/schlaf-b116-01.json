@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b116-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Helfen Schlafrechner mit 90-Minuten-Zyklen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schlafzyklus",
+    "aufwachen",
+    "apps"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Apps rechnen dir aus, wann du ins Bett gehen sollst. Grundlage sind Schlafzyklen von 90 Minuten.",
+        "Klingt präzise. Doch so gleichmäßig schläft kaum jemand."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was ein Schlafzyklus ist",
+      "absaetze": [
+        "Im Schlaf durchläufst du mehrere Zyklen. Jeder besteht aus leichtem Schlaf, Tiefschlaf und Traumschlaf. Pro Nacht sind es meist vier bis sechs Zyklen.",
+        "Ein Zyklus dauert im Schnitt etwa 90 Minuten. Die Länge schwankt aber, oft zwischen 70 und 120 Minuten. Sie unterscheidet sich von Mensch zu Mensch und von Nacht zu Nacht."
+      ],
+      "merke": "Schlafzyklen dauern im Schnitt etwa 90 Minuten, aber nicht immer.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee der Rechner",
+      "absaetze": [
+        "Wer aus dem leichten Schlaf aufwacht, fühlt sich oft weniger benommen als nach dem Tiefschlaf. Rechner wollen deshalb das Ende eines Zyklus treffen.",
+        "Weil die Zyklen schwanken, klappt das selten genau. Auch die Zeit bis zum Einschlafen ist jeden Abend anders."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was mehr bringt",
+      "absaetze": [
+        "Feste Schlaf- und Aufstehzeiten helfen meist mehr als exakte Rechnungen. Der Körper stellt sich darauf ein.",
+        "Ausreichend lange Nächte sind wichtiger, als einen Zyklus perfekt zu treffen. Ein Rechner kann trotzdem eine grobe Orientierung geben."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert ein Schlafzyklus im Schnitt?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 90 Minuten",
+        "Etwa 10 Minuten",
+        "Etwa 4 Stunden",
+        "Genau 60 Minuten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Länge schwankt aber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht ein Schlafzyklus?",
+      "art": "mc",
+      "optionen": [
+        "Leichtschlaf, Tiefschlaf und Traumschlaf",
+        "Nur aus Tiefschlaf",
+        "Aus Wachphasen",
+        "Nur aus Traumschlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Pro Nacht gibt es meist vier bis sechs Zyklen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Alle Schlafzyklen dauern exakt 90 Minuten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie schwanken oft zwischen 70 und 120 Minuten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft meist mehr als ein Schlafrechner?",
+      "art": "mc",
+      "optionen": [
+        "Feste Schlaf- und Aufstehzeiten",
+        "Jeden Tag andere Zeiten",
+        "Mehrere Wecker",
+        "Kaffee am Abend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper stellt sich darauf ein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafzyklen dauern im Schnitt etwa 90 Minuten.",
+        "Ihre Länge schwankt deutlich.",
+        "Rechner treffen das Zyklusende selten genau.",
+        "Regelmäßige Zeiten bringen mehr."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "lern-b116-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie fängst du an, programmieren zu lernen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "programmieren",
+    "lernstrategien",
+    "technik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Programmieren wirkt auf viele wie eine Geheimsprache.",
+        "Doch mit dem richtigen Einstieg können es Menschen jeden Alters lernen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein und konkret",
+      "absaetze": [
+        "Such dir ein kleines Projekt, das dich interessiert. Zum Beispiel ein Rechner für dein Haushaltsbuch oder ein einfaches Spiel.",
+        "Ein konkretes Ziel motiviert mehr als trockene Übungen. Für den Anfang eignen sich einsteigerfreundliche Sprachen. Für Kinder gibt es Baukastensprachen mit bunten Blöcken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selbst tippen statt kopieren",
+      "absaetze": [
+        "Tippe Beispiele selbst ab, statt sie zu kopieren. Ändere dann Kleinigkeiten und schau, was passiert.",
+        "Regelmäßiges Üben in kurzen Einheiten bringt mehr als seltene Marathon-Sitzungen. Verteiltes Lernen festigt das Wissen."
+      ],
+      "merke": "Selbst tippen und verändern bringt mehr als kopieren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fehler gehören dazu",
+      "absaetze": [
+        "Fehlermeldungen sind normal, auch für Profis. Lies sie genau, denn sie verraten oft, wo das Problem liegt.",
+        "Hilfreich ist es, den Code laut Zeile für Zeile zu erklären. Dabei fallen Denkfehler oft von selbst auf. Lernen durch Erklären gilt als wirksame Methode."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit startest du am besten?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem kleinen, konkreten Projekt",
+        "Mit dem dicksten Fachbuch",
+        "Mit einem großen Betriebssystem",
+        "Ohne Ziel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein konkretes Ziel motiviert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du Beispiele selbst abtippen?",
+      "art": "mc",
+      "optionen": [
+        "Du lernst dabei mehr als beim Kopieren",
+        "Es geht schneller",
+        "Kopieren ist verboten",
+        "Es spart Strom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verändere danach Kleinigkeiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fehlermeldungen bekommen nur Anfänger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch Profis sehen sie ständig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, Denkfehler im Code zu finden?",
+      "art": "mc",
+      "optionen": [
+        "Den Code laut Zeile für Zeile erklären",
+        "Den Bildschirm ausschalten",
+        "Alles neu kaufen",
+        "Schneller tippen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lernen durch Erklären ist wirksam."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Starte mit einem kleinen Projekt.",
+        "Tippe Code selbst und verändere ihn.",
+        "Übe kurz und regelmäßig.",
+        "Fehler sind ein normaler Teil des Lernens."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tech-b116-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Zylinderschloss?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schloss",
+    "schluessel",
+    "mechanik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du steckst den Schlüssel ins Schloss, drehst, und die Tür geht auf.",
+        "Mit einem fremden Schlüssel klappt das nicht. Warum eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stifte im Inneren",
+      "absaetze": [
+        "In einem Zylinderschloss steckt ein drehbarer Kern. Darüber liegen mehrere kleine Stifte, jeweils aus zwei Teilen. Federn drücken sie nach unten.",
+        "Ohne Schlüssel ragen die Stifte über die Grenze zwischen Kern und Gehäuse. Diese Grenze nennt man Scherlinie. Der Kern ist dann blockiert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der passende Schlüssel",
+      "absaetze": [
+        "Die Zacken am Schlüssel haben unterschiedliche Höhen. Steckt der richtige Schlüssel im Schloss, schiebt er jeden Stift genau auf die richtige Höhe.",
+        "Dann liegen alle Trennstellen der Stifte auf der Scherlinie. Der Kern lässt sich drehen und bewegt den Riegel."
+      ],
+      "merke": "Nur der passende Schlüssel bringt alle Stifte auf die Scherlinie."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein altes Prinzip",
+      "absaetze": [
+        "Das Prinzip ist schon Jahrtausende alt, bereits im alten Ägypten gab es Stiftschlösser aus Holz. Im 19. Jahrhundert entwickelte der Amerikaner Linus Yale das moderne Zylinderschloss.",
+        "Heute gibt es Zylinder mit Schutz gegen Aufbohren und Ziehen. Für Haustüren empfehlen Fachleute geprüfte Sicherheitszylinder."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was drückt die Stifte im Schloss nach unten?",
+      "art": "mc",
+      "optionen": [
+        "Federn",
+        "Magnete",
+        "Öl",
+        "Luftdruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Schlüssel blockieren die Stifte den Kern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Grenze zwischen Kern und Gehäuse?",
+      "art": "mc",
+      "optionen": [
+        "Scherlinie",
+        "Schlüssellinie",
+        "Drehachse",
+        "Riegelkante"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort müssen alle Trennstellen liegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein fremder Schlüssel bringt die Stifte meist nicht auf die richtige Höhe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb lässt sich der Kern nicht drehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entwickelte das moderne Zylinderschloss?",
+      "art": "mc",
+      "optionen": [
+        "Linus Yale",
+        "Thomas Edison",
+        "Carl Benz",
+        "Alexander Graham Bell"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das war im 19. Jahrhundert."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Federn drücken Stifte in den Kern.",
+        "Nur der passende Schlüssel richtet alle Stifte aus.",
+        "Dann lässt sich der Kern drehen.",
+        "Linus Yale entwickelte das moderne Zylinderschloss."
+      ]
+    }
+  ]
+}
