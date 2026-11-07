@@ -1,0 +1,138 @@
+{
+  "id": "schlaf-b138-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Gehören Pflanzen ins Schlafzimmer?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Innenraumluft",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zimmerpflanzen",
+    "schlafzimmer",
+    "raumluft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche sagen, Pflanzen im Schlafzimmer würden nachts den Sauerstoff wegatmen.",
+        "Andere schwören, sie sorgten für bessere Luft und tieferen Schlaf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Sauerstoff-Mythos",
+      "absaetze": [
+        "Pflanzen nehmen nachts tatsächlich etwas Sauerstoff auf und geben Kohlendioxid ab. Die Mengen sind aber winzig.",
+        "Ein schlafender Mensch verbraucht weit mehr Sauerstoff als ein paar Topfpflanzen. Gefährlich ist das also nicht."
+      ],
+      "merke": "Pflanzen verbrauchen nachts nur winzige Mengen Sauerstoff.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bessere Luft?",
+      "absaetze": [
+        "Oft heißt es, Pflanzen reinigen die Raumluft von Schadstoffen. Dieser Effekt zeigte sich vor allem in kleinen, geschlossenen Testkammern.",
+        "In normalen Wohnräumen ist er kaum messbar. Regelmäßiges Lüften verbessert die Luft deutlich stärker."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was zu beachten ist",
+      "absaetze": [
+        "Pflanzen können das Schlafzimmer gemütlicher machen und beruhigend wirken. Wie stark sich das auf den Schlaf auswirkt, ist unklar.",
+        "Feuchte Blumenerde kann Schimmelsporen enthalten. Für Menschen mit Schimmelallergie sind viele Topfpflanzen im Schlafzimmer deshalb ungünstig."
+      ],
+      "merke": "Bei Schimmelallergie lieber wenige Pflanzen im Schlafzimmer.",
+      "studienlage": 1
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Pflanzen im Schlafzimmer nehmen dir nachts die Luft zum Atmen.",
+      "urteil": "mythos",
+      "erklaerung": "Falsch. Ihr Sauerstoffverbrauch ist im Vergleich zum Menschen winzig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Sauerstoff verbrauchen Pflanzen nachts?",
+      "art": "mc",
+      "optionen": [
+        "Nur winzige Mengen",
+        "Mehr als ein Mensch",
+        "Den ganzen Raum leer",
+        "Gar keinen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gefährlich ist das nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Reinigen Pflanzen die Luft in normalen Wohnräumen deutlich?",
+      "art": "mc",
+      "optionen": [
+        "Kaum messbar",
+        "Ja, wie ein Luftfilter",
+        "Ja, besser als Lüften",
+        "Nur Kakteen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lüften wirkt stärker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Feuchte Blumenerde kann Schimmelsporen enthalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist für Allergiker wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verbessert die Luft im Schlafzimmer am stärksten?",
+      "art": "mc",
+      "optionen": [
+        "Regelmäßiges Lüften",
+        "Viele Pflanzen",
+        "Duftkerzen",
+        "Geschlossene Fenster"
+      ],
+      "richtig": 0,
+      "erklaerung": "Frische Luft senkt Feuchtigkeit und Kohlendioxid."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflanzen verbrauchen nachts kaum Sauerstoff.",
+        "Ihre luftreinigende Wirkung ist im Alltag gering.",
+        "Lüften verbessert die Luft deutlich stärker.",
+        "Bei Schimmelallergie Vorsicht mit Topferde."
+      ]
+    }
+  ]
+}

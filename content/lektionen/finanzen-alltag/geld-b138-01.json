@@ -1,0 +1,122 @@
+{
+  "id": "geld-b138-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie viel Miete kannst du dir leisten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "miete",
+    "budget",
+    "wohnen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Traumwohnung ist gefunden, doch die Miete ist hoch. Passt das ins Budget?",
+        "Eine einfache Faustregel hilft bei der ersten Einschätzung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Drittel-Regel",
+      "absaetze": [
+        "Eine bekannte Faustregel lautet: Die Warmmiete sollte höchstens etwa ein Drittel deines Nettoeinkommens betragen. Die Warmmiete enthält Nebenkosten und Heizung.",
+        "Der Rest muss für Lebensmittel, Mobilität, Versicherungen, Freizeit und Rücklagen reichen."
+      ],
+      "merke": "Die Warmmiete sollte möglichst höchstens ein Drittel des Nettoeinkommens ausmachen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Wirklichkeit in Städten",
+      "absaetze": [
+        "In vielen Großstädten geben Menschen heute deutlich mehr für die Miete aus. Dann bleibt weniger Spielraum für unerwartete Ausgaben.",
+        "Rechne deshalb vor der Unterschrift dein gesamtes Monatsbudget durch. Plane auch Rücklagen für Reparaturen und Notfälle ein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es knapp wird",
+      "absaetze": [
+        "Bei kleinem Einkommen kann ein Anspruch auf Wohngeld bestehen. Ob du berechtigt bist, kannst du bei der Wohngeldstelle deiner Gemeinde prüfen lassen.",
+        "Auch eine kleinere Wohnung, ein anderes Viertel oder eine Wohngemeinschaft können die Belastung senken."
+      ],
+      "merke": "Bei kleinem Einkommen den Anspruch auf Wohngeld prüfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lautet die bekannte Faustregel für die Miete?",
+      "art": "mc",
+      "optionen": [
+        "Höchstens etwa ein Drittel des Nettoeinkommens",
+        "Mindestens die Hälfte",
+        "Genau zehn Prozent",
+        "Das ganze Einkommen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gemeint ist die Warmmiete."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält die Warmmiete?",
+      "art": "mc",
+      "optionen": [
+        "Nebenkosten und Heizung",
+        "Nur die Kaltmiete",
+        "Strom und Internet immer",
+        "Die Kaution"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist für das Budget entscheidend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In vielen Großstädten liegt die Mietbelastung oft über einem Drittel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann bleibt weniger Spielraum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann bei kleinem Einkommen helfen?",
+      "art": "mc",
+      "optionen": [
+        "Wohngeld",
+        "Ein Kredit für die Miete",
+        "Mehr Ausgaben",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wohngeldstelle prüft den Anspruch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Warmmiete sollte möglichst höchstens ein Drittel des Nettos betragen.",
+        "Das gesamte Monatsbudget vorher durchrechnen.",
+        "Rücklagen nicht vergessen.",
+        "Bei kleinem Einkommen Wohngeld prüfen."
+      ]
+    }
+  ]
+}

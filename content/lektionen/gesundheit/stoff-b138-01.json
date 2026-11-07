@@ -1,0 +1,133 @@
+{
+  "id": "stoff-b138-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie verdaut der Körper Fett?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wissenschaft und Ernährung",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fettverdauung",
+    "galle",
+    "verdauung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fett löst sich nicht in Wasser. Der Körper besteht aber zum großen Teil aus Wasser.",
+        "Wie bekommt er das Fett aus der Nahrung trotzdem ins Blut?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Galle macht Fett löslich",
+      "absaetze": [
+        "Im Dünndarm trifft das Fett auf Galle aus der Leber. Sie zerteilt große Fetttropfen in viele winzige, ähnlich wie Spülmittel in fettigem Wasser.",
+        "Dadurch entsteht eine große Oberfläche. Enzyme aus der Bauchspeicheldrüse, die Lipasen, können das Fett nun in kleinere Bausteine spalten."
+      ],
+      "merke": "Galle zerteilt Fett, Lipasen spalten es.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Über die Lymphe ins Blut",
+      "absaetze": [
+        "Die Darmzellen nehmen die Fettbausteine auf und setzen sie wieder zu Fett zusammen. Verpackt in kleine Transportteilchen gelangen sie zunächst in die Lymphe.",
+        "Erst über die Lymphbahnen erreichen sie das Blut. So kommt das Fett zu Muskeln und Fettgewebe."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Fett wichtig ist",
+      "absaetze": [
+        "Die Vitamine A, D, E und K sind fettlöslich. Der Körper kann sie nur zusammen mit etwas Fett gut aufnehmen.",
+        "Fettiger, heller Stuhl kann ein Zeichen dafür sein, dass die Fettverdauung gestört ist. Das sollte ärztlich abgeklärt werden."
+      ],
+      "merke": "Fettlösliche Vitamine brauchen Fett zur Aufnahme.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zerteilt große Fetttropfen im Darm?",
+      "art": "mc",
+      "optionen": [
+        "Die Galle",
+        "Der Speichel",
+        "Die Magensäure allein",
+        "Das Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ähnlich wie Spülmittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Enzyme spalten Fett?",
+      "art": "mc",
+      "optionen": [
+        "Lipasen",
+        "Amylasen",
+        "Proteasen",
+        "Laktasen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stammen aus der Bauchspeicheldrüse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fett gelangt zuerst über die Lymphe ins Blut.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Verpackt in kleine Transportteilchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vitamine brauchen Fett zur Aufnahme?",
+      "art": "mc",
+      "optionen": [
+        "A, D, E und K",
+        "Nur Vitamin C",
+        "Alle B-Vitamine",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind fettlöslich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Galle zerteilt Fett in winzige Tropfen.",
+        "Lipasen spalten es in Bausteine.",
+        "Über die Lymphe gelangt Fett ins Blut.",
+        "Fettlösliche Vitamine brauchen Fett zur Aufnahme.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

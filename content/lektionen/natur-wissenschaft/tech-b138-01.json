@@ -1,0 +1,128 @@
+{
+  "id": "tech-b138-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Wärmepumpentrockner?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waeschetrockner",
+    "waermepumpe",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wäschetrockner gelten als Stromfresser.",
+        "Moderne Wärmepumpentrockner brauchen aber deutlich weniger Energie als ältere Geräte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warme Luft trocknet",
+      "absaetze": [
+        "In jedem Trockner strömt warme Luft durch die drehende Trommel. Sie nimmt die Feuchtigkeit aus der Wäsche auf.",
+        "Ältere Ablufttrockner blasen die feuchte Luft einfach nach draußen. Kondenstrockner kühlen sie ab, sammeln das Wasser und heizen die Luft wieder mit einem Heizstab auf."
+      ],
+      "merke": "Warme Luft nimmt in der Trommel Feuchtigkeit auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme wird wiederverwendet",
+      "absaetze": [
+        "Ein Wärmepumpentrockner arbeitet ähnlich wie ein Kühlschrank. Ein Kältemittel kühlt die feuchte Luft ab, damit das Wasser auskondensiert.",
+        "Die dabei gewonnene Wärme heizt die trockene Luft wieder auf. Weil die Wärme im Kreislauf bleibt, braucht das Gerät viel weniger Strom."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tipps für den Alltag",
+      "absaetze": [
+        "Wärmepumpentrockner brauchen meist etwas länger, schonen aber Wäsche und Stromrechnung. Gut geschleuderte Wäsche verkürzt die Trockenzeit.",
+        "Reinige das Flusensieb nach jedem Durchgang und gelegentlich den Wärmetauscher. Am sparsamsten bleibt das Trocknen an der Luft."
+      ],
+      "merke": "Flusensieb nach jedem Durchgang reinigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was nimmt in der Trommel die Feuchtigkeit auf?",
+      "art": "mc",
+      "optionen": [
+        "Warme Luft",
+        "Kaltes Wasser",
+        "Ein Schwamm",
+        "Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt für alle Trockner."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie arbeitet ein Wärmepumpentrockner?",
+      "art": "mc",
+      "optionen": [
+        "Ähnlich wie ein Kühlschrank mit Kältemittel",
+        "Mit offenem Feuer",
+        "Mit Sonnenlicht",
+        "Nur mit einem Heizstab"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Wärme bleibt im Kreislauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wärmepumpentrockner brauchen mehr Strom als Ablufttrockner.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind deutlich sparsamer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nach jedem Durchgang reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Das Flusensieb",
+        "Die Steckdose",
+        "Das Bedienfeld",
+        "Die Füße des Geräts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt das Gerät effizient."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Warme Luft trocknet die Wäsche.",
+        "Wärmepumpentrockner nutzen die Wärme im Kreislauf.",
+        "Sie brauchen deutlich weniger Strom.",
+        "Flusensieb regelmäßig reinigen."
+      ]
+    }
+  ]
+}

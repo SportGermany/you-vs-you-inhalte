@@ -1,0 +1,139 @@
+{
+  "id": "supp-b138-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von HMB-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hmb",
+    "muskeln",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "HMB soll Muskeln schützen und beim Muskelaufbau helfen, besonders im Alter.",
+        "Was steckt hinter der Abkürzung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Abbauprodukt von Leucin",
+      "absaetze": [
+        "HMB entsteht im Körper, wenn er die Aminosäure Leucin abbaut. Leucin steckt in vielen eiweißreichen Lebensmitteln.",
+        "Als Präparat wird HMB damit beworben, den Abbau von Muskeln zu bremsen. Es gibt Kapseln und Pulver, oft auch in Trinknahrung für ältere Menschen."
+      ],
+      "merke": "HMB ist ein Abbauprodukt der Aminosäure Leucin."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Bei trainierten jungen Menschen fanden Studien kaum einen Nutzen. Bei älteren Menschen oder bei langer Bettruhe deuten einige Studien auf kleine Effekte hin.",
+        "Die Ergebnisse sind aber uneinheitlich, und viele Studien sind klein. Ob HMB wirklich hilft, ist unklar."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Muskeln wirklich hilft",
+      "absaetze": [
+        "Gut belegt sind Krafttraining und ausreichend Eiweiß aus der Ernährung. Das gilt gerade auch im Alter.",
+        "Bei ungewolltem Muskelabbau, etwa nach Krankheit, solltest du ärztlich beraten lassen. Präparate ersetzen weder Training noch eine ausgewogene Ernährung."
+      ],
+      "merke": "Krafttraining und Eiweiß sind gut belegt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "In Schwangerschaft und Stillzeit fehlen Daten zur Sicherheit.",
+        "Bei Nierenerkrankungen nur nach ärztlicher Rücksprache verwenden.",
+        "Präparate ersetzen kein Training und keine ausgewogene Ernährung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus entsteht HMB im Körper?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Aminosäure Leucin",
+        "Aus Zucker",
+        "Aus Vitamin C",
+        "Aus Kalzium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leucin steckt in eiweißreichen Lebensmitteln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gut ist der Nutzen von HMB belegt?",
+      "art": "mc",
+      "optionen": [
+        "Unklar, Studien sind uneinheitlich",
+        "Eindeutig für alle",
+        "Sehr gut für junge Sportler",
+        "Gar nicht untersucht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Älteren gibt es Hinweise auf kleine Effekte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Krafttraining ist für den Muskelerhalt gut belegt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Zusammen mit ausreichend Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei ungewolltem Muskelabbau tun?",
+      "art": "mc",
+      "optionen": [
+        "Ärztlich beraten lassen",
+        "Nur HMB nehmen",
+        "Weniger essen",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dahinter kann eine Krankheit stecken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "HMB ist ein Abbauprodukt von Leucin.",
+        "Bei jungen Sportlern zeigte es kaum Nutzen.",
+        "Bei Älteren ist die Wirkung unklar.",
+        "Krafttraining und Eiweiß sind gut belegt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "haus-b138-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Fensterrahmen richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fensterrahmen",
+    "putzen",
+    "fenster"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Scheiben sind sauber, doch die Rahmen sehen grau aus.",
+        "Je nach Material brauchen sie eine andere Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kunststoffrahmen",
+      "absaetze": [
+        "Für weiße Kunststoffrahmen reicht warmes Wasser mit etwas Spülmittel. Ein weiches Tuch oder ein Schwamm genügt.",
+        "Verzichte auf Scheuermilch, Stahlwolle und Lösungsmittel. Sie zerkratzen die Oberfläche, und dort setzt sich Schmutz später noch schneller fest."
+      ],
+      "merke": "Kunststoffrahmen nur mit mildem Spülmittelwasser reinigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Holz und Dichtungen",
+      "absaetze": [
+        "Lackierte Holzrahmen reinigst du ebenfalls mild und wischst sie danach trocken. Geölte Rahmen brauchen ab und zu neues Öl.",
+        "Die Gummidichtungen solltest du nur feucht abwischen. Ein Pflegestift hält sie geschmeidig, damit das Fenster dicht bleibt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Entwässerung nicht vergessen",
+      "absaetze": [
+        "Unten im Rahmen gibt es kleine Öffnungen, durch die Regenwasser abfließt. Sind sie verstopft, kann sich Wasser stauen.",
+        "Reinige sie gelegentlich mit einem Pfeifenreiniger oder einer kleinen Bürste. Putze die Rahmen am besten vor den Scheiben, damit kein Schmutz auf das saubere Glas tropft."
+      ],
+      "merke": "Entwässerungsöffnungen im Rahmen freihalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit reinigst du Kunststoffrahmen am besten?",
+      "art": "mc",
+      "optionen": [
+        "Mit warmem Wasser und etwas Spülmittel",
+        "Mit Stahlwolle",
+        "Mit Scheuermilch",
+        "Mit Lösungsmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt die Oberfläche glatt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält die Gummidichtungen geschmeidig?",
+      "art": "mc",
+      "optionen": [
+        "Ein Pflegestift",
+        "Benzin",
+        "Salz",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann bleibt das Fenster dicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Verstopfte Entwässerungsöffnungen können zu stehendem Wasser führen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Reinige sie gelegentlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was putzt du zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Die Rahmen",
+        "Die Scheiben",
+        "Den Boden",
+        "Die Gardinen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So tropft kein Schmutz auf das saubere Glas."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kunststoffrahmen mild reinigen.",
+        "Keine Scheuermittel oder Lösungsmittel verwenden.",
+        "Dichtungen pflegen.",
+        "Entwässerungsöffnungen freihalten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "steu-b138-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Warum bleibt vom Weihnachtsgeld so wenig übrig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "weihnachtsgeld",
+    "lohnsteuer",
+    "sonderzahlung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Endlich Weihnachtsgeld! Doch auf der Abrechnung ist der Nettobetrag viel kleiner als erhofft.",
+        "Das hat mit der Art zu tun, wie Sonderzahlungen besteuert werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein sonstiger Bezug",
+      "absaetze": [
+        "Weihnachtsgeld, Urlaubsgeld und Boni gelten steuerlich als sonstige Bezüge. Sie kommen zum normalen Gehalt hinzu.",
+        "Für die Lohnsteuer wird berechnet, wie hoch dein Jahreseinkommen mit der Zahlung ist. Weil die Steuer mit dem Einkommen steigt, wird der zusätzliche Betrag höher besteuert als ein Durchschnittseuro."
+      ],
+      "merke": "Sonderzahlungen werden mit dem höheren Grenzsteuersatz besteuert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch Sozialabgaben",
+      "absaetze": [
+        "Neben der Lohnsteuer fallen Beiträge zur Renten-, Kranken-, Pflege- und Arbeitslosenversicherung an. Das gilt, solange du unter den Beitragsbemessungsgrenzen liegst.",
+        "Zusammen mit Solidaritätszuschlag und Kirchensteuer kann so ein großer Teil abgezogen werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Grund zur Sorge",
+      "absaetze": [
+        "Die Steuer auf die Sonderzahlung ist nicht falsch, sondern entspricht deinem Einkommen. Über das Jahr gesehen zahlst du nicht mehr Steuern als ohne Einmalzahlung auf denselben Betrag.",
+        "Wurde im Laufe des Jahres zu viel Lohnsteuer abgezogen, bekommst du sie mit der Steuererklärung zurück."
+      ],
+      "merke": "Zu viel gezahlte Lohnsteuer gibt es mit der Steuererklärung zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gelten Weihnachtsgeld und Boni steuerlich?",
+      "art": "mc",
+      "optionen": [
+        "Als sonstige Bezüge",
+        "Als steuerfreies Geschenk",
+        "Als Spende",
+        "Als Kredit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kommen zum normalen Gehalt hinzu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird die Sonderzahlung vergleichsweise hoch besteuert?",
+      "art": "mc",
+      "optionen": [
+        "Sie fällt in den höheren Grenzsteuersatz",
+        "Es gibt eine Strafsteuer",
+        "Weil es Dezember ist",
+        "Weil sie bar gezahlt wird"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Steuer steigt mit dem Einkommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf Weihnachtsgeld fallen auch Sozialabgaben an.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Solange du unter den Beitragsbemessungsgrenzen liegst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn zu viel Lohnsteuer abgezogen wurde?",
+      "art": "mc",
+      "optionen": [
+        "Du bekommst sie mit der Steuererklärung zurück",
+        "Das Geld ist verloren",
+        "Du musst nachzahlen",
+        "Der Arbeitgeber behält es"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Abrechnung erfolgt am Jahresende."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Weihnachtsgeld ist ein sonstiger Bezug.",
+        "Es wird mit dem höheren Grenzsteuersatz besteuert.",
+        "Auch Sozialabgaben fallen an.",
+        "Zu viel gezahlte Steuer kommt mit der Erklärung zurück."
+      ]
+    }
+  ]
+}

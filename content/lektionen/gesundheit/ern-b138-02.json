@@ -1,0 +1,125 @@
+{
+  "id": "ern-b138-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Instantnudeln?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "instantnudeln",
+    "fertiggerichte",
+    "salz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wasser drauf, drei Minuten warten, fertig: Instantnudeln sind schnell und billig.",
+        "Viel Nährwert steckt aber nicht in dem Becher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorgegart und frittiert",
+      "absaetze": [
+        "Die meisten Instantnudeln werden vorgegart und anschließend in Fett frittiert. So trocknen sie schnell und garen später in wenigen Minuten.",
+        "Dadurch enthalten sie mehr Fett als normale Nudeln. Ballaststoffe und Eiweiß stecken dagegen kaum darin."
+      ],
+      "merke": "Instantnudeln sind meist frittiert und fettreich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Salz im Würzpulver",
+      "absaetze": [
+        "Der größte Haken ist das Würzpulver. Eine Packung kann einen großen Teil der empfohlenen Tagesmenge an Salz liefern.",
+        "Dazu kommen Geschmacksverstärker und Aromen. Vitamine und Mineralstoffe sind kaum enthalten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besser machen",
+      "absaetze": [
+        "Nutze nur einen Teil des Würzpulvers. Gib frisches oder tiefgekühltes Gemüse, ein Ei oder Tofu dazu.",
+        "So wird aus dem Snack eine ausgewogenere Mahlzeit. Als Dauerlösung sind Instantnudeln trotzdem keine gute Wahl."
+      ],
+      "merke": "Weniger Würzpulver, mehr Gemüse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden die meisten Instantnudeln haltbar gemacht?",
+      "art": "mc",
+      "optionen": [
+        "Sie werden vorgegart und frittiert",
+        "Sie werden gesalzen und geräuchert",
+        "Sie werden eingefroren",
+        "Sie werden in Zucker eingelegt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb enthalten sie mehr Fett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der größte Haken am Würzpulver?",
+      "art": "mc",
+      "optionen": [
+        "Viel Salz",
+        "Viel Vitamin C",
+        "Viele Ballaststoffe",
+        "Viel Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Geschmacksverstärker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Instantnudeln liefern viele Ballaststoffe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie enthalten kaum Ballaststoffe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie machst du Instantnudeln ausgewogener?",
+      "art": "mc",
+      "optionen": [
+        "Mit Gemüse und weniger Würzpulver",
+        "Mit doppeltem Würzpulver",
+        "Mit Chips",
+        "Mit Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Ei oder Tofu bringen Eiweiß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Instantnudeln sind meist frittiert.",
+        "Das Würzpulver enthält viel Salz.",
+        "Vitamine und Ballaststoffe fehlen weitgehend.",
+        "Mit Gemüse und weniger Würze werden sie ausgewogener."
+      ]
+    }
+  ]
+}
