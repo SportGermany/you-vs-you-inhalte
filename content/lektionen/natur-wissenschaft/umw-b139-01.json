@@ -1,0 +1,122 @@
+{
+  "id": "umw-b139-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Was bedeutet Eutrophierung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gewässer",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "eutrophierung",
+    "gewaesser",
+    "naehrstoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Seen färben sich im Sommer grün und riechen unangenehm.",
+        "Oft steckt ein Zuviel an Nährstoffen dahinter, die Fachleute sprechen von Eutrophierung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu viel Dünger im Wasser",
+      "absaetze": [
+        "Stickstoff und Phosphor gelangen aus Feldern, Abwasser und der Luft in Flüsse und Seen. Dort wirken sie wie Dünger.",
+        "Algen und Wasserpflanzen wachsen dann massenhaft. Man spricht von einer Algenblüte."
+      ],
+      "merke": "Nährstoffe aus Dünger und Abwasser lassen Algen wuchern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Sauerstoff knapp wird",
+      "absaetze": [
+        "Sterben die Algen ab, sinken sie zu Boden. Bakterien bauen sie ab und verbrauchen dabei viel Sauerstoff.",
+        "Fische und andere Tiere können dann ersticken. In Teilen der Ostsee gibt es so sauerstoffarme Zonen am Grund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was dagegen hilft",
+      "absaetze": [
+        "Moderne Kläranlagen holen viel Phosphor aus dem Abwasser. Auch phosphatfreie Waschmittel haben die Lage vieler Gewässer verbessert.",
+        "Heute stammen viele Nährstoffe aus der Landwirtschaft. Gewässerrandstreifen und weniger Überdüngung können helfen."
+      ],
+      "merke": "Kläranlagen und weniger Dünger entlasten die Gewässer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet Eutrophierung?",
+      "art": "mc",
+      "optionen": [
+        "Ein Überangebot an Nährstoffen in Gewässern",
+        "Das Austrocknen eines Sees",
+        "Das Gefrieren eines Flusses",
+        "Eine Ölpest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vor allem Stickstoff und Phosphor sind beteiligt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird bei einer Algenblüte der Sauerstoff knapp?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien verbrauchen ihn beim Abbau toter Algen",
+        "Die Fische atmen zu schnell",
+        "Die Sonne verbrennt ihn",
+        "Das Wasser wird zu kalt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am Grund entstehen sauerstoffarme Zonen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Phosphatfreie Waschmittel haben vielen Gewässern geholfen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Kläranlagen entfernen viel Phosphor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen heute viele Nährstoffe in Gewässern?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Landwirtschaft",
+        "Aus Vulkanen",
+        "Aus dem Weltall",
+        "Aus Handys"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dünger wird von Feldern ausgewaschen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eutrophierung heißt: zu viele Nährstoffe im Wasser.",
+        "Algen wuchern und sterben ab.",
+        "Beim Abbau fehlt Sauerstoff, Tiere ersticken.",
+        "Kläranlagen und weniger Dünger helfen."
+      ]
+    }
+  ]
+}

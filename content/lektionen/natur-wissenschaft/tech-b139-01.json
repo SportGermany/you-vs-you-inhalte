@@ -1,0 +1,122 @@
+{
+  "id": "tech-b139-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie misst ein Tacho die Geschwindigkeit?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tacho",
+    "auto",
+    "fahrrad"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Blick auf den Tacho zeigt dir, wie schnell du fährst.",
+        "Doch woher weiß das Gerät das eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Radumdrehungen zählen",
+      "absaetze": [
+        "Im Auto zählen Sensoren, wie oft sich die Räder oder Teile des Getriebes drehen. Aus dem Radumfang berechnet die Elektronik die Geschwindigkeit.",
+        "Beim Fahrradtacho sitzt meist ein kleiner Magnet an einer Speiche. Ein Sensor an der Gabel registriert jede Umdrehung."
+      ],
+      "merke": "Der Tacho rechnet Umdrehungen in Geschwindigkeit um."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum der Tacho vorgeht",
+      "absaetze": [
+        "Ein Autotacho darf nach europäischen Regeln nie weniger anzeigen, als du tatsächlich fährst. Deshalb zeigt er meist etwas mehr an.",
+        "Auch abgefahrene oder andere Reifen verändern den Radumfang. Dann stimmt die Rechnung nicht mehr ganz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und das Navi?",
+      "absaetze": [
+        "Ein Navi misst die Geschwindigkeit über Satelliten. Es berechnet, wie schnell sich deine Position verändert.",
+        "Deshalb zeigt das Navi oft etwas weniger an als der Tacho. Meist liegt das Navi dabei näher an der Wahrheit."
+      ],
+      "merke": "Ein Autotacho darf nie zu wenig anzeigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zählt der Tacho im Auto?",
+      "art": "mc",
+      "optionen": [
+        "Umdrehungen von Rädern oder Getriebe",
+        "Die Zahl der Bäume am Straßenrand",
+        "Den Luftdruck",
+        "Die Herzfrequenz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus berechnet er die Geschwindigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Autotacho darf mehr anzeigen, als du fährst, aber nie weniger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb geht er meist etwas vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie misst ein Navi die Geschwindigkeit?",
+      "art": "mc",
+      "optionen": [
+        "Über die Positionsänderung per Satellit",
+        "Über den Motorlärm",
+        "Über die Temperatur",
+        "Über die Reifenfarbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es vergleicht laufend deine Position."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sitzt bei vielen Fahrradtachos an einer Speiche?",
+      "art": "mc",
+      "optionen": [
+        "Ein kleiner Magnet",
+        "Eine Batterie",
+        "Eine Kamera",
+        "Ein Lautsprecher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Sensor an der Gabel zählt jede Umdrehung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Tacho zählt Radumdrehungen.",
+        "Aus dem Radumfang wird die Geschwindigkeit berechnet.",
+        "Ein Autotacho zeigt meist etwas zu viel an.",
+        "Das Navi misst über Satelliten."
+      ]
+    }
+  ]
+}

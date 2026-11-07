@@ -1,0 +1,122 @@
+{
+  "id": "geld-b139-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was bringt Rundungssparen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rundungssparen",
+    "sparen",
+    "apps"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Einige Banken und Apps runden jede Kartenzahlung auf den nächsten vollen Euro auf.",
+        "Die Differenz wandert auf ein Sparkonto oder in einen Fonds."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So funktioniert es",
+      "absaetze": [
+        "Kostet dein Einkauf 3,60 Euro, werden 4 Euro abgebucht. Die 40 Cent landen automatisch in deiner Sparanlage.",
+        "Manche Angebote erlauben auch, den Betrag zu verdoppeln oder auf mehr als einen Euro aufzurunden. So wächst die Sparsumme schneller."
+      ],
+      "merke": "Die Rundungsdifferenz wird automatisch gespart."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was es bringt",
+      "absaetze": [
+        "Der Vorteil liegt in der Psychologie. Du sparst, ohne darüber nachzudenken und ohne es groß zu spüren.",
+        "Die Beträge bleiben aber meist klein. Für ein echtes Sparziel reicht Rundungssparen allein selten aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf Kosten achten",
+      "absaetze": [
+        "Manche Apps verlangen monatliche Gebühren. Bei kleinen Sparbeträgen können diese einen großen Teil des Ertrags auffressen.",
+        "Ein fester Dauerauftrag auf ein Sparkonto ist oft günstiger und planbarer. Rundungssparen kann ihn sinnvoll ergänzen."
+      ],
+      "merke": "Gebühren können kleine Sparbeträge auffressen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel wird bei einem Einkauf von 3,60 Euro gespart?",
+      "art": "mc",
+      "optionen": [
+        "40 Cent",
+        "3,60 Euro",
+        "4 Euro",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gerundet wird auf 4 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worin liegt der Hauptvorteil des Rundungssparens?",
+      "art": "mc",
+      "optionen": [
+        "Man spart, ohne darüber nachzudenken",
+        "Man bekommt hohe Zinsen geschenkt",
+        "Man muss keine Steuern zahlen",
+        "Man wird schnell reich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Sparen läuft automatisch nebenbei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gebühren können bei kleinen Beträgen viel vom Ertrag auffressen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Prüfe die Kosten vorher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist oft günstiger und planbarer?",
+      "art": "mc",
+      "optionen": [
+        "Ein fester Dauerauftrag aufs Sparkonto",
+        "Ein Dispokredit",
+        "Lose kaufen",
+        "Bargeld unter der Matratze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rundungssparen kann ihn ergänzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Rundungssparen wird jede Zahlung aufgerundet.",
+        "Die Differenz wird automatisch gespart.",
+        "Die Beträge bleiben meist klein.",
+        "Achte auf Gebühren der Apps."
+      ]
+    }
+  ]
+}

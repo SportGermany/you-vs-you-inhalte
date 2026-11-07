@@ -1,0 +1,122 @@
+{
+  "id": "haus-b139-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entkalkst du einen Duschkopf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "duschkopf",
+    "kalk",
+    "bad"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn der Wasserstrahl der Dusche schief spritzt, steckt meist Kalk dahinter.",
+        "Mit einfachen Hausmitteln bekommst du den Duschkopf wieder frei."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst einmal rubbeln",
+      "absaetze": [
+        "Viele Duschköpfe haben weiche Düsen aus Silikon. Reibe mit dem Finger oder einem Schwamm darüber, dann bröckelt lockerer Kalk ab.",
+        "Bei leichtem Kalk reicht das schon. Danach lässt du kurz warmes Wasser durchlaufen."
+      ],
+      "merke": "Weiche Silikondüsen kannst du einfach abrubbeln."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einweichen in Essig oder Zitronensäure",
+      "absaetze": [
+        "Bei hartnäckigem Kalk schraubst du den Duschkopf ab und legst ihn in verdünnten Essig oder Zitronensäure. Nach einiger Zeit löst sich der Kalk.",
+        "Zitronensäure solltest du nur kalt oder lauwarm verwenden. Bei Hitze können sich neue, schwer lösliche Ablagerungen bilden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn er sich nicht abschrauben lässt",
+      "absaetze": [
+        "Fülle die Lösung in einen Gefrierbeutel und binde ihn um den Duschkopf. So taucht er ein, ohne dass du ihn abbauen musst.",
+        "Spüle danach alles gründlich mit klarem Wasser. Essig kann Gummidichtungen und manche Beschichtungen angreifen, lass ihn also nicht zu lange wirken."
+      ],
+      "merke": "Spüle nach dem Entkalken gründlich nach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran erkennst du einen verkalkten Duschkopf?",
+      "art": "mc",
+      "optionen": [
+        "Der Strahl spritzt schief oder ungleichmäßig",
+        "Das Wasser riecht nach Rosen",
+        "Das Wasser wird blau",
+        "Die Dusche wird leiser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kalk verstopft einzelne Düsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Silikondüsen gegen leichten Kalk?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem Finger darüberreiben",
+        "Mit einem Hammer klopfen",
+        "Mit Öl einreiben",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der lockere Kalk bröckelt ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zitronensäure solltest du möglichst heiß verwenden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei Hitze können neue Ablagerungen entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entkalkst du einen fest montierten Duschkopf?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Beutel voller Lösung, der um den Kopf gebunden wird",
+        "Gar nicht",
+        "Mit Backofenspray",
+        "Durch Föhnen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So taucht der Duschkopf ein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein schiefer Strahl deutet auf Kalk hin.",
+        "Silikondüsen kannst du einfach abrubbeln.",
+        "Bei hartem Kalk hilft Einweichen in Essig oder Zitronensäure.",
+        "Danach gründlich mit Wasser nachspülen."
+      ]
+    }
+  ]
+}

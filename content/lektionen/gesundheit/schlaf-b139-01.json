@@ -1,0 +1,129 @@
+{
+  "id": "schlaf-b139-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du mit Rückenschmerzen besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rueckenschmerzen",
+    "schlafposition",
+    "matratze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rückenschmerzen und schlechter Schlaf verstärken sich oft gegenseitig.",
+        "Mit ein paar Kniffen kannst du die Nacht trotzdem erholsamer machen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die richtige Lage finden",
+      "absaetze": [
+        "In Seitenlage hilft ein Kissen zwischen den Knien. So bleibt das Becken gerade und die Wirbelsäule entspannt.",
+        "In Rückenlage kann ein Kissen unter den Knien den unteren Rücken entlasten. Die Bauchlage belastet dagegen oft Nacken und Lendenwirbel."
+      ],
+      "merke": "Ein Kissen zwischen oder unter den Knien entlastet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Matratze und Bewegung",
+      "absaetze": [
+        "Eine Matratze sollte den Körper stützen, ohne dass Schulter oder Becken zu tief einsinken. Die passende Härte ist individuell verschieden.",
+        "Bewegung am Tag hilft bei den meisten Rückenschmerzen mehr als Schonung. Das gilt auch für besseren Schlaf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann du zum Arzt solltest",
+      "absaetze": [
+        "Lass Rückenschmerzen abklären, wenn sie nachts nicht nachlassen oder mit Fieber auftreten. Auch Taubheit oder Lähmungen in den Beinen sind Warnzeichen.",
+        "Bei anhaltenden Schmerzen und Schlafproblemen lohnt sich ärztliche Beratung. Oft hilft eine Kombination aus Bewegung und Entspannung."
+      ],
+      "merke": "Nächtliche Schmerzen mit Fieber oder Taubheit abklären lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft in Seitenlage bei Rückenschmerzen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Kissen zwischen den Knien",
+        "Ein sehr hohes Kopfkissen",
+        "Die Beine anziehen bis zur Brust",
+        "Gar kein Kissen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt das Becken gerade."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Schlaflage belastet den Rücken oft am stärksten?",
+      "art": "mc",
+      "optionen": [
+        "Die Bauchlage",
+        "Die Seitenlage",
+        "Die Rückenlage mit Kissen unter den Knien",
+        "Alle gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie belastet oft Nacken und Lendenwirbel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei den meisten Rückenschmerzen hilft Bewegung mehr als Schonung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das kann auch den Schlaf verbessern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Zeichen solltest du ärztlich abklären lassen?",
+      "art": "mc",
+      "optionen": [
+        "Taubheit in den Beinen",
+        "Leichte Verspannung am Morgen",
+        "Müdigkeit nach Sport",
+        "Ein steifer Nacken nach Zugluft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Fieber oder starke nächtliche Schmerzen sind Warnzeichen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Kissen zwischen oder unter den Knien entlastet.",
+        "Die Bauchlage belastet den Rücken oft.",
+        "Bewegung am Tag hilft meist mehr als Schonung.",
+        "Warnzeichen wie Fieber oder Taubheit abklären lassen."
+      ]
+    }
+  ]
+}

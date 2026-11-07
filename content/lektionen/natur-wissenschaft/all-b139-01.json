@@ -1,0 +1,122 @@
+{
+  "id": "all-b139-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was verrät die Rotverschiebung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rotverschiebung",
+    "galaxien",
+    "expansion"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Das Licht ferner Galaxien kommt bei uns röter an, als es losgeschickt wurde.",
+        "Diese Rotverschiebung hat unser Bild vom Universum verändert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gestrecktes Licht",
+      "absaetze": [
+        "Entfernt sich eine Lichtquelle von uns, werden ihre Lichtwellen gedehnt. Längere Wellen wirken röter, daher der Name.",
+        "Kommt eine Quelle auf uns zu, wird ihr Licht gestaucht und blauer. Die Andromedagalaxie zum Beispiel nähert sich uns."
+      ],
+      "merke": "Licht von Objekten, die sich entfernen, wird röter."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Universum dehnt sich aus",
+      "absaetze": [
+        "Edwin Hubble zeigte Ende der 1920er-Jahre, dass fernere Galaxien stärker rotverschoben sind. Sie entfernen sich also schneller von uns.",
+        "Daraus folgt, dass sich das Universum ausdehnt. Genau genommen dehnt sich der Raum selbst und streckt dabei das Licht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Maß für die Ferne",
+      "absaetze": [
+        "Je stärker die Rotverschiebung, desto weiter ist eine Galaxie entfernt. Fachleute nutzen sie deshalb als Maß für sehr große Entfernungen.",
+        "Das Licht der fernsten Galaxien ist bis ins Infrarot verschoben. Darum beobachtet das James-Webb-Teleskop im Infrarotbereich."
+      ],
+      "merke": "Die Rotverschiebung zeigt, dass sich das Universum ausdehnt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit dem Licht einer Quelle, die sich entfernt?",
+      "art": "mc",
+      "optionen": [
+        "Es wird röter",
+        "Es wird blauer",
+        "Es wird heller",
+        "Es verschwindet sofort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Lichtwellen werden gedehnt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zeigte, dass fernere Galaxien stärker rotverschoben sind?",
+      "art": "mc",
+      "optionen": [
+        "Edwin Hubble",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Marie Curie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das war Ende der 1920er-Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Rotverschiebung deutet darauf hin, dass sich das Universum ausdehnt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Raum selbst dehnt sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum beobachtet das James-Webb-Teleskop im Infrarot?",
+      "art": "mc",
+      "optionen": [
+        "Das Licht der fernsten Galaxien ist bis dorthin verschoben",
+        "Weil Infrarot billiger ist",
+        "Weil Galaxien nur Wärme abgeben",
+        "Weil sichtbares Licht verboten ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kann es sehr frühe Galaxien sehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Licht von Objekten, die sich entfernen, wird röter.",
+        "Fernere Galaxien sind stärker rotverschoben.",
+        "Das zeigt: Das Universum dehnt sich aus.",
+        "Die Rotverschiebung dient als Maß für Entfernungen."
+      ]
+    }
+  ]
+}

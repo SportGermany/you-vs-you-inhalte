@@ -1,0 +1,122 @@
+{
+  "id": "koer-b139-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Warum bemerkst du deinen blinden Fleck nicht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Augenwissen",
+      "herausgeber": "Berufsverband der Augenärzte Deutschlands",
+      "url": "https://www.augeninfo.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blinder-fleck",
+    "auge",
+    "sehen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In jedem Auge gibt es eine Stelle, an der du gar nichts siehst.",
+        "Trotzdem fehlt dir im Alltag kein Stück der Welt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo der Sehnerv austritt",
+      "absaetze": [
+        "An einer Stelle verlässt der Sehnerv das Auge. Dort gibt es keine Sinneszellen, die Licht wahrnehmen.",
+        "Diese Stelle nennt man blinden Fleck. Entdeckt wurde er im 17. Jahrhundert."
+      ],
+      "merke": "Am blinden Fleck fehlen Sinneszellen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum keine Lücke entsteht",
+      "absaetze": [
+        "Mit zwei Augen deckt jedes Auge den blinden Fleck des anderen ab. Die Flecken liegen nämlich an unterschiedlichen Stellen im Blickfeld.",
+        "Auch mit einem Auge siehst du kein Loch. Dein Gehirn füllt die Lücke mit dem, was rundherum zu sehen ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein einfacher Test",
+      "absaetze": [
+        "Male ein Kreuz und rechts daneben einen Punkt auf ein Blatt. Schließe das linke Auge und schau mit dem rechten auf das Kreuz.",
+        "Bewege das Blatt langsam vor und zurück. In einem bestimmten Abstand verschwindet der Punkt plötzlich."
+      ],
+      "merke": "Das Gehirn füllt die Lücke im Bild auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum siehst du am blinden Fleck nichts?",
+      "art": "mc",
+      "optionen": [
+        "Dort fehlen lichtempfindliche Sinneszellen",
+        "Dort ist das Auge verletzt",
+        "Dort ist die Linse trüb",
+        "Dort sitzt eine Wimper"
+      ],
+      "richtig": 0,
+      "erklaerung": "An dieser Stelle tritt der Sehnerv aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nur Menschen mit Sehschwäche haben einen blinden Fleck.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Jedes gesunde Auge hat einen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bemerkst du die Lücke mit einem Auge nicht?",
+      "art": "mc",
+      "optionen": [
+        "Das Gehirn füllt sie auf",
+        "Das Auge bewegt sich nie",
+        "Die Lücke ist zu klein für Licht",
+        "Die Tränen verdecken sie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ergänzt das Bild aus der Umgebung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Test mit Kreuz und Punkt?",
+      "art": "mc",
+      "optionen": [
+        "Der Punkt verschwindet in einem bestimmten Abstand",
+        "Das Kreuz wird rot",
+        "Beide werden größer",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann fällt der Punkt auf den blinden Fleck."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Am blinden Fleck verlässt der Sehnerv das Auge.",
+        "Dort gibt es keine Sinneszellen.",
+        "Das andere Auge und das Gehirn gleichen die Lücke aus.",
+        "Mit einem einfachen Test kannst du ihn finden."
+      ]
+    }
+  ]
+}

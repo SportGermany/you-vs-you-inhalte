@@ -1,0 +1,128 @@
+{
+  "id": "vers-b139-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was gilt bei Allgemeinen Geschäftsbedingungen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "agb",
+    "vertraege",
+    "verbraucherrecht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fast jeder Vertrag hat Kleingedrucktes, das kaum jemand liest.",
+        "Zum Glück schützt das Gesetz dich vor allzu unfairen Klauseln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was AGB sind",
+      "absaetze": [
+        "Allgemeine Geschäftsbedingungen sind vorformulierte Regeln für viele Verträge. Ein Unternehmen nutzt sie immer wieder, statt jeden Vertrag neu auszuhandeln.",
+        "Sie gelten nur, wenn deutlich auf sie hingewiesen wird. Du musst die Möglichkeit haben, sie vor Vertragsschluss zu lesen."
+      ],
+      "merke": "AGB gelten nur nach deutlichem Hinweis."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen für das Kleingedruckte",
+      "absaetze": [
+        "Überraschende Klauseln, mit denen niemand rechnen muss, werden nicht Teil des Vertrags. Klauseln, die dich unangemessen benachteiligen, sind unwirksam.",
+        "Unklare Formulierungen werden zu Lasten des Unternehmens ausgelegt. Was du individuell vereinbart hast, geht den AGB vor."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn eine Klausel unwirksam ist",
+      "absaetze": [
+        "Fällt eine Klausel weg, bleibt der übrige Vertrag meist gültig. An ihre Stelle tritt dann die gesetzliche Regel.",
+        "Verbraucherzentralen gehen gegen unfaire AGB vor und können dagegen klagen. Bei Zweifeln kannst du dich dort beraten lassen."
+      ],
+      "merke": "Unwirksame Klauseln ersetzt das Gesetz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gelten AGB?",
+      "art": "mc",
+      "optionen": [
+        "Wenn deutlich auf sie hingewiesen wurde",
+        "Immer, auch ohne Hinweis",
+        "Nur wenn sie handschriftlich sind",
+        "Nur bei Verträgen über 1.000 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du musst sie vorher lesen können."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Überraschende Klauseln werden nicht Teil des Vertrags.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Damit muss niemand rechnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden unklare Formulierungen in AGB ausgelegt?",
+      "art": "mc",
+      "optionen": [
+        "Zu Lasten des Unternehmens",
+        "Zu Lasten der Kundschaft",
+        "Gar nicht",
+        "Nach Los"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Unternehmen hätte klarer formulieren können."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn eine Klausel unwirksam ist?",
+      "art": "mc",
+      "optionen": [
+        "Es gilt die gesetzliche Regel",
+        "Der ganze Vertrag ist immer nichtig",
+        "Du musst doppelt zahlen",
+        "Das Unternehmen darf eine neue Klausel erfinden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der übrige Vertrag bleibt meist bestehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "AGB sind vorformulierte Vertragsregeln.",
+        "Überraschende Klauseln gelten nicht.",
+        "Unklares geht zu Lasten des Unternehmens.",
+        "Statt unwirksamer Klauseln gilt das Gesetz."
+      ]
+    }
+  ]
+}
