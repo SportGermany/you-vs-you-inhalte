@@ -1,0 +1,122 @@
+{
+  "id": "lern-b152-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie lernst du, eine Landkarte zu lesen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "landkarte",
+    "orientierung",
+    "wandern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn der Akku leer ist, hilft nur noch die Karte aus Papier.",
+        "Kartenlesen ist keine Kunst, sondern lässt sich Schritt für Schritt lernen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Maßstab und Legende",
+      "absaetze": [
+        "Der Maßstab zeigt, wie stark die Karte verkleinert ist. Bei 1 zu 25.000 entspricht ein Zentimeter auf der Karte 250 Metern in der Natur.",
+        "Die Legende erklärt die Zeichen, etwa für Wege, Wald oder Kirchen. Schau sie dir an, bevor du losgehst."
+      ],
+      "merke": "Der Maßstab verrät echte Entfernungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Höhenlinien verstehen",
+      "absaetze": [
+        "Höhenlinien verbinden Punkte gleicher Höhe. Liegen sie eng beieinander, ist das Gelände steil, liegen sie weit auseinander, ist es flach.",
+        "Mit etwas Übung erkennst du darin Gipfel, Täler und Bergrücken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Karte einnorden",
+      "absaetze": [
+        "Norden ist auf den meisten Karten oben. Drehe die Karte so, dass ihr Norden in die echte Nordrichtung zeigt, etwa mit einem Kompass.",
+        "Vergleiche dann Wege und markante Punkte mit der Umgebung. Übe am besten zuerst in bekanntem Gelände."
+      ],
+      "merke": "Erst einnorden, dann vergleichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet der Maßstab 1 zu 25.000?",
+      "art": "mc",
+      "optionen": [
+        "Ein Zentimeter entspricht 250 Metern",
+        "Ein Zentimeter entspricht 25 Kilometern",
+        "Ein Meter entspricht 25 Metern",
+        "Die Karte zeigt 25.000 Orte"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kannst du Entfernungen abschätzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen eng beieinanderliegende Höhenlinien?",
+      "art": "mc",
+      "optionen": [
+        "Steiles Gelände",
+        "Flaches Gelände",
+        "Einen See",
+        "Eine Autobahn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weit auseinander bedeutet flach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo ist Norden auf den meisten Karten?",
+      "art": "mc",
+      "optionen": [
+        "Oben",
+        "Unten",
+        "Links",
+        "Rechts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Einnorden drehst du die Karte entsprechend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Legende einer Karte ist nur Dekoration.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie erklärt die Zeichen auf der Karte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Maßstab verrät echte Entfernungen.",
+        "Die Legende erklärt die Kartenzeichen.",
+        "Enge Höhenlinien bedeuten steiles Gelände.",
+        "Karte einnorden und mit der Umgebung vergleichen."
+      ]
+    }
+  ]
+}

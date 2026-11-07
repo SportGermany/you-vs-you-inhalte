@@ -1,0 +1,128 @@
+{
+  "id": "all-b152-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum hat der Mond so viele Krater?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moon",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mond",
+    "krater",
+    "einschlaege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schon mit einem einfachen Fernglas siehst du auf dem Mond unzählige Krater.",
+        "Die Erde wurde genauso oft getroffen, trotzdem sieht sie ganz anders aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spuren von Einschlägen",
+      "absaetze": [
+        "Die meisten Mondkrater entstanden durch Einschläge von Asteroiden und Kometen. Besonders viele trafen den Mond in seiner Frühzeit vor Milliarden Jahren.",
+        "Der Mond hat keine Atmosphäre, die kleinere Brocken abbremsen oder verglühen lassen könnte."
+      ],
+      "merke": "Mondkrater sind Spuren von Einschlägen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nichts verwischt die Spuren",
+      "absaetze": [
+        "Auf dem Mond gibt es weder Wind noch Regen noch Flüsse. Deshalb bleiben Krater dort über Milliarden Jahre erhalten.",
+        "Auf der Erde werden Krater durch Erosion und die Bewegung der Erdplatten nach und nach ausgelöscht. Nur wenige sind gut erkennbar."
+      ],
+      "merke": "Ohne Wind und Wasser bleiben Mondkrater erhalten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dunkle Meere und helle Strahlen",
+      "absaetze": [
+        "Die dunklen Flecken auf dem Mond heißen Maria, also Meere. Es sind riesige Einschlagbecken, die später mit Lava gefüllt wurden.",
+        "Um junge Krater wie Tycho ziehen sich helle Strahlen. Das ist ausgeworfenes Gestein, das noch nicht nachgedunkelt ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entstanden die meisten Mondkrater?",
+      "art": "mc",
+      "optionen": [
+        "Durch Einschläge von Asteroiden und Kometen",
+        "Durch Vulkane aus Eis",
+        "Durch Raumsonden",
+        "Durch Erdbeben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders viele in der Frühzeit des Mondes."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum bleiben Krater auf dem Mond so lange erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Es gibt weder Wind noch Wasser",
+        "Der Mond ist sehr warm",
+        "Der Mond dreht sich nicht",
+        "Weil Astronauten sie schützen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf der Erde verwischt Erosion die Spuren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die dunklen Mondmeere sind mit Wasser gefüllt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es sind mit Lava gefüllte Einschlagbecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind die hellen Strahlen um junge Krater?",
+      "art": "mc",
+      "optionen": [
+        "Ausgeworfenes Gestein",
+        "Eisflüsse",
+        "Sonnenreflexe auf Wasser",
+        "Spuren von Mondautos"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Beispiel ist der Krater Tycho."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mondkrater stammen meist von Einschlägen.",
+        "Ohne Atmosphäre bremst nichts die Brocken.",
+        "Ohne Wind und Wasser bleiben Krater erhalten.",
+        "Die dunklen Maria sind mit Lava gefüllte Becken."
+      ]
+    }
+  ]
+}

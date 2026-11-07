@@ -1,0 +1,128 @@
+{
+  "id": "haus-b152-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie pflegst du deinen Wäschetrockner?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesunde Arbeit",
+      "herausgeber": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)",
+      "url": "https://www.baua.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waeschetrockner",
+    "flusensieb",
+    "pflege"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Wäschetrockner nimmt dir viel Arbeit ab.",
+        "Damit er sparsam und sicher läuft, braucht er etwas Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Flusensieb nach jedem Trocknen",
+      "absaetze": [
+        "Beim Trocknen lösen sich feine Fasern aus der Wäsche. Sie landen im Flusensieb, meist in der Tür.",
+        "Leere das Sieb nach jedem Durchgang. Ein volles Sieb verlängert die Laufzeit, kostet Strom und erhöht die Brandgefahr."
+      ],
+      "merke": "Flusensieb nach jedem Trocknen leeren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser und Wärmetauscher",
+      "absaetze": [
+        "Kondenstrockner sammeln das Wasser aus der Wäsche in einem Behälter. Leere ihn regelmäßig, sonst stoppt das Gerät.",
+        "Viele Geräte haben einen weiteren Filter oder Wärmetauscher. Spüle ihn laut Anleitung regelmäßig unter fließendem Wasser aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sonst hilft",
+      "absaetze": [
+        "Schleudere die Wäsche vorher mit hoher Drehzahl. Dann muss der Trockner weniger Wasser entfernen.",
+        "Stelle den Trockner in einen gut belüfteten Raum. Lass ihn nicht laufen, wenn du das Haus verlässt."
+      ],
+      "merke": "Gut geschleuderte Wäsche spart Strom."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du das Flusensieb leeren?",
+      "art": "mc",
+      "optionen": [
+        "Nach jedem Trocknen",
+        "Einmal im Jahr",
+        "Nie",
+        "Nur beim Umzug"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein volles Sieb kostet Strom und erhöht die Brandgefahr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sammelt ein Kondenstrockner in einem Behälter?",
+      "art": "mc",
+      "optionen": [
+        "Das Wasser aus der Wäsche",
+        "Verlorene Socken",
+        "Waschmittelreste",
+        "Staub aus der Luft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ist er voll, stoppt das Gerät."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hoch geschleuderte Wäsche verlängert die Trockenzeit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie verkürzt die Trockenzeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du den Trockner besser nicht laufen lassen?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du das Haus verlässt",
+        "Wenn du zu Hause bist",
+        "Tagsüber",
+        "Am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kannst du bei Problemen reagieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Leere das Flusensieb nach jedem Trocknen.",
+        "Wasserbehälter und Wärmetauscher regelmäßig reinigen.",
+        "Gut geschleuderte Wäsche spart Strom.",
+        "Trockner nicht unbeaufsichtigt laufen lassen."
+      ]
+    }
+  ]
+}

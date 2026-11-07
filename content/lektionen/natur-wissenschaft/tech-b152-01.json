@@ -1,0 +1,122 @@
+{
+  "id": "tech-b152-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie erkennst du einen Deepfake?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sicher im Netz",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "deepfake",
+    "kuenstliche-intelligenz",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Video zeigt eine bekannte Politikerin, die etwas Unglaubliches sagt. Doch sie hat es nie gesagt.",
+        "Solche Fälschungen heißen Deepfakes und werden immer besser."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fälschungen mit KI",
+      "absaetze": [
+        "Deepfakes sind Bilder, Videos oder Stimmen, die mit künstlicher Intelligenz erzeugt oder verändert wurden. Der Name verbindet Deep Learning und Fake.",
+        "Dafür braucht es heute oft nur wenige Fotos oder kurze Sprachaufnahmen einer Person."
+      ],
+      "merke": "Deepfakes sind mit KI erzeugte Fälschungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo sie Schaden anrichten",
+      "absaetze": [
+        "Betrüger fälschen Stimmen, um am Telefon Geld zu erbitten, etwa als angebliches Familienmitglied. Andere verbreiten gefälschte Videos, um Meinungen zu beeinflussen.",
+        "Besonders verletzend sind gefälschte Nacktbilder echter Menschen. Wer so etwas erstellt oder verbreitet, kann sich strafbar machen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Prüfen statt glauben",
+      "absaetze": [
+        "Achte auf unnatürliches Blinzeln, verschwommene Ränder am Gesicht, seltsames Licht oder Lippen, die nicht zum Ton passen. Gute Fälschungen zeigen solche Fehler aber kaum noch.",
+        "Prüfe deshalb die Quelle und suche nach Berichten seriöser Medien. Ruf bei verdächtigen Anrufen die Person über eine bekannte Nummer zurück."
+      ],
+      "merke": "Quelle prüfen und über einen zweiten Weg nachfragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Deepfake?",
+      "art": "mc",
+      "optionen": [
+        "Eine mit KI erzeugte oder veränderte Fälschung",
+        "Ein besonders tiefer Tauchgang",
+        "Eine Art Computervirus",
+        "Ein Werbefilm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kann ein Bild, Video oder eine Stimme sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nutzen Betrüger Deepfakes zum Beispiel?",
+      "art": "mc",
+      "optionen": [
+        "Sie fälschen Stimmen am Telefon",
+        "Sie reparieren Computer",
+        "Sie verschicken Pakete",
+        "Sie drucken Fahrkarten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft geben sie sich als Familienmitglied aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gute Deepfakes lassen sich immer an Bildfehlern erkennen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gute Fälschungen zeigen kaum noch Fehler."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei einem verdächtigen Anruf?",
+      "art": "mc",
+      "optionen": [
+        "Die Person über eine bekannte Nummer zurückrufen",
+        "Sofort Geld überweisen",
+        "Das Gespräch aufzeichnen und teilen",
+        "Passwörter nennen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So prüfst du über einen zweiten Weg."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Deepfakes sind mit KI erzeugte Fälschungen.",
+        "Sie dienen auch Betrug und Desinformation.",
+        "Bildfehler sind ein Hinweis, aber kein sicheres Zeichen.",
+        "Quelle prüfen und über einen zweiten Weg nachfragen."
+      ]
+    }
+  ]
+}

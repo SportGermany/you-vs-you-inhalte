@@ -1,0 +1,139 @@
+{
+  "id": "supp-b152-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Laktase-Tabletten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "laktase",
+    "laktoseintoleranz",
+    "enzyme"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer Milchzucker schlecht verträgt, bekommt nach Käsekuchen oder Milchkaffee oft Bauchweh.",
+        "Laktase-Tabletten versprechen, das zu verhindern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Enzym zum Nachhelfen",
+      "absaetze": [
+        "Laktase ist ein Enzym, das Milchzucker im Dünndarm spaltet. Bei einer Laktoseintoleranz bildet der Körper zu wenig davon.",
+        "Laktase-Präparate liefern das Enzym von außen. Sie werden direkt zu einer milchzuckerhaltigen Mahlzeit verwendet."
+      ],
+      "merke": "Laktase spaltet Milchzucker."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie leisten",
+      "absaetze": [
+        "Studien zeigen, dass Laktase-Präparate Beschwerden bei vielen Betroffenen verringern können. Wie gut das klappt, ist sehr unterschiedlich.",
+        "Bei großen Mengen Milchzucker reicht die Wirkung oft nicht aus. Viele Menschen mit Laktoseintoleranz vertragen kleine Mengen ohnehin gut."
+      ],
+      "merke": "Die Wirkung ist von Mensch zu Mensch verschieden.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alternativen und Grenzen",
+      "absaetze": [
+        "Laktosefreie Milchprodukte oder lange gereifter Käse sind oft die einfachere Lösung. Lass Bauchbeschwerden ärztlich abklären, bevor du von einer Laktoseintoleranz ausgehst.",
+        "Bei der seltenen Erbkrankheit Galaktosämie helfen Laktase-Präparate nicht. Hier muss Milchzucker ganz gemieden werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bauchbeschwerden vorher ärztlich abklären lassen.",
+        "Bei Galaktosämie ungeeignet.",
+        "Laktosefreie Produkte sind oft eine einfache Alternative."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht das Enzym Laktase?",
+      "art": "mc",
+      "optionen": [
+        "Es spaltet Milchzucker",
+        "Es baut Fett ab",
+        "Es bildet Vitamin D",
+        "Es spaltet Eiweiß"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Laktoseintoleranz fehlt es teilweise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wirken Laktase-Präparate bei allen Menschen gleich gut?",
+      "art": "mc",
+      "optionen": [
+        "Nein, die Wirkung ist sehr unterschiedlich",
+        "Ja, immer vollständig",
+        "Ja, aber nur morgens",
+        "Sie wirken nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei großen Mengen Milchzucker reicht sie oft nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Menschen mit Laktoseintoleranz vertragen kleine Mengen Milchzucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ganz verzichten müssen die meisten nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei welcher Erkrankung helfen Laktase-Präparate nicht?",
+      "art": "mc",
+      "optionen": [
+        "Bei Galaktosämie",
+        "Bei Laktoseintoleranz",
+        "Bei leichtem Blähbauch nach Milch",
+        "Bei Bauchweh nach Käsekuchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann muss Milchzucker ganz gemieden werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Laktase spaltet Milchzucker im Darm.",
+        "Präparate können Beschwerden bei vielen verringern.",
+        "Die Wirkung ist individuell sehr verschieden.",
+        "Bauchbeschwerden erst ärztlich abklären lassen."
+      ]
+    }
+  ]
+}

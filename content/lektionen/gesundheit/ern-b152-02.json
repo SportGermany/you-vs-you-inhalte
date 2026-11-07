@@ -1,0 +1,129 @@
+{
+  "id": "ern-b152-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Lammfleisch?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lammfleisch",
+    "fleisch",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zu Ostern oder im Restaurant kommt bei vielen Lamm auf den Tisch.",
+        "Wie passt dieses Fleisch in eine ausgewogene Ernährung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Lammfleisch ist",
+      "absaetze": [
+        "Als Lamm gilt Fleisch von Schafen, die jünger als ein Jahr sind. Fleisch älterer Tiere heißt Hammel und schmeckt kräftiger.",
+        "Ein großer Teil des Lammfleischs in deutschen Supermärkten stammt aus Neuseeland. Es gibt aber auch Lamm von heimischen Weiden."
+      ],
+      "merke": "Lamm stammt von Schafen unter einem Jahr."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nährstoffe und Fett",
+      "absaetze": [
+        "Lammfleisch liefert hochwertiges Eiweiß, Eisen, Zink und Vitamin B12. Der Fettgehalt hängt stark vom Teilstück ab.",
+        "Keule und Rücken sind vergleichsweise mager. Brust und Kotelett enthalten deutlich mehr Fett."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Rotes Fleisch in Maßen",
+      "absaetze": [
+        "Lamm zählt wie Rind und Schwein zum roten Fleisch. Ein hoher Verzehr von rotem Fleisch hängt mit einem höheren Risiko für Darmkrebs zusammen.",
+        "Die DGE rät deshalb, Fleisch insgesamt nur in kleinen Mengen zu essen. Lamm ist dann eher etwas für besondere Anlässe."
+      ],
+      "merke": "Lamm ist rotes Fleisch und gehört in Maßen auf den Teller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie alt sind Schafe höchstens, deren Fleisch als Lamm gilt?",
+      "art": "mc",
+      "optionen": [
+        "Jünger als ein Jahr",
+        "Fünf Jahre",
+        "Zehn Jahre",
+        "Das Alter spielt keine Rolle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fleisch älterer Tiere heißt Hammel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Teilstücke sind eher mager?",
+      "art": "mc",
+      "optionen": [
+        "Keule und Rücken",
+        "Brust",
+        "Kotelett mit Fettrand",
+        "Alle gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Fettgehalt hängt stark vom Stück ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lamm zählt zum roten Fleisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wie Rind und Schwein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Nährstoffe liefert Lammfleisch?",
+      "art": "mc",
+      "optionen": [
+        "Eiweiß, Eisen, Zink und Vitamin B12",
+        "Vor allem Vitamin C",
+        "Vor allem Ballaststoffe",
+        "Vor allem Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Nährstoffe stecken in vielen Fleischsorten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lamm stammt von Schafen unter einem Jahr.",
+        "Es liefert Eiweiß, Eisen, Zink und Vitamin B12.",
+        "Keule und Rücken sind magerer als Brust.",
+        "Als rotes Fleisch gehört es in Maßen auf den Teller."
+      ]
+    }
+  ]
+}

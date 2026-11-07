@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b152-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Helfen Blaulichtfilter-Brillen beim Schlafen?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Cochrane Reviews",
+      "herausgeber": "Cochrane",
+      "url": "https://www.cochrane.org",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blaulicht",
+    "brille",
+    "bildschirm"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Brillen mit gelblichen Gläsern sollen abends das blaue Licht von Bildschirmen abhalten.",
+        "Sie werden als Hilfe für besseren Schlaf beworben. Was steckt dahinter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee dahinter",
+      "absaetze": [
+        "Blaues Licht signalisiert dem Gehirn Tag und kann die Bildung des Schlafhormons Melatonin bremsen. Bildschirme geben einen Teil ihres Lichts im blauen Bereich ab.",
+        "Die Brillen sollen diesen Anteil herausfiltern. Ob das im Alltag einen spürbaren Unterschied macht, ist unklar."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Eine Übersichtsarbeit von Cochrane fand kaum Hinweise, dass solche Brillen müde Augen entlasten. Zur Wirkung auf den Schlaf waren die Ergebnisse widersprüchlich.",
+        "Viele Studien waren klein und kurz. Möglicherweise profitieren einzelne Gruppen, etwa Menschen mit verschobenem Schlafrhythmus."
+      ],
+      "merke": "Ein Nutzen für den Schlaf ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was eher hilft",
+      "absaetze": [
+        "Bildschirme sind meist weniger hell als Tageslicht. Wichtiger als die Farbe ist vermutlich, was du abends am Gerät machst und wie lange.",
+        "Dimme abends das Licht und lege das Handy vor dem Schlafen weg. Viel Tageslicht am Morgen stärkt außerdem deinen Rhythmus."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was soll eine Blaulichtfilter-Brille abhalten?",
+      "art": "mc",
+      "optionen": [
+        "Den blauen Anteil des Lichts",
+        "Lärm",
+        "Wärme",
+        "UV-Strahlung beim Skifahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Blaues Licht kann Melatonin bremsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist belegt, dass solche Brillen den Schlaf verbessern?",
+      "art": "mc",
+      "optionen": [
+        "Nein, die Ergebnisse sind widersprüchlich",
+        "Ja, eindeutig",
+        "Ja, bei allen Menschen",
+        "Ja, sie ersetzen Schlafmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Studien waren klein und kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bildschirme sind meist heller als Tageslicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Tageslicht ist meist viel heller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft abends vermutlich mehr?",
+      "art": "mc",
+      "optionen": [
+        "Gedimmtes Licht und das Handy rechtzeitig weglegen",
+        "Hellere Bildschirme",
+        "Spätes Fernsehen im Bett",
+        "Mehr Kaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch der Inhalt am Bildschirm spielt eine Rolle."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Blaues Licht kann Melatonin bremsen.",
+        "Ein Schlafnutzen der Brillen ist nicht belegt.",
+        "Inhalt und Dauer der Bildschirmzeit zählen vermutlich mehr.",
+        "Abends dimmen, morgens viel Tageslicht."
+      ]
+    }
+  ]
+}

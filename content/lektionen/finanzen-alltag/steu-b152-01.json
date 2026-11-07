@@ -1,0 +1,128 @@
+{
+  "id": "steu-b152-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die globale Mindeststeuer für Konzerne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Internationale Besteuerung",
+      "herausgeber": "OECD",
+      "url": "https://www.oecd.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mindeststeuer",
+    "konzerne",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Große Konzerne verschieben Gewinne oft in Länder mit sehr niedrigen Steuern.",
+        "Eine globale Mindeststeuer soll das eindämmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine weltweite Vereinbarung",
+      "absaetze": [
+        "2021 einigten sich rund 140 Staaten im Rahmen der OECD auf eine globale Mindeststeuer. Große Konzerne sollen ihre Gewinne mit mindestens 15 Prozent versteuern.",
+        "Gemeint sind Unternehmensgruppen mit einem Jahresumsatz von mindestens 750 Millionen Euro. Kleine und mittlere Firmen sind nicht betroffen."
+      ],
+      "merke": "Große Konzerne sollen mindestens 15 Prozent zahlen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sie funktioniert",
+      "absaetze": [
+        "Zahlt ein Konzern in einem Land weniger als 15 Prozent, kann ein anderer Staat die Differenz nachfordern. Diese Ergänzungssteuer soll Steueroasen unattraktiv machen.",
+        "Die EU hat die Regeln per Richtlinie übernommen. In Deutschland gilt dafür seit 2024 das Mindeststeuergesetz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Offene Fragen",
+      "absaetze": [
+        "Die Regeln sind sehr kompliziert, und Unternehmen klagen über hohen Aufwand. Außerdem gibt es zahlreiche Ausnahmen.",
+        "Die USA haben sich 2025 von der Vereinbarung abgewandt. Wie wirksam die Mindeststeuer weltweit wird, ist deshalb offen."
+      ],
+      "merke": "Wie wirksam die Mindeststeuer wird, ist offen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die globale Mindeststeuer?",
+      "art": "mc",
+      "optionen": [
+        "15 Prozent",
+        "5 Prozent",
+        "30 Prozent",
+        "50 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt für große Konzerne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen gilt die Mindeststeuer?",
+      "art": "mc",
+      "optionen": [
+        "Für Konzerne ab 750 Millionen Euro Jahresumsatz",
+        "Für alle Selbstständigen",
+        "Für Privatpersonen",
+        "Für Vereine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kleine Firmen sind nicht betroffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Mindeststeuer gilt auch für deine private Einkommensteuer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie betrifft nur große Unternehmensgruppen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann gilt in Deutschland das Mindeststeuergesetz?",
+      "art": "mc",
+      "optionen": [
+        "Seit 2024",
+        "Seit 1990",
+        "Seit 2010",
+        "Es gilt noch nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es setzt eine EU-Richtlinie um."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rund 140 Staaten einigten sich 2021 auf eine Mindeststeuer.",
+        "Große Konzerne sollen mindestens 15 Prozent zahlen.",
+        "In Deutschland gilt sie seit 2024.",
+        "Ihre weltweite Wirkung ist noch offen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "stoff-b152-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was ist das Dumping-Syndrom?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verdauung und Stoffwechsel",
+      "herausgeber": "Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten (DGVS)",
+      "url": "https://www.dgvs.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "dumping-syndrom",
+    "magen",
+    "operation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer Magenoperation kann Essen plötzlich Beschwerden machen.",
+        "Ein möglicher Grund ist das Dumping-Syndrom."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu schnell im Darm",
+      "absaetze": [
+        "Normalerweise gibt der Magen den Speisebrei langsam an den Dünndarm weiter. Nach Operationen wie einer Magenentfernung oder einem Magenbypass fehlt diese Bremse.",
+        "Das Essen stürzt dann zu schnell in den Darm. Auf Englisch heißt to dump abladen, daher der Name."
+      ],
+      "merke": "Beim Dumping gelangt Essen zu schnell in den Darm."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Früh- und Spätdumping",
+      "absaetze": [
+        "Beim Frühdumping treten die Beschwerden kurz nach dem Essen auf. Typisch sind Übelkeit, Bauchkrämpfe, Durchfall, Herzrasen und Schwindel.",
+        "Beim Spätdumping kommt es ein bis drei Stunden später zu einer Unterzuckerung. Der Körper hat zuvor auf den schnellen Zuckeranstieg mit zu viel Insulin reagiert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Mehrere kleine Mahlzeiten sind besser als wenige große. Schnell verfügbarer Zucker in Süßigkeiten und Limonaden löst die Beschwerden besonders oft aus.",
+        "Es hilft vielen, zum Essen wenig zu trinken und Getränke zeitversetzt zu genießen. Bleiben die Beschwerden, gehört das in ärztliche Behandlung."
+      ],
+      "merke": "Kleine Mahlzeiten mit wenig schnellem Zucker helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann tritt das Dumping-Syndrom typischerweise auf?",
+      "art": "mc",
+      "optionen": [
+        "Nach Operationen am Magen",
+        "Nach einer Erkältung",
+        "Nach zu wenig Schlaf",
+        "Nach Sport"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann fehlt die natürliche Bremse des Magens."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Spätdumping?",
+      "art": "mc",
+      "optionen": [
+        "Eine Unterzuckerung Stunden nach dem Essen",
+        "Fieber am nächsten Tag",
+        "Ein Sonnenbrand",
+        "Muskelkater"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper schüttet zu viel Insulin aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenige große Mahlzeiten sind beim Dumping-Syndrom günstig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Mehrere kleine Mahlzeiten sind besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst die Beschwerden besonders oft aus?",
+      "art": "mc",
+      "optionen": [
+        "Schnell verfügbarer Zucker",
+        "Gemüse",
+        "Wasser zwischen den Mahlzeiten",
+        "Vollkornbrot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa in Süßigkeiten und Limonaden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Dumping-Syndrom gelangt Essen zu schnell in den Darm.",
+        "Es tritt vor allem nach Magenoperationen auf.",
+        "Frühdumping folgt kurz nach dem Essen, Spätdumping Stunden später.",
+        "Kleine Mahlzeiten mit wenig schnellem Zucker helfen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

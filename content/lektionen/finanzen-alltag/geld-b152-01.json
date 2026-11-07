@@ -1,0 +1,128 @@
+{
+  "id": "geld-b152-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wann solltest du ein Erbe ausschlagen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Erbrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "erbe",
+    "schulden",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Erbe klingt nach Geld. Manchmal hinterlassen Verstorbene aber vor allem Schulden.",
+        "Dann kann es sinnvoll sein, das Erbe auszuschlagen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit dem Erbe kommen auch Schulden",
+      "absaetze": [
+        "Wer erbt, übernimmt alles, also auch Kredite und offene Rechnungen. Im schlimmsten Fall haftest du mit deinem eigenen Vermögen.",
+        "Verschaffe dir deshalb früh einen Überblick über Konten, Verträge und Schulden der verstorbenen Person."
+      ],
+      "merke": "Erben heißt, auch Schulden zu übernehmen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sechs Wochen Zeit",
+      "absaetze": [
+        "Für die Ausschlagung hast du in der Regel sechs Wochen Zeit. Die Frist beginnt, wenn du vom Erbfall und deiner Stellung als Erbe erfährst.",
+        "Du erklärst sie beim Nachlassgericht oder lässt sie notariell beglaubigen. Tust du nichts, gilt das Erbe als angenommen."
+      ],
+      "merke": "Nach sechs Wochen gilt das Erbe als angenommen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "An die Nächsten denken",
+      "absaetze": [
+        "Schlägst du aus, rücken die nächsten Verwandten nach, oft deine eigenen Kinder. Auch sie müssen dann gegebenenfalls ausschlagen.",
+        "Ist unklar, ob Schulden oder Vermögen überwiegen, gibt es Alternativen. Lass dich in solchen Fällen beraten, etwa beim Nachlassgericht oder einer Anwaltskanzlei."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was übernimmst du mit einem Erbe?",
+      "art": "mc",
+      "optionen": [
+        "Vermögen und Schulden",
+        "Nur das Vermögen",
+        "Nur Möbel",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb lohnt sich ein früher Überblick."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Zeit hast du in der Regel für die Ausschlagung?",
+      "art": "mc",
+      "optionen": [
+        "Sechs Wochen",
+        "Drei Tage",
+        "Zehn Jahre",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Frist beginnt mit deiner Kenntnis vom Erbfall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn du nichts unternimmst, ist das Erbe automatisch ausgeschlagen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dann gilt es als angenommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erbt, wenn du ausschlägst?",
+      "art": "mc",
+      "optionen": [
+        "Die nächsten Verwandten, oft deine Kinder",
+        "Automatisch der Staat",
+        "Die Bank",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch sie müssen dann womöglich ausschlagen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Erbe umfasst auch Schulden.",
+        "Für die Ausschlagung hast du meist sechs Wochen.",
+        "Ohne Ausschlagung gilt das Erbe als angenommen.",
+        "Danach rücken die nächsten Verwandten nach."
+      ]
+    }
+  ]
+}

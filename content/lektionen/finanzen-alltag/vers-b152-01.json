@@ -1,0 +1,122 @@
+{
+  "id": "vers-b152-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was gilt in der Probezeit im Job?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "probezeit",
+    "arbeitsrecht",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein neuer Job beginnt oft mit einer Probezeit.",
+        "In dieser Zeit gelten einige besondere Regeln für dich und deinen Arbeitgeber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Höchstens sechs Monate",
+      "absaetze": [
+        "Eine Probezeit muss im Arbeitsvertrag vereinbart sein. Sie darf mit kürzerer Kündigungsfrist höchstens sechs Monate dauern.",
+        "In dieser Zeit können beide Seiten mit einer Frist von zwei Wochen kündigen. Einen Grund muss niemand angeben."
+      ],
+      "merke": "In der Probezeit gilt meist eine Frist von zwei Wochen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kündigungsschutz kommt später",
+      "absaetze": [
+        "Das Kündigungsschutzgesetz greift erst, wenn du länger als sechs Monate im Betrieb bist. Außerdem muss der Betrieb mehr als zehn Beschäftigte haben.",
+        "Besondere Schutzregeln gelten aber von Anfang an, etwa für Schwangere. Auch eine Kündigung aus diskriminierenden Gründen ist verboten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Urlaub und Ausbildung",
+      "absaetze": [
+        "Den vollen Jahresurlaub kannst du erst nach sechs Monaten verlangen. Vorher steht dir für jeden vollen Monat ein Zwölftel zu.",
+        "In einer Ausbildung dauert die Probezeit mindestens einen und höchstens vier Monate."
+      ],
+      "merke": "Vollen Urlaub gibt es nach sechs Monaten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange darf eine Probezeit mit verkürzter Frist höchstens dauern?",
+      "art": "mc",
+      "optionen": [
+        "Sechs Monate",
+        "Zwei Jahre",
+        "Eine Woche",
+        "Zwölf Monate"
+      ],
+      "richtig": 0,
+      "erklaerung": "So steht es im Gesetz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kündigungsfrist gilt in der Probezeit in der Regel?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Wochen",
+        "Drei Monate",
+        "Ein Jahr",
+        "Keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt für beide Seiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In der Probezeit gibt es überhaupt keinen Schutz vor Kündigung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Etwa Schwangere sind von Anfang an besonders geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert die Probezeit in einer Ausbildung höchstens?",
+      "art": "mc",
+      "optionen": [
+        "Vier Monate",
+        "Ein Jahr",
+        "Zwei Wochen",
+        "Sechs Monate"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mindestens dauert sie einen Monat."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Probezeit dauert höchstens sechs Monate.",
+        "Beide Seiten können mit zwei Wochen Frist kündigen.",
+        "Allgemeiner Kündigungsschutz greift erst danach.",
+        "Vollen Jahresurlaub gibt es nach sechs Monaten."
+      ]
+    }
+  ]
+}
