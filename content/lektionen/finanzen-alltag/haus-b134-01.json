@@ -1,0 +1,122 @@
+{
+  "id": "haus-b134-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Fliegengitter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fliegengitter",
+    "putzen",
+    "fenster"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fliegengitter halten Mücken draußen, fangen aber auch Staub und Pollen ein.",
+        "Mit der Zeit wird das Gitter grau, und durch das Fenster kommt weniger Luft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst den Staub entfernen",
+      "absaetze": [
+        "Sauge das Gitter zuerst mit einer weichen Bürstendüse ab. So entfernst du lockeren Staub, Pollen und Spinnweben.",
+        "Viele Gitter lassen sich aus dem Rahmen nehmen. Das macht die Reinigung deutlich einfacher."
+      ],
+      "merke": "Erst den Staub absaugen, dann feucht reinigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feucht reinigen",
+      "absaetze": [
+        "Wische das Gitter dann mit warmem Wasser und etwas Spülmittel ab. Eine weiche Bürste oder ein Schwamm reicht.",
+        "Spüle mit klarem Wasser nach, etwa mit der Brause in der Dusche oder im Garten. Lass das Gitter vollständig trocknen, bevor du es wieder einsetzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend vorgehen",
+      "absaetze": [
+        "Drück nicht zu fest, sonst beult das feine Gewebe aus oder reißt. Scharfe Reiniger und Hochdruckreiniger können das Material beschädigen.",
+        "Wer an Heuschnupfen leidet, profitiert von häufigerem Reinigen. Es gibt auch spezielle Pollenschutzgitter mit feinerem Gewebe."
+      ],
+      "merke": "Kein Hochdruckreiniger, das Gewebe ist empfindlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der erste Schritt beim Reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Den Staub absaugen",
+        "Mit dem Hochdruckreiniger abspritzen",
+        "Mit Scheuerpulver schrubben",
+        "Das Gitter bügeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten mit einer weichen Bürstendüse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit reinigst du das Gitter feucht?",
+      "art": "mc",
+      "optionen": [
+        "Mit warmem Wasser und etwas Spülmittel",
+        "Mit Säure",
+        "Mit Benzin",
+        "Mit Öl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine weiche Bürste reicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Hochdruckreiniger ist ideal für Fliegengitter.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kann das feine Gewebe beschädigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt es für Menschen mit Heuschnupfen?",
+      "art": "mc",
+      "optionen": [
+        "Pollenschutzgitter",
+        "Mückenspray für Fenster",
+        "Fenster ohne Glas",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie haben ein feineres Gewebe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erst Staub absaugen.",
+        "Mit Spülmittelwasser und weicher Bürste reinigen.",
+        "Gründlich trocknen lassen.",
+        "Keine scharfen Reiniger oder Hochdruck."
+      ]
+    }
+  ]
+}

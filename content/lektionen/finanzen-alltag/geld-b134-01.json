@@ -1,0 +1,128 @@
+{
+  "id": "geld-b134-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was kostet ein Kind?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Konsumausgaben von Familien",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kinderkosten",
+    "familie",
+    "budget"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Windeln, Kita, Kleidung, Klassenfahrt: Ein Kind verändert nicht nur den Alltag, sondern auch die Finanzen.",
+        "Womit Familien rechnen sollten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die größten Posten",
+      "absaetze": [
+        "Das Statistische Bundesamt erhebt regelmäßig, wofür Familien Geld ausgeben. Den größten Anteil machen Wohnen und Ernährung aus.",
+        "Dazu kommen Kleidung, Freizeit, Mobilität und Bildung. Mit zunehmendem Alter werden Kinder meist teurer, Jugendliche am teuersten."
+      ],
+      "merke": "Wohnen und Ernährung sind die größten Kostenpunkte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einkommen fällt weg",
+      "absaetze": [
+        "Oft unterschätzt wird, dass ein Elternteil vorübergehend weniger arbeitet. Das Elterngeld gleicht nur einen Teil des Einkommens aus.",
+        "Auch spätere Teilzeit wirkt sich auf das Einkommen und die Rente aus. Es lohnt sich, als Paar früh über die Aufteilung zu sprechen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterstützung nutzen",
+      "absaetze": [
+        "Familien bekommen Kindergeld oder einen Steuerfreibetrag. Bei kleinem Einkommen gibt es zusätzlich den Kinderzuschlag und Leistungen für Bildung und Teilhabe.",
+        "Ein Haushaltsplan hilft, die Kosten im Blick zu behalten. Gebrauchte Kleidung und Spielzeug sparen viel Geld."
+      ],
+      "merke": "Kindergeld und weitere Leistungen entlasten Familien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Posten machen bei Kinderkosten den größten Anteil aus?",
+      "art": "mc",
+      "optionen": [
+        "Wohnen und Ernährung",
+        "Spielzeug",
+        "Urlaub",
+        "Handyverträge"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das zeigen die Erhebungen des Statistischen Bundesamts."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sind Kinder meist am teuersten?",
+      "art": "mc",
+      "optionen": [
+        "Als Jugendliche",
+        "Als Neugeborene",
+        "Im Kindergartenalter",
+        "Die Kosten bleiben immer gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit dem Alter steigen die Ausgaben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Elterngeld gleicht das wegfallende Einkommen vollständig aus.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ersetzt nur einen Teil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Leistung gibt es bei kleinem Einkommen zusätzlich?",
+      "art": "mc",
+      "optionen": [
+        "Den Kinderzuschlag",
+        "Eine Steuerstrafe",
+        "Ein Dienstauto",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Leistungen für Bildung und Teilhabe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wohnen und Ernährung sind die größten Kostenpunkte.",
+        "Jugendliche kosten meist am meisten.",
+        "Wegfallendes Einkommen wird oft unterschätzt.",
+        "Kindergeld und Zuschüsse entlasten."
+      ]
+    }
+  ]
+}

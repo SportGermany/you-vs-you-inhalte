@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b134-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schlafen Kinder im Familienbett gut?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "familienbett",
+    "kinder",
+    "eltern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachts tapsen kleine Füße ins Elternschlafzimmer, und plötzlich liegen alle zusammen im Bett.",
+        "Ist das gut für Kinder und Eltern?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Babys brauchen ein eigenes Bett",
+      "absaetze": [
+        "Für Babys im ersten Lebensjahr empfehlen Fachleute ein eigenes Bett im Schlafzimmer der Eltern. So sinkt das Risiko für den plötzlichen Kindstod.",
+        "Ein gemeinsames Bett ist besonders gefährlich, wenn ein Elternteil raucht, Alkohol getrunken hat oder Medikamente nimmt, die müde machen."
+      ],
+      "merke": "Babys schlafen am sichersten im eigenen Bett im Elternschlafzimmer.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ältere Kinder",
+      "absaetze": [
+        "Bei Kleinkindern und älteren Kindern ist das Familienbett vor allem eine Frage der Vorlieben. In vielen Kulturen der Welt ist es ganz normal.",
+        "Studien deuten nicht darauf hin, dass gemeinsames Schlafen Kindern schadet. Manche Kinder fühlen sich dadurch sicherer."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch an die Eltern denken",
+      "absaetze": [
+        "Eltern schlafen im Familienbett oft unruhiger, weil Kinder sich viel bewegen. Wenn alle gut schlafen, spricht wenig dagegen.",
+        "Fehlt allen der Schlaf, kann ein schrittweiser Wechsel ins eigene Bett helfen. Feste Abendrituale erleichtern den Übergang."
+      ],
+      "merke": "Wenn alle gut schlafen, spricht wenig gegen das Familienbett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sollen Babys im ersten Lebensjahr am besten schlafen?",
+      "art": "mc",
+      "optionen": [
+        "Im eigenen Bett im Elternschlafzimmer",
+        "Allein in einem anderen Zimmer",
+        "Auf dem Sofa",
+        "Im Bett zwischen den Eltern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das senkt das Risiko für plötzlichen Kindstod."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist ein gemeinsames Bett mit Baby besonders gefährlich?",
+      "art": "mc",
+      "optionen": [
+        "Wenn ein Elternteil raucht oder Alkohol getrunken hat",
+        "Wenn das Bett groß ist",
+        "Am Wochenende",
+        "Im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch müde machende Medikamente zählen dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Studien zeigen, dass das Familienbett älteren Kindern schadet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein Schaden ist nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann beim Wechsel ins eigene Bett helfen?",
+      "art": "mc",
+      "optionen": [
+        "Feste Abendrituale",
+        "Strafen",
+        "Spät ins Bett gehen",
+        "Fernsehen im Bett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Und ein schrittweises Vorgehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Babys schlafen am sichersten im eigenen Bett im Elternschlafzimmer.",
+        "Rauchen, Alkohol und Medikamente machen gemeinsames Schlafen gefährlich.",
+        "Für ältere Kinder ist ein Schaden nicht belegt.",
+        "Auch der Schlaf der Eltern zählt."
+      ]
+    }
+  ]
+}

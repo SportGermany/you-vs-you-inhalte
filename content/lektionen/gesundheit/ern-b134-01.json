@@ -1,0 +1,124 @@
+{
+  "id": "ern-b134-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind saure Gurken?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gurken",
+    "fermentation",
+    "salz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zum Abendbrot, im Kartoffelsalat oder einfach aus dem Glas: Saure Gurken sind ein Klassiker.",
+        "Doch Gurke ist nicht gleich Gurke im Glas."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Essig oder Milchsäure",
+      "absaetze": [
+        "Die meisten sauren Gurken im Supermarkt sind Essiggurken. Sie werden in einem Sud aus Essig, Salz und Gewürzen eingelegt und dann erhitzt.",
+        "Traditionell lassen sich Gurken auch in Salzlake vergären. Dabei bilden Milchsäurebakterien die Säure. Solche Gurken findest du oft im Kühlregal."
+      ],
+      "merke": "Saure Gurken werden in Essig eingelegt oder milchsauer vergoren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Gurken haben wenige Kalorien. Durch das Einlegen enthalten sie aber oft viel Salz und manchmal Zucker.",
+        "Nur vergorene, nicht erhitzte Gurken enthalten lebende Milchsäurebakterien. Ob diese der Darmflora nennenswert nützen, ist beim Menschen noch nicht klar belegt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Spreewaldgurken",
+      "absaetze": [
+        "Spreewälder Gurken tragen eine geschützte geografische Angabe der EU. Sie müssen aus der Region Spreewald stammen.",
+        "Wer auf Salz achten muss, isst saure Gurken lieber in Maßen. Ein Blick auf die Nährwerttabelle verrät den Salzgehalt."
+      ],
+      "merke": "Saure Gurken enthalten oft viel Salz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie werden die meisten sauren Gurken im Supermarkt haltbar gemacht?",
+      "art": "mc",
+      "optionen": [
+        "Mit Essig und Erhitzen",
+        "Durch Einfrieren",
+        "Mit Zucker allein",
+        "Durch Räuchern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es sind meist Essiggurken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Gurken enthalten lebende Milchsäurebakterien?",
+      "art": "mc",
+      "optionen": [
+        "Vergorene, nicht erhitzte Gurken",
+        "Alle Essiggurken",
+        "Frische Salatgurken",
+        "Gurken aus der Dose"
+      ],
+      "richtig": 0,
+      "erklaerung": "Durch Erhitzen sterben die Bakterien ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Saure Gurken enthalten oft viel Salz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das kommt vom Einlegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet die geschützte Angabe bei Spreewälder Gurken?",
+      "art": "mc",
+      "optionen": [
+        "Sie müssen aus dem Spreewald stammen",
+        "Sie sind besonders süß",
+        "Sie sind immer bio",
+        "Sie sind zuckerfrei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die EU schützt diese Herkunftsbezeichnung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Saure Gurken werden in Essig eingelegt oder vergoren.",
+        "Nur vergorene, nicht erhitzte Gurken enthalten lebende Bakterien.",
+        "Sie enthalten oft viel Salz.",
+        "Spreewälder Gurken müssen aus dem Spreewald stammen."
+      ]
+    }
+  ]
+}

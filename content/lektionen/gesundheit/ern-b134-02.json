@@ -1,0 +1,130 @@
+{
+  "id": "ern-b134-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Miesmuscheln?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "muscheln",
+    "meeresfruechte",
+    "nachhaltigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein großer Topf Miesmuscheln mit Weißwein und Kräutern: Für viele gehört das zum Urlaub am Meer.",
+        "Die schwarzen Schalen haben ernährungsphysiologisch einiges zu bieten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein, aber nährstoffreich",
+      "absaetze": [
+        "Miesmuscheln liefern viel Eiweiß bei wenig Fett. Sie enthalten außerdem Eisen, Jod, Selen und Vitamin B12.",
+        "Damit gehören sie zu den nährstoffreichsten Meerestieren. Wer auf Weichtiere allergisch reagiert, muss sie aber meiden."
+      ],
+      "merke": "Miesmuscheln liefern viel Eiweiß, Eisen und Vitamin B12.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine nachhaltige Wahl",
+      "absaetze": [
+        "Miesmuscheln werden meist an Leinen oder auf Bänken im Meer gezüchtet. Sie brauchen kein Futter, weil sie ihre Nahrung aus dem Wasser filtern.",
+        "Deshalb gilt Muschelzucht als vergleichsweise umweltfreundlich. Siegel helfen bei der Auswahl."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher zubereiten",
+      "absaetze": [
+        "Rohe Muscheln, die geöffnet sind und sich beim Antippen nicht schließen, gehören in den Müll. Sie sind vermutlich abgestorben.",
+        "Muscheln filtern auch Schadstoffe und Algengifte aus dem Wasser. Deshalb werden Zuchtgebiete regelmäßig überwacht. Gare Muscheln immer gut durch."
+      ],
+      "merke": "Geöffnete rohe Muscheln, die sich nicht schließen, wegwerfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Nährstoffe liefern Miesmuscheln besonders?",
+      "art": "mc",
+      "optionen": [
+        "Eiweiß, Eisen und Vitamin B12",
+        "Viel Zucker",
+        "Viele Ballaststoffe",
+        "Viel Vitamin C"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Jod und Selen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gilt Muschelzucht als umweltfreundlich?",
+      "art": "mc",
+      "optionen": [
+        "Muscheln brauchen kein Futter",
+        "Sie wachsen an Land",
+        "Sie werden nur im Labor gezüchtet",
+        "Sie fressen Plastik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie filtern ihre Nahrung aus dem Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rohe Muscheln, die geöffnet bleiben, kannst du bedenkenlos essen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind vermutlich abgestorben und gehören in den Müll."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden Muschel-Zuchtgebiete überwacht?",
+      "art": "mc",
+      "optionen": [
+        "Muscheln können Algengifte und Schadstoffe anreichern",
+        "Wegen Haiangriffen",
+        "Wegen der Wassertemperatur allein",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie filtern das Wasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Miesmuscheln sind eiweißreich und nährstoffreich.",
+        "Muschelzucht braucht kein Futter.",
+        "Geöffnete rohe Muscheln wegwerfen.",
+        "Muscheln immer gut durchgaren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "steu-b134-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Spenden an Parteien von der Steuer absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "parteispenden",
+    "steuerermaessigung",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer eine Partei mit Spenden oder Mitgliedsbeiträgen unterstützt, bekommt einen Teil vom Staat zurück.",
+        "Die Regeln unterscheiden sich von normalen Spenden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Direkt von der Steuer abziehen",
+      "absaetze": [
+        "Spenden und Mitgliedsbeiträge an politische Parteien mindern direkt deine Steuerschuld. Die Hälfte des gezahlten Betrags wird von der Steuer abgezogen.",
+        "Das gilt für Zahlungen bis 1.650 Euro im Jahr, bei Zusammenveranlagung bis 3.300 Euro. Die Steuerermäßigung beträgt also höchstens 825 oder 1.650 Euro."
+      ],
+      "merke": "Die Hälfte der Parteispende wird direkt von der Steuer abgezogen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was darüber hinausgeht",
+      "absaetze": [
+        "Spendest du mehr, kannst du einen weiteren Betrag in gleicher Höhe als Sonderausgabe absetzen. Er mindert dann dein zu versteuerndes Einkommen.",
+        "Gleiches gilt für Spenden an unabhängige Wählervereinigungen, die an Wahlen teilnehmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nachweis nicht vergessen",
+      "absaetze": [
+        "Für den Abzug brauchst du eine Zuwendungsbestätigung der Partei. Bei kleineren Beträgen reicht oft der Kontoauszug.",
+        "Parteien müssen große Spenden öffentlich machen. So soll sichtbar werden, wer Politik finanziell unterstützt."
+      ],
+      "merke": "Bewahre die Zuwendungsbestätigung auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Anteil einer Parteispende wird direkt von der Steuer abgezogen?",
+      "art": "mc",
+      "optionen": [
+        "Die Hälfte",
+        "Ein Zehntel",
+        "Alles",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bis zu einer Höchstgrenze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis zu welchem Betrag gilt das für Einzelpersonen?",
+      "art": "mc",
+      "optionen": [
+        "1.650 Euro im Jahr",
+        "100 Euro im Jahr",
+        "10.000 Euro im Jahr",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Zusammenveranlagung das Doppelte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Spenden an unabhängige Wählervereinigungen werden ähnlich behandelt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Wenn sie an Wahlen teilnehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du als Nachweis?",
+      "art": "mc",
+      "optionen": [
+        "Eine Zuwendungsbestätigung",
+        "Ein Foto der Partei",
+        "Einen Mitgliedsausweis allein",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei kleinen Beträgen reicht oft der Kontoauszug."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Parteispenden mindern direkt die Steuer.",
+        "Die Hälfte des Betrags wird bis zu einer Grenze abgezogen.",
+        "Darüber hinaus sind sie als Sonderausgaben absetzbar.",
+        "Bewahre die Zuwendungsbestätigung auf."
+      ]
+    }
+  ]
+}

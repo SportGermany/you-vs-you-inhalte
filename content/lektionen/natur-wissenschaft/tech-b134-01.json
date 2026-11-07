@@ -1,0 +1,122 @@
+{
+  "id": "tech-b134-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Kühlakku?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuehlakku",
+    "waerme",
+    "physik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Picknickkorb, in der Kühlbox oder auf einer Beule: Kühlakkus halten erstaunlich lange kalt.",
+        "Das liegt an einem physikalischen Trick."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schmelzen kostet Energie",
+      "absaetze": [
+        "In einem Kühlakku steckt meist Wasser mit Zusätzen oder ein Gel. Im Gefrierfach wird der Inhalt fest.",
+        "Damit er wieder schmilzt, braucht er viel Wärme. Diese Wärme nimmt er aus seiner Umgebung auf und kühlt sie dadurch. Während des Schmelzens bleibt seine Temperatur fast gleich."
+      ],
+      "merke": "Beim Schmelzen nimmt ein Kühlakku viel Wärme auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besser als Eis?",
+      "absaetze": [
+        "Ein Kühlakku wirkt ähnlich wie ein Eiswürfel. Er läuft beim Schmelzen aber nicht aus und lässt sich immer wieder verwenden.",
+        "Manche Füllungen schmelzen bei Temperaturen unter null Grad. Sie halten dadurch besonders kalt, etwa für Tiefkühlware."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kälte ohne Gefrierfach",
+      "absaetze": [
+        "Sofort-Kältekompressen funktionieren anders. Beim Knicken mischen sich zwei Stoffe, und die Reaktion entzieht der Umgebung Wärme.",
+        "Lege Kühlakkus nie direkt auf die Haut, sondern wickle sie in ein Tuch. Sonst drohen Kälteschäden. Beschädigte Akkus mit auslaufendem Inhalt gehören nicht mehr in die Nähe von Lebensmitteln."
+      ],
+      "merke": "Kühlakkus nie direkt auf die Haut legen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum hält ein Kühlakku so lange kalt?",
+      "art": "mc",
+      "optionen": [
+        "Beim Schmelzen nimmt er viel Wärme auf",
+        "Er erzeugt Strom",
+        "Er enthält flüssigen Stickstoff",
+        "Er reflektiert Sonnenlicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seine Temperatur bleibt dabei fast gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Vorteil gegenüber Eis?",
+      "art": "mc",
+      "optionen": [
+        "Er läuft nicht aus und ist wiederverwendbar",
+        "Er ist immer kälter als flüssiger Stickstoff",
+        "Er schmilzt nie",
+        "Er ist essbar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist er praktisch für Kühlboxen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sofort-Kältekompressen müssen vorher eingefroren werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei ihnen kühlt eine chemische Reaktion."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie legst du einen Kühlakku auf eine Beule?",
+      "art": "mc",
+      "optionen": [
+        "In ein Tuch gewickelt",
+        "Direkt auf die Haut",
+        "Mit Salz bestreut",
+        "Erhitzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du Kälteschäden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kühlakkus nehmen beim Schmelzen viel Wärme auf.",
+        "Sie laufen nicht aus und sind wiederverwendbar.",
+        "Sofort-Kältekompressen kühlen chemisch.",
+        "Nie direkt auf die Haut legen."
+      ]
+    }
+  ]
+}

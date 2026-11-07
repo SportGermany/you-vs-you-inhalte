@@ -1,0 +1,126 @@
+{
+  "id": "stoff-b134-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie hält der Körper seine Temperatur konstant?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "koerpertemperatur",
+    "thermoregulation",
+    "fieber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Draußen sind es minus zehn Grad oder plus dreißig. Dein Körperinneres bleibt trotzdem bei etwa 37 Grad.",
+        "Wie schafft er das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Thermostat im Gehirn",
+      "absaetze": [
+        "Im Zwischenhirn sitzt der Hypothalamus. Er vergleicht die Körpertemperatur ständig mit einem Sollwert von etwa 37 Grad.",
+        "Weicht sie ab, steuert er gegen. Die Temperatur schwankt im Tagesverlauf leicht, morgens ist sie meist etwas niedriger als abends."
+      ],
+      "merke": "Der Hypothalamus regelt die Körpertemperatur.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kühlen und Wärmen",
+      "absaetze": [
+        "Ist dir zu warm, weiten sich die Blutgefäße in der Haut, und du schwitzt. Verdunstender Schweiß kühlt den Körper.",
+        "Ist dir kalt, verengen sich die Gefäße in Händen und Füßen. Zittern erzeugt zusätzliche Wärme durch Muskelarbeit."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fieber und Gefahren",
+      "absaetze": [
+        "Bei Fieber stellt der Körper den Sollwert höher, oft wegen einer Infektion. Deshalb frierst du anfangs, obwohl du heiß bist.",
+        "Bei großer Hitze oder Kälte kann die Regelung überfordert sein. Hitzschlag und Unterkühlung sind Notfälle. Ältere Menschen und kleine Kinder sind besonders gefährdet."
+      ],
+      "merke": "Hitzschlag und Unterkühlung sind Notfälle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Teil des Gehirns regelt die Körpertemperatur?",
+      "art": "mc",
+      "optionen": [
+        "Der Hypothalamus",
+        "Das Kleinhirn",
+        "Die Sehrinde",
+        "Der Hippocampus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er vergleicht mit einem Sollwert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kühlt sich der Körper bei Hitze?",
+      "art": "mc",
+      "optionen": [
+        "Durch Schwitzen und weite Hautgefäße",
+        "Durch Zittern",
+        "Durch Gänsehaut allein",
+        "Durch schnelleres Atmen allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verdunstender Schweiß nimmt Wärme mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Fieber stellt der Körper seinen Sollwert höher.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb frierst du anfangs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist bei Hitze und Kälte besonders gefährdet?",
+      "art": "mc",
+      "optionen": [
+        "Ältere Menschen und kleine Kinder",
+        "Nur Sportler",
+        "Nur Jugendliche",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihre Temperaturregelung ist weniger belastbar."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Hypothalamus hält die Temperatur bei etwa 37 Grad.",
+        "Schwitzen kühlt, Zittern wärmt.",
+        "Bei Fieber steigt der Sollwert.",
+        "Hitzschlag und Unterkühlung sind Notfälle.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
