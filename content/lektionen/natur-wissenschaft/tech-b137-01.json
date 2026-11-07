@@ -1,0 +1,122 @@
+{
+  "id": "tech-b137-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Warum stinkt es nicht aus dem Abfluss?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "siphon",
+    "abfluss",
+    "sanitaertechnik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Unter jedem Waschbecken sitzt ein gebogenes Rohr.",
+        "Es sorgt dafür, dass keine Kanalgerüche in die Wohnung steigen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Rohr mit Knick",
+      "absaetze": [
+        "Das gebogene Rohr heißt Siphon oder Geruchsverschluss. In seiner Biegung bleibt immer etwas Wasser stehen.",
+        "Dieses Wasser verschließt das Rohr wie ein Pfropfen. Gase aus der Kanalisation können nicht hindurch, das Abwasser aber schon."
+      ],
+      "merke": "Stehendes Wasser im Siphon sperrt Kanalgerüche aus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es doch riecht",
+      "absaetze": [
+        "Wird ein Abfluss lange nicht benutzt, kann das Wasser im Siphon verdunsten. Dann steigen Gerüche auf, etwa aus dem Gäste-WC oder dem Bodenablauf im Keller.",
+        "Die Lösung ist einfach: regelmäßig etwas Wasser nachgießen. Bei längerer Abwesenheit hilft ein Stopfen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haare und Ablagerungen",
+      "absaetze": [
+        "Im Siphon sammeln sich Haare, Seifenreste und Fett. Das kann den Abfluss verstopfen und ebenfalls riechen.",
+        "Viele Siphons lassen sich von Hand aufschrauben und reinigen. Stell vorher einen Eimer darunter. Aggressive Rohrreiniger sind meist nicht nötig."
+      ],
+      "merke": "Bei Geruch aus selten genutzten Abflüssen Wasser nachgießen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie verhindert ein Siphon Gerüche?",
+      "art": "mc",
+      "optionen": [
+        "Stehendes Wasser verschließt das Rohr",
+        "Ein Filter aus Kohle",
+        "Ein Ventilator",
+        "Ein Duftstein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Wasser wirkt wie ein Pfropfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum riecht es manchmal aus selten genutzten Abflüssen?",
+      "art": "mc",
+      "optionen": [
+        "Das Wasser im Siphon ist verdunstet",
+        "Das Rohr ist zu kurz",
+        "Es regnet draußen",
+        "Der Wasserhahn tropft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann fehlt die Sperre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aggressive Rohrreiniger sind für einen Siphon fast immer nötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Oft reicht es, ihn aufzuschrauben und zu reinigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sammelt sich häufig im Siphon?",
+      "art": "mc",
+      "optionen": [
+        "Haare und Seifenreste",
+        "Sand und Kies",
+        "Laub",
+        "Gold"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann zu Verstopfungen führen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Siphon hält stehendes Wasser als Geruchssperre.",
+        "Bei selten genutzten Abflüssen kann es verdunsten.",
+        "Wasser nachgießen hilft gegen Gerüche.",
+        "Siphons lassen sich oft von Hand reinigen."
+      ]
+    }
+  ]
+}

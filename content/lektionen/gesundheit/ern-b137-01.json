@@ -1,0 +1,130 @@
+{
+  "id": "ern-b137-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Pesto?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pesto",
+    "basilikum",
+    "fett"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nudeln mit Pesto gehen schnell und schmecken fast allen.",
+        "Doch im Glas steckt mehr Fett, als viele denken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die klassische Zubereitung",
+      "absaetze": [
+        "Das bekannteste Pesto stammt aus Genua in Italien. Es besteht aus Basilikum, Pinienkernen, Parmesan, Knoblauch, Olivenöl und Salz.",
+        "Die Zutaten werden traditionell im Mörser zerstoßen. Daher kommt auch der Name, der etwa zerstoßen bedeutet."
+      ],
+      "merke": "Klassisches Pesto besteht aus Basilikum, Pinienkernen, Käse und Olivenöl."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Fett und Salz",
+      "absaetze": [
+        "Durch Öl, Nüsse und Käse ist Pesto sehr fettreich und energiereich. Auch Salz steckt reichlich darin.",
+        "Gekauftes Pesto enthält oft günstigere Zutaten, etwa Sonnenblumenöl oder Cashews statt Pinienkerne. Ein Blick auf die Zutatenliste lohnt sich. Eine kleine Menge reicht meist für den Geschmack."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Selbst gemacht und sicher",
+      "absaetze": [
+        "Selbst gemachtes Pesto hält im Kühlschrank nur wenige Tage. Eine Schicht Öl obendrauf schützt vor dem Austrocknen.",
+        "Lagere Pesto mit frischem Knoblauch in Öl nicht bei Zimmertemperatur. Dort können sich gefährliche Bakterien vermehren. Für längere Haltbarkeit kannst du es einfrieren."
+      ],
+      "merke": "Selbst gemachtes Pesto kühl lagern und schnell verbrauchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt das klassische Pesto?",
+      "art": "mc",
+      "optionen": [
+        "Aus Genua in Italien",
+        "Aus Paris",
+        "Aus Athen",
+        "Aus Madrid"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es heißt auch Pesto alla genovese."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine typische Zutat?",
+      "art": "mc",
+      "optionen": [
+        "Pinienkerne",
+        "Erdnussbutter",
+        "Sahne",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Basilikum und Parmesan."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Pesto ist fettarm.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Öl, Nüsse und Käse machen es fettreich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lagerst du selbst gemachtes Pesto?",
+      "art": "mc",
+      "optionen": [
+        "Im Kühlschrank und schnell verbrauchen",
+        "Wochenlang bei Zimmertemperatur",
+        "In der Sonne",
+        "Offen im Schrank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oder du frierst es ein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Klassisches Pesto stammt aus Genua.",
+        "Es ist fett- und salzreich.",
+        "Gekauftes Pesto enthält oft günstigere Zutaten.",
+        "Selbst gemachtes Pesto kühl lagern."
+      ]
+    }
+  ]
+}

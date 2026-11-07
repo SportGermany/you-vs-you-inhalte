@@ -1,0 +1,122 @@
+{
+  "id": "zeit-b137-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Was war die BSE-Krise?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bse",
+    "rinderwahn",
+    "verbraucherschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ende 2000 wurde in Deutschland der erste einheimische Fall von Rinderwahn bestätigt.",
+        "Danach war für viele der Sonntagsbraten plötzlich ein Risiko."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine rätselhafte Rinderkrankheit",
+      "absaetze": [
+        "BSE ist eine tödliche Hirnerkrankung bei Rindern, im Volksmund Rinderwahn. Sie trat ab Mitte der 1980er-Jahre gehäuft in Großbritannien auf.",
+        "Als Ursache gilt verfüttertes Tiermehl aus Schlachtabfällen. Auslöser sind falsch gefaltete Eiweiße, sogenannte Prionen."
+      ],
+      "merke": "BSE wurde vor allem über Tiermehl verbreitet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr für Menschen",
+      "absaetze": [
+        "1996 wurde bekannt, dass BSE wahrscheinlich auf Menschen übertragbar ist. Eine neue Form der tödlichen Creutzfeldt-Jakob-Krankheit trat auf.",
+        "In Großbritannien starben daran über hundert Menschen. Die meisten hatten sich vermutlich über belastetes Rindfleisch angesteckt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen in Deutschland",
+      "absaetze": [
+        "Nach dem ersten deutschen Fall im November 2000 brach der Rindfleischverkauf ein. Anfang 2001 traten die zuständigen Bundesminister für Gesundheit und Landwirtschaft zurück.",
+        "Ein neues Ministerium mit Verbraucherschutz im Namen entstand. Tiermehl wurde als Futter verboten, Schlachtrinder wurden getestet. Heute gilt BSE als weitgehend zurückgedrängt."
+      ],
+      "merke": "Die BSE-Krise stärkte den Verbraucherschutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird BSE im Volksmund genannt?",
+      "art": "mc",
+      "optionen": [
+        "Rinderwahn",
+        "Schweinegrippe",
+        "Vogelgrippe",
+        "Maul- und Klauenseuche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist eine Hirnerkrankung bei Rindern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch wurde BSE vor allem verbreitet?",
+      "art": "mc",
+      "optionen": [
+        "Durch Tiermehl im Futter",
+        "Durch Mückenstiche",
+        "Durch Trinkwasser",
+        "Durch Luft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wurde aus Schlachtabfällen hergestellt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "BSE ist wahrscheinlich auf Menschen übertragbar.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine neue Form der Creutzfeldt-Jakob-Krankheit trat auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Maßnahme folgte in Deutschland?",
+      "art": "mc",
+      "optionen": [
+        "Ein Verbot von Tiermehl als Futter",
+        "Ein Verbot aller Kühe",
+        "Eine Steuer auf Milch",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kamen Tests bei Schlachtrindern."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "BSE ist eine tödliche Hirnerkrankung bei Rindern.",
+        "Sie wurde vor allem über Tiermehl verbreitet.",
+        "Sie ist wahrscheinlich auf Menschen übertragbar.",
+        "Die Krise stärkte den Verbraucherschutz."
+      ]
+    }
+  ]
+}

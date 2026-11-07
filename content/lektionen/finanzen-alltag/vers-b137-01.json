@@ -1,0 +1,128 @@
+{
+  "id": "vers-b137-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wer zahlt den Makler bei Miete und Kauf?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mietrecht",
+      "herausgeber": "Deutscher Mieterbund",
+      "url": "https://www.mieterbund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "makler",
+    "bestellerprinzip",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Früher mussten Mieter oft hohe Maklerprovisionen zahlen, auch wenn der Vermieter den Makler beauftragt hatte.",
+        "Das hat sich geändert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bei Mietwohnungen",
+      "absaetze": [
+        "Seit 2015 gilt bei der Vermietung von Wohnungen das Bestellerprinzip. Wer den Makler beauftragt, muss ihn auch bezahlen.",
+        "In den meisten Fällen ist das der Vermieter. Mieter zahlen nur, wenn sie selbst einen Makler mit der Suche beauftragt haben."
+      ],
+      "merke": "Bei Mietwohnungen zahlt, wer den Makler beauftragt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Beim Kauf",
+      "absaetze": [
+        "Beim Kauf einer Wohnung oder eines Einfamilienhauses gilt seit Ende 2020 eine andere Regel. Hat der Verkäufer den Makler beauftragt, darf der Käufer höchstens die Hälfte der Provision zahlen.",
+        "Wie hoch die Provision insgesamt ist, ist nicht gesetzlich festgelegt. Sie ist verhandelbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Lass dir die Vereinbarung schriftlich geben. Ein Maklervertrag beim Kauf muss in Textform geschlossen werden.",
+        "Unzulässige Forderungen, etwa getarnte Gebühren für Besichtigungen bei Mietwohnungen, musst du nicht zahlen. Der Mieterverein oder die Verbraucherzentrale helfen weiter."
+      ],
+      "merke": "Vereinbarungen mit dem Makler schriftlich festhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer zahlt bei Mietwohnungen den Makler?",
+      "art": "mc",
+      "optionen": [
+        "Wer ihn beauftragt hat",
+        "Immer der Mieter",
+        "Immer der Staat",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist das Bestellerprinzip."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann gilt das Bestellerprinzip bei Mietwohnungen?",
+      "art": "mc",
+      "optionen": [
+        "Seit 2015",
+        "Seit 1990",
+        "Seit 2023",
+        "Seit 1960"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es entlastet vor allem Mieter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Kauf darf der Käufer höchstens die Hälfte der Provision zahlen, wenn der Verkäufer den Makler beauftragt hat.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das gilt seit Ende 2020."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist die Höhe der Maklerprovision gesetzlich festgelegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie ist verhandelbar",
+        "Ja, immer genau zehn Prozent",
+        "Ja, immer 1.000 Euro",
+        "Ja, je nach Bundesland gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verhandeln kann sich lohnen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Mietwohnungen gilt das Bestellerprinzip.",
+        "Beim Kauf zahlt der Käufer höchstens die Hälfte.",
+        "Die Provision ist verhandelbar.",
+        "Vereinbarungen schriftlich festhalten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b137-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schläfst du vor wichtigen Terminen schlecht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "anspannung",
+    "pruefung",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Morgen ist die Prüfung, der Flug oder das Vorstellungsgespräch. Und ausgerechnet heute willst du nicht einschlafen.",
+        "Das ist ganz normal."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Körper bleibt in Bereitschaft",
+      "absaetze": [
+        "Vor wichtigen Ereignissen ist der Körper angespannt. Gedanken kreisen um den nächsten Tag, und oft kommt die Sorge hinzu, zu verschlafen.",
+        "Studien deuten darauf hin, dass der Körper sich auf frühes Aufstehen einstellt. Stresshormone steigen dann schon vor dem Wecker an. Der Schlaf wird leichter."
+      ],
+      "merke": "Anspannung und Grübeln erschweren den Schlaf vor wichtigen Tagen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weniger schlimm als gedacht",
+      "absaetze": [
+        "Eine einzelne schlechte Nacht schadet der Leistung meist weniger, als viele fürchten. Die Aufregung am nächsten Tag hält dich wach.",
+        "Wer sich zu sehr über den fehlenden Schlaf sorgt, schläft dadurch oft noch schlechter. Gelassenheit hilft also doppelt."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Bereite am Vorabend alles vor, was du brauchst. Stell zwei Wecker, dann musst du keine Angst haben zu verschlafen.",
+        "Eine ruhige Abendroutine, Atemübungen oder Lesen helfen beim Abschalten. Liegst du lange wach, steh kurz auf und mach etwas Entspannendes."
+      ],
+      "merke": "Vorbereitung am Vorabend nimmt Druck heraus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schläfst du vor wichtigen Terminen oft schlecht?",
+      "art": "mc",
+      "optionen": [
+        "Wegen Anspannung und kreisender Gedanken",
+        "Wegen zu viel Bewegung am Tag",
+        "Wegen des Mondes",
+        "Ohne jeden Grund"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft kommt die Sorge zu verschlafen hinzu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stark schadet eine einzelne schlechte Nacht der Leistung meist?",
+      "art": "mc",
+      "optionen": [
+        "Weniger als viele fürchten",
+        "Sie macht jede Leistung unmöglich",
+        "Sie verbessert die Leistung immer",
+        "Sie schadet tagelang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Aufregung hält dich am nächsten Tag wach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zwei Wecker können die Angst vor dem Verschlafen nehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das kann beim Einschlafen helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, wenn du lange wach liegst?",
+      "art": "mc",
+      "optionen": [
+        "Kurz aufstehen und etwas Entspannendes tun",
+        "Auf die Uhr starren",
+        "Noch einmal alles durchgehen",
+        "Kaffee trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach fällt das Einschlafen oft leichter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Anspannung erschwert den Schlaf vor wichtigen Tagen.",
+        "Eine schlechte Nacht schadet meist weniger als befürchtet.",
+        "Vorbereitung am Vorabend nimmt Druck heraus.",
+        "Eine ruhige Abendroutine hilft beim Abschalten."
+      ]
+    }
+  ]
+}

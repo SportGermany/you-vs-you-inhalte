@@ -1,0 +1,133 @@
+{
+  "id": "stoff-b137-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Wie entsteht das Durstgefühl?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasser und Getränke",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "durst",
+    "wasserhaushalt",
+    "gehirn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Sport oder einer salzigen Mahlzeit meldet sich der Durst.",
+        "Doch woher weiß der Körper, dass er Wasser braucht?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sensoren im Gehirn",
+      "absaetze": [
+        "Im Hypothalamus, einem Bereich im Zwischenhirn, sitzen spezielle Sinneszellen. Sie messen, wie viel Salz und andere gelöste Stoffe im Blut sind.",
+        "Fehlt Wasser, steigt diese Konzentration. Die Sinneszellen melden das, und wir verspüren Durst. Auch ein sinkendes Blutvolumen löst Durst aus, etwa nach starkem Schwitzen."
+      ],
+      "merke": "Sensoren im Gehirn messen die Salzkonzentration im Blut.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wasser sparen",
+      "absaetze": [
+        "Gleichzeitig schüttet der Körper ein Hormon aus, das die Nieren Wasser sparen lässt. Der Urin wird dann dunkler und weniger.",
+        "Interessant: Schon kurz nach dem Trinken lässt der Durst nach, bevor das Wasser im Blut ankommt. Mund und Rachen melden dem Gehirn, dass Nachschub unterwegs ist."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn der Durst nachlässt",
+      "absaetze": [
+        "Im Alter wird das Durstgefühl oft schwächer. Ältere Menschen trinken deshalb leicht zu wenig. Feste Trinkzeiten können helfen.",
+        "Auch bei Hitze, Fieber oder Durchfall braucht der Körper mehr Flüssigkeit. Starker Durst ohne erkennbaren Grund kann ein Hinweis auf Diabetes sein und sollte ärztlich abgeklärt werden."
+      ],
+      "merke": "Im Alter lässt das Durstgefühl oft nach.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzen die Sensoren, die Durst auslösen?",
+      "art": "mc",
+      "optionen": [
+        "Im Hypothalamus im Gehirn",
+        "In den Füßen",
+        "In der Haut",
+        "Im Magen allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie messen die Salzkonzentration im Blut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit dem Urin bei Wassermangel?",
+      "art": "mc",
+      "optionen": [
+        "Er wird dunkler und weniger",
+        "Er wird heller",
+        "Er wird süß",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Nieren sparen Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Alter wird das Durstgefühl oft schwächer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ältere Menschen trinken deshalb leicht zu wenig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sollte starker Durst ärztlich abgeklärt werden?",
+      "art": "mc",
+      "optionen": [
+        "Wenn er ohne erkennbaren Grund auftritt",
+        "Nach dem Sport",
+        "An heißen Tagen",
+        "Nach salzigem Essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kann ein Hinweis auf Diabetes sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sensoren im Gehirn messen den Wasserhaushalt.",
+        "Bei Wassermangel sparen die Nieren Wasser.",
+        "Im Alter lässt das Durstgefühl oft nach.",
+        "Unerklärlich starken Durst ärztlich abklären.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
