@@ -1,0 +1,122 @@
+{
+  "id": "vers-b142-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Welche Kündigungsfristen gelten im Job?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kuendigungsfrist",
+    "arbeitsvertrag",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob du selbst kündigst oder gekündigt wirst: Es gelten Fristen.",
+        "Sie stehen im Gesetz, im Arbeitsvertrag oder im Tarifvertrag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die gesetzliche Grundfrist",
+      "absaetze": [
+        "Laut Gesetz beträgt die Kündigungsfrist vier Wochen zum 15. oder zum Ende eines Monats. Sie gilt, wenn nichts anderes vereinbart ist.",
+        "In der Probezeit kann das Arbeitsverhältnis mit zwei Wochen Frist beendet werden. Die Probezeit darf höchstens sechs Monate dauern."
+      ],
+      "merke": "Grundfrist: vier Wochen zum 15. oder Monatsende."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Längere Fristen für Arbeitgeber",
+      "absaetze": [
+        "Je länger du im Betrieb bist, desto länger muss der Arbeitgeber warten. Nach zwei Jahren beträgt seine Frist einen Monat, nach 20 Jahren sieben Monate.",
+        "Für dich als Beschäftigten bleibt die Grundfrist bestehen, wenn der Vertrag nichts anderes sagt. Tarifverträge können abweichende Fristen festlegen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Form zählt",
+      "absaetze": [
+        "Eine Kündigung muss schriftlich auf Papier und eigenhändig unterschrieben sein. Eine E-Mail oder eine Nachricht per Messenger reicht nicht.",
+        "Wichtig ist, wann die Kündigung zugeht. Bewahre einen Nachweis über die Übergabe auf."
+      ],
+      "merke": "Eine Kündigung per E-Mail ist unwirksam."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lang ist die gesetzliche Grundkündigungsfrist?",
+      "art": "mc",
+      "optionen": [
+        "Vier Wochen zum 15. oder Monatsende",
+        "Ein Tag",
+        "Ein Jahr",
+        "Drei Monate zum Jahresende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gilt, wenn nichts anderes vereinbart ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Frist gilt in der Probezeit?",
+      "art": "mc",
+      "optionen": [
+        "Zwei Wochen",
+        "Sechs Monate",
+        "Gar keine",
+        "Ein Jahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Probezeit dauert höchstens sechs Monate."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Kündigung per E-Mail ist wirksam.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie muss schriftlich und unterschrieben sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wessen Frist verlängert sich mit der Dauer der Beschäftigung?",
+      "art": "mc",
+      "optionen": [
+        "Die des Arbeitgebers",
+        "Die der Beschäftigten",
+        "Die des Finanzamts",
+        "Niemandes"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach 20 Jahren sind es sieben Monate."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grundfrist: vier Wochen zum 15. oder Monatsende.",
+        "In der Probezeit gelten zwei Wochen.",
+        "Arbeitgeberfristen steigen mit der Betriebszugehörigkeit.",
+        "Kündigungen brauchen Papier und Unterschrift."
+      ]
+    }
+  ]
+}

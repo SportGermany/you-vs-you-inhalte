@@ -1,0 +1,122 @@
+{
+  "id": "tech-b142-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was bringen Luftreiniger?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelt und Wohnen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "luftreiniger",
+    "raumluft",
+    "filter"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Luftreiniger versprechen saubere Luft in der Wohnung.",
+        "Was sie können, hängt stark von der Technik und dem Einsatzzweck ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Filter fangen Partikel",
+      "absaetze": [
+        "Gute Luftreiniger saugen Raumluft an und schicken sie durch einen feinen Filter, oft einen sogenannten HEPA-Filter. Er hält Staub, Pollen und feine Partikel zurück.",
+        "Für Menschen mit Pollenallergie oder bei Rauch von außen kann das hilfreich sein. Auch Tierhaare und Hausstaub werden reduziert."
+      ],
+      "merke": "HEPA-Filter halten feine Partikel zurück."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie nicht können",
+      "absaetze": [
+        "Luftreiniger entfernen kein Kohlendioxid und senken die Luftfeuchtigkeit nicht. Regelmäßiges Lüften bleibt deshalb nötig.",
+        "Manche Geräte erzeugen mit Ionisatoren Ozon, das die Atemwege reizen kann. Das Umweltbundesamt sieht solche Zusatzfunktionen kritisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Das Gerät muss zur Raumgröße passen, sonst bleibt die Wirkung gering. Achte auch auf die Lautstärke, besonders im Schlafzimmer.",
+        "Filter müssen regelmäßig gewechselt werden. Ein verstopfter Filter arbeitet schlecht und kann selbst Keime beherbergen."
+      ],
+      "merke": "Lüften ersetzt kein Luftreiniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält ein HEPA-Filter zurück?",
+      "art": "mc",
+      "optionen": [
+        "Staub, Pollen und feine Partikel",
+        "Kohlendioxid",
+        "Wasserdampf",
+        "Gerüche aller Art vollständig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann Allergikern helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Luftreiniger macht das Lüften überflüssig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er entfernt kein Kohlendioxid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Ionisatoren kritisch?",
+      "art": "mc",
+      "optionen": [
+        "Sie können Ozon erzeugen",
+        "Sie verbrauchen Wasser",
+        "Sie sind zu leise",
+        "Sie kühlen den Raum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ozon kann die Atemwege reizen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was musst du bei einem Luftreiniger regelmäßig tun?",
+      "art": "mc",
+      "optionen": [
+        "Den Filter wechseln",
+        "Ihn mit Wasser füllen",
+        "Ihn neu programmieren lassen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein verstopfter Filter arbeitet schlecht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Luftreiniger filtern Staub und Pollen.",
+        "Sie entfernen kein Kohlendioxid.",
+        "Ionisatoren können Ozon erzeugen.",
+        "Raumgröße beachten und Filter wechseln."
+      ]
+    }
+  ]
+}

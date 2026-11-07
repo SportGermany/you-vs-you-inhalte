@@ -1,0 +1,122 @@
+{
+  "id": "haus-b142-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie hältst du die Mülltonne sauber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "muelltonne",
+    "hygiene",
+    "maden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sommer riecht die Mülltonne schnell unangenehm, manchmal krabbeln sogar Maden darin.",
+        "Mit ein paar Tricks bleibt sie sauberer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen ist einfacher",
+      "absaetze": [
+        "Lege Zeitungspapier auf den Boden der Biotonne. Es saugt Feuchtigkeit auf und verhindert, dass Abfälle festkleben.",
+        "Wickle feuchte Essensreste in Zeitungs- oder Küchenpapier ein. Fleisch- und Fischreste gehören in den Restmüll, wenn deine Gemeinde das so vorgibt."
+      ],
+      "merke": "Zeitungspapier saugt Feuchtigkeit auf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der richtige Standort",
+      "absaetze": [
+        "Stelle die Tonne möglichst in den Schatten. Hitze beschleunigt Fäulnis und lockt Fliegen an.",
+        "Halte den Deckel immer geschlossen. So können Fliegen ihre Eier nicht so leicht ablegen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gründlich reinigen",
+      "absaetze": [
+        "Spüle die leere Tonne mit Wasser und etwas Essig oder Schmierseife aus. Eine Bürste mit langem Stiel hilft dabei.",
+        "Gieße das Schmutzwasser nicht in den Gully, sondern in die Toilette. Lass die Tonne danach offen trocknen."
+      ],
+      "merke": "Schmutzwasser gehört in die Toilette, nicht in den Gully."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was legst du auf den Boden der Biotonne?",
+      "art": "mc",
+      "optionen": [
+        "Zeitungspapier",
+        "Eine Plastiktüte",
+        "Sand",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es saugt Feuchtigkeit auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steht die Mülltonne im Sommer am besten?",
+      "art": "mc",
+      "optionen": [
+        "Im Schatten",
+        "In der prallen Sonne",
+        "Neben der Heizung",
+        "Im Wohnzimmer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hitze beschleunigt Fäulnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schmutzwasser aus der Tonne darf in den Straßengully.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gehört in die Toilette."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit kannst du die Tonne reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Mit Wasser und etwas Essig oder Schmierseife",
+        "Mit Benzin",
+        "Mit Chlorbleiche in großen Mengen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine lange Bürste hilft dabei."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zeitungspapier am Boden saugt Feuchtigkeit auf.",
+        "Feuchte Reste in Papier einwickeln.",
+        "Die Tonne in den Schatten stellen und geschlossen halten.",
+        "Mit Wasser und Essig reinigen, Schmutzwasser in die Toilette."
+      ]
+    }
+  ]
+}

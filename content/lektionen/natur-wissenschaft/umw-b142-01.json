@@ -1,0 +1,122 @@
+{
+  "id": "umw-b142-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Wie sauber heizt ein Kaminofen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelt und Wohnen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kaminofen",
+    "feinstaub",
+    "holz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein knisterndes Feuer im Kaminofen gilt als gemütlich und natürlich.",
+        "Für die Luft ist Holzheizen allerdings oft eine Belastung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Feinstaub",
+      "absaetze": [
+        "Beim Verbrennen von Holz entstehen Feinstaub und weitere Schadstoffe. Nach Angaben des Umweltbundesamts stoßen Holzöfen in Haushalten mehr Feinstaub aus als die Motoren aller Autos.",
+        "Feinstaub kann Atemwege und Herz-Kreislauf-System belasten. Gerade in Wohngebieten an kalten, windstillen Tagen steigt die Belastung."
+      ],
+      "merke": "Holzöfen sind eine große Feinstaubquelle."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig heizen",
+      "absaetze": [
+        "Verbrenne nur trockenes, gut abgelagertes Holz. Feuchtes Holz qualmt stark und erzeugt mehr Schadstoffe.",
+        "Abfälle, lackiertes Holz oder Pappe gehören nicht in den Ofen. Das Anzünden von oben sorgt oft für eine sauberere Verbrennung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alte Öfen",
+      "absaetze": [
+        "Ältere Öfen stoßen deutlich mehr Schadstoffe aus als moderne Geräte. Viele mussten deshalb nach gesetzlichen Fristen nachgerüstet oder ausgetauscht werden.",
+        "Der Schornsteinfeger prüft, ob dein Ofen die Grenzwerte einhält. Als Hauptheizung ist ein Kaminofen in dicht besiedelten Gebieten oft keine gute Wahl."
+      ],
+      "merke": "Nur trockenes, unbehandeltes Holz verbrennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entsteht beim Verbrennen von Holz?",
+      "art": "mc",
+      "optionen": [
+        "Feinstaub und weitere Schadstoffe",
+        "Nur Wasserdampf",
+        "Sauerstoff",
+        "Nichts Schädliches"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das belastet die Luft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Holz solltest du verbrennen?",
+      "art": "mc",
+      "optionen": [
+        "Trockenes, gut abgelagertes Holz",
+        "Frisch geschlagenes, nasses Holz",
+        "Lackierte Möbelreste",
+        "Pappe und Zeitungen in großen Mengen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Feuchtes Holz qualmt stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ältere Öfen stoßen meist mehr Schadstoffe aus als moderne.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Viele mussten nachgerüstet oder ersetzt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer prüft, ob ein Ofen die Grenzwerte einhält?",
+      "art": "mc",
+      "optionen": [
+        "Der Schornsteinfeger",
+        "Die Feuerwehr",
+        "Das Finanzamt",
+        "Der Vermieter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er misst die Emissionen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Holzöfen sind eine große Feinstaubquelle.",
+        "Nur trockenes, unbehandeltes Holz verbrennen.",
+        "Moderne Öfen sind sauberer als alte.",
+        "Der Schornsteinfeger prüft die Grenzwerte."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "all-b142-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was muss ein Raumanzug leisten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Human and Robotic Exploration",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "raumanzug",
+    "raumfahrt",
+    "aussenbordeinsatz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einem Außeneinsatz an der Raumstation trennt nur ein Anzug den Menschen vom Weltall.",
+        "Dieser Anzug ist im Grunde ein kleines Raumschiff."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz vor einer feindlichen Umgebung",
+      "absaetze": [
+        "Im All herrscht nahezu Vakuum, ohne Druckausgleich würde der Körper schwer geschädigt. Der Anzug hält deshalb einen inneren Druck aufrecht.",
+        "Im Sonnenlicht wird es extrem heiß, im Schatten extrem kalt. Mehrere Schichten schützen vor diesen Temperaturen und vor winzigen Staubteilchen."
+      ],
+      "merke": "Der Anzug hält Druck und schützt vor Hitze und Kälte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein eigenes Lebenserhaltungssystem",
+      "absaetze": [
+        "Ein Rucksack liefert Sauerstoff und entfernt ausgeatmetes Kohlendioxid. Unter dem Anzug fließt Wasser durch dünne Schläuche und kühlt den Körper.",
+        "Funk, Licht und Kameras sind ebenfalls eingebaut. So kann die Crew mit der Station und der Bodenkontrolle sprechen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Anstrengende Arbeit",
+      "absaetze": [
+        "Der Anzug steht unter Druck und ist deshalb steif. Jede Handbewegung kostet Kraft, besonders an den Fingern.",
+        "Ein Außeneinsatz dauert oft viele Stunden. Vorher atmen die Astronauten reinen Sauerstoff, um Stickstoff aus dem Blut zu entfernen."
+      ],
+      "merke": "Außeneinsätze sind körperlich sehr anstrengend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovor schützt ein Raumanzug?",
+      "art": "mc",
+      "optionen": [
+        "Vor Vakuum, extremen Temperaturen und Staubteilchen",
+        "Nur vor Regen",
+        "Nur vor Lärm",
+        "Vor Schwerkraft"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist wie ein kleines Raumschiff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird der Körper im Anzug gekühlt?",
+      "art": "mc",
+      "optionen": [
+        "Durch Wasser in dünnen Schläuchen",
+        "Durch einen Ventilator im Helm",
+        "Durch Eiswürfel",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Schläuche liegen in der Unterkleidung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Bewegungen im Raumanzug sind leicht und mühelos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Anzug ist durch den Druck steif."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum atmen Astronauten vor dem Außeneinsatz reinen Sauerstoff?",
+      "art": "mc",
+      "optionen": [
+        "Um Stickstoff aus dem Blut zu entfernen",
+        "Um wacher zu sein",
+        "Um Gewicht zu verlieren",
+        "Um besser zu sehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird eine Art Taucherkrankheit vermieden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Raumanzug hält Druck und Temperatur.",
+        "Er versorgt mit Sauerstoff und entfernt Kohlendioxid.",
+        "Wasserschläuche kühlen den Körper.",
+        "Arbeiten im Anzug ist sehr anstrengend."
+      ]
+    }
+  ]
+}
