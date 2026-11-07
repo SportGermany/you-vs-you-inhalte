@@ -1,0 +1,124 @@
+{
+  "id": "ern-b146-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Knoblauch?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "knoblauch",
+    "gewuerze",
+    "gemuese"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knoblauch würzt Gerichte auf der ganzen Welt.",
+        "Ihm werden auch viele gesundheitliche Wirkungen nachgesagt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Duft entsteht erst beim Schneiden",
+      "absaetze": [
+        "In der ganzen Zehe steckt der Stoff Alliin. Erst beim Schneiden oder Pressen entsteht daraus mit Hilfe eines Enzyms das scharf riechende Allicin.",
+        "Schwefelverbindungen gelangen über das Blut auch in die Atemluft und in den Schweiß. Deshalb hält sich der Geruch so lange."
+      ],
+      "merke": "Allicin entsteht erst beim Zerkleinern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige Studien deuten darauf hin, dass Knoblauch den Blutdruck leicht senken kann. Die Effekte sind aber klein und die Studien oft kurz.",
+        "Für den Schutz vor Herzinfarkt oder Krebs gibt es keine sicheren Belege. Knoblauch ist ein gesundes Würzmittel, aber kein Medikament."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zu wissen",
+      "absaetze": [
+        "Viel roher Knoblauch kann Magen und Darm reizen. Lass gehackten Knoblauch vor dem Erhitzen ein paar Minuten liegen, dann bleibt mehr Allicin erhalten.",
+        "Wer blutverdünnende Medikamente nimmt, sollte bei großen Mengen oder Präparaten ärztlich nachfragen. Als Gewürz im Essen ist Knoblauch für Gesunde unproblematisch."
+      ],
+      "merke": "Knoblauch ist ein Gewürz, kein Medikament."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann entsteht der typische Knoblauchgeruch?",
+      "art": "mc",
+      "optionen": [
+        "Beim Schneiden oder Pressen",
+        "Beim Einfrieren",
+        "Beim Pflanzen",
+        "Nur beim Braten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wird aus Alliin das Allicin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf deuten einige Studien hin?",
+      "art": "mc",
+      "optionen": [
+        "Auf eine leichte Senkung des Blutdrucks",
+        "Auf die Heilung von Krebs",
+        "Auf schnelleres Haarwachstum",
+        "Auf besseres Sehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Effekte sind aber klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Knoblauch schützt sicher vor Herzinfarkt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es keine sicheren Belege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte bei großen Mengen Knoblauch ärztlich nachfragen?",
+      "art": "mc",
+      "optionen": [
+        "Menschen, die Blutverdünner nehmen",
+        "Alle Kinder",
+        "Menschen mit Brille",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Knoblauch kann die Blutgerinnung beeinflussen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Allicin entsteht erst beim Zerkleinern.",
+        "Einige Studien deuten auf leicht niedrigeren Blutdruck hin.",
+        "Für viele behauptete Wirkungen fehlen Belege.",
+        "Bei Blutverdünnern große Mengen ärztlich besprechen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ern-b146-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Worauf solltest du bei Hähnchenfleisch achten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "haehnchen",
+    "gefluegel",
+    "kuechenhygiene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Hähnchen ist mager, eiweißreich und vielseitig.",
+        "In der Küche braucht rohes Geflügel aber besondere Sorgfalt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keime auf rohem Fleisch",
+      "absaetze": [
+        "Auf rohem Geflügel finden sich häufig Bakterien wie Campylobacter und Salmonellen. Campylobacter gehört in Deutschland zu den häufigsten bakteriellen Erregern von Durchfallerkrankungen.",
+        "Auch antibiotikaresistente Keime wurden auf Hähnchenfleisch nachgewiesen. Durch gründliches Garen werden diese Keime abgetötet."
+      ],
+      "merke": "Rohes Geflügel trägt oft Krankheitserreger."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht waschen",
+      "absaetze": [
+        "Wasche rohes Hähnchen nicht ab. Dabei verteilen sich Keime mit den Wasserspritzern in der Küche.",
+        "Tupfe das Fleisch stattdessen mit Küchenpapier ab und wirf es gleich weg. Wasche danach gründlich die Hände."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sauber trennen und durchgaren",
+      "absaetze": [
+        "Verwende für rohes Fleisch ein eigenes Brett und Messer. Salat und andere Rohkost sollten nicht damit in Berührung kommen.",
+        "Gare Hähnchen immer vollständig durch, bis kein rosa Fleischsaft mehr austritt. Ein Bratenthermometer hilft, sicherzugehen."
+      ],
+      "merke": "Rohes Geflügel nicht waschen, aber vollständig durchgaren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Keim kommt auf rohem Geflügel häufig vor?",
+      "art": "mc",
+      "optionen": [
+        "Campylobacter",
+        "Grippeviren",
+        "Hefepilze aus Brot",
+        "Milchsäurebakterien aus Joghurt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist ein häufiger Auslöser von Durchfall."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Solltest du rohes Hähnchen vor der Zubereitung waschen?",
+      "art": "mc",
+      "optionen": [
+        "Nein, dabei verteilen sich Keime",
+        "Ja, immer gründlich",
+        "Nur mit heißem Wasser",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tupfe es lieber mit Küchenpapier ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für rohes Fleisch und Salat solltest du getrennte Bretter verwenden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So vermeidest du Keimübertragung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran erkennst du, dass Hähnchen durch ist?",
+      "art": "mc",
+      "optionen": [
+        "Es tritt kein rosa Fleischsaft mehr aus",
+        "Es ist außen braun",
+        "Es riecht nach Gewürzen",
+        "Nach genau einer Minute"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Bratenthermometer gibt Sicherheit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rohes Geflügel trägt oft Keime wie Campylobacter.",
+        "Hähnchen nicht waschen, sondern abtupfen.",
+        "Getrennte Bretter für Fleisch und Rohkost nutzen.",
+        "Immer vollständig durchgaren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tech-b146-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Rasenmäher?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rasenmaeher",
+    "garten",
+    "maschinen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sommer brummen in vielen Gärten die Rasenmäher.",
+        "Dabei gibt es zwei ganz unterschiedliche Prinzipien, Gras zu schneiden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Sichelmäher",
+      "absaetze": [
+        "Die meisten Rasenmäher sind Sichelmäher. Ein flaches Messer dreht sich sehr schnell waagerecht und schlägt die Grashalme ab.",
+        "Ein Gebläse befördert das Schnittgut in den Fangkorb. Mulchmäher zerkleinern es dagegen fein und lassen es als Dünger auf dem Rasen."
+      ],
+      "merke": "Sichelmäher schlagen das Gras mit einem rotierenden Messer ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Spindelmäher",
+      "absaetze": [
+        "Beim Spindelmäher drehen sich mehrere gebogene Messer wie eine Walze. Sie schneiden das Gras an einer feststehenden Klinge ab, ähnlich wie eine Schere.",
+        "Der Schnitt ist besonders sauber und schont den Rasen. Spindelmäher gibt es oft als leise Handmäher ohne Motor."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher und rücksichtsvoll mähen",
+      "absaetze": [
+        "Greife nie unter einen laufenden Mäher und trage festes Schuhwerk. Stumpfe Messer zerfasern das Gras und sollten geschliffen werden.",
+        "In Wohngebieten dürfen motorbetriebene Rasenmäher werktags meist nur zwischen 7 und 20 Uhr laufen. An Sonn- und Feiertagen ist Mähen dort verboten."
+      ],
+      "merke": "An Sonn- und Feiertagen ist Mähen in Wohngebieten verboten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie schneidet ein Sichelmäher das Gras?",
+      "art": "mc",
+      "optionen": [
+        "Ein schnell rotierendes Messer schlägt die Halme ab",
+        "Wie eine Schere an einer festen Klinge",
+        "Mit einem Laser",
+        "Durch Ausreißen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist die häufigste Bauart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Mulchmäher mit dem Schnittgut?",
+      "art": "mc",
+      "optionen": [
+        "Er zerkleinert es und lässt es als Dünger liegen",
+        "Er presst es zu Ballen",
+        "Er verbrennt es",
+        "Er sammelt es in einem Sack"
+      ],
+      "richtig": 0,
+      "erklaerung": "So spart man das Entsorgen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Spindelmäher schneiden das Gras ähnlich wie eine Schere.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Schnitt ist besonders sauber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist Rasenmähen in Wohngebieten verboten?",
+      "art": "mc",
+      "optionen": [
+        "An Sonn- und Feiertagen",
+        "Nur bei Regen",
+        "Nur im Winter",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Werktags gelten meist feste Zeiten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sichelmäher schlagen Gras mit einem rotierenden Messer ab.",
+        "Spindelmäher schneiden wie eine Schere.",
+        "Mulchmäher lassen das Schnittgut als Dünger liegen.",
+        "Ruhezeiten an Sonn- und Feiertagen beachten."
+      ]
+    }
+  ]
+}

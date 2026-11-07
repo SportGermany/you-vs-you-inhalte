@@ -1,0 +1,122 @@
+{
+  "id": "geld-b146-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was bringen Genossenschaftsanteile?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "genossenschaft",
+    "geldanlage",
+    "mitbestimmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob Bank, Wohnungsbau oder Energie: Viele Genossenschaften bieten Anteile zum Kauf an.",
+        "Wer Anteile hat, wird Mitglied und Miteigentümer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mitglied statt nur Kunde",
+      "absaetze": [
+        "Mit dem Kauf von Genossenschaftsanteilen wirst du Mitglied der Genossenschaft. In der Versammlung hat jedes Mitglied eine Stimme, unabhängig von der Zahl der Anteile.",
+        "Bei Wohnungsgenossenschaften sind Anteile oft Voraussetzung für eine Wohnung. Bei Genossenschaftsbanken kannst du so Teilhaber werden."
+      ],
+      "merke": "Jedes Mitglied hat eine Stimme."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dividende ohne Garantie",
+      "absaetze": [
+        "Läuft es gut, zahlt die Genossenschaft eine Dividende auf die Anteile. Ihre Höhe steht aber nicht fest, sie kann auch ganz ausfallen.",
+        "Anteile sind keine Spareinlagen und fallen nicht unter die Einlagensicherung. Geht die Genossenschaft pleite, kann das Geld verloren sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor dem Kauf prüfen",
+      "absaetze": [
+        "Anteile lassen sich meist nur mit Frist zum Jahresende kündigen, oft über mehrere Jahre. Das Geld ist also nicht schnell verfügbar.",
+        "Lies die Satzung genau, manchmal gibt es eine Nachschusspflicht. Dann müssten Mitglieder im Notfall Geld nachzahlen."
+      ],
+      "merke": "Anteile sind nicht durch die Einlagensicherung geschützt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Stimmen hat ein Mitglied in der Genossenschaft?",
+      "art": "mc",
+      "optionen": [
+        "Eine, unabhängig von der Zahl der Anteile",
+        "Eine pro Euro",
+        "Keine",
+        "Zehn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist ein Grundprinzip von Genossenschaften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist die Dividende auf Genossenschaftsanteile sicher?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie kann auch ausfallen",
+        "Ja, immer",
+        "Ja, gesetzlich festgelegt",
+        "Nur in Schaltjahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie hängt vom Erfolg der Genossenschaft ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Genossenschaftsanteile sind durch die Einlagensicherung geschützt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind keine Spareinlagen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann in der Satzung stehen?",
+      "art": "mc",
+      "optionen": [
+        "Eine Nachschusspflicht",
+        "Ein fester Mindestzins",
+        "Ein Steuergeschenk",
+        "Ein Gratis-Auto"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann müssten Mitglieder im Notfall nachzahlen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mit Anteilen wirst du Mitglied einer Genossenschaft.",
+        "Jedes Mitglied hat eine Stimme.",
+        "Dividenden können auch ausfallen.",
+        "Kündigungsfristen und Satzung genau prüfen."
+      ]
+    }
+  ]
+}

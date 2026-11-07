@@ -1,0 +1,122 @@
+{
+  "id": "all-b146-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist kosmische Strahlung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Science",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kosmische-strahlung",
+    "teilchen",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Aus dem All prasseln ständig winzige Teilchen auf die Erde.",
+        "Diese kosmische Strahlung wurde vor über hundert Jahren entdeckt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teilchen aus dem All",
+      "absaetze": [
+        "Kosmische Strahlung besteht vor allem aus Atomkernen, meist Protonen, die mit enormer Geschwindigkeit durchs All rasen. Ein Teil stammt von der Sonne, ein Teil aus Sternexplosionen in unserer Galaxie.",
+        "Treffen die Teilchen auf die Atmosphäre, entstehen Schauer aus weiteren Teilchen. Einige davon erreichen den Erdboden."
+      ],
+      "merke": "Kosmische Strahlung besteht vor allem aus Atomkernen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Entdeckung im Ballon",
+      "absaetze": [
+        "1912 stieg der Physiker Victor Hess mit einem Ballon in große Höhe. Er stellte fest, dass die Strahlung nach oben hin zunimmt und also aus dem All kommen muss.",
+        "Für diese Entdeckung erhielt er später den Nobelpreis für Physik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz durch Atmosphäre und Magnetfeld",
+      "absaetze": [
+        "Erdatmosphäre und Magnetfeld schirmen uns weitgehend ab. In großer Höhe ist die Strahlung stärker, deshalb erhalten Flugpersonal und Vielflieger eine etwas höhere Dosis.",
+        "Für Astronauten ist kosmische Strahlung eine große Herausforderung. Bei langen Reisen zum Mars bräuchte es einen besseren Schutz."
+      ],
+      "merke": "Atmosphäre und Magnetfeld schützen uns."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht kosmische Strahlung vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Aus Atomkernen, meist Protonen",
+        "Aus Staub",
+        "Aus Wasserdampf",
+        "Aus Licht allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie rasen mit enormer Geschwindigkeit durchs All."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entdeckte die kosmische Strahlung 1912?",
+      "art": "mc",
+      "optionen": [
+        "Victor Hess",
+        "Albert Einstein",
+        "Marie Curie",
+        "Isaac Newton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er stieg dafür mit einem Ballon auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Flugpersonal ist einer etwas höheren Strahlung ausgesetzt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. In großer Höhe schützt die Atmosphäre weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt uns auf der Erde?",
+      "art": "mc",
+      "optionen": [
+        "Atmosphäre und Magnetfeld",
+        "Wolken allein",
+        "Der Mond",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Astronauten ist der Schutz schwieriger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kosmische Strahlung besteht vor allem aus Atomkernen.",
+        "Victor Hess entdeckte sie 1912 im Ballon.",
+        "Atmosphäre und Magnetfeld schützen uns.",
+        "Für Astronauten ist sie ein großes Problem."
+      ]
+    }
+  ]
+}
