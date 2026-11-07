@@ -1,0 +1,122 @@
+{
+  "id": "geld-b144-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie machst du einen finanziellen Kassensturz?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kassensturz",
+    "budget",
+    "finanzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Am Monatsende ist das Konto leer, und du weißt nicht genau, wohin das Geld geflossen ist?",
+        "Ein Kassensturz bringt Klarheit über deine Finanzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alles auf den Tisch",
+      "absaetze": [
+        "Schreibe auf, was jeden Monat hereinkommt, etwa Lohn, Kindergeld oder Nebeneinkünfte. Notiere dann alle festen Ausgaben wie Miete, Versicherungen und Abos.",
+        "Für die schwankenden Ausgaben wie Lebensmittel oder Freizeit helfen die Kontoauszüge der letzten Monate. Vergiss jährliche Zahlungen nicht, rechne sie auf den Monat um."
+      ],
+      "merke": "Erfasse Einnahmen, feste und schwankende Ausgaben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vermögen und Schulden",
+      "absaetze": [
+        "Zum Kassensturz gehört auch ein Blick auf Ersparnisse und Schulden. Liste Kredite, Dispo und Ratenkäufe mit ihren Zinsen auf.",
+        "So erkennst du, welche Schulden besonders teuer sind. Diese solltest du zuerst abbauen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lecks finden",
+      "absaetze": [
+        "Oft verstecken sich Ausgaben in vergessenen Abos oder teuren Verträgen. Kündige, was du nicht mehr brauchst.",
+        "Aus dem Kassensturz kannst du ein Budget für die kommenden Monate ableiten. Wiederhole ihn etwa einmal im Jahr."
+      ],
+      "merke": "Vergessene Abos sind typische Geldlecks."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört zu einem Kassensturz?",
+      "art": "mc",
+      "optionen": [
+        "Einnahmen, Ausgaben, Ersparnisse und Schulden",
+        "Nur der Kontostand",
+        "Nur die Miete",
+        "Nur das Gehalt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ergibt ein vollständiges Bild."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gehst du mit jährlichen Zahlungen um?",
+      "art": "mc",
+      "optionen": [
+        "Auf den Monat umrechnen",
+        "Ignorieren",
+        "Doppelt zählen",
+        "Nur im Dezember beachten"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vergisst du sie im Budget nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Teure Schulden wie der Dispo sollten zuerst abgebaut werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie kosten am meisten Zinsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo verstecken sich oft Geldlecks?",
+      "art": "mc",
+      "optionen": [
+        "In vergessenen Abos",
+        "Im Sparschwein",
+        "Im Grundfreibetrag",
+        "In der Steuer-ID"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kündige, was du nicht mehr brauchst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Erfasse Einnahmen und alle Ausgaben.",
+        "Jährliche Zahlungen auf den Monat umrechnen.",
+        "Teure Schulden zuerst abbauen.",
+        "Vergessene Abos aufspüren und kündigen."
+      ]
+    }
+  ]
+}

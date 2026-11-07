@@ -1,0 +1,122 @@
+{
+  "id": "steu-b144-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist eine Umsatzsteuer-Voranmeldung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "umsatzsteuer",
+    "selbststaendige",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer selbstständig ist, zieht für den Staat Umsatzsteuer von der Kundschaft ein.",
+        "Dieses Geld muss regelmäßig ans Finanzamt weitergegeben werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuer im Voraus melden",
+      "absaetze": [
+        "In der Umsatzsteuer-Voranmeldung teilst du dem Finanzamt mit, wie viel Umsatzsteuer du eingenommen hast. Davon ziehst du die Vorsteuer ab, die du selbst an andere Unternehmen gezahlt hast.",
+        "Die Differenz überweist du ans Finanzamt. Ist die Vorsteuer höher, bekommst du Geld zurück."
+      ],
+      "merke": "Eingenommene Umsatzsteuer minus gezahlte Vorsteuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Monatlich oder vierteljährlich",
+      "absaetze": [
+        "Je nach Höhe der Steuer musst du die Voranmeldung monatlich oder vierteljährlich abgeben. Sie ist in der Regel bis zum zehnten Tag nach Ablauf des Zeitraums fällig.",
+        "Die Meldung erfolgt elektronisch, etwa über ELSTER. Mit einer Dauerfristverlängerung bekommst du einen Monat mehr Zeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer davon befreit ist",
+      "absaetze": [
+        "Kleinunternehmer, die unter bestimmten Umsatzgrenzen bleiben, weisen keine Umsatzsteuer aus. Sie müssen dann auch keine Voranmeldungen abgeben.",
+        "Am Jahresende folgt bei allen anderen zusätzlich eine Umsatzsteuer-Jahreserklärung. Verspätete Meldungen können Zuschläge kosten."
+      ],
+      "merke": "Die Meldung geht elektronisch über ELSTER."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was meldest du in der Umsatzsteuer-Voranmeldung?",
+      "art": "mc",
+      "optionen": [
+        "Eingenommene Umsatzsteuer abzüglich gezahlter Vorsteuer",
+        "Dein Gehalt",
+        "Deine Miete",
+        "Deine Kirchensteuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Differenz geht ans Finanzamt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis wann ist die Voranmeldung in der Regel fällig?",
+      "art": "mc",
+      "optionen": [
+        "Bis zum zehnten Tag nach Ablauf des Zeitraums",
+        "Am Jahresende",
+        "Am ersten Tag des Monats",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit Dauerfristverlängerung gibt es einen Monat mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleinunternehmer müssen in der Regel keine Umsatzsteuer-Voranmeldung abgeben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie weisen keine Umsatzsteuer aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird die Voranmeldung übermittelt?",
+      "art": "mc",
+      "optionen": [
+        "Elektronisch, etwa über ELSTER",
+        "Per Postkarte",
+        "Mündlich beim Finanzamt",
+        "Per Fax an die Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Abgabe auf Papier ist die Ausnahme."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Selbstständige melden die Umsatzsteuer regelmäßig vorab.",
+        "Gezahlte Vorsteuer wird abgezogen.",
+        "Abgabe monatlich oder vierteljährlich über ELSTER.",
+        "Kleinunternehmer sind meist befreit."
+      ]
+    }
+  ]
+}

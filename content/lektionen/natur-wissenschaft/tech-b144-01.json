@@ -1,0 +1,122 @@
+{
+  "id": "tech-b144-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was ist eine Wallbox?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wallbox",
+    "elektroauto",
+    "laden"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer ein Elektroauto hat, lädt es am liebsten zu Hause.",
+        "Dafür nutzen viele eine Wallbox an der Wand der Garage."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schneller und sicherer laden",
+      "absaetze": [
+        "Eine Wallbox ist eine fest installierte Ladestation für Elektroautos. Sie liefert deutlich mehr Leistung als eine normale Haushaltssteckdose.",
+        "Haushaltssteckdosen sind für stundenlange hohe Dauerlast nicht ausgelegt. Eine Wallbox ist dagegen genau dafür gebaut und hat eigene Schutzeinrichtungen."
+      ],
+      "merke": "Eine Wallbox lädt schneller und sicherer als die Steckdose."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Installation und Anmeldung",
+      "absaetze": [
+        "Eine Wallbox muss von einer Elektrofachkraft angeschlossen werden. Beim örtlichen Netzbetreiber muss sie angemeldet werden, stärkere Modelle brauchen eine Genehmigung.",
+        "Oft lohnt es sich, einen eigenen Stromtarif oder Solarstrom vom Dach zu nutzen. Intelligente Wallboxen laden dann, wenn Strom günstig ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch für Mieter",
+      "absaetze": [
+        "Mieter und Wohnungseigentümer haben grundsätzlich einen Anspruch darauf, eine Lademöglichkeit einbauen zu lassen. Die Kosten tragen sie in der Regel selbst.",
+        "Vermieter dürfen die Erlaubnis nur in Ausnahmefällen verweigern. Kläre die Details vorher schriftlich."
+      ],
+      "merke": "Mieter haben grundsätzlich einen Anspruch auf eine Lademöglichkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Wallbox?",
+      "art": "mc",
+      "optionen": [
+        "Eine fest installierte Ladestation für Elektroautos",
+        "Ein Sicherungskasten",
+        "Ein Briefkasten",
+        "Eine Solaranlage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie hängt meist an der Garagenwand."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist eine normale Steckdose zum Dauerladen weniger geeignet?",
+      "art": "mc",
+      "optionen": [
+        "Sie ist nicht für stundenlange hohe Dauerlast ausgelegt",
+        "Sie liefert zu viel Strom",
+        "Sie ist zu teuer",
+        "Sie funktioniert nur nachts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Wallbox ist dafür gebaut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Wallbox muss beim Netzbetreiber angemeldet werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Stärkere Modelle brauchen sogar eine Genehmigung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Haben Mieter Anspruch auf eine Lademöglichkeit?",
+      "art": "mc",
+      "optionen": [
+        "Ja, grundsätzlich schon",
+        "Nein, nie",
+        "Nur mit Zustimmung aller Nachbarn",
+        "Nur in Neubauten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kosten tragen sie meist selbst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine Wallbox ist eine Ladestation für zu Hause.",
+        "Sie lädt schneller und sicherer als die Steckdose.",
+        "Fachkraft installiert, Netzbetreiber wird informiert.",
+        "Auch Mieter haben grundsätzlich einen Anspruch."
+      ]
+    }
+  ]
+}
