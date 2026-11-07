@@ -1,0 +1,122 @@
+{
+  "id": "haus-b141-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wäschst du einen Schlafsack?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schlafsack",
+    "waesche",
+    "camping"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach ein paar Nächten im Zelt riecht der Schlafsack nicht mehr frisch.",
+        "Mit der richtigen Wäsche bleibt er lange warm und flauschig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor dem Waschen",
+      "absaetze": [
+        "Lies zuerst das Pflegeetikett. Daunen- und Kunstfaserschlafsäcke brauchen unterschiedliche Pflege.",
+        "Schließe alle Reißverschlüsse und dreh den Schlafsack auf links. Große Schlafsäcke passen oft nur in eine größere Waschmaschine, etwa im Waschsalon."
+      ],
+      "merke": "Das Pflegeetikett zeigt, was erlaubt ist."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend waschen",
+      "absaetze": [
+        "Wähle ein Schonprogramm mit niedriger Schleuderzahl. Daunen wäschst du am besten mit einem speziellen Daunenwaschmittel.",
+        "Spüle lieber mehrmals, damit keine Reste im Füllmaterial bleiben. Weichspüler solltest du weglassen, er verklebt die Fasern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gründlich trocknen",
+      "absaetze": [
+        "Daunenschlafsäcke trocknen gut im Trockner bei niedriger Temperatur. Ein paar Tennisbälle lockern die Daunen dabei auf.",
+        "Der Schlafsack muss vollständig trocken sein, sonst droht Schimmel. Bewahre ihn danach locker in einem großen Beutel auf, nicht im engen Kompressionssack."
+      ],
+      "merke": "Locker lagern statt eng zusammengepresst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Waschen zuerst tun?",
+      "art": "mc",
+      "optionen": [
+        "Das Pflegeetikett lesen",
+        "Den Schlafsack zerschneiden",
+        "Ihn in die Sonne legen",
+        "Ihn bügeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daunen und Kunstfaser brauchen unterschiedliche Pflege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was lockert Daunen im Trockner auf?",
+      "art": "mc",
+      "optionen": [
+        "Ein paar Tennisbälle",
+        "Ein nasses Handtuch",
+        "Ein Schuh",
+        "Ein Glas Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie verhindern, dass die Daunen verklumpen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Weichspüler ist für Schlafsäcke ideal.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er verklebt die Fasern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lagerst du einen Schlafsack am besten?",
+      "art": "mc",
+      "optionen": [
+        "Locker in einem großen Beutel",
+        "Fest im Kompressionssack",
+        "Feucht im Keller",
+        "Zusammengerollt unter Gewichten"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt die Füllung bauschig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lies zuerst das Pflegeetikett.",
+        "Wasche schonend mit wenig Schleudern.",
+        "Trockne vollständig, Daunen mit Tennisbällen.",
+        "Lagere den Schlafsack locker."
+      ]
+    }
+  ]
+}

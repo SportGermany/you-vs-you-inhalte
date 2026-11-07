@@ -1,0 +1,139 @@
+{
+  "id": "supp-b141-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Ist Algenöl eine Alternative zu Fischöl?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wissenschaft und Ernährung",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "algenoel",
+    "omega-3",
+    "vegan"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fische gelten als wichtige Quelle für Omega-3-Fettsäuren.",
+        "Doch eigentlich stammen diese Fettsäuren ursprünglich aus Algen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Quelle hinter dem Fisch",
+      "absaetze": [
+        "Die Omega-3-Fettsäuren DHA und EPA stammen ursprünglich von winzigen Meeresalgen. Fische reichern sie über die Nahrungskette an.",
+        "Algenöl wird aus Mikroalgen gewonnen, die in Tanks gezüchtet werden. So entsteht eine Omega-3-Quelle ohne Fisch."
+      ],
+      "merke": "Fische haben ihr Omega-3 ursprünglich aus Algen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für wen es interessant ist",
+      "absaetze": [
+        "Für Menschen, die vegan leben oder keinen Fisch essen, ist Algenöl eine Möglichkeit. Pflanzliche Öle wie Leinöl liefern eine andere Omega-3-Fettsäure, die der Körper nur begrenzt umwandelt.",
+        "Ob Omega-3-Präparate gesunden Menschen insgesamt nützen, ist unklar. Die Studienergebnisse sind uneinheitlich."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du beachten solltest",
+      "absaetze": [
+        "Weil die Algen in Tanks wachsen, enthält Algenöl kaum Schadstoffe aus dem Meer. Der Gehalt an DHA und EPA unterscheidet sich je nach Produkt deutlich.",
+        "Fetter Seefisch bleibt für viele die einfachere Quelle. Bei Blutverdünnern solltest du Präparate ärztlich besprechen."
+      ],
+      "merke": "Der Omega-3-Gehalt schwankt je nach Produkt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Einnahme von Blutverdünnern nur nach ärztlicher Rücksprache verwenden.",
+        "Vor Operationen ärztlich besprechen, ob eine Pause nötig ist.",
+        "Präparate ersetzen keine ausgewogene Ernährung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammen die Omega-3-Fettsäuren im Fisch ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Algen",
+        "Aus Steinen",
+        "Aus Plankton-Plastik",
+        "Aus Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fische reichern sie über die Nahrungskette an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist Algenöl besonders interessant?",
+      "art": "mc",
+      "optionen": [
+        "Für Menschen, die keinen Fisch essen",
+        "Nur für Kinder",
+        "Nur für Profisportler",
+        "Für niemanden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist eine Omega-3-Quelle ohne Fisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist klar belegt, dass Omega-3-Präparate allen gesunden Menschen nützen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Ergebnisse sind uneinheitlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum enthält Algenöl kaum Schadstoffe aus dem Meer?",
+      "art": "mc",
+      "optionen": [
+        "Die Algen wachsen in Tanks",
+        "Es wird gekocht",
+        "Es ist künstlich hergestellt",
+        "Es stammt aus Seen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie haben keinen Kontakt zu Meerwasser."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "DHA und EPA stammen ursprünglich aus Algen.",
+        "Algenöl ist eine Omega-3-Quelle ohne Fisch.",
+        "Der Nutzen von Präparaten für Gesunde ist unklar.",
+        "Bei Blutverdünnern ärztlich beraten lassen."
+      ]
+    }
+  ]
+}

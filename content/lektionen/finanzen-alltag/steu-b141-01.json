@@ -1,0 +1,122 @@
+{
+  "id": "steu-b141-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Musst du ein Stipendium versteuern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stipendium",
+    "studium",
+    "aktuell"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Stipendium hilft vielen Studierenden durch das Studium.",
+        "Ob das Finanzamt mitverdient, hängt von der Art des Stipendiums ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Meist steuerfrei",
+      "absaetze": [
+        "Stipendien aus öffentlichen Mitteln oder von gemeinnützigen Stiftungen sind in der Regel steuerfrei. Sie müssen dafür Studium oder Forschung fördern.",
+        "Außerdem dürfen sie nicht höher sein als für den Lebensunterhalt nötig. Das gilt etwa für die Förderung der Begabtenförderwerke."
+      ],
+      "merke": "Viele Stipendien sind steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Deutschlandstipendium",
+      "absaetze": [
+        "Beim Deutschlandstipendium erhalten Studierende 300 Euro im Monat. Die Hälfte zahlen private Förderer, die andere Hälfte der Bund.",
+        "Auch dieses Stipendium ist steuerfrei. Es wird zudem nicht auf das BAföG angerechnet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann es anders ist",
+      "absaetze": [
+        "Verlangt ein Unternehmen als Gegenleistung, dass du später für es arbeitest, kann das Stipendium steuerpflichtig sein. Dann behandelt es das Finanzamt ähnlich wie Arbeitslohn.",
+        "Lies deshalb die Bedingungen genau. Bei Unsicherheit hilft ein Blick in die Bescheinigung des Geldgebers oder eine Nachfrage beim Finanzamt."
+      ],
+      "merke": "Stipendien mit Arbeitspflicht können steuerpflichtig sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist ein Stipendium in der Regel steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Wenn es aus öffentlichen Mitteln stammt und das Studium fördert",
+        "Nie",
+        "Nur bei Noten über 3,0",
+        "Nur im Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es darf den Lebensbedarf nicht übersteigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel bringt das Deutschlandstipendium im Monat?",
+      "art": "mc",
+      "optionen": [
+        "300 Euro",
+        "30 Euro",
+        "3.000 Euro",
+        "1.000 Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Förderer und Bund zahlen je die Hälfte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Deutschlandstipendium wird auf das BAföG angerechnet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es wird nicht angerechnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kann ein Stipendium steuerpflichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Wenn du später für den Geldgeber arbeiten musst",
+        "Wenn du in einer WG wohnst",
+        "Wenn du Sport studierst",
+        "Wenn das Semester kurz ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ähnelt es Arbeitslohn."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viele Stipendien sind steuerfrei.",
+        "Das Deutschlandstipendium bringt 300 Euro im Monat.",
+        "Es wird nicht auf das BAföG angerechnet.",
+        "Mit Arbeitspflicht kann ein Stipendium steuerpflichtig sein."
+      ]
+    }
+  ]
+}
