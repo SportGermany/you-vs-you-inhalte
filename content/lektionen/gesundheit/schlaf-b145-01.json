@@ -1,0 +1,123 @@
+{
+  "id": "schlaf-b145-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie hilft eine Atemmaske bei Schlafapnoe?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "cpap",
+    "schlafapnoe",
+    "therapie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einer Schlafapnoe setzt die Atmung im Schlaf immer wieder aus.",
+        "Die wichtigste Behandlung ist eine Maske, die nachts Luft in die Atemwege bläst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Luft mit leichtem Überdruck",
+      "absaetze": [
+        "Bei der CPAP-Therapie trägt man nachts eine Maske über Nase oder Mund. Ein kleines Gerät bläst Luft mit leichtem Überdruck hinein.",
+        "Der Druck hält die oberen Atemwege offen, sodass sie nicht mehr zusammenfallen. Die Atemaussetzer und das Schnarchen bleiben so aus."
+      ],
+      "merke": "Der Überdruck hält die Atemwege offen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Therapie bringt",
+      "absaetze": [
+        "Viele Betroffene fühlen sich schon nach kurzer Zeit tagsüber deutlich wacher. Die Gefahr von Sekundenschlaf am Steuer sinkt.",
+        "Die CPAP-Therapie ist die Standardbehandlung bei mittlerer und schwerer obstruktiver Schlafapnoe. Ihre Wirksamkeit ist gut belegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewöhnung braucht Zeit",
+      "absaetze": [
+        "Am Anfang empfinden viele die Maske als ungewohnt. Eine gut sitzende Maske und ein Befeuchter für die Atemluft helfen oft.",
+        "Wer die Maske nicht verträgt, sollte das ärztlich besprechen. Für manche kommen eine Schiene für den Unterkiefer oder andere Verfahren infrage."
+      ],
+      "merke": "Mit gut sitzender Maske gelingt die Gewöhnung leichter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie funktioniert die CPAP-Therapie?",
+      "art": "mc",
+      "optionen": [
+        "Luft mit leichtem Überdruck hält die Atemwege offen",
+        "Die Maske gibt Medikamente ab",
+        "Sie misst nur den Schlaf",
+        "Sie weckt bei jedem Atemaussetzer"
+      ],
+      "richtig": 0,
+      "erklaerung": "So fallen die Atemwege nicht zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was spüren viele nach Beginn der Therapie?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind tagsüber wacher",
+        "Sie schlafen nie mehr ein",
+        "Sie bekommen mehr Hunger",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch die Gefahr von Sekundenschlaf sinkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die CPAP-Therapie ist die Standardbehandlung bei schwerer obstruktiver Schlafapnoe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ihre Wirksamkeit ist gut belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei der Gewöhnung an die Maske?",
+      "art": "mc",
+      "optionen": [
+        "Eine gut sitzende Maske und befeuchtete Atemluft",
+        "Die Maske nur am Wochenende tragen",
+        "Den Druck maximal einstellen",
+        "Die Maske zu klein wählen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Probleme sollten ärztlich besprochen werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei Schlafapnoe setzt die Atmung im Schlaf aus.",
+        "CPAP hält die Atemwege mit leichtem Überdruck offen.",
+        "Viele sind danach tagsüber deutlich wacher.",
+        "Die Gewöhnung an die Maske braucht Zeit."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tech-b145-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was unterscheidet Schlagbohrmaschine und Bohrhammer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bohrmaschine",
+    "werkzeug",
+    "heimwerken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer in Beton bohren will, braucht mehr als nur Drehung.",
+        "Schlagbohrmaschine und Bohrhammer lösen das auf unterschiedliche Weise."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schlagbohrmaschine",
+      "absaetze": [
+        "In einer Schlagbohrmaschine reiben zwei gezahnte Scheiben aneinander. Dadurch bekommt der Bohrer zusätzlich zur Drehung viele kleine Schläge.",
+        "Das reicht für Mauerwerk und Ziegel. Bei hartem Beton stößt sie aber schnell an ihre Grenzen."
+      ],
+      "merke": "Gezahnte Scheiben erzeugen viele kleine Schläge."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Bohrhammer",
+      "absaetze": [
+        "Ein Bohrhammer erzeugt seine Schläge mit einem Kolben, der Luft zusammenpresst. Diese Schläge sind deutlich kräftiger.",
+        "Damit bohrt er mühelos in Beton und Stein. Viele Geräte können auch nur schlagen, etwa um Fliesen abzustemmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher arbeiten",
+      "absaetze": [
+        "Prüfe vor dem Bohren mit einem Leitungssucher, ob in der Wand Strom- oder Wasserleitungen verlaufen. Für Holz und Metall schaltest du das Schlagwerk aus.",
+        "Trage eine Schutzbrille und bei lauten Arbeiten einen Gehörschutz. Beachte in Mietshäusern die Ruhezeiten."
+      ],
+      "merke": "Vor dem Bohren nach Leitungen suchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie erzeugt eine Schlagbohrmaschine ihre Schläge?",
+      "art": "mc",
+      "optionen": [
+        "Mit zwei gezahnten Scheiben, die aneinander reiben",
+        "Mit einem Luftkolben",
+        "Mit einem Magneten",
+        "Mit Wasserdruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ergibt viele kleine Schläge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Gerät eignet sich besser für harten Beton?",
+      "art": "mc",
+      "optionen": [
+        "Der Bohrhammer",
+        "Ein Akkuschrauber ohne Schlag",
+        "Eine Handbohrmaschine von früher",
+        "Ein Lötkolben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Seine Schläge sind deutlich kräftiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Holz solltest du das Schlagwerk ausschalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Holz braucht nur Drehung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vor dem Bohren in eine Wand tun?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Leitungssucher nach Leitungen suchen",
+        "Die Wand nass machen",
+        "Den Strom im ganzen Haus anlassen und hoffen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du gefährliche Treffer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Schlagbohrmaschine schlägt mit gezahnten Scheiben.",
+        "Der Bohrhammer schlägt mit einem Luftkolben.",
+        "Für Beton ist der Bohrhammer besser.",
+        "Vorher nach Leitungen suchen, Schutzbrille tragen."
+      ]
+    }
+  ]
+}

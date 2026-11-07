@@ -1,0 +1,122 @@
+{
+  "id": "steu-b145-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was passiert, wenn das Finanzamt deine Einkünfte schätzt?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schaetzung",
+    "steuererklaerung",
+    "fristen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer zur Steuererklärung verpflichtet ist, sie aber nicht abgibt, bekommt irgendwann Post vom Finanzamt.",
+        "Im schlimmsten Fall schätzt das Amt die Einkünfte selbst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schätzung",
+      "absaetze": [
+        "Gibt jemand trotz Pflicht und Erinnerung keine Steuererklärung ab, darf das Finanzamt die Besteuerungsgrundlagen schätzen. Es erlässt dann einen Schätzungsbescheid.",
+        "Die Schätzung fällt oft eher hoch aus. Das Amt muss nicht zugunsten der Steuerpflichtigen rechnen."
+      ],
+      "merke": "Ohne Erklärung darf das Finanzamt schätzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zusätzliche Kosten",
+      "absaetze": [
+        "Zur Steuer kann ein Verspätungszuschlag kommen. Das Finanzamt kann außerdem ein Zwangsgeld androhen, um die Abgabe der Erklärung zu erzwingen.",
+        "Wer nur freiwillig eine Erklärung abgeben würde, um Geld zurückzubekommen, ist davon nicht betroffen. Es geht um Menschen mit Abgabepflicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Gegen den Schätzungsbescheid kannst du innerhalb eines Monats Einspruch einlegen. Am besten reichst du gleichzeitig die fehlende Steuererklärung ein.",
+        "Das Finanzamt berechnet die Steuer dann neu auf Grundlage deiner Angaben. Wer Hilfe braucht, kann sich an eine Steuerberatung oder einen Lohnsteuerhilfeverein wenden."
+      ],
+      "merke": "Einspruch binnen eines Monats und Erklärung nachreichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann darf das Finanzamt die Einkünfte schätzen?",
+      "art": "mc",
+      "optionen": [
+        "Wenn eine Pflichterklärung trotz Erinnerung fehlt",
+        "Immer, wenn es möchte",
+        "Nur bei Rentnern",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann erlässt es einen Schätzungsbescheid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie fällt eine Schätzung oft aus?",
+      "art": "mc",
+      "optionen": [
+        "Eher hoch",
+        "Immer zu niedrig",
+        "Genau wie die tatsächlichen Einkünfte",
+        "Gleich null"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Amt muss nicht zugunsten der Steuerpflichtigen rechnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gegen einen Schätzungsbescheid kannst du innerhalb eines Monats Einspruch einlegen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Reiche am besten gleichzeitig die Erklärung ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann neben der Steuer zusätzlich anfallen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Verspätungszuschlag",
+        "Eine Kirchenstrafe",
+        "Ein Fahrverbot",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein Zwangsgeld ist möglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fehlt eine Pflichterklärung, darf das Finanzamt schätzen.",
+        "Schätzungen fallen oft hoch aus.",
+        "Verspätungszuschlag und Zwangsgeld sind möglich.",
+        "Einspruch binnen eines Monats und Erklärung nachreichen."
+      ]
+    }
+  ]
+}

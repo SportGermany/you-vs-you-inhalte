@@ -3,9 +3,9 @@
   "version": 1,
   "themenwelt": "gesundheit",
   "unterthema": "stoffwechsel-abnehmen",
-  "titel": "Wie viel Energie kostet das Verdauen?",
+  "titel": "Was ist das Refeeding-Syndrom?",
   "minuten": 3,
-  "studienlage": 2,
+  "studienlage": 3,
   "zeitlos": true,
   "gueltig_von": null,
   "gueltig_bis": null,
@@ -13,6 +13,12 @@
   "stand": "2026-10",
   "pruefstatus": "entwurf",
   "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
     {
       "titel": "Wissenschaft und Ernährung",
       "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
@@ -22,107 +28,101 @@
   ],
   "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
   "tags": [
-    "thermogenese",
-    "verdauung",
-    "energieverbrauch"
+    "refeeding-syndrom",
+    "mangelernaehrung",
+    "elektrolyte"
   ],
   "karten": [
     {
       "typ": "einstieg",
       "absaetze": [
-        "Auch das Essen selbst verbraucht Energie.",
-        "Fachleute sprechen vom thermischen Effekt der Nahrung."
+        "Wer lange stark unterernährt war, braucht dringend wieder Nahrung.",
+        "Doch gerade der Neustart kann gefährlich werden, wenn er zu schnell erfolgt."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Verdauen ist Arbeit",
+      "titel": "Ein gefährlicher Neustart",
       "absaetze": [
-        "Um Nahrung zu verdauen, aufzunehmen und zu verarbeiten, braucht der Körper Energie. Ein Teil davon wird als Wärme frei.",
-        "Im Durchschnitt macht das etwa ein Zehntel des täglichen Energieverbrauchs aus. Der größte Teil entfällt auf den Grundumsatz."
+        "Nach langer Mangelernährung hat sich der Stoffwechsel auf Sparbetrieb eingestellt. Kommt plötzlich wieder viel Nahrung, schüttet der Körper Insulin aus.",
+        "Dabei wandern Mineralstoffe wie Phosphat, Kalium und Magnesium rasch in die Zellen. Im Blut fehlen sie dann, was Herz, Muskeln und Nerven gefährden kann."
       ],
-      "merke": "Verdauen verbraucht etwa ein Zehntel der Energie."
+      "merke": "Beim zu schnellen Wiederessen fehlen plötzlich Mineralstoffe im Blut."
     },
     {
       "typ": "wissen",
-      "titel": "Eiweiß kostet am meisten",
+      "titel": "Wer gefährdet ist",
       "absaetze": [
-        "Eiweiß verursacht den höchsten thermischen Effekt, deutlich mehr als Kohlenhydrate oder Fett. Fett braucht am wenigsten Energie zur Verarbeitung.",
-        "Das ist ein Grund, warum eiweißreiche Mahlzeiten gut sättigen. Ein Wundertrick zum Abnehmen ist es aber nicht."
+        "Gefährdet sind Menschen mit schwerer Unterernährung, etwa bei Magersucht oder nach langem Hungern. Auch bei Alkoholabhängigkeit und bei mangelernährten älteren Menschen ist das Risiko erhöht.",
+        "Mögliche Folgen sind Herzrhythmusstörungen, Muskelschwäche, Atemprobleme und Verwirrtheit. Unbehandelt kann das lebensbedrohlich sein."
       ]
     },
     {
       "typ": "wissen",
-      "titel": "Keine magischen Lebensmittel",
+      "titel": "Langsam und begleitet",
       "absaetze": [
-        "Der Effekt ist zu klein, um das Gewicht stark zu beeinflussen. Entscheidend bleiben Ernährung und Bewegung insgesamt.",
-        "Wenn sich deine Gedanken ständig um Kalorien drehen, hol dir Unterstützung. Beratungsstellen helfen auch bei Essstörungen."
+        "Fachleute steigern die Nahrungsmenge deshalb langsam und kontrollieren regelmäßig die Blutwerte. Fehlende Mineralstoffe und Vitamine werden ärztlich ersetzt.",
+        "Bei Essstörungen gehört der Wiederaufbau der Ernährung in fachkundige Hände. Beratungsstellen und Ärzte helfen dabei."
       ],
-      "merke": "Der Effekt ist zu klein für große Gewichtsänderungen."
-    },
-    {
-      "typ": "mythos",
-      "behauptung": "Es gibt Lebensmittel mit negativen Kalorien.",
-      "urteil": "mythos",
-      "erklaerung": "Auch Sellerie oder Gurke liefern mehr Energie, als ihre Verdauung verbraucht. Sie haben nur sehr wenig Energie."
+      "merke": "Wiederernährung gehört bei Risiko in ärztliche Begleitung."
     },
     {
       "typ": "quiz",
-      "frage": "Welcher Anteil des Energieverbrauchs entfällt im Schnitt auf das Verdauen?",
+      "frage": "Was passiert beim Refeeding-Syndrom?",
       "art": "mc",
       "optionen": [
-        "Etwa ein Zehntel",
-        "Etwa die Hälfte",
-        "Fast alles",
-        "Gar nichts"
+        "Mineralstoffe wandern in die Zellen und fehlen im Blut",
+        "Der Körper speichert zu viel Wasser im Kopf",
+        "Die Haare wachsen schneller",
+        "Der Blutdruck sinkt auf null"
       ],
       "richtig": 0,
-      "erklaerung": "Der größte Teil ist der Grundumsatz."
+      "erklaerung": "Das betrifft vor allem Phosphat, Kalium und Magnesium."
     },
     {
       "typ": "quiz",
-      "frage": "Welcher Nährstoff hat den höchsten thermischen Effekt?",
+      "frage": "Wer ist besonders gefährdet?",
       "art": "mc",
       "optionen": [
-        "Eiweiß",
-        "Fett",
-        "Zucker",
-        "Wasser"
+        "Menschen mit schwerer Unterernährung",
+        "Leistungssportler nach einem Wettkampf",
+        "Kinder nach dem Mittagessen",
+        "Niemand"
       ],
       "richtig": 0,
-      "erklaerung": "Das trägt zur guten Sättigung bei."
+      "erklaerung": "Etwa bei Magersucht oder Alkoholabhängigkeit."
     },
     {
       "typ": "quiz",
-      "frage": "Sellerie hat negative Kalorien.",
+      "frage": "Das Refeeding-Syndrom kann lebensbedrohlich sein.",
       "art": "tf",
       "optionen": [
         "Wahr",
         "Falsch"
       ],
-      "richtig": 1,
-      "erklaerung": "Falsch. Er liefert wenig, aber mehr Energie, als seine Verdauung verbraucht."
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann zu Herzrhythmusstörungen führen."
     },
     {
       "typ": "quiz",
-      "frage": "Was bleibt für das Gewicht entscheidend?",
+      "frage": "Wie wird ihm vorgebeugt?",
       "art": "mc",
       "optionen": [
-        "Ernährung und Bewegung insgesamt",
-        "Nur der thermische Effekt",
-        "Nur die Uhrzeit des Essens",
-        "Die Tellerfarbe"
+        "Durch langsame Steigerung der Nahrung und Kontrolle der Blutwerte",
+        "Durch sofortiges Essen großer Mengen",
+        "Durch Fasten",
+        "Durch Sport"
       ],
       "richtig": 0,
-      "erklaerung": "Der thermische Effekt ist dafür zu klein."
+      "erklaerung": "Fachleute begleiten den Wiederaufbau."
     },
     {
       "typ": "zusammenfassung",
       "punkte": [
-        "Verdauen verbraucht Energie.",
-        "Im Schnitt ist es etwa ein Zehntel des Verbrauchs.",
-        "Eiweiß kostet am meisten Energie.",
-        "Negative Kalorien gibt es nicht.",
+        "Nach langer Unterernährung ist der Neustart riskant.",
+        "Mineralstoffe fehlen dann plötzlich im Blut.",
+        "Gefährdet sind etwa Menschen mit Magersucht.",
+        "Langsam und ärztlich begleitet wiederernähren.",
         "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
       ]
     }

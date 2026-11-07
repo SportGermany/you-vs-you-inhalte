@@ -1,0 +1,122 @@
+{
+  "id": "geld-b145-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was ist der Realzins?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Einlagensicherung",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "realzins",
+    "inflation",
+    "sparen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwei Prozent Zinsen auf dem Tagesgeld klingen gut.",
+        "Ob dein Geld dabei wirklich mehr wert wird, verrät erst der Realzins."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zins minus Inflation",
+      "absaetze": [
+        "Der Realzins ist vereinfacht der Zinssatz abzüglich der Inflationsrate. Er zeigt, wie sich die Kaufkraft deines Geldes verändert.",
+        "Bekommst du zwei Prozent Zinsen bei drei Prozent Inflation, liegt der Realzins bei etwa minus einem Prozent. Dein Kontostand wächst, aber du kannst dir davon weniger kaufen."
+      ],
+      "merke": "Realzins ist Zins minus Inflation."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuern nicht vergessen",
+      "absaetze": [
+        "Auf Zinsen können außerdem Steuern anfallen, wenn sie den Sparerpauschbetrag übersteigen. Dann sinkt die reale Rendite weiter.",
+        "In Zeiten hoher Inflation war der Realzins für Sparguthaben oft negativ. Wer nur auf dem Girokonto spart, verliert dann Jahr für Jahr Kaufkraft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das für dich bedeutet",
+      "absaetze": [
+        "Für den Notgroschen zählt Sicherheit mehr als Rendite. Dafür nimmst du einen niedrigen Realzins in Kauf.",
+        "Für langfristige Ziele kann eine breit gestreute Anlage in Aktien sinnvoll sein, die historisch über der Inflation lag. Eine Garantie für die Zukunft ist das aber nicht."
+      ],
+      "merke": "Für den Notgroschen zählt Sicherheit mehr als Rendite."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie berechnet man den Realzins vereinfacht?",
+      "art": "mc",
+      "optionen": [
+        "Zinssatz minus Inflationsrate",
+        "Zinssatz plus Inflationsrate",
+        "Zinssatz mal zwei",
+        "Inflationsrate geteilt durch zwei"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er zeigt die Veränderung der Kaufkraft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Realzins bei zwei Prozent Zinsen und drei Prozent Inflation?",
+      "art": "mc",
+      "optionen": [
+        "Etwa minus ein Prozent",
+        "Fünf Prozent",
+        "Zwei Prozent",
+        "Null Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kaufkraft sinkt trotz Zinsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein negativer Realzins bedeutet, dass die Kaufkraft deines Geldes sinkt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Du kannst dir weniger dafür kaufen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zählt beim Notgroschen mehr als die Rendite?",
+      "art": "mc",
+      "optionen": [
+        "Sicherheit und Verfügbarkeit",
+        "Möglichst hohes Risiko",
+        "Lange Sperrfristen",
+        "Spekulation"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür nimmst du einen niedrigen Realzins in Kauf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Realzins ist Zins minus Inflation.",
+        "Steuern senken die reale Rendite weiter.",
+        "Ein negativer Realzins kostet Kaufkraft.",
+        "Für den Notgroschen zählt Sicherheit."
+      ]
+    }
+  ]
+}
