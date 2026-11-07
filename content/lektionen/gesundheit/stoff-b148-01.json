@@ -1,0 +1,124 @@
+{
+  "id": "stoff-b148-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Warum musst du vor manchen Blutabnahmen nüchtern sein?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blutabnahme",
+    "laborwerte",
+    "nuechtern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bitte nüchtern kommen, heißt es oft vor einer Blutabnahme.",
+        "Das hat gute Gründe, gilt aber nicht für jede Untersuchung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Essen verändert Blutwerte",
+      "absaetze": [
+        "Nach einer Mahlzeit steigen Blutzucker und Blutfette für einige Zeit an. Würde man dann messen, wären die Werte verfälscht.",
+        "Deshalb wird für bestimmte Werte nüchtern gemessen. Nüchtern heißt meist, dass du mehrere Stunden, oft über Nacht, nichts gegessen hast."
+      ],
+      "merke": "Essen verfälscht manche Blutwerte."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was erlaubt ist",
+      "absaetze": [
+        "Wasser darfst du in der Regel trinken. Kaffee, Saft oder gesüßte Getränke solltest du vorher weglassen.",
+        "Ob du deine Medikamente vorher nehmen darfst, solltest du mit der Praxis absprechen. Setze sie nicht eigenmächtig ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht immer nötig",
+      "absaetze": [
+        "Viele Blutwerte lassen sich auch ohne Fasten zuverlässig bestimmen. Die Praxis sagt dir, ob du nüchtern kommen musst.",
+        "Für den Langzeitzucker HbA1c etwa ist Nüchternheit nicht nötig. Frage im Zweifel bei der Terminvereinbarung nach."
+      ],
+      "merke": "Wasser ist meist erlaubt, Medikamente vorher absprechen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum verfälscht Essen manche Blutwerte?",
+      "art": "mc",
+      "optionen": [
+        "Blutzucker und Blutfette steigen nach dem Essen an",
+        "Essen färbt das Blut",
+        "Essen verdünnt das Blut",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb wird für sie nüchtern gemessen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was darfst du vor einer Nüchtern-Blutabnahme meist trinken?",
+      "art": "mc",
+      "optionen": [
+        "Wasser",
+        "Kaffee mit Zucker",
+        "Orangensaft",
+        "Limonade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Andere Getränke können Werte verändern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für den HbA1c-Wert musst du nüchtern sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er lässt sich ohne Fasten bestimmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für Medikamente vor der Blutabnahme?",
+      "art": "mc",
+      "optionen": [
+        "Mit der Praxis absprechen",
+        "Immer weglassen",
+        "Doppelt nehmen",
+        "Egal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Setze sie nicht eigenmächtig ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Essen verändert Blutzucker und Blutfette.",
+        "Für manche Werte musst du nüchtern sein.",
+        "Wasser ist meist erlaubt.",
+        "Nicht jede Blutabnahme erfordert Fasten.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

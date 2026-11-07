@@ -1,0 +1,129 @@
+{
+  "id": "ern-b148-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Ist Vollkornreis gesünder als weißer Reis?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vollkornreis",
+    "reis",
+    "ballaststoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vollkornreis, auch Naturreis genannt, gilt als die gesündere Wahl.",
+        "Das stimmt größtenteils, mit einer kleinen Einschränkung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit Schale und Keim",
+      "absaetze": [
+        "Bei Vollkornreis bleiben das Silberhäutchen und der Keimling erhalten. Bei weißem Reis werden sie abgeschliffen.",
+        "Deshalb enthält Vollkornreis mehr Ballaststoffe, B-Vitamine und Mineralstoffe wie Magnesium. Er sättigt länger und lässt den Blutzucker langsamer steigen."
+      ],
+      "merke": "Vollkornreis enthält mehr Ballaststoffe und Vitamine."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Haken mit dem Arsen",
+      "absaetze": [
+        "Reis nimmt aus Boden und Wasser Arsen auf. In den äußeren Schichten des Korns ist der Gehalt oft höher, Vollkornreis kann daher mehr Arsen enthalten.",
+        "Das BfR rät deshalb zu Abwechslung bei Getreide und Beilagen. Reis muss dafür nicht vom Speiseplan verschwinden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut zubereiten",
+      "absaetze": [
+        "Vollkornreis braucht länger zum Garen als weißer Reis. Ihn vorher zu waschen und in reichlich Wasser zu kochen, kann den Arsengehalt etwas senken.",
+        "Abwechselnd Kartoffeln, Hirse, Vollkornnudeln oder Bulgur zu essen, ist eine gute Strategie. So profitierst du von vielen Nährstoffen."
+      ],
+      "merke": "Abwechslung bei Beilagen senkt die Arsenbelastung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bleibt bei Vollkornreis erhalten?",
+      "art": "mc",
+      "optionen": [
+        "Silberhäutchen und Keimling",
+        "Nur die Stärke",
+        "Nichts",
+        "Die Spelze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei weißem Reis werden sie abgeschliffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefert Vollkornreis mehr als weißer Reis?",
+      "art": "mc",
+      "optionen": [
+        "Ballaststoffe, B-Vitamine und Mineralstoffe",
+        "Zucker",
+        "Fett",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er sättigt deshalb länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Vollkornreis kann mehr Arsen enthalten als weißer Reis.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Arsen sitzt oft in den äußeren Schichten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was rät das BfR wegen Arsen im Reis?",
+      "art": "mc",
+      "optionen": [
+        "Abwechslung bei Getreide und Beilagen",
+        "Nie wieder Reis essen",
+        "Nur Reis essen",
+        "Reis roh essen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reis muss nicht verschwinden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vollkornreis enthält mehr Ballaststoffe und Vitamine.",
+        "Er kann aber mehr Arsen enthalten.",
+        "Waschen und in viel Wasser kochen senkt den Gehalt etwas.",
+        "Abwechslung bei Beilagen ist eine gute Strategie."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "haus-b148-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bekommst du Teeränder aus Tassen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "teeraender",
+    "tassen",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Braune Ränder in Tee- und Kaffeetassen setzen sich hartnäckig fest.",
+        "In der Spülmaschine verschwinden sie oft nicht ganz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher die Ränder kommen",
+      "absaetze": [
+        "Tee und Kaffee enthalten Gerbstoffe, die sich mit Kalk aus dem Wasser verbinden. So entstehen bräunliche Beläge.",
+        "Je härter das Wasser, desto stärker bilden sie sich. Auch Thermoskannen und Teekannen sind betroffen."
+      ],
+      "merke": "Gerbstoffe und Kalk bilden die Beläge."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einfache Hausmittel",
+      "absaetze": [
+        "Eine Paste aus Natron oder Backpulver und etwas Wasser löst die Ränder. Reibe sie mit einem weichen Schwamm ein und spüle gründlich nach.",
+        "Auch etwas Zitronensäure oder Essig in warmem Wasser hilft gegen den kalkhaltigen Teil. Lass die Lösung eine Weile einwirken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Für Kannen und Flaschen",
+      "absaetze": [
+        "Thermoskannen kannst du mit warmem Wasser und Natron füllen und über Nacht stehen lassen. Danach gründlich ausspülen.",
+        "Spüle Tassen am besten direkt nach dem Trinken aus. Dann haben die Beläge kaum Gelegenheit, sich festzusetzen."
+      ],
+      "merke": "Tassen direkt nach dem Trinken ausspülen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus entstehen Teeränder?",
+      "art": "mc",
+      "optionen": [
+        "Aus Gerbstoffen und Kalk",
+        "Aus Zucker",
+        "Aus Milchfett allein",
+        "Aus Spülmittel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hartes Wasser verstärkt das."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was löst Teeränder gut?",
+      "art": "mc",
+      "optionen": [
+        "Eine Paste aus Natron oder Backpulver",
+        "Speiseöl",
+        "Salz und Pfeffer",
+        "Kaltes Wasser allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit einem weichen Schwamm einreiben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hartes Wasser fördert Teeränder.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Kalk verbindet sich mit Gerbstoffen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie beugst du Teerändern vor?",
+      "art": "mc",
+      "optionen": [
+        "Tassen direkt nach dem Trinken ausspülen",
+        "Tassen tagelang stehen lassen",
+        "Mehr Zucker verwenden",
+        "Nur kalten Tee trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann können sich Beläge kaum festsetzen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Teeränder entstehen aus Gerbstoffen und Kalk.",
+        "Natron oder Backpulver lösen sie.",
+        "Zitronensäure hilft gegen Kalk.",
+        "Tassen direkt ausspülen beugt vor."
+      ]
+    }
+  ]
+}

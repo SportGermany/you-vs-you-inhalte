@@ -1,0 +1,123 @@
+{
+  "id": "ern-b148-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Worauf solltest du bei Wildfleisch achten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "wildfleisch",
+    "blei",
+    "lebensmittelsicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Reh, Hirsch und Wildschwein stammen von frei lebenden Tieren.",
+        "Wildfleisch ist mager und aromatisch, hat aber auch Besonderheiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mager und natürlich",
+      "absaetze": [
+        "Wildtiere bewegen sich viel und ernähren sich von Pflanzen aus Wald und Feld. Ihr Fleisch ist deshalb meist mager und eiweißreich.",
+        "Es liefert Eisen und Zink. Viele schätzen außerdem, dass die Tiere nicht aus Massentierhaltung stammen."
+      ],
+      "merke": "Wildfleisch ist mager und eiweißreich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Blei aus der Munition",
+      "absaetze": [
+        "Wird Wild mit bleihaltiger Munition geschossen, können winzige Bleisplitter im Fleisch zurückbleiben. Blei kann die Entwicklung des Nervensystems bei Kindern stören.",
+        "Das BfR rät Kindern, Schwangeren und Frauen mit Kinderwunsch deshalb, mit Bleimunition erlegtes Wild möglichst zu meiden. Frag beim Kauf nach bleifreier Munition."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Besonderheiten",
+      "absaetze": [
+        "Wildschweine müssen auf Trichinen untersucht werden, kleine Parasiten im Muskelfleisch. Wildfleisch sollte immer vollständig durchgegart werden.",
+        "Vor allem in Teilen Süddeutschlands sind Wildschweine durch Tschernobyl noch mit radioaktivem Cäsium belastet. Fleisch über dem Grenzwert darf nicht verkauft werden."
+      ],
+      "merke": "Nach bleifreier Munition fragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Wildfleisch meist mager?",
+      "art": "mc",
+      "optionen": [
+        "Wildtiere bewegen sich viel",
+        "Weil es gefärbt wird",
+        "Weil es gefroren wird",
+        "Weil es aus Ställen stammt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie leben frei in Wald und Feld."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Schadstoff kann aus Munition ins Fleisch gelangen?",
+      "art": "mc",
+      "optionen": [
+        "Blei",
+        "Zucker",
+        "Koffein",
+        "Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Winzige Splitter bleiben zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wildschweine müssen auf Trichinen untersucht werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Trichinen sind kleine Parasiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem rät das BfR, mit Bleimunition erlegtes Wild zu meiden?",
+      "art": "mc",
+      "optionen": [
+        "Kindern, Schwangeren und Frauen mit Kinderwunsch",
+        "Nur Sportlern",
+        "Allen über 80",
+        "Niemandem"
+      ],
+      "richtig": 0,
+      "erklaerung": "Blei kann die Entwicklung des Nervensystems stören."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wildfleisch ist mager und eiweißreich.",
+        "Bleimunition kann Splitter hinterlassen.",
+        "Kinder und Schwangere sollten solches Wild meiden.",
+        "Wild immer vollständig durchgaren."
+      ]
+    }
+  ]
+}

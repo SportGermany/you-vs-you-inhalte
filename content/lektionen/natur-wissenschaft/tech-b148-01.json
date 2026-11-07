@@ -1,0 +1,122 @@
+{
+  "id": "tech-b148-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Gasherd?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gasherd",
+    "kochen",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Profiköche schwören auf Gas, weil die Hitze sofort da ist.",
+        "Doch wie entsteht die blaue Flamme, und wie sicher ist das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gas trifft Luft",
+      "absaetze": [
+        "Im Gasherd strömt Erdgas oder Flüssiggas durch kleine Düsen in den Brenner. Dort mischt es sich mit Luft.",
+        "Ein Funke, meist durch einen Piezozünder oder eine elektrische Zündung, entzündet das Gemisch. Eine gut eingestellte Flamme brennt blau."
+      ],
+      "merke": "Gas mischt sich mit Luft und wird gezündet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eingebaute Sicherheit",
+      "absaetze": [
+        "Moderne Gasherde haben eine Zündsicherung. Ein kleiner Fühler merkt, wenn die Flamme erlischt, und stoppt dann die Gaszufuhr.",
+        "Riecht es trotzdem nach Gas, sofort Fenster öffnen und keine Schalter oder Geräte betätigen. Verlasse die Wohnung und rufe von draußen den Notdienst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut lüften",
+      "absaetze": [
+        "Beim Verbrennen von Gas entstehen auch Stickoxide und andere Schadstoffe. Lüfte deshalb beim Kochen oder nutze eine Dunstabzugshaube, die nach draußen führt.",
+        "Im Vergleich zu Induktion verliert ein Gasherd mehr Wärme an die Umgebung. Er heizt dafür sofort und lässt sich fein regeln."
+      ],
+      "merke": "Bei Gasgeruch keine Schalter betätigen und die Wohnung verlassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit mischt sich das Gas im Brenner?",
+      "art": "mc",
+      "optionen": [
+        "Mit Luft",
+        "Mit Wasser",
+        "Mit Öl",
+        "Mit Sand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wird das Gemisch gezündet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht die Zündsicherung?",
+      "art": "mc",
+      "optionen": [
+        "Sie stoppt das Gas, wenn die Flamme erlischt",
+        "Sie macht die Flamme größer",
+        "Sie kühlt den Topf",
+        "Sie misst die Zeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Fühler erkennt die erloschene Flamme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Gasgeruch solltest du sofort das Licht einschalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Schalter können Funken erzeugen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du beim Kochen mit Gas lüften?",
+      "art": "mc",
+      "optionen": [
+        "Weil Stickoxide und andere Schadstoffe entstehen",
+        "Weil sonst das Essen kalt wird",
+        "Weil Gas Sauerstoff erzeugt",
+        "Gar nicht nötig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Abzugshaube nach draußen hilft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im Gasherd mischt sich Gas mit Luft und wird gezündet.",
+        "Eine Zündsicherung stoppt das Gas, wenn die Flamme erlischt.",
+        "Bei Gasgeruch keine Schalter betätigen.",
+        "Beim Kochen mit Gas gut lüften."
+      ]
+    }
+  ]
+}

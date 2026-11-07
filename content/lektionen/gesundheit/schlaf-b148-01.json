@@ -1,0 +1,129 @@
+{
+  "id": "schlaf-b148-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schläfst du trotz juckender Haut besser?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "neurodermitis",
+    "juckreiz",
+    "schlafqualitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nachts wird Juckreiz bei vielen Menschen schlimmer.",
+        "Besonders bei Neurodermitis raubt er oft den Schlaf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es nachts mehr juckt",
+      "absaetze": [
+        "Abends steigt die Hauttemperatur, und die Haut verliert mehr Feuchtigkeit. Außerdem fehlt nachts die Ablenkung des Tages.",
+        "Kratzen verschafft kurz Erleichterung, reizt die Haut aber weiter. So entsteht ein Kreislauf aus Jucken und Kratzen."
+      ],
+      "merke": "Abends juckt die Haut oft stärker."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein hautfreundliches Schlafzimmer",
+      "absaetze": [
+        "Ein kühles Schlafzimmer und atmungsaktive Bettwäsche aus Baumwolle helfen. Zu warme Decken verstärken den Juckreiz häufig.",
+        "Creme die Haut vor dem Schlafen mit einer rückfettenden Pflege ein. Kurz geschnittene Fingernägel oder dünne Baumwollhandschuhe verringern Kratzschäden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ärztliche Hilfe nutzen",
+      "absaetze": [
+        "Raubt der Juckreiz regelmäßig den Schlaf, solltest du das ärztlich besprechen. Eine gut eingestellte Behandlung der Haut verbessert oft auch den Schlaf.",
+        "Hinter Juckreiz können auch andere Ursachen stecken, etwa Allergien oder innere Erkrankungen. Auch das lässt sich abklären."
+      ],
+      "merke": "Kühles Schlafzimmer und Pflege vor dem Schlafen helfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum juckt die Haut nachts oft stärker?",
+      "art": "mc",
+      "optionen": [
+        "Hauttemperatur steigt und Ablenkung fehlt",
+        "Weil es dunkel ist",
+        "Wegen des Mondes",
+        "Weil man weniger atmet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Haut verliert abends auch mehr Feuchtigkeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft im Schlafzimmer gegen Juckreiz?",
+      "art": "mc",
+      "optionen": [
+        "Kühle Temperatur und Baumwollbettwäsche",
+        "Eine sehr warme Decke",
+        "Heizung auf höchster Stufe",
+        "Synthetikbettwäsche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wärme verstärkt den Juckreiz häufig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kratzen unterbricht den Juckreiz dauerhaft.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es reizt die Haut weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei regelmäßigem nächtlichem Juckreiz tun?",
+      "art": "mc",
+      "optionen": [
+        "Ärztlich abklären lassen",
+        "Stärker kratzen",
+        "Nachts aufstehen und duschen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine gute Behandlung verbessert oft auch den Schlaf."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachts juckt die Haut oft stärker.",
+        "Ein kühles Schlafzimmer und Baumwolle helfen.",
+        "Vor dem Schlafen rückfettend eincremen.",
+        "Bei Dauerproblemen ärztlich beraten lassen."
+      ]
+    }
+  ]
+}
