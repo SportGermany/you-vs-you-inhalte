@@ -1,0 +1,122 @@
+{
+  "id": "all-b135-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum wird der Mond bei einer Mondfinsternis rot?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mond und Erde",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mondfinsternis",
+    "blutmond",
+    "atmosphaere"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einer totalen Mondfinsternis verschwindet der Mond nicht einfach. Er leuchtet kupferrot.",
+        "Viele nennen ihn dann Blutmond."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Schatten der Erde",
+      "absaetze": [
+        "Bei einer Mondfinsternis stehen Sonne, Erde und Mond in einer Linie. Der Mond wandert durch den Schatten der Erde.",
+        "Direktes Sonnenlicht erreicht ihn dann nicht mehr. Trotzdem bleibt er sichtbar."
+      ],
+      "merke": "Bei einer Mondfinsternis liegt der Mond im Erdschatten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht durch die Atmosphäre",
+      "absaetze": [
+        "Ein Teil des Sonnenlichts wird in der Erdatmosphäre abgelenkt und in den Schatten hineingelenkt. Dabei wird blaues Licht stärker gestreut als rotes.",
+        "Übrig bleibt vor allem rötliches Licht, wie beim Abendrot. Es ist, als würden alle Sonnenauf- und -untergänge der Erde gleichzeitig den Mond beleuchten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mal hell, mal dunkel",
+      "absaetze": [
+        "Wie rot und hell der Mond erscheint, hängt vom Zustand der Atmosphäre ab. Nach großen Vulkanausbrüchen mit viel Staub kann er sehr dunkel wirken.",
+        "Anders als eine Sonnenfinsternis kannst du eine Mondfinsternis gefahrlos mit bloßem Auge beobachten. Sie ist überall dort sichtbar, wo gerade Nacht ist."
+      ],
+      "merke": "Eine Mondfinsternis kannst du gefahrlos ansehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei einer Mondfinsternis?",
+      "art": "mc",
+      "optionen": [
+        "Der Mond wandert durch den Erdschatten",
+        "Die Sonne verdeckt den Mond",
+        "Der Mond verschwindet hinter Wolken",
+        "Der Mond leuchtet selbst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonne, Erde und Mond stehen in einer Linie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum erscheint der Mond dabei rot?",
+      "art": "mc",
+      "optionen": [
+        "Rotes Licht wird durch die Erdatmosphäre in den Schatten gelenkt",
+        "Der Mond wird heiß",
+        "Mars spiegelt sich",
+        "Der Mond ist aus Rost"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ähnlich wie beim Abendrot."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Mondfinsternis darf man nicht mit bloßem Auge ansehen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist völlig ungefährlich für die Augen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beeinflusst, wie dunkel der Mond wirkt?",
+      "art": "mc",
+      "optionen": [
+        "Der Zustand der Erdatmosphäre",
+        "Die Jahreszeit allein",
+        "Die Uhrzeit in Berlin",
+        "Die Mondphase vorher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Staub nach Vulkanausbrüchen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Mondfinsternis liegt der Mond im Erdschatten.",
+        "Die Erdatmosphäre lenkt rotes Licht auf den Mond.",
+        "Staub in der Atmosphäre verändert die Farbe.",
+        "Mondfinsternisse kannst du gefahrlos ansehen."
+      ]
+    }
+  ]
+}

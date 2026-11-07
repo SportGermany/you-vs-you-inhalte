@@ -1,0 +1,122 @@
+{
+  "id": "geld-b135-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie vermeidest du Gebühren beim Bezahlen im Ausland?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ausland",
+    "kreditkarte",
+    "gebuehren"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Urlaub einfach mit Karte zahlen, das ist bequem.",
+        "Doch außerhalb des Euroraums können versteckte Gebühren anfallen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Im Euroraum meist kein Problem",
+      "absaetze": [
+        "Zahlst du in Euro in einem anderen EU-Land, darf das nicht mehr kosten als im Inland. Das gilt für Kartenzahlungen und Überweisungen.",
+        "Gebühren entstehen vor allem bei Zahlungen in fremden Währungen, etwa in der Schweiz, in Großbritannien oder den USA."
+      ],
+      "merke": "Euro-Zahlungen in der EU kosten nicht mehr als im Inland."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auslandseinsatzentgelt",
+      "absaetze": [
+        "Viele Banken verlangen bei Zahlungen in fremder Währung ein Auslandseinsatzentgelt. Das ist meist ein kleiner Prozentsatz des Betrags.",
+        "Es gibt Kreditkarten, die darauf verzichten. Prüfe vor der Reise das Preis- und Leistungsverzeichnis deiner Bank."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Falle am Kartenterminal",
+      "absaetze": [
+        "Manchmal fragt dich ein Terminal oder Geldautomat, ob du in Euro oder in der Landeswährung bezahlen willst. Wähle die Landeswährung.",
+        "Bei der Umrechnung in Euro nutzt der Händler oft einen ungünstigen Kurs. Diese sogenannte dynamische Währungsumrechnung kostet dich häufig deutlich mehr."
+      ],
+      "merke": "Am Terminal immer in der Landeswährung bezahlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kostet eine Euro-Zahlung in einem anderen EU-Land mehr als im Inland?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das ist nicht erlaubt",
+        "Ja, immer doppelt",
+        "Nur am Wochenende",
+        "Nur in Bars"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt auch für Überweisungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt die Gebühr für Zahlungen in fremder Währung?",
+      "art": "mc",
+      "optionen": [
+        "Auslandseinsatzentgelt",
+        "Kontoführungsgebühr",
+        "Mehrwertsteuer",
+        "Kurtaxe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche Kreditkarten verzichten darauf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Am Kartenterminal solltest du in Euro statt in Landeswährung zahlen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wähle die Landeswährung, sonst droht ein schlechter Kurs."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo findest du die Gebühren deiner Bank?",
+      "art": "mc",
+      "optionen": [
+        "Im Preis- und Leistungsverzeichnis",
+        "Im Reiseführer",
+        "Auf der Speisekarte",
+        "Im Wetterbericht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Prüfe es vor der Reise."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Euro-Zahlungen in der EU kosten nicht mehr als im Inland.",
+        "In fremder Währung fällt oft ein Auslandseinsatzentgelt an.",
+        "Manche Kreditkarten verzichten darauf.",
+        "Am Terminal in Landeswährung bezahlen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b135-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schläfst du nach einem Streit schlechter?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "streit",
+    "stress",
+    "beziehung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Streit am Abend, und danach liegst du stundenlang wach.",
+        "Viele kennen das Gefühl, dass Ärger den Schlaf raubt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Stress hält wach",
+      "absaetze": [
+        "Bei einem Streit schüttet der Körper Stresshormone aus. Herz und Atmung beschleunigen sich, der Körper ist in Alarmbereitschaft.",
+        "Danach kreisen oft Gedanken um das Gesagte. Dieses Grübeln erschwert das Einschlafen zusätzlich."
+      ],
+      "merke": "Stresshormone und Grübeln erschweren das Einschlafen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Teufelskreis",
+      "absaetze": [
+        "Studien mit Paaren deuten darauf hin, dass Konflikte den Schlaf verschlechtern. Umgekehrt streiten Menschen nach schlechten Nächten offenbar häufiger.",
+        "Wer müde ist, reagiert gereizter und kann Gefühle schlechter regulieren. So kann ein Kreislauf entstehen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Der Rat, nie im Streit ins Bett zu gehen, ist nicht immer hilfreich. Manchmal ist es besser, eine Pause zu vereinbaren und das Gespräch ausgeruht fortzusetzen.",
+        "Schreib störende Gedanken auf, bevor du schlafen gehst. Ruhige Atemübungen können helfen, den Körper zu beruhigen."
+      ],
+      "merke": "Eine vereinbarte Pause kann besser sein als Streiten bis spät."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Körper bei einem Streit?",
+      "art": "mc",
+      "optionen": [
+        "Er schüttet Stresshormone aus",
+        "Er wird sofort müde",
+        "Die Körpertemperatur sinkt stark",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Herz und Atmung beschleunigen sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hängen Schlaf und Streit zusammen?",
+      "art": "mc",
+      "optionen": [
+        "Sie beeinflussen sich gegenseitig",
+        "Gar nicht",
+        "Schlaf verhindert jeden Streit",
+        "Streit verbessert den Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Müde Menschen streiten offenbar häufiger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Man sollte einen Streit immer bis zum Ende ausdiskutieren, auch spät nachts.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Manchmal ist eine vereinbarte Pause besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann vor dem Schlafen helfen?",
+      "art": "mc",
+      "optionen": [
+        "Störende Gedanken aufschreiben",
+        "Noch einmal streiten",
+        "Lange am Handy lesen",
+        "Kaffee trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kommen die Gedanken zur Ruhe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Streit setzt Stresshormone frei.",
+        "Grübeln erschwert das Einschlafen.",
+        "Schlechter Schlaf macht gereizter.",
+        "Eine vereinbarte Pause kann helfen."
+      ]
+    }
+  ]
+}

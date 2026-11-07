@@ -1,0 +1,128 @@
+{
+  "id": "tech-b135-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Kann ein Lügendetektor Lügen erkennen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "luegendetektor",
+    "polygraf",
+    "messtechnik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Filmen schlagen die Nadeln wild aus, sobald jemand lügt.",
+        "In Wirklichkeit ist ein Lügendetektor viel weniger zuverlässig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Gerät misst",
+      "absaetze": [
+        "Ein Lügendetektor heißt fachlich Polygraf. Er zeichnet mehrere Körperwerte gleichzeitig auf, etwa Puls, Blutdruck, Atmung und die Schweißbildung an der Haut.",
+        "Das Gerät misst also keine Lügen. Es misst Zeichen von Aufregung."
+      ],
+      "merke": "Ein Polygraf misst Aufregung, keine Lügen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Problem",
+      "absaetze": [
+        "Auch ehrliche Menschen können nervös werden, wenn sie verdächtigt werden. Umgekehrt bleiben manche Lügner ruhig.",
+        "Deshalb kann das Gerät Unschuldige belasten und Schuldige entlasten. Fachgesellschaften für Psychologie halten die Methode für wissenschaftlich schwach."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor Gericht",
+      "absaetze": [
+        "In Deutschland ist der Lügendetektor im Strafprozess kein zulässiges Beweismittel. Der Bundesgerichtshof hält ihn für ungeeignet.",
+        "In manchen anderen Ländern wird er etwa bei Ermittlungen oder Bewerbungen eingesetzt. Die Kritik daran ist aber groß."
+      ],
+      "merke": "Vor deutschen Gerichten ist der Lügendetektor kein Beweismittel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was misst ein Lügendetektor eigentlich?",
+      "art": "mc",
+      "optionen": [
+        "Zeichen von Aufregung wie Puls und Schweiß",
+        "Gedanken",
+        "Hirnströme direkt",
+        "Die Wahrheit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lügen selbst misst er nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Lügendetektor fachlich?",
+      "art": "mc",
+      "optionen": [
+        "Polygraf",
+        "Seismograf",
+        "Thermometer",
+        "Oszilloskop"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er zeichnet mehrere Werte gleichzeitig auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ehrliche Menschen bleiben beim Test immer ruhig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch sie können nervös werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist der Lügendetektor vor deutschen Strafgerichten zulässig?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, immer",
+        "Nur bei Diebstahl",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Bundesgerichtshof hält ihn für ungeeignet."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Lügendetektor misst Körperwerte.",
+        "Er erkennt Aufregung, nicht Lügen.",
+        "Er kann Unschuldige belasten.",
+        "Vor deutschen Gerichten ist er kein Beweismittel."
+      ]
+    }
+  ]
+}

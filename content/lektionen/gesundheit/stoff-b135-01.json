@@ -1,0 +1,127 @@
+{
+  "id": "stoff-b135-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was leisten die Nieren?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nieren",
+    "entgiftung",
+    "blutdruck"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Nieren sind nur etwa faustgroß, arbeiten aber rund um die Uhr.",
+        "Ohne sie würde der Körper in kurzer Zeit vergiftet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Filter für das Blut",
+      "absaetze": [
+        "Die Nieren filtern täglich etwa 180 Liter Flüssigkeit aus dem Blut. Fast alles davon holen sie wieder zurück.",
+        "Übrig bleibt etwa eineinhalb Liter Urin. Darin scheidet der Körper Abfallstoffe wie Harnstoff und überschüssige Salze aus."
+      ],
+      "merke": "Die Nieren filtern Abfallstoffe aus dem Blut.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr als Entgiftung",
+      "absaetze": [
+        "Die Nieren regulieren den Wasser- und Salzhaushalt und damit auch den Blutdruck. Sie bilden außerdem das Hormon EPO, das die Bildung roter Blutkörperchen anregt.",
+        "Auch Vitamin D wird in den Nieren in seine wirksame Form umgewandelt. Das ist wichtig für die Knochen."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Nieren schützen",
+      "absaetze": [
+        "Häufige Ursachen für Nierenschäden sind Diabetes und Bluthochdruck. Sie bleiben oft lange unbemerkt.",
+        "Gute Blutzucker- und Blutdruckwerte schützen die Nieren. Schmerzmittel sollten nicht dauerhaft ohne ärztlichen Rat verwendet werden. Bei Risikofaktoren werden die Nierenwerte regelmäßig kontrolliert."
+      ],
+      "merke": "Diabetes und Bluthochdruck können die Nieren schädigen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Flüssigkeit filtern die Nieren täglich etwa?",
+      "art": "mc",
+      "optionen": [
+        "Etwa 180 Liter",
+        "Etwa 1 Liter",
+        "Etwa 10.000 Liter",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fast alles wird wieder zurückgeholt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon bilden die Nieren?",
+      "art": "mc",
+      "optionen": [
+        "EPO",
+        "Insulin",
+        "Melatonin",
+        "Adrenalin allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es regt die Bildung roter Blutkörperchen an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Nieren beeinflussen auch den Blutdruck.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Über den Wasser- und Salzhaushalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Krankheiten schädigen die Nieren häufig?",
+      "art": "mc",
+      "optionen": [
+        "Diabetes und Bluthochdruck",
+        "Schnupfen und Husten",
+        "Sonnenbrand",
+        "Kurzsichtigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie bleiben oft lange unbemerkt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Nieren filtern Abfallstoffe aus dem Blut.",
+        "Sie regeln Wasserhaushalt und Blutdruck.",
+        "Sie bilden EPO und aktivieren Vitamin D.",
+        "Diabetes und Bluthochdruck können sie schädigen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

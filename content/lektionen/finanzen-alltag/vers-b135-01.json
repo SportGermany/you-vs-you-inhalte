@@ -1,0 +1,122 @@
+{
+  "id": "vers-b135-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Welche Rechte hast du bei Zugverspätungen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bahn",
+    "fahrgastrechte",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Zug hat Verspätung, der Anschluss ist weg, du kommst eine Stunde später an.",
+        "Für solche Fälle gibt es Fahrgastrechte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geld zurück bei Verspätung",
+      "absaetze": [
+        "Kommst du mindestens 60 Minuten später am Ziel an, bekommst du in der Regel 25 Prozent des Fahrpreises erstattet. Ab 120 Minuten sind es 50 Prozent.",
+        "Sehr kleine Beträge werden nicht ausgezahlt. Die Entschädigung beantragst du beim Bahnunternehmen, oft auch online."
+      ],
+      "merke": "Ab 60 Minuten Verspätung gibt es meist 25 Prozent zurück."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Flexibel weiterfahren",
+      "absaetze": [
+        "Ist absehbar, dass du mindestens 20 Minuten später ankommst, ist die Zugbindung bei Sparpreisen aufgehoben. Du darfst dann einen anderen Zug nehmen.",
+        "Fällt nachts die letzte Verbindung aus, können unter bestimmten Bedingungen Kosten für Taxi oder Hotel erstattet werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ausnahmen",
+      "absaetze": [
+        "Seit einer Reform der EU-Regeln gibt es bei außergewöhnlichen Umständen wie schweren Unwettern keine Entschädigung mehr für die Verspätung. Streiks des eigenen Personals zählen dazu meist nicht.",
+        "Bewahre Fahrkarte und Belege auf. Bei Streit hilft eine Schlichtungsstelle für den öffentlichen Verkehr kostenlos weiter."
+      ],
+      "merke": "Fahrkarte und Belege aufbewahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel bekommst du ab 60 Minuten Verspätung meist zurück?",
+      "art": "mc",
+      "optionen": [
+        "25 Prozent des Fahrpreises",
+        "Den ganzen Fahrpreis",
+        "Nichts",
+        "Fünf Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ab 120 Minuten sind es 50 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist die Zugbindung aufgehoben?",
+      "art": "mc",
+      "optionen": [
+        "Bei absehbar mindestens 20 Minuten Verspätung",
+        "Nie",
+        "Nur am Wochenende",
+        "Erst nach drei Stunden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann darfst du einen anderen Zug nehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei schweren Unwettern gibt es immer eine Entschädigung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bei außergewöhnlichen Umständen entfällt sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hilft man dir bei Streit kostenlos?",
+      "art": "mc",
+      "optionen": [
+        "Bei einer Schlichtungsstelle",
+        "Beim Finanzamt",
+        "Bei der Polizei",
+        "Im Bordbistro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist für den öffentlichen Verkehr zuständig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ab 60 Minuten gibt es meist 25 Prozent zurück.",
+        "Ab 120 Minuten sind es 50 Prozent.",
+        "Bei absehbarer Verspätung entfällt die Zugbindung.",
+        "Schlichtungsstellen helfen kostenlos."
+      ]
+    }
+  ]
+}

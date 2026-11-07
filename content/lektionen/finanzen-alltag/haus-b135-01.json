@@ -1,0 +1,128 @@
+{
+  "id": "haus-b135-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bekommst du Kerzenruß von der Wand?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Innenraumluft",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kerzen",
+    "russ",
+    "wand"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem gemütlichen Winter sieht die Wand über dem Kerzenplatz grau aus.",
+        "Ruß lässt sich entfernen, wenn du es richtig angehst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst trocken, dann feucht",
+      "absaetze": [
+        "Wische Ruß nicht gleich mit einem nassen Lappen ab. Sonst verschmiert er und zieht tiefer in die Wand.",
+        "Entferne zuerst lose Partikel trocken, etwa mit einem speziellen Rußschwamm oder einem weichen Tuch. Erst danach hilft vorsichtiges Abwischen mit wenig Wasser und etwas Spülmittel."
+      ],
+      "merke": "Ruß zuerst trocken entfernen, sonst verschmiert er."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es nicht reicht",
+      "absaetze": [
+        "Bleiben graue Schatten, hilft oft nur Streichen. Verwende vorher einen Sperrgrund, damit der Ruß nicht durch die neue Farbe schlägt.",
+        "In Mietwohnungen kann starke Verrußung beim Auszug zum Thema werden. Rechtzeitig reinigen spart Ärger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ruß vermeiden",
+      "absaetze": [
+        "Kerzen rußen besonders, wenn der Docht zu lang ist oder die Flamme im Luftzug flackert. Kürze den Docht deshalb regelmäßig.",
+        "Brennende Kerzen geben feine Partikel an die Raumluft ab. Lüfte nach dem Abbrennen gut. Lass Kerzen nie unbeaufsichtigt brennen."
+      ],
+      "merke": "Einen zu langen Docht kürzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei Ruß zuerst tun?",
+      "art": "mc",
+      "optionen": [
+        "Ihn trocken entfernen",
+        "Mit viel Wasser schrubben",
+        "Darüber malen",
+        "Mit Öl einreiben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nass verschmiert er."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft, wenn graue Schatten bleiben?",
+      "art": "mc",
+      "optionen": [
+        "Mit Sperrgrund streichen",
+        "Mehr Kerzen anzünden",
+        "Die Heizung aufdrehen",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst schlägt der Ruß durch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein zu langer Docht verringert die Rußbildung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein zu langer Docht rußt eher stärker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nach dem Abbrennen von Kerzen tun?",
+      "art": "mc",
+      "optionen": [
+        "Gut lüften",
+        "Die Fenster abdichten",
+        "Den Raum abschließen",
+        "Duftspray versprühen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kerzen geben feine Partikel ab."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ruß zuerst trocken entfernen.",
+        "Danach vorsichtig feucht nachwischen.",
+        "Bleibende Schatten mit Sperrgrund überstreichen.",
+        "Docht kürzen und nach dem Abbrennen lüften."
+      ]
+    }
+  ]
+}
