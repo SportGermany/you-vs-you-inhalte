@@ -1,0 +1,122 @@
+{
+  "id": "all-b150-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie viele Sterne gibt es in der Milchstraße?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gaia",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "milchstrasse",
+    "sterne",
+    "gaia"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In einer klaren, dunklen Nacht scheint der Himmel voller Sterne.",
+        "Doch das ist nur ein winziger Teil unserer Galaxie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hunderte Milliarden",
+      "absaetze": [
+        "Fachleute schätzen, dass die Milchstraße zwischen 100 und 400 Milliarden Sterne enthält. Genau zählen kann sie niemand.",
+        "Viele Sterne sind kleine, lichtschwache Rote Zwerge. Andere verbergen sich hinter dichten Staubwolken."
+      ],
+      "merke": "Die Milchstraße enthält Hunderte Milliarden Sterne."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wir mit bloßem Auge sehen",
+      "absaetze": [
+        "Mit bloßem Auge sind unter guten Bedingungen nur einige Tausend Sterne gleichzeitig zu sehen. In Städten sind es wegen der Lichtverschmutzung deutlich weniger.",
+        "Das helle Band der Milchstraße besteht aus unzähligen fernen Sternen, die zu einem Schimmer verschwimmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Karte des Himmels",
+      "absaetze": [
+        "Die europäische Raumsonde Gaia hat die Positionen und Bewegungen von fast zwei Milliarden Sternen vermessen. Das ist trotzdem nur ein kleiner Teil der Milchstraße.",
+        "Und die Milchstraße ist nur eine von vielen Milliarden Galaxien im Universum."
+      ],
+      "merke": "Gaia vermaß fast zwei Milliarden Sterne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Sterne enthält die Milchstraße schätzungsweise?",
+      "art": "mc",
+      "optionen": [
+        "100 bis 400 Milliarden",
+        "Etwa tausend",
+        "Genau eine Million",
+        "Unendlich viele"
+      ],
+      "richtig": 0,
+      "erklaerung": "Genau zählen kann sie niemand."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Sterne siehst du mit bloßem Auge gleichzeitig?",
+      "art": "mc",
+      "optionen": [
+        "Einige Tausend",
+        "Milliarden",
+        "Nur zehn",
+        "Keinen"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Städten sind es weniger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Raumsonde Gaia hat fast zwei Milliarden Sterne vermessen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das ist nur ein kleiner Teil der Galaxie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Milchstraße im Universum?",
+      "art": "mc",
+      "optionen": [
+        "Eine von vielen Milliarden Galaxien",
+        "Die einzige Galaxie",
+        "Ein Planet",
+        "Ein Komet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Universum ist unvorstellbar groß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Milchstraße hat 100 bis 400 Milliarden Sterne.",
+        "Mit bloßem Auge sehen wir nur einige Tausend.",
+        "Gaia vermaß fast zwei Milliarden Sterne.",
+        "Die Milchstraße ist eine von Milliarden Galaxien."
+      ]
+    }
+  ]
+}

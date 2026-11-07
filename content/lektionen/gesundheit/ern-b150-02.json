@@ -1,0 +1,123 @@
+{
+  "id": "ern-b150-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Brühwürfel?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bruehwuerfel",
+    "salz",
+    "fertigprodukte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Brühwürfel macht aus heißem Wasser in Sekunden eine Suppe.",
+        "Doch was steckt eigentlich in dem kleinen Würfel?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vor allem Salz",
+      "absaetze": [
+        "Der Hauptbestandteil vieler Brühwürfel ist Salz. Dazu kommen Fett, Aromen und nur sehr wenig Gemüse oder Fleisch.",
+        "Eine Tasse Brühe kann schon einen großen Teil der empfohlenen Salzmenge für einen Tag liefern."
+      ],
+      "merke": "Brühwürfel bestehen vor allem aus Salz."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geschmacksverstärker unter anderem Namen",
+      "absaetze": [
+        "Viele Produkte enthalten Glutamat als Geschmacksverstärker. Steht auf der Packung ohne Geschmacksverstärker, steckt oft Hefeextrakt drin, das ebenfalls Glutamat enthält.",
+        "Das ist gesundheitlich nicht bedenklich, aber eine Werbebotschaft, die in die Irre führen kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewusst verwenden",
+      "absaetze": [
+        "Als Würze in kleinen Mengen ist Brühe kein Problem. Würze dann das übrige Gericht entsprechend weniger mit Salz.",
+        "Selbst gekochte Gemüsebrühe aus Resten schmeckt kräftig und enthält weniger Salz. Sie lässt sich gut portionsweise einfrieren."
+      ],
+      "merke": "Brühe ersetzt einen Teil des Salzes, nicht zusätzlich verwenden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der Hauptbestandteil vieler Brühwürfel?",
+      "art": "mc",
+      "optionen": [
+        "Salz",
+        "Gemüse",
+        "Fleisch",
+        "Vitamine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Fett und Aromen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steckt oft hinter ohne Geschmacksverstärker?",
+      "art": "mc",
+      "optionen": [
+        "Hefeextrakt, das ebenfalls Glutamat enthält",
+        "Gar nichts",
+        "Zucker",
+        "Pfeffer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Werbebotschaft kann in die Irre führen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Tasse Brühe kann viel Salz liefern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein großer Teil der Tagesmenge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine salzärmere Alternative?",
+      "art": "mc",
+      "optionen": [
+        "Selbst gekochte Gemüsebrühe",
+        "Zwei Brühwürfel statt einem",
+        "Salzwasser",
+        "Fertigsuppe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lässt sich gut einfrieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Brühwürfel enthalten vor allem Salz.",
+        "Hefeextrakt liefert ebenfalls Glutamat.",
+        "In kleinen Mengen als Würze in Ordnung.",
+        "Selbst gekochte Brühe ist salzärmer."
+      ]
+    }
+  ]
+}

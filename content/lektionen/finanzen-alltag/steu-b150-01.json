@@ -1,0 +1,122 @@
+{
+  "id": "steu-b150-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie liest du deinen Steuerbescheid?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuerbescheid",
+    "einspruch",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Steuerbescheid ist voller Zahlen und Fachbegriffe.",
+        "Mit etwas Übung findest du schnell, worauf es ankommt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die wichtigsten Teile",
+      "absaetze": [
+        "Ganz vorn steht die festgesetzte Steuer und ob du etwas zurückbekommst oder nachzahlen musst. Weiter hinten folgt die Berechnung mit allen Einkünften und Abzügen.",
+        "Besonders wichtig sind die Erläuterungen. Dort erklärt das Finanzamt, wo es von deiner Steuererklärung abgewichen ist."
+      ],
+      "merke": "In den Erläuterungen stehen die Abweichungen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit der Erklärung vergleichen",
+      "absaetze": [
+        "Prüfe, ob alle Angaben übernommen wurden, etwa Werbungskosten oder Spenden. Fehler passieren auch beim Finanzamt.",
+        "Achte auch auf Hinweise wie den Vorbehalt der Nachprüfung oder eine vorläufige Festsetzung. Sie zeigen, dass der Bescheid noch geändert werden kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fristen beachten",
+      "absaetze": [
+        "Am Ende steht die Rechtsbehelfsbelehrung. Sie nennt die Frist von einem Monat, in der du Einspruch einlegen kannst.",
+        "Die Frist beginnt in der Regel einige Tage nach dem Datum des Bescheids. Einspruch kannst du kostenlos und auch elektronisch über ELSTER einlegen."
+      ],
+      "merke": "Für einen Einspruch hast du einen Monat Zeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo erklärt das Finanzamt Abweichungen von deiner Erklärung?",
+      "art": "mc",
+      "optionen": [
+        "In den Erläuterungen",
+        "Auf dem Briefumschlag",
+        "In der Kopfzeile",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dieser Teil ist besonders wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hast du für einen Einspruch Zeit?",
+      "art": "mc",
+      "optionen": [
+        "Einen Monat",
+        "Eine Woche",
+        "Ein Jahr",
+        "Drei Tage"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das steht in der Rechtsbehelfsbelehrung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Einspruch gegen den Steuerbescheid kostet Gebühren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist kostenlos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt der Vorbehalt der Nachprüfung an?",
+      "art": "mc",
+      "optionen": [
+        "Dass der Bescheid noch geändert werden kann",
+        "Dass du ins Gefängnis musst",
+        "Dass du nichts zahlen musst",
+        "Dass der Bescheid ungültig ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch eine vorläufige Festsetzung bedeutet das."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vorn steht die Erstattung oder Nachzahlung.",
+        "Die Erläuterungen zeigen Abweichungen.",
+        "Bescheid mit der eigenen Erklärung vergleichen.",
+        "Einspruch innerhalb eines Monats möglich."
+      ]
+    }
+  ]
+}

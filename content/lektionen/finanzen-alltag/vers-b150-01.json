@@ -1,0 +1,122 @@
+{
+  "id": "vers-b150-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Musst du Überstunden machen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ueberstunden",
+    "arbeitszeit",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Chef bittet, heute länger zu bleiben.",
+        "Ob du dazu verpflichtet bist, hängt von deinem Vertrag ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine allgemeine Pflicht",
+      "absaetze": [
+        "Eine gesetzliche Pflicht zu Überstunden gibt es grundsätzlich nicht. Sie muss im Arbeitsvertrag, in einem Tarifvertrag oder in einer Betriebsvereinbarung geregelt sein.",
+        "In echten Notfällen, etwa um großen Schaden abzuwenden, kann der Arbeitgeber sie aber auch ohne solche Regelung verlangen."
+      ],
+      "merke": "Überstunden müssen vertraglich geregelt sein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen der Arbeitszeit",
+      "absaetze": [
+        "Das Arbeitszeitgesetz erlaubt in der Regel höchstens acht Stunden pro Werktag. Bis zu zehn Stunden sind möglich, wenn im Durchschnitt acht nicht überschritten werden.",
+        "Arbeitgeber sind verpflichtet, die Arbeitszeit ihrer Beschäftigten zu erfassen. So lassen sich Überstunden nachweisen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bezahlung oder Freizeit",
+      "absaetze": [
+        "Ob Überstunden bezahlt oder mit Freizeit ausgeglichen werden, richtet sich nach Vertrag und Tarif. Klauseln, die alle Überstunden pauschal abgelten, sind nur in engen Grenzen wirksam.",
+        "Notiere dir geleistete Überstunden selbst. Bei Streit helfen Betriebsrat, Gewerkschaft oder Fachanwälte."
+      ],
+      "merke": "Höchstens zehn Stunden pro Tag sind erlaubt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gibt es eine allgemeine gesetzliche Pflicht zu Überstunden?",
+      "art": "mc",
+      "optionen": [
+        "Nein, sie muss vertraglich geregelt sein",
+        "Ja, immer",
+        "Ja, für alle ab 30",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ausnahmen gibt es in echten Notfällen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Stunden pro Werktag sind höchstens möglich?",
+      "art": "mc",
+      "optionen": [
+        "Zehn Stunden",
+        "Zwölf Stunden",
+        "Sechs Stunden",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Durchschnitt dürfen acht nicht überschritten werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Arbeitgeber müssen die Arbeitszeit erfassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So lassen sich Überstunden nachweisen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei Überstunden tun?",
+      "art": "mc",
+      "optionen": [
+        "Sie selbst notieren",
+        "Sie vergessen",
+        "Sie verschweigen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei Streit helfen Betriebsrat oder Gewerkschaft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Überstunden müssen vertraglich geregelt sein.",
+        "Mehr als zehn Stunden pro Tag sind nicht erlaubt.",
+        "Die Arbeitszeit muss erfasst werden.",
+        "Bezahlung oder Freizeitausgleich regelt der Vertrag."
+      ]
+    }
+  ]
+}

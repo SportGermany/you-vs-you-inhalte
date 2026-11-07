@@ -1,0 +1,129 @@
+{
+  "id": "ern-b150-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Basilikum?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "basilikum",
+    "kraeuter",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Basilikum gehört zu Tomaten und Mozzarella wie kaum ein anderes Kraut.",
+        "Damit sein Aroma erhalten bleibt, braucht es etwas Pflege."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kraut aus Asien",
+      "absaetze": [
+        "Basilikum gehört zu den Lippenblütlern und stammt ursprünglich aus Asien. Es gibt viele Sorten, etwa Thai-Basilikum mit Anisnote.",
+        "Die Blätter liefern Vitamin K und sekundäre Pflanzenstoffe. Weil man nur kleine Mengen isst, ist ihr Beitrag zur Versorgung aber gering."
+      ],
+      "merke": "Basilikum stammt ursprünglich aus Asien."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst zum Schluss dazugeben",
+      "absaetze": [
+        "Das Aroma steckt in ätherischen Ölen, die bei Hitze verfliegen. Gib frisches Basilikum deshalb erst kurz vor dem Servieren dazu.",
+        "Bewahre es nicht im Kühlschrank auf, dort werden die Blätter schnell schwarz. Besser steht es wie ein Blumenstrauß im Wasserglas."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hinweis zu Estragol",
+      "absaetze": [
+        "Basilikum enthält Estragol, einen Stoff, der in hohen Mengen im Tierversuch schädlich war. Beim normalen Würzen mit frischen Blättern gilt das als unbedenklich.",
+        "Vorsicht ist eher bei konzentrierten Produkten wie ätherischem Öl geboten. Für Kinder und Schwangere sind solche Öle nicht gedacht."
+      ],
+      "merke": "Basilikum erst zum Schluss dazugeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Basilikum ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Asien",
+        "Aus Skandinavien",
+        "Aus Südamerika",
+        "Aus Australien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gehört zu den Lippenblütlern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du frisches Basilikum ins Essen geben?",
+      "art": "mc",
+      "optionen": [
+        "Kurz vor dem Servieren",
+        "Gleich zu Beginn des Kochens",
+        "Erst nach dem Essen",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hitze lässt das Aroma verfliegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Basilikum hält sich im Kühlschrank am längsten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dort werden die Blätter schnell schwarz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei ist wegen Estragol eher Vorsicht geboten?",
+      "art": "mc",
+      "optionen": [
+        "Bei konzentriertem ätherischem Öl",
+        "Beim Würzen mit frischen Blättern",
+        "Bei Tomatensalat",
+        "Bei Pizza"
+      ],
+      "richtig": 0,
+      "erklaerung": "Normales Würzen gilt als unbedenklich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Basilikum stammt aus Asien.",
+        "Das Aroma verfliegt bei Hitze.",
+        "Nicht im Kühlschrank, sondern im Wasserglas aufbewahren.",
+        "Konzentriertes Basilikumöl nur vorsichtig verwenden."
+      ]
+    }
+  ]
+}

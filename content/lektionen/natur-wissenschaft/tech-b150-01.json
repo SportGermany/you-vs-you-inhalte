@@ -1,0 +1,122 @@
+{
+  "id": "tech-b150-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert das Schnellladen beim Handy?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schnellladen",
+    "akku",
+    "smartphone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Handys sind in einer halben Stunde fast voll, andere brauchen Stunden.",
+        "Der Unterschied liegt in der Ladeleistung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Leistung",
+      "absaetze": [
+        "Die Ladeleistung ergibt sich aus Spannung und Stromstärke. Beim Schnellladen wird eine davon oder beide erhöht.",
+        "Handy und Ladegerät verständigen sich dafür über einen Standard, etwa USB Power Delivery. Nur wenn beide ihn unterstützen, wird schnell geladen."
+      ],
+      "merke": "Schnellladen erhöht Spannung oder Stromstärke."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnell am Anfang, langsam am Ende",
+      "absaetze": [
+        "Ein leerer Akku nimmt anfangs viel Energie auf. Ab etwa achtzig Prozent wird die Ladung gedrosselt, um den Akku zu schonen.",
+        "Deshalb geht der erste Teil so schnell und der Rest dauert länger. Auch Wärme bremst das Laden, weil Hitze dem Akku schadet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schonend laden",
+      "absaetze": [
+        "Benutze geprüfte Ladegeräte und Kabel, die zur Leistung passen. Billige Zubehörteile können überhitzen.",
+        "Viele Handys bieten eine Funktion, die nachts nur bis achtzig Prozent lädt. Das kann die Lebensdauer des Akkus verlängern."
+      ],
+      "merke": "Ab etwa achtzig Prozent wird langsamer geladen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird beim Schnellladen erhöht?",
+      "art": "mc",
+      "optionen": [
+        "Spannung oder Stromstärke",
+        "Das Gewicht des Handys",
+        "Die Bildschirmhelligkeit",
+        "Die Temperatur des Raums"
+      ],
+      "richtig": 0,
+      "erklaerung": "Daraus ergibt sich die Ladeleistung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird ab etwa achtzig Prozent langsamer geladen?",
+      "art": "mc",
+      "optionen": [
+        "Um den Akku zu schonen",
+        "Weil der Strom ausgeht",
+        "Weil das Kabel müde wird",
+        "Zufall"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Wärme bremst das Laden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schnellladen funktioniert nur, wenn Handy und Ladegerät denselben Standard unterstützen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Etwa USB Power Delivery."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann die Lebensdauer des Akkus verlängern?",
+      "art": "mc",
+      "optionen": [
+        "Nachts nur bis achtzig Prozent laden",
+        "Immer bis zur Überhitzung laden",
+        "Billige Kabel verwenden",
+        "Das Handy im Auto in der Sonne laden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Handys bieten diese Funktion."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schnellladen erhöht die Ladeleistung.",
+        "Handy und Ladegerät müssen denselben Standard nutzen.",
+        "Ab etwa achtzig Prozent wird gedrosselt.",
+        "Geprüftes Zubehör verwenden."
+      ]
+    }
+  ]
+}
