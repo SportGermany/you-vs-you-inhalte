@@ -1,0 +1,122 @@
+{
+  "id": "tech-b149-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was unterscheidet Abluft- und Umlufthaube?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dunstabzugshaube",
+    "kueche",
+    "lueften"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Über vielen Herden hängt eine Dunstabzugshaube.",
+        "Doch nicht jede leitet den Kochdunst wirklich nach draußen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abluft: raus damit",
+      "absaetze": [
+        "Eine Ablufthaube saugt den Kochdunst an und leitet ihn über einen Kanal nach draußen. So verschwinden Gerüche, Fett und Feuchtigkeit aus der Küche.",
+        "Dafür muss frische Luft nachströmen, etwa durch ein gekipptes Fenster. Mit einer Feuerstätte im Raum, etwa einem Kaminofen, ist dafür eine Sicherheitseinrichtung nötig."
+      ],
+      "merke": "Abluft leitet Dunst und Feuchtigkeit nach draußen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Umluft: filtern und zurück",
+      "absaetze": [
+        "Eine Umlufthaube filtert die Luft und bläst sie zurück in die Küche. Ein Metallfilter fängt Fett, ein Aktivkohlefilter bindet Gerüche.",
+        "Die Feuchtigkeit bleibt dabei aber im Raum. Deshalb solltest du beim Kochen zusätzlich lüften."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Filter pflegen",
+      "absaetze": [
+        "Metallfettfilter kannst du meist in der Spülmaschine reinigen. Aktivkohlefilter müssen nach Angaben des Herstellers regelmäßig ersetzt werden.",
+        "Verstopfte Filter arbeiten schlecht und verbrauchen mehr Strom. Schalte die Haube schon kurz vor dem Kochen ein und lass sie danach noch etwas laufen."
+      ],
+      "merke": "Bei Umluft bleibt die Feuchtigkeit im Raum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht eine Ablufthaube?",
+      "art": "mc",
+      "optionen": [
+        "Sie leitet den Kochdunst nach draußen",
+        "Sie filtert und bläst die Luft zurück",
+        "Sie heizt die Küche",
+        "Sie kühlt den Herd"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gerüche, Fett und Feuchtigkeit verschwinden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fängt bei der Umlufthaube die Gerüche?",
+      "art": "mc",
+      "optionen": [
+        "Ein Aktivkohlefilter",
+        "Ein Papierfilter für Kaffee",
+        "Ein Wasserbad",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Metallfilter fängt das Fett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einer Umlufthaube bleibt die Feuchtigkeit in der Küche.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb zusätzlich lüften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Abluft und einem Kaminofen im Raum nötig?",
+      "art": "mc",
+      "optionen": [
+        "Eine Sicherheitseinrichtung",
+        "Nichts",
+        "Ein zweiter Herd",
+        "Ein Ventilator im Ofen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst könnten Abgase angesaugt werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Abluft leitet Kochdunst nach draußen.",
+        "Umluft filtert und bläst die Luft zurück.",
+        "Bei Umluft bleibt die Feuchtigkeit im Raum.",
+        "Filter regelmäßig reinigen oder ersetzen."
+      ]
+    }
+  ]
+}

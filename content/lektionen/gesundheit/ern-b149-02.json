@@ -1,0 +1,123 @@
+{
+  "id": "ern-b149-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Frühstücksflocken?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fruehstuecksflocken",
+    "cornflakes",
+    "zucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Cornflakes, Schokokissen und Knuspermüsli stehen in vielen Küchen.",
+        "Doch nicht alles, was nach Getreide aussieht, ist auch ein gesundes Frühstück."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Oft süß und wenig sättigend",
+      "absaetze": [
+        "Viele Frühstücksflocken bestehen aus fein verarbeitetem Getreide und enthalten viel Zucker. Besonders Produkte für Kinder sind häufig stark gesüßt.",
+        "Cornflakes lassen den Blutzucker schnell steigen und machen nicht lange satt. Bald meldet sich wieder der Hunger."
+      ],
+      "merke": "Viele Frühstücksflocken sind stark gesüßt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vitamine als Verkaufsargument",
+      "absaetze": [
+        "Manche Flocken werden mit Vitaminen und Mineralstoffen angereichert. Das macht ein zuckerreiches Produkt aber nicht zu einem gesunden Frühstück.",
+        "Auch Knuspermüslis enthalten neben Zucker oft viel Fett, weil die Flocken geröstet werden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bessere Alternativen",
+      "absaetze": [
+        "Haferflocken oder ein ungesüßtes Vollkornmüsli liefern mehr Ballaststoffe und sättigen länger. Frisches Obst sorgt für Süße.",
+        "Beim Einkauf hilft ein Blick auf den Zuckergehalt in der Nährwerttabelle. Auch der Nutri-Score kann beim Vergleich ähnlicher Produkte helfen."
+      ],
+      "merke": "Haferflocken und ungesüßtes Müsli sättigen länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten viele Frühstücksflocken reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Zucker",
+        "Ballaststoffe aus Vollkorn",
+        "Eiweiß aus Fleisch",
+        "Gemüse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders Produkte für Kinder."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum machen Cornflakes nicht lange satt?",
+      "art": "mc",
+      "optionen": [
+        "Sie lassen den Blutzucker schnell steigen",
+        "Sie enthalten zu viel Ballaststoff",
+        "Sie sind zu hart",
+        "Sie sind zu salzig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bald meldet sich wieder der Hunger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zugesetzte Vitamine machen ein zuckerreiches Produkt zu einem gesunden Frühstück.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Zucker bleibt trotzdem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sättigt länger?",
+      "art": "mc",
+      "optionen": [
+        "Haferflocken oder ungesüßtes Vollkornmüsli",
+        "Schokokissen",
+        "Zuckerflakes",
+        "Knuspermüsli mit viel Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Frisches Obst sorgt für Süße."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viele Frühstücksflocken sind stark gesüßt.",
+        "Cornflakes sättigen kaum.",
+        "Zugesetzte Vitamine ändern daran wenig.",
+        "Haferflocken und ungesüßtes Müsli sind bessere Alternativen."
+      ]
+    }
+  ]
+}

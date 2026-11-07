@@ -1,0 +1,133 @@
+{
+  "id": "supp-b149-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Warum steckt Piperin in vielen Präparaten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "piperin",
+    "kurkuma",
+    "wechselwirkungen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf vielen Kurkuma-Kapseln steht: mit schwarzem Pfeffer.",
+        "Der Grund ist der Pfefferstoff Piperin."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Verstärker",
+      "absaetze": [
+        "Piperin ist der Stoff, der schwarzem Pfeffer seine Schärfe gibt. Er kann die Aufnahme anderer Stoffe im Darm erhöhen.",
+        "Deshalb wird er Kurkuma-Präparaten zugesetzt, denn der Kurkuma-Wirkstoff wird sonst kaum aufgenommen. Ob das gesundheitlich einen Nutzen bringt, ist unklar."
+      ],
+      "merke": "Piperin erhöht die Aufnahme anderer Stoffe."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wirkung auch auf Medikamente",
+      "absaetze": [
+        "Studien deuten darauf hin, dass Piperin auch Enzyme in Leber und Darm beeinflusst, die Medikamente abbauen. Dadurch können Arzneimittel stärker oder länger wirken als gedacht.",
+        "Das betrifft etwa Blutverdünner oder bestimmte Mittel gegen Epilepsie. Für Pfeffer als Gewürz gilt das in üblichen Mengen nicht."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Kombinationen",
+      "absaetze": [
+        "Es gibt Berichte über Leberschäden im Zusammenhang mit hochdosierten Kurkuma-Präparaten, teils mit Piperin. Das BfR sieht solche Kombinationen kritisch.",
+        "Wer Medikamente nimmt, sollte vor der Einnahme ärztlich nachfragen. Kurkuma und Pfeffer im Essen sind dagegen unbedenklich."
+      ],
+      "merke": "Bei Medikamenten vorher ärztlich nachfragen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Einnahme von Medikamenten, besonders Blutverdünnern, vorher ärztlich nachfragen.",
+        "Bei Lebererkrankungen keine hochdosierten Kurkuma-Piperin-Präparate verwenden.",
+        "In Schwangerschaft und Stillzeit fehlen Daten zur Sicherheit."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt Piperin?",
+      "art": "mc",
+      "optionen": [
+        "Aus schwarzem Pfeffer",
+        "Aus Zitronen",
+        "Aus Milch",
+        "Aus Kakao"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt dem Pfeffer seine Schärfe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird Piperin Kurkuma-Präparaten zugesetzt?",
+      "art": "mc",
+      "optionen": [
+        "Es kann die Aufnahme des Wirkstoffs erhöhen",
+        "Es färbt die Kapseln",
+        "Es macht sie süß",
+        "Es verhindert Schimmel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ob das nützt, ist unklar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Piperin kann die Wirkung mancher Medikamente verstärken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es beeinflusst Enzyme, die Medikamente abbauen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist unbedenklich?",
+      "art": "mc",
+      "optionen": [
+        "Kurkuma und Pfeffer als Gewürz im Essen",
+        "Hochdosierte Kombipräparate ohne Rücksprache",
+        "Mehrere Präparate gleichzeitig",
+        "Präparate statt Medikamenten"
+      ],
+      "richtig": 0,
+      "erklaerung": "In üblichen Mengen gibt es keine Bedenken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Piperin stammt aus schwarzem Pfeffer.",
+        "Es erhöht die Aufnahme anderer Stoffe.",
+        "Es kann Medikamente stärker wirken lassen.",
+        "Hochdosierte Kombipräparate sieht das BfR kritisch."
+      ]
+    }
+  ]
+}

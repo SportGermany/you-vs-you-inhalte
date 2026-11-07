@@ -1,0 +1,122 @@
+{
+  "id": "koer-b149-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie funktioniert ein Reflex?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "reflex",
+    "nerven",
+    "rueckenmark"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du berührst eine heiße Herdplatte und ziehst die Hand weg, bevor du überhaupt nachdenkst.",
+        "Das ist ein Reflex."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der kurze Weg",
+      "absaetze": [
+        "Bei einem Reflex nimmt ein Sinnesrezeptor einen Reiz wahr und schickt ein Signal über einen Nerv zum Rückenmark. Dort wird es direkt auf einen Nerv umgeschaltet, der einen Muskel steuert.",
+        "Diesen Weg nennt man Reflexbogen. Das Gehirn wird dabei zunächst gar nicht gefragt, deshalb geht es so schnell."
+      ],
+      "merke": "Reflexe laufen über das Rückenmark, ohne das Gehirn zu fragen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz in Bruchteilen von Sekunden",
+      "absaetze": [
+        "Viele Reflexe schützen uns, etwa das Wegziehen der Hand oder das Blinzeln bei einem Luftstoß. Auch Husten und Niesen sind Reflexe.",
+        "Erst kurz danach meldet das Gehirn den Schmerz. Deshalb ist die Hand oft schon weg, bevor wir die Hitze bewusst spüren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reflexe beim Arzt",
+      "absaetze": [
+        "Beim Schlag mit dem Reflexhammer unter die Kniescheibe zuckt das Bein nach vorn. So prüfen Ärzte, ob Nerven und Rückenmark richtig arbeiten.",
+        "Neugeborene haben besondere Reflexe, etwa den Greifreflex. Sie verschwinden in den ersten Lebensmonaten wieder."
+      ],
+      "merke": "Reflexe schützen uns in Bruchteilen von Sekunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wird ein Reflex umgeschaltet?",
+      "art": "mc",
+      "optionen": [
+        "Im Rückenmark",
+        "Im Magen",
+        "Im Herzen",
+        "In der Leber"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Gehirn wird zunächst nicht gefragt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt der Weg eines Reflexes?",
+      "art": "mc",
+      "optionen": [
+        "Reflexbogen",
+        "Nervenbrücke",
+        "Blutbahn",
+        "Sehbahn"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vom Rezeptor über das Rückenmark zum Muskel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Husten und Niesen sind Reflexe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie schützen die Atemwege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was prüft der Arzt mit dem Reflexhammer?",
+      "art": "mc",
+      "optionen": [
+        "Ob Nerven und Rückenmark richtig arbeiten",
+        "Die Blutgruppe",
+        "Das Sehvermögen",
+        "Den Blutdruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Bein zuckt dann nach vorn."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reflexe laufen über einen kurzen Nervenweg.",
+        "Das Rückenmark schaltet ohne das Gehirn um.",
+        "Viele Reflexe schützen uns.",
+        "Ärzte prüfen damit die Nerven."
+      ]
+    }
+  ]
+}

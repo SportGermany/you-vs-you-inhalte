@@ -1,0 +1,122 @@
+{
+  "id": "haus-b149-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Kinderspielzeug?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spielzeug",
+    "kinder",
+    "hygiene"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Spielzeug landet im Mund, auf dem Boden und wieder im Kinderzimmer.",
+        "Regelmäßiges Reinigen ist sinnvoll, übertriebene Desinfektion aber nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Plastikspielzeug",
+      "absaetze": [
+        "Hartes Plastikspielzeug lässt sich in warmem Wasser mit etwas Spülmittel waschen. Danach gut abspülen und trocknen lassen.",
+        "Manches Spielzeug verträgt auch die Spülmaschine im oberen Korb. Achte auf die Herstellerangaben und entferne vorher Batterien."
+      ],
+      "merke": "Plastikspielzeug mit Wasser und Spülmittel waschen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Holz und Elektronik",
+      "absaetze": [
+        "Holzspielzeug solltest du nicht einweichen, weil es aufquillt und rissig wird. Wische es nur feucht ab und lass es an der Luft trocknen.",
+        "Spielzeug mit Elektronik wird mit einem leicht feuchten Tuch abgewischt. Wasser darf nicht ins Innere gelangen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht übertreiben",
+      "absaetze": [
+        "Für gesunde Kinder reicht normale Reinigung aus. Scharfe Desinfektionsmittel sind im Haushalt meist unnötig und können Haut und Atemwege reizen.",
+        "Nach einer ansteckenden Krankheit lohnt es sich, Spielzeug gründlicher zu reinigen. Badespielzeug sollte gut austrocknen, damit sich innen kein Schimmel bildet."
+      ],
+      "merke": "Scharfe Desinfektionsmittel sind meist unnötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie reinigst du hartes Plastikspielzeug?",
+      "art": "mc",
+      "optionen": [
+        "In warmem Wasser mit etwas Spülmittel",
+        "Mit Benzin",
+        "Gar nicht",
+        "Nur mit kaltem Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gut abspülen und trocknen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du mit Holzspielzeug nicht tun?",
+      "art": "mc",
+      "optionen": [
+        "Es einweichen",
+        "Es abwischen",
+        "Es trocknen lassen",
+        "Damit spielen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst quillt es auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für gesunde Kinder sind scharfe Desinfektionsmittel meist unnötig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Normale Reinigung reicht aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sollte Badespielzeug gut austrocknen?",
+      "art": "mc",
+      "optionen": [
+        "Damit sich innen kein Schimmel bildet",
+        "Damit es schwimmt",
+        "Damit es nicht quietscht",
+        "Damit es die Farbe wechselt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Inneren bleibt oft Wasser stehen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Plastikspielzeug mit Spülmittel waschen.",
+        "Holzspielzeug nur feucht abwischen.",
+        "Desinfektionsmittel sind meist unnötig.",
+        "Badespielzeug gut austrocknen lassen."
+      ]
+    }
+  ]
+}
