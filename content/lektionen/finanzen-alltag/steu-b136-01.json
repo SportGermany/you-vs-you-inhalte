@@ -1,0 +1,122 @@
+{
+  "id": "steu-b136-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was darfst du aus dem Urlaub zollfrei mitbringen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Reisen und Zoll",
+      "herausgeber": "Zoll (Generalzolldirektion)",
+      "url": "https://www.zoll.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "zoll",
+    "reisen",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein neues Handy aus den USA, Zigaretten aus der Türkei, Wein aus der Schweiz.",
+        "Ob du dafür am Flughafen zahlen musst, hängt von Herkunft und Wert ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reisen innerhalb der EU",
+      "absaetze": [
+        "Aus anderen EU-Ländern darfst du Waren für deinen eigenen Bedarf meist ohne Abgaben mitbringen. Für Tabak und Alkohol gibt es Richtmengen, ab denen der Zoll genauer nachfragt.",
+        "Waren zum Weiterverkaufen sind davon ausgenommen. Für sie gelten andere Regeln."
+      ],
+      "merke": "Aus EU-Ländern sind Waren für den Eigenbedarf meist abgabenfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Reisen aus Nicht-EU-Ländern",
+      "absaetze": [
+        "Aus Ländern außerhalb der EU dürfen Flug- und Schiffsreisende Waren im Wert von bis zu 430 Euro abgabenfrei mitbringen. Bei Reisen auf dem Landweg sind es 300 Euro.",
+        "Für Kinder unter 15 Jahren gilt eine niedrigere Grenze. Für Tabak, Alkohol und Kraftstoff gelten zusätzlich feste Höchstmengen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was verboten ist",
+      "absaetze": [
+        "Manche Dinge darfst du gar nicht mitbringen. Dazu gehören gefälschte Markenwaren in größerer Menge und geschützte Tiere und Pflanzen.",
+        "Auch Fleisch und Milchprodukte aus vielen Nicht-EU-Ländern sind tabu. Liegst du über den Freigrenzen, nimm den roten Ausgang und melde die Waren an."
+      ],
+      "merke": "Über den Freigrenzen den roten Ausgang nehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Wertgrenze für Flugreisende aus Nicht-EU-Ländern?",
+      "art": "mc",
+      "optionen": [
+        "430 Euro",
+        "50 Euro",
+        "5.000 Euro",
+        "Es gibt keine Grenze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auf dem Landweg sind es 300 Euro."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gilt für Waren aus anderen EU-Ländern für den Eigenbedarf?",
+      "art": "mc",
+      "optionen": [
+        "Sie sind meist abgabenfrei",
+        "Sie sind immer verboten",
+        "Sie kosten doppelten Zoll",
+        "Sie müssen versteigert werden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für Tabak und Alkohol gibt es Richtmengen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fleisch aus vielen Nicht-EU-Ländern darf mitgebracht werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Fleisch und Milchprodukte sind meist tabu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Ausgang nimmst du über den Freigrenzen?",
+      "art": "mc",
+      "optionen": [
+        "Den roten Ausgang",
+        "Den grünen Ausgang",
+        "Den Notausgang",
+        "Den Personalausgang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort meldest du die Waren an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aus EU-Ländern sind Waren für den Eigenbedarf meist frei.",
+        "Aus Nicht-EU-Ländern gelten Wertgrenzen.",
+        "Für Tabak und Alkohol gibt es Höchstmengen.",
+        "Fleisch und gefälschte Waren sind tabu."
+      ]
+    }
+  ]
+}

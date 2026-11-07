@@ -1,0 +1,125 @@
+{
+  "id": "schlaf-b136-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Ist Einschlafen vor dem Fernseher schlecht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "fernsehen",
+    "licht",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Serie läuft, die Augen werden schwer, und irgendwann schläfst du einfach ein.",
+        "Für viele ist das ein Ritual. Aber wie gut ist der Schlaf dann?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht und Geräusche",
+      "absaetze": [
+        "Ein laufender Fernseher sendet wechselndes Licht und plötzliche Geräusche. Das kann den Schlaf leichter machen und zu kurzem Aufwachen führen, das du oft nicht bemerkst.",
+        "Licht in der Nacht kann außerdem die Bildung des Schlafhormons Melatonin hemmen."
+      ],
+      "merke": "Licht und Geräusche können den Schlaf stören.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Beobachtungsstudien deuten darauf hin, dass Licht im Schlafzimmer während der Nacht mit schlechterem Schlaf zusammenhängt. Ob es wirklich die Ursache ist, ist teils noch unklar.",
+        "Manche Menschen beruhigt das vertraute Hintergrundgeräusch beim Einschlafen. Entscheidend ist, dass es danach dunkel und ruhig wird."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kompromiss",
+      "absaetze": [
+        "Nutze die Ausschaltautomatik des Fernsehers, damit er nach kurzer Zeit ausgeht. Ruhige Sendungen sind besser als spannende Krimis.",
+        "Wer ohne Bildschirm nicht einschlafen kann, kann es mit Hörbüchern oder leiser Musik versuchen. Ein dunkles Schlafzimmer bleibt das Ziel."
+      ],
+      "merke": "Die Ausschaltautomatik nutzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein laufender Fernseher in der Nacht stören?",
+      "art": "mc",
+      "optionen": [
+        "Wechselndes Licht und plötzliche Geräusche",
+        "Die Raumtemperatur stark senken",
+        "Die Luftfeuchtigkeit",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann zu kurzem Aufwachen führen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon kann Licht in der Nacht hemmen?",
+      "art": "mc",
+      "optionen": [
+        "Melatonin",
+        "Insulin",
+        "Adrenalin",
+        "Testosteron"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es fördert den Schlaf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Fernseher, der die ganze Nacht läuft, fördert tiefen Schlaf.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Licht und Geräusche können den Schlaf stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein guter Kompromiss?",
+      "art": "mc",
+      "optionen": [
+        "Die Ausschaltautomatik nutzen",
+        "Die Lautstärke erhöhen",
+        "Einen Krimi schauen",
+        "Ein zweites Gerät einschalten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann wird es nach kurzer Zeit dunkel und ruhig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Licht und Geräusche können den Schlaf stören.",
+        "Licht in der Nacht kann Melatonin hemmen.",
+        "Die Ausschaltautomatik ist ein guter Kompromiss.",
+        "Ein dunkles, ruhiges Schlafzimmer bleibt das Ziel."
+      ]
+    }
+  ]
+}

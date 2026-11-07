@@ -1,0 +1,122 @@
+{
+  "id": "geld-b136-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sagt die 72er-Regel über dein Geld?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "72er-regel",
+    "zinseszins",
+    "inflation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wie lange dauert es, bis sich Geld verdoppelt? Dafür brauchst du keinen Taschenrechner.",
+        "Eine einfache Faustregel hilft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Regel",
+      "absaetze": [
+        "Teile 72 durch den jährlichen Zinssatz in Prozent. Das Ergebnis ist ungefähr die Zahl der Jahre, bis sich dein Geld verdoppelt.",
+        "Bei sechs Prozent Rendite im Jahr dauert es also etwa zwölf Jahre. Bei zwei Prozent sind es rund 36 Jahre."
+      ],
+      "merke": "72 geteilt durch den Zinssatz ergibt etwa die Verdopplungszeit."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum sie funktioniert",
+      "absaetze": [
+        "Die Regel beruht auf dem Zinseszins. Erträge werden mit angelegt und bringen selbst wieder Erträge.",
+        "Sie ist eine Näherung. Für Zinssätze zwischen etwa zwei und zehn Prozent ist sie recht genau."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch für die Inflation",
+      "absaetze": [
+        "Die Regel funktioniert auch umgekehrt. Bei drei Prozent Inflation halbiert sich die Kaufkraft deines Geldes in etwa 24 Jahren.",
+        "Das zeigt, warum Geld auf einem unverzinsten Konto langfristig an Wert verliert. Und warum frühes, langfristiges Sparen so viel ausmacht."
+      ],
+      "merke": "Mit der Regel lässt sich auch der Kaufkraftverlust abschätzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie berechnest du mit der 72er-Regel die Verdopplungszeit?",
+      "art": "mc",
+      "optionen": [
+        "72 geteilt durch den Zinssatz",
+        "72 mal den Zinssatz",
+        "Zinssatz minus 72",
+        "72 plus den Zinssatz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Ergebnis ist ungefähr die Zahl der Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert die Verdopplung bei sechs Prozent im Jahr etwa?",
+      "art": "mc",
+      "optionen": [
+        "Etwa zwölf Jahre",
+        "Etwa sechs Jahre",
+        "Etwa 72 Jahre",
+        "Etwa ein Jahr"
+      ],
+      "richtig": 0,
+      "erklaerung": "72 geteilt durch 6 ergibt 12."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die 72er-Regel ist eine exakte Formel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist eine Näherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei drei Prozent Inflation nach etwa 24 Jahren?",
+      "art": "mc",
+      "optionen": [
+        "Die Kaufkraft halbiert sich",
+        "Das Geld verdoppelt sich",
+        "Nichts",
+        "Die Kaufkraft verdreifacht sich"
+      ],
+      "richtig": 0,
+      "erklaerung": "72 geteilt durch 3 ergibt 24."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "72 geteilt durch den Zinssatz ergibt die Verdopplungszeit.",
+        "Die Regel beruht auf dem Zinseszins.",
+        "Sie ist eine gute Näherung.",
+        "Sie zeigt auch, wie Inflation Kaufkraft frisst."
+      ]
+    }
+  ]
+}

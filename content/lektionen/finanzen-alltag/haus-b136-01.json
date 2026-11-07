@@ -1,0 +1,128 @@
+{
+  "id": "haus-b136-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bleiben frische Kräuter länger frisch?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kraeuter",
+    "lagerung",
+    "lebensmittelverschwendung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Bund Petersilie für ein Rezept, und der Rest welkt im Kühlschrank vor sich hin.",
+        "Mit der richtigen Lagerung halten Kräuter deutlich länger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht alle mögen Kälte",
+      "absaetze": [
+        "Basilikum ist kälteempfindlich. Im Kühlschrank bekommt er schnell schwarze Blätter. Stell ihn lieber wie einen Blumenstrauß in ein Glas Wasser bei Zimmertemperatur.",
+        "Petersilie, Dill und Schnittlauch halten dagegen im Kühlschrank länger. Wickle sie in ein feuchtes Küchentuch oder lege sie in eine Dose."
+      ],
+      "merke": "Basilikum gehört nicht in den Kühlschrank."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haltbar machen",
+      "absaetze": [
+        "Viele Kräuter lassen sich gut einfrieren. Hacke sie fein und friere sie mit etwas Wasser oder Öl in Eiswürfelformen ein. So hast du immer Portionen zum Kochen.",
+        "Robuste Kräuter wie Thymian, Rosmarin und Oregano kannst du an einem luftigen, schattigen Ort trocknen. Sie behalten dabei viel Aroma."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Topfkräuter pflegen",
+      "absaetze": [
+        "Kräuter im Topf aus dem Supermarkt stehen oft sehr eng. Teile sie und topfe sie in größere Gefäße mit frischer Erde um.",
+        "Gieße sie regelmäßig, aber ohne Staunässe, und stell sie hell. So kannst du oft wochenlang ernten."
+      ],
+      "merke": "Topfkräuter umtopfen, dann halten sie oft wochenlang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lagerst du Basilikum am besten?",
+      "art": "mc",
+      "optionen": [
+        "Im Wasserglas bei Zimmertemperatur",
+        "Im Gefrierfach ganz",
+        "Im Kühlschrank im Gemüsefach",
+        "In der prallen Sonne ohne Wasser"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist kälteempfindlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kräuter halten im Kühlschrank gut?",
+      "art": "mc",
+      "optionen": [
+        "Petersilie, Dill und Schnittlauch",
+        "Nur Basilikum",
+        "Keine",
+        "Nur getrocknete"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am besten in einem feuchten Tuch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kräuter lassen sich in Eiswürfelformen einfrieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Fein gehackt mit Wasser oder Öl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft Topfkräutern aus dem Supermarkt?",
+      "art": "mc",
+      "optionen": [
+        "Umtopfen in größere Gefäße",
+        "Im Dunkeln lagern",
+        "Täglich stark gießen",
+        "Gar nicht gießen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Pflanzen stehen oft zu eng."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Basilikum bei Zimmertemperatur im Wasserglas lagern.",
+        "Petersilie und Schnittlauch im feuchten Tuch kühlen.",
+        "Gehackte Kräuter in Eiswürfelformen einfrieren.",
+        "Topfkräuter umtopfen und hell stellen."
+      ]
+    }
+  ]
+}

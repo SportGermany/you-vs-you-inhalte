@@ -1,0 +1,133 @@
+{
+  "id": "stoff-b136-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Was verrät der Nüchternblutzucker?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.deutsche-diabetes-gesellschaft.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "blutzucker",
+    "diabetes",
+    "laborwerte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vor der Blutabnahme sollst du morgens nichts essen. Dann wird oft der Nüchternblutzucker gemessen.",
+        "Was sagt dieser Wert aus?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemessen nach dem Fasten",
+      "absaetze": [
+        "Der Nüchternblutzucker wird nach mindestens acht Stunden ohne Essen gemessen, meist morgens. Wasser trinken ist erlaubt.",
+        "Er zeigt, wie gut der Körper den Blutzucker auch ohne frische Nahrung im Gleichgewicht hält."
+      ],
+      "merke": "Der Nüchternblutzucker wird nach längerem Fasten gemessen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Grenzwerte",
+      "absaetze": [
+        "Bei Gesunden liegt der Wert unter 100 Milligramm pro Deziliter. Werte zwischen 100 und 125 gelten als gestörter Nüchternblutzucker, eine Vorstufe von Diabetes.",
+        "Ab 126 Milligramm pro Deziliter, bei zwei Messungen, spricht man von Diabetes. Die Diagnose stellt immer eine Ärztin oder ein Arzt, oft mit weiteren Tests."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was einen Wert verfälschen kann",
+      "absaetze": [
+        "Wer vorher doch etwas gegessen hat, bekommt einen falsch hohen Wert. Auch akuter Stress, Infekte und manche Medikamente können ihn erhöhen.",
+        "Ergänzend wird oft der HbA1c-Wert bestimmt. Er zeigt den Durchschnitt der letzten Wochen. Bei auffälligen Werten helfen Bewegung und Ernährung oft schon viel."
+      ],
+      "merke": "Stress und Infekte können den Wert erhöhen.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange solltest du vor der Messung nichts essen?",
+      "art": "mc",
+      "optionen": [
+        "Mindestens acht Stunden",
+        "Zehn Minuten",
+        "Drei Tage",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser ist erlaubt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Unter welchem Wert liegt der Nüchternblutzucker bei Gesunden?",
+      "art": "mc",
+      "optionen": [
+        "Unter 100 Milligramm pro Deziliter",
+        "Unter 300",
+        "Über 200",
+        "Genau bei 150"
+      ],
+      "richtig": 0,
+      "erklaerung": "Werte darüber werden genauer betrachtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Akuter Stress kann den Nüchternblutzucker erhöhen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Infekte und Medikamente können ihn beeinflussen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Wert zeigt den Durchschnitt der letzten Wochen?",
+      "art": "mc",
+      "optionen": [
+        "Der HbA1c-Wert",
+        "Der Ruhepuls",
+        "Der Cholesterinwert",
+        "Der Blutdruck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird oft ergänzend bestimmt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Nüchternblutzucker wird nach mindestens acht Stunden Fasten gemessen.",
+        "Bei Gesunden liegt er unter 100 mg/dl.",
+        "Werte ab 126 bei zwei Messungen sprechen für Diabetes.",
+        "Stress und Infekte können ihn verfälschen.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

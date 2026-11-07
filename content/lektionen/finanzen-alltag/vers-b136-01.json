@@ -1,0 +1,128 @@
+{
+  "id": "vers-b136-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie schreibst du ein gültiges Testament?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Erbrecht",
+      "herausgeber": "Bundesministerium der Justiz",
+      "url": "https://www.bmj.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "testament",
+    "erbrecht",
+    "vorsorge"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ohne Testament regelt das Gesetz, wer erbt. Das passt nicht immer zu den eigenen Wünschen.",
+        "Ein Testament ist einfacher zu schreiben, als viele denken. Ein paar Formregeln musst du aber kennen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von Hand geschrieben",
+      "absaetze": [
+        "Ein eigenes Testament muss vollständig mit der Hand geschrieben und unterschrieben sein. Ein am Computer getippter und nur unterschriebener Text ist ungültig.",
+        "Gib Ort und Datum an. So ist klar, welches Testament das neueste ist, falls es mehrere gibt."
+      ],
+      "merke": "Ein eigenes Testament muss vollständig handschriftlich sein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Notarielles Testament",
+      "absaetze": [
+        "Alternativ kannst du ein Testament bei einer Notarin oder einem Notar errichten. Das kostet Gebühren, schützt aber vor Formfehlern und unklaren Formulierungen.",
+        "Ehepaare können ein gemeinsames Testament verfassen. Bekannt ist das Berliner Testament, bei dem sich die Partner zuerst gegenseitig beerben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut aufbewahren",
+      "absaetze": [
+        "Ein Testament nützt nur, wenn es gefunden wird. Du kannst es beim Amtsgericht hinterlegen. Dann wird es im zentralen Testamentsregister erfasst.",
+        "Nahe Angehörige wie Kinder haben oft Anspruch auf einen Pflichtteil, auch wenn sie im Testament nicht bedacht werden. Bei komplizierten Familienverhältnissen lohnt sich Beratung."
+      ],
+      "merke": "Ein Testament beim Amtsgericht hinterlegen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie muss ein eigenes Testament geschrieben sein?",
+      "art": "mc",
+      "optionen": [
+        "Vollständig mit der Hand und unterschrieben",
+        "Am Computer getippt",
+        "Als Sprachnachricht",
+        "Als E-Mail"
+      ],
+      "richtig": 0,
+      "erklaerung": "Getippte Testamente sind ungültig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Berliner Testament?",
+      "art": "mc",
+      "optionen": [
+        "Ein gemeinsames Testament von Ehepaaren",
+        "Ein Testament nur für Berliner",
+        "Ein Testament ohne Unterschrift",
+        "Eine Steuererklärung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Partner beerben sich zuerst gegenseitig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kinder haben oft Anspruch auf einen Pflichtteil.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch wenn sie im Testament nicht bedacht werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kannst du ein Testament sicher hinterlegen?",
+      "art": "mc",
+      "optionen": [
+        "Beim Amtsgericht",
+        "Beim Finanzamt",
+        "Bei der Post",
+        "In der Bibliothek"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es wird dann im Testamentsregister erfasst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein eigenes Testament muss handschriftlich sein.",
+        "Ort und Datum angeben.",
+        "Beim Notar gibt es Schutz vor Formfehlern.",
+        "Beim Amtsgericht hinterlegen."
+      ]
+    }
+  ]
+}

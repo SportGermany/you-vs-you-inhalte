@@ -1,0 +1,128 @@
+{
+  "id": "tech-b136-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Wasserfilter in der Kanne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Trinkwasser",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wasserfilter",
+    "trinkwasser",
+    "kalk"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele füllen ihr Leitungswasser durch eine Filterkanne, bevor sie Tee kochen.",
+        "Was passiert dabei im Filter?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Stoffe im Filter",
+      "absaetze": [
+        "In der Kartusche stecken meist Aktivkohle und ein Ionenaustauscher. Die Aktivkohle bindet Stoffe, die Geruch und Geschmack beeinflussen.",
+        "Der Ionenaustauscher tauscht Kalzium und Magnesium gegen andere Teilchen aus. Dadurch enthält das Wasser weniger Kalk."
+      ],
+      "merke": "Aktivkohle und Ionenaustauscher verändern Geschmack und Kalkgehalt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ist das nötig?",
+      "absaetze": [
+        "Leitungswasser in Deutschland ist streng kontrolliert und kann bedenkenlos getrunken werden. Ein Filter ist für die Gesundheit in der Regel nicht nötig.",
+        "Bei sehr hartem Wasser kann er Wasserkocher und Kaffeemaschine vor Kalk schützen. Manche mögen auch den Geschmack lieber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hygiene beachten",
+      "absaetze": [
+        "In feuchten Filtern können sich Keime vermehren, wenn sie zu lange benutzt werden. Wechsle die Kartusche deshalb nach den Angaben des Herstellers.",
+        "Bewahre gefiltertes Wasser im Kühlschrank auf und verbrauche es zügig. Die Kanne regelmäßig zu reinigen, gehört ebenfalls dazu."
+      ],
+      "merke": "Kartuschen regelmäßig wechseln, sonst können sich Keime vermehren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bindet die Aktivkohle im Filter?",
+      "art": "mc",
+      "optionen": [
+        "Stoffe, die Geruch und Geschmack beeinflussen",
+        "Den Sauerstoff",
+        "Das Wasser selbst",
+        "Alle Mineralien vollständig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Ionenaustauscher reduziert den Kalk."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Wasserfilter in Deutschland gesundheitlich nötig?",
+      "art": "mc",
+      "optionen": [
+        "In der Regel nicht",
+        "Ja, immer",
+        "Nur im Sommer",
+        "Nur für Erwachsene"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leitungswasser ist streng kontrolliert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In zu lange benutzten Filtern können sich Keime vermehren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb Kartuschen regelmäßig wechseln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo bewahrst du gefiltertes Wasser am besten auf?",
+      "art": "mc",
+      "optionen": [
+        "Im Kühlschrank",
+        "In der Sonne",
+        "Auf der Heizung",
+        "Im Keller offen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Und verbrauche es zügig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Filter enthalten Aktivkohle und Ionenaustauscher.",
+        "Sie verringern Kalk und verändern den Geschmack.",
+        "Gesundheitlich sind sie meist nicht nötig.",
+        "Kartuschen regelmäßig wechseln."
+      ]
+    }
+  ]
+}

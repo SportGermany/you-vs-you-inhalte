@@ -1,0 +1,122 @@
+{
+  "id": "all-b136-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Können wir einen Asteroiden ablenken?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Planetare Verteidigung",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "asteroiden",
+    "planetare-verteidigung",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In Filmen sprengen Helden Asteroiden mit Atombomben.",
+        "In Wirklichkeit hat die Menschheit 2022 etwas viel Eleganteres getestet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Test",
+      "absaetze": [
+        "Im September 2022 prallte die Raumsonde DART der NASA absichtlich auf einen kleinen Asteroiden namens Dimorphos. Er umkreist einen größeren Asteroiden.",
+        "Für die Erde bestand dabei keine Gefahr. Ziel war es zu testen, ob ein gezielter Aufprall die Bahn eines Himmelskörpers verändern kann."
+      ],
+      "merke": "2022 prallte die Sonde DART absichtlich auf einen Asteroiden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Ergebnis",
+      "absaetze": [
+        "Der Aufprall verkürzte die Umlaufzeit von Dimorphos um etwa 32 Minuten. Das war deutlich mehr als erwartet.",
+        "Es war der erste Beweis, dass Menschen die Bahn eines Himmelskörpers verändern können. Die europäische Sonde Hera soll die Folgen genau vermessen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Frühe Entdeckung ist entscheidend",
+      "absaetze": [
+        "Eine solche Ablenkung funktioniert nur, wenn ein gefährlicher Asteroid Jahre im Voraus entdeckt wird. Dann reicht ein kleiner Schubs.",
+        "Weltweit suchen Teleskope deshalb nach erdnahen Objekten. Von den bekannten großen Asteroiden geht in den nächsten hundert Jahren keine Gefahr aus."
+      ],
+      "merke": "Früherkennung ist der wichtigste Schutz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tat die Sonde DART 2022?",
+      "art": "mc",
+      "optionen": [
+        "Sie prallte absichtlich auf einen Asteroiden",
+        "Sie landete auf dem Mars",
+        "Sie fotografierte die Sonne",
+        "Sie sprengte einen Kometen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Asteroid hieß Dimorphos."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Um wie viel verkürzte sich die Umlaufzeit von Dimorphos?",
+      "art": "mc",
+      "optionen": [
+        "Um etwa 32 Minuten",
+        "Um eine Sekunde",
+        "Um ein Jahr",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mehr als erwartet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim DART-Test bestand Gefahr für die Erde.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Der Asteroid war nie eine Bedrohung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für eine erfolgreiche Ablenkung entscheidend?",
+      "art": "mc",
+      "optionen": [
+        "Den Asteroiden Jahre im Voraus zu entdecken",
+        "Eine Atombombe",
+        "Glück",
+        "Ein großes Netz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann reicht ein kleiner Schubs."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Sonde DART prallte 2022 auf einen Asteroiden.",
+        "Seine Umlaufzeit verkürzte sich um etwa 32 Minuten.",
+        "Es war der erste erfolgreiche Ablenkungstest.",
+        "Früherkennung ist der wichtigste Schutz."
+      ]
+    }
+  ]
+}

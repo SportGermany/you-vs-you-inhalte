@@ -1,0 +1,130 @@
+{
+  "id": "ern-b136-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Mayonnaise?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "mayonnaise",
+    "fett",
+    "eier"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zu Pommes, im Kartoffelsalat oder auf dem Brötchen: Mayonnaise ist beliebt.",
+        "Was macht sie so cremig, und wie viel davon ist sinnvoll?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eigelb und viel Öl",
+      "absaetze": [
+        "Mayonnaise besteht vor allem aus Öl und Eigelb, dazu kommen etwas Essig oder Zitrone und Senf. Das Eigelb verbindet Öl und Wasser zu einer cremigen Masse.",
+        "Klassische Mayonnaise besteht zum großen Teil aus Öl. Deshalb ist sie sehr energiereich. Salatmayonnaise enthält weniger Fett."
+      ],
+      "merke": "Mayonnaise besteht zum großen Teil aus Öl."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Fette, große Mengen",
+      "absaetze": [
+        "Wird sie mit Rapsöl gemacht, liefert sie überwiegend ungesättigte Fettsäuren. Das Problem ist eher die Menge, die man oft nebenbei isst.",
+        "Joghurt-Dips oder eine Mischung aus Mayonnaise und Joghurt sind leichtere Alternativen. Sie schmecken trotzdem cremig."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei selbst gemachter Mayonnaise",
+      "absaetze": [
+        "Selbst gemachte Mayonnaise enthält rohes Eigelb. Darin können Salmonellen vorkommen.",
+        "Bewahre sie deshalb im Kühlschrank auf und verbrauche sie schnell. Für Schwangere, kleine Kinder und ältere Menschen ist gekaufte, erhitzte Ware sicherer."
+      ],
+      "merke": "Selbst gemachte Mayonnaise kühlen und schnell verbrauchen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Mayonnaise hauptsächlich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Öl und Eigelb",
+        "Aus Joghurt und Gurke",
+        "Aus Sahne und Zucker",
+        "Aus Wasser und Mehl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Eigelb verbindet Öl und Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine leichtere Alternative?",
+      "art": "mc",
+      "optionen": [
+        "Ein Joghurt-Dip",
+        "Doppelte Portion Mayonnaise",
+        "Butter",
+        "Speck"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er schmeckt trotzdem cremig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Selbst gemachte Mayonnaise kann Salmonellen enthalten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie enthält rohes Eigelb."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte besser gekaufte, erhitzte Mayonnaise wählen?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere, kleine Kinder und ältere Menschen",
+        "Nur Sportler",
+        "Niemand",
+        "Nur Jugendliche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Für sie sind Salmonellen besonders riskant."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Mayonnaise besteht vor allem aus Öl und Eigelb.",
+        "Sie ist sehr energiereich.",
+        "Joghurt-Dips sind leichtere Alternativen.",
+        "Selbst gemachte Mayonnaise kühlen und schnell verbrauchen."
+      ]
+    }
+  ]
+}
