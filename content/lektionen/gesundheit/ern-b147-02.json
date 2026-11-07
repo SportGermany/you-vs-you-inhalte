@@ -1,0 +1,129 @@
+{
+  "id": "ern-b147-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Reiswaffeln?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "reiswaffeln",
+    "snacks",
+    "arsen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Reiswaffeln gelten als leichter, gesunder Snack.",
+        "Bei genauerem Hinsehen gibt es aber ein paar Haken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Luft, wenig Sättigung",
+      "absaetze": [
+        "Reiswaffeln entstehen, wenn Reiskörner unter Hitze und Druck aufgepufft werden. Sie bestehen größtenteils aus Luft und Stärke.",
+        "Sie liefern wenig Ballaststoffe und Eiweiß und machen deshalb nicht lange satt. Viele essen dann mehr davon, als sie denken."
+      ],
+      "merke": "Reiswaffeln sättigen kaum."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Arsen im Reis",
+      "absaetze": [
+        "Reis nimmt aus Boden und Wasser mehr Arsen auf als andere Getreide. In Reiswaffeln kann sich das anorganische Arsen anreichern.",
+        "Das BfR rät deshalb, Säuglingen und Kleinkindern Reiswaffeln nicht regelmäßig als Snack zu geben. Für sie gibt es in der EU strengere Höchstgehalte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bessere Alternativen",
+      "absaetze": [
+        "Gelegentlich gegessen sind Reiswaffeln für Erwachsene kein Problem. Abwechslung bei Getreide und Snacks senkt die Belastung.",
+        "Vollkornbrot, Obst oder eine Handvoll Nüsse machen länger satt. Achte bei gesüßten oder überzogenen Waffeln auf den Zuckergehalt."
+      ],
+      "merke": "Kleinkindern Reiswaffeln nicht regelmäßig geben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus bestehen Reiswaffeln größtenteils?",
+      "art": "mc",
+      "optionen": [
+        "Aus Luft und Stärke",
+        "Aus Eiweiß",
+        "Aus Fett",
+        "Aus Ballaststoffen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Körner werden aufgepufft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Schadstoff kann sich in Reiswaffeln anreichern?",
+      "art": "mc",
+      "optionen": [
+        "Anorganisches Arsen",
+        "Koffein",
+        "Alkohol",
+        "Kohlensäure"
+      ],
+      "richtig": 0,
+      "erklaerung": "Reis nimmt Arsen aus Boden und Wasser auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleinkindern sollten Reiswaffeln nicht regelmäßig als Snack gegeben werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das rät das BfR."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht länger satt als Reiswaffeln?",
+      "art": "mc",
+      "optionen": [
+        "Vollkornbrot oder Nüsse",
+        "Noch mehr Reiswaffeln",
+        "Limonade",
+        "Gummibärchen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie liefern mehr Ballaststoffe und Eiweiß."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Reiswaffeln bestehen vor allem aus Luft und Stärke.",
+        "Sie machen kaum satt.",
+        "Sie können Arsen enthalten.",
+        "Für Kleinkinder nicht als regelmäßiger Snack geeignet."
+      ]
+    }
+  ]
+}

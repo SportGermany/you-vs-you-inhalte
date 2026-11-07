@@ -1,0 +1,123 @@
+{
+  "id": "schlaf-b147-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Schläfst du nach Süßem am Abend schlechter?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zucker",
+    "abendessen",
+    "schlafqualitaet"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Stück Schokolade oder ein Eis vor dem Fernseher gehört für viele zum Abend.",
+        "Ob Süßes den Schlaf stört, wird oft gefragt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "Einige Beobachtungsstudien deuten darauf hin, dass eine sehr zuckerreiche Ernährung mit unruhigerem Schlaf einhergeht. Ob der Zucker die Ursache ist, ist aber unklar.",
+        "Gut kontrollierte Studien dazu gibt es kaum. Ein einzelnes Dessert wirkt sich bei den meisten Menschen wohl wenig aus."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Versteckte Wachmacher",
+      "absaetze": [
+        "Schokolade enthält etwas Koffein und den verwandten Stoff Theobromin, dunkle Schokolade mehr als Milchschokolade. Empfindliche Menschen können das spüren.",
+        "Auch Cola und manche Eistees enthalten Koffein. Achte am Abend auf solche versteckten Wachmacher."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Abendgewohnheiten",
+      "absaetze": [
+        "Große, schwere oder sehr späte Mahlzeiten können den Schlaf eher stören als ein kleines Dessert. Ein gewisser Abstand zwischen Essen und Zubettgehen tut vielen gut.",
+        "Wer schlecht schläft, kann ein Schlaftagebuch führen und darin auch das Abendessen notieren. So lassen sich eigene Muster erkennen."
+      ],
+      "merke": "Koffein in Schokolade und Cola kann wach halten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigen Studien zu Zucker am Abend?",
+      "art": "mc",
+      "optionen": [
+        "Es gibt Hinweise, aber die Ursache ist unklar",
+        "Zucker macht immer schlaflos",
+        "Zucker ist ein starkes Schlafmittel",
+        "Es gibt keinerlei Forschung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gute kontrollierte Studien fehlen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Wachmacher stecken in Schokolade?",
+      "art": "mc",
+      "optionen": [
+        "Koffein und Theobromin",
+        "Melatonin",
+        "Alkohol",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "In dunkler Schokolade steckt mehr davon."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Große, späte Mahlzeiten können den Schlaf eher stören als ein kleines Dessert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein gewisser Abstand zum Zubettgehen tut gut."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kannst du eigene Muster erkennen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Schlaftagebuch",
+        "Durch Raten",
+        "Mit einem Horoskop",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Notiere darin auch dein Abendessen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ob Zucker den Schlaf stört, ist unklar.",
+        "Schokolade enthält Koffein und Theobromin.",
+        "Schwere, späte Mahlzeiten stören eher.",
+        "Ein Schlaftagebuch zeigt eigene Muster."
+      ]
+    }
+  ]
+}

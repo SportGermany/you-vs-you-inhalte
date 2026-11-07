@@ -1,0 +1,122 @@
+{
+  "id": "tech-b147-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie speichert ein USB-Stick Daten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "usb-stick",
+    "flash-speicher",
+    "daten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein USB-Stick passt in jede Hosentasche und speichert trotzdem Tausende Fotos.",
+        "Möglich macht das ein besonderer Speicherchip ohne bewegliche Teile."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefangene Elektronen",
+      "absaetze": [
+        "In einem USB-Stick steckt sogenannter Flash-Speicher. Er besteht aus Milliarden winziger Speicherzellen.",
+        "In jeder Zelle können Elektronen in einer isolierten Schicht eingeschlossen werden. Ob dort Ladung sitzt oder nicht, steht für eine Null oder Eins."
+      ],
+      "merke": "Flash-Speicher hält Daten mit eingeschlossenen Elektronen fest."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Speichern ohne Strom",
+      "absaetze": [
+        "Die eingeschlossenen Elektronen bleiben auch ohne Strom an ihrem Platz. Deshalb vergisst ein USB-Stick seine Daten nicht, wenn du ihn abziehst.",
+        "Dieselbe Technik steckt in SSD-Festplatten, Speicherkarten und Smartphones. Sie ist schnell und unempfindlich gegen Stöße."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für die Ewigkeit",
+      "absaetze": [
+        "Jede Speicherzelle verträgt nur eine begrenzte Zahl von Schreibvorgängen. Auch lange ungenutzt können Daten mit den Jahren verloren gehen.",
+        "Wichtige Daten solltest du deshalb zusätzlich an einem anderen Ort sichern. Ziehe den Stick am Computer erst nach dem sicheren Auswerfen ab."
+      ],
+      "merke": "Wichtige Daten zusätzlich sichern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Speichertechnik steckt in einem USB-Stick?",
+      "art": "mc",
+      "optionen": [
+        "Flash-Speicher",
+        "Magnetband",
+        "Schallplatte",
+        "Lochkarte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er hat keine beweglichen Teile."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steht in einer Speicherzelle für Null oder Eins?",
+      "art": "mc",
+      "optionen": [
+        "Ob dort Ladung eingeschlossen ist",
+        "Die Farbe der Zelle",
+        "Die Temperatur",
+        "Ein kleiner Magnet allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Elektronen sitzen in einer isolierten Schicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein USB-Stick verliert seine Daten, sobald er abgezogen wird.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Elektronen bleiben auch ohne Strom gefangen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du mit wichtigen Daten tun?",
+      "art": "mc",
+      "optionen": [
+        "Sie zusätzlich an einem anderen Ort sichern",
+        "Nur auf einem Stick lassen",
+        "Sie ausdrucken und löschen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Speicherzellen halten nicht ewig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "USB-Sticks nutzen Flash-Speicher.",
+        "Eingeschlossene Elektronen speichern Nullen und Einsen.",
+        "Die Daten bleiben ohne Strom erhalten.",
+        "Wichtige Daten zusätzlich sichern."
+      ]
+    }
+  ]
+}

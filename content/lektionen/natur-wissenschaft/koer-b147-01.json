@@ -1,0 +1,122 @@
+{
+  "id": "koer-b147-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Wie entsteht Karies?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zahngesundheit",
+      "herausgeber": "Bundeszahnärztekammer",
+      "url": "https://www.bzaek.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "karies",
+    "zaehne",
+    "zucker"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Karies ist eine der häufigsten Krankheiten der Welt.",
+        "Sie entsteht durch ein Zusammenspiel von Bakterien, Zucker und Zeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Säure greift den Zahn an",
+      "absaetze": [
+        "Im Zahnbelag leben Bakterien, die Zucker aus der Nahrung verarbeiten. Dabei bilden sie Säuren.",
+        "Diese Säuren lösen Mineralstoffe aus dem Zahnschmelz. Geschieht das oft und lange, entsteht ein Loch."
+      ],
+      "merke": "Bakterien machen aus Zucker Säure."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufigkeit zählt",
+      "absaetze": [
+        "Entscheidend ist nicht nur die Zuckermenge, sondern wie oft du Süßes isst oder trinkst. Nach jeder Mahlzeit braucht der Speichel Zeit, um die Säuren zu neutralisieren.",
+        "Ständiges Naschen oder Nippen an süßen Getränken gibt den Zähnen keine Pause. Auch Fruchtsäfte und Softdrinks spielen dabei eine Rolle."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So schützt du deine Zähne",
+      "absaetze": [
+        "Putze zweimal täglich mit fluoridhaltiger Zahnpasta. Fluorid härtet den Zahnschmelz und hilft, frühe Schäden zu reparieren.",
+        "Reinige auch die Zahnzwischenräume, etwa mit Zahnseide. Regelmäßige Kontrollen in der Zahnarztpraxis erkennen Karies früh."
+      ],
+      "merke": "Fluorid härtet den Zahnschmelz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bilden Bakterien im Zahnbelag aus Zucker?",
+      "art": "mc",
+      "optionen": [
+        "Säuren",
+        "Vitamine",
+        "Fluorid",
+        "Kalk"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Säuren greifen den Zahnschmelz an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für Karies besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Wie oft du Süßes isst oder trinkst",
+        "Nur die Farbe des Essens",
+        "Die Uhrzeit allein",
+        "Die Temperatur des Wassers"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ständiges Naschen gibt den Zähnen keine Pause."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Fluorid härtet den Zahnschmelz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es hilft auch, frühe Schäden zu reparieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du die Zähne putzen?",
+      "art": "mc",
+      "optionen": [
+        "Zweimal täglich",
+        "Einmal pro Woche",
+        "Nur nach Süßem",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit fluoridhaltiger Zahnpasta."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bakterien bilden aus Zucker Säure.",
+        "Säure löst Mineralien aus dem Zahnschmelz.",
+        "Häufiges Naschen ist besonders schädlich.",
+        "Fluorid und Zahnseide schützen."
+      ]
+    }
+  ]
+}

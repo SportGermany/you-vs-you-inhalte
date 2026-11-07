@@ -1,0 +1,122 @@
+{
+  "id": "all-b147-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum dreht sich die Erde?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Erde und Sonnensystem",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "erdrotation",
+    "tag",
+    "sonnensystem"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Erde dreht sich einmal am Tag um sich selbst, ohne dass wir es spüren.",
+        "Woher kommt diese Drehung eigentlich?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Erbe aus der Entstehung",
+      "absaetze": [
+        "Das Sonnensystem entstand aus einer riesigen Wolke aus Gas und Staub. Als sie sich zusammenzog, begann sie sich immer schneller zu drehen, ähnlich wie eine Eiskunstläuferin, die die Arme anzieht.",
+        "Auch die Planeten, die sich daraus bildeten, übernahmen diesen Drehschwung. Im All gibt es fast keine Reibung, die die Drehung bremst."
+      ],
+      "merke": "Die Drehung stammt aus der Entstehung des Sonnensystems."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum wir nichts spüren",
+      "absaetze": [
+        "Am Äquator bewegt sich der Boden mit weit über tausend Kilometern pro Stunde. Wir spüren das nicht, weil die Bewegung gleichmäßig ist und wir uns mitbewegen.",
+        "Wir sehen die Drehung aber am Himmel. Sonne, Mond und Sterne scheinen über den Himmel zu wandern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Tage werden länger",
+      "absaetze": [
+        "Die Gezeitenkräfte des Mondes bremsen die Erde ganz langsam ab. Dadurch werden die Tage im Laufe von Jahrmillionen etwas länger.",
+        "Zur Zeit der Dinosaurier war ein Tag deshalb kürzer als heute. Für uns ist der Effekt im Alltag aber nicht zu bemerken."
+      ],
+      "merke": "Der Mond bremst die Erddrehung langsam ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die Drehung der Erde?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Entstehung des Sonnensystems",
+        "Vom Wind",
+        "Von den Ozeanen",
+        "Vom Mond allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gas- und Staubwolke drehte sich beim Zusammenziehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum spüren wir die Erddrehung nicht?",
+      "art": "mc",
+      "optionen": [
+        "Die Bewegung ist gleichmäßig und wir bewegen uns mit",
+        "Weil sie zu langsam ist",
+        "Weil die Erde stillsteht",
+        "Weil wir schlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am Himmel können wir sie aber sehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Tage auf der Erde werden im Laufe von Jahrmillionen länger.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Der Mond bremst die Erde ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bremst die Erddrehung langsam ab?",
+      "art": "mc",
+      "optionen": [
+        "Die Gezeitenkräfte des Mondes",
+        "Satelliten",
+        "Flugzeuge",
+        "Vulkane"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zur Zeit der Dinosaurier war ein Tag kürzer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Erddrehung stammt aus der Entstehung des Sonnensystems.",
+        "Im All bremst kaum etwas die Drehung.",
+        "Wir spüren sie nicht, weil sie gleichmäßig ist.",
+        "Der Mond verlängert die Tage ganz langsam."
+      ]
+    }
+  ]
+}

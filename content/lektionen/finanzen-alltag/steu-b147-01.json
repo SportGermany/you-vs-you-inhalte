@@ -1,0 +1,122 @@
+{
+  "id": "steu-b147-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Geschäftsessen von der Steuer absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "bewirtungskosten",
+    "selbststaendige",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Mittagessen mit einem Kunden gehört für viele Selbstständige zum Alltag.",
+        "Das Finanzamt beteiligt sich daran, aber nicht vollständig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur ein Teil zählt",
+      "absaetze": [
+        "Bewirten Unternehmer Geschäftspartner aus betrieblichem Anlass, dürfen sie einen Großteil der Kosten als Betriebsausgaben abziehen. Ein Teil gilt aber als private Ersparnis und bleibt außen vor.",
+        "Die Vorsteuer aus der Rechnung kann bei angemessenen Kosten dagegen meist vollständig geltend gemacht werden."
+      ],
+      "merke": "Nur ein Teil der Bewirtungskosten ist abziehbar."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohne Beleg kein Abzug",
+      "absaetze": [
+        "Das Finanzamt verlangt einen ordnungsgemäßen Beleg. Dazu gehört eine maschinell erstellte Rechnung des Restaurants.",
+        "Zusätzlich müssen Anlass der Bewirtung und Namen der Teilnehmenden festgehalten werden. Fehlen diese Angaben, kann der Abzug ganz entfallen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nicht für Angestellte",
+      "absaetze": [
+        "Als Angestellte kannst du ein Essen mit Kolleginnen und Kollegen in der Regel nicht absetzen. Ausnahmen gibt es etwa, wenn dein Gehalt erfolgsabhängig ist.",
+        "Auch Essen allein im Restaurant zählt nicht als Bewirtung. Auf Dienstreisen gibt es dafür stattdessen Verpflegungspauschalen."
+      ],
+      "merke": "Anlass und Teilnehmende müssen notiert werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel der Bewirtungskosten können Unternehmer absetzen?",
+      "art": "mc",
+      "optionen": [
+        "Einen Großteil, aber nicht alles",
+        "Nichts",
+        "Das Doppelte",
+        "Immer alles"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Teil gilt als private Ersparnis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört zu einem ordnungsgemäßen Beleg?",
+      "art": "mc",
+      "optionen": [
+        "Maschinelle Rechnung, Anlass und Teilnehmende",
+        "Nur ein Foto vom Essen",
+        "Eine Speisekarte",
+        "Ein Trinkgeldzettel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fehlen Angaben, kann der Abzug entfallen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Angestellte können Essen mit Kollegen in der Regel nicht absetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ausnahmen gibt es etwa bei erfolgsabhängigem Gehalt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt es auf Dienstreisen für die eigene Verpflegung?",
+      "art": "mc",
+      "optionen": [
+        "Verpflegungspauschalen",
+        "Bewirtungsabzug",
+        "Nichts",
+        "Ein Essensgeld vom Finanzamt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür gibt es eigene Regeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Unternehmer können Bewirtungskosten großteils absetzen.",
+        "Ein Teil bleibt als private Ersparnis außen vor.",
+        "Beleg mit Anlass und Teilnehmenden ist Pflicht.",
+        "Angestellte können Essen meist nicht absetzen."
+      ]
+    }
+  ]
+}
