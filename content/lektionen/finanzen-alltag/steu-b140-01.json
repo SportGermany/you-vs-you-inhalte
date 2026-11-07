@@ -1,0 +1,128 @@
+{
+  "id": "steu-b140-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Musst du für einen Ferienjob Steuern zahlen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Kurzfristige Minijobs",
+      "herausgeber": "Minijob-Zentrale",
+      "url": "https://www.minijob-zentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ferienjob",
+    "schueler",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Sommerferien jobben viele Schülerinnen und Schüler.",
+        "Ob dabei Steuern anfallen, hängt von der Art des Jobs ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kurzfristig beschäftigt",
+      "absaetze": [
+        "Viele Ferienjobs sind kurzfristige Beschäftigungen. Sie dürfen höchstens drei Monate oder 70 Arbeitstage im Kalenderjahr dauern.",
+        "Dann fallen keine Sozialversicherungsbeiträge an. Lohnsteuer kann trotzdem einbehalten werden, je nach Steuerklasse."
+      ],
+      "merke": "Kurzfristige Jobs sind sozialversicherungsfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuer zurückholen",
+      "absaetze": [
+        "Wer im Jahr wenig verdient, bleibt meist unter dem Grundfreibetrag. Einbehaltene Lohnsteuer bekommst du dann über eine Steuererklärung zurück.",
+        "Dafür hast du vier Jahre Zeit. Die Lohnsteuerbescheinigung vom Arbeitgeber zeigt, wie viel abgezogen wurde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Minijob und Kindergeld",
+      "absaetze": [
+        "Alternativ ist ein Minijob möglich, bei dem meist keine Steuern für dich anfallen. Die genaue Verdienstgrenze ändert sich regelmäßig.",
+        "Das Kindergeld deiner Eltern ist durch einen Ferienjob in der Regel nicht in Gefahr. Während der ersten Ausbildung zählt dein Verdienst dafür nicht."
+      ],
+      "merke": "Einbehaltene Lohnsteuer gibt es oft zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange darf eine kurzfristige Beschäftigung höchstens dauern?",
+      "art": "mc",
+      "optionen": [
+        "Drei Monate oder 70 Arbeitstage im Jahr",
+        "Ein ganzes Jahr",
+        "Zwei Wochen",
+        "Fünf Jahre"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist sie sozialversicherungsfrei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie bekommst du einbehaltene Lohnsteuer zurück?",
+      "art": "mc",
+      "optionen": [
+        "Über eine Steuererklärung",
+        "Gar nicht",
+        "Beim Arbeitgeber an der Kasse",
+        "Über die Schule"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür hast du vier Jahre Zeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Ferienjob gefährdet in der Regel das Kindergeld.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Während der ersten Ausbildung zählt der Verdienst dafür nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt dir, wie viel Lohnsteuer abgezogen wurde?",
+      "art": "mc",
+      "optionen": [
+        "Die Lohnsteuerbescheinigung",
+        "Das Zeugnis",
+        "Der Mietvertrag",
+        "Die Krankenkassenkarte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du bekommst sie vom Arbeitgeber."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viele Ferienjobs sind kurzfristige Beschäftigungen.",
+        "Sie sind sozialversicherungsfrei.",
+        "Einbehaltene Lohnsteuer gibt es oft per Steuererklärung zurück.",
+        "Das Kindergeld bleibt meist unberührt."
+      ]
+    }
+  ]
+}

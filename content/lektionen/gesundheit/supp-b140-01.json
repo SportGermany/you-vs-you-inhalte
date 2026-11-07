@@ -1,0 +1,139 @@
+{
+  "id": "supp-b140-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Krillöl zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "krilloel",
+    "omega-3",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Krillöl wird als moderne Alternative zu Fischöl beworben.",
+        "Es stammt von winzigen Krebstieren aus dem Südpolarmeer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Krill ist",
+      "absaetze": [
+        "Krill sind kleine Krebstiere, die in riesigen Schwärmen im Südpolarmeer leben. Sie sind Nahrung für Wale, Pinguine und Robben.",
+        "Krillöl enthält die Omega-3-Fettsäuren EPA und DHA. Seine rote Farbe stammt vom Farbstoff Astaxanthin."
+      ],
+      "merke": "Krillöl stammt von Krebstieren aus dem Südpolarmeer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besser als Fischöl?",
+      "absaetze": [
+        "Im Krillöl sind die Fettsäuren anders gebunden als im Fischöl. Hersteller behaupten, der Körper könne sie deshalb besser aufnehmen.",
+        "Ob das für die Gesundheit einen Unterschied macht, ist unklar. Pro Kapsel steckt oft weniger Omega-3 drin, dafür ist Krillöl meist teurer."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Umwelt und Vorsicht",
+      "absaetze": [
+        "Krill ist ein Grundpfeiler der Nahrungskette in der Antarktis. Der Fang ist geregelt, Umweltverbände sehen ihn trotzdem kritisch.",
+        "Fetter Seefisch ein- bis zweimal pro Woche liefert ebenfalls Omega-3. Wer auf Krebstiere allergisch ist, sollte Krillöl meiden."
+      ],
+      "merke": "Bei Allergie gegen Krebstiere Krillöl meiden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Allergie gegen Krebstiere nicht verwenden.",
+        "Bei Einnahme von Blutverdünnern nur nach ärztlicher Rücksprache verwenden.",
+        "Vor Operationen ärztlich besprechen, ob eine Pause nötig ist."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Krill?",
+      "art": "mc",
+      "optionen": [
+        "Kleine Krebstiere im Südpolarmeer",
+        "Eine Algenart aus Seen",
+        "Ein Fisch aus der Nordsee",
+        "Eine Pflanze aus dem Regenwald"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie leben in riesigen Schwärmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt die rote Farbe von Krillöl?",
+      "art": "mc",
+      "optionen": [
+        "Vom Farbstoff Astaxanthin",
+        "Von Rote-Bete-Saft",
+        "Von Eisen",
+        "Von Lebensmittelfarbe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Astaxanthin ist ein natürlicher Farbstoff."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist klar belegt, dass Krillöl gesünder ist als Fischöl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ob die andere Bindung einen Vorteil bringt, ist unklar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte Krillöl meiden?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Allergie gegen Krebstiere",
+        "Alle Erwachsenen",
+        "Nur Sportler",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Krill gehört zu den Krebstieren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Krillöl stammt von Krebstieren aus der Antarktis.",
+        "Es enthält die Omega-3-Fettsäuren EPA und DHA.",
+        "Ein Vorteil gegenüber Fischöl ist unklar.",
+        "Bei Krebstier-Allergie meiden."
+      ]
+    }
+  ]
+}

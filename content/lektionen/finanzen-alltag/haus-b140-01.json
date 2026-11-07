@@ -1,0 +1,128 @@
+{
+  "id": "haus-b140-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie hältst du einen Luftbefeuchter sauber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Umwelt und Wohnen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "luftbefeuchter",
+    "hygiene",
+    "raumluft"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Winter ist die Heizungsluft oft trocken, viele stellen dann einen Luftbefeuchter auf.",
+        "Ohne Pflege kann das Gerät aber mehr schaden als nützen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keime im Wassertank",
+      "absaetze": [
+        "In stehendem Wasser vermehren sich Bakterien und Schimmelpilze. Ein schlecht gepflegtes Gerät verteilt sie dann in der Raumluft.",
+        "Ultraschallgeräte können außerdem Kalk als feinen weißen Staub verteilen. Das Umweltbundesamt rät deshalb zu sorgfältiger Pflege."
+      ],
+      "merke": "Ungepflegte Geräte können Keime verteilen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "So pflegst du das Gerät",
+      "absaetze": [
+        "Wechsle das Wasser täglich und lass den Tank zwischendurch trocknen. Entkalke das Gerät regelmäßig, etwa mit Essig oder Zitronensäure.",
+        "Halte dich dabei an die Anleitung des Herstellers. Verdunstergeräte mit austauschbaren Filtern brauchen regelmäßig neue Filter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Brauchst du ihn überhaupt?",
+      "absaetze": [
+        "Eine relative Luftfeuchte zwischen etwa 40 und 60 Prozent gilt als angenehm. Ein günstiges Hygrometer zeigt dir, ob die Luft wirklich zu trocken ist.",
+        "Zu viel Feuchtigkeit fördert Schimmel an den Wänden. Oft reicht es, regelmäßig stoßzulüften und Pflanzen aufzustellen."
+      ],
+      "merke": "Miss zuerst, ob die Luft wirklich zu trocken ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann ein ungepflegter Luftbefeuchter verteilen?",
+      "art": "mc",
+      "optionen": [
+        "Bakterien und Schimmelpilze",
+        "Sauerstoff im Übermaß",
+        "Vitamine",
+        "Duftstoffe aus Rosen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie vermehren sich in stehendem Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft solltest du das Wasser wechseln?",
+      "art": "mc",
+      "optionen": [
+        "Täglich",
+        "Einmal im Jahr",
+        "Nie",
+        "Nur bei Geruch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass den Tank zwischendurch trocknen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu viel Luftfeuchtigkeit kann Schimmel an den Wänden fördern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Mehr ist nicht immer besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit prüfst du die Luftfeuchte?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Hygrometer",
+        "Mit einem Thermometer allein",
+        "Mit einer Waage",
+        "Mit einem Kompass"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es zeigt die relative Luftfeuchte an."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In Luftbefeuchtern können sich Keime vermehren.",
+        "Wechsle das Wasser täglich und entkalke regelmäßig.",
+        "Miss zuerst die Luftfeuchte mit einem Hygrometer.",
+        "Zu viel Feuchtigkeit fördert Schimmel."
+      ]
+    }
+  ]
+}

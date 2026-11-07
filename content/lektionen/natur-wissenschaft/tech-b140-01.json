@@ -1,0 +1,122 @@
+{
+  "id": "tech-b140-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie heizt ein Ölradiator?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "oelradiator",
+    "heizen",
+    "strom"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ölradiatoren sehen aus wie alte Heizkörper auf Rollen.",
+        "Trotz des Namens verbrennen sie kein Öl."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Strom erwärmt Öl",
+      "absaetze": [
+        "Im Inneren sitzt ein elektrisches Heizelement. Es erwärmt ein spezielles Öl, das dicht eingeschlossen ist und nie nachgefüllt werden muss.",
+        "Das Öl verteilt die Wärme in den Rippen des Geräts. Diese geben sie über ihre große Oberfläche an den Raum ab."
+      ],
+      "merke": "Das Öl speichert und verteilt nur die Wärme."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Langsam, aber gleichmäßig",
+      "absaetze": [
+        "Ein Ölradiator braucht eine Weile, bis er warm ist. Dafür gibt er auch nach dem Abschalten noch längere Zeit Wärme ab.",
+        "Er arbeitet leise und wirbelt kaum Staub auf. Das unterscheidet ihn von einem Heizlüfter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Teuer im Dauerbetrieb",
+      "absaetze": [
+        "Ein Ölradiator wandelt Strom fast vollständig in Wärme um. Weil Strom aber teuer ist, kostet Dauerheizen damit viel Geld.",
+        "Er eignet sich deshalb nur für gelegentliche Einsätze. Stecke ihn direkt in die Wandsteckdose und decke ihn nie ab."
+      ],
+      "merke": "Für Dauerbetrieb ist Heizen mit Strom teuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erwärmt das Öl im Ölradiator?",
+      "art": "mc",
+      "optionen": [
+        "Ein elektrisches Heizelement",
+        "Eine Gasflamme",
+        "Sonnenlicht",
+        "Eine Kerze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Öl wird nicht verbrannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Öl im Radiator muss regelmäßig nachgefüllt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist dicht eingeschlossen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Vorteil gegenüber einem Heizlüfter?",
+      "art": "mc",
+      "optionen": [
+        "Er ist leise und wirbelt kaum Staub auf",
+        "Er heizt sofort",
+        "Er braucht keinen Strom",
+        "Er kühlt im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür braucht er länger zum Aufwärmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür eignet sich ein Ölradiator am ehesten?",
+      "art": "mc",
+      "optionen": [
+        "Für gelegentliches Zuheizen",
+        "Als einzige Heizung im Winter",
+        "Zum Kochen",
+        "Zum Trocknen von Wäsche auf dem Gerät"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dauerbetrieb mit Strom ist teuer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Heizelement erwärmt eingeschlossenes Öl.",
+        "Das Öl verteilt die Wärme in den Rippen.",
+        "Er heizt langsam, gibt aber lange Wärme ab.",
+        "Für Dauerbetrieb ist er teuer."
+      ]
+    }
+  ]
+}
