@@ -1,0 +1,122 @@
+{
+  "id": "tech-b143-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Kaffeevollautomat?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sammlungen und Technikgeschichte",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kaffeevollautomat",
+    "kaffee",
+    "kueche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Knopf drücken, und wenig später läuft frischer Kaffee in die Tasse.",
+        "Im Inneren eines Vollautomaten passiert dabei eine ganze Menge."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mahlen und Pressen",
+      "absaetze": [
+        "Zuerst mahlt ein Mahlwerk die Bohnen frisch. Das Pulver fällt in die Brüheinheit und wird dort zu einem festen Kuchen gepresst.",
+        "Eine Pumpe drückt heißes Wasser mit hohem Druck durch das Pulver. Dabei lösen sich Aromen und Öle, und es entsteht eine Crema."
+      ],
+      "merke": "Die Bohnen werden für jede Tasse frisch gemahlen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Milchschaum auf Knopfdruck",
+      "absaetze": [
+        "Für Cappuccino saugt ein System Milch an und mischt sie mit Dampf und Luft. So entsteht feiner Milchschaum.",
+        "Der benutzte Kaffeesatz landet in einem Auffangbehälter. Viele Geräte zeigen an, wann er geleert werden muss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflege ist Pflicht",
+      "absaetze": [
+        "Milchleitungen solltest du täglich spülen, sonst vermehren sich Keime. Die Brüheinheit muss regelmäßig gereinigt werden.",
+        "Kalk aus dem Wasser setzt sich in den Leitungen ab. Entkalke das Gerät deshalb nach Anleitung des Herstellers."
+      ],
+      "merke": "Milchsystem täglich spülen, regelmäßig entkalken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert zuerst im Kaffeevollautomaten?",
+      "art": "mc",
+      "optionen": [
+        "Die Bohnen werden gemahlen",
+        "Die Milch wird gekocht",
+        "Der Kaffee wird gefiltert",
+        "Das Wasser wird eingefroren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Mahlwerk arbeitet für jede Tasse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entsteht die Crema?",
+      "art": "mc",
+      "optionen": [
+        "Heißes Wasser wird mit hohem Druck durch das Pulver gedrückt",
+        "Durch Zucker",
+        "Durch kaltes Wasser",
+        "Durch Schütteln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei lösen sich Aromen und Öle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Milchleitungen müssen nur einmal im Jahr gereinigt werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sollten täglich gespült werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum muss ein Vollautomat entkalkt werden?",
+      "art": "mc",
+      "optionen": [
+        "Kalk aus dem Wasser setzt sich in den Leitungen ab",
+        "Damit der Kaffee süßer wird",
+        "Wegen der Garantie allein",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kalk beeinträchtigt Geschmack und Technik."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Mahlwerk mahlt die Bohnen frisch.",
+        "Wasser wird mit hohem Druck durch das Pulver gepresst.",
+        "Milch wird mit Dampf aufgeschäumt.",
+        "Täglich spülen und regelmäßig entkalken."
+      ]
+    }
+  ]
+}

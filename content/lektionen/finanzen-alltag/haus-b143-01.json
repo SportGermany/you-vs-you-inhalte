@@ -1,0 +1,122 @@
+{
+  "id": "haus-b143-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Laminat richtig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "laminat",
+    "boden",
+    "putzen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Laminat ist pflegeleicht, aber nicht gegen alles unempfindlich.",
+        "Vor allem zu viel Wasser kann ihm schaden."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nebelfeucht statt nass",
+      "absaetze": [
+        "Laminat besteht meist aus einer Trägerplatte aus Holzfasern mit einer Dekorschicht. Dringt Wasser in die Fugen, kann die Platte aufquellen.",
+        "Wische deshalb nur nebelfeucht, also mit einem gut ausgewrungenen Tuch. Pfützen solltest du sofort aufnehmen."
+      ],
+      "merke": "Laminat nur nebelfeucht wischen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst saugen, dann wischen",
+      "absaetze": [
+        "Sand und Krümel wirken wie Schmirgelpapier. Sauge oder fege deshalb vor dem Wischen gründlich.",
+        "Zum Wischen reicht meist klares Wasser, bei Bedarf mit einem milden Reiniger. Wachs, Öl oder scheuernde Mittel sind für Laminat ungeeignet."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kratzer vermeiden",
+      "absaetze": [
+        "Klebe Filzgleiter unter Stuhl- und Tischbeine. Eine Fußmatte am Eingang fängt Steinchen ab.",
+        "Bürostühle sollten weiche Rollen haben oder auf einer Schutzmatte stehen. Dampfreiniger sind für die meisten Laminatböden ungeeignet."
+      ],
+      "merke": "Filzgleiter schützen vor Kratzern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du Laminat wischen?",
+      "art": "mc",
+      "optionen": [
+        "Nebelfeucht mit gut ausgewrungenem Tuch",
+        "Klatschnass",
+        "Mit viel Seifenwasser",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wasser in den Fugen lässt die Platten aufquellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du vor dem Wischen saugen?",
+      "art": "mc",
+      "optionen": [
+        "Sand und Krümel wirken wie Schmirgelpapier",
+        "Damit der Boden glänzt",
+        "Wegen des Geruchs",
+        "Das ist unnötig"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du Kratzer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wachs ist ein gutes Pflegemittel für Laminat.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wachs, Öl und Scheuermittel sind ungeeignet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was schützt Laminat vor Kratzern durch Möbel?",
+      "art": "mc",
+      "optionen": [
+        "Filzgleiter",
+        "Metallkappen",
+        "Klebeband",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gehören unter Stuhl- und Tischbeine."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Laminat nur nebelfeucht wischen.",
+        "Vorher saugen oder fegen.",
+        "Kein Wachs, Öl oder Scheuermittel verwenden.",
+        "Filzgleiter schützen vor Kratzern."
+      ]
+    }
+  ]
+}

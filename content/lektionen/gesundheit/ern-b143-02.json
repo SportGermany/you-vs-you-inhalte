@@ -1,0 +1,129 @@
+{
+  "id": "ern-b143-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Worauf solltest du bei Thunfisch achten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "thunfisch",
+    "fisch",
+    "quecksilber"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Thunfisch aus der Dose ist praktisch und beliebt.",
+        "Bei diesem Raubfisch gibt es aber ein paar Dinge zu bedenken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Quecksilber in großen Raubfischen",
+      "absaetze": [
+        "Thunfische stehen weit oben in der Nahrungskette. Dadurch reichern sie Methylquecksilber aus dem Meer an.",
+        "Für Schwangere und Stillende rät das BfR, große Raubfische wie Thunfisch nur selten zu essen. Quecksilber kann die Entwicklung des Nervensystems beim Kind stören."
+      ],
+      "merke": "Thunfisch kann Quecksilber anreichern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dose ist nicht gleich Dose",
+      "absaetze": [
+        "In Dosen steckt oft Echter Bonito, eine kleinere Thunfischart. Er enthält meist weniger Quecksilber als große Arten.",
+        "Thunfisch in Wasser hat weniger Fett als Thunfisch in Öl. Omega-3-Fettsäuren liefert er dennoch weniger als Lachs oder Hering."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nachhaltig einkaufen",
+      "absaetze": [
+        "Manche Thunfischbestände sind überfischt, andere haben sich dank strenger Fangmengen erholt. Auf der Verpackung stehen Art und Fanggebiet.",
+        "Siegel und Fischratgeber von Verbraucher- und Umweltverbänden helfen bei der Auswahl. Fettreiche Kleinfische wie Hering sind oft die bessere Wahl."
+      ],
+      "merke": "Art und Fanggebiet stehen auf der Packung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Schadstoff reichern große Thunfische an?",
+      "art": "mc",
+      "optionen": [
+        "Methylquecksilber",
+        "Koffein",
+        "Alkohol",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie stehen weit oben in der Nahrungskette."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wem rät das BfR, Thunfisch nur selten zu essen?",
+      "art": "mc",
+      "optionen": [
+        "Schwangeren und Stillenden",
+        "Sportlern",
+        "Allen Männern",
+        "Niemandem"
+      ],
+      "richtig": 0,
+      "erklaerung": "Quecksilber kann die Entwicklung des Kindes stören."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Echter Bonito aus der Dose enthält meist weniger Quecksilber als große Thunfischarten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er ist eine kleinere Art."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was steht auf der Verpackung von Thunfisch?",
+      "art": "mc",
+      "optionen": [
+        "Art und Fanggebiet",
+        "Das Alter des Fisches",
+        "Der Name des Fischers",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kannst du nachhaltiger einkaufen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Thunfisch kann Quecksilber anreichern.",
+        "Schwangere sollten ihn nur selten essen.",
+        "Echter Bonito ist meist weniger belastet.",
+        "Auf Art und Fanggebiet achten."
+      ]
+    }
+  ]
+}

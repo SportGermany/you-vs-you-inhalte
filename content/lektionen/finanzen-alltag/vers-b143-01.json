@@ -1,0 +1,122 @@
+{
+  "id": "vers-b143-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Welche Rechte hast du beim Kauf von privat?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "privatkauf",
+    "gewaehrleistung",
+    "kleinanzeigen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Gebrauchtes von privat zu kaufen, ist günstig und nachhaltig.",
+        "Dafür hast du weniger Rechte als beim Kauf im Geschäft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewährleistung oft ausgeschlossen",
+      "absaetze": [
+        "Private Verkäufer dürfen die Gewährleistung ausschließen. Typisch sind Formulierungen wie gekauft wie gesehen.",
+        "Dann kannst du bei späteren Mängeln meist keine Reparatur oder Rückgabe verlangen. Ein Widerrufsrecht wie im Onlinehandel gibt es beim Privatkauf auch nicht."
+      ],
+      "merke": "Privatverkäufer dürfen die Gewährleistung ausschließen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo der Ausschluss endet",
+      "absaetze": [
+        "Verschweigt der Verkäufer bewusst einen Mangel, den er kennt, hilft ihm der Ausschluss nicht. Das gilt als arglistig.",
+        "Auch was ausdrücklich zugesichert wurde, muss stimmen. Wird etwa unfallfrei versprochen, darf das Auto keinen Unfall gehabt haben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So sicherst du dich ab",
+      "absaetze": [
+        "Schau dir die Ware vor dem Kauf genau an und teste sie. Lass dir wichtige Eigenschaften schriftlich bestätigen.",
+        "Ein einfacher Kaufvertrag hält fest, was vereinbart wurde. Bei hohen Summen ist Vorsicht vor Vorkasse an Unbekannte angebracht."
+      ],
+      "merke": "Zusicherungen schriftlich festhalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet gekauft wie gesehen meist?",
+      "art": "mc",
+      "optionen": [
+        "Die Gewährleistung ist ausgeschlossen",
+        "Du darfst innerhalb von 14 Tagen widerrufen",
+        "Der Verkäufer haftet für alles",
+        "Die Ware ist neu"
+      ],
+      "richtig": 0,
+      "erklaerung": "Private Verkäufer dürfen das vereinbaren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Privatkauf gibt es ein Widerrufsrecht wie im Onlinehandel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das gilt nur bei Käufen von Unternehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann hilft der Ausschluss dem Verkäufer nicht?",
+      "art": "mc",
+      "optionen": [
+        "Wenn er einen bekannten Mangel bewusst verschweigt",
+        "Wenn es regnet",
+        "Wenn der Käufer bar zahlt",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt als arglistig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du dir schriftlich bestätigen lassen?",
+      "art": "mc",
+      "optionen": [
+        "Wichtige Eigenschaften der Ware",
+        "Das Lieblingsessen des Verkäufers",
+        "Die Wettervorhersage",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zugesicherte Eigenschaften müssen stimmen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Privatverkäufer dürfen die Gewährleistung ausschließen.",
+        "Ein Widerrufsrecht gibt es nicht.",
+        "Bewusst verschwiegene Mängel bleiben ein Problem für den Verkäufer.",
+        "Zusicherungen schriftlich festhalten."
+      ]
+    }
+  ]
+}

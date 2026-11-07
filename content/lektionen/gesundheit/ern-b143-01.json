@@ -1,0 +1,129 @@
+{
+  "id": "ern-b143-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Tofu?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tofu",
+    "soja",
+    "pflanzliches-eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tofu ist für viele der Inbegriff vegetarischer Küche.",
+        "In China wird er seit rund 2.000 Jahren hergestellt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Tofu entsteht",
+      "absaetze": [
+        "Tofu wird aus Sojamilch gemacht, die mit einem Gerinnungsmittel dick gelegt wird. Ähnlich wie bei der Käseherstellung wird der Bruch dann gepresst.",
+        "Als Gerinnungsmittel dienen etwa Nigari aus Meerwasser oder Calciumsulfat. Seidentofu ist weicher, weil er nicht gepresst wird."
+      ],
+      "merke": "Tofu ist geronnene, gepresste Sojamilch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Tofu liefert hochwertiges Eiweiß mit allen unentbehrlichen Aminosäuren. Dazu kommen Eisen und Magnesium.",
+        "Wird er mit Calciumsulfat hergestellt, enthält er auch viel Kalzium. Das steht in der Zutatenliste."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Isoflavone im Blick",
+      "absaetze": [
+        "Soja enthält Isoflavone, die schwach wie Hormone wirken können. In üblichen Mengen aus Lebensmitteln gelten sie für Gesunde als unbedenklich.",
+        "Vorsicht ist eher bei hoch dosierten Isoflavon-Präparaten geboten. Natur-Tofu schmeckt mild und nimmt Marinaden gut auf."
+      ],
+      "merke": "Tofu aus Lebensmitteln gilt als unbedenklich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Tofu hergestellt?",
+      "art": "mc",
+      "optionen": [
+        "Aus Sojamilch",
+        "Aus Kuhmilch",
+        "Aus Reis",
+        "Aus Weizenmehl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird mit einem Gerinnungsmittel dick gelegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Seidentofu so weich?",
+      "art": "mc",
+      "optionen": [
+        "Er wird nicht gepresst",
+        "Er enthält Sahne",
+        "Er wird gekocht",
+        "Er ist aus Seide"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fester Tofu wird gepresst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tofu mit Calciumsulfat enthält viel Kalzium.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Blick auf die Zutatenliste lohnt sich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wobei ist bei Isoflavonen eher Vorsicht geboten?",
+      "art": "mc",
+      "optionen": [
+        "Bei hoch dosierten Präparaten",
+        "Bei einer Portion Tofu",
+        "Bei Sojasoße zum Sushi",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Lebensmittelmengen gelten sie als unbedenklich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tofu ist geronnene, gepresste Sojamilch.",
+        "Er liefert hochwertiges Eiweiß.",
+        "Mit Calciumsulfat enthält er viel Kalzium.",
+        "Isoflavone aus Lebensmitteln gelten als unbedenklich."
+      ]
+    }
+  ]
+}

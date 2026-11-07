@@ -1,0 +1,123 @@
+{
+  "id": "schlaf-b143-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Hilft eine Wärmflasche beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "waermflasche",
+    "einschlafen",
+    "kalte-fuesse"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit kalten Füßen fällt das Einschlafen schwer.",
+        "Eine Wärmflasche ist ein altes Hausmittel dagegen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warme Füße, kühler Körper",
+      "absaetze": [
+        "Zum Einschlafen sinkt die Körperkerntemperatur leicht ab. Dafür weiten sich Gefäße an Händen und Füßen und geben Wärme ab.",
+        "Warme Füße erleichtern diesen Wärmeaustausch. Studien deuten darauf hin, dass Menschen mit warmen Füßen schneller einschlafen."
+      ],
+      "merke": "Warme Füße helfen dem Körper, Wärme abzugeben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig einsetzen",
+      "absaetze": [
+        "Lege die Wärmflasche vorher ins Bett oder an die Füße. Zu viel Hitze am ganzen Körper kann das Einschlafen dagegen stören.",
+        "Auch warme Socken können helfen. Sie wirken ähnlich, ohne dass etwas abkühlt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit geht vor",
+      "absaetze": [
+        "Fülle die Wärmflasche nicht mit kochendem Wasser und lass die Luft vor dem Verschließen heraus. Wickle sie in einen Bezug, damit du dich nicht verbrennst.",
+        "Prüfe das Herstellungsdatum, alte Wärmflaschen können undicht werden. Menschen mit Gefühlsstörungen in den Füßen, etwa bei Diabetes, sollten besonders vorsichtig sein."
+      ],
+      "merke": "Nie mit kochendem Wasser füllen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert beim Einschlafen mit der Körperkerntemperatur?",
+      "art": "mc",
+      "optionen": [
+        "Sie sinkt leicht ab",
+        "Sie steigt stark an",
+        "Sie bleibt genau gleich",
+        "Sie schwankt wild"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gibt der Körper über Hände und Füße Wärme ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Studien deuten darauf hin, dass warme Füße das Einschlafen erleichtern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie erleichtern den Wärmeaustausch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit solltest du eine Wärmflasche nicht füllen?",
+      "art": "mc",
+      "optionen": [
+        "Mit kochendem Wasser",
+        "Mit warmem Leitungswasser",
+        "Mit heißem, aber nicht kochendem Wasser",
+        "Mit nichts davon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst drohen Verbrühungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte mit Wärmflaschen besonders vorsichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Gefühlsstörungen in den Füßen",
+        "Alle Sportler",
+        "Kinder mit kalten Händen",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie spüren Hitze schlechter."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Warme Füße erleichtern das Einschlafen.",
+        "Der Körper gibt dabei Wärme ab und kühlt innen leicht.",
+        "Auch warme Socken können helfen.",
+        "Nie mit kochendem Wasser füllen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "geld-b143-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was misst der Gender Pay Gap?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verdienste",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gender-pay-gap",
+    "einkommen",
+    "aktuell"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Frauen verdienen in Deutschland im Schnitt weniger pro Stunde als Männer.",
+        "Der Gender Pay Gap macht diesen Unterschied sichtbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Zahlen",
+      "absaetze": [
+        "Der unbereinigte Gender Pay Gap vergleicht den durchschnittlichen Bruttostundenlohn von Frauen und Männern. Er liegt in Deutschland seit Jahren im zweistelligen Prozentbereich.",
+        "Der bereinigte Wert berücksichtigt Unterschiede bei Beruf, Branche, Arbeitszeit und Erfahrung. Er ist deutlich kleiner, verschwindet aber nicht."
+      ],
+      "merke": "Es gibt einen unbereinigten und einen bereinigten Wert."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Woher die Lücke kommt",
+      "absaetze": [
+        "Frauen arbeiten häufiger in Teilzeit und in schlechter bezahlten Branchen. In Führungspositionen sind sie seltener vertreten.",
+        "Auszeiten für Kinder oder Pflege bremsen oft die Karriere. Ein Teil der Lücke lässt sich mit solchen Faktoren nicht erklären."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen bis ins Alter",
+      "absaetze": [
+        "Wer weniger verdient, zahlt weniger in die Rente ein. Die Rentenlücke zwischen Frauen und Männern ist deshalb noch größer als die Lohnlücke.",
+        "In Betrieben mit mehr als 200 Beschäftigten kannst du erfragen, wie vergleichbare Kollegen bezahlt werden. Eine EU-Richtlinie soll die Lohntransparenz weiter stärken."
+      ],
+      "merke": "Die Rentenlücke ist noch größer als die Lohnlücke."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was vergleicht der unbereinigte Gender Pay Gap?",
+      "art": "mc",
+      "optionen": [
+        "Den durchschnittlichen Bruttostundenlohn von Frauen und Männern",
+        "Die Zahl der Urlaubstage",
+        "Die Steuerklassen",
+        "Die Mieten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er zeigt den Unterschied im Durchschnitt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der bereinigte Gender Pay Gap ist null.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist kleiner, verschwindet aber nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was trägt zur Lohnlücke bei?",
+      "art": "mc",
+      "optionen": [
+        "Mehr Teilzeit und schlechter bezahlte Branchen",
+        "Unterschiedliche Steuersätze",
+        "Längere Schulzeit",
+        "Höhere Mieten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Auszeiten für Kinder spielen eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist noch größer als die Lohnlücke?",
+      "art": "mc",
+      "optionen": [
+        "Die Rentenlücke",
+        "Die Zinslücke",
+        "Die Mietlücke",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Weniger Lohn bedeutet weniger Rentenansprüche."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Gender Pay Gap misst Unterschiede im Stundenlohn.",
+        "Der bereinigte Wert ist kleiner, aber nicht null.",
+        "Teilzeit und Branchen erklären einen Teil.",
+        "Die Rentenlücke ist noch größer."
+      ]
+    }
+  ]
+}
