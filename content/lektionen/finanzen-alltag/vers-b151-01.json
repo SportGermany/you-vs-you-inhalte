@@ -1,0 +1,134 @@
+{
+  "id": "vers-b151-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was gilt, wenn du im Job krank wirst?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Krankengeld",
+      "herausgeber": "GKV-Spitzenverband",
+      "url": "https://www.gkv-spitzenverband.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "krankschreibung",
+    "arbeitsrecht",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fieber am Montagmorgen, an Arbeit ist nicht zu denken.",
+        "Damit du keinen Ärger bekommst und dein Geld weiterläuft, gibt es ein paar klare Regeln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sofort Bescheid geben",
+      "absaetze": [
+        "Du musst deinem Arbeitgeber unverzüglich mitteilen, dass du krank bist und wie lange es voraussichtlich dauert. Den Grund der Krankheit musst du nicht nennen.",
+        "Dauert die Krankheit länger als drei Kalendertage, brauchst du eine ärztliche Bescheinigung. Dein Arbeitgeber darf sie auch früher verlangen."
+      ],
+      "merke": "Melde dich sofort krank, der Grund bleibt privat."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die elektronische Krankmeldung",
+      "absaetze": [
+        "Seit 2023 gibt es für gesetzlich Versicherte die elektronische Arbeitsunfähigkeitsbescheinigung. Der Arbeitgeber ruft sie direkt bei der Krankenkasse ab.",
+        "Den gelben Zettel musst du deshalb nicht mehr selbst abgeben. Krankmelden musst du dich aber trotzdem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer zahlt wie lange?",
+      "absaetze": [
+        "Dein Arbeitgeber zahlt dein Gehalt bei Krankheit bis zu sechs Wochen weiter. Voraussetzung ist, dass du schon mindestens vier Wochen dort arbeitest.",
+        "Danach zahlt die gesetzliche Krankenkasse Krankengeld. Es ist niedriger als dein Nettogehalt."
+      ],
+      "merke": "Sechs Wochen Lohnfortzahlung, danach Krankengeld."
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Während einer Krankschreibung darf dir nicht gekündigt werden.",
+      "urteil": "mythos",
+      "erklaerung": "Eine Kündigung ist auch während einer Krankheit möglich. Die Krankschreibung allein schützt nicht davor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Musst du deinem Arbeitgeber sagen, welche Krankheit du hast?",
+      "art": "mc",
+      "optionen": [
+        "Nein, nur dass und wie lange du ausfällst",
+        "Ja, immer",
+        "Ja, schriftlich",
+        "Nur bei Erkältungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Grund bleibt privat."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ab wann brauchst du spätestens eine ärztliche Bescheinigung?",
+      "art": "mc",
+      "optionen": [
+        "Wenn die Krankheit länger als drei Kalendertage dauert",
+        "Erst nach drei Wochen",
+        "Nie",
+        "Schon nach einer Stunde"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Arbeitgeber darf sie auch früher verlangen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange zahlt der Arbeitgeber das Gehalt in der Regel weiter?",
+      "art": "mc",
+      "optionen": [
+        "Bis zu sechs Wochen",
+        "Zwei Tage",
+        "Ein Jahr",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach folgt Krankengeld von der Krankenkasse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Während einer Krankschreibung ist eine Kündigung ausgeschlossen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Krankschreibung allein schützt nicht vor einer Kündigung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Melde dich sofort krank, ohne den Grund zu nennen.",
+        "Ab dem vierten Tag brauchst du eine ärztliche Bescheinigung.",
+        "Der Arbeitgeber ruft die Krankmeldung elektronisch ab.",
+        "Nach sechs Wochen Lohnfortzahlung kommt Krankengeld."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "all-b151-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Vergeht die Zeit im All anders als auf der Erde?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zeit und Frequenz",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "relativitaet",
+    "zeit",
+    "gps"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zeit scheint für alle gleich schnell zu vergehen.",
+        "Albert Einstein zeigte jedoch, dass das nicht stimmt, und dein Handy nutzt das jeden Tag."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewegung bremst die Zeit",
+      "absaetze": [
+        "Nach Einsteins Relativitätstheorie gehen Uhren, die sich schnell bewegen, langsamer. Im Alltag ist der Effekt winzig.",
+        "Astronautinnen und Astronauten auf der ISS altern deshalb minimal langsamer. Nach einem halben Jahr macht das nur Bruchteile einer Sekunde aus."
+      ],
+      "merke": "Schnell bewegte Uhren gehen langsamer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schwerkraft verändert die Zeit",
+      "absaetze": [
+        "Auch die Schwerkraft beeinflusst die Zeit. Je schwächer sie wirkt, desto schneller gehen Uhren.",
+        "Moderne Atomuhren messen den Unterschied schon bei weniger als einem Meter Höhenunterschied. In der Physikalisch-Technischen Bundesanstalt stehen einige der genauesten Uhren der Welt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum GPS das braucht",
+      "absaetze": [
+        "Navigationssatelliten kreisen hoch über der Erde und sind sehr schnell. Unterm Strich gehen ihre Uhren etwa 38 Mikrosekunden pro Tag vor.",
+        "Ohne Korrektur würde die Ortung jeden Tag um Kilometer danebenliegen. Die Relativitätstheorie steckt also in jeder Navigations-App."
+      ],
+      "merke": "Ohne Relativitätstheorie würde GPS nicht funktionieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie gehen schnell bewegte Uhren?",
+      "art": "mc",
+      "optionen": [
+        "Langsamer",
+        "Schneller",
+        "Gar nicht",
+        "Rückwärts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das folgt aus Einsteins Relativitätstheorie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wirkt schwächere Schwerkraft auf Uhren?",
+      "art": "mc",
+      "optionen": [
+        "Sie gehen schneller",
+        "Sie bleiben stehen",
+        "Sie gehen langsamer",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hoch über der Erde ist die Schwerkraft schwächer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Zeitunterschiede bei Satelliten sind für GPS bedeutungslos.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ohne Korrektur läge die Ortung täglich um Kilometer daneben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel jünger bleibt man nach einem halben Jahr auf der ISS etwa?",
+      "art": "mc",
+      "optionen": [
+        "Bruchteile einer Sekunde",
+        "Ein Jahr",
+        "Einen Monat",
+        "Einen Tag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Alltag ist der Effekt winzig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bewegung und Schwerkraft beeinflussen die Zeit.",
+        "Auf der ISS altert man minimal langsamer.",
+        "Atomuhren messen schon kleine Höhenunterschiede.",
+        "GPS muss die Effekte ständig korrigieren."
+      ]
+    }
+  ]
+}

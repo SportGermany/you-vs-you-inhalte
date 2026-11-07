@@ -1,0 +1,140 @@
+{
+  "id": "supp-b151-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Rotklee-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Frauengesundheit",
+      "herausgeber": "Deutsche Gesellschaft für Gynäkologie und Geburtshilfe (DGGG)",
+      "url": "https://www.dggg.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rotklee",
+    "isoflavone",
+    "wechseljahre"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rotklee wächst auf vielen Wiesen. In Kapseln wird er gegen Beschwerden in den Wechseljahren angeboten.",
+        "Was ist dran an diesem Versprechen?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pflanzenstoffe mit Östrogen-Ähnlichkeit",
+      "absaetze": [
+        "Rotklee enthält Isoflavone. Diese Stoffe ähneln dem Hormon Östrogen und können im Körper möglicherweise schwach ähnlich wirken.",
+        "Deshalb wird Rotklee gegen Hitzewallungen beworben. Ob das tatsächlich hilft, ist unklar."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Uneinheitliche Studien",
+      "absaetze": [
+        "Einige Studien deuten auf eine leichte Wirkung bei Hitzewallungen hin, andere finden keinen Unterschied zu Scheinpräparaten. Viele Untersuchungen sind klein und kurz.",
+        "Fachgesellschaften sehen deshalb keinen sicheren Nutzen. Es gibt Hinweise, dass ein Teil der Wirkung auf Erwartung beruht."
+      ],
+      "merke": "Ein Nutzen gegen Hitzewallungen ist nicht gesichert.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit auf lange Sicht",
+      "absaetze": [
+        "Das BfR weist darauf hin, dass hoch konzentrierte Isoflavone über lange Zeit nicht ausreichend untersucht sind. Mögliche Folgen für Brustgewebe und Schilddrüse sind unklar.",
+        "Sprich vor der Anwendung mit deiner Ärztin oder deinem Arzt. Das gilt besonders bei hormonabhängigen Erkrankungen."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei hormonabhängigen Erkrankungen nur nach ärztlicher Rücksprache.",
+        "Nicht für Schwangere, Stillende, Kinder und Jugendliche gedacht.",
+        "Mögliche Wechselwirkungen mit Medikamenten ärztlich klären."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Stoffe im Rotklee stehen im Mittelpunkt?",
+      "art": "mc",
+      "optionen": [
+        "Isoflavone",
+        "Koffein",
+        "Omega-3-Fettsäuren",
+        "Vitamin B12"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ähneln dem Hormon Östrogen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist eine Wirkung gegen Hitzewallungen gesichert?",
+      "art": "mc",
+      "optionen": [
+        "Nein, die Studien sind uneinheitlich",
+        "Ja, eindeutig",
+        "Ja, bei allen Frauen",
+        "Ja, besser als jede Therapie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Studien sind klein und kurz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hoch konzentrierte Isoflavone sind auf lange Sicht gut untersucht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das BfR sieht hier Wissenslücken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist ärztlicher Rat besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Bei hormonabhängigen Erkrankungen",
+        "Nur bei Erkältung",
+        "Nie",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Isoflavone ähneln Östrogen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rotklee enthält östrogenähnliche Isoflavone.",
+        "Ein Nutzen gegen Hitzewallungen ist unklar.",
+        "Langzeitfolgen hoher Mengen sind wenig erforscht.",
+        "Vor der Anwendung ärztlichen Rat einholen."
+      ]
+    }
+  ]
+}

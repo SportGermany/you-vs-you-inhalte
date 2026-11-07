@@ -1,0 +1,122 @@
+{
+  "id": "tech-b151-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was ist ein Captcha?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sicher im Netz",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "captcha",
+    "internet",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wähle alle Bilder mit Ampeln aus. Solche Aufgaben kennst du von vielen Webseiten.",
+        "Sie sollen herausfinden, ob vor dem Bildschirm ein Mensch sitzt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Test für Menschen",
+      "absaetze": [
+        "Captcha ist eine Abkürzung aus dem Englischen. Sinngemäß steht sie für einen automatischen Test, der Computer und Menschen unterscheidet.",
+        "Captchas entstanden Anfang der 2000er-Jahre an der Carnegie Mellon University. Sie sollten etwa verhindern, dass Programme massenhaft E-Mail-Konten anlegen."
+      ],
+      "merke": "Captchas sollen Menschen von Programmen unterscheiden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Von verzerrten Wörtern zu Bildern",
+      "absaetze": [
+        "Frühe Captchas zeigten verzerrte Buchstaben. Eine Variante nutzte die Eingaben sogar, um alte Bücher zu digitalisieren.",
+        "Heute laufen viele Prüfungen unsichtbar im Hintergrund. Sie werten etwa aus, wie sich die Maus bewegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Wettlauf mit der KI",
+      "absaetze": [
+        "Moderne KI kann viele Bild- und Text-Captchas inzwischen lösen. Deshalb werden die Verfahren ständig verändert.",
+        "Für Menschen mit Sehbehinderung sind Captchas oft eine Hürde. Gute Webseiten bieten deshalb Alternativen wie Audio-Aufgaben an."
+      ],
+      "merke": "Captchas sind ein ständiger Wettlauf mit Maschinen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient ein Captcha?",
+      "art": "mc",
+      "optionen": [
+        "Es soll Menschen von Programmen unterscheiden",
+        "Es misst die Internetgeschwindigkeit",
+        "Es speichert Passwörter",
+        "Es blockiert Werbung"
+      ],
+      "richtig": 0,
+      "erklaerung": "So sollen automatisierte Angriffe erschwert werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurden Captchas entwickelt?",
+      "art": "mc",
+      "optionen": [
+        "An der Carnegie Mellon University",
+        "Bei der NASA",
+        "Am CERN",
+        "In einer Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das war Anfang der 2000er-Jahre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Moderne KI kann viele Captchas lösen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb werden die Verfahren ständig verändert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft Menschen mit Sehbehinderung?",
+      "art": "mc",
+      "optionen": [
+        "Alternativen wie Audio-Aufgaben",
+        "Mehr Bilder",
+        "Kleinere Schrift",
+        "Kürzere Zeitlimits"
+      ],
+      "richtig": 0,
+      "erklaerung": "Barrierefreiheit ist bei Captchas wichtig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Captchas unterscheiden Menschen von Programmen.",
+        "Sie entstanden Anfang der 2000er-Jahre.",
+        "Viele Prüfungen laufen heute unsichtbar.",
+        "KI macht ständig neue Verfahren nötig."
+      ]
+    }
+  ]
+}

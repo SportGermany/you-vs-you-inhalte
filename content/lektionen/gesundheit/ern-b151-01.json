@@ -1,0 +1,129 @@
+{
+  "id": "ern-b151-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Edamame?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "edamame",
+    "soja",
+    "huelsenfruechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Edamame kennen viele als grüne Schoten, die im japanischen Restaurant als Snack kommen.",
+        "Dahinter steckt eine Hülsenfrucht, die du vielleicht unter anderem Namen kennst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Junge Sojabohnen",
+      "absaetze": [
+        "Edamame sind unreif geerntete Sojabohnen. Sie werden samt Schote gegart und meist leicht gesalzen serviert.",
+        "Gegessen werden nur die Bohnen. Die zähe Schote bleibt übrig, so wie bei Erbsen aus der Hülse."
+      ],
+      "merke": "Edamame sind junge, grüne Sojabohnen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viel Eiweiß und Ballaststoffe",
+      "absaetze": [
+        "Wie andere Hülsenfrüchte liefern Edamame reichlich pflanzliches Eiweiß und Ballaststoffe. Dazu kommen Folat und Vitamin K.",
+        "Damit sind sie eine sättigende Beilage oder ein Snack, der länger vorhält als Chips."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Immer gegart essen",
+      "absaetze": [
+        "Rohe Sojabohnen enthalten Stoffe, die die Verdauung von Eiweiß hemmen und Beschwerden auslösen können. Beim Kochen werden sie unschädlich.",
+        "Tiefgekühlte Edamame sind meist schon vorgegart. Wer eine Sojaallergie hat, sollte sie meiden."
+      ],
+      "merke": "Sojabohnen nie roh essen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Edamame?",
+      "art": "mc",
+      "optionen": [
+        "Unreif geerntete Sojabohnen",
+        "Japanische Erbsen",
+        "Grüne Linsen",
+        "Junge Erdnüsse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden samt Schote gegart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Schote der Edamame wird normalerweise mitgegessen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist zäh, gegessen werden nur die Bohnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sollten Sojabohnen gegart werden?",
+      "art": "mc",
+      "optionen": [
+        "Rohe Bohnen enthalten Stoffe, die Beschwerden auslösen können",
+        "Sonst schmecken sie süß",
+        "Damit sie grün bleiben",
+        "Damit die Schote weich wird"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Kochen werden diese Stoffe unschädlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefern Edamame reichlich?",
+      "art": "mc",
+      "optionen": [
+        "Pflanzliches Eiweiß und Ballaststoffe",
+        "Vor allem Zucker",
+        "Vor allem Fett",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das macht sie gut sättigend."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Edamame sind junge Sojabohnen.",
+        "Gegessen werden die Bohnen, nicht die Schote.",
+        "Sie liefern Eiweiß, Ballaststoffe und Folat.",
+        "Sojabohnen nur gegart essen."
+      ]
+    }
+  ]
+}

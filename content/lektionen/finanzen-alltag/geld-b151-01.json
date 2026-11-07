@@ -1,0 +1,128 @@
+{
+  "id": "geld-b151-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind Optionsscheine?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherschutz",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "optionsscheine",
+    "derivate",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit kleinem Einsatz viel Geld verdienen: So werben manche Anbieter für Optionsscheine.",
+        "Dahinter steckt ein Finanzprodukt mit hohem Risiko."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Recht auf Zeit",
+      "absaetze": [
+        "Ein Optionsschein gibt dir das Recht, einen Basiswert zu einem festen Preis zu kaufen oder zu verkaufen. Basiswert kann etwa eine Aktie oder ein Index sein.",
+        "Mit Call-Scheinen setzt du auf steigende Kurse, mit Put-Scheinen auf fallende. Jeder Schein hat ein festes Ablaufdatum."
+      ],
+      "merke": "Optionsscheine sind Wetten mit Ablaufdatum."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Hebel wirkt in beide Richtungen",
+      "absaetze": [
+        "Optionsscheine reagieren stärker auf Kursbewegungen als der Basiswert selbst. Gewinne können dadurch schnell wachsen.",
+        "Verluste aber genauso. Endet die Laufzeit ungünstig, kann der Schein komplett wertlos verfallen."
+      ],
+      "merke": "Ein Totalverlust ist möglich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Risiken",
+      "absaetze": [
+        "Der Preis hängt auch von der Restlaufzeit und den erwarteten Kursschwankungen ab. Das macht ihn für Laien schwer einzuschätzen.",
+        "Optionsscheine sind Schuldverschreibungen der ausgebenden Bank. Geht sie pleite, droht ebenfalls ein Verlust. Für den Vermögensaufbau sind breit gestreute Anlagen meist besser geeignet."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf setzt du mit einem Call-Optionsschein?",
+      "art": "mc",
+      "optionen": [
+        "Auf steigende Kurse",
+        "Auf fallende Kurse",
+        "Auf gleichbleibende Zinsen",
+        "Auf das Wetter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit Put-Scheinen setzt du auf fallende Kurse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Optionsscheine haben kein Ablaufdatum.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Jeder Schein hat eine feste Laufzeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann am Ende der Laufzeit passieren?",
+      "art": "mc",
+      "optionen": [
+        "Der Schein verfällt wertlos",
+        "Er wird automatisch zum Sparbuch",
+        "Er verdoppelt sich immer",
+        "Er wird vom Staat erstattet"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Totalverlust ist möglich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn die ausgebende Bank pleitegeht?",
+      "art": "mc",
+      "optionen": [
+        "Es droht ein Verlust",
+        "Die Einlagensicherung zahlt alles",
+        "Der Schein steigt im Wert",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Optionsscheine sind Schuldverschreibungen der Bank."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Optionsscheine geben ein Recht mit Ablaufdatum.",
+        "Der Hebel verstärkt Gewinne und Verluste.",
+        "Ein Totalverlust ist möglich.",
+        "Für den Vermögensaufbau sind sie kaum geeignet."
+      ]
+    }
+  ]
+}

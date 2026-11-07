@@ -1,0 +1,128 @@
+{
+  "id": "steu-b151-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die Energiesteuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbrauchsteuern",
+      "herausgeber": "Zoll",
+      "url": "https://www.zoll.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "energiesteuer",
+    "kraftstoff",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "An der Tankstelle zahlst du nicht nur für den Kraftstoff selbst.",
+        "Ein großer Teil des Preises ist Steuer, vor allem die Energiesteuer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die frühere Mineralölsteuer",
+      "absaetze": [
+        "Die Energiesteuer hieß bis 2006 Mineralölsteuer. Sie gilt für Benzin und Diesel, aber auch für Heizöl und Erdgas.",
+        "Sie ist eine Verbrauchsteuer und steht dem Bund zu. Erhoben wird sie vom Zoll."
+      ],
+      "merke": "Die Energiesteuer hieß früher Mineralölsteuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fester Betrag je Menge",
+      "absaetze": [
+        "Die Energiesteuer ist ein fester Betrag je Liter oder Kilowattstunde. Sie steigt deshalb nicht automatisch, wenn der Ölpreis steigt.",
+        "Diesel wird niedriger besteuert als Benzin. Heizstoffe tragen geringere Sätze als Kraftstoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuer auf die Steuer",
+      "absaetze": [
+        "Auf den Preis inklusive Energiesteuer kommt noch die Mehrwertsteuer. Du zahlst also Mehrwertsteuer auch auf die Energiesteuer.",
+        "Getrennt davon gibt es den CO2-Preis für Heiz- und Kraftstoffe. Strom unterliegt nicht der Energiesteuer, sondern der Stromsteuer."
+      ],
+      "merke": "Mehrwertsteuer fällt auch auf die Energiesteuer an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hieß die Energiesteuer bis 2006?",
+      "art": "mc",
+      "optionen": [
+        "Mineralölsteuer",
+        "Ökosteuer",
+        "Verbrauchssteuer Plus",
+        "Tankabgabe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wurde damals umbenannt und erweitert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer erhebt die Energiesteuer?",
+      "art": "mc",
+      "optionen": [
+        "Der Zoll",
+        "Die Gemeinde",
+        "Die Tankstelle auf eigene Rechnung",
+        "Die Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Einnahmen stehen dem Bund zu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Energiesteuer steigt automatisch mit dem Ölpreis.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist ein fester Betrag je Menge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Kraftstoff wird niedriger besteuert?",
+      "art": "mc",
+      "optionen": [
+        "Diesel",
+        "Benzin",
+        "Beide gleich",
+        "Keiner von beiden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diesel trägt einen geringeren Satz."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Energiesteuer hieß früher Mineralölsteuer.",
+        "Sie gilt für Kraft- und Heizstoffe.",
+        "Sie ist ein fester Betrag je Menge.",
+        "Auch auf sie fällt Mehrwertsteuer an."
+      ]
+    }
+  ]
+}
