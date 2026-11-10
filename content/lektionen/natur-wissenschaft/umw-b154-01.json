@@ -1,0 +1,128 @@
+{
+  "id": "umw-b154-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum ist der Aal vom Aussterben bedroht?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Artenschutz",
+      "herausgeber": "Bundesamt für Naturschutz",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fischerei",
+      "herausgeber": "Thünen-Institut",
+      "url": "https://www.thuenen.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "aal",
+    "fische",
+    "artenschutz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Europäische Aal unternimmt eine der rätselhaftesten Reisen im Tierreich.",
+        "Heute gilt er als vom Aussterben bedroht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Reise über den Atlantik",
+      "absaetze": [
+        "Aale laichen vermutlich in der Sargassosee im Westatlantik. Beobachtet hat das allerdings noch niemand.",
+        "Die Larven treiben mit dem Golfstrom nach Europa. An den Küsten werden sie zu durchsichtigen Glasaalen und wandern in die Flüsse."
+      ],
+      "merke": "Aale laichen vermutlich in der Sargassosee."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Gefahren",
+      "absaetze": [
+        "Wehre und Wasserkraftwerke versperren den Aalen den Weg, Turbinen verletzen viele Tiere. Dazu kommen ein eingeschleppter Parasit und Schadstoffe.",
+        "Glasaale werden außerdem in großer Zahl gefangen und teils illegal nach Asien geschmuggelt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutzbemühungen",
+      "absaetze": [
+        "Der Bestand ist seit den 1980er-Jahren drastisch eingebrochen. Die Weltnaturschutzunion stuft den Europäischen Aal als vom Aussterben bedroht ein.",
+        "Die EU verpflichtet ihre Mitglieder zu Plänen zum Schutz des Aals. Dazu gehören Fangbeschränkungen und das Aussetzen junger Aale."
+      ],
+      "merke": "Der Europäische Aal gilt als vom Aussterben bedroht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo laichen Aale vermutlich?",
+      "art": "mc",
+      "optionen": [
+        "In der Sargassosee",
+        "In der Ostsee",
+        "Im Bodensee",
+        "Im Mittelmeer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beobachtet hat das noch niemand."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen junge, durchsichtige Aale an den Küsten?",
+      "art": "mc",
+      "optionen": [
+        "Glasaale",
+        "Silberaale",
+        "Eisaale",
+        "Kristallfische"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wandern dann in die Flüsse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wasserkraftwerke sind für Aale ungefährlich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Turbinen verletzen viele Tiere."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird der Europäische Aal eingestuft?",
+      "art": "mc",
+      "optionen": [
+        "Als vom Aussterben bedroht",
+        "Als ungefährdet",
+        "Als ausgestorben",
+        "Als Schädling"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Bestand ist drastisch eingebrochen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Aale laichen vermutlich in der Sargassosee.",
+        "Wehre, Turbinen und Fang setzen ihnen zu.",
+        "Der Bestand ist drastisch eingebrochen.",
+        "Die EU verlangt Schutzpläne."
+      ]
+    }
+  ]
+}

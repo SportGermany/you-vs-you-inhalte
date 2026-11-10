@@ -1,0 +1,122 @@
+{
+  "id": "steu-b154-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist die Reichensteuer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "reichensteuer",
+    "einkommensteuer",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer sehr viel verdient, zahlt in Deutschland auf einen Teil seines Einkommens einen besonders hohen Steuersatz.",
+        "Umgangssprachlich heißt das Reichensteuer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der höchste Steuersatz",
+      "absaetze": [
+        "Die Einkommensteuer steigt mit dem Einkommen. Ab einem bestimmten Betrag gilt der Spitzensteuersatz von 42 Prozent.",
+        "Seit 2007 gibt es darüber eine weitere Stufe von 45 Prozent. Sie greift erst bei einem zu versteuernden Einkommen von über einer Viertelmillion Euro im Jahr."
+      ],
+      "merke": "Der höchste Steuersatz liegt bei 45 Prozent."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur für den Teil darüber",
+      "absaetze": [
+        "Die 45 Prozent gelten nur für den Teil des Einkommens, der über der Grenze liegt. Auf das übrige Einkommen gelten die niedrigeren Sätze.",
+        "Der durchschnittliche Steuersatz liegt deshalb auch bei sehr hohen Einkommen unter 45 Prozent. Bei Ehepaaren verdoppelt sich die Grenze."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wen sie betrifft",
+      "absaetze": [
+        "Nur ein sehr kleiner Teil der Steuerpflichtigen zahlt die Reichensteuer. Viele sehr Vermögende erzielen ihr Geld zudem über Kapitalerträge, die anders besteuert werden.",
+        "Ob der Steuersatz höher oder niedriger sein sollte, ist politisch umstritten."
+      ],
+      "merke": "Die Reichensteuer betrifft nur sehr wenige."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die sogenannte Reichensteuer?",
+      "art": "mc",
+      "optionen": [
+        "45 Prozent",
+        "25 Prozent",
+        "60 Prozent",
+        "90 Prozent"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie liegt drei Punkte über dem Spitzensteuersatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann gibt es die Reichensteuer?",
+      "art": "mc",
+      "optionen": [
+        "Seit 2007",
+        "Seit 1949",
+        "Seit 1990",
+        "Seit 2023"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ergänzt den Spitzensteuersatz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit der Reichensteuer wird das gesamte Einkommen mit 45 Prozent besteuert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur der Teil über der Grenze."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei Ehepaaren mit der Grenze?",
+      "art": "mc",
+      "optionen": [
+        "Sie verdoppelt sich",
+        "Sie halbiert sich",
+        "Sie fällt weg",
+        "Sie bleibt gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das folgt aus dem Ehegattensplitting."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Reichensteuer ist ein Steuersatz von 45 Prozent.",
+        "Sie gilt erst ab sehr hohen Einkommen.",
+        "Nur der Teil über der Grenze wird so besteuert.",
+        "Sie betrifft nur sehr wenige Menschen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "supp-b154-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Vitamin-E-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Referenzwerte",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "vitamin-e",
+    "antioxidantien",
+    "nahrungsergaenzung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Vitamin E wird als Schutz für Zellen, Herz und Haut beworben.",
+        "Große Studien zeichnen ein deutlich nüchterneres Bild."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Vitamin aus Ölen und Nüssen",
+      "absaetze": [
+        "Vitamin E schützt Fette in den Zellen vor Schäden durch Sauerstoff. Es steckt vor allem in Pflanzenölen, Nüssen und Samen.",
+        "Ein Mangel ist bei gesunden Menschen in Deutschland selten. Er tritt eher bei Erkrankungen auf, die die Fettaufnahme stören."
+      ],
+      "merke": "Pflanzenöle und Nüsse liefern viel Vitamin E."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Schutz in Studien",
+      "absaetze": [
+        "Große Studien fanden keinen Schutz vor Herzinfarkt oder Krebs durch Vitamin-E-Präparate. In einer großen Studie stieg bei Männern sogar das Risiko für Prostatakrebs.",
+        "Antioxidantien aus dem Essen wirken offenbar anders als hoch dosierte Kapseln."
+      ],
+      "merke": "Vitamin-E-Kapseln schützen nicht vor Herzinfarkt oder Krebs.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mögliche Risiken",
+      "absaetze": [
+        "Hohe Mengen können die Blutgerinnung beeinflussen. Das ist besonders bei blutverdünnenden Medikamenten wichtig.",
+        "Wer sich mit Ölen, Nüssen und Vollkorn ernährt, ist in der Regel gut versorgt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei blutverdünnenden Medikamenten nur nach ärztlicher Rücksprache.",
+        "Hoch dosierte Präparate nicht dauerhaft ohne Grund verwenden.",
+        "Vor Operationen ärztlich ansprechen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steckt viel Vitamin E?",
+      "art": "mc",
+      "optionen": [
+        "In Pflanzenölen und Nüssen",
+        "In Zucker",
+        "In Mineralwasser",
+        "In Weißbrot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Samen sind gute Quellen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schützen Vitamin-E-Präparate laut großen Studien vor Herzinfarkt?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, deutlich",
+        "Ja, bei allen",
+        "Nur bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Schutz fand sich nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Vitamin-E-Mangel ist bei Gesunden in Deutschland häufig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist selten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann ist bei hohen Vitamin-E-Mengen besondere Vorsicht geboten?",
+      "art": "mc",
+      "optionen": [
+        "Bei blutverdünnenden Medikamenten",
+        "Beim Zähneputzen",
+        "Beim Radfahren",
+        "Im Urlaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vitamin E kann die Gerinnung beeinflussen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vitamin E steckt in Ölen, Nüssen und Samen.",
+        "Ein Mangel ist bei Gesunden selten.",
+        "Präparate schützen nicht vor Herzinfarkt oder Krebs.",
+        "Hohe Mengen können die Gerinnung beeinflussen."
+      ]
+    }
+  ]
+}

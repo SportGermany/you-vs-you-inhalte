@@ -1,0 +1,128 @@
+{
+  "id": "geld-b154-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was verrät die Sparquote?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Einkommen und Konsum",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "sparquote",
+    "sparen",
+    "einkommen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Deutschen gelten als fleißige Sparer.",
+        "Eine Zahl dafür ist die Sparquote, und du kannst sie auch für dich selbst berechnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Sparquote misst",
+      "absaetze": [
+        "Die Sparquote zeigt, welcher Anteil des verfügbaren Einkommens gespart wird. Verfügbar ist das Einkommen nach Steuern und Abgaben.",
+        "In Deutschland liegt die Sparquote der privaten Haushalte in den letzten Jahren bei rund einem Zehntel. Im internationalen Vergleich ist das eher hoch."
+      ],
+      "merke": "Die Sparquote ist der gesparte Anteil des Einkommens."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Deine eigene Sparquote",
+      "absaetze": [
+        "Teile den Betrag, den du im Monat zurücklegst, durch dein Nettoeinkommen. So siehst du, wie viel Prozent du sparst.",
+        "Die Zahl schwankt je nach Lebensphase stark. Wer gerade eine Familie gründet oder studiert, spart oft wenig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So steigt sie",
+      "absaetze": [
+        "Hilfreich ist ein Dauerauftrag direkt nach dem Gehaltseingang. Was gleich weg ist, gibst du nicht aus.",
+        "Erhöhe die Sparrate, wenn dein Einkommen steigt. Eine hohe Sparquote ist aber kein Selbstzweck, auch die Gegenwart soll lebenswert bleiben."
+      ],
+      "merke": "Spare direkt nach dem Gehaltseingang."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was misst die Sparquote?",
+      "art": "mc",
+      "optionen": [
+        "Den gesparten Anteil des verfügbaren Einkommens",
+        "Die Höhe der Zinsen",
+        "Die Zahl der Bankkonten",
+        "Die Steuerlast"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verfügbar ist das Einkommen nach Steuern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Sparquote in Deutschland ungefähr?",
+      "art": "mc",
+      "optionen": [
+        "Rund ein Zehntel",
+        "Rund die Hälfte",
+        "Fast null",
+        "Drei Viertel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im internationalen Vergleich ist das eher hoch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie berechnest du deine eigene Sparquote?",
+      "art": "mc",
+      "optionen": [
+        "Sparbetrag geteilt durch Nettoeinkommen",
+        "Bruttogehalt mal zwei",
+        "Miete minus Strom",
+        "Kontostand geteilt durch Alter"
+      ],
+      "richtig": 0,
+      "erklaerung": "So siehst du den Prozentanteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine möglichst hohe Sparquote ist immer das wichtigste Ziel.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch die Gegenwart soll lebenswert bleiben."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Sparquote zeigt den gesparten Anteil des Einkommens.",
+        "In Deutschland liegt sie bei rund einem Zehntel.",
+        "Deine eigene Quote: Sparbetrag durch Nettoeinkommen.",
+        "Ein Dauerauftrag nach Gehaltseingang hilft."
+      ]
+    }
+  ]
+}

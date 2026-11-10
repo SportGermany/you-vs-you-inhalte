@@ -1,0 +1,128 @@
+{
+  "id": "haus-b154-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wird der Grillrost wieder sauber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "grillrost",
+    "grillen",
+    "reinigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Grillabend klebt am Rost eine Kruste aus Fett und verkohlten Resten.",
+        "Mit ein paar Tricks wird er ohne scharfe Chemie wieder sauber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Am besten warm reinigen",
+      "absaetze": [
+        "Solange der Rost noch warm ist, lösen sich Reste am leichtesten. Viele brennen ihn nach dem Grillen kurz bei hoher Hitze aus und bürsten ihn dann ab.",
+        "Eine zerknüllte Kugel aus Alufolie eignet sich ebenfalls zum Schrubben."
+      ],
+      "merke": "Ein warmer Rost lässt sich am leichtesten reinigen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Drahtbürsten",
+      "absaetze": [
+        "Grillbürsten mit Drahtborsten verlieren manchmal einzelne Borsten. Diese können am Rost hängen bleiben und mit dem Essen verschluckt werden.",
+        "Prüfe deine Bürste regelmäßig und wische den Rost danach mit einem Tuch ab. Alternativen sind Bürsten ohne Draht oder Holzschaber."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Hartnäckige Kruste lösen",
+      "absaetze": [
+        "Bei starker Verschmutzung hilft Einweichen in warmem Wasser mit Spülmittel. Auch eine Paste aus Backpulver und Wasser löst eingebrannte Reste.",
+        "Gusseiserne Roste solltest du nach dem Reinigen gut trocknen und leicht einölen. So rosten sie nicht."
+      ],
+      "merke": "Gusseisen nach dem Reinigen trocknen und einölen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann lässt sich der Grillrost am leichtesten reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Solange er noch warm ist",
+        "Erst nach einer Woche",
+        "Wenn er gefroren ist",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann lösen sich die Reste leichter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Gefahr geht von alten Drahtbürsten aus?",
+      "art": "mc",
+      "optionen": [
+        "Lose Borsten können ins Essen gelangen",
+        "Sie färben den Rost",
+        "Sie machen das Fleisch zäh",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Prüfe die Bürste regelmäßig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gusseiserne Roste lässt du am besten nass liegen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gut trocknen und einölen, sonst rosten sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei eingebrannten Resten?",
+      "art": "mc",
+      "optionen": [
+        "Einweichen oder eine Paste aus Backpulver und Wasser",
+        "Mehr Grillkohle",
+        "Zucker",
+        "Olivenöl ins Feuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "So lösen sich hartnäckige Krusten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Den Rost am besten warm reinigen.",
+        "Alufolie eignet sich zum Schrubben.",
+        "Drahtbürsten regelmäßig auf lose Borsten prüfen.",
+        "Gusseisen trocknen und einölen."
+      ]
+    }
+  ]
+}

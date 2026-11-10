@@ -1,0 +1,129 @@
+{
+  "id": "ern-b154-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was solltest du über Lebkuchen wissen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "lebkuchen",
+    "zimt",
+    "weihnachten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Lebkuchen duften nach Zimt, Nelken und Honig und gehören für viele zur Adventszeit.",
+        "Hinter dem Gebäck steckt eine lange Tradition und ein Stoff, auf den Fachleute achten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Gebäck mit Geschichte",
+      "absaetze": [
+        "Lebkuchen werden seit dem Mittelalter gebacken, oft mit Honig und vielen Gewürzen. Nürnberger Lebkuchen sind eine geschützte Herkunftsbezeichnung.",
+        "Elisenlebkuchen gelten als besonders hochwertig. Sie enthalten viele Nüsse und nur wenig oder gar kein Mehl."
+      ],
+      "merke": "Nürnberger Lebkuchen sind geschützt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Cumarin aus dem Zimt",
+      "absaetze": [
+        "Viele Lebkuchen enthalten Cassia-Zimt. Er enthält deutlich mehr Cumarin als Ceylon-Zimt.",
+        "Cumarin kann in größeren Mengen bei empfindlichen Menschen die Leber schädigen. Für Backwaren gibt es deshalb in der EU Höchstgehalte."
+      ],
+      "merke": "Cassia-Zimt enthält viel Cumarin."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genuss mit Maß",
+      "absaetze": [
+        "Lebkuchen sind zucker- und oft auch fettreich. Ein paar Stück in der Adventszeit sind kein Problem.",
+        "Wer viel Zimt verwendet, etwa im Müsli, greift besser zu Ceylon-Zimt. Kleine Kinder sind wegen ihres geringen Gewichts empfindlicher."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Stoff im Zimt steht unter Beobachtung?",
+      "art": "mc",
+      "optionen": [
+        "Cumarin",
+        "Koffein",
+        "Vitamin C",
+        "Kalzium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kann in größeren Mengen die Leber belasten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Zimtsorte enthält deutlich mehr Cumarin?",
+      "art": "mc",
+      "optionen": [
+        "Cassia-Zimt",
+        "Ceylon-Zimt",
+        "Beide gleich viel",
+        "Zimt enthält kein Cumarin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ceylon-Zimt enthält nur wenig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Elisenlebkuchen enthalten besonders viel Mehl.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie enthalten viele Nüsse und wenig oder kein Mehl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer ist gegenüber Cumarin empfindlicher?",
+      "art": "mc",
+      "optionen": [
+        "Kleine Kinder",
+        "Erwachsene Sportler",
+        "Ältere Pflanzen",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wegen ihres geringen Körpergewichts."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Lebkuchen haben eine lange Tradition.",
+        "Cassia-Zimt enthält viel Cumarin.",
+        "Für Backwaren gibt es EU-Höchstgehalte.",
+        "In der Adventszeit mit Maß genießen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "all-b154-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie kalt ist es im Weltall?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Leben im All",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "weltall",
+    "temperatur",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Weltall ist es eisig kalt, so heißt es oft.",
+        "Die Wahrheit ist überraschender: Im All kann man auch überhitzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fast am absoluten Nullpunkt",
+      "absaetze": [
+        "Zwischen den Galaxien herrscht eine Temperatur von rund minus 270 Grad Celsius. Sie entspricht der kosmischen Hintergrundstrahlung, dem Nachglühen des Urknalls.",
+        "Das ist nur knapp über dem absoluten Nullpunkt, der tiefsten möglichen Temperatur."
+      ],
+      "merke": "Im leeren All herrschen rund minus 270 Grad."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kaum Wärmeleitung",
+      "absaetze": [
+        "Im Vakuum gibt es fast keine Teilchen, die Wärme weiterleiten könnten. Wärme wird dort nur als Strahlung abgegeben oder aufgenommen.",
+        "Deshalb kühlt ein Körper im All nicht sofort aus, wie man es aus Filmen kennt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sonne und Schatten",
+      "absaetze": [
+        "In der Nähe der Erde heizt die Sonne Oberflächen stark auf. Auf der Sonnenseite der Raumstation werden es über 100 Grad, im Schatten weit unter minus 100 Grad.",
+        "Raumanzüge und Raumstationen brauchen deshalb aufwendige Systeme, die Wärme abführen und Kälte abwehren."
+      ],
+      "merke": "In der Sonne kann es im All sehr heiß werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kalt ist es ungefähr zwischen den Galaxien?",
+      "art": "mc",
+      "optionen": [
+        "Rund minus 270 Grad Celsius",
+        "Rund null Grad",
+        "Rund minus 20 Grad",
+        "Rund plus 100 Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist knapp über dem absoluten Nullpunkt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Wärme im Vakuum vor allem abgegeben?",
+      "art": "mc",
+      "optionen": [
+        "Als Strahlung",
+        "Durch Wind",
+        "Durch Wasser",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt kaum Teilchen, die Wärme leiten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Mensch würde im All sofort zu Eis gefrieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ohne Wärmeleitung kühlt ein Körper nicht sofort aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heiß kann es auf der Sonnenseite der Raumstation werden?",
+      "art": "mc",
+      "optionen": [
+        "Über 100 Grad",
+        "Höchstens 20 Grad",
+        "Genau null Grad",
+        "Nie wärmer als minus 50 Grad"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Schatten wird es dagegen sehr kalt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Im leeren All herrschen rund minus 270 Grad.",
+        "Im Vakuum wird Wärme nur abgestrahlt.",
+        "Ein Körper kühlt dort nicht sofort aus.",
+        "In der Sonne kann es sehr heiß werden."
+      ]
+    }
+  ]
+}

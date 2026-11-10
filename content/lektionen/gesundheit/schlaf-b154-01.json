@@ -1,0 +1,132 @@
+{
+  "id": "schlaf-b154-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie hängen ADHS und Schlaf zusammen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychische Gesundheit",
+      "herausgeber": "Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN)",
+      "url": "https://www.dgppn.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "adhs",
+    "einschlafen",
+    "rhythmus"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Menschen mit ADHS kennen das: Abends ist der Kopf hellwach, morgens kommen sie kaum aus dem Bett.",
+        "Schlafprobleme gehören bei ADHS oft dazu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Häufige Schlafprobleme",
+      "absaetze": [
+        "Kinder und Erwachsene mit ADHS haben häufiger Schwierigkeiten beim Einschlafen und Durchschlafen. Viele haben einen nach hinten verschobenen Rhythmus.",
+        "Auch das Restless-Legs-Syndrom und Schlafapnoe treten bei ihnen offenbar häufiger auf."
+      ],
+      "merke": "Schlafprobleme sind bei ADHS häufig.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Kreislauf",
+      "absaetze": [
+        "Schlafmangel verschlechtert Aufmerksamkeit und Impulskontrolle, bei jedem Menschen. Bei ADHS können sich die Beschwerden dadurch verstärken.",
+        "Manche Medikamente gegen ADHS können das Einschlafen zusätzlich erschweren. Das sollte ärztlich besprochen werden."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Feste Zeiten für Aufstehen und Zubettgehen geben Halt. Eine ruhige Abendroutine ohne Bildschirm erleichtert das Abschalten.",
+        "Viel Tageslicht am Morgen kann den Rhythmus nach vorn verschieben. Bei anhaltenden Problemen hilft eine Abklärung im Schlaflabor."
+      ],
+      "merke": "Feste Zeiten und Morgenlicht geben dem Rhythmus Halt.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Schlafproblem ist bei ADHS häufig?",
+      "art": "mc",
+      "optionen": [
+        "Schwierigkeiten beim Einschlafen",
+        "Zu frühes Müdewerden am Nachmittag",
+        "Gar kein Schlafbedarf",
+        "Nur Schlaf im Stehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele haben einen verschobenen Rhythmus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schlafmangel kann Aufmerksamkeitsprobleme verstärken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das gilt für jeden Menschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann den Schlafrhythmus nach vorn verschieben?",
+      "art": "mc",
+      "optionen": [
+        "Viel Tageslicht am Morgen",
+        "Helles Licht spät abends",
+        "Später ins Bett gehen",
+        "Koffein am Abend"
+      ],
+      "richtig": 0,
+      "erklaerung": "Licht stellt die innere Uhr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du ärztlich besprechen?",
+      "art": "mc",
+      "optionen": [
+        "Ob Medikamente das Einschlafen erschweren",
+        "Welche Farbe die Bettwäsche hat",
+        "Ob du ein Haustier hast",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche ADHS-Medikamente wirken bis in den Abend."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlafprobleme sind bei ADHS häufig.",
+        "Schlafmangel kann ADHS-Beschwerden verstärken.",
+        "Feste Zeiten und Morgenlicht helfen.",
+        "Anhaltende Probleme ärztlich abklären lassen."
+      ]
+    }
+  ]
+}
