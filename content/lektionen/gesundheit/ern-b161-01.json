@@ -1,0 +1,130 @@
+{
+  "id": "ern-b161-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Hilft Hühnersuppe bei einer Erkältung?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "huehnersuppe",
+    "erkaeltung",
+    "hausmittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei Schnupfen und Halsweh kochen viele Familien eine Hühnersuppe.",
+        "Was ist dran an dem alten Hausmittel?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In einem bekannten Laborversuch hemmte Hühnersuppe bestimmte Abwehrzellen, die an Entzündungen beteiligt sind. Das deutet auf eine leicht entzündungshemmende Wirkung hin.",
+        "Ob das auch im Körper bei einer echten Erkältung hilft, ist unklar. Große Studien dazu fehlen."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wärme und Flüssigkeit",
+      "absaetze": [
+        "Warme Suppe liefert Flüssigkeit und Salz, die bei Fieber verloren gehen. Der warme Dampf kann möglicherweise die Nase etwas freier machen.",
+        "Gemüse in der Suppe liefert zusätzlich Vitamine. Und eine warme Mahlzeit tut einfach gut."
+      ],
+      "merke": "Warme Suppe liefert Flüssigkeit und Wärme.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Ersatz für Ruhe",
+      "absaetze": [
+        "Eine Erkältung klingt meist von selbst nach etwa einer Woche ab. Ruhe und ausreichend Trinken sind am wichtigsten.",
+        "Bei hohem Fieber, Atemnot oder wenn es nicht besser wird, solltest du ärztlichen Rat einholen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte ein bekannter Laborversuch zu Hühnersuppe?",
+      "art": "mc",
+      "optionen": [
+        "Sie hemmte bestimmte Abwehrzellen leicht",
+        "Sie tötet alle Viren ab",
+        "Sie wirkt wie ein Antibiotikum",
+        "Sie hatte gar keine Wirkung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ob das im Körper hilft, ist unklar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was liefert warme Suppe bei Fieber?",
+      "art": "mc",
+      "optionen": [
+        "Flüssigkeit und Salz",
+        "Koffein",
+        "Antibiotika",
+        "Vitamin B12 in großen Mengen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beides geht bei Fieber verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hühnersuppe ersetzt bei einer Erkältung Ruhe und Trinken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ruhe und Trinken sind am wichtigsten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du ärztlichen Rat einholen?",
+      "art": "mc",
+      "optionen": [
+        "Bei hohem Fieber oder Atemnot",
+        "Bei leichtem Schnupfen am ersten Tag",
+        "Nie",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch wenn es nicht besser wird."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hühnersuppe wirkt im Labor leicht entzündungshemmend.",
+        "Ob sie bei Erkältung hilft, ist unklar.",
+        "Sie liefert Flüssigkeit, Salz und Wärme.",
+        "Ruhe und Trinken sind am wichtigsten."
+      ]
+    }
+  ]
+}

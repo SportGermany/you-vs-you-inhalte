@@ -1,0 +1,128 @@
+{
+  "id": "gew-b161-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie wird Wassersparen zur Gewohnheit?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Wasser sparen",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wasser-sparen",
+    "haushalt",
+    "umwelt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Trinkwasser kommt in Deutschland einfach aus dem Hahn.",
+        "In trockenen Sommern wird aber spürbar, wie wertvoll es ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Handgriffe",
+      "absaetze": [
+        "Dreh beim Zähneputzen und Einseifen das Wasser ab. Das sind Handgriffe, die schnell automatisch werden.",
+        "Ein Sparduschkopf senkt den Verbrauch, ohne dass du es stark bemerkst."
+      ],
+      "merke": "Beim Zähneputzen den Hahn zudrehen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Geräte richtig nutzen",
+      "absaetze": [
+        "Starte Wasch- und Spülmaschine nur voll beladen. Moderne Spülmaschinen brauchen oft weniger Wasser als Spülen von Hand.",
+        "Tropfende Wasserhähne und laufende Toilettenspülungen solltest du schnell reparieren lassen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Draußen sparen",
+      "absaetze": [
+        "Gieße den Garten am frühen Morgen oder Abend, dann verdunstet weniger. Regenwasser aus einer Tonne eignet sich gut zum Gießen.",
+        "Nicht vergessen: Bei der Herstellung vieler Lebensmittel und Kleidungsstücke wird viel mehr Wasser verbraucht als im Bad."
+      ],
+      "merke": "Morgens oder abends gießen spart Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Handgriff spart beim Zähneputzen Wasser?",
+      "art": "mc",
+      "optionen": [
+        "Den Hahn zudrehen",
+        "Länger putzen",
+        "Warmes Wasser laufen lassen",
+        "Zweimal spülen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er wird schnell automatisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du Wasch- und Spülmaschine starten?",
+      "art": "mc",
+      "optionen": [
+        "Nur voll beladen",
+        "Mit einem einzigen Teller",
+        "Zweimal täglich leer",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "So nutzt du das Wasser optimal."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tropfende Wasserhähne sind für den Verbrauch unwichtig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie verschwenden über die Zeit viel Wasser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du den Garten gießen?",
+      "art": "mc",
+      "optionen": [
+        "Am frühen Morgen oder Abend",
+        "Zur Mittagshitze",
+        "Nur nachts um drei",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann verdunstet weniger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Zähneputzen den Hahn zudrehen.",
+        "Maschinen nur voll beladen starten.",
+        "Tropfende Hähne reparieren lassen.",
+        "Morgens oder abends gießen."
+      ]
+    }
+  ]
+}

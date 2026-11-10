@@ -1,0 +1,129 @@
+{
+  "id": "ern-b161-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Putenfleisch?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pute",
+    "gefluegel",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Putenbrust gilt als mageres Fleisch für alle, die auf ihre Ernährung achten.",
+        "Was steckt drin, und worauf solltest du achten?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mager und eiweißreich",
+      "absaetze": [
+        "Putenbrust ist sehr mager und liefert viel Eiweiß. Dazu kommen B-Vitamine, Zink und Selen.",
+        "Keulenfleisch ist dunkler und etwas fettreicher, enthält dafür aber mehr Eisen."
+      ],
+      "merke": "Putenbrust ist sehr mager."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weißes Fleisch",
+      "absaetze": [
+        "Geflügel zählt nicht zum roten Fleisch. Die DGE empfiehlt aber, Fleisch insgesamt nur in kleinen Mengen zu essen.",
+        "Wurst aus Pute, etwa Putensalami, ist oft stark verarbeitet und salzreich. Sie ist deshalb nicht automatisch gesünder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Küchenhygiene",
+      "absaetze": [
+        "Rohes Geflügel kann Keime wie Salmonellen oder Campylobacter enthalten. Gare Putenfleisch deshalb immer vollständig durch.",
+        "Benutze für rohes Fleisch ein eigenes Schneidebrett und wasche danach gründlich die Hände."
+      ],
+      "merke": "Putenfleisch immer vollständig durchgaren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Putenfleisch ist besonders mager?",
+      "art": "mc",
+      "optionen": [
+        "Die Brust",
+        "Die Haut",
+        "Die Keule mit Haut",
+        "Putensalami"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es liefert viel Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zählt Putenfleisch zum roten Fleisch?",
+      "art": "mc",
+      "optionen": [
+        "Nein, Geflügel gilt als weißes Fleisch",
+        "Ja, immer",
+        "Nur gebraten",
+        "Nur im Winter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Trotzdem gilt: Fleisch in Maßen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wurst aus Pute ist automatisch gesund.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie ist oft stark verarbeitet und salzreich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Keime kann rohes Geflügel enthalten?",
+      "art": "mc",
+      "optionen": [
+        "Salmonellen oder Campylobacter",
+        "Nur harmlose Hefen",
+        "Gar keine",
+        "Nur Viren aus dem Meer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb vollständig durchgaren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Putenbrust ist mager und eiweißreich.",
+        "Geflügel zählt zum weißen Fleisch.",
+        "Putenwurst ist nicht automatisch gesund.",
+        "Geflügel immer vollständig durchgaren."
+      ]
+    }
+  ]
+}

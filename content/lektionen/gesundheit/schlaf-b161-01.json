@@ -1,0 +1,132 @@
+{
+  "id": "schlaf-b161-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wirkt eine Impfung besser, wenn du gut schläfst?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Impfen",
+      "herausgeber": "Robert Koch-Institut",
+      "url": "https://www.rki.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "impfung",
+    "immunsystem",
+    "schlaf"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einer Impfung lernt das Immunsystem, einen Erreger zu erkennen.",
+        "Studien zeigen, dass guter Schlaf dabei offenbar eine Rolle spielt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In Untersuchungen bildeten Menschen, die rund um eine Impfung ausreichend schliefen, im Schnitt mehr Antikörper. Wer in den Nächten danach sehr wenig schlief, hatte oft eine schwächere Antwort.",
+        "Der Effekt war in mehreren Studien zu sehen, die Größe schwankte aber."
+      ],
+      "merke": "Guter Schlaf kann die Impfantwort unterstützen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum Schlaf hilft",
+      "absaetze": [
+        "Im Schlaf schüttet der Körper Botenstoffe aus, die das Immunsystem unterstützen. Er festigt dabei offenbar auch das Immungedächtnis.",
+        "Das ist ein Grund, warum Schlafmangel anfälliger für Infekte machen kann."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du tun kannst",
+      "absaetze": [
+        "Plane rund um einen Impftermin genug Schlaf ein, etwa ohne späte Feier am Abend davor oder danach. Das kostet nichts und kann helfen.",
+        "Eine Impfung wirkt aber auch nach einer schlechten Nacht. Verschiebe sie deshalb nicht allein wegen Schlafmangels."
+      ],
+      "merke": "Eine Impfung wirkt auch nach einer schlechten Nacht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten Studien zu Schlaf und Impfung?",
+      "art": "mc",
+      "optionen": [
+        "Wer ausreichend schlief, bildete im Schnitt mehr Antikörper",
+        "Schlaf hat keinerlei Einfluss",
+        "Schlaf verhindert die Impfwirkung",
+        "Nur Mittagsschlaf zählt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Größe des Effekts schwankte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert im Schlaf mit dem Immunsystem?",
+      "art": "mc",
+      "optionen": [
+        "Es wird durch Botenstoffe unterstützt",
+        "Es schaltet sich ab",
+        "Es wird schwächer",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch das Immungedächtnis wird gefestigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nach einer schlechten Nacht wirkt eine Impfung gar nicht.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie wirkt trotzdem."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist rund um einen Impftermin sinnvoll?",
+      "art": "mc",
+      "optionen": [
+        "Genug Schlaf einplanen",
+        "Die Nacht durchfeiern",
+        "Möglichst wenig schlafen",
+        "Viel Alkohol trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das kann die Impfantwort unterstützen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Guter Schlaf kann die Impfantwort unterstützen.",
+        "Im Schlaf festigt sich das Immungedächtnis.",
+        "Rund um Impfungen genug Schlaf einplanen.",
+        "Impfungen wirken auch nach schlechten Nächten."
+      ]
+    }
+  ]
+}

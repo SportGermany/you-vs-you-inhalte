@@ -1,0 +1,122 @@
+{
+  "id": "tech-b161-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie rechnet ein Taschenrechner?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Rechnen und Computer",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "taschenrechner",
+    "binaersystem",
+    "elektronik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Taschenrechner löst Aufgaben in Sekundenbruchteilen.",
+        "Dabei kennt er im Inneren nur zwei Zustände."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alles in Nullen und Einsen",
+      "absaetze": [
+        "Tippst du eine Zahl ein, wandelt der Taschenrechner sie in das Binärsystem um. Darin gibt es nur die Ziffern Null und Eins.",
+        "Für den Chip bedeutet das: Strom fließt oder fließt nicht."
+      ],
+      "merke": "Ein Taschenrechner rechnet im Binärsystem."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Winzige Schalter",
+      "absaetze": [
+        "Im Chip arbeiten Tausende winzige Schalter, sogenannte Transistoren. Zu Schaltungen verbunden können sie Zahlen addieren.",
+        "Auch Multiplikation und Division lassen sich auf viele schnelle Additionen und Verschiebungen zurückführen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Rechenschieber zur Solarzelle",
+      "absaetze": [
+        "Vor den 1970er-Jahren rechneten viele mit dem Rechenschieber. Elektronische Taschenrechner machten ihn schnell überflüssig.",
+        "Viele einfache Modelle versorgt eine kleine Solarzelle mit Strom, die schon im Zimmerlicht genug Energie liefert."
+      ],
+      "merke": "Transistoren sind winzige Schalter im Chip."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Zahlensystem rechnet ein Taschenrechner?",
+      "art": "mc",
+      "optionen": [
+        "Im Binärsystem",
+        "Im Zehnersystem",
+        "Mit römischen Zahlen",
+        "Im Sechzigersystem"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es kennt nur Null und Eins."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Transistoren?",
+      "art": "mc",
+      "optionen": [
+        "Winzige Schalter im Chip",
+        "Kleine Batterien",
+        "Lichter im Display",
+        "Tasten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu Schaltungen verbunden rechnen sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Taschenrechner muss für jede Rechenart völlig andere Bauteile haben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Vieles lässt sich auf Additionen zurückführen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ersetzte der Taschenrechner?",
+      "art": "mc",
+      "optionen": [
+        "Den Rechenschieber",
+        "Das Telefon",
+        "Das Radio",
+        "Die Schreibmaschine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das geschah ab den 1970er-Jahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Taschenrechner rechnet im Binärsystem.",
+        "Transistoren sind winzige Schalter.",
+        "Viele Rechnungen beruhen auf Additionen.",
+        "Er ersetzte den Rechenschieber."
+      ]
+    }
+  ]
+}

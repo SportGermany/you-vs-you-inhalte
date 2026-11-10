@@ -1,0 +1,142 @@
+{
+  "id": "supp-b161-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Bor-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nährstoffe",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "bor",
+    "spurenelemente",
+    "knochen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bor wird im Internet für starke Knochen, Gelenke und Hormone beworben.",
+        "Dabei ist kaum etwas davon gut belegt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Spurenelement aus Pflanzen",
+      "absaetze": [
+        "Bor steckt vor allem in pflanzlichen Lebensmitteln wie Obst, Gemüse, Nüssen und Hülsenfrüchten. Wer abwechslungsreich isst, nimmt Bor ganz nebenbei auf.",
+        "Ob der Mensch Bor überhaupt unbedingt braucht, ist wissenschaftlich unklar."
+      ],
+      "merke": "Bor steckt in vielen pflanzlichen Lebensmitteln.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dünne Beweislage",
+      "absaetze": [
+        "Für Wirkungen auf Knochen, Gelenke oder Hormone gibt es nur kleine Studien mit widersprüchlichen Ergebnissen. Es gibt Hinweise, aber keinen gesicherten Nutzen.",
+        "Gesundheitsbezogene Werbeaussagen für Bor sind in der EU nicht zugelassen."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu viel kann schaden",
+      "absaetze": [
+        "Die EFSA hat eine Höchstmenge festgelegt, die über den Tag nicht überschritten werden sollte. Hohe Mengen können möglicherweise die Fruchtbarkeit beeinträchtigen.",
+        "Für Schwangere und Kinder sind Bor-Präparate besonders ungeeignet."
+      ],
+      "merke": "Hohe Mengen Bor können schaden.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht in Schwangerschaft und Stillzeit.",
+        "Nicht für Kinder.",
+        "Höchstmengen nicht überschreiten.",
+        "Bei Kinderwunsch ärztlich besprechen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steckt Bor vor allem?",
+      "art": "mc",
+      "optionen": [
+        "In pflanzlichen Lebensmitteln",
+        "Nur in Fleisch",
+        "Nur in Leitungswasser",
+        "In Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa in Obst, Gemüse und Nüssen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Nutzen von Bor für Knochen gesichert?",
+      "art": "mc",
+      "optionen": [
+        "Nein, die Studien sind widersprüchlich",
+        "Ja, eindeutig",
+        "Ja, bei allen Menschen",
+        "Ja, es ersetzt Kalzium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt nur kleine Studien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Bor sind in der EU gesundheitsbezogene Werbeaussagen zugelassen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Solche Aussagen sind nicht zugelassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen sind Bor-Präparate besonders ungeeignet?",
+      "art": "mc",
+      "optionen": [
+        "Für Schwangere und Kinder",
+        "Für Gärtner",
+        "Für Musiker",
+        "Für Radfahrer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hohe Mengen können schaden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bor steckt in vielen pflanzlichen Lebensmitteln.",
+        "Ein Nutzen von Präparaten ist nicht belegt.",
+        "Die EFSA hat eine Höchstmenge festgelegt.",
+        "Für Schwangere und Kinder ungeeignet."
+      ]
+    }
+  ]
+}

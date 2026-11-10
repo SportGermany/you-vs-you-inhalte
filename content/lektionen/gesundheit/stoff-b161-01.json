@@ -1,0 +1,130 @@
+{
+  "id": "stoff-b161-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Welche Arten von Insulin gibt es?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Diabetes",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.ddg.info",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "insulin",
+    "diabetes",
+    "therapie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Menschen mit Typ-1-Diabetes und manche mit Typ-2-Diabetes brauchen Insulin.",
+        "Dabei kommen verschiedene Insulinarten zum Einsatz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Insulin für die Grundversorgung",
+      "absaetze": [
+        "Auch ohne Essen braucht der Körper ständig etwas Insulin. Lang wirkende Insuline decken diesen Grundbedarf über viele Stunden ab.",
+        "Man nennt sie Basalinsuline. Sie werden meist ein- oder zweimal am Tag gespritzt."
+      ],
+      "merke": "Basalinsulin deckt den Grundbedarf."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Insulin zu den Mahlzeiten",
+      "absaetze": [
+        "Kurz wirkende Insuline werden zu den Mahlzeiten gegeben. Sie fangen den Anstieg des Blutzuckers nach dem Essen ab.",
+        "Die Menge richtet sich nach dem Essen und dem aktuellen Blutzucker. Das wird in Schulungen gelernt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Pens, Pumpen und Sensoren",
+      "absaetze": [
+        "Insulin wird meist mit einem Pen gespritzt. Manche Menschen nutzen eine Insulinpumpe, die kontinuierlich kleine Mengen abgibt.",
+        "In Verbindung mit Glukosesensoren können moderne Systeme die Abgabe teilweise automatisch anpassen. Die Behandlung wird immer ärztlich und individuell festgelegt."
+      ],
+      "merke": "Insulinpumpen geben kontinuierlich kleine Mengen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist Basalinsulin gedacht?",
+      "art": "mc",
+      "optionen": [
+        "Für den Grundbedarf über viele Stunden",
+        "Nur für Süßigkeiten",
+        "Für den Sport allein",
+        "Für die Nacht im Urlaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper braucht ständig etwas Insulin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird kurz wirkendes Insulin gegeben?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Mahlzeiten",
+        "Nur einmal im Monat",
+        "Nur nachts",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es fängt den Zuckeranstieg nach dem Essen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Insulinpumpen geben Insulin kontinuierlich in kleinen Mengen ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Manche passen sich mit Sensoren automatisch an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer legt die Insulinbehandlung fest?",
+      "art": "mc",
+      "optionen": [
+        "Ärztinnen und Ärzte individuell",
+        "Freunde",
+        "Eine App allein",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören auch Schulungen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Basalinsulin deckt den Grundbedarf.",
+        "Kurz wirkendes Insulin wird zu den Mahlzeiten gegeben.",
+        "Pens und Pumpen sind übliche Hilfsmittel.",
+        "Die Behandlung wird individuell festgelegt.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}
