@@ -1,0 +1,129 @@
+{
+  "id": "ern-b160-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Steinpilzen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Radioaktivität in Lebensmitteln",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "steinpilze",
+    "pilze",
+    "saison"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Steinpilze gelten als einer der edelsten Speisepilze.",
+        "Wer sie selbst sammelt, sollte einiges beachten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein begehrter Waldpilz",
+      "absaetze": [
+        "Steinpilze wachsen im Spätsommer und Herbst in Wäldern, oft unter Fichten, Kiefern oder Buchen. Sie leben in Partnerschaft mit den Baumwurzeln.",
+        "Sie liefern Ballaststoffe, etwas Eiweiß und B-Vitamine. Ihr nussiges Aroma macht sie in der Küche beliebt."
+      ],
+      "merke": "Steinpilze leben in Partnerschaft mit Bäumen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur sammeln, was du sicher kennst",
+      "absaetze": [
+        "Steinpilze können mit dem bitteren Gallenröhrling verwechselt werden. Andere Verwechslungen können gefährlich sein.",
+        "Sammle nur Pilze, die du sicher bestimmen kannst. Im Zweifel helfen Pilzberatungsstellen weiter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gut garen und Radioaktivität beachten",
+      "absaetze": [
+        "Wildpilze solltest du gründlich garen. Madige oder alte Pilze gehören nicht in die Pfanne.",
+        "In manchen Regionen Süddeutschlands enthalten Wildpilze noch Cäsium aus Tschernobyl. Bei üblichen Mengen gilt das als unbedenklich."
+      ],
+      "merke": "Nur sicher bestimmte Pilze sammeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Pilz wird der Steinpilz oft verwechselt?",
+      "art": "mc",
+      "optionen": [
+        "Mit dem bitteren Gallenröhrling",
+        "Mit dem Champignon",
+        "Mit dem Pfifferling",
+        "Mit dem Shiitake"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein einziger kann ein ganzes Gericht verderben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wachsen Steinpilze vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Im Spätsommer und Herbst",
+        "Im Januar",
+        "Nur im Frühling",
+        "Das ganze Jahr gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Wäldern unter verschiedenen Bäumen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du solltest auch Pilze sammeln, die du nicht sicher erkennst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur sicher bestimmte Pilze sammeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthalten Wildpilze in manchen Regionen Süddeutschlands noch?",
+      "art": "mc",
+      "optionen": [
+        "Cäsium aus Tschernobyl",
+        "Zucker",
+        "Koffein",
+        "Alkohol"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei üblichen Mengen gilt das als unbedenklich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Steinpilze wachsen im Spätsommer und Herbst.",
+        "Sie liefern Ballaststoffe und B-Vitamine.",
+        "Nur sicher bestimmte Pilze sammeln.",
+        "Wildpilze gründlich garen."
+      ]
+    }
+  ]
+}

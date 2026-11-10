@@ -1,0 +1,122 @@
+{
+  "id": "all-b160-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie lang ist ein Tag auf anderen Planeten?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Solar System",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "planeten",
+    "tageslaenge",
+    "rotation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf der Erde dauert ein Tag rund 24 Stunden.",
+        "Auf anderen Planeten sieht das ganz anders aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schnelle Riesen",
+      "absaetze": [
+        "Jupiter dreht sich besonders schnell. Ein Tag dort dauert nur knapp zehn Stunden.",
+        "Auch Saturn rotiert in etwas mehr als zehn Stunden einmal um sich selbst."
+      ],
+      "merke": "Ein Tag auf dem Jupiter dauert knapp zehn Stunden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Tag länger als ein Jahr",
+      "absaetze": [
+        "Die Venus dreht sich extrem langsam und zudem rückwärts. Für eine Drehung braucht sie länger, als sie für einen Umlauf um die Sonne benötigt.",
+        "Ein Venustag ist also länger als ein Venusjahr."
+      ],
+      "merke": "Auf der Venus ist ein Tag länger als ein Jahr."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein fast vertrauter Nachbar",
+      "absaetze": [
+        "Ein Tag auf dem Mars dauert nur etwa 40 Minuten länger als auf der Erde. Fachleute nennen ihn Sol.",
+        "Teams, die Marsrover steuern, mussten deshalb zeitweise nach Marszeit leben und ihren Alltag jeden Tag verschieben."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange dauert ein Tag auf dem Jupiter etwa?",
+      "art": "mc",
+      "optionen": [
+        "Knapp zehn Stunden",
+        "Ein Jahr",
+        "Genau 24 Stunden",
+        "Eine Minute"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jupiter dreht sich sehr schnell."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist auf der Venus besonders?",
+      "art": "mc",
+      "optionen": [
+        "Ein Tag ist länger als ein Jahr",
+        "Es gibt keine Tage",
+        "Ein Tag dauert eine Stunde",
+        "Sie dreht sich gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie dreht sich zudem rückwärts."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Marstag ist viel kürzer als ein Erdtag.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist etwa 40 Minuten länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man einen Marstag?",
+      "art": "mc",
+      "optionen": [
+        "Sol",
+        "Luna",
+        "Terra",
+        "Stella"
+      ],
+      "richtig": 0,
+      "erklaerung": "Rover-Teams lebten zeitweise nach Marszeit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Jupitertag dauert knapp zehn Stunden.",
+        "Auf der Venus ist ein Tag länger als ein Jahr.",
+        "Ein Marstag ist etwa 40 Minuten länger als ein Erdtag.",
+        "Er heißt Sol."
+      ]
+    }
+  ]
+}

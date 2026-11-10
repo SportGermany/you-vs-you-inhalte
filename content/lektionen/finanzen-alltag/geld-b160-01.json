@@ -1,0 +1,128 @@
+{
+  "id": "geld-b160-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind Neobroker?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "neobroker",
+    "depot",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit dem Handy Aktien kaufen, oft für einen Euro oder sogar ohne Gebühr.",
+        "Neobroker haben das Anlegen für viele Menschen einfacher gemacht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Günstig und digital",
+      "absaetze": [
+        "Neobroker sind Anbieter, bei denen du dein Depot fast nur per App führst. Ihre Gebühren für Käufe und Verkäufe sind oft sehr niedrig.",
+        "Viele bieten auch kostenlose Sparpläne auf ETFs an."
+      ],
+      "merke": "Neobroker sind günstige App-Depots."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie sie Geld verdienen",
+      "absaetze": [
+        "Neobroker verdienen teils an Zahlungen der Handelsplätze, an die sie Aufträge weiterleiten. Diese Praxis ist umstritten, weil Kurse dort ungünstiger sein können.",
+        "Auch Zinsen auf Guthaben, Währungstausch oder Zusatzangebote bringen ihnen Einnahmen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Wertpapiere im Depot gehören dir, auch wenn der Anbieter pleitegeht. Für Bargeld auf dem Verrechnungskonto gilt die Einlagensicherung der jeweiligen Bank.",
+        "Die einfache App verleitet manche zu häufigem Handeln. Langfristiges, breit gestreutes Anlegen ist für die meisten sinnvoller."
+      ],
+      "merke": "Wertpapiere im Depot bleiben dein Eigentum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Neobroker?",
+      "art": "mc",
+      "optionen": [
+        "Günstige Depotanbieter, die vor allem per App arbeiten",
+        "Neue Banknoten",
+        "Ein Versicherungsprodukt",
+        "Ein Steuerprogramm"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gebühren sind oft sehr niedrig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran verdienen Neobroker teilweise?",
+      "art": "mc",
+      "optionen": [
+        "An Zahlungen der Handelsplätze",
+        "Nur an Werbung im Fernsehen",
+        "An Steuern",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Diese Praxis ist umstritten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wenn ein Neobroker pleitegeht, sind deine Wertpapiere automatisch verloren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wertpapiere im Depot gehören dir."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu verleitet die einfache App manche Anleger?",
+      "art": "mc",
+      "optionen": [
+        "Zu häufigem Handeln",
+        "Zu weniger Handeln",
+        "Zum Sparen",
+        "Zu gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Langfristiges Anlegen ist meist sinnvoller."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Neobroker sind günstige App-Depots.",
+        "Sie verdienen teils an Zahlungen der Handelsplätze.",
+        "Wertpapiere im Depot bleiben dein Eigentum.",
+        "Langfristig und breit gestreut anlegen statt häufig handeln."
+      ]
+    }
+  ]
+}

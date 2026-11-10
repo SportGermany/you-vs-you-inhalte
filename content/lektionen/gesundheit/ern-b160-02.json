@@ -1,0 +1,129 @@
+{
+  "id": "ern-b160-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Kalbfleisch?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kalbfleisch",
+    "fleisch",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wiener Schnitzel, Kalbsbraten oder Vitello tonnato: Kalbfleisch gilt als besonders zart.",
+        "Was unterscheidet es von Rindfleisch?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fleisch von jungen Rindern",
+      "absaetze": [
+        "Kalbfleisch stammt von jungen Rindern, die nur wenige Monate alt sind. Es ist heller, zarter und milder als Rindfleisch.",
+        "Ein klassisches Wiener Schnitzel wird aus Kalbfleisch zubereitet."
+      ],
+      "merke": "Kalbfleisch stammt von jungen Rindern."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mager und eiweißreich",
+      "absaetze": [
+        "Kalbfleisch ist meist mager und liefert hochwertiges Eiweiß, Zink und B-Vitamine. Eisen enthält es etwas weniger als Rindfleisch.",
+        "Auch Kalbfleisch zählt zum roten Fleisch. Die DGE empfiehlt, Fleisch insgesamt nur in kleinen Mengen zu essen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Haltung und Herkunft",
+      "absaetze": [
+        "Tierschutzorganisationen kritisieren lange Transporte junger Kälber. Siegel und regionale Herkunft können bei der Auswahl helfen.",
+        "Paniert und frittiert wird aus dem mageren Fleisch schnell ein fettreiches Gericht."
+      ],
+      "merke": "Auch Kalbfleisch gehört in Maßen auf den Teller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon stammt Kalbfleisch?",
+      "art": "mc",
+      "optionen": [
+        "Von jungen Rindern",
+        "Von Schafen",
+        "Von Ziegen",
+        "Von Hirschen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Tiere sind nur wenige Monate alt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie unterscheidet sich Kalbfleisch von Rindfleisch?",
+      "art": "mc",
+      "optionen": [
+        "Es ist heller, zarter und milder",
+        "Es ist dunkler und zäher",
+        "Es ist immer fettreicher",
+        "Es gibt keinen Unterschied"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb ist es so beliebt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kalbfleisch zählt nicht zum roten Fleisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Auch Kalbfleisch zählt dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kritisieren Tierschutzorganisationen?",
+      "art": "mc",
+      "optionen": [
+        "Lange Transporte junger Kälber",
+        "Zu viel Bewegung der Tiere",
+        "Zu kleine Portionen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Siegel können bei der Auswahl helfen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kalbfleisch stammt von jungen Rindern.",
+        "Es ist mager und liefert Eiweiß und Zink.",
+        "Auch Kalb zählt zum roten Fleisch.",
+        "Herkunft und Haltung lohnen einen Blick."
+      ]
+    }
+  ]
+}

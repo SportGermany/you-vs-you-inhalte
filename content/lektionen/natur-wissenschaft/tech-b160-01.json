@@ -1,0 +1,122 @@
+{
+  "id": "tech-b160-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Nachtsichtgerät?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Technik im Alltag",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "nachtsichtgeraet",
+    "restlicht",
+    "optik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Film sieht man es oft: Eine Szene in grünlichem Licht, aufgenommen mitten in der Nacht.",
+        "Möglich machen das Nachtsichtgeräte."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Restlicht verstärken",
+      "absaetze": [
+        "Klassische Nachtsichtgeräte verstärken das wenige Licht, das auch nachts vorhanden ist, etwa von Sternen und Mond. Man nennt sie Restlichtverstärker.",
+        "Das Licht trifft auf eine Schicht, die daraus Elektronen löst. Diese werden vervielfacht und erzeugen auf einem Leuchtschirm ein helles Bild."
+      ],
+      "merke": "Nachtsichtgeräte verstärken vorhandenes Restlicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das Bild grün ist",
+      "absaetze": [
+        "Der Leuchtschirm leuchtet oft grün. Das menschliche Auge kann Grüntöne besonders gut unterscheiden.",
+        "In völliger Dunkelheit ohne jedes Restlicht sehen solche Geräte nichts. Manche helfen sich dann mit unsichtbarem Infrarotlicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein anderes Prinzip: Wärmebild",
+      "absaetze": [
+        "Wärmebildkameras arbeiten anders. Sie messen die Wärmestrahlung, die Menschen, Tiere und Gegenstände abgeben.",
+        "Sie funktionieren deshalb auch in völliger Dunkelheit und zeigen warme Körper deutlich."
+      ],
+      "merke": "Wärmebildkameras messen Wärmestrahlung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verstärkt ein klassisches Nachtsichtgerät?",
+      "art": "mc",
+      "optionen": [
+        "Das vorhandene Restlicht",
+        "Den Schall",
+        "Die Wärme",
+        "Den Wind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Licht von Sternen und Mond."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist das Bild oft grün?",
+      "art": "mc",
+      "optionen": [
+        "Das Auge unterscheidet Grüntöne besonders gut",
+        "Grün ist billiger",
+        "Wegen der Bäume",
+        "Zufällig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Leuchtschirm leuchtet deshalb grün."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Restlichtverstärker sehen auch in völliger Dunkelheit ohne Hilfe.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie brauchen etwas Restlicht oder Infrarotlicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was messen Wärmebildkameras?",
+      "art": "mc",
+      "optionen": [
+        "Wärmestrahlung",
+        "Restlicht",
+        "Schallwellen",
+        "Magnetfelder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie funktionieren auch in völliger Dunkelheit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachtsichtgeräte verstärken Restlicht.",
+        "Dafür werden Elektronen vervielfacht.",
+        "Das Bild ist oft grün, weil das Auge Grün gut unterscheidet.",
+        "Wärmebildkameras arbeiten mit Wärmestrahlung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "steu-b160-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was unterscheidet Freiberufler und Gewerbetreibende?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "freiberufler",
+    "gewerbe",
+    "selbststaendigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer sich selbstständig macht, steht vor einer wichtigen Frage: freier Beruf oder Gewerbe?",
+        "Die Antwort hat Folgen für Steuern und Bürokratie."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Freie Berufe",
+      "absaetze": [
+        "Zu den freien Berufen zählen etwa Ärztinnen, Anwälte, Architektinnen, Journalisten und Künstlerinnen. Typisch ist eine besondere Qualifikation oder schöpferische Arbeit.",
+        "Freiberufler müssen kein Gewerbe anmelden und zahlen keine Gewerbesteuer. Sie melden sich direkt beim Finanzamt."
+      ],
+      "merke": "Freiberufler zahlen keine Gewerbesteuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gewerbetreibende",
+      "absaetze": [
+        "Wer zum Beispiel einen Laden, ein Handwerk oder einen Onlinehandel betreibt, ist meist gewerblich tätig. Dafür ist eine Gewerbeanmeldung bei der Gemeinde nötig.",
+        "Gewerbetreibende zahlen Gewerbesteuer, sobald ihr Gewinn einen Freibetrag übersteigt. Meist sind sie auch Pflichtmitglied in der Industrie- und Handelskammer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer entscheidet",
+      "absaetze": [
+        "Ob eine Tätigkeit freiberuflich ist, entscheidet am Ende das Finanzamt. Die Grenze ist nicht immer eindeutig, etwa bei manchen Tätigkeiten im Internet.",
+        "Lass dich im Zweifel beraten, bevor du startest."
+      ],
+      "merke": "Im Zweifel entscheidet das Finanzamt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Steuer zahlen Freiberufler nicht?",
+      "art": "mc",
+      "optionen": [
+        "Die Gewerbesteuer",
+        "Die Einkommensteuer",
+        "Die Mehrwertsteuer auf ihre Einkäufe",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie müssen auch kein Gewerbe anmelden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tätigkeit ist typischerweise freiberuflich?",
+      "art": "mc",
+      "optionen": [
+        "Journalismus",
+        "Ein Lebensmittelladen",
+        "Ein Onlinehandel mit Waren",
+        "Eine Imbissbude"
+      ],
+      "richtig": 0,
+      "erklaerung": "Typisch sind Qualifikation oder schöpferische Arbeit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gewerbetreibende müssen ihr Gewerbe nicht anmelden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie brauchen eine Gewerbeanmeldung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entscheidet am Ende über die Einordnung?",
+      "art": "mc",
+      "optionen": [
+        "Das Finanzamt",
+        "Der Nachbar",
+        "Die Bank",
+        "Die Krankenkasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Grenze ist nicht immer eindeutig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Freiberufler brauchen keine Gewerbeanmeldung.",
+        "Sie zahlen keine Gewerbesteuer.",
+        "Gewerbetreibende melden ein Gewerbe an und zahlen Gewerbesteuer.",
+        "Im Zweifel entscheidet das Finanzamt."
+      ]
+    }
+  ]
+}

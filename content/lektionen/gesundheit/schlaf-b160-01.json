@@ -1,0 +1,132 @@
+{
+  "id": "schlaf-b160-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum juckt die Haut nachts stärker?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Hautgesundheit",
+      "herausgeber": "Deutsche Dermatologische Gesellschaft",
+      "url": "https://derma.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "juckreiz",
+    "neurodermitis",
+    "haut"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tagsüber geht es noch, doch im Bett beginnt die Haut zu jucken.",
+        "Viele Menschen mit Neurodermitis oder trockener Haut kennen das."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum es nachts schlimmer wird",
+      "absaetze": [
+        "Nachts steigt die Hauttemperatur leicht, und die Haut verliert mehr Feuchtigkeit. Zudem bildet der Körper weniger vom Hormon Cortisol, das Entzündungen dämpft.",
+        "Ohne Ablenkung nimmt man das Jucken außerdem stärker wahr."
+      ],
+      "merke": "Nachts juckt die Haut oft stärker.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kratzen stört den Schlaf",
+      "absaetze": [
+        "Viele kratzen sich im Schlaf, ohne es zu merken. Das reizt die Haut weiter und kann zu Wunden führen.",
+        "Der Schlaf wird unterbrochen, und am nächsten Tag fehlt Erholung."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was helfen kann",
+      "absaetze": [
+        "Ein kühles Schlafzimmer, Bettwäsche aus Baumwolle und eine rückfettende Pflege vor dem Zubettgehen können helfen. Kurz geschnittene Nägel verringern Schäden durch Kratzen.",
+        "Bei anhaltendem Juckreiz solltest du eine Hautärztin oder einen Hautarzt aufsuchen. Es gibt gut wirksame Behandlungen."
+      ],
+      "merke": "Kühles Schlafzimmer und Hautpflege helfen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Hormon, das Entzündungen dämpft, ist nachts niedriger?",
+      "art": "mc",
+      "optionen": [
+        "Cortisol",
+        "Insulin",
+        "Adrenalin",
+        "Östrogen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb juckt es nachts oft stärker."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert oft im Schlaf bei Juckreiz?",
+      "art": "mc",
+      "optionen": [
+        "Man kratzt sich, ohne es zu merken",
+        "Man wacht nie auf",
+        "Die Haut wird sofort glatt",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das reizt die Haut weiter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein warmes Schlafzimmer lindert nächtlichen Juckreiz am besten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Ein kühles Schlafzimmer hilft eher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verringert Schäden durch nächtliches Kratzen?",
+      "art": "mc",
+      "optionen": [
+        "Kurz geschnittene Nägel",
+        "Lange Nägel",
+        "Wollpullover im Bett",
+        "Heiße Bäder vor dem Schlafen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch rückfettende Pflege hilft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachts juckt die Haut oft stärker.",
+        "Kratzen im Schlaf stört die Erholung.",
+        "Kühler Raum, Baumwolle und Pflege helfen.",
+        "Anhaltenden Juckreiz ärztlich behandeln lassen."
+      ]
+    }
+  ]
+}

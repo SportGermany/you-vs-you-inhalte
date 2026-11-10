@@ -1,0 +1,128 @@
+{
+  "id": "vers-b160-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Darfst du am Arbeitsplatz privat im Internet surfen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesunde Arbeit",
+      "herausgeber": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)",
+      "url": "https://www.baua.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "internet",
+    "arbeitsplatz",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kurz die Nachrichten checken oder online etwas bestellen, während der Arbeitszeit.",
+        "Ob das erlaubt ist, hängt von den Regeln in deinem Betrieb ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Arbeitgeber entscheidet",
+      "absaetze": [
+        "Ein gesetzliches Recht auf privates Surfen am Arbeitsplatz gibt es nicht. Der Arbeitgeber kann es erlauben, begrenzen oder verbieten.",
+        "Oft ist das im Arbeitsvertrag, in einer Betriebsvereinbarung oder einer IT-Richtlinie geregelt."
+      ],
+      "merke": "Ob privates Surfen erlaubt ist, entscheidet der Arbeitgeber."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es erlaubt ist",
+      "absaetze": [
+        "Auch wenn privates Surfen erlaubt ist, sollte es im Rahmen bleiben. Stundenlanges Surfen während der Arbeitszeit kann eine Abmahnung oder im Extremfall eine Kündigung nach sich ziehen.",
+        "Illegale Inhalte oder Downloads sind ohnehin tabu."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kontrolle und Datenschutz",
+      "absaetze": [
+        "Der Arbeitgeber darf die Internetnutzung nicht beliebig überwachen. Es gelten Regeln des Datenschutzes, und der Betriebsrat hat bei Überwachungstechnik ein Mitspracherecht.",
+        "Am sichersten nutzt du für Privates dein eigenes Handy in der Pause."
+      ],
+      "merke": "Für Privates am besten das eigene Handy in der Pause nutzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gibt es ein gesetzliches Recht auf privates Surfen am Arbeitsplatz?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, unbegrenzt",
+        "Ja, eine Stunde täglich",
+        "Nur freitags"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Arbeitgeber legt die Regeln fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann übermäßiges privates Surfen nach sich ziehen?",
+      "art": "mc",
+      "optionen": [
+        "Eine Abmahnung oder Kündigung",
+        "Eine Beförderung",
+        "Mehr Urlaub",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch wenn es grundsätzlich erlaubt ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Arbeitgeber darf die Internetnutzung ohne jede Grenze überwachen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Datenschutz und Mitbestimmung setzen Grenzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für Privates am sichersten?",
+      "art": "mc",
+      "optionen": [
+        "Das eigene Handy in der Pause",
+        "Der Firmenrechner während eines Meetings",
+        "Der Laptop des Chefs",
+        "Gar nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du Konflikte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Recht auf privates Surfen gibt es nicht.",
+        "Der Arbeitgeber legt die Regeln fest.",
+        "Übermäßiges Surfen kann arbeitsrechtliche Folgen haben.",
+        "Überwachung ist nur in Grenzen erlaubt."
+      ]
+    }
+  ]
+}
