@@ -1,0 +1,122 @@
+{
+  "id": "tech-b157-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Akkuschrauber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Technik im Alltag",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "akkuschrauber",
+    "werkzeug",
+    "elektromotor"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Akkuschrauber ist eines der beliebtesten Werkzeuge im Haushalt.",
+        "In dem handlichen Gerät steckt erstaunlich viel Technik."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Motor und Getriebe",
+      "absaetze": [
+        "Ein Elektromotor treibt das Futter an, in dem der Bit oder Bohrer steckt. Ein Getriebe übersetzt die schnelle Drehung des Motors in mehr Kraft.",
+        "Viele Geräte haben zwei Gänge: langsam mit viel Kraft zum Schrauben, schnell zum Bohren."
+      ],
+      "merke": "Ein Getriebe macht aus Tempo Kraft."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Drehmomentkupplung",
+      "absaetze": [
+        "Am Ring vorne stellst du das Drehmoment ein. Ist die eingestellte Kraft erreicht, rastet die Kupplung aus und es rattert.",
+        "So wird eine Schraube nicht zu fest angezogen und das Holz nicht beschädigt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Akku und Pflege",
+      "absaetze": [
+        "Moderne Geräte nutzen Lithium-Ionen-Akkus. Sie sind leicht und verlieren beim Lagern kaum Ladung.",
+        "Lagere Akkus nicht in praller Sonne oder bei Frost. Viele Hersteller nutzen einheitliche Akkus für mehrere Geräte."
+      ],
+      "merke": "Akkus nicht bei Hitze oder Frost lagern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient das Getriebe im Akkuschrauber?",
+      "art": "mc",
+      "optionen": [
+        "Es macht aus schneller Drehung mehr Kraft",
+        "Es lädt den Akku",
+        "Es kühlt das Gerät",
+        "Es misst die Temperatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Geräte haben zwei Gänge."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert, wenn das eingestellte Drehmoment erreicht ist?",
+      "art": "mc",
+      "optionen": [
+        "Die Kupplung rastet aus und es rattert",
+        "Das Gerät explodiert",
+        "Der Akku wird leer",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So wird die Schraube nicht zu fest angezogen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Lithium-Ionen-Akkus solltest du in praller Sonne lagern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Hitze und Frost schaden dem Akku."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Gang nutzt du zum Schrauben?",
+      "art": "mc",
+      "optionen": [
+        "Den langsamen mit viel Kraft",
+        "Den schnellen",
+        "Gar keinen",
+        "Den Rückwärtsgang beim Bohren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der schnelle Gang ist zum Bohren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Elektromotor treibt den Akkuschrauber an.",
+        "Ein Getriebe sorgt für mehr Kraft.",
+        "Die Drehmomentkupplung verhindert zu festes Anziehen.",
+        "Akkus vor Hitze und Frost schützen."
+      ]
+    }
+  ]
+}

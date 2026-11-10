@@ -1,0 +1,131 @@
+{
+  "id": "stoff-b157-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Helfen Gentests bei der Wahl der richtigen Diät?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gentest",
+    "diaet",
+    "stoffwechseltyp"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Anbieter versprechen, anhand einer Speichelprobe deinen Stoffwechseltyp zu bestimmen.",
+        "Dann soll klar sein, ob du mit wenig Fett oder wenig Kohlenhydraten besser abnimmst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Idee",
+      "absaetze": [
+        "Bestimmte Genvarianten beeinflussen, wie der Körper mit Fett und Zucker umgeht. Daraus leiten manche Firmen persönliche Ernährungspläne ab.",
+        "Solche Tests kosten oft mehrere Hundert Euro."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Studien zeigen",
+      "absaetze": [
+        "In einer großen Studie nahmen Menschen ab, egal ob ihre Gene eher zu einer fettarmen oder kohlenhydratarmen Ernährung passten. Die Gene sagten den Erfolg nicht voraus.",
+        "Das Körpergewicht hängt von sehr vielen Genen und Lebensumständen ab. Einzelne Genvarianten erklären nur einen kleinen Teil."
+      ],
+      "merke": "Gentests konnten den Diäterfolg nicht vorhersagen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich zählt",
+      "absaetze": [
+        "Am erfolgreichsten ist eine Ernährung, die du dauerhaft durchhältst. Dazu gehören viel Gemüse, Vollkorn und wenig stark verarbeitete Lebensmittel.",
+        "Gib Gesundheitsdaten nur nach sorgfältiger Prüfung an Firmen weiter. Und wenn sich deine Gedanken ständig um Essen und Gewicht drehen, kann das ein Hinweis auf eine Essstörung sein."
+      ],
+      "merke": "Entscheidend ist eine Ernährung, die du durchhältst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was versprechen Diät-Gentests?",
+      "art": "mc",
+      "optionen": [
+        "Die passende Diät anhand der Gene",
+        "Eine Heilung von Krankheiten",
+        "Mehr Muskeln über Nacht",
+        "Bessere Noten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür wird meist eine Speichelprobe untersucht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigte eine große Studie?",
+      "art": "mc",
+      "optionen": [
+        "Die Gene sagten den Diäterfolg nicht voraus",
+        "Gentests verdoppeln den Erfolg",
+        "Nur Gentests helfen beim Abnehmen",
+        "Gene spielen gar keine Rolle für den Körper"
+      ],
+      "richtig": 0,
+      "erklaerung": "Menschen nahmen mit beiden Diäten ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Körpergewicht hängt nur von einem einzigen Gen ab.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Viele Gene und Lebensumstände spielen mit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist für den Erfolg am wichtigsten?",
+      "art": "mc",
+      "optionen": [
+        "Eine Ernährung, die du dauerhaft durchhältst",
+        "Ein teurer Test",
+        "Möglichst wenig essen",
+        "Nur Eiweißshakes"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören viel Gemüse und Vollkorn."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Diät-Gentests versprechen persönliche Ernährungspläne.",
+        "Studien konnten diesen Nutzen nicht bestätigen.",
+        "Das Gewicht hängt von vielen Faktoren ab.",
+        "Entscheidend ist eine Ernährung, die du durchhältst.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

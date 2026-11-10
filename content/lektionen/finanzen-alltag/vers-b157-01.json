@@ -1,0 +1,122 @@
+{
+  "id": "vers-b157-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Was passiert, wenn du im Urlaub krank wirst?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "urlaub",
+    "krankheit",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Endlich Urlaub, und dann liegst du mit Fieber im Bett.",
+        "Die gute Nachricht: Diese Tage sind nicht verloren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Krankheitstage zählen nicht als Urlaub",
+      "absaetze": [
+        "Wirst du im Urlaub krank, werden die Krankheitstage nicht auf deinen Urlaub angerechnet. Das regelt das Bundesurlaubsgesetz.",
+        "Voraussetzung ist ein ärztliches Attest über deine Arbeitsunfähigkeit."
+      ],
+      "merke": "Mit Attest werden Krankheitstage nicht als Urlaub gezählt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sofort Bescheid geben",
+      "absaetze": [
+        "Melde deinem Arbeitgeber die Krankheit so schnell wie möglich. Das gilt auch, wenn du im Ausland bist.",
+        "Lass dir vor Ort eine ärztliche Bescheinigung ausstellen. Sie sollte deutlich machen, dass du arbeitsunfähig warst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was danach gilt",
+      "absaetze": [
+        "Die gesparten Urlaubstage verfallen nicht. Du kannst sie später nehmen, musst sie aber neu beantragen.",
+        "Du darfst den Urlaub nicht einfach eigenmächtig verlängern. Kläre neue Urlaubstage immer mit deinem Arbeitgeber ab."
+      ],
+      "merke": "Den Urlaub nicht eigenmächtig verlängern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit Krankheitstagen im Urlaub?",
+      "art": "mc",
+      "optionen": [
+        "Sie werden mit Attest nicht als Urlaub gezählt",
+        "Sie sind verloren",
+        "Sie werden doppelt abgezogen",
+        "Sie verlängern automatisch den Urlaub"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das regelt das Bundesurlaubsgesetz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du dafür?",
+      "art": "mc",
+      "optionen": [
+        "Ein ärztliches Attest über deine Arbeitsunfähigkeit",
+        "Ein Urlaubsfoto",
+        "Eine Hotelrechnung",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch im Ausland."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Du darfst deinen Urlaub um die Krankheitstage selbst verlängern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Neue Urlaubstage musst du beantragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du deinen Arbeitgeber informieren?",
+      "art": "mc",
+      "optionen": [
+        "So schnell wie möglich",
+        "Erst nach dem Urlaub",
+        "Gar nicht",
+        "Nach einem Monat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt auch im Ausland."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Krankheitstage im Urlaub werden mit Attest nicht angerechnet.",
+        "Informiere deinen Arbeitgeber sofort.",
+        "Lass dir die Arbeitsunfähigkeit ärztlich bescheinigen.",
+        "Den Urlaub nicht eigenmächtig verlängern."
+      ]
+    }
+  ]
+}

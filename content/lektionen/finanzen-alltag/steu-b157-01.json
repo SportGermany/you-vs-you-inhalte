@@ -1,0 +1,128 @@
+{
+  "id": "steu-b157-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist eine Einnahmenüberschussrechnung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Formulare und Leistungen",
+      "herausgeber": "ELSTER",
+      "url": "https://www.elster.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "euer",
+    "selbststaendigkeit",
+    "steuern"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer freiberuflich arbeitet oder ein kleines Gewerbe hat, muss seinen Gewinn ermitteln.",
+        "Für viele genügt dafür eine vergleichsweise einfache Methode."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einnahmen minus Ausgaben",
+      "absaetze": [
+        "Bei der Einnahmenüberschussrechnung, kurz EÜR, ziehst du die betrieblichen Ausgaben von den Einnahmen ab. Was übrig bleibt, ist dein Gewinn.",
+        "Eine aufwendige Bilanz brauchst du dafür nicht. Die EÜR ist für Freiberufler und kleine Gewerbetreibende gedacht."
+      ],
+      "merke": "Gewinn ist Einnahmen minus Ausgaben."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wann etwas zählt",
+      "absaetze": [
+        "Entscheidend ist, wann Geld tatsächlich fließt. Eine Rechnung zählt also erst, wenn sie bezahlt ist.",
+        "Teure Anschaffungen wie ein Computer werden oft über mehrere Jahre verteilt abgeschrieben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Belege und Formulare",
+      "absaetze": [
+        "Die EÜR wird mit der Anlage EÜR elektronisch an das Finanzamt übermittelt, etwa über ELSTER. Bewahre alle Belege sorgfältig auf.",
+        "Trenne berufliche und private Ausgaben möglichst sauber, am einfachsten mit einem eigenen Konto."
+      ],
+      "merke": "Belege aufbewahren und Konten trennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie berechnest du bei der EÜR den Gewinn?",
+      "art": "mc",
+      "optionen": [
+        "Einnahmen minus betriebliche Ausgaben",
+        "Umsatz mal zwei",
+        "Nur die Ausgaben zählen",
+        "Nach dem Gefühl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Bilanz ist nicht nötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist die EÜR gedacht?",
+      "art": "mc",
+      "optionen": [
+        "Für Freiberufler und kleine Gewerbetreibende",
+        "Für große Konzerne",
+        "Nur für Rentner",
+        "Für Vereine ohne Einnahmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Größere Firmen müssen bilanzieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei der EÜR zählt eine Rechnung schon, wenn sie geschrieben ist.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie zählt, wenn sie bezahlt ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie übermittelst du die EÜR?",
+      "art": "mc",
+      "optionen": [
+        "Elektronisch, etwa über ELSTER",
+        "Per Postkarte",
+        "Telefonisch",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür gibt es die Anlage EÜR."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die EÜR zieht Ausgaben von Einnahmen ab.",
+        "Sie ist für Freiberufler und kleine Gewerbe gedacht.",
+        "Es zählt, wann Geld tatsächlich fließt.",
+        "Belege aufbewahren und Konten trennen."
+      ]
+    }
+  ]
+}

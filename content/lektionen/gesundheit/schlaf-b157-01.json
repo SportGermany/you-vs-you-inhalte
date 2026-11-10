@@ -1,0 +1,126 @@
+{
+  "id": "schlaf-b157-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Was passiert im Gehirn beim Einschlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "einschlafen",
+    "gehirn",
+    "hirnwellen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Einschlafen fühlt sich an wie ein Schalter, der umgelegt wird.",
+        "Tatsächlich ist es ein allmählicher Übergang, bei dem sich das Gehirn stark verändert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Langsamere Hirnwellen",
+      "absaetze": [
+        "Wenn du entspannt mit geschlossenen Augen liegst, zeigt das Gehirn ruhige Alpha-Wellen. Beim Einschlafen werden die Wellen noch langsamer.",
+        "Im ersten Leichtschlaf bist du noch leicht zu wecken. Manche merken gar nicht, dass sie schon geschlafen haben."
+      ],
+      "merke": "Beim Einschlafen werden die Hirnwellen langsamer.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Tore schließen sich",
+      "absaetze": [
+        "Eine Region im Zwischenhirn, der Thalamus, filtert dann viele Reize von außen heraus. Geräusche und Berührungen dringen weniger durch.",
+        "Die Muskeln entspannen sich. Dabei kann es zu einem kurzen Zucken kommen, das viele kennen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das Einschlafen steuert",
+      "absaetze": [
+        "Zwei Kräfte arbeiten zusammen. Der Schlafdruck wächst, je länger du wach bist, und die innere Uhr signalisiert, wann Nacht ist.",
+        "Stress und Grübeln halten das Gehirn dagegen in Alarmbereitschaft. Eine ruhige Abendroutine erleichtert den Übergang."
+      ],
+      "merke": "Schlafdruck und innere Uhr steuern das Einschlafen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit den Hirnwellen beim Einschlafen?",
+      "art": "mc",
+      "optionen": [
+        "Sie werden langsamer",
+        "Sie werden schneller",
+        "Sie verschwinden ganz",
+        "Sie bleiben gleich"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das zeigt ein EEG im Schlaflabor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Hirnregion filtert beim Einschlafen Reize heraus?",
+      "art": "mc",
+      "optionen": [
+        "Der Thalamus",
+        "Das Kleinhirn",
+        "Die Hirnanhangdrüse",
+        "Der Sehnerv"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er liegt im Zwischenhirn."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im ersten Leichtschlaf ist man nur sehr schwer zu wecken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Man ist noch leicht zu wecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hält das Gehirn vom Einschlafen ab?",
+      "art": "mc",
+      "optionen": [
+        "Stress und Grübeln",
+        "Eine ruhige Abendroutine",
+        "Ein dunkler Raum",
+        "Müdigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie halten es in Alarmbereitschaft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beim Einschlafen werden die Hirnwellen langsamer.",
+        "Der Thalamus filtert Reize von außen heraus.",
+        "Schlafdruck und innere Uhr steuern den Übergang.",
+        "Stress und Grübeln erschweren das Einschlafen."
+      ]
+    }
+  ]
+}
