@@ -1,0 +1,126 @@
+{
+  "id": "schlaf-b162-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Wie schlafen Menschen in Polarnacht und Mitternachtssonne?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "polarnacht",
+    "mitternachtssonne",
+    "licht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im hohen Norden geht die Sonne im Winter wochenlang nicht auf und im Sommer nicht unter.",
+        "Das stellt die innere Uhr vor besondere Aufgaben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht stellt die innere Uhr",
+      "absaetze": [
+        "Tageslicht am Morgen ist der wichtigste Taktgeber für die innere Uhr. Am Abend steigt im Dunkeln das Schlafhormon Melatonin.",
+        "Fehlt dieser Wechsel, kann sich der Schlafrhythmus verschieben."
+      ],
+      "merke": "Tageslicht ist der wichtigste Taktgeber der inneren Uhr.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "In der Polarnacht",
+      "absaetze": [
+        "Ohne Morgensonne fällt vielen das Aufstehen schwer, und der Rhythmus rutscht nach hinten. Manche fühlen sich müde und niedergeschlagen.",
+        "Es gibt Hinweise, dass helle Lampen am Morgen und feste Aufstehzeiten den Rhythmus stabilisieren."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unter der Mitternachtssonne",
+      "absaetze": [
+        "Im Sommer bleibt es auch nachts hell. Viele gehen dann später ins Bett und schlafen kürzer.",
+        "Verdunkelnde Vorhänge oder eine Schlafmaske helfen, das Schlafzimmer dunkel zu halten. Diese Tipps nützen auch bei hellen Sommernächten in Deutschland."
+      ],
+      "merke": "Verdunkelung hilft in hellen Nächten.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der wichtigste Taktgeber der inneren Uhr?",
+      "art": "mc",
+      "optionen": [
+        "Tageslicht",
+        "Das Abendessen",
+        "Der Wecker",
+        "Die Raumtemperatur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Besonders Licht am Morgen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann in der Polarnacht den Rhythmus stabilisieren?",
+      "art": "mc",
+      "optionen": [
+        "Helle Lampen am Morgen und feste Aufstehzeiten",
+        "Lange ausschlafen",
+        "Kaffee am Abend",
+        "Nachts Sport"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür gibt es Hinweise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Unter der Mitternachtssonne schlafen viele länger als sonst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Viele schlafen eher kürzer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft in hellen Sommernächten?",
+      "art": "mc",
+      "optionen": [
+        "Verdunkelnde Vorhänge oder eine Schlafmaske",
+        "Licht anlassen",
+        "Fenster weit öffnen",
+        "Fernsehen im Bett"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt das Schlafzimmer dunkel."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tageslicht stellt die innere Uhr.",
+        "In der Polarnacht verschiebt sich der Rhythmus leicht.",
+        "Helle Lampen am Morgen können helfen.",
+        "Bei hellen Nächten hilft Verdunkelung."
+      ]
+    }
+  ]
+}

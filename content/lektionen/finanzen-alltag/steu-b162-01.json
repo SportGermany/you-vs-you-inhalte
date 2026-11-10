@@ -1,0 +1,128 @@
+{
+  "id": "steu-b162-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was bedeutet der Hebesatz einer Gemeinde?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hebesatz",
+    "grundsteuer",
+    "gewerbesteuer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Grundsteuer und Gewerbesteuer sind in jeder Gemeinde unterschiedlich hoch.",
+        "Der Grund dafür ist der sogenannte Hebesatz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So wird gerechnet",
+      "absaetze": [
+        "Das Finanzamt ermittelt zuerst einen Steuermessbetrag. Die Gemeinde multipliziert diesen Betrag dann mit ihrem Hebesatz.",
+        "Der Hebesatz wird in Prozent angegeben. Ein höherer Hebesatz bedeutet eine höhere Steuer."
+      ],
+      "merke": "Messbetrag mal Hebesatz ergibt die Steuer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Gemeinde entscheidet",
+      "absaetze": [
+        "Jede Gemeinde legt ihre Hebesätze selbst fest. So kann dieselbe Wohnung in zwei Nachbarorten unterschiedlich viel Grundsteuer kosten.",
+        "Bei der Gewerbesteuer schreibt das Gesetz einen Mindesthebesatz von 200 Prozent vor."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum das wichtig ist",
+      "absaetze": [
+        "Grund- und Gewerbesteuer sind wichtige Einnahmen der Gemeinden. Damit bezahlen sie zum Beispiel Schulen, Straßen und Schwimmbäder.",
+        "Mieter spüren die Grundsteuer über die Nebenkosten. Die aktuellen Hebesätze findest du meist auf der Internetseite deiner Gemeinde."
+      ],
+      "merke": "Jede Gemeinde legt ihre Hebesätze selbst fest."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird die Grundsteuer berechnet?",
+      "art": "mc",
+      "optionen": [
+        "Messbetrag mal Hebesatz",
+        "Miete mal zwei",
+        "Einkommen geteilt durch zehn",
+        "Fester Betrag für alle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Messbetrag ermittelt das Finanzamt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer legt den Hebesatz fest?",
+      "art": "mc",
+      "optionen": [
+        "Die Gemeinde",
+        "Die EU",
+        "Der Vermieter",
+        "Die Bank"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb unterscheidet er sich von Ort zu Ort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei der Gewerbesteuer gibt es einen gesetzlichen Mindesthebesatz.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er liegt bei 200 Prozent."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie spüren Mieter die Grundsteuer?",
+      "art": "mc",
+      "optionen": [
+        "Über die Nebenkosten",
+        "Gar nicht",
+        "Über die Lohnsteuer",
+        "Über die Kfz-Steuer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vermieter dürfen sie umlegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Messbetrag mal Hebesatz ergibt die Steuer.",
+        "Jede Gemeinde legt ihre Hebesätze selbst fest.",
+        "Bei der Gewerbesteuer gelten mindestens 200 Prozent.",
+        "Mieter zahlen die Grundsteuer über die Nebenkosten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "geld-b162-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie funktioniert ein Goldsparplan?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gold und Währungsreserven",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gold",
+    "sparplan",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manche Banken und Händler bieten an, jeden Monat einen festen Betrag in Gold anzulegen.",
+        "Das klingt einfach, doch es lohnt sich, genau hinzusehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "So funktioniert es",
+      "absaetze": [
+        "Du zahlst regelmäßig einen festen Betrag ein, zum Beispiel monatlich. Dafür bekommst du Bruchteile von Gramm Gold gutgeschrieben.",
+        "Das Gold wird meist gesammelt für dich gelagert. Bei manchen Anbietern kannst du es dir ab einer bestimmten Menge ausliefern lassen."
+      ],
+      "merke": "Du kaufst regelmäßig kleine Mengen Gold."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kosten im Blick",
+      "absaetze": [
+        "Beim Kauf fallen oft Aufschläge an, für die Lagerung jährliche Gebühren. Auch beim Verkauf liegt der Preis meist etwas unter dem Kaufpreis.",
+        "Diese Kosten schmälern den Ertrag. Vergleiche deshalb die Angebote genau."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du wissen solltest",
+      "absaetze": [
+        "Gold bringt keine Zinsen oder Dividenden, du profitierst nur von Preissteigerungen. Der Goldpreis kann stark schwanken.",
+        "Gewinne aus physischem Gold sind nach mehr als einem Jahr Haltedauer in der Regel steuerfrei. Gold eignet sich eher als Beimischung, nicht als einzige Geldanlage."
+      ],
+      "merke": "Gold bringt keine Zinsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bekommst du bei einem Goldsparplan gutgeschrieben?",
+      "art": "mc",
+      "optionen": [
+        "Bruchteile von Gramm Gold",
+        "Aktien",
+        "Zinsen auf ein Tagesgeldkonto",
+        "Bitcoin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Du zahlst regelmäßig einen festen Betrag ein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Kosten können anfallen?",
+      "art": "mc",
+      "optionen": [
+        "Kaufaufschläge und Lagergebühren",
+        "Keine",
+        "Nur eine Hundesteuer",
+        "Rundfunkbeitrag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie schmälern den Ertrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gold bringt regelmäßig Zinsen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Du profitierst nur von Preissteigerungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sind Gewinne aus physischem Gold in der Regel steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Nach mehr als einem Jahr Haltedauer",
+        "Sofort",
+        "Nie",
+        "Nach einer Woche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt für physisches Gold."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Goldsparplan kauft regelmäßig kleine Mengen Gold.",
+        "Aufschläge und Lagergebühren schmälern den Ertrag.",
+        "Gold bringt keine Zinsen.",
+        "Gold eignet sich eher als Beimischung."
+      ]
+    }
+  ]
+}

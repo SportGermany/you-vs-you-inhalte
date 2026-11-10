@@ -1,0 +1,129 @@
+{
+  "id": "ern-b162-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Karpfen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fischerei und Aquakultur",
+      "herausgeber": "Thünen-Institut",
+      "url": "https://www.thuenen.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "karpfen",
+    "fisch",
+    "suesswasser"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In vielen Familien kommt an Weihnachten oder Silvester traditionell Karpfen auf den Tisch.",
+        "Der Süßwasserfisch hat aber auch sonst einiges zu bieten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fisch aus dem Teich",
+      "absaetze": [
+        "Karpfen werden in Deutschland seit Jahrhunderten in Teichen gezüchtet. Bekannte Regionen sind Franken und die Oberlausitz.",
+        "Die Teiche liefern viel natürliches Futter. Oft wird nur etwas Getreide zugefüttert."
+      ],
+      "merke": "Karpfen stammen meist aus heimischen Teichen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Karpfen steckt",
+      "absaetze": [
+        "Karpfen liefert hochwertiges Eiweiß, Vitamin D und B-Vitamine. Er enthält weniger Omega-3-Fettsäuren als fettreiche Meeresfische wie Hering oder Lachs.",
+        "Der Fettgehalt hängt von Haltung und Jahreszeit ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Sache mit den Gräten",
+      "absaetze": [
+        "Karpfen haben feine, gegabelte Gräten im Muskelfleisch. Beim sogenannten Schröpfen wird das Filet in dünnen Abständen eingeschnitten.",
+        "Beim Braten werden die Gräten dadurch so weich, dass sie kaum noch stören."
+      ],
+      "merke": "Schröpfen macht die feinen Gräten weich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo werden Karpfen in Deutschland vor allem gezüchtet?",
+      "art": "mc",
+      "optionen": [
+        "In Teichen",
+        "In Salzwasserbecken",
+        "Auf Hochseeschiffen",
+        "In Gewächshäusern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bekannt sind Franken und die Oberlausitz."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Omega-3 enthält Karpfen im Vergleich zu Hering?",
+      "art": "mc",
+      "optionen": [
+        "Weniger",
+        "Viel mehr",
+        "Genau gleich viel",
+        "Gar keins"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fettreiche Meeresfische liefern mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt das Schröpfen?",
+      "art": "mc",
+      "optionen": [
+        "Die feinen Gräten werden beim Braten weich",
+        "Der Fisch wird haltbarer",
+        "Der Fisch wird salziger",
+        "Die Haut wird entfernt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Filet wird dazu fein eingeschnitten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Karpfen liefert hochwertiges Eiweiß.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dazu kommen Vitamin D und B-Vitamine."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Karpfen stammen meist aus heimischen Teichen.",
+        "Sie liefern Eiweiß, Vitamin D und B-Vitamine.",
+        "Sie enthalten weniger Omega-3 als Hering oder Lachs.",
+        "Schröpfen macht die feinen Gräten weich."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "all-b162-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist der rosa Streifen am Abendhimmel?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Atmosphäre und Himmel",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "erdschatten",
+    "daemmerung",
+    "himmel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach Sonnenuntergang lohnt sich ein Blick in die Gegenrichtung, nach Osten.",
+        "Dort zeigt sich bei klarem Wetter ein besonderes Farbspiel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Schatten der Erde",
+      "absaetze": [
+        "Direkt über dem östlichen Horizont erscheint ein dunkler, blaugrauer Streifen. Das ist der Schatten der Erde, der auf die Atmosphäre fällt.",
+        "Je tiefer die Sonne sinkt, desto höher steigt dieser Streifen, bis er im Nachthimmel verschwindet."
+      ],
+      "merke": "Der dunkle Streifen ist der Schatten der Erde."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Venusgürtel",
+      "absaetze": [
+        "Über dem Erdschatten leuchtet ein rosa Band. Dort wird die Luft noch vom roten Licht der untergehenden Sonne getroffen.",
+        "Dieses Band heißt Venusgürtel. Es ist nach der römischen Göttin benannt, nicht nach dem Planeten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch am Morgen",
+      "absaetze": [
+        "Dasselbe Schauspiel gibt es vor Sonnenaufgang, dann im Westen. Am besten siehst du es bei klarer Luft und freiem Blick zum Horizont.",
+        "Am Meer oder auf Bergen ist es oft besonders gut zu erkennen."
+      ],
+      "merke": "Am Morgen zeigt sich der Venusgürtel im Westen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welche Richtung schaust du nach Sonnenuntergang?",
+      "art": "mc",
+      "optionen": [
+        "Nach Osten",
+        "Nach Westen",
+        "Senkrecht nach oben",
+        "In den Boden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Also in die Gegenrichtung zur Sonne."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist der dunkle Streifen am Horizont?",
+      "art": "mc",
+      "optionen": [
+        "Der Schatten der Erde",
+        "Eine Regenwolke",
+        "Der Mond",
+        "Smog"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er fällt auf die Atmosphäre."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Venusgürtel ist nach dem Planeten Venus benannt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist nach der römischen Göttin benannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann gibt es das Farbspiel noch?",
+      "art": "mc",
+      "optionen": [
+        "Vor Sonnenaufgang im Westen",
+        "Nur zur Mittagszeit",
+        "Nur bei Gewitter",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann liegt es gegenüber der aufgehenden Sonne."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nach Sonnenuntergang erscheint im Osten der Erdschatten.",
+        "Darüber leuchtet der rosa Venusgürtel.",
+        "Der Name stammt von der römischen Göttin.",
+        "Morgens zeigt sich das Farbspiel im Westen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "ern-b162-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Sind Wachteleier gesünder als Hühnereier?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "wachteleier",
+    "eier",
+    "lebensmittelsicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wachteleier sind klein, gesprenkelt und gelten manchen als besonders wertvoll.",
+        "Doch was steckt wirklich drin?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Klein, aber ähnlich",
+      "absaetze": [
+        "Ein Wachtelei wiegt nur etwa ein Fünftel eines Hühnereis. Bezogen auf das Gewicht liefern beide ähnlich viel Eiweiß, Fett und Vitamine.",
+        "Der Dotteranteil ist bei Wachteleiern etwas höher. Einen großen Gesundheitsvorteil bietet das aber nicht."
+      ],
+      "merke": "Wachteleier sind nicht deutlich gesünder als Hühnereier.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch hier gilt Hygiene",
+      "absaetze": [
+        "Auch Wachteleier können Salmonellen enthalten. Gegarte Wachteleier sind deshalb die sicherere Wahl, vor allem für Kinder, Schwangere und ältere Menschen.",
+        "Lagere sie im Kühlschrank und achte auf das Mindesthaltbarkeitsdatum."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Allergien beachten",
+      "absaetze": [
+        "Wer auf Hühnerei allergisch reagiert, verträgt Wachteleier oft ebenfalls nicht. Die Eiweiße sind sich sehr ähnlich.",
+        "Wachteleier sind also keine sichere Alternative bei einer Eiallergie."
+      ],
+      "merke": "Bei Eiallergie sind Wachteleier keine sichere Alternative.",
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Wachteleier sind ein Superfood mit Heilkräften.",
+      "urteil": "mythos",
+      "erklaerung": "Ihre Nährstoffe ähneln denen von Hühnereiern. Besondere Heilwirkungen sind nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie unterscheiden sich Wachteleier und Hühnereier bezogen auf das Gewicht?",
+      "art": "mc",
+      "optionen": [
+        "Sie liefern ähnlich viele Nährstoffe",
+        "Wachteleier haben zehnmal mehr Vitamine",
+        "Hühnereier enthalten kein Eiweiß",
+        "Wachteleier enthalten kein Fett"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Dotteranteil ist etwas höher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Können Wachteleier Salmonellen enthalten?",
+      "art": "mc",
+      "optionen": [
+        "Ja, deshalb sind gegarte Eier sicherer",
+        "Nein, nie",
+        "Nur im Sommer",
+        "Nur gekocht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das gilt besonders für empfindliche Gruppen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wachteleier sind bei Hühnereiallergie eine sichere Alternative.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Die Eiweiße sind sich sehr ähnlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo solltest du Wachteleier lagern?",
+      "art": "mc",
+      "optionen": [
+        "Im Kühlschrank",
+        "In der Sonne",
+        "Im Backofen",
+        "Im Badezimmer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Achte auch auf das Mindesthaltbarkeitsdatum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wachteleier ähneln Hühnereiern in den Nährstoffen.",
+        "Besondere Heilwirkungen sind nicht belegt.",
+        "Gegarte Wachteleier sind sicherer.",
+        "Bei Eiallergie keine sichere Alternative."
+      ]
+    }
+  ]
+}

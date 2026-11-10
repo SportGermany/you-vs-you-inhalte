@@ -1,0 +1,141 @@
+{
+  "id": "supp-b162-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von NAC-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nac",
+    "acetylcystein",
+    "antioxidantien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "NAC steht für N-Acetylcystein. Im Internet wird es als Kapsel für Entgiftung, Immunsystem und Psyche beworben.",
+        "In Deutschland kennen es viele eher aus der Apotheke gegen Husten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein bekannter Wirkstoff",
+      "absaetze": [
+        "Acetylcystein ist in Deutschland als Arzneimittel zugelassen, vor allem als Schleimlöser bei Husten. In Kliniken setzen Ärzte es auch bei Paracetamol-Vergiftungen ein.",
+        "Der Körper kann daraus Glutathion bilden, einen körpereigenen Schutzstoff gegen Zellschäden."
+      ],
+      "merke": "Acetylcystein ist als Arzneimittel bekannt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Werbung verspricht",
+      "absaetze": [
+        "Für viele beworbene Wirkungen gibt es nur kleine oder widersprüchliche Studien. Ob gesunde Menschen von zusätzlichem NAC profitieren, ist unklar.",
+        "Begriffe wie Entgiftung klingen gut, sagen aber wenig. Leber und Nieren übernehmen diese Aufgabe bei Gesunden selbst."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nebenwirkungen möglich",
+      "absaetze": [
+        "Acetylcystein kann Magen-Darm-Beschwerden und allergische Reaktionen auslösen. Bei Asthma kann es möglicherweise die Atemwege verengen.",
+        "Es kann außerdem mit Medikamenten zusammenwirken. Sprich deshalb vorher mit Ärztin, Arzt oder Apotheke."
+      ],
+      "merke": "Vorher mit Ärztin, Arzt oder Apotheke sprechen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Asthma nur nach ärztlicher Rücksprache.",
+        "Wechselwirkungen mit Medikamenten möglich.",
+        "Nicht ohne Rat in Schwangerschaft und Stillzeit.",
+        "Nicht für Kinder ohne ärztliche Empfehlung."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist Acetylcystein in Deutschland vor allem als Arzneimittel zugelassen?",
+      "art": "mc",
+      "optionen": [
+        "Als Schleimlöser bei Husten",
+        "Als Schlafmittel",
+        "Gegen Haarausfall",
+        "Zum Abnehmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "In Kliniken auch bei Paracetamol-Vergiftungen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Nutzen von NAC für Gesunde gesichert?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das ist unklar",
+        "Ja, eindeutig",
+        "Ja, für alle",
+        "Ja, es ersetzt Gemüse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Studien sind klein oder widersprüchlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Asthma kann NAC möglicherweise die Atemwege verengen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Deshalb vorher ärztlich besprechen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer übernimmt bei Gesunden die Entgiftung?",
+      "art": "mc",
+      "optionen": [
+        "Leber und Nieren",
+        "Die Haare",
+        "Die Haut allein",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Entgiftung ist oft nur ein Werbebegriff."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Acetylcystein ist als Hustenmittel zugelassen.",
+        "Ein Nutzen für Gesunde ist unklar.",
+        "Nebenwirkungen und Wechselwirkungen sind möglich.",
+        "Vorher ärztlich oder in der Apotheke beraten lassen."
+      ]
+    }
+  ]
+}

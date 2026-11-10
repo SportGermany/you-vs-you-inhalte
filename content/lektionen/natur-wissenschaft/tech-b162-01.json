@@ -1,0 +1,122 @@
+{
+  "id": "tech-b162-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Hologramm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Physik und Optik",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "hologramm",
+    "laser",
+    "optik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf Geldscheinen, Ausweisen und Kreditkarten glitzern kleine Bilder, die sich beim Kippen verändern.",
+        "Das sind Hologramme."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht speichern",
+      "absaetze": [
+        "Ein Hologramm speichert nicht nur die Helligkeit, sondern auch die Wellenform des Lichts. Dazu wird das Licht eines Lasers geteilt.",
+        "Ein Teil fällt auf den Gegenstand, der andere direkt auf die Fotoplatte. Beide überlagern sich zu einem feinen Muster."
+      ],
+      "merke": "Ein Hologramm speichert die Wellenform des Lichts."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein räumliches Bild",
+      "absaetze": [
+        "Wird das Muster richtig beleuchtet, entsteht wieder das Licht des ursprünglichen Gegenstands. Deshalb wirkt das Bild räumlich und verändert sich mit dem Blickwinkel.",
+        "Die Idee stammt von Dennis Gábor aus dem Jahr 1947. Er erhielt dafür 1971 den Physik-Nobelpreis."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schutz vor Fälschung",
+      "absaetze": [
+        "Hologramme sind schwer nachzumachen. Deshalb schützen sie Banknoten, Ausweise und Markenprodukte vor Fälschung.",
+        "Sogenannte Hologramme von Sängern auf der Bühne sind meist keine echten Hologramme, sondern Projektionen auf durchsichtige Flächen."
+      ],
+      "merke": "Hologramme schützen Geldscheine vor Fälschung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was speichert ein Hologramm zusätzlich zur Helligkeit?",
+      "art": "mc",
+      "optionen": [
+        "Die Wellenform des Lichts",
+        "Den Geruch",
+        "Die Temperatur",
+        "Den Ton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu wird Laserlicht geteilt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer hatte die Idee der Holografie?",
+      "art": "mc",
+      "optionen": [
+        "Dennis Gábor",
+        "Albert Einstein",
+        "Thomas Edison",
+        "Isaac Newton"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er erhielt 1971 den Nobelpreis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bühnenshows mit Hologrammen von Sängern nutzen meist echte Hologramme.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meist sind es Projektionen auf durchsichtige Flächen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen Hologramme auf Banknoten?",
+      "art": "mc",
+      "optionen": [
+        "Zum Schutz vor Fälschung",
+        "Zur Dekoration allein",
+        "Zum Bezahlen per Funk",
+        "Zur Wärmedämmung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie sind schwer nachzumachen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Hologramm speichert die Wellenform des Lichts.",
+        "Dadurch wirkt das Bild räumlich.",
+        "Die Idee stammt von Dennis Gábor.",
+        "Hologramme schützen vor Fälschung."
+      ]
+    }
+  ]
+}

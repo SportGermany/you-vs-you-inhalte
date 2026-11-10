@@ -1,0 +1,128 @@
+{
+  "id": "haus-b162-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie entfernst du Grünbelag von der Terrasse?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Haus und Garten",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gruenbelag",
+    "terrasse",
+    "garten"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem feuchten Winter sind Terrasse und Gartenwege oft grün und rutschig.",
+        "Der Belag besteht meist aus Algen und Moosen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mechanisch ist am besten für die Umwelt",
+      "absaetze": [
+        "Schrubbe die Fläche mit einem harten Besen, Wasser und etwas Schmierseife. Für Fugen eignen sich ein Fugenkratzer oder eine Drahtbürste.",
+        "Das ist anstrengend, schont aber Boden, Grundwasser und Tiere."
+      ],
+      "merke": "Schrubben mit Wasser schont die Umwelt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht mit dem Hochdruckreiniger",
+      "absaetze": [
+        "Ein Hochdruckreiniger wirkt schnell, kann aber die Oberfläche von Stein und Holz aufrauen. Auf rauer Oberfläche siedeln sich Algen danach leichter wieder an.",
+        "Halte deshalb Abstand und nutze eine niedrige Stufe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nicht erlaubt ist",
+      "absaetze": [
+        "Unkrautvernichtungsmittel dürfen auf Wegen, Pflaster und Terrassen nicht eingesetzt werden. Sie gelangen sonst leicht ins Grundwasser.",
+        "Damit der Belag nicht so schnell zurückkommt, hilft regelmäßiges Fegen. Auch Sonne und gutes Abtrocknen bremsen Algen."
+      ],
+      "merke": "Unkrautvernichter sind auf Terrassen und Wegen verboten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus besteht Grünbelag meist?",
+      "art": "mc",
+      "optionen": [
+        "Aus Algen und Moosen",
+        "Aus Farbe",
+        "Aus Rost",
+        "Aus Kalk"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er macht Flächen rutschig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Methode schont die Umwelt am meisten?",
+      "art": "mc",
+      "optionen": [
+        "Schrubben mit Besen und Wasser",
+        "Unkrautvernichter",
+        "Altöl",
+        "Abflammen der ganzen Terrasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist anstrengend, aber umweltfreundlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Hochdruckreiniger kann die Oberfläche aufrauen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann siedeln sich Algen leichter an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Dürfen Unkrautvernichter auf der Terrasse eingesetzt werden?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, unbegrenzt",
+        "Nur sonntags",
+        "Nur bei Regen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie können ins Grundwasser gelangen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Grünbelag besteht meist aus Algen und Moosen.",
+        "Schrubben mit Wasser schont die Umwelt.",
+        "Hochdruckreiniger vorsichtig verwenden.",
+        "Unkrautvernichter sind auf Terrassen verboten."
+      ]
+    }
+  ]
+}
