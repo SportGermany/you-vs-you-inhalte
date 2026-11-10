@@ -1,0 +1,128 @@
+{
+  "id": "geld-b156-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was bleibt von deiner Rendite wirklich übrig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rendite",
+    "kosten",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine Geldanlage verspricht sechs Prozent Rendite im Jahr. Klingt gut.",
+        "Doch was am Ende wirklich bei dir ankommt, ist oft deutlich weniger."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst die Kosten",
+      "absaetze": [
+        "Von der Bruttorendite gehen zuerst die Kosten ab. Dazu zählen Gebühren für das Depot, Ausgabeaufschläge und laufende Fondskosten.",
+        "Schon ein Prozentpunkt mehr Kosten pro Jahr macht über Jahrzehnte einen großen Unterschied, weil auch der Zinseszins geringer ausfällt."
+      ],
+      "merke": "Kosten schmälern die Rendite über Jahre stark."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dann die Steuern",
+      "absaetze": [
+        "Auf Kapitalerträge fallen in Deutschland Steuern an, sobald der Sparer-Pauschbetrag ausgeschöpft ist. Was danach übrig bleibt, ist die Nettorendite.",
+        "Ein Freistellungsauftrag bei der Bank sorgt dafür, dass der steuerfreie Betrag direkt berücksichtigt wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zuletzt die Inflation",
+      "absaetze": [
+        "Wenn die Preise steigen, verliert Geld an Kaufkraft. Zieht man die Inflation von der Nettorendite ab, erhält man die reale Rendite.",
+        "Sie zeigt, wie viel mehr du dir am Ende wirklich leisten kannst. Bei niedrigen Zinsen kann sie sogar negativ sein."
+      ],
+      "merke": "Die reale Rendite berücksichtigt Kosten, Steuern und Inflation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zieht man von der Bruttorendite zuerst ab?",
+      "art": "mc",
+      "optionen": [
+        "Die Kosten",
+        "Das Alter",
+        "Den Kontostand",
+        "Die Postleitzahl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Depot- und Fondsgebühren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Nettorendite?",
+      "art": "mc",
+      "optionen": [
+        "Die Rendite nach Kosten und Steuern",
+        "Die Rendite vor allen Abzügen",
+        "Der Zins auf dem Girokonto",
+        "Eine Steuerart"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach fehlt noch die Inflation."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleine Kostenunterschiede spielen über Jahrzehnte keine Rolle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie machen durch den Zinseszins einen großen Unterschied."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt die reale Rendite?",
+      "art": "mc",
+      "optionen": [
+        "Wie viel mehr du dir am Ende wirklich leisten kannst",
+        "Wie hoch die Bankgebühren sind",
+        "Wie alt die Bank ist",
+        "Wie viele Aktien du hast"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie berücksichtigt auch die Inflation."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Von der Bruttorendite gehen Kosten ab.",
+        "Danach kommen Steuern, so entsteht die Nettorendite.",
+        "Abzüglich Inflation bleibt die reale Rendite.",
+        "Niedrige Kosten zahlen sich über Jahre aus."
+      ]
+    }
+  ]
+}

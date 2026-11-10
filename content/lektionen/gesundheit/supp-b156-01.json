@@ -1,0 +1,141 @@
+{
+  "id": "supp-b156-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von AFA-Algen-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "afa-algen",
+    "blaualgen",
+    "superfood"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "AFA-Algen werden als natürliches Superfood für Energie und Konzentration angeboten.",
+        "Fachleute sehen die Produkte kritisch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Blaualgen aus einem See",
+      "absaetze": [
+        "AFA steht für Aphanizomenon flos-aquae, eine Blaualge. Sie wird vor allem aus einem See im US-Bundesstaat Oregon geerntet.",
+        "Blaualgen sind eigentlich Bakterien, sogenannte Cyanobakterien. Als Pulver, Kapsel oder Tablette werden sie als Nahrungsergänzung verkauft."
+      ],
+      "merke": "AFA-Algen sind Blaualgen aus einem See."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr durch Algengifte",
+      "absaetze": [
+        "Natürliche Gewässer können auch andere Blaualgen enthalten, die Gifte bilden. Das BfR hat auf mögliche Verunreinigungen mit leberschädigenden Microcystinen hingewiesen.",
+        "Besonders Kinder sollten solche Produkte deshalb nicht bekommen."
+      ],
+      "merke": "Verunreinigungen mit Algengiften sind möglich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Vitamin-B12-Ersatz",
+      "absaetze": [
+        "Algen enthalten häufig Stoffe, die Vitamin B12 ähneln, aber im Körper kaum wirken. Für Veganer sind sie deshalb keine verlässliche Quelle.",
+        "Für die beworbenen Effekte auf Energie und Konzentration gibt es keine guten Belege."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht für Kinder geeignet.",
+        "Nicht in Schwangerschaft und Stillzeit.",
+        "Bei Lebererkrankungen meiden.",
+        "Veganer brauchen eine verlässliche B12-Quelle."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind AFA-Algen?",
+      "art": "mc",
+      "optionen": [
+        "Blaualgen, also Cyanobakterien",
+        "Meeresfische",
+        "Pilze",
+        "Getreide"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie werden aus einem See in Oregon geerntet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovor hat das BfR gewarnt?",
+      "art": "mc",
+      "optionen": [
+        "Vor Verunreinigungen mit Algengiften",
+        "Vor zu viel Vitamin C",
+        "Vor Zuckerzusatz",
+        "Vor Glas in den Kapseln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Microcystine können die Leber schädigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "AFA-Algen sind eine verlässliche Vitamin-B12-Quelle für Veganer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie enthalten meist kaum wirksame Formen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte AFA-Präparate besonders nicht bekommen?",
+      "art": "mc",
+      "optionen": [
+        "Kinder",
+        "Gärtner",
+        "Radfahrer",
+        "Musiker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie reagieren empfindlicher auf mögliche Gifte."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "AFA-Algen sind Blaualgen aus einem See.",
+        "Sie können mit Algengiften verunreinigt sein.",
+        "Sie sind keine verlässliche B12-Quelle.",
+        "Für Energie und Konzentration fehlen Belege."
+      ]
+    }
+  ]
+}

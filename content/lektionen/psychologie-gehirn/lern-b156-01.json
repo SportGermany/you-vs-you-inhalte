@@ -1,0 +1,122 @@
+{
+  "id": "lern-b156-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie funktioniert die Blindenschrift?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gehirn und Nerven",
+      "herausgeber": "Deutsche Gesellschaft für Neurologie (DGN)",
+      "url": "https://dgn.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "brailleschrift",
+    "blindenschrift",
+    "lesen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Blinde und stark sehbehinderte Menschen können mit den Fingern lesen.",
+        "Möglich macht das eine Schrift aus kleinen tastbaren Punkten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erfunden von einem Jugendlichen",
+      "absaetze": [
+        "Louis Braille erblindete als kleines Kind nach einem Unfall. Als Schüler an einer Pariser Blindenschule entwickelte er um 1825 seine Punktschrift.",
+        "Nach ihm heißt sie heute Brailleschrift."
+      ],
+      "merke": "Louis Braille entwickelte seine Schrift als Jugendlicher."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sechs Punkte",
+      "absaetze": [
+        "Jedes Zeichen besteht aus bis zu sechs Punkten in zwei Spalten zu je drei. Daraus ergeben sich 64 mögliche Kombinationen für Buchstaben, Zahlen und Satzzeichen.",
+        "Eine Fingerkuppe kann ein Zeichen auf einmal ertasten. Geübte Leserinnen und Leser sind erstaunlich schnell."
+      ],
+      "merke": "Ein Braillezeichen besteht aus bis zu sechs Punkten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Lernen und Gehirn",
+      "absaetze": [
+        "Beim Lesen mit den Fingern werden bei blinden Menschen auch Bereiche des Gehirns aktiv, die sonst das Sehen verarbeiten. Das zeigt, wie anpassungsfähig das Gehirn ist.",
+        "Heute gibt es auch Braillezeilen für Computer. Sie stellen Text vom Bildschirm in tastbaren Punkten dar."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer entwickelte die Blindenschrift?",
+      "art": "mc",
+      "optionen": [
+        "Louis Braille",
+        "Johannes Gutenberg",
+        "Albert Einstein",
+        "Thomas Edison"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er war selbst blind."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Aus wie vielen Punkten besteht ein Braillezeichen höchstens?",
+      "art": "mc",
+      "optionen": [
+        "Sechs",
+        "Zwei",
+        "Zwölf",
+        "Hundert"
+      ],
+      "richtig": 0,
+      "erklaerung": "In zwei Spalten zu je drei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Beim Lesen von Braille sind bei Blinden auch Sehbereiche des Gehirns aktiv.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das Gehirn ist sehr anpassungsfähig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist eine Braillezeile?",
+      "art": "mc",
+      "optionen": [
+        "Ein Gerät, das Bildschirmtext tastbar macht",
+        "Eine Zeile in einem Roman",
+        "Ein Lineal",
+        "Ein Druckerpapier"
+      ],
+      "richtig": 0,
+      "erklaerung": "So können Blinde am Computer lesen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Louis Braille entwickelte um 1825 die Punktschrift.",
+        "Jedes Zeichen hat bis zu sechs Punkte.",
+        "Beim Lesen sind auch Sehbereiche des Gehirns aktiv.",
+        "Braillezeilen machen Bildschirmtext tastbar."
+      ]
+    }
+  ]
+}

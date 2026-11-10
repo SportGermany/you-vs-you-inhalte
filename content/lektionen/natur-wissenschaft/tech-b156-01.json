@@ -1,0 +1,122 @@
+{
+  "id": "tech-b156-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Mesh-WLAN?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Router und WLAN",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mesh",
+    "wlan",
+    "router"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Wohnzimmer ist das WLAN schnell, im Kinderzimmer bricht es ständig ab.",
+        "Ein Mesh-System soll das Problem lösen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Viele Knoten, ein Netz",
+      "absaetze": [
+        "Ein Mesh-WLAN besteht aus mehreren Geräten, die im ganzen Haus verteilt werden. Sie bilden gemeinsam ein einziges Funknetz mit demselben Namen.",
+        "Deine Geräte verbinden sich automatisch mit dem Knoten, der gerade am besten erreichbar ist."
+      ],
+      "merke": "Ein Mesh-WLAN bildet aus mehreren Geräten ein Netz."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besser als ein einfacher Verstärker",
+      "absaetze": [
+        "Ein einfacher WLAN-Verstärker leitet das Signal nur weiter und halbiert dabei oft die Geschwindigkeit. Mesh-Knoten stimmen sich dagegen ab und wählen den besten Weg für die Daten.",
+        "Noch stabiler wird es, wenn die Knoten per Kabel verbunden sind, etwa über das Netzwerkkabel oder die Stromleitung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher einrichten",
+      "absaetze": [
+        "Vergib ein starkes WLAN-Passwort und halte die Software aller Knoten aktuell. Viele Systeme machen das automatisch.",
+        "Stelle die Knoten frei auf, nicht hinter Schränken oder in Metallregalen. Wände und Decken aus Beton dämpfen das Signal stark."
+      ],
+      "merke": "Knoten frei aufstellen und Software aktuell halten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Mesh-WLAN?",
+      "art": "mc",
+      "optionen": [
+        "Mehrere Geräte bilden zusammen ein Funknetz",
+        "Ein Kabel ohne Strom",
+        "Ein besonders langes Netzwerkkabel",
+        "Ein Handytarif"
+      ],
+      "richtig": 0,
+      "erklaerung": "Alle Knoten nutzen denselben Netznamen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist ein Nachteil einfacher WLAN-Verstärker?",
+      "art": "mc",
+      "optionen": [
+        "Sie halbieren oft die Geschwindigkeit",
+        "Sie sind immer zu laut",
+        "Sie funktionieren nur nachts",
+        "Sie brauchen kein Passwort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mesh-Knoten stimmen sich besser ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mesh-Knoten stellst du am besten in Metallregale.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Metall dämpft das Signal stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erhöht die Stabilität zusätzlich?",
+      "art": "mc",
+      "optionen": [
+        "Eine Verbindung der Knoten per Kabel",
+        "Mehr Möbel davor",
+        "Eine dickere Wand",
+        "Ein alter Router"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa über Netzwerkkabel oder Stromleitung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein Mesh-WLAN verbindet mehrere Knoten zu einem Netz.",
+        "Geräte wechseln automatisch zum besten Knoten.",
+        "Es ist meist schneller als einfache Verstärker.",
+        "Starkes Passwort und aktuelle Software sind wichtig."
+      ]
+    }
+  ]
+}

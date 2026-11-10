@@ -1,0 +1,129 @@
+{
+  "id": "ern-b156-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Ziegenkäse?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "ziegenkaese",
+    "kaese",
+    "milchprodukte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ziegenkäse gibt es als frischen Rollenkäse, gereift oder gratiniert auf dem Salat.",
+        "Manche halten ihn für bekömmlicher als Kuhmilchkäse. Stimmt das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein eigener Geschmack",
+      "absaetze": [
+        "Ziegenkäse schmeckt oft würziger und leicht säuerlich. Das liegt an bestimmten Fettsäuren in der Ziegenmilch.",
+        "Wie bei anderem Käse liefert er Eiweiß und Kalzium. Der Fettgehalt hängt von der Sorte ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Keine Lösung bei Allergie",
+      "absaetze": [
+        "Ziegenmilch enthält ähnliche Eiweiße wie Kuhmilch. Wer eine Kuhmilcheiweißallergie hat, reagiert meist auch auf Ziegenkäse.",
+        "Auch Milchzucker steckt darin. Gereifter Käse enthält aber, egal von welchem Tier, nur noch wenig davon."
+      ],
+      "merke": "Bei Kuhmilchallergie ist Ziegenkäse meist keine Alternative."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Rohmilch",
+      "absaetze": [
+        "Manche Ziegenkäse werden aus Rohmilch hergestellt. Sie können Listerien enthalten, die für Schwangere gefährlich sind.",
+        "Schwangere sollten deshalb zu Käse aus pasteurisierter Milch greifen oder ihn gut erhitzen."
+      ],
+      "merke": "Schwangere sollten Rohmilch-Ziegenkäse meiden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Ziegenkäse eine Alternative bei Kuhmilcheiweißallergie?",
+      "art": "mc",
+      "optionen": [
+        "Meist nicht",
+        "Ja, immer",
+        "Ja, aber nur frisch",
+        "Ja, nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Eiweiße sind sehr ähnlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher kommt der würzige Geschmack?",
+      "art": "mc",
+      "optionen": [
+        "Von bestimmten Fettsäuren in der Ziegenmilch",
+        "Von zugesetztem Zucker",
+        "Von Gewürzen im Futter",
+        "Von Salz allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist oft leicht säuerlich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gereifter Käse enthält nur noch wenig Milchzucker.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das gilt für Ziegen- wie Kuhmilchkäse."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte Rohmilch-Ziegenkäse meiden?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere",
+        "Sportler",
+        "Kinder im Schulalter",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kann Listerien enthalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ziegenkäse liefert Eiweiß und Kalzium.",
+        "Bei Kuhmilchallergie ist er meist keine Alternative.",
+        "Gereifter Käse enthält wenig Milchzucker.",
+        "Schwangere sollten Rohmilchkäse meiden."
+      ]
+    }
+  ]
+}

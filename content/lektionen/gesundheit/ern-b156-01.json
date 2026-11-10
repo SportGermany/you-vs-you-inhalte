@@ -1,0 +1,123 @@
+{
+  "id": "ern-b156-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Seelachs?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "seelachs",
+    "fisch",
+    "jod"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Seelachs steckt in Fischstäbchen, Schlemmerfilets und vielen Fertiggerichten.",
+        "Mit Lachs hat er allerdings wenig zu tun."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein Lachs",
+      "absaetze": [
+        "Was in Deutschland als Seelachs verkauft wird, ist meist der Köhler, ein Verwandter des Kabeljaus. Der Name stammt aus Zeiten, als man das Fleisch rötlich einfärbte, um es wie Lachs aussehen zu lassen.",
+        "Alaska-Seelachs ist wieder eine andere Fischart. Er wird oft für Fischstäbchen verwendet."
+      ],
+      "merke": "Seelachs ist kein Lachs, sondern ein Dorschfisch."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mager und jodreich",
+      "absaetze": [
+        "Seelachs ist ein magerer Fisch mit viel Eiweiß. Er liefert Jod, das in Deutschland vielen Menschen fehlt.",
+        "Omega-3-Fettsäuren enthält er dagegen weniger als fettreiche Fische wie Hering oder Makrele."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Panade und Herkunft",
+      "absaetze": [
+        "Paniert und gebraten nimmt Fisch viel Fett auf. Gedünstet oder im Ofen ist er leichter.",
+        "Siegel wie das MSC-Zeichen zeigen, dass der Fisch aus einer zertifizierten, nachhaltiger bewirtschafteten Fischerei stammt."
+      ],
+      "merke": "Gedünstet ist Seelachs leichter als paniert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welcher Fisch wird in Deutschland meist als Seelachs verkauft?",
+      "art": "mc",
+      "optionen": [
+        "Der Köhler",
+        "Der Atlantische Lachs",
+        "Die Forelle",
+        "Der Hering"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist mit dem Kabeljau verwandt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welchen Nährstoff liefert Seelachs besonders?",
+      "art": "mc",
+      "optionen": [
+        "Jod",
+        "Vitamin C",
+        "Ballaststoffe",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jod fehlt in Deutschland vielen Menschen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seelachs enthält mehr Omega-3-Fettsäuren als Hering.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Fettreiche Fische wie Hering enthalten mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigt das MSC-Zeichen?",
+      "art": "mc",
+      "optionen": [
+        "Fisch aus zertifizierter, nachhaltiger bewirtschafteter Fischerei",
+        "Besonders billigen Fisch",
+        "Fisch aus Aquakultur in der Wüste",
+        "Fisch ohne Gräten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist ein Siegel für Wildfang."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Seelachs ist kein Lachs, sondern ein Dorschfisch.",
+        "Er ist mager und liefert Jod.",
+        "Gedünstet ist er leichter als paniert.",
+        "Siegel helfen bei der Wahl nachhaltigerer Fischerei."
+      ]
+    }
+  ]
+}

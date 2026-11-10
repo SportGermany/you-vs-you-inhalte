@@ -1,0 +1,122 @@
+{
+  "id": "haus-b156-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du einen Ventilator?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "ventilator",
+    "staub",
+    "reinigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Ventilator wirbelt nicht nur Luft durch den Raum, sondern auch Staub.",
+        "Sind die Flügel verschmutzt, verteilt er ihn bei jeder Umdrehung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst den Stecker ziehen",
+      "absaetze": [
+        "Ziehe vor dem Reinigen immer den Netzstecker. Bei vielen Modellen lässt sich das vordere Schutzgitter abnehmen.",
+        "Schau in die Bedienungsanleitung, wie das bei deinem Gerät geht."
+      ],
+      "merke": "Vor dem Reinigen immer den Stecker ziehen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gitter und Flügel säubern",
+      "absaetze": [
+        "Das Gitter kannst du mit warmem Wasser und etwas Spülmittel abwaschen. Die Flügel wischst du mit einem feuchten Tuch ab.",
+        "Der Motor darf nicht nass werden. Lass alle Teile gut trocknen, bevor du den Ventilator wieder zusammenbaust."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig entstauben",
+      "absaetze": [
+        "Im Sommer lohnt es sich, den Ventilator alle paar Wochen zu entstauben. Für Allergiker ist das besonders wichtig.",
+        "Vor dem Einlagern im Herbst solltest du ihn gründlich reinigen und abgedeckt aufbewahren."
+      ],
+      "merke": "Für Allergiker ist regelmäßiges Entstauben wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du vor dem Reinigen zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Den Netzstecker ziehen",
+        "Den Ventilator auf höchste Stufe stellen",
+        "Wasser in den Motor gießen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du Unfälle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit reinigst du das abnehmbare Gitter?",
+      "art": "mc",
+      "optionen": [
+        "Mit warmem Wasser und etwas Spülmittel",
+        "Mit Sand",
+        "Mit Benzin",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gut trocknen lassen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Motor darf beim Reinigen ruhig nass werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er muss trocken bleiben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für wen ist regelmäßiges Entstauben besonders wichtig?",
+      "art": "mc",
+      "optionen": [
+        "Für Allergiker",
+        "Für Pflanzen",
+        "Für Haustiere aus Stoff",
+        "Für niemanden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Ventilator verteilt sonst Staub im Raum."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vor dem Reinigen den Stecker ziehen.",
+        "Gitter abwaschen, Flügel feucht abwischen.",
+        "Der Motor muss trocken bleiben.",
+        "Im Sommer regelmäßig entstauben."
+      ]
+    }
+  ]
+}
