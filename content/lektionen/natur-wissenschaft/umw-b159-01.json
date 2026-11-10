@@ -1,0 +1,128 @@
+{
+  "id": "umw-b159-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "umwelt",
+  "titel": "Warum werden Wälder in Mischwälder umgebaut?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Waldumbau",
+      "herausgeber": "Thünen-Institut",
+      "url": "https://www.thuenen.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Wald und Naturschutz",
+      "herausgeber": "Bundesamt für Naturschutz",
+      "url": "https://www.bfn.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "waldumbau",
+    "mischwald",
+    "klimawandel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Wälder in Deutschland bestehen aus Reihen gleich alter Fichten oder Kiefern.",
+        "Förster bauen sie zunehmend in Mischwälder um."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Erbe der Monokulturen",
+      "absaetze": [
+        "Nach Kriegen und Übernutzung wurden vielerorts schnell wachsende Fichten und Kiefern gepflanzt. Sie lieferten zuverlässig Holz.",
+        "Doch Fichten wurden oft auf Standorten gepflanzt, die für sie zu trocken und warm sind. Dürren und Borkenkäfer haben große Flächen absterben lassen."
+      ],
+      "merke": "Fichten-Monokulturen sind anfällig für Dürre und Borkenkäfer."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vielfalt macht stabil",
+      "absaetze": [
+        "Ein Mischwald besteht aus verschiedenen Baumarten unterschiedlichen Alters, etwa Buchen, Eichen, Tannen und Ahorn. Fällt eine Art aus, bleiben andere stehen.",
+        "Mischwälder bieten außerdem mehr Lebensraum für Tiere, Pflanzen und Pilze."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Umbau über Generationen",
+      "absaetze": [
+        "Waldumbau dauert Jahrzehnte, weil Bäume langsam wachsen. Oft werden junge Laubbäume unter die alten Nadelbäume gepflanzt.",
+        "Welche Baumarten mit dem künftigen Klima gut zurechtkommen, wird intensiv erforscht."
+      ],
+      "merke": "Waldumbau dauert Jahrzehnte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Fichten-Monokulturen anfällig?",
+      "art": "mc",
+      "optionen": [
+        "Wegen Dürre und Borkenkäfern auf ungeeigneten Standorten",
+        "Weil sie zu langsam wachsen",
+        "Weil sie zu viel Schatten machen",
+        "Weil sie zu bunt sind"
+      ],
+      "richtig": 0,
+      "erklaerung": "Große Flächen sind abgestorben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht einen Mischwald stabiler?",
+      "art": "mc",
+      "optionen": [
+        "Verschiedene Baumarten unterschiedlichen Alters",
+        "Nur eine einzige Baumart",
+        "Möglichst wenige Bäume",
+        "Gleich alte Bäume in Reihen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fällt eine Art aus, bleiben andere."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Waldumbau ist in wenigen Monaten erledigt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er dauert Jahrzehnte."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bieten Mischwälder zusätzlich?",
+      "art": "mc",
+      "optionen": [
+        "Mehr Lebensraum für Tiere, Pflanzen und Pilze",
+        "Weniger Artenvielfalt",
+        "Mehr Lärm",
+        "Weniger Sauerstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vielfalt fördert Vielfalt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fichten-Monokulturen sind anfällig.",
+        "Mischwälder aus vielen Baumarten sind stabiler.",
+        "Sie bieten mehr Lebensraum.",
+        "Der Waldumbau dauert Jahrzehnte."
+      ]
+    }
+  ]
+}

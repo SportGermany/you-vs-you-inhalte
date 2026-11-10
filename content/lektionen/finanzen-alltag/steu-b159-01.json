@@ -1,0 +1,128 @@
+{
+  "id": "steu-b159-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was unterscheidet Steuernummer und Steuer-ID?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuerliche Identifikationsnummer",
+      "herausgeber": "Bundeszentralamt für Steuern",
+      "url": "https://www.bzst.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuernummer",
+    "steuer-id",
+    "finanzamt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf Formularen wird mal die Steuernummer, mal die Steuer-ID verlangt.",
+        "Die beiden Nummern werden oft verwechselt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Steuer-ID für dich als Person",
+      "absaetze": [
+        "Die steuerliche Identifikationsnummer bekommst du einmal, meist schon bei der Geburt. Sie bleibt ein Leben lang gleich, auch nach einem Umzug oder einer Heirat.",
+        "Sie hat elf Ziffern und wird vom Bundeszentralamt für Steuern vergeben. Arbeitgeber und Krankenkassen brauchen sie."
+      ],
+      "merke": "Die Steuer-ID bleibt ein Leben lang gleich."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Steuernummer vom Finanzamt",
+      "absaetze": [
+        "Die Steuernummer vergibt dein zuständiges Finanzamt, zum Beispiel wenn du eine Steuererklärung abgibst oder dich selbstständig machst. Sie kann sich bei einem Umzug ändern.",
+        "Selbstständige brauchen sie unter anderem für ihre Rechnungen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sorgfältig damit umgehen",
+      "absaetze": [
+        "Beide Nummern sind persönliche Daten. Gib sie nur weiter, wo es nötig ist, etwa an Arbeitgeber, Banken oder das Finanzamt.",
+        "Betrüger nutzen gefälschte Schreiben, um an solche Daten zu kommen. Echte Behörden fragen nicht per E-Mail nach Kontodaten."
+      ],
+      "merke": "Steuernummer und Steuer-ID nur gezielt weitergeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann bekommst du die Steuer-ID?",
+      "art": "mc",
+      "optionen": [
+        "Meist schon bei der Geburt",
+        "Erst bei der ersten Steuererklärung",
+        "Bei jedem Umzug neu",
+        "Nur bei Selbstständigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie bleibt ein Leben lang gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer vergibt die Steuernummer?",
+      "art": "mc",
+      "optionen": [
+        "Das zuständige Finanzamt",
+        "Die Krankenkasse",
+        "Der Arbeitgeber",
+        "Die Post"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kann sich bei einem Umzug ändern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Steuer-ID ändert sich bei einer Heirat.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bleibt ein Leben lang gleich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür brauchen Selbstständige die Steuernummer zum Beispiel?",
+      "art": "mc",
+      "optionen": [
+        "Für ihre Rechnungen",
+        "Für den Führerschein",
+        "Für den Reisepass",
+        "Für die Bibliothek"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie gehört auf viele Geschäftsunterlagen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Steuer-ID gilt ein Leben lang.",
+        "Die Steuernummer vergibt das Finanzamt.",
+        "Die Steuernummer kann sich bei einem Umzug ändern.",
+        "Beide Nummern nur gezielt weitergeben."
+      ]
+    }
+  ]
+}

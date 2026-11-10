@@ -1,0 +1,129 @@
+{
+  "id": "ern-b159-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Kabeljau?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fischbestände",
+      "herausgeber": "Thünen-Institut",
+      "url": "https://www.thuenen.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kabeljau",
+    "dorsch",
+    "fisch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kabeljau ist einer der bekanntesten Speisefische Europas.",
+        "In der Ostsee heißt er Dorsch, und dort geht es ihm schlecht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Fisch mit zwei Namen",
+      "absaetze": [
+        "Kabeljau und Dorsch sind dieselbe Fischart. In der Ostsee und bei jungen Tieren spricht man meist von Dorsch.",
+        "Er hat weißes, mageres Fleisch, das in große Blätter zerfällt."
+      ],
+      "merke": "Kabeljau und Dorsch sind dieselbe Art."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mager und jodreich",
+      "absaetze": [
+        "Kabeljau liefert viel Eiweiß und Jod bei sehr wenig Fett. Aus seiner Leber wird Lebertran gewonnen.",
+        "Omega-3-Fettsäuren enthält das Filet nur wenig, weil das Fett vor allem in der Leber gespeichert wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bestände unter Druck",
+      "absaetze": [
+        "Der Dorsch in der westlichen Ostsee ist stark zurückgegangen. Die gezielte Fischerei auf ihn wurde deshalb weitgehend eingestellt.",
+        "Andere Bestände, etwa in der Barentssee, gelten als besser bewirtschaftet. Achte beim Kauf auf das Fanggebiet."
+      ],
+      "merke": "Der Ostseedorsch ist stark zurückgegangen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißt Kabeljau in der Ostsee meist?",
+      "art": "mc",
+      "optionen": [
+        "Dorsch",
+        "Seelachs",
+        "Hering",
+        "Zander"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist dieselbe Fischart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird aus der Leber des Kabeljaus gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Lebertran",
+        "Kaviar",
+        "Fischsoße",
+        "Gelatine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort speichert der Fisch sein Fett."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Kabeljaufilet ist sehr fettreich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es ist sehr mager."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie steht es um den Dorsch in der westlichen Ostsee?",
+      "art": "mc",
+      "optionen": [
+        "Er ist stark zurückgegangen",
+        "Er war nie so häufig wie heute",
+        "Er wurde neu entdeckt",
+        "Er ist eine Zuchtform"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die gezielte Fischerei wurde weitgehend eingestellt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kabeljau und Dorsch sind dieselbe Art.",
+        "Das Filet ist mager und liefert Jod.",
+        "Lebertran stammt aus der Kabeljauleber.",
+        "Beim Kauf auf das Fanggebiet achten."
+      ]
+    }
+  ]
+}

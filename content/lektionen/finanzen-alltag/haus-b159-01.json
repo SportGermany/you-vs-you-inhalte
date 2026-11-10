@@ -1,0 +1,128 @@
+{
+  "id": "haus-b159-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bekommst du Stockflecken aus Textilien?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Schimmel",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stockflecken",
+    "schimmel",
+    "waesche"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Feucht gelagerte Wäsche oder Tischdecken bekommen manchmal kleine graue oder schwarze Punkte.",
+        "Diese Stockflecken stammen von Schimmelpilzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Stockflecken entstehen",
+      "absaetze": [
+        "Stockflecken bilden sich, wenn Textilien feucht liegen oder in dunklen, schlecht belüfteten Räumen lagern. Dann wachsen dort Schimmelpilze.",
+        "Typisch sind Wäsche im Keller, ein nasses Handtuch im Beutel oder Zeltplanen."
+      ],
+      "merke": "Stockflecken stammen von Schimmelpilzen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Wasche waschbare Textilien so heiß, wie es das Pflegeetikett erlaubt. Bei weißer Baumwolle hilft ein Waschmittel mit Bleiche.",
+        "Bei farbigen Stoffen sind Stockflecken oft nicht ganz zu entfernen. Sonnenlicht beim Trocknen kann helfen, Reste aufzuhellen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbeugen ist besser",
+      "absaetze": [
+        "Lagere nur vollständig trockene Textilien und lüfte Kellerräume regelmäßig. Atmungsaktive Hüllen sind besser als luftdichte Plastiktüten.",
+        "Bei großflächigem Schimmel in der Wohnung solltest du die Ursache suchen. Menschen mit Allergien sollten den Kontakt meiden."
+      ],
+      "merke": "Nur trockene Textilien lagern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entstehen Stockflecken?",
+      "art": "mc",
+      "optionen": [
+        "Durch Schimmelpilze",
+        "Durch Sonnenlicht",
+        "Durch Waschmittel",
+        "Durch Kälte"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wachsen auf feuchten Textilien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wäschst du betroffene Textilien?",
+      "art": "mc",
+      "optionen": [
+        "So heiß, wie das Etikett erlaubt",
+        "Nur kalt",
+        "Gar nicht",
+        "Nur mit Öl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei weißer Baumwolle hilft Bleiche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Luftdichte Plastiktüten sind ideal zum Lagern von Textilien.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Atmungsaktive Hüllen sind besser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beugt Stockflecken vor?",
+      "art": "mc",
+      "optionen": [
+        "Nur trockene Textilien lagern",
+        "Wäsche feucht in den Schrank legen",
+        "Keller nie lüften",
+        "Wäsche in Plastik einschweißen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch regelmäßiges Lüften hilft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stockflecken stammen von Schimmelpilzen.",
+        "Waschbare Textilien heiß waschen.",
+        "Bei Farbigem lassen sie sich oft nicht ganz entfernen.",
+        "Nur trockene Textilien luftig lagern."
+      ]
+    }
+  ]
+}

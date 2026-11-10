@@ -1,0 +1,129 @@
+{
+  "id": "ern-b159-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was ist Wildreis?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "wildreis",
+    "getreide",
+    "vollkorn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wildreis sieht aus wie dunkle, lange Reiskörner.",
+        "Mit normalem Reis ist er aber nur entfernt verwandt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein echter Reis",
+      "absaetze": [
+        "Wildreis ist der Samen eines Wassergrases aus Nordamerika. Er gehört zwar zu den Gräsern, aber zu einer anderen Gattung als Reis.",
+        "Traditionell wurde er von indigenen Völkern rund um die Großen Seen geerntet."
+      ],
+      "merke": "Wildreis ist der Samen eines nordamerikanischen Wassergrases."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er liefert",
+      "absaetze": [
+        "Wildreis enthält mehr Eiweiß und Ballaststoffe als weißer Reis. Dazu kommen Mineralstoffe wie Magnesium und Zink.",
+        "Sein nussiger Geschmack passt gut zu Gemüse, Pilzen und Salaten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zubereitung",
+      "absaetze": [
+        "Wildreis braucht deutlich länger zum Garen als weißer Reis. Viele mischen ihn deshalb mit Langkornreis, der schon vorgegart ist.",
+        "Weil er teuer ist, wird er oft nur als Beimischung verwendet."
+      ],
+      "merke": "Wildreis braucht länger zum Garen als weißer Reis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Wildreis botanisch?",
+      "art": "mc",
+      "optionen": [
+        "Der Samen eines Wassergrases aus Nordamerika",
+        "Eine wilde Form von asiatischem Reis",
+        "Eine Bohnensorte",
+        "Ein Pilz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er gehört zu einer anderen Gattung als Reis."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was enthält Wildreis mehr als weißer Reis?",
+      "art": "mc",
+      "optionen": [
+        "Eiweiß und Ballaststoffe",
+        "Zucker",
+        "Fett",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Magnesium und Zink."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wildreis gart schneller als weißer Reis.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er braucht deutlich länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo wurde Wildreis traditionell geerntet?",
+      "art": "mc",
+      "optionen": [
+        "Rund um die Großen Seen in Nordamerika",
+        "In den Alpen",
+        "In der Sahara",
+        "In Sibirien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Indigene Völker ernteten ihn dort."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wildreis ist kein echter Reis.",
+        "Er stammt von einem nordamerikanischen Wassergras.",
+        "Er liefert mehr Eiweiß und Ballaststoffe als weißer Reis.",
+        "Er braucht eine lange Garzeit."
+      ]
+    }
+  ]
+}

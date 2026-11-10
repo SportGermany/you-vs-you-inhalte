@@ -1,0 +1,122 @@
+{
+  "id": "geld-b159-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind inflationsgeschützte Anleihen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "anleihen",
+    "inflation",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wenn die Preise steigen, verliert Erspartes an Wert.",
+        "Inflationsgeschützte Anleihen sollen davor schützen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Prinzip",
+      "absaetze": [
+        "Bei normalen Anleihen bekommst du feste Zinsen und am Ende den ursprünglichen Betrag zurück. Steigt die Inflation, ist dieses Geld später weniger wert.",
+        "Bei inflationsgeschützten Anleihen wächst der zurückgezahlte Betrag mit einem Preisindex mit. Auch die Zinsen werden auf diesen angepassten Betrag gezahlt."
+      ],
+      "merke": "Der Rückzahlungsbetrag wächst mit der Inflation."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer sie ausgibt",
+      "absaetze": [
+        "Solche Anleihen geben vor allem Staaten heraus, etwa die USA, Frankreich oder Großbritannien. Privatleute kaufen sie meist über Fonds oder ETFs.",
+        "Die festen Zinsen sind dafür oft niedriger als bei normalen Anleihen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen des Schutzes",
+      "absaetze": [
+        "Der Schutz gilt vor allem, wenn du die Anleihe bis zum Ende hältst. Zwischendurch kann ihr Kurs stark schwanken, etwa wenn die Zinsen steigen.",
+        "Sie gleichen nur die allgemeine Inflation aus, nicht unbedingt deine persönliche. Für die meisten ist eine breite Streuung des Vermögens wichtiger."
+      ],
+      "merke": "Zwischendurch kann der Kurs schwanken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei inflationsgeschützten Anleihen mit dem Rückzahlungsbetrag?",
+      "art": "mc",
+      "optionen": [
+        "Er wächst mit einem Preisindex mit",
+        "Er bleibt immer gleich",
+        "Er sinkt mit der Inflation",
+        "Er wird verlost"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch die Zinsen richten sich danach."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer gibt solche Anleihen vor allem heraus?",
+      "art": "mc",
+      "optionen": [
+        "Staaten",
+        "Supermärkte",
+        "Sportvereine",
+        "Privatpersonen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa die USA oder Frankreich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der Kurs inflationsgeschützter Anleihen kann zwischendurch nicht schwanken.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er kann stark schwanken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kaufen Privatleute solche Anleihen meist?",
+      "art": "mc",
+      "optionen": [
+        "Über Fonds oder ETFs",
+        "Im Supermarkt",
+        "Am Bahnhof",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Direktkäufe sind seltener."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Inflationsgeschützte Anleihen wachsen mit einem Preisindex mit.",
+        "Sie werden vor allem von Staaten ausgegeben.",
+        "Ihre festen Zinsen sind meist niedriger.",
+        "Zwischendurch kann ihr Kurs schwanken."
+      ]
+    }
+  ]
+}

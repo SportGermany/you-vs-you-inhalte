@@ -1,0 +1,122 @@
+{
+  "id": "tech-b159-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie gewinnt ein Elektroauto beim Bremsen Energie zurück?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Elektromobilität",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "rekuperation",
+    "elektroauto",
+    "energie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bei einem Benzinauto verpufft die Bremsenergie als Wärme.",
+        "Ein Elektroauto kann einen Teil davon zurückgewinnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Motor als Generator",
+      "absaetze": [
+        "Beim Bremsen oder Rollen arbeitet der Elektromotor wie ein Dynamo. Er wandelt die Bewegungsenergie wieder in Strom um und lädt die Batterie.",
+        "Diesen Vorgang nennt man Rekuperation. Gleichzeitig bremst er das Auto ab."
+      ],
+      "merke": "Bei der Rekuperation wird Bremsenergie zu Strom."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fahren mit einem Pedal",
+      "absaetze": [
+        "Bei vielen Elektroautos bremst das Fahrzeug spürbar, sobald man vom Fahrpedal geht. Manche lassen sich fast nur mit einem Pedal fahren.",
+        "Die mechanischen Bremsen werden dadurch geschont. Für Notbremsungen sind sie aber weiterhin unverzichtbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wo es am meisten bringt",
+      "absaetze": [
+        "Besonders viel Energie lässt sich im Stadtverkehr und bergab zurückgewinnen. Auf der Autobahn bei gleichmäßigem Tempo bringt die Rekuperation wenig.",
+        "Auch Hybridautos nutzen dieses Prinzip. Ganz verlustfrei ist es nicht, ein Teil der Energie geht immer als Wärme verloren."
+      ],
+      "merke": "Im Stadtverkehr bringt Rekuperation am meisten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie nennt man das Zurückgewinnen von Bremsenergie?",
+      "art": "mc",
+      "optionen": [
+        "Rekuperation",
+        "Kalibrierung",
+        "Rotation",
+        "Kondensation"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Motor arbeitet dabei als Generator."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo lässt sich besonders viel Energie zurückgewinnen?",
+      "art": "mc",
+      "optionen": [
+        "Im Stadtverkehr und bergab",
+        "Auf gerader Autobahn",
+        "Im Stand",
+        "Beim Tanken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dort wird oft gebremst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mechanische Bremsen sind bei Elektroautos überflüssig.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Für Notbremsungen sind sie unverzichtbar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert mit dem zurückgewonnenen Strom?",
+      "art": "mc",
+      "optionen": [
+        "Er lädt die Batterie",
+        "Er wird ins Radio geleitet",
+        "Er geht verloren",
+        "Er heizt die Reifen"
+      ],
+      "richtig": 0,
+      "erklaerung": "So steigt die Reichweite."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Elektroautos können Bremsenergie zurückgewinnen.",
+        "Der Motor arbeitet dabei als Generator.",
+        "Im Stadtverkehr bringt das am meisten.",
+        "Mechanische Bremsen bleiben unverzichtbar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "schlaf-b159-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Macht Zucker Kinder abends unruhig?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Kindergesundheit",
+      "herausgeber": "Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+      "url": "https://www.dgkj.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zucker",
+    "kinder",
+    "einschlafen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach dem Kindergeburtstag sind alle aufgedreht. Schuld ist der Zucker, heißt es oft.",
+        "Die Forschung sieht das anders."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein hartnäckiger Mythos",
+      "absaetze": [
+        "Studien, in denen Kinder Zucker oder ein Scheinpräparat bekamen, fanden kaum Unterschiede im Verhalten. Das gilt auch für Kinder mit ADHS.",
+        "Interessant: Eltern, die glaubten, ihr Kind habe Zucker bekommen, schätzten es als unruhiger ein."
+      ],
+      "merke": "Zucker macht Kinder nach Studien kaum unruhiger.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was wirklich aufdreht",
+      "absaetze": [
+        "Feiern, Spielen mit anderen Kindern und viele Reize sorgen für Aufregung. Danach fällt das Abschalten schwer, ganz ohne Zucker.",
+        "Koffeinhaltige Getränke wie Cola oder Eistee können dagegen tatsächlich den Schlaf stören."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Trotzdem sparsam mit Süßem",
+      "absaetze": [
+        "Für Zähne und Gewicht ist es sinnvoll, Süßes in Maßen zu halten. Abends sollten Kinder nach dem Zähneputzen nichts Süßes mehr essen.",
+        "Eine ruhige Abendroutine hilft beim Herunterfahren mehr als ein Zuckerverbot."
+      ],
+      "merke": "Eine ruhige Abendroutine hilft beim Herunterfahren.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was zeigten Studien zum Zucker bei Kindern?",
+      "art": "mc",
+      "optionen": [
+        "Kaum Unterschiede im Verhalten",
+        "Zucker macht immer hyperaktiv",
+        "Zucker macht sofort müde",
+        "Zucker verbessert den Schlaf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bei Kindern mit ADHS."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was beeinflusste die Einschätzung der Eltern?",
+      "art": "mc",
+      "optionen": [
+        "Ob sie glaubten, ihr Kind habe Zucker bekommen",
+        "Die Uhrzeit",
+        "Das Wetter",
+        "Die Farbe der Getränke"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Erwartung prägte ihr Urteil."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Koffeinhaltige Getränke wie Cola können den Schlaf von Kindern stören.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Koffein wirkt anregend."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft Kindern abends beim Herunterfahren?",
+      "art": "mc",
+      "optionen": [
+        "Eine ruhige Abendroutine",
+        "Toben bis zum Einschlafen",
+        "Fernsehen im Bett",
+        "Cola zum Abendessen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Feste Abläufe geben Sicherheit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zucker macht Kinder laut Studien kaum unruhiger.",
+        "Aufregung kommt eher von Feiern und vielen Reizen.",
+        "Koffein kann den Schlaf tatsächlich stören.",
+        "Eine ruhige Abendroutine hilft beim Einschlafen."
+      ]
+    }
+  ]
+}

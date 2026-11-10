@@ -1,0 +1,140 @@
+{
+  "id": "supp-b159-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Sind Melatonin-Gummis für Kinder unbedenklich?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Kindergesundheit",
+      "herausgeber": "Deutsche Gesellschaft für Kinder- und Jugendmedizin (DGKJ)",
+      "url": "https://www.dgkj.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "melatonin",
+    "kinder",
+    "schlafmittel"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bunte Fruchtgummis mit Melatonin werden als sanfte Einschlafhilfe für Kinder beworben.",
+        "Fachleute raten zur Vorsicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hormon, kein Bonbon",
+      "absaetze": [
+        "Melatonin ist ein körpereigenes Hormon, das den Schlaf-Wach-Rhythmus steuert. In Gummis wird es von außen zugeführt.",
+        "Das BfR rät davon ab, Kindern Melatonin-Präparate ohne ärztlichen Rat zu geben. Über langfristige Folgen für die Entwicklung ist wenig bekannt."
+      ],
+      "merke": "Melatonin ist ein Hormon.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefahr durch Süßigkeiten-Optik",
+      "absaetze": [
+        "Weil die Produkte wie Süßigkeiten aussehen, essen Kinder manchmal zu viele davon. In anderen Ländern stiegen dadurch die Anrufe bei Giftinformationszentren.",
+        "Bewahre solche Produkte deshalb immer außer Reichweite von Kindern auf."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ursachen abklären",
+      "absaetze": [
+        "Einschlafprobleme bei Kindern haben oft einfache Ursachen, etwa unregelmäßige Zeiten oder Bildschirme am Abend. Eine feste Abendroutine hilft häufig.",
+        "Bei anhaltenden Problemen sollte die Kinderarztpraxis die Ursache abklären. Für bestimmte Erkrankungen gibt es ärztlich verordnete Melatonin-Medikamente."
+      ],
+      "merke": "Bei Schlafproblemen zuerst die Kinderarztpraxis fragen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht ohne ärztlichen Rat bei Kindern anwenden.",
+        "Für Kinder unerreichbar aufbewahren.",
+        "Nicht in Schwangerschaft und Stillzeit.",
+        "Anhaltende Schlafprobleme ärztlich abklären."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Melatonin?",
+      "art": "mc",
+      "optionen": [
+        "Ein körpereigenes Hormon",
+        "Ein Vitamin",
+        "Ein Zucker",
+        "Ein Farbstoff"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es steuert den Schlaf-Wach-Rhythmus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was rät das BfR zu Melatonin-Präparaten für Kinder?",
+      "art": "mc",
+      "optionen": [
+        "Nicht ohne ärztlichen Rat zu geben",
+        "Täglich zu geben",
+        "Als Belohnung zu nutzen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Langfristige Folgen sind wenig bekannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Melatonin-Gummis können Kinder nicht versehentlich überdosieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Weil sie wie Süßigkeiten aussehen, essen Kinder manchmal zu viele."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft bei Einschlafproblemen oft zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Eine feste Abendroutine",
+        "Mehr Süßigkeiten",
+        "Spätes Fernsehen",
+        "Koffein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bei anhaltenden Problemen zur Kinderarztpraxis."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Melatonin ist ein Hormon, kein Bonbon.",
+        "Das BfR rät bei Kindern nur zu ärztlich begleiteter Anwendung.",
+        "Die Süßigkeiten-Optik verleitet zu Überdosierung.",
+        "Schlafprobleme zuerst ärztlich abklären."
+      ]
+    }
+  ]
+}
