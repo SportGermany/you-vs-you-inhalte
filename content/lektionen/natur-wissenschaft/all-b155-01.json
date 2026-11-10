@@ -1,0 +1,122 @@
+{
+  "id": "all-b155-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum entfernt sich der Mond von der Erde?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Moon",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mond",
+    "gezeiten",
+    "erde"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Mond wirkt seit jeher gleich weit entfernt.",
+        "Tatsächlich entfernt er sich jedes Jahr ein kleines Stück von uns."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gemessen mit Laserstrahlen",
+      "absaetze": [
+        "Astronauten der Apollo-Missionen stellten Spiegel auf dem Mond auf. Forschende schicken bis heute Laserstrahlen dorthin und messen, wie lange das Licht zurück braucht.",
+        "So weiß man, dass sich der Mond jedes Jahr um knapp vier Zentimeter von der Erde entfernt. Das ist etwa so schnell, wie Fingernägel wachsen."
+      ],
+      "merke": "Der Mond entfernt sich um knapp vier Zentimeter pro Jahr."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Gezeiten als Ursache",
+      "absaetze": [
+        "Der Mond verursacht auf der Erde Ebbe und Flut. Die Reibung der Wassermassen bremst die Drehung der Erde ein wenig.",
+        "Dabei geht Schwung von der Erde auf den Mond über. Dadurch wandert er auf eine immer weitere Bahn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Folgen in ferner Zukunft",
+      "absaetze": [
+        "Weil die Erde gebremst wird, werden die Tage ganz allmählich länger. Pro Jahrhundert ist das nur ein winziger Bruchteil einer Sekunde.",
+        "In vielen Millionen Jahren wird der Mond zu klein erscheinen, um die Sonne ganz zu verdecken. Totale Sonnenfinsternisse gibt es dann nicht mehr."
+      ],
+      "merke": "Die Tage werden ganz allmählich länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie misst man die Entfernung zum Mond genau?",
+      "art": "mc",
+      "optionen": [
+        "Mit Laserstrahlen und Spiegeln auf dem Mond",
+        "Mit einem Maßband",
+        "Mit Fernrohren allein",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Spiegel stellten Apollo-Astronauten auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Um wie viel entfernt sich der Mond pro Jahr?",
+      "art": "mc",
+      "optionen": [
+        "Um knapp vier Zentimeter",
+        "Um vier Kilometer",
+        "Um einen Meter",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa so schnell, wie Fingernägel wachsen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verursacht die Entfernung des Mondes?",
+      "art": "mc",
+      "optionen": [
+        "Die Gezeiten auf der Erde",
+        "Der Sonnenwind allein",
+        "Kometen",
+        "Satelliten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei geht Schwung von der Erde auf den Mond über."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Tage auf der Erde werden allmählich kürzer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie werden ganz allmählich länger."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Mond entfernt sich um knapp vier Zentimeter pro Jahr.",
+        "Gemessen wird das mit Lasern und Spiegeln.",
+        "Ursache sind die Gezeiten.",
+        "Die Tage werden dadurch ganz allmählich länger."
+      ]
+    }
+  ]
+}

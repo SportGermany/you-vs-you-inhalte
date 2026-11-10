@@ -1,0 +1,139 @@
+{
+  "id": "supp-b155-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Inulin-Pulver zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsbezogene Angaben",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "inulin",
+    "ballaststoffe",
+    "darm"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Inulin wird als Pulver für eine gesunde Darmflora verkauft.",
+        "Es steckt aber auch in ganz normalen Lebensmitteln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Ballaststoff aus Wurzeln",
+      "absaetze": [
+        "Inulin ist ein löslicher Ballaststoff. Er steckt etwa in Chicorée, Topinambur, Schwarzwurzeln, Zwiebeln und Lauch.",
+        "Für Präparate wird Inulin meist aus der Wurzel der Zichorie gewonnen."
+      ],
+      "merke": "Inulin steckt in Zwiebeln, Lauch und Chicorée."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Futter für Darmbakterien",
+      "absaetze": [
+        "Inulin wird im Dünndarm nicht verdaut. Im Dickdarm dient es bestimmten Bakterien als Nahrung, man nennt das präbiotisch.",
+        "Für Inulin aus Zichorie hat die EFSA bestätigt, dass es zu einer normalen Darmtätigkeit beiträgt. Weitere Versprechen sind weniger gut belegt."
+      ],
+      "merke": "Zichorien-Inulin unterstützt eine normale Darmtätigkeit.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nebenwirkungen",
+      "absaetze": [
+        "Viele Menschen bekommen von Inulin Blähungen und Bauchgrummeln. Wer ein Reizdarmsyndrom hat, verträgt es oft schlecht.",
+        "Ballaststoffe aus Gemüse, Vollkorn und Hülsenfrüchten sind meist die bessere Wahl. Sie liefern zusätzlich Vitamine und Mineralstoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Reizdarmsyndrom oft schlecht verträglich.",
+        "Langsam steigern, um Blähungen zu vermeiden.",
+        "Ausreichend dazu trinken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus wird Inulin für Präparate meist gewonnen?",
+      "art": "mc",
+      "optionen": [
+        "Aus der Wurzel der Zichorie",
+        "Aus Fisch",
+        "Aus Milch",
+        "Aus Zuckerrohr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Zichorie ist mit dem Chicorée verwandt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet präbiotisch?",
+      "art": "mc",
+      "optionen": [
+        "Es dient Darmbakterien als Nahrung",
+        "Es tötet Bakterien",
+        "Es ist ein Antibiotikum",
+        "Es enthält lebende Bakterien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Inulin wird erst im Dickdarm genutzt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Inulin wird von fast allen Menschen ohne Beschwerden vertragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Blähungen sind häufig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist meist die bessere Wahl für Ballaststoffe?",
+      "art": "mc",
+      "optionen": [
+        "Gemüse, Vollkorn und Hülsenfrüchte",
+        "Nur Pulver",
+        "Weißbrot",
+        "Limonade"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie liefern zusätzlich Vitamine und Mineralstoffe."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Inulin ist ein löslicher Ballaststoff.",
+        "Es steckt in Zwiebeln, Lauch und Chicorée.",
+        "Zichorien-Inulin unterstützt die Darmtätigkeit.",
+        "Blähungen sind eine häufige Nebenwirkung."
+      ]
+    }
+  ]
+}

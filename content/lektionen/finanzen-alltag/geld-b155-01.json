@@ -1,0 +1,122 @@
+{
+  "id": "geld-b155-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Warum fühlt sich die Inflation oft höher an?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherpreise",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "inflation",
+    "preise",
+    "warenkorb"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die offizielle Inflationsrate liegt bei ein paar Prozent, doch im Supermarkt scheint alles viel teurer zu werden.",
+        "Für diesen Unterschied gibt es gute Gründe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Warenkorb",
+      "absaetze": [
+        "Das Statistische Bundesamt misst die Inflation mit einem Warenkorb aus vielen Waren und Dienstleistungen. Darin sind Miete, Strom, Lebensmittel, Kleidung und vieles mehr.",
+        "Jede Ware wird danach gewichtet, wie viel Geld Haushalte im Schnitt dafür ausgeben."
+      ],
+      "merke": "Die Inflation wird mit einem Warenkorb gemessen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum wir anders empfinden",
+      "absaetze": [
+        "Preise für Dinge, die wir oft kaufen, etwa Butter oder Benzin, fallen uns stärker auf. Dass ein Fernseher günstiger wurde, merken wir dagegen kaum.",
+        "Außerdem erinnern wir uns besser an Preissteigerungen als an Preissenkungen. Verluste wiegen für uns schwerer als Gewinne."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Deine eigene Inflation",
+      "absaetze": [
+        "Wer viel für Lebensmittel und Energie ausgibt, ist von Preissteigerungen dort stärker betroffen. Die persönliche Inflation kann deshalb vom Durchschnitt abweichen.",
+        "Das Statistische Bundesamt bietet einen Rechner an, mit dem du deine persönliche Inflationsrate abschätzen kannst."
+      ],
+      "merke": "Deine persönliche Inflation kann vom Durchschnitt abweichen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit wird die offizielle Inflation gemessen?",
+      "art": "mc",
+      "optionen": [
+        "Mit einem Warenkorb aus vielen Waren und Dienstleistungen",
+        "Nur mit dem Brotpreis",
+        "Mit Umfragen auf der Straße",
+        "Mit dem Goldpreis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jede Ware wird gewichtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Preise fallen uns besonders auf?",
+      "art": "mc",
+      "optionen": [
+        "Preise für häufig gekaufte Dinge",
+        "Preise für Dinge, die wir nie kaufen",
+        "Preise im Ausland",
+        "Preise vor 100 Jahren"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa für Butter oder Benzin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die persönliche Inflation ist für alle Menschen genau gleich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie hängt davon ab, wofür du dein Geld ausgibst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran erinnern wir uns besser?",
+      "art": "mc",
+      "optionen": [
+        "An Preissteigerungen",
+        "An Preissenkungen",
+        "An gar keine Preise",
+        "An alle gleich gut"
+      ],
+      "richtig": 0,
+      "erklaerung": "Verluste wiegen für uns schwerer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Inflation wird mit einem Warenkorb gemessen.",
+        "Häufig gekaufte Waren prägen unser Gefühl.",
+        "Preissteigerungen merken wir uns besser.",
+        "Die persönliche Inflation kann abweichen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "vers-b155-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Hast du ein Recht auf Homeoffice?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesunde Arbeit",
+      "herausgeber": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)",
+      "url": "https://www.baua.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "homeoffice",
+    "arbeitsrecht",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Beschäftigte arbeiten heute regelmäßig von zu Hause.",
+        "Ob du darauf einen Anspruch hast, hängt von deinem Arbeitsplatz ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kein allgemeiner Anspruch",
+      "absaetze": [
+        "In Deutschland gibt es kein Gesetz, das dir allgemein ein Recht auf Homeoffice gibt. Während der Corona-Pandemie galt nur zeitweise eine Pflicht für Arbeitgeber, Homeoffice anzubieten.",
+        "Ob du von zu Hause arbeiten darfst, regeln dein Arbeitsvertrag, eine Betriebsvereinbarung oder ein Tarifvertrag."
+      ],
+      "merke": "Ein allgemeines Recht auf Homeoffice gibt es nicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auch der Arbeitgeber kann nicht einfach bestimmen",
+      "absaetze": [
+        "Umgekehrt kann dich dein Arbeitgeber in der Regel nicht ohne Weiteres ins Homeoffice schicken. Dafür braucht es eine Vereinbarung.",
+        "Wurde Homeoffice vertraglich vereinbart, kann er es auch nicht einseitig streichen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was im Homeoffice gilt",
+      "absaetze": [
+        "Arbeitszeitregeln gelten auch zu Hause, ebenso der Arbeitsschutz. Dein Arbeitgeber muss für sichere Arbeitsbedingungen sorgen.",
+        "Kläre vorab, wer Laptop, Stuhl und Internet bezahlt. Auch der Datenschutz muss zu Hause gewährleistet sein."
+      ],
+      "merke": "Arbeitszeit- und Schutzregeln gelten auch zu Hause."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gibt es in Deutschland ein allgemeines Recht auf Homeoffice?",
+      "art": "mc",
+      "optionen": [
+        "Nein",
+        "Ja, für alle",
+        "Ja, ab 50 Jahren",
+        "Nur im Sommer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es hängt von Vertrag und Vereinbarungen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kann Homeoffice geregelt sein?",
+      "art": "mc",
+      "optionen": [
+        "Im Arbeitsvertrag oder einer Betriebsvereinbarung",
+        "Nur im Mietvertrag",
+        "Im Reisepass",
+        "Nirgends"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Tarifverträge können es regeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Im Homeoffice gelten keine Arbeitszeitregeln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie gelten auch zu Hause."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du vorab klären?",
+      "art": "mc",
+      "optionen": [
+        "Wer Laptop, Stuhl und Internet bezahlt",
+        "Welche Farbe das Büro hat",
+        "Wann der Chef Geburtstag hat",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du späteren Streit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ein allgemeines Recht auf Homeoffice gibt es nicht.",
+        "Es hängt von Vertrag und Vereinbarungen ab.",
+        "Auch der Arbeitgeber kann es nicht einseitig anordnen.",
+        "Arbeitszeit- und Schutzregeln gelten auch zu Hause."
+      ]
+    }
+  ]
+}

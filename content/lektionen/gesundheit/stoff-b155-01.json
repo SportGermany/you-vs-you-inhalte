@@ -1,0 +1,133 @@
+{
+  "id": "stoff-b155-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Kurbelt Kaffee den Stoffwechsel an?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Diabetes",
+      "herausgeber": "Deutsche Diabetes Gesellschaft",
+      "url": "https://www.ddg.info",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "kaffee",
+    "koffein",
+    "energieverbrauch"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kaffee gilt als Muntermacher und manchmal auch als Fatburner.",
+        "Was macht er wirklich mit deinem Stoffwechsel?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein kleiner Effekt",
+      "absaetze": [
+        "Koffein kann den Energieverbrauch für einige Stunden leicht erhöhen. Der Effekt ist aber klein und reicht nicht, um spürbar Gewicht zu verlieren.",
+        "Wer regelmäßig Kaffee trinkt, gewöhnt sich zudem an das Koffein. Dann wird die Wirkung schwächer."
+      ],
+      "merke": "Kaffee erhöht den Energieverbrauch nur leicht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zusammenhang mit Diabetes",
+      "absaetze": [
+        "In Beobachtungsstudien hatten Menschen, die regelmäßig Kaffee tranken, seltener Typ-2-Diabetes. Ob der Kaffee selbst die Ursache ist, ist nicht sicher bewiesen.",
+        "Andere Lebensgewohnheiten könnten ebenfalls eine Rolle spielen."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auf die Zutaten achten",
+      "absaetze": [
+        "Schwarzer Kaffee hat kaum Kalorien. Mit Sahne, Sirup und Zucker kann eine Kaffeespezialität aber so viel Energie liefern wie eine kleine Mahlzeit.",
+        "Viel Koffein kann Herzklopfen, Unruhe und Schlafprobleme auslösen. Beim Abnehmen ist Kaffee also kein Ersatz für Bewegung und ausgewogenes Essen, und bei Anzeichen einer Essstörung hilft professionelle Beratung."
+      ],
+      "merke": "Zucker und Sahne machen Kaffee energiereich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie stark erhöht Koffein den Energieverbrauch?",
+      "art": "mc",
+      "optionen": [
+        "Nur leicht und für einige Stunden",
+        "Er verdoppelt sich",
+        "Gar nicht",
+        "Für immer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Effekt reicht nicht zum Abnehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum lässt die Wirkung bei regelmäßigem Konsum nach?",
+      "art": "mc",
+      "optionen": [
+        "Der Körper gewöhnt sich an Koffein",
+        "Kaffee wird schwächer",
+        "Das Herz wird größer",
+        "Der Magen wächst"
+      ],
+      "richtig": 0,
+      "erklaerung": "Man spricht von Gewöhnung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Es ist sicher bewiesen, dass Kaffee Typ-2-Diabetes verhindert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Es gibt nur Zusammenhänge aus Beobachtungsstudien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was kann eine Kaffeespezialität sehr energiereich machen?",
+      "art": "mc",
+      "optionen": [
+        "Sahne, Sirup und Zucker",
+        "Wasser",
+        "Eiswürfel",
+        "Ein Löffel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Schwarzer Kaffee hat kaum Kalorien."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kaffee erhöht den Energieverbrauch nur leicht.",
+        "Der Körper gewöhnt sich an Koffein.",
+        "Ein Schutz vor Diabetes ist nicht bewiesen.",
+        "Zucker und Sahne liefern viel Energie.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

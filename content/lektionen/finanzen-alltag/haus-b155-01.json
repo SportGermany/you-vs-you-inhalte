@@ -1,0 +1,128 @@
+{
+  "id": "haus-b155-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie wird die Scheibe vom Kaminofen wieder sauber?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Heizen mit Holz",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kaminofen",
+    "russ",
+    "reinigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Feuer im Kaminofen ist gemütlich, solange man es durch die Scheibe sehen kann.",
+        "Oft ist das Glas aber schnell schwarz verrußt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein einfacher Trick mit Asche",
+      "absaetze": [
+        "Lass den Ofen vollständig abkühlen. Tauche dann ein feuchtes Stück Küchenpapier oder Zeitung in feine Asche und reibe damit über die Scheibe.",
+        "Die Asche löst den Ruß sanft. Wische danach mit einem feuchten Tuch nach und trockne die Scheibe."
+      ],
+      "merke": "Feuchtes Papier mit Asche löst Ruß."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was du vermeiden solltest",
+      "absaetze": [
+        "Benutze keine Scheuermittel oder Stahlwolle. Sie können das Glas verkratzen.",
+        "Reinige die Scheibe nie, solange sie noch heiß ist. Kaltes Wasser auf heißem Glas kann Spannungen verursachen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ruß als Warnzeichen",
+      "absaetze": [
+        "Viel Ruß auf der Scheibe zeigt oft eine schlechte Verbrennung. Häufige Ursachen sind zu feuchtes Holz oder zu wenig Luftzufuhr.",
+        "Gut getrocknetes Holz verbrennt sauberer. So bleibt die Scheibe länger klar und es entsteht weniger Feinstaub."
+      ],
+      "merke": "Viel Ruß deutet auf schlechte Verbrennung hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit kannst du eine verrußte Kaminscheibe reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Mit feuchtem Papier und Asche",
+        "Mit Stahlwolle",
+        "Mit Scheuerpulver",
+        "Mit Öl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Asche löst den Ruß sanft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du die Scheibe reinigen?",
+      "art": "mc",
+      "optionen": [
+        "Wenn der Ofen vollständig abgekühlt ist",
+        "Wenn das Feuer brennt",
+        "Direkt nach dem Anzünden",
+        "Wenn das Glas heiß ist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst drohen Spannungen im Glas."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viel Ruß auf der Scheibe ist ein Zeichen für gute Verbrennung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er deutet auf schlechte Verbrennung hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen starke Rußbildung?",
+      "art": "mc",
+      "optionen": [
+        "Gut getrocknetes Holz",
+        "Möglichst nasses Holz",
+        "Weniger Luft",
+        "Mehr Papier"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es verbrennt sauberer."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ofen vor dem Reinigen abkühlen lassen.",
+        "Feuchtes Papier mit Asche löst Ruß.",
+        "Keine Scheuermittel verwenden.",
+        "Trockenes Holz verhindert Ruß und Feinstaub."
+      ]
+    }
+  ]
+}

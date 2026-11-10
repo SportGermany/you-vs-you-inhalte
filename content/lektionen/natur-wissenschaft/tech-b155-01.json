@@ -1,0 +1,122 @@
+{
+  "id": "tech-b155-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Spamfilter?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sicher im Netz",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "spamfilter",
+    "e-mail",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein großer Teil aller E-Mails weltweit ist unerwünschte Werbung oder Betrug.",
+        "Dass du davon wenig siehst, verdankst du dem Spamfilter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Absender prüfen",
+      "absaetze": [
+        "Ein Spamfilter prüft zuerst, woher eine Mail kommt. Bekannte Spam-Server stehen auf Sperrlisten.",
+        "Technische Prüfverfahren zeigen außerdem, ob ein Absender wirklich von der angegebenen Adresse sendet."
+      ],
+      "merke": "Spamfilter prüfen zuerst den Absender."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Inhalte bewerten",
+      "absaetze": [
+        "Dann untersucht der Filter den Inhalt. Typische Wörter, verdächtige Links und bestimmte Anhänge erhöhen die Wahrscheinlichkeit für Spam.",
+        "Moderne Filter lernen ständig dazu. Wenn du eine Mail als Spam markierst, hilfst du ihnen dabei."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fehler kommen vor",
+      "absaetze": [
+        "Manchmal landet eine wichtige Mail im Spam-Ordner. Schau dort deshalb gelegentlich nach.",
+        "Umgekehrt rutscht auch Betrug durch. Klicke nie unbedacht auf Links in unerwarteten Mails, auch wenn sie seriös aussehen."
+      ],
+      "merke": "Gelegentlich in den Spam-Ordner schauen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was prüft ein Spamfilter zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Woher die Mail kommt",
+        "Die Schriftfarbe",
+        "Die Uhrzeit des Lesens",
+        "Die Größe des Bildschirms"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bekannte Spam-Server stehen auf Sperrlisten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hilfst du dem Filter beim Lernen?",
+      "art": "mc",
+      "optionen": [
+        "Indem du Spam als Spam markierst",
+        "Indem du alle Mails löschst",
+        "Indem du antwortest",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Moderne Filter lernen ständig dazu."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Spamfilter machen niemals Fehler.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wichtige Mails können im Spam-Ordner landen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du bei unerwarteten Mails vermeiden?",
+      "art": "mc",
+      "optionen": [
+        "Unbedacht auf Links zu klicken",
+        "Sie zu lesen",
+        "Den Absender anzusehen",
+        "Sie zu löschen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch seriös wirkende Mails können Betrug sein."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Spamfilter prüfen Absender und Inhalt.",
+        "Sie lernen durch Markierungen dazu.",
+        "Schau gelegentlich in den Spam-Ordner.",
+        "Klicke nie unbedacht auf Links."
+      ]
+    }
+  ]
+}

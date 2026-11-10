@@ -1,0 +1,129 @@
+{
+  "id": "ern-b155-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Forelle?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "forelle",
+    "fisch",
+    "aquakultur"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Forelle gibt es gebraten, geräuchert oder aus dem Ofen.",
+        "Sie ist der Fisch, der in Deutschland am häufigsten gezüchtet wird."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Aus Teichen und Becken",
+      "absaetze": [
+        "Die meisten Forellen auf dem Teller sind Regenbogenforellen. Sie stammen ursprünglich aus Nordamerika und werden heute vor allem in Teichen und Becken gezüchtet.",
+        "Die Bachforelle ist dagegen in Deutschland heimisch. Sie lebt in kühlen, sauberen Bächen."
+      ],
+      "merke": "Forellen werden in Deutschland vor allem gezüchtet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was sie liefert",
+      "absaetze": [
+        "Forelle liefert hochwertiges Eiweiß, Vitamin D und B-Vitamine. Sie enthält auch Omega-3-Fettsäuren, aber weniger als fettreiche Meeresfische wie Lachs oder Hering.",
+        "Die DGE empfiehlt, ein- bis zweimal pro Woche Fisch zu essen. Forelle ist dabei eine regionale Möglichkeit."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Räucherfisch",
+      "absaetze": [
+        "Geräucherte Forelle wird nicht mehr erhitzt. Sie kann Listerien enthalten, Keime, die für Schwangere und abwehrgeschwächte Menschen gefährlich sind.",
+        "Diese Gruppen sollten Räucherfisch meiden oder nur gut durcherhitzt essen."
+      ],
+      "merke": "Schwangere sollten Räucherfisch meiden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Forelle landet am häufigsten auf dem Teller?",
+      "art": "mc",
+      "optionen": [
+        "Die Regenbogenforelle",
+        "Die Bachforelle",
+        "Die Meerforelle",
+        "Die Goldforelle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird vor allem gezüchtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woher stammt die Regenbogenforelle ursprünglich?",
+      "art": "mc",
+      "optionen": [
+        "Aus Nordamerika",
+        "Aus Australien",
+        "Aus Afrika",
+        "Aus der Antarktis"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Bachforelle ist dagegen heimisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Forelle enthält mehr Omega-3-Fettsäuren als Lachs.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Fettreiche Meeresfische enthalten mehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte geräucherte Forelle meiden?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere",
+        "Sportler",
+        "Kinder im Schulalter",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kann Listerien enthalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Forelle ist der häufigste Zuchtfisch in Deutschland.",
+        "Sie liefert Eiweiß, Vitamin D und Omega-3-Fettsäuren.",
+        "Lachs und Hering enthalten mehr Omega-3.",
+        "Schwangere sollten Räucherfisch meiden."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ern-b155-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Was steckt in Pfifferlingen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Radioaktivität in Lebensmitteln",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "pfifferlinge",
+    "pilze",
+    "saison"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sommer und Herbst sind Pfifferlinge auf vielen Speisekarten.",
+        "Die gelben Pilze haben einige Besonderheiten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Pilz, der sich nicht züchten lässt",
+      "absaetze": [
+        "Pfifferlinge leben in einer Partnerschaft mit Baumwurzeln. Deshalb lassen sie sich bisher nicht wirtschaftlich züchten.",
+        "Fast alle Pfifferlinge im Handel sind gesammelt, ein großer Teil stammt aus Osteuropa."
+      ],
+      "merke": "Pfifferlinge werden gesammelt, nicht gezüchtet."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig zubereiten",
+      "absaetze": [
+        "Wasche Pfifferlinge nicht, sondern putze sie mit einer Bürste oder einem Tuch. Sonst saugen sie sich mit Wasser voll.",
+        "Wildpilze solltest du gut durchgaren. Roh sind viele Pilze schwer verdaulich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Hinweis zu Radioaktivität",
+      "absaetze": [
+        "In manchen Regionen Süddeutschlands sind Wildpilze bis heute mit radioaktivem Cäsium aus Tschernobyl belastet. Das Bundesamt für Strahlenschutz veröffentlicht dazu regelmäßig Messwerte.",
+        "Bei üblichen Mengen gilt das als unbedenklich. Wer sehr viele selbst gesammelte Wildpilze isst, sollte die Werte im Blick behalten."
+      ],
+      "merke": "Wildpilze können noch Cäsium aus Tschernobyl enthalten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gibt es kaum gezüchtete Pfifferlinge?",
+      "art": "mc",
+      "optionen": [
+        "Sie leben in Partnerschaft mit Baumwurzeln",
+        "Sie sind verboten",
+        "Sie wachsen nur im Winter",
+        "Sie schmecken gezüchtet bitter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb werden sie gesammelt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie reinigst du Pfifferlinge am besten?",
+      "art": "mc",
+      "optionen": [
+        "Mit einer Bürste oder einem Tuch",
+        "Im Wasser einweichen",
+        "In der Spülmaschine",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sonst saugen sie sich voll."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wildpilze in Süddeutschland sind teils noch radioaktiv belastet.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Eine Folge von Tschernobyl."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie solltest du Wildpilze zubereiten?",
+      "art": "mc",
+      "optionen": [
+        "Gut durchgaren",
+        "Nur roh essen",
+        "Nur einfrieren",
+        "In Zucker einlegen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Roh sind viele Pilze schwer verdaulich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pfifferlinge werden gesammelt, nicht gezüchtet.",
+        "Putze sie trocken mit Bürste oder Tuch.",
+        "Wildpilze gut durchgaren.",
+        "Manche Wildpilze enthalten noch Cäsium aus Tschernobyl."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "steu-b155-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Muss man Pflegegeld versteuern?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pflegegeld",
+    "angehoerige",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer einen Pflegegrad hat, kann von der Pflegekasse Pflegegeld bekommen.",
+        "Oft gibt die pflegebedürftige Person das Geld an Angehörige weiter, die sie versorgen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuerfrei für Pflegebedürftige",
+      "absaetze": [
+        "Das Pflegegeld der Pflegekasse ist für die pflegebedürftige Person steuerfrei. Es muss nicht in der Steuererklärung als Einkommen angegeben werden.",
+        "Es soll helfen, die häusliche Pflege zu organisieren und zu bezahlen."
+      ],
+      "merke": "Pflegegeld ist für Pflegebedürftige steuerfrei."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitergabe an Angehörige",
+      "absaetze": [
+        "Gibt die pflegebedürftige Person das Geld an Angehörige oder Freunde weiter, die sie pflegen, bleibt es in der Regel auch für diese steuerfrei. Voraussetzung ist, dass sie aus persönlicher Verbundenheit helfen.",
+        "Wer dagegen gewerblich oder beruflich pflegt, muss die Einnahmen versteuern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zusätzlicher Vorteil",
+      "absaetze": [
+        "Pflegende Angehörige können außerdem den Pflege-Pauschbetrag in der Steuererklärung beantragen. Er ist nach Pflegegrad gestaffelt.",
+        "Lass dich bei Fragen von der Pflegekasse, einem Lohnsteuerhilfeverein oder einer Steuerberatung unterstützen."
+      ],
+      "merke": "Pflegende Angehörige können einen Pauschbetrag geltend machen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist Pflegegeld für die pflegebedürftige Person steuerpflichtig?",
+      "art": "mc",
+      "optionen": [
+        "Nein, es ist steuerfrei",
+        "Ja, voll",
+        "Ja, zur Hälfte",
+        "Nur im Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es muss nicht als Einkommen angegeben werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann bleibt weitergegebenes Pflegegeld für Angehörige steuerfrei?",
+      "art": "mc",
+      "optionen": [
+        "Wenn sie aus persönlicher Verbundenheit pflegen",
+        "Nur wenn sie Ärzte sind",
+        "Nie",
+        "Nur bei Beträgen über einer Million"
+      ],
+      "richtig": 0,
+      "erklaerung": "Gewerbliche Pflege muss versteuert werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Professionelle Pflegekräfte müssen ihre Einnahmen nicht versteuern.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Berufliche Einnahmen sind steuerpflichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was können pflegende Angehörige zusätzlich beantragen?",
+      "art": "mc",
+      "optionen": [
+        "Den Pflege-Pauschbetrag",
+        "Einen Dienstwagen",
+        "Kindergeld",
+        "Eine Rente mit 40"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist nach Pflegegrad gestaffelt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflegegeld ist für Pflegebedürftige steuerfrei.",
+        "An Angehörige weitergegeben bleibt es meist steuerfrei.",
+        "Berufliche Pflege muss versteuert werden.",
+        "Pflegende Angehörige können einen Pauschbetrag nutzen."
+      ]
+    }
+  ]
+}
