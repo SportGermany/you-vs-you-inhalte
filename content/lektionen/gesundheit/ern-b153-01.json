@@ -1,0 +1,129 @@
+{
+  "id": "ern-b153-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Gänsefleisch?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gans",
+    "gefluegel",
+    "festessen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zu Sankt Martin und zu Weihnachten kommt in vielen Familien eine Gans auf den Tisch.",
+        "Wie passt der Festtagsbraten in eine ausgewogene Ernährung?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Dunkles, kräftiges Fleisch",
+      "absaetze": [
+        "Gänsefleisch ist dunkler und kräftiger im Geschmack als Hähnchen. Es liefert hochwertiges Eiweiß, Eisen und B-Vitamine.",
+        "Anders als viel anderes Geflügel ist die Gans recht fettreich. Das meiste Fett sitzt in und unter der Haut."
+      ],
+      "merke": "Gans ist fettreicher als viel anderes Geflügel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fett bewusst abschöpfen",
+      "absaetze": [
+        "Beim Braten tritt viel Fett aus. Gieße es zwischendurch ab, dann wird die Haut knuspriger und das Essen leichter.",
+        "Wer die Haut weglässt, spart den größten Teil des Fetts. Dazu passen Rotkohl, Maronen und andere Gemüsebeilagen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicher zubereiten",
+      "absaetze": [
+        "Geflügel muss vollständig durchgegart werden, damit Keime wie Salmonellen abgetötet werden. Ein Bratenthermometer hilft dabei.",
+        "Tiefgekühlte Gänse taust du am besten langsam im Kühlschrank auf. Das Tauwasser solltest du sofort wegschütten."
+      ],
+      "merke": "Gans immer vollständig durchgaren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo sitzt das meiste Fett der Gans?",
+      "art": "mc",
+      "optionen": [
+        "In und unter der Haut",
+        "Im Brustmuskel",
+        "In den Knochen",
+        "In den Flügelspitzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ohne Haut wird der Braten deutlich magerer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Gänsefleisch ist magerer als Hähnchenbrust.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Gans ist deutlich fettreicher."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du Geflügel vollständig durchgaren?",
+      "art": "mc",
+      "optionen": [
+        "Damit Keime wie Salmonellen abgetötet werden",
+        "Damit es süßer wird",
+        "Damit es mehr Vitamine hat",
+        "Damit es weniger wiegt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Bratenthermometer hilft dabei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie taust du eine tiefgekühlte Gans am besten auf?",
+      "art": "mc",
+      "optionen": [
+        "Langsam im Kühlschrank",
+        "In der Sonne",
+        "Im heißen Wasser",
+        "Auf der Heizung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Tauwasser sofort wegschütten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gans liefert Eiweiß, Eisen und B-Vitamine.",
+        "Sie ist fettreicher als viel anderes Geflügel.",
+        "Ohne Haut sparst du viel Fett.",
+        "Geflügel immer vollständig durchgaren."
+      ]
+    }
+  ]
+}

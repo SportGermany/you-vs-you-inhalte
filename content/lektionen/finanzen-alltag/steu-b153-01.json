@@ -1,0 +1,122 @@
+{
+  "id": "steu-b153-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie rechnest du Dienstreisen mit dem eigenen Auto ab?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "dienstreise",
+    "reisekosten",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Du fährst mit dem eigenen Auto zu einem Kunden oder einer Schulung.",
+        "Die Kosten dafür kannst du dir erstatten lassen oder steuerlich geltend machen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Pauschale pro Kilometer",
+      "absaetze": [
+        "Für berufliche Fahrten mit dem eigenen Auto gibt es eine Pauschale von 30 Cent pro gefahrenem Kilometer. Anders als bei der Pendlerpauschale zählen Hin- und Rückweg.",
+        "Du kannst auch die tatsächlichen Kosten deines Autos ansetzen. Dann musst du sie aber genau nachweisen."
+      ],
+      "merke": "Bei Dienstreisen zählen Hin- und Rückweg."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erstattung durch den Arbeitgeber",
+      "absaetze": [
+        "Dein Arbeitgeber darf dir die Pauschale steuerfrei erstatten. Erstattet er weniger, kannst du die Differenz als Werbungskosten angeben.",
+        "Was er erstattet, darfst du nicht noch einmal in der Steuererklärung geltend machen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weitere Reisekosten",
+      "absaetze": [
+        "Bei längerer Abwesenheit kommen Pauschalen für Verpflegung hinzu. Auch Übernachtungs- und Parkkosten zählen zu den Reisekosten.",
+        "Führe eine einfache Liste mit Datum, Ziel, Anlass und Kilometern. So kannst du alles später belegen."
+      ],
+      "merke": "Notiere Datum, Ziel, Anlass und Kilometer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist die Pauschale für Dienstreisen mit dem eigenen Auto?",
+      "art": "mc",
+      "optionen": [
+        "30 Cent pro gefahrenem Kilometer",
+        "1 Euro pro Kilometer",
+        "5 Cent pro Kilometer",
+        "Es gibt keine Pauschale"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hin- und Rückweg zählen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Darf der Arbeitgeber die Kilometerpauschale steuerfrei erstatten?",
+      "art": "mc",
+      "optionen": [
+        "Ja",
+        "Nein, nie",
+        "Nur bei Elektroautos",
+        "Nur am Wochenende"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Rest kannst du als Werbungskosten angeben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Erstattete Kosten darfst du zusätzlich in der Steuererklärung absetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Doppelt geltend machen ist nicht erlaubt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du für jede Fahrt notieren?",
+      "art": "mc",
+      "optionen": [
+        "Datum, Ziel, Anlass und Kilometer",
+        "Nur die Uhrzeit",
+        "Nur das Wetter",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kannst du die Fahrten belegen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Dienstreisen mit dem eigenen Auto: 30 Cent pro gefahrenem Kilometer.",
+        "Hin- und Rückweg zählen.",
+        "Der Arbeitgeber darf steuerfrei erstatten.",
+        "Fahrten dokumentieren, nichts doppelt angeben."
+      ]
+    }
+  ]
+}

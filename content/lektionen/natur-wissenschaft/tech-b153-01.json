@@ -1,0 +1,128 @@
+{
+  "id": "tech-b153-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was kann 5G besser als 4G?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Mobilfunk",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Elektromagnetische Felder",
+      "herausgeber": "Bundesamt für Strahlenschutz",
+      "url": "https://www.bfs.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "5g",
+    "mobilfunk",
+    "netz"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "5G ist die fünfte Generation des Mobilfunks.",
+        "Sie soll nicht nur Handys schneller machen, sondern auch Maschinen vernetzen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schneller und reaktionsschneller",
+      "absaetze": [
+        "5G erlaubt deutlich höhere Datenraten als 4G, auch LTE genannt. Vor allem aber reagiert das Netz schneller, die Verzögerung ist sehr gering.",
+        "Außerdem können viel mehr Geräte gleichzeitig in einer Funkzelle verbunden sein. Das ist für Sensoren und vernetzte Maschinen wichtig."
+      ],
+      "merke": "5G bietet mehr Tempo und kürzere Reaktionszeiten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Unterschiedliche Frequenzen",
+      "absaetze": [
+        "In Deutschland versteigerte die Bundesnetzagentur 2019 erste Frequenzen für 5G. Niedrige Frequenzen reichen weit, hohe bringen mehr Daten, aber nur über kurze Strecken.",
+        "Firmen können eigene 5G-Netze auf ihrem Gelände betreiben. Solche Campusnetze steuern zum Beispiel Roboter in Fabriken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Und die Gesundheit?",
+      "absaetze": [
+        "Nach Einschätzung des Bundesamts für Strahlenschutz gibt es unterhalb der Grenzwerte keine belegten Gesundheitsschäden durch Mobilfunk. Das gilt auch für 5G.",
+        "Für einige neue, sehr hohe Frequenzbereiche läuft die Forschung weiter. Die Grenzwerte gelten unabhängig von der Mobilfunkgeneration."
+      ],
+      "merke": "Unterhalb der Grenzwerte sind keine Gesundheitsschäden belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür steht 5G?",
+      "art": "mc",
+      "optionen": [
+        "Für die fünfte Generation des Mobilfunks",
+        "Für fünf Gigabyte Datenvolumen",
+        "Für fünf Antennen",
+        "Für fünf Länder"
+      ],
+      "richtig": 0,
+      "erklaerung": "Davor gab es 4G, auch LTE genannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist neben dem Tempo ein großer Vorteil von 5G?",
+      "art": "mc",
+      "optionen": [
+        "Die sehr kurze Reaktionszeit",
+        "Längere Akkulaufzeit bei alten Handys",
+        "Kostenloses Surfen",
+        "Besserer Radioempfang"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist für Maschinen wichtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hohe Frequenzen reichen besonders weit.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bringen mehr Daten, aber nur über kurze Strecken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was sind Campusnetze?",
+      "art": "mc",
+      "optionen": [
+        "Eigene 5G-Netze auf einem Firmengelände",
+        "WLAN in Hörsälen",
+        "Netze nur für Studierende",
+        "Kabelfernsehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie steuern etwa Roboter in Fabriken."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "5G ist die fünfte Mobilfunkgeneration.",
+        "Es bietet mehr Tempo und kürzere Reaktionszeiten.",
+        "Firmen können eigene Campusnetze betreiben.",
+        "Unterhalb der Grenzwerte sind keine Gesundheitsschäden belegt."
+      ]
+    }
+  ]
+}

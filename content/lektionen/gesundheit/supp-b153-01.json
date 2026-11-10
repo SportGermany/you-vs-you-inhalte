@@ -1,0 +1,140 @@
+{
+  "id": "supp-b153-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Beta-Glucan-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsbezogene Angaben",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "beta-glucan",
+    "ballaststoffe",
+    "cholesterin"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Beta-Glucan steckt in Haferflocken, wird aber auch als Pulver und Kapsel verkauft.",
+        "Manche Versprechen sind belegt, andere nicht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein besonderer Ballaststoff",
+      "absaetze": [
+        "Beta-Glucane sind lösliche Ballaststoffe. Sie stecken vor allem in Hafer und Gerste, aber auch in Hefen und Pilzen.",
+        "Im Darm bilden sie eine zähe Masse. Dadurch können sie die Aufnahme von Fetten und Zucker etwas verlangsamen."
+      ],
+      "merke": "Beta-Glucane stecken vor allem in Hafer und Gerste."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was belegt ist",
+      "absaetze": [
+        "Für Beta-Glucan aus Hafer und Gerste hat die EFSA bestätigt, dass es zu einem normalen Cholesterinspiegel beiträgt. Das gilt für regelmäßigen Verzehr in ausreichender Menge.",
+        "Haferflocken, Haferkleie und Gerste liefern es ganz einfach über das Essen. Ein Präparat ist dafür meist nicht nötig."
+      ],
+      "merke": "Hafer-Beta-Glucan kann den Cholesterinspiegel günstig beeinflussen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was nicht belegt ist",
+      "absaetze": [
+        "Beta-Glucane aus Hefe oder Pilzen werden oft für ein starkes Immunsystem beworben. Ob das stimmt, ist unklar. Eine zugelassene gesundheitsbezogene Angabe gibt es dafür nicht.",
+        "Größere Mengen können Blähungen verursachen. Wer Cholesterinsenker bekommt, sollte Präparate ärztlich besprechen."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Cholesterinsenkern ärztlich besprechen.",
+        "Größere Mengen können Blähungen verursachen.",
+        "Ausreichend dazu trinken."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo stecken Beta-Glucane vor allem?",
+      "art": "mc",
+      "optionen": [
+        "In Hafer und Gerste",
+        "In Fleisch",
+        "In Zucker",
+        "In Speiseöl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Hefen und Pilze enthalten sie."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür ist ein Nutzen von Hafer-Beta-Glucan bestätigt?",
+      "art": "mc",
+      "optionen": [
+        "Für einen normalen Cholesterinspiegel",
+        "Für das Haarwachstum",
+        "Für besseres Sehen",
+        "Gegen Erkältungen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die EFSA hat das bestätigt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für Beta-Glucane aus Pilzen ist eine Stärkung des Immunsystems offiziell anerkannt.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es keine zugelassene Angabe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie kommst du einfach an Beta-Glucan?",
+      "art": "mc",
+      "optionen": [
+        "Über Haferflocken und Gerste",
+        "Nur über teure Kapseln",
+        "Über Limonade",
+        "Über Weißbrot"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Präparat ist meist nicht nötig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Beta-Glucane sind lösliche Ballaststoffe.",
+        "Aus Hafer und Gerste helfen sie beim Cholesterinspiegel.",
+        "Eine Immunwirkung ist nicht belegt.",
+        "Haferflocken sind die einfachste Quelle."
+      ]
+    }
+  ]
+}

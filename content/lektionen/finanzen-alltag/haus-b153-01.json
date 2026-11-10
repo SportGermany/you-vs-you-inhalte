@@ -1,0 +1,122 @@
+{
+  "id": "haus-b153-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie bekommst du Blutflecken aus Stoff?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "blutflecken",
+    "waesche",
+    "flecken"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Kratzer, Nasenbluten oder ein Schnitt beim Kochen: Schnell ist Blut auf der Kleidung.",
+        "Mit dem richtigen Vorgehen geht der Fleck meist wieder raus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kalt statt heiß",
+      "absaetze": [
+        "Blut enthält Eiweiß, das bei Hitze gerinnt und sich fest mit den Fasern verbindet. Spüle frische Flecken deshalb sofort mit kaltem Wasser aus.",
+        "Spüle am besten von der Rückseite des Stoffs. So drückst du das Blut aus den Fasern heraus statt hinein."
+      ],
+      "merke": "Blutflecken immer kalt auswaschen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorbehandeln",
+      "absaetze": [
+        "Reibe den Fleck danach mit Gallseife oder etwas Flüssigwaschmittel ein. Enzyme in Vollwaschmitteln spalten Eiweiß und helfen zusätzlich.",
+        "Ältere, eingetrocknete Flecken weichst du einige Stunden in kaltem Wasser ein, bevor du sie behandelst."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei empfindlichen Stoffen",
+      "absaetze": [
+        "Wolle und Seide vertragen keine enzymhaltigen Mittel. Hier hilft vorsichtiges Tupfen mit kaltem Wasser und mildem Feinwaschmittel.",
+        "Prüfe vor dem Trockner, ob der Fleck ganz verschwunden ist. Hitze kann Reste dauerhaft fixieren."
+      ],
+      "merke": "Erst prüfen, dann trocknen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit welchem Wasser spülst du Blutflecken aus?",
+      "art": "mc",
+      "optionen": [
+        "Mit kaltem Wasser",
+        "Mit kochendem Wasser",
+        "Mit heißem Spülwasser",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Hitze lässt das Eiweiß gerinnen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von welcher Seite spülst du den Fleck am besten?",
+      "art": "mc",
+      "optionen": [
+        "Von der Rückseite des Stoffs",
+        "Von der Vorderseite",
+        "Von der Seite",
+        "Egal"
+      ],
+      "richtig": 0,
+      "erklaerung": "So drückst du das Blut aus den Fasern heraus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Enzymhaltige Waschmittel eignen sich gut für Seide.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wolle und Seide vertragen sie nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du mit eingetrockneten Blutflecken zuerst?",
+      "art": "mc",
+      "optionen": [
+        "Einige Stunden kalt einweichen",
+        "Heiß bügeln",
+        "In den Trockner legen",
+        "Mit Öl einreiben"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach vorbehandeln und waschen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Blutflecken sofort kalt ausspülen.",
+        "Von der Rückseite des Stoffs spülen.",
+        "Mit Gallseife oder Waschmittel vorbehandeln.",
+        "Vor dem Trockner prüfen, ob der Fleck weg ist."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "lern-b153-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "lernen-gedaechtnis",
+  "titel": "Wie lernen Kinder Fahrradfahren?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Radfahren mit Kindern",
+      "herausgeber": "Allgemeiner Deutscher Fahrrad-Club (ADFC)",
+      "url": "https://www.adfc.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verkehrssicherheit",
+      "herausgeber": "Deutscher Verkehrssicherheitsrat (DVR)",
+      "url": "https://www.dvr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fahrradfahren",
+    "kinder",
+    "gleichgewicht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Fahrradfahren gehört für viele zu den schönsten Kindheitserinnerungen.",
+        "Wie Kinder es am leichtesten lernen, hat sich in den letzten Jahren verändert."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst das Gleichgewicht",
+      "absaetze": [
+        "Das Schwierigste beim Radfahren ist das Gleichgewicht, nicht das Treten. Laufräder ohne Pedale trainieren genau das schon im Kleinkindalter.",
+        "Kinder, die sicher Laufrad fahren, kommen oft schnell aufs Fahrrad. Stützräder helfen beim Gleichgewicht dagegen kaum."
+      ],
+      "merke": "Laufräder trainieren das Gleichgewicht."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die ersten Fahrten",
+      "absaetze": [
+        "Übe auf einem ruhigen, ebenen Platz ohne Verkehr. Ein leichtes Gefälle auf Gras kann beim Anrollen helfen.",
+        "Halte dein Kind, wenn nötig, an den Schultern oder am Rücken, nicht am Lenker. So kann es selbst lenken und das Gleichgewicht spüren."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit von Anfang an",
+      "absaetze": [
+        "Ein gut sitzender Helm gehört von Beginn an dazu. Das Rad sollte so eingestellt sein, dass das Kind mit den Füßen den Boden erreicht.",
+        "Sicher im Straßenverkehr fahren können Kinder erst deutlich später. Bis etwa zehn Jahre fehlt vielen noch der Überblick."
+      ],
+      "merke": "Helm tragen und erst später in den Straßenverkehr."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist beim Radfahrenlernen am schwierigsten?",
+      "art": "mc",
+      "optionen": [
+        "Das Gleichgewicht",
+        "Das Treten",
+        "Das Klingeln",
+        "Das Absteigen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laufräder trainieren genau das."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo hältst du dein Kind beim Üben am besten fest?",
+      "art": "mc",
+      "optionen": [
+        "An den Schultern oder am Rücken",
+        "Am Lenker",
+        "An den Füßen",
+        "Gar nicht, auch nicht beim ersten Mal"
+      ],
+      "richtig": 0,
+      "erklaerung": "So kann es selbst lenken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Stützräder trainieren das Gleichgewicht besonders gut.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie helfen dabei kaum."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört von Anfang an dazu?",
+      "art": "mc",
+      "optionen": [
+        "Ein gut sitzender Helm",
+        "Ein Rennrad",
+        "Eine Fahrt auf der Hauptstraße",
+        "Ein Fahrradanhänger"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch das Rad muss passen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Das Gleichgewicht ist das Schwierigste.",
+        "Laufräder bereiten gut aufs Fahrrad vor.",
+        "Am Rücken halten, nicht am Lenker.",
+        "Helm tragen und den Straßenverkehr erst später üben."
+      ]
+    }
+  ]
+}
