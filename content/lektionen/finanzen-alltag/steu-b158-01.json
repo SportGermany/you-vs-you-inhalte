@@ -1,0 +1,128 @@
+{
+  "id": "steu-b158-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wann kommt die Steuererstattung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuererklärung online",
+      "herausgeber": "ELSTER",
+      "url": "https://www.elster.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "steuererstattung",
+    "finanzamt",
+    "steuererklaerung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Steuererklärung ist abgeschickt, nun wartest du auf dein Geld.",
+        "Wie lange das dauert, hängt von einigen Dingen ab."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erst prüfen, dann zahlen",
+      "absaetze": [
+        "Das Finanzamt prüft deine Erklärung und erstellt einen Steuerbescheid. Darin steht, ob du Geld zurückbekommst oder nachzahlen musst.",
+        "Die Erstattung wird kurz danach auf das Konto überwiesen, das du in der Erklärung angegeben hast."
+      ],
+      "merke": "Die Erstattung kommt nach dem Steuerbescheid."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Bearbeitung beschleunigt",
+      "absaetze": [
+        "Elektronisch über ELSTER abgegebene Erklärungen werden in der Regel schneller bearbeitet als Papierformulare. Vollständige und schlüssige Angaben vermeiden Rückfragen.",
+        "Wer früh im Jahr abgibt, wartet oft länger, weil das Finanzamt zu Jahresbeginn noch Daten von Arbeitgebern und Versicherungen erhält."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn es länger dauert",
+      "absaetze": [
+        "Die Bearbeitungszeit schwankt stark zwischen den Finanzämtern. Bei Rückfragen antworte möglichst schnell und vollständig.",
+        "Prüfe den Bescheid nach Erhalt genau. Für einen Einspruch hast du einen Monat Zeit."
+      ],
+      "merke": "Den Bescheid genau prüfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird die Steuererstattung überwiesen?",
+      "art": "mc",
+      "optionen": [
+        "Kurz nach dem Steuerbescheid",
+        "Sofort beim Absenden",
+        "Erst nach zehn Jahren",
+        "Nur auf Anfrage per Brief"
+      ],
+      "richtig": 0,
+      "erklaerung": "Im Bescheid steht der Betrag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Abgabe wird meist schneller bearbeitet?",
+      "art": "mc",
+      "optionen": [
+        "Die elektronische über ELSTER",
+        "Ein handschriftlicher Brief",
+        "Eine Abgabe per Telefon",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Papierformulare dauern oft länger."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Die Bearbeitungszeit ist bei allen Finanzämtern gleich.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie schwankt stark."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange hast du Zeit für einen Einspruch?",
+      "art": "mc",
+      "optionen": [
+        "Einen Monat",
+        "Einen Tag",
+        "Zehn Jahre",
+        "Es gibt keine Frist"
+      ],
+      "richtig": 0,
+      "erklaerung": "Prüfe den Bescheid deshalb gleich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Erstattung kommt nach dem Steuerbescheid.",
+        "Elektronische Abgabe beschleunigt oft die Bearbeitung.",
+        "Vollständige Angaben vermeiden Rückfragen.",
+        "Den Bescheid prüfen, Einspruch innerhalb eines Monats."
+      ]
+    }
+  ]
+}

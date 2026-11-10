@@ -1,0 +1,129 @@
+{
+  "id": "ern-b158-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Rotbarsch?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Fischbestände",
+      "herausgeber": "Thünen-Institut",
+      "url": "https://www.thuenen.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "rotbarsch",
+    "fisch",
+    "nachhaltigkeit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Rotbarsch ist mit seiner leuchtend roten Haut ein auffälliger Meeresfisch.",
+        "Auf dem Teller ist er beliebt, im Meer aber empfindlich."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Fisch aus kalten Tiefen",
+      "absaetze": [
+        "Rotbarsche leben im kalten Nordatlantik in großen Tiefen. Sie wachsen sehr langsam und können mehrere Jahrzehnte alt werden.",
+        "Weil sie sich langsam vermehren, erholen sich überfischte Bestände nur schwer."
+      ],
+      "merke": "Rotbarsche wachsen langsam und werden alt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was er liefert",
+      "absaetze": [
+        "Rotbarsch hat festes, mageres Fleisch mit hochwertigem Eiweiß. Er liefert außerdem Jod und Selen.",
+        "Omega-3-Fettsäuren enthält er weniger als fettreiche Fische wie Hering."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bewusst einkaufen",
+      "absaetze": [
+        "Manche Rotbarschbestände gelten als überfischt, andere werden nachhaltiger bewirtschaftet. Achte auf die Angabe des Fanggebiets und auf Siegel.",
+        "Das Thünen-Institut stellt Informationen zum Zustand einzelner Fischbestände bereit."
+      ],
+      "merke": "Auf Fanggebiet und Siegel achten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo leben Rotbarsche?",
+      "art": "mc",
+      "optionen": [
+        "Im kalten Nordatlantik in großen Tiefen",
+        "In Flüssen",
+        "Im Mittelmeer an der Oberfläche",
+        "In Seen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wachsen dort sehr langsam."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum erholen sich überfischte Rotbarschbestände schwer?",
+      "art": "mc",
+      "optionen": [
+        "Sie wachsen und vermehren sich langsam",
+        "Sie leben nur ein Jahr",
+        "Sie fressen keine Nahrung",
+        "Sie wandern in Flüsse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie können Jahrzehnte alt werden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Rotbarsch enthält mehr Omega-3-Fettsäuren als Hering.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Er ist ein magerer Fisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf solltest du beim Kauf achten?",
+      "art": "mc",
+      "optionen": [
+        "Auf Fanggebiet und Siegel",
+        "Nur auf den Preis",
+        "Auf die Farbe der Verpackung",
+        "Auf nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bestände unterscheiden sich stark."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Rotbarsche leben tief im Nordatlantik.",
+        "Sie wachsen sehr langsam.",
+        "Sie liefern mageres Eiweiß, Jod und Selen.",
+        "Beim Kauf auf Fanggebiet und Siegel achten."
+      ]
+    }
+  ]
+}

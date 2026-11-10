@@ -1,0 +1,122 @@
+{
+  "id": "all-b158-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist eine Schaltsekunde?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Zeit und Frequenz",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "schaltsekunde",
+    "zeit",
+    "erdrotation"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Manchmal hatte eine Minute 61 Sekunden.",
+        "Dahinter steckt ein Kompromiss zwischen Atomuhren und der Drehung der Erde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Arten von Zeit",
+      "absaetze": [
+        "Atomuhren messen die Zeit extrem gleichmäßig. Die Erde dreht sich dagegen nicht ganz regelmäßig und wird auf lange Sicht langsamer.",
+        "Dadurch laufen die Atomzeit und die Zeit nach dem Sonnenstand langsam auseinander."
+      ],
+      "merke": "Die Erde dreht sich nicht ganz gleichmäßig."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Schaltsekunde",
+      "absaetze": [
+        "Seit 1972 wurde deshalb gelegentlich eine Schaltsekunde eingefügt. Sie sorgte dafür, dass die Weltzeit nicht mehr als knapp eine Sekunde von der Erdrotation abweicht.",
+        "In Deutschland verbreitet die Physikalisch-Technische Bundesanstalt die gesetzliche Zeit, auch über Funkuhren."
+      ],
+      "merke": "Seit 1972 gab es gelegentlich Schaltsekunden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Auslaufmodell",
+      "absaetze": [
+        "Schaltsekunden bereiten Computern und Netzen Probleme, weil sie unregelmäßig kommen. 2022 beschloss die Generalkonferenz für Maß und Gewicht, sie bis spätestens 2035 abzuschaffen.",
+        "Wie die Abweichung künftig ausgeglichen wird, ist noch nicht endgültig geklärt."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum gab es Schaltsekunden?",
+      "art": "mc",
+      "optionen": [
+        "Weil sich die Erde nicht ganz gleichmäßig dreht",
+        "Weil Atomuhren falsch gehen",
+        "Wegen der Sommerzeit",
+        "Wegen des Mondes allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Atomzeit und Sonnenzeit laufen auseinander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Seit wann wurden Schaltsekunden eingefügt?",
+      "art": "mc",
+      "optionen": [
+        "Seit 1972",
+        "Seit 1500",
+        "Seit 2020",
+        "Noch nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kamen in unregelmäßigen Abständen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schaltsekunden sind für Computer völlig unproblematisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie bereiten Computern und Netzen Probleme."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wurde 2022 beschlossen?",
+      "art": "mc",
+      "optionen": [
+        "Schaltsekunden bis spätestens 2035 abzuschaffen",
+        "Jede Minute 61 Sekunden zu geben",
+        "Die Atomuhren abzuschalten",
+        "Die Sommerzeit zu verdoppeln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wie es danach weitergeht, ist offen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Atomuhren gehen gleichmäßiger als die Erdrotation.",
+        "Schaltsekunden glichen den Unterschied seit 1972 aus.",
+        "Sie bereiten Computern Probleme.",
+        "Bis spätestens 2035 sollen sie abgeschafft werden."
+      ]
+    }
+  ]
+}

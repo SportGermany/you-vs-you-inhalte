@@ -1,0 +1,132 @@
+{
+  "id": "schlaf-b158-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Stört trockene Heizungsluft den Schlaf?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Raumluft",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "heizungsluft",
+    "luftfeuchtigkeit",
+    "schlafzimmer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Winter wachst du morgens mit trockenem Hals und verstopfter Nase auf.",
+        "Oft ist die Luft im Schlafzimmer der Grund."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum die Luft trocken wird",
+      "absaetze": [
+        "Kalte Außenluft kann wenig Feuchtigkeit aufnehmen. Wird sie in der Wohnung erwärmt, sinkt die relative Luftfeuchtigkeit deutlich.",
+        "Das Umweltbundesamt hält in Wohnräumen meist eine Luftfeuchtigkeit von 40 bis 60 Prozent für günstig."
+      ],
+      "merke": "Im Winter sinkt die Luftfeuchtigkeit beim Heizen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was das für den Schlaf heißt",
+      "absaetze": [
+        "Sehr trockene Luft kann Schleimhäute in Nase und Rachen austrocknen. Das kann Schnarchen, Halskratzen und häufigeres Aufwachen begünstigen.",
+        "Ein überheiztes Schlafzimmer stört zudem den Schlaf. Viele schlafen bei kühlen Temperaturen besser."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was hilft",
+      "absaetze": [
+        "Heize das Schlafzimmer nur mäßig und lüfte mehrmals am Tag kurz und kräftig. Ein Hygrometer zeigt dir die Luftfeuchtigkeit an.",
+        "Luftbefeuchter können helfen, müssen aber sehr sauber gehalten werden. Sonst verteilen sie Keime in der Luft."
+      ],
+      "merke": "Luftbefeuchter nur gut gereinigt verwenden.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Luftfeuchtigkeit gilt in Wohnräumen meist als günstig?",
+      "art": "mc",
+      "optionen": [
+        "40 bis 60 Prozent",
+        "5 bis 10 Prozent",
+        "90 bis 100 Prozent",
+        "Egal"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Hygrometer zeigt sie an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum ist Heizungsluft im Winter oft trocken?",
+      "art": "mc",
+      "optionen": [
+        "Erwärmte kalte Außenluft hat eine niedrige relative Feuchte",
+        "Die Heizung saugt Wasser auf",
+        "Wegen des Schnees",
+        "Wegen der Dunkelheit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kalte Luft kann wenig Feuchtigkeit aufnehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Luftbefeuchter muss man nie reinigen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sonst können sie Keime verteilen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hilft gegen trockene Luft im Schlafzimmer?",
+      "art": "mc",
+      "optionen": [
+        "Mäßig heizen und kurz kräftig lüften",
+        "Fenster dauerhaft kippen bei voller Heizung",
+        "Die Heizung auf höchste Stufe",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "So bleibt die Luft frisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Heizungsluft im Winter ist oft trocken.",
+        "Trockene Luft kann Schleimhäute reizen.",
+        "Das Schlafzimmer besser kühl halten.",
+        "Luftbefeuchter nur gut gereinigt nutzen."
+      ]
+    }
+  ]
+}

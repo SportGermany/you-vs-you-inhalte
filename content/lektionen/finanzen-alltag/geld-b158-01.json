@@ -1,0 +1,122 @@
+{
+  "id": "geld-b158-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Was sind Stablecoins?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Kryptowerte",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "stablecoins",
+    "kryptowerte",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bitcoin schwankt oft stark im Wert.",
+        "Stablecoins sollen dagegen stabil bleiben. Wie funktioniert das?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "An eine Währung gekoppelt",
+      "absaetze": [
+        "Stablecoins sind Kryptowerte, deren Wert an etwas Stabiles gebunden ist, meist an den US-Dollar oder den Euro. Ein Stablecoin soll dauerhaft etwa einen Dollar oder einen Euro wert sein.",
+        "Dafür halten die Herausgeber Reserven, etwa Bankguthaben oder Staatsanleihen."
+      ],
+      "merke": "Stablecoins sind meist an Dollar oder Euro gekoppelt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wofür sie genutzt werden",
+      "absaetze": [
+        "Viele nutzen Stablecoins, um innerhalb der Kryptowelt Geld zu parken oder schnell zu überweisen. Auch für Zahlungen über Grenzen hinweg werden sie eingesetzt.",
+        "Sie sind keine Geldanlage mit Rendite, sondern eher ein digitales Zahlungsmittel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Risiken und Regeln",
+      "absaetze": [
+        "Ein Stablecoin ist nur so sicher wie seine Reserven und sein Herausgeber. Es gab bereits Fälle, in denen Stablecoins ihre Bindung verloren und stark an Wert einbüßten.",
+        "In der EU regelt die Verordnung über Märkte für Kryptowerte, kurz MiCA, seit 2024 die Herausgabe. Herausgeber brauchen eine Zulassung und müssen Reserven vorhalten."
+      ],
+      "merke": "Stablecoins können ihre Bindung verlieren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woran sind Stablecoins meist gekoppelt?",
+      "art": "mc",
+      "optionen": [
+        "An den US-Dollar oder den Euro",
+        "An den Ölpreis",
+        "An das Wetter",
+        "An Bitcoin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ihr Wert soll stabil bleiben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was halten Herausgeber dafür vor?",
+      "art": "mc",
+      "optionen": [
+        "Reserven wie Bankguthaben oder Staatsanleihen",
+        "Nur Versprechen",
+        "Goldbarren im Keller jedes Nutzers",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Reserven sollen den Wert decken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Stablecoins können niemals an Wert verlieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Einige haben ihre Bindung bereits verloren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche EU-Regel gilt für Stablecoins?",
+      "art": "mc",
+      "optionen": [
+        "Die MiCA-Verordnung",
+        "Das Pfandgesetz",
+        "Die Straßenverkehrsordnung",
+        "Es gibt keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Herausgeber brauchen eine Zulassung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Stablecoins sind an Währungen wie Dollar oder Euro gekoppelt.",
+        "Herausgeber halten dafür Reserven.",
+        "Sie können ihre Bindung verlieren.",
+        "In der EU regelt MiCA ihre Herausgabe."
+      ]
+    }
+  ]
+}

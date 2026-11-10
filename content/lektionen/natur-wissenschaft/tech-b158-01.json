@@ -1,0 +1,128 @@
+{
+  "id": "tech-b158-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Katalysator im Auto?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Technik im Alltag",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Mobilität",
+      "herausgeber": "ADAC",
+      "url": "https://www.adac.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "katalysator",
+    "auto",
+    "abgase"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Unter fast jedem Benzinauto sitzt ein unscheinbares Bauteil, das die Luft sauberer macht.",
+        "Der Katalysator verwandelt giftige Abgase in harmlosere Stoffe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Chemie im Auspuff",
+      "absaetze": [
+        "Im Abgas eines Motors stecken Kohlenmonoxid, unverbrannte Kohlenwasserstoffe und Stickoxide. Der Katalysator wandelt sie in Kohlendioxid, Wasser und Stickstoff um.",
+        "Dafür ist eine wabenförmige Struktur mit Edelmetallen wie Platin, Palladium und Rhodium beschichtet. Sie beschleunigen die Reaktionen, ohne sich zu verbrauchen."
+      ],
+      "merke": "Der Katalysator wandelt giftige Abgase um."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Lambdasonde",
+      "absaetze": [
+        "Damit der Katalysator gut arbeitet, muss das Verhältnis von Luft und Kraftstoff stimmen. Eine Lambdasonde misst den Sauerstoff im Abgas und regelt das Gemisch.",
+        "Bei kaltem Motor arbeitet der Katalysator noch nicht richtig. Kurzstrecken sind deshalb besonders schmutzig."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warum er eingeführt wurde",
+      "absaetze": [
+        "Seit den 1980er-Jahren setzte sich der Katalysator in Deutschland durch. Damals war das Waldsterben eine große Sorge.",
+        "Weil Blei die Edelmetalle unbrauchbar macht, musste gleichzeitig bleifreies Benzin eingeführt werden."
+      ],
+      "merke": "Kurzstrecken mit kaltem Motor sind besonders schmutzig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht ein Katalysator?",
+      "art": "mc",
+      "optionen": [
+        "Er wandelt giftige Abgase in harmlosere Stoffe um",
+        "Er erhöht die Motorleistung",
+        "Er kühlt den Motor",
+        "Er misst die Geschwindigkeit"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa Kohlenmonoxid in Kohlendioxid."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Metalle beschleunigen die Reaktionen?",
+      "art": "mc",
+      "optionen": [
+        "Platin, Palladium und Rhodium",
+        "Eisen und Kupfer",
+        "Blei und Zinn",
+        "Aluminium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie verbrauchen sich dabei nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Katalysator arbeitet bei kaltem Motor am besten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Kalt arbeitet er noch nicht richtig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum brauchte man für den Katalysator bleifreies Benzin?",
+      "art": "mc",
+      "optionen": [
+        "Blei macht die Edelmetalle unbrauchbar",
+        "Blei färbt die Abgase",
+        "Blei ist zu teuer",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb wurde beides gemeinsam eingeführt."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Katalysator wandelt giftige Abgase um.",
+        "Edelmetalle beschleunigen die Reaktionen.",
+        "Eine Lambdasonde regelt das Gemisch.",
+        "Bei kaltem Motor arbeitet er noch nicht richtig."
+      ]
+    }
+  ]
+}
