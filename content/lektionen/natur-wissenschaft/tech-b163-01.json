@@ -1,0 +1,128 @@
+{
+  "id": "tech-b163-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Was macht der Prozessor in einem Computer?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informatik",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Computer und Geräte",
+      "herausgeber": "Bundesamt für Sicherheit in der Informationstechnik",
+      "url": "https://www.bsi.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "prozessor",
+    "computer",
+    "chip"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ob Laptop, Smartphone oder Spielkonsole: In jedem Gerät arbeitet ein Prozessor.",
+        "Er ist so etwas wie die Rechenzentrale."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Befehle abarbeiten",
+      "absaetze": [
+        "Der Prozessor führt die Befehle von Programmen aus. Er rechnet, vergleicht Zahlen und verschiebt Daten.",
+        "Programme bestehen aus sehr vielen einfachen Befehlen, die der Prozessor blitzschnell nacheinander erledigt."
+      ],
+      "merke": "Der Prozessor führt die Befehle von Programmen aus."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Milliarden Schalter",
+      "absaetze": [
+        "Moderne Prozessoren enthalten Milliarden winziger Transistoren auf einem Chip. Der Takt gibt an, wie viele Arbeitsschritte pro Sekunde möglich sind.",
+        "Ein Takt von drei Gigahertz bedeutet drei Milliarden Schritte pro Sekunde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehrere Kerne",
+      "absaetze": [
+        "Viele Prozessoren haben mehrere Rechenkerne, die gleichzeitig arbeiten können. So laufen mehrere Aufgaben parallel.",
+        "Bei der Arbeit wird der Prozessor warm. Lüfter oder Kühlkörper verhindern, dass er überhitzt."
+      ],
+      "merke": "Mehrere Kerne arbeiten parallel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist die Hauptaufgabe des Prozessors?",
+      "art": "mc",
+      "optionen": [
+        "Die Befehle von Programmen ausführen",
+        "Bilder ausdrucken",
+        "Strom erzeugen",
+        "Töne aufnehmen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er rechnet und verschiebt Daten."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bedeutet ein Takt von drei Gigahertz?",
+      "art": "mc",
+      "optionen": [
+        "Drei Milliarden Schritte pro Sekunde",
+        "Drei Schritte pro Stunde",
+        "Drei Bilder pro Minute",
+        "Drei Programme gleichzeitig"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Takt gibt die Geschwindigkeit an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Prozessor kann mehrere Rechenkerne haben.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie arbeiten parallel."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum braucht ein Prozessor Kühlung?",
+      "art": "mc",
+      "optionen": [
+        "Weil er bei der Arbeit warm wird",
+        "Weil er sonst einfriert",
+        "Weil er nass wird",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lüfter verhindern Überhitzung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Prozessor führt Programmbefehle aus.",
+        "Er besteht aus Milliarden Transistoren.",
+        "Der Takt gibt die Geschwindigkeit an.",
+        "Mehrere Kerne arbeiten parallel."
+      ]
+    }
+  ]
+}

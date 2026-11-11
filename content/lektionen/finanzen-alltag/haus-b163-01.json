@@ -1,0 +1,122 @@
+{
+  "id": "haus-b163-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du eine Handyhülle?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "handyhuelle",
+    "reinigung",
+    "smartphone"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Die Handyhülle ist den ganzen Tag in deiner Hand und in Taschen unterwegs.",
+        "Entsprechend sammeln sich Schmutz, Fett und Keime."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Silikon und Kunststoff",
+      "absaetze": [
+        "Nimm das Handy aus der Hülle. Reinige die Hülle mit warmem Wasser, etwas Spülmittel und einer weichen Zahnbürste.",
+        "Spüle sie gut ab und lass sie vollständig trocknen, bevor das Handy wieder hineinkommt."
+      ],
+      "merke": "Hülle immer ohne Handy reinigen und gut trocknen lassen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vergilbte durchsichtige Hüllen",
+      "absaetze": [
+        "Durchsichtige Hüllen werden mit der Zeit gelb. Schuld sind vor allem UV-Licht und Hautfette, die den Kunststoff verändern.",
+        "Reinigen entfernt Schmutz, die Verfärbung im Material lässt sich aber meist nicht ganz rückgängig machen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leder und Stoff",
+      "absaetze": [
+        "Lederhüllen vertragen kein Wasserbad. Wische sie mit einem leicht feuchten Tuch ab und pflege sie gelegentlich mit Lederpflege.",
+        "Scharfe Reiniger oder manche Desinfektionstücher können Materialien angreifen. Teste neue Mittel zuerst an einer unauffälligen Stelle."
+      ],
+      "merke": "Lederhüllen nur feucht abwischen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit reinigst du eine Silikonhülle?",
+      "art": "mc",
+      "optionen": [
+        "Warmes Wasser, Spülmittel und weiche Zahnbürste",
+        "Scheuerpulver",
+        "Benzin",
+        "Stahlwolle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vorher das Handy herausnehmen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum werden durchsichtige Hüllen gelb?",
+      "art": "mc",
+      "optionen": [
+        "Durch UV-Licht und Hautfette",
+        "Durch Kälte",
+        "Durch Musik",
+        "Durch WLAN"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Verfärbung sitzt im Material."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine Lederhülle kannst du problemlos in Wasser einweichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Wische sie nur leicht feucht ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann kommt das Handy wieder in die Hülle?",
+      "art": "mc",
+      "optionen": [
+        "Wenn die Hülle vollständig trocken ist",
+        "Sofort nass",
+        "Nach einem Monat",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Feuchtigkeit schadet dem Handy."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Hülle ohne Handy reinigen.",
+        "Silikon mit Spülmittel und weicher Bürste säubern.",
+        "Vergilbung lässt sich meist nicht ganz beheben.",
+        "Leder nur feucht abwischen."
+      ]
+    }
+  ]
+}

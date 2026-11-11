@@ -1,0 +1,122 @@
+{
+  "id": "steu-b163-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was kostet es, Steuern zu spät zu zahlen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "saeumniszuschlag",
+    "finanzamt",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Steuerbescheid ist da, und eine Nachzahlung ist fällig.",
+        "Wer nicht pünktlich zahlt, muss mit Aufschlägen rechnen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Säumniszuschlag",
+      "absaetze": [
+        "Zahlst du eine Steuer nicht bis zum Fälligkeitstag, fällt ein Säumniszuschlag an. Er beträgt für jeden angefangenen Monat ein Prozent des rückständigen Betrags.",
+        "Dafür wird der Betrag auf volle 50 Euro abgerundet."
+      ],
+      "merke": "Pro angefangenem Monat fällt ein Prozent Säumniszuschlag an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine kleine Schonfrist",
+      "absaetze": [
+        "Bei Überweisungen gibt es eine Schonfrist von drei Tagen. Geht das Geld in dieser Zeit ein, wird noch kein Zuschlag erhoben.",
+        "Am sichersten ist eine Lastschrift. Dann zieht das Finanzamt den Betrag pünktlich ein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn das Geld knapp ist",
+      "absaetze": [
+        "Kannst du nicht rechtzeitig zahlen, kannst du beim Finanzamt eine Stundung oder Ratenzahlung beantragen. Stelle den Antrag möglichst vor dem Fälligkeitstag.",
+        "Für eine Stundung können Zinsen anfallen, sie ist aber oft günstiger als Säumniszuschläge."
+      ],
+      "merke": "Bei Geldnot frühzeitig eine Stundung beantragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hoch ist der Säumniszuschlag?",
+      "art": "mc",
+      "optionen": [
+        "Ein Prozent pro angefangenem Monat",
+        "Zehn Prozent pro Tag",
+        "Ein fester Betrag von 5 Euro",
+        "Es gibt keinen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Betrag wird auf volle 50 Euro abgerundet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lang ist die Schonfrist bei Überweisungen?",
+      "art": "mc",
+      "optionen": [
+        "Drei Tage",
+        "Drei Monate",
+        "Ein Jahr",
+        "Es gibt keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Am sichersten ist eine Lastschrift."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Geldnot kannst du eine Stundung beantragen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Am besten vor dem Fälligkeitstag."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann solltest du einen Stundungsantrag stellen?",
+      "art": "mc",
+      "optionen": [
+        "Möglichst vor dem Fälligkeitstag",
+        "Erst nach einem Jahr",
+        "Nie",
+        "Nach der Pfändung"
+      ],
+      "richtig": 0,
+      "erklaerung": "So vermeidest du Säumniszuschläge."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei verspäteter Zahlung droht ein Säumniszuschlag.",
+        "Er beträgt ein Prozent pro angefangenem Monat.",
+        "Bei Überweisungen gilt eine Schonfrist von drei Tagen.",
+        "Bei Geldnot frühzeitig Stundung beantragen."
+      ]
+    }
+  ]
+}

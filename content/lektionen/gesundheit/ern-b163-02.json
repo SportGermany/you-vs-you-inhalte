@@ -1,0 +1,130 @@
+{
+  "id": "ern-b163-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Sprotten?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sprotten",
+    "fisch",
+    "omega-3"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kieler Sprotten sind ein Klassiker an der Küste.",
+        "Die kleinen Fische werden meist geräuchert und im Ganzen gegessen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Kleine Fische aus Nord- und Ostsee",
+      "absaetze": [
+        "Sprotten sind kleine Schwarmfische aus der Familie der Heringe. Sie leben in Nord- und Ostsee.",
+        "Traditionell werden sie heiß geräuchert. Sprotten gibt es auch in Öl als Konserve."
+      ],
+      "merke": "Sprotten sind kleine Verwandte des Herings."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Sprotten liefern Eiweiß, Vitamin D und Omega-3-Fettsäuren. Weil man sie mit den feinen Gräten isst, liefern sie auch Kalzium.",
+        "Geräucherte Sprotten und Konserven sind allerdings oft salzreich."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer vorsichtig sein sollte",
+      "absaetze": [
+        "Geräucherter Fisch kann Listerien enthalten. Schwangere sollten ihn deshalb meiden.",
+        "Lagere geräucherte Sprotten im Kühlschrank und iss sie bald nach dem Kauf."
+      ],
+      "merke": "Schwangere sollten geräucherten Fisch meiden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Fischfamilie gehören Sprotten?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Heringen",
+        "Zu den Haien",
+        "Zu den Karpfen",
+        "Zu den Forellen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie leben in Nord- und Ostsee."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum liefern Sprotten Kalzium?",
+      "art": "mc",
+      "optionen": [
+        "Weil man die feinen Gräten mitisst",
+        "Weil sie in Milch eingelegt werden",
+        "Weil sie Kalk fressen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Gräten sind weich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Geräucherte Sprotten sind meist salzarm.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie sind oft salzreich."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte geräucherten Fisch meiden?",
+      "art": "mc",
+      "optionen": [
+        "Schwangere",
+        "Sportler",
+        "Büroangestellte",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kann Listerien enthalten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Sprotten sind kleine Verwandte des Herings.",
+        "Sie liefern Omega-3, Vitamin D und Kalzium.",
+        "Geräucherte Sprotten sind oft salzreich.",
+        "Schwangere meiden geräucherten Fisch."
+      ]
+    }
+  ]
+}
