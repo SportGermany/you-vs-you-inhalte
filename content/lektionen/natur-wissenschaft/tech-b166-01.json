@@ -1,0 +1,128 @@
+{
+  "id": "tech-b166-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine mechanische Uhr?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Uhren und Zeitmessung",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Zeit und Frequenz",
+      "herausgeber": "Physikalisch-Technische Bundesanstalt (PTB)",
+      "url": "https://www.ptb.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "uhr",
+    "mechanik",
+    "zeitmessung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Eine mechanische Armbanduhr läuft ganz ohne Batterie.",
+        "In ihrem Inneren arbeitet ein kleines Wunderwerk aus Federn und Zahnrädern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Feder als Energiespeicher",
+      "absaetze": [
+        "Beim Aufziehen wird eine Feder gespannt. Sie gibt ihre Energie langsam wieder ab und treibt so die Zahnräder an.",
+        "Automatikuhren haben eine Schwungmasse, die sich bei Armbewegungen dreht und die Feder spannt."
+      ],
+      "merke": "Eine gespannte Feder treibt die Uhr an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Takt durch die Hemmung",
+      "absaetze": [
+        "Damit die Feder sich nicht auf einmal entspannt, gibt es die Hemmung. Sie lässt das Räderwerk nur in winzigen Schritten weiterlaufen.",
+        "Den Takt gibt ein schwingendes Rad mit einer feinen Spiralfeder vor, die Unruh. Das typische Ticken entsteht in der Hemmung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Genauigkeit",
+      "absaetze": [
+        "Gute mechanische Uhren gehen nur wenige Sekunden pro Tag falsch. Quarzuhren sind meist genauer.",
+        "Am genauesten sind Atomuhren. Die offizielle Zeit in Deutschland stammt von Atomuhren der Physikalisch-Technischen Bundesanstalt."
+      ],
+      "merke": "Die Hemmung sorgt für das gleichmäßige Ticken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was treibt eine mechanische Uhr an?",
+      "art": "mc",
+      "optionen": [
+        "Eine gespannte Feder",
+        "Eine Batterie",
+        "Sonnenlicht",
+        "Ein Elektromotor"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird beim Aufziehen gespannt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie spannen Automatikuhren ihre Feder?",
+      "art": "mc",
+      "optionen": [
+        "Durch eine Schwungmasse bei Armbewegungen",
+        "Durch Wärme",
+        "Durch WLAN",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie dreht sich beim Tragen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mechanische Uhren sind meist genauer als Quarzuhren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Quarzuhren sind meist genauer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo entsteht das typische Ticken?",
+      "art": "mc",
+      "optionen": [
+        "In der Hemmung",
+        "Im Armband",
+        "Im Zifferblatt",
+        "In der Krone"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie lässt das Räderwerk schrittweise laufen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Eine gespannte Feder treibt die Uhr an.",
+        "Die Hemmung gibt die Energie schrittweise ab.",
+        "Die Unruh gibt den Takt vor.",
+        "Quarzuhren sind meist genauer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "supp-b166-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von Tyrosin-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tyrosin",
+    "aminosaeuren",
+    "konzentration"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Tyrosin wird als Mittel für mehr Konzentration und weniger Stress beworben.",
+        "Doch was steckt hinter dem Eiweißbaustein?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Baustein für Botenstoffe",
+      "absaetze": [
+        "Tyrosin ist eine Aminosäure, also ein Baustein von Eiweiß. Der Körper bildet daraus unter anderem die Botenstoffe Dopamin und Noradrenalin sowie Schilddrüsenhormone.",
+        "Er kann Tyrosin selbst herstellen. Zudem steckt es in eiweißreichen Lebensmitteln wie Milchprodukten, Fleisch, Fisch und Hülsenfrüchten."
+      ],
+      "merke": "Tyrosin steckt in vielen eiweißreichen Lebensmitteln."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig belegt",
+      "absaetze": [
+        "Einige kleine Studien deuten darauf hin, dass Tyrosin unter starker Belastung, etwa bei Kälte oder Schlafmangel, die geistige Leistung kurz stützen könnte. Ob das im Alltag hilft, ist unklar.",
+        "Für eine bessere Stimmung oder dauerhaft mehr Konzentration bei Gesunden gibt es keine guten Belege."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wer vorsichtig sein sollte",
+      "absaetze": [
+        "Tyrosin kann möglicherweise mit bestimmten Antidepressiva und Schilddrüsenmedikamenten zusammenwirken. Auch bei einer Schilddrüsenüberfunktion ist Vorsicht geboten.",
+        "Sprich vorher mit Ärztin, Arzt oder Apotheke."
+      ],
+      "merke": "Bei Schilddrüsenproblemen oder Antidepressiva vorher beraten lassen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht mit Antidepressiva oder Schilddrüsenmedikamenten ohne Rücksprache kombinieren.",
+        "Nicht bei Schilddrüsenüberfunktion.",
+        "Nicht in Schwangerschaft und Stillzeit.",
+        "Nicht für Kinder."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Tyrosin?",
+      "art": "mc",
+      "optionen": [
+        "Eine Aminosäure",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Hormon aus Pflanzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Also ein Baustein von Eiweiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bildet der Körper unter anderem aus Tyrosin?",
+      "art": "mc",
+      "optionen": [
+        "Dopamin und Schilddrüsenhormone",
+        "Vitamin C",
+        "Kalzium",
+        "Zucker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Noradrenalin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Tyrosin verbessert nachweislich dauerhaft die Konzentration Gesunder.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dafür gibt es keine guten Belege."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer sollte bei Tyrosin besonders vorsichtig sein?",
+      "art": "mc",
+      "optionen": [
+        "Menschen mit Schilddrüsenüberfunktion",
+        "Menschen mit Sonnenbrand",
+        "Radfahrer",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch bei bestimmten Medikamenten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tyrosin ist ein Eiweißbaustein.",
+        "Es steckt in vielen eiweißreichen Lebensmitteln.",
+        "Ein Nutzen für Gesunde ist kaum belegt.",
+        "Bei Schilddrüse und Antidepressiva vorher beraten lassen."
+      ]
+    }
+  ]
+}

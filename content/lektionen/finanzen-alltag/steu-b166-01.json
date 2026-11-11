@@ -1,0 +1,128 @@
+{
+  "id": "steu-b166-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Wie meldest du eine Haushaltshilfe richtig an?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Minijobs im Privathaushalt",
+      "herausgeber": "Minijob-Zentrale",
+      "url": "https://www.minijob-zentrale.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "haushaltshilfe",
+    "minijob",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Haushalte beschäftigen eine Putzhilfe oder Hilfe im Garten.",
+        "Wer sie anmeldet, ist auf der sicheren Seite und spart sogar Steuern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Haushaltsscheckverfahren",
+      "absaetze": [
+        "Für Minijobs im Privathaushalt gibt es ein einfaches Verfahren bei der Minijob-Zentrale. Du meldest die Hilfe mit einem kurzen Formular an.",
+        "Die Abgaben sind niedriger als bei gewerblichen Minijobs und werden vom Konto abgebucht."
+      ],
+      "merke": "Minijobs im Haushalt meldest du einfach bei der Minijob-Zentrale an."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Versichert bei Unfällen",
+      "absaetze": [
+        "Mit der Anmeldung ist deine Haushaltshilfe gesetzlich unfallversichert. Stürzt sie etwa beim Fensterputzen, ist sie abgesichert.",
+        "Bei Schwarzarbeit fehlt dieser Schutz, und es drohen Bußgelder."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuern sparen",
+      "absaetze": [
+        "Einen Teil der Kosten für einen Minijob im Haushalt kannst du direkt von deiner Steuerschuld abziehen. Es gilt ein jährlicher Höchstbetrag.",
+        "Die nötige Bescheinigung schickt dir die Minijob-Zentrale zu."
+      ],
+      "merke": "Angemeldete Haushaltshilfen senken die Steuer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo meldest du einen Minijob im Privathaushalt an?",
+      "art": "mc",
+      "optionen": [
+        "Bei der Minijob-Zentrale",
+        "Beim Einwohnermeldeamt",
+        "Bei der Polizei",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Verfahren heißt Haushaltsscheckverfahren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gewinnt die Haushaltshilfe durch die Anmeldung?",
+      "art": "mc",
+      "optionen": [
+        "Gesetzlichen Unfallschutz",
+        "Ein Auto",
+        "Mehr Urlaub als Gesetz",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Etwa bei einem Sturz beim Fensterputzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei Schwarzarbeit sind Haushaltshilfen genauso unfallversichert.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Dieser Schutz fehlt dann."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sparst du mit einer angemeldeten Haushaltshilfe?",
+      "art": "mc",
+      "optionen": [
+        "Ein Teil der Kosten mindert die Steuerschuld",
+        "Gar nicht",
+        "Die Miete sinkt",
+        "Die Hilfe zahlt deine Steuern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gilt ein jährlicher Höchstbetrag."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Haushaltshilfen meldest du bei der Minijob-Zentrale an.",
+        "Die Abgaben sind vergleichsweise niedrig.",
+        "Die Hilfe ist dann unfallversichert.",
+        "Ein Teil der Kosten senkt die Steuer."
+      ]
+    }
+  ]
+}

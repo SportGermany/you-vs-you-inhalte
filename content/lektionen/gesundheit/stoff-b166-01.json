@@ -1,0 +1,133 @@
+{
+  "id": "stoff-b166-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "stoffwechsel-abnehmen",
+  "titel": "Verlierst du beim Schwitzen in der Sauna Fett?",
+  "minuten": 3,
+  "studienlage": 3,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "sauna",
+    "schwitzen",
+    "abnehmen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Saunagang zeigt die Waage oft deutlich weniger an.",
+        "Doch was ist da eigentlich verschwunden?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Nur Wasser",
+      "absaetze": [
+        "In der Sauna verlierst du vor allem Wasser über den Schweiß. Das kann nach mehreren Gängen über ein Kilogramm ausmachen.",
+        "Sobald du trinkst, ist das Gewicht wieder da. Fett wird dabei kaum abgebaut."
+      ],
+      "merke": "Beim Saunieren verlierst du vor allem Wasser, kein Fett.",
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig Kalorien",
+      "absaetze": [
+        "Der Körper verbraucht in der Hitze etwas mehr Energie, etwa weil das Herz schneller schlägt. Im Vergleich zu Bewegung ist das aber wenig.",
+        "Zum Abnehmen eignen sich Bewegung und eine ausgewogene Ernährung deutlich besser."
+      ],
+      "studienlage": 3
+    },
+    {
+      "typ": "wissen",
+      "titel": "Trotzdem wohltuend",
+      "absaetze": [
+        "Viele empfinden Saunagänge als entspannend. Wichtig ist, den Flüssigkeitsverlust danach mit Wasser oder Tee auszugleichen.",
+        "Wer Herz-Kreislauf-Probleme hat, sollte vorher ärztlich klären, ob Sauna geeignet ist. Starkes Schwitzen, um Gewicht zu machen, kann auf eine Essstörung hindeuten und gefährlich sein."
+      ],
+      "merke": "Nach der Sauna ausreichend trinken.",
+      "studienlage": 3
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was verlierst du in der Sauna vor allem?",
+      "art": "mc",
+      "optionen": [
+        "Wasser",
+        "Fett",
+        "Muskeln",
+        "Knochenmasse"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach dem Trinken ist das Gewicht wieder da."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viele Kalorien verbraucht ein Saunagang im Vergleich zu Bewegung?",
+      "art": "mc",
+      "optionen": [
+        "Wenig",
+        "Viel mehr",
+        "Genauso viel wie ein Marathon",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Herz schlägt nur etwas schneller."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Saunieren ist eine wirksame Methode zum Fettabbau.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Bewegung und Ernährung sind deutlich wirksamer."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du nach der Sauna tun?",
+      "art": "mc",
+      "optionen": [
+        "Ausreichend trinken",
+        "Direkt Alkohol trinken",
+        "Weiter schwitzen",
+        "Nichts trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Flüssigkeitsverlust muss ausgeglichen werden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "In der Sauna verlierst du vor allem Wasser.",
+        "Das Gewicht kommt mit dem Trinken zurück.",
+        "Zum Abnehmen sind Bewegung und Ernährung wirksamer.",
+        "Nach der Sauna ausreichend trinken.",
+        "Bei Verdacht auf eine Essstörung hol dir ärztliche Hilfe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "haus-b166-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du ein Uhrarmband?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "uhrarmband",
+    "reinigung",
+    "schmuck"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Uhrarmband liegt jeden Tag auf der Haut.",
+        "Schweiß und Hautfett setzen sich darin fest und können unangenehm riechen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Metallarmbänder",
+      "absaetze": [
+        "Nimm das Armband möglichst von der Uhr ab. Reinige es dann mit warmem Wasser, etwas Spülmittel und einer weichen Zahnbürste.",
+        "Spüle es gut ab und trockne es gründlich mit einem weichen Tuch."
+      ],
+      "merke": "Uhrarmbänder möglichst vor der Reinigung abnehmen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Leder",
+      "absaetze": [
+        "Lederarmbänder vertragen kein Wasserbad. Wische sie mit einem leicht feuchten Tuch ab und lass sie an der Luft trocknen.",
+        "Wer viel schwitzt, wechselt am besten zwischen zwei Bändern, damit jedes gut auslüften kann."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Silikon und Stoff",
+      "absaetze": [
+        "Armbänder aus Silikon oder Kunststoff kannst du mit Seifenwasser abwaschen. Stoffarmbänder lassen sich meist von Hand waschen.",
+        "Achte darauf, dass die Uhr selbst nicht nass wird, wenn sie nicht wasserdicht ist."
+      ],
+      "merke": "Lederarmbänder nur feucht abwischen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie reinigst du ein Metallarmband?",
+      "art": "mc",
+      "optionen": [
+        "Mit warmem Wasser, Spülmittel und weicher Zahnbürste",
+        "Mit Sandpapier",
+        "Mit Bleiche",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gründlich trocknen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie behandelst du ein Lederarmband?",
+      "art": "mc",
+      "optionen": [
+        "Nur leicht feucht abwischen",
+        "In Wasser einweichen",
+        "In die Waschmaschine geben",
+        "Mit Öl tränken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leder verträgt kein Wasserbad."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer viel schwitzt, kann zwischen zwei Lederbändern wechseln.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So kann jedes auslüften."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Worauf achtest du bei einer nicht wasserdichten Uhr?",
+      "art": "mc",
+      "optionen": [
+        "Dass die Uhr nicht nass wird",
+        "Dass sie besonders nass wird",
+        "Auf nichts",
+        "Dass sie in der Sonne liegt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deshalb das Band am besten abnehmen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Uhrarmbänder möglichst abnehmen.",
+        "Metall mit Spülwasser und Zahnbürste reinigen.",
+        "Leder nur feucht abwischen.",
+        "Die Uhr vor Nässe schützen."
+      ]
+    }
+  ]
+}

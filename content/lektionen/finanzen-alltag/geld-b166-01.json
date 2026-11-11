@@ -1,0 +1,128 @@
+{
+  "id": "geld-b166-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie liest du deine Gehaltsabrechnung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Arbeitsrecht",
+      "herausgeber": "Bundesministerium für Arbeit und Soziales",
+      "url": "https://www.bmas.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gehaltsabrechnung",
+    "brutto",
+    "netto"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jeden Monat kommt eine Gehaltsabrechnung, doch viele werfen nur einen Blick auf die letzte Zeile.",
+        "Dabei lohnt es sich, sie zu verstehen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vom Brutto zum Netto",
+      "absaetze": [
+        "Oben steht dein Bruttogehalt, also das vereinbarte Gehalt vor Abzügen. Davon gehen Steuern und Sozialabgaben ab.",
+        "Übrig bleibt das Nettogehalt, das auf deinem Konto landet."
+      ],
+      "merke": "Vom Brutto gehen Steuern und Sozialabgaben ab."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Abzüge",
+      "absaetze": [
+        "Zu den Steuern gehören die Lohnsteuer und gegebenenfalls Kirchensteuer und Solidaritätszuschlag. Die Sozialabgaben gehen an Renten-, Kranken-, Pflege- und Arbeitslosenversicherung.",
+        "Die Sozialbeiträge teilen sich Arbeitnehmer und Arbeitgeber größtenteils. Du siehst auf der Abrechnung nur deinen Anteil."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Worauf du achten solltest",
+      "absaetze": [
+        "Prüfe, ob Steuerklasse, Kinderfreibeträge und Kirchensteuermerkmal stimmen. Fehler wirken sich jeden Monat aus.",
+        "Achte auch auf Zulagen, Überstunden und Urlaubstage. Bewahre die Abrechnungen gut auf, sie sind später etwa für die Rente wichtig."
+      ],
+      "merke": "Steuerklasse und Freibeträge regelmäßig prüfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist das Bruttogehalt?",
+      "art": "mc",
+      "optionen": [
+        "Das Gehalt vor Abzügen",
+        "Das Gehalt nach Abzügen",
+        "Das Urlaubsgeld",
+        "Die Steuerrückzahlung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Davon gehen Steuern und Abgaben ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Versicherung gehört zu den Sozialabgaben?",
+      "art": "mc",
+      "optionen": [
+        "Die Rentenversicherung",
+        "Die Hausratversicherung",
+        "Die Kfz-Versicherung",
+        "Die Handyversicherung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu kommen Kranken-, Pflege- und Arbeitslosenversicherung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Auf der Abrechnung siehst du nur deinen Anteil an den Sozialbeiträgen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Den Rest zahlt größtenteils der Arbeitgeber."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was solltest du auf der Abrechnung prüfen?",
+      "art": "mc",
+      "optionen": [
+        "Steuerklasse und Freibeträge",
+        "Die Schriftart",
+        "Die Farbe des Papiers",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Fehler wirken sich jeden Monat aus."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vom Brutto gehen Steuern und Sozialabgaben ab.",
+        "Netto ist der ausgezahlte Betrag.",
+        "Steuerklasse und Freibeträge prüfen.",
+        "Abrechnungen gut aufbewahren."
+      ]
+    }
+  ]
+}

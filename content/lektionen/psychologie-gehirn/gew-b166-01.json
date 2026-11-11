@@ -1,0 +1,128 @@
+{
+  "id": "gew-b166-01",
+  "version": 1,
+  "themenwelt": "psychologie-gehirn",
+  "unterthema": "gewohnheiten",
+  "titel": "Wie wird Fahrradpflege zur Gewohnheit?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Fahrradtechnik",
+      "herausgeber": "Allgemeiner Deutscher Fahrrad-Club (ADFC)",
+      "url": "https://www.adfc.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Psychology Topics",
+      "herausgeber": "American Psychological Association",
+      "url": "https://www.apa.org",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "fahrrad",
+    "pflege",
+    "sicherheit"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein gepflegtes Fahrrad fährt leichter, sicherer und hält länger.",
+        "Mit kleinen festen Routinen bleibt es in Schuss."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der schnelle Check",
+      "absaetze": [
+        "Prüfe vor längeren Fahrten kurz Bremsen, Licht und Reifendruck. Das dauert nur eine Minute.",
+        "Zu wenig Luft im Reifen macht das Fahren mühsam und erhöht das Risiko einer Panne."
+      ],
+      "merke": "Bremsen, Licht und Reifen vor der Fahrt kurz prüfen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Kette pflegen",
+      "absaetze": [
+        "Reinige die Kette regelmäßig mit einem Lappen und öle sie danach sparsam. Nach Fahrten im Regen ist das besonders wichtig.",
+        "Eine gepflegte Kette läuft leiser und verschleißt langsamer."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Feste Termine",
+      "absaetze": [
+        "Verknüpfe die Pflege mit einem festen Ereignis, etwa dem ersten Wochenende im Monat. Lege Luftpumpe und Öl griffbereit neben das Rad.",
+        "Einmal im Jahr lohnt sich eine Inspektion in der Fahrradwerkstatt, am besten vor der Saison."
+      ],
+      "merke": "Pflege an einen festen Termin im Monat koppeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was prüfst du vor längeren Fahrten?",
+      "art": "mc",
+      "optionen": [
+        "Bremsen, Licht und Reifendruck",
+        "Nur die Klingel",
+        "Die Farbe",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das dauert nur eine Minute."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was bewirkt zu wenig Luft im Reifen?",
+      "art": "mc",
+      "optionen": [
+        "Mühsames Fahren und mehr Pannen",
+        "Schnelleres Fahren",
+        "Besseres Bremsen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Den Druck regelmäßig prüfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine gepflegte Kette verschleißt langsamer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie läuft auch leiser."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann lohnt sich eine Inspektion in der Werkstatt?",
+      "art": "mc",
+      "optionen": [
+        "Einmal im Jahr, am besten vor der Saison",
+        "Jeden Tag",
+        "Nie",
+        "Nur nach einem Unfall"
+      ],
+      "richtig": 0,
+      "erklaerung": "So startest du sicher in die Saison."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bremsen, Licht und Reifen kurz prüfen.",
+        "Die Kette regelmäßig reinigen und ölen.",
+        "Pflege an feste Termine koppeln.",
+        "Einmal im Jahr zur Inspektion."
+      ]
+    }
+  ]
+}

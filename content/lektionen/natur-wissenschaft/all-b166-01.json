@@ -1,0 +1,128 @@
+{
+  "id": "all-b166-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Wie kam Gestein von Asteroiden auf die Erde?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Asteroids and comets",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "OSIRIS-REx",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "asteroiden",
+    "probenrueckfuehrung",
+    "raumsonde"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Raumsonden haben Gestein von Asteroiden eingesammelt und zur Erde gebracht.",
+        "Diese Proben sind für die Forschung ein Schatz."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Japanische Pioniere",
+      "absaetze": [
+        "Die japanische Sonde Hayabusa brachte 2010 erstmals winzige Staubkörner von einem Asteroiden zur Erde. Ihre Nachfolgerin Hayabusa2 sammelte Material vom Asteroiden Ryugu.",
+        "Ende 2020 landete die Kapsel mit den Proben in Australien."
+      ],
+      "merke": "Japanische Sonden brachten erstmals Asteroidenproben zur Erde."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Proben von Bennu",
+      "absaetze": [
+        "Die NASA-Sonde OSIRIS-REx berührte den Asteroiden Bennu kurz und saugte Gestein ein. 2023 landete die Kapsel in der Wüste von Utah.",
+        "Es war die bisher größte Menge Asteroidenmaterial, die zur Erde gebracht wurde."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was die Proben verraten",
+      "absaetze": [
+        "Asteroiden sind Überreste aus der Entstehungszeit des Sonnensystems. In den Proben fanden Forschende unter anderem Wasser in Mineralien und organische Verbindungen.",
+        "Sie helfen zu verstehen, wie Wasser und Bausteine des Lebens auf die Erde gelangt sein könnten."
+      ],
+      "merke": "Asteroidenproben stammen aus der Frühzeit des Sonnensystems."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Land brachte als Erstes Asteroidenstaub zur Erde?",
+      "art": "mc",
+      "optionen": [
+        "Japan",
+        "Brasilien",
+        "Kanada",
+        "Ägypten"
+      ],
+      "richtig": 0,
+      "erklaerung": "Mit der Sonde Hayabusa."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Von welchem Asteroiden holte OSIRIS-REx Proben?",
+      "art": "mc",
+      "optionen": [
+        "Von Bennu",
+        "Von Ceres",
+        "Vom Mond",
+        "Vom Mars"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Kapsel landete 2023 in Utah."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In den Proben fanden Forschende organische Verbindungen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Auch Wasser in Mineralien."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum sind Asteroidenproben so wertvoll?",
+      "art": "mc",
+      "optionen": [
+        "Sie stammen aus der Frühzeit des Sonnensystems",
+        "Sie bestehen aus Gold",
+        "Sie leuchten",
+        "Sie sind essbar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie zeigen, wie alles begann."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Japan brachte als Erstes Asteroidenstaub zur Erde.",
+        "Hayabusa2 holte Proben von Ryugu.",
+        "OSIRIS-REx brachte 2023 Gestein von Bennu.",
+        "Die Proben zeigen die Frühzeit des Sonnensystems."
+      ]
+    }
+  ]
+}

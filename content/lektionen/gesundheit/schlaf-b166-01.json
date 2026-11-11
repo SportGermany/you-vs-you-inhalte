@@ -1,0 +1,138 @@
+{
+  "id": "schlaf-b166-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Darf man nach einer Gehirnerschütterung schlafen?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "gehirnerschuetterung",
+    "kopfverletzung",
+    "erste-hilfe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Nach einem Sturz auf den Kopf heißt es oft: Bloß nicht einschlafen!",
+        "Doch stimmt dieser alte Rat?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schlaf ist erlaubt",
+      "absaetze": [
+        "Nach heutigem Wissen schadet Schlaf bei einer leichten Gehirnerschütterung nicht. Ruhe ist sogar wichtig für die Erholung.",
+        "Der alte Rat stammt aus der Sorge, gefährliche Verschlechterungen zu übersehen."
+      ],
+      "merke": "Schlaf schadet bei einer leichten Gehirnerschütterung nicht.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Trotzdem aufmerksam bleiben",
+      "absaetze": [
+        "In den ersten Stunden nach einer Kopfverletzung sollte möglichst jemand in der Nähe sein. Diese Person achtet auf Warnzeichen.",
+        "Nach einer Kopfverletzung ist es sinnvoll, ärztlich abklären zu lassen, ob eine Überwachung nötig ist."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Warnzeichen für den Notruf",
+      "absaetze": [
+        "Zunehmende Kopfschmerzen, wiederholtes Erbrechen, Verwirrtheit oder ungleich große Pupillen sind Alarmzeichen. Auch wenn jemand kaum noch aufzuwecken ist, ist das ein Notfall.",
+        "Dann solltest du sofort den Notruf 112 wählen."
+      ],
+      "merke": "Bei Warnzeichen sofort 112 wählen.",
+      "studienlage": 2
+    },
+    {
+      "typ": "mythos",
+      "behauptung": "Nach einer Gehirnerschütterung darf man auf keinen Fall schlafen.",
+      "urteil": "mythos",
+      "erklaerung": "Das stimmt so nicht. Schlaf ist erlaubt und hilft bei der Erholung. Wichtig ist, dass jemand auf Warnzeichen achtet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Schadet Schlaf bei einer leichten Gehirnerschütterung?",
+      "art": "mc",
+      "optionen": [
+        "Nein, Ruhe ist wichtig für die Erholung",
+        "Ja, immer",
+        "Nur nachts",
+        "Nur bei Kindern"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der alte Rat ist überholt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist in den ersten Stunden sinnvoll?",
+      "art": "mc",
+      "optionen": [
+        "Dass jemand in der Nähe auf Warnzeichen achtet",
+        "Laute Musik hören",
+        "Sofort Sport treiben",
+        "Viel Alkohol trinken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lass ärztlich klären, ob Überwachung nötig ist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wiederholtes Erbrechen nach einer Kopfverletzung ist ein Alarmzeichen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Dann sofort 112 wählen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du, wenn jemand kaum noch aufzuwecken ist?",
+      "art": "mc",
+      "optionen": [
+        "Sofort den Notruf 112 wählen",
+        "Weiterschlafen lassen",
+        "Kaltes Wasser trinken lassen",
+        "Abwarten bis morgen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist ein Notfall."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schlaf ist nach leichter Gehirnerschütterung erlaubt.",
+        "Ruhe hilft bei der Erholung.",
+        "Jemand sollte auf Warnzeichen achten.",
+        "Bei Alarmzeichen sofort 112 wählen."
+      ]
+    }
+  ]
+}

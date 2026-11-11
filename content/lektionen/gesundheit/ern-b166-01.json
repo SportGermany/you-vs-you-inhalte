@@ -1,0 +1,130 @@
+{
+  "id": "ern-b166-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Hecht?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "hecht",
+    "suesswasserfisch",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Der Hecht ist ein Raubfisch aus heimischen Seen und Flüssen.",
+        "In der Küche ist er geschätzt, hat aber eine Tücke."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Jäger im Hinterhalt",
+      "absaetze": [
+        "Der Hecht lauert gut getarnt zwischen Wasserpflanzen und stößt blitzschnell auf seine Beute zu. Er frisst vor allem andere Fische.",
+        "Auf den Teller kommt er meist aus Seen und Flüssen, oft von Anglern oder Berufsfischern."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mager und eiweißreich",
+      "absaetze": [
+        "Hechtfleisch ist sehr fettarm, fest und weiß. Es liefert hochwertiges Eiweiß und B-Vitamine.",
+        "Omega-3-Fettsäuren und Jod liefert er deutlich weniger als fettreiche Meeresfische."
+      ],
+      "merke": "Hecht ist mager und eiweißreich.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Sache mit den Gräten",
+      "absaetze": [
+        "Hechte haben viele feine, gegabelte Gräten. Deshalb wird ihr Fleisch oft fein püriert und zu Klößchen verarbeitet.",
+        "Beim Filetieren helfen Geduld und eine Pinzette."
+      ],
+      "merke": "Wegen der feinen Gräten wird Hecht oft zu Klößchen verarbeitet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie jagt der Hecht?",
+      "art": "mc",
+      "optionen": [
+        "Er lauert getarnt und stößt blitzschnell zu",
+        "Er filtert Plankton",
+        "Er gräbt im Schlamm",
+        "Er jagt nur an Land"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er frisst vor allem andere Fische."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Fett hat Hechtfleisch?",
+      "art": "mc",
+      "optionen": [
+        "Sehr wenig",
+        "Sehr viel",
+        "So viel wie Butter",
+        "Mehr als Lachs"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es ist fest und weiß."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Hecht liefert mehr Jod als Meeresfisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meeresfische liefern deutlich mehr Jod."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum wird Hecht oft zu Klößchen verarbeitet?",
+      "art": "mc",
+      "optionen": [
+        "Wegen der vielen feinen Gräten",
+        "Weil er zu fett ist",
+        "Weil er roh giftig ist",
+        "Aus Tradition ohne Grund"
+      ],
+      "richtig": 0,
+      "erklaerung": "Püriert stören die Gräten nicht."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Der Hecht ist ein heimischer Raubfisch.",
+        "Sein Fleisch ist mager und eiweißreich.",
+        "Jod und Omega-3 liefert er weniger als Meeresfisch.",
+        "Wegen der Gräten wird er oft zu Klößchen verarbeitet."
+      ]
+    }
+  ]
+}
