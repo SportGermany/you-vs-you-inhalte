@@ -1,0 +1,122 @@
+{
+  "id": "steu-b165-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Kannst du Pflegeheimkosten von der Steuer absetzen?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "pflegeheim",
+    "aussergewoehnliche-belastungen",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Platz im Pflegeheim ist teuer, auch nach den Leistungen der Pflegeversicherung.",
+        "Ein Teil der Kosten kann die Steuerlast senken."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Als außergewöhnliche Belastung",
+      "absaetze": [
+        "Kosten für ein Pflegeheim wegen Krankheit oder Pflegebedürftigkeit gelten als außergewöhnliche Belastung. Abgezogen werden die Leistungen der Pflegeversicherung.",
+        "Wer seinen eigenen Haushalt aufgibt, muss zudem eine Haushaltsersparnis abziehen. Denn Ausgaben für die eigene Wohnung fallen dann weg."
+      ],
+      "merke": "Pflegeheimkosten zählen als außergewöhnliche Belastung."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die zumutbare Belastung",
+      "absaetze": [
+        "Das Finanzamt berücksichtigt nur den Teil, der über der zumutbaren Belastung liegt. Diese hängt von Einkommen, Familienstand und Kinderzahl ab.",
+        "Für einen Teil der Pflege- und Betreuungsleistungen kann alternativ eine Steuerermäßigung wie bei haushaltsnahen Dienstleistungen infrage kommen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn Kinder zahlen",
+      "absaetze": [
+        "Zahlen Kinder für das Pflegeheim ihrer Eltern, können auch sie die Kosten unter Umständen absetzen. Dabei gelten eigene Regeln, etwa für Unterhaltsleistungen.",
+        "Wegen der vielen Sonderfälle lohnt sich hier oft Beratung durch einen Lohnsteuerhilfeverein oder eine Steuerberatung."
+      ],
+      "merke": "Auch zahlende Kinder können Kosten unter Umständen absetzen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Als was gelten Pflegeheimkosten steuerlich?",
+      "art": "mc",
+      "optionen": [
+        "Als außergewöhnliche Belastung",
+        "Als Werbungskosten",
+        "Als Spende",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Leistungen der Pflegeversicherung werden abgezogen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was musst du abziehen, wenn du deinen Haushalt aufgibst?",
+      "art": "mc",
+      "optionen": [
+        "Eine Haushaltsersparnis",
+        "Die Kfz-Steuer",
+        "Das Kindergeld",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ausgaben für die eigene Wohnung fallen weg."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Das Finanzamt berücksichtigt nur Kosten oberhalb der zumutbaren Belastung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie hängt vom Einkommen ab."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer kann die Kosten außerdem unter Umständen absetzen?",
+      "art": "mc",
+      "optionen": [
+        "Kinder, die für ihre Eltern zahlen",
+        "Nachbarn",
+        "Der Vermieter",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dabei gelten eigene Regeln."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Pflegeheimkosten sind außergewöhnliche Belastungen.",
+        "Pflegeleistungen und Haushaltsersparnis werden abgezogen.",
+        "Nur Kosten über der zumutbaren Belastung zählen.",
+        "Auch zahlende Kinder können profitieren."
+      ]
+    }
+  ]
+}

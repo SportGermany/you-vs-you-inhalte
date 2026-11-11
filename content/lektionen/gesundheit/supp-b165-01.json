@@ -1,0 +1,142 @@
+{
+  "id": "supp-b165-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Brauchst du Cholin als Nahrungsergänzung?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nährstoffe",
+      "herausgeber": "Europäische Behörde für Lebensmittelsicherheit (EFSA)",
+      "url": "https://www.efsa.europa.eu",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "cholin",
+    "leber",
+    "naehrstoffe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Cholin wird oft als Nährstoff für Gehirn und Leber beworben.",
+        "Viele haben den Namen noch nie gehört."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein wichtiger Nährstoff",
+      "absaetze": [
+        "Cholin braucht der Körper für Zellwände, den Fettstoffwechsel und einen Botenstoff im Nervensystem. Er kann es selbst bilden, aber nicht immer in ausreichender Menge.",
+        "Für Cholin sind in der EU einige Aussagen erlaubt, etwa zur normalen Leberfunktion und zum Fettstoffwechsel."
+      ],
+      "merke": "Cholin ist wichtig für Leber und Fettstoffwechsel.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gute Quellen",
+      "absaetze": [
+        "Viel Cholin steckt in Eiern, Leber, Fleisch, Fisch und Sojabohnen. Auch Hülsenfrüchte und Nüsse tragen bei.",
+        "Ein echter Mangel ist bei abwechslungsreicher Ernährung selten."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was Präparate können",
+      "absaetze": [
+        "Dass zusätzliches Cholin Gedächtnis oder Konzentration bei Gesunden verbessert, ist nicht belegt. Es gibt dazu nur wenige und unklare Studien.",
+        "Sehr hohe Mengen können möglicherweise Blutdruckabfall oder einen fischigen Körpergeruch verursachen."
+      ],
+      "merke": "Ein Nutzen für das Gedächtnis ist nicht belegt.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Höchstmengen nicht überschreiten.",
+        "In Schwangerschaft und Stillzeit nur nach Rücksprache.",
+        "Nicht für Kinder ohne ärztliche Empfehlung.",
+        "Bei Lebererkrankungen ärztlich beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wofür braucht der Körper Cholin?",
+      "art": "mc",
+      "optionen": [
+        "Für Zellwände, Fettstoffwechsel und einen Botenstoff",
+        "Nur für die Haare",
+        "Für die Farbe der Augen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er kann es auch selbst bilden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo steckt viel Cholin?",
+      "art": "mc",
+      "optionen": [
+        "In Eiern, Leber und Fisch",
+        "In Zucker",
+        "In Wasser",
+        "In Salz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Soja und Hülsenfrüchte tragen bei."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Cholin verbessert nachweislich das Gedächtnis gesunder Menschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Das ist nicht belegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was können sehr hohe Mengen möglicherweise verursachen?",
+      "art": "mc",
+      "optionen": [
+        "Einen fischigen Körpergeruch",
+        "Bessere Laune",
+        "Mehr Haarwuchs",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein Blutdruckabfall ist möglich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Cholin ist wichtig für Leber und Fettstoffwechsel.",
+        "Eier, Leber und Fisch sind gute Quellen.",
+        "Ein Mangel ist selten.",
+        "Ein Nutzen für das Gedächtnis ist nicht belegt."
+      ]
+    }
+  ]
+}

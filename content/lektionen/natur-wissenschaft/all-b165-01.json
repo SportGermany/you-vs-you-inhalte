@@ -1,0 +1,128 @@
+{
+  "id": "all-b165-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Warum stören Satellitenschwärme die Astronomie?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Space Safety",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "satelliten",
+    "starlink",
+    "astronomie"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Immer häufiger sieht man nachts Ketten von Lichtpunkten über den Himmel ziehen.",
+        "Es sind Satelliten großer Internetnetze."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tausende Satelliten",
+      "absaetze": [
+        "Firmen wie SpaceX mit Starlink bringen Tausende kleine Satelliten in niedrige Umlaufbahnen. Sie sollen weltweit schnelles Internet liefern.",
+        "Weitere Netze sind geplant, auch von Europa und China."
+      ],
+      "merke": "Große Netze bestehen aus Tausenden Satelliten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Streifen auf den Bildern",
+      "absaetze": [
+        "Die Satelliten reflektieren Sonnenlicht, besonders in der Dämmerung. Auf langen Belichtungen von Teleskopen hinterlassen sie helle Streifen.",
+        "Auch Funksignale der Satelliten können Radioteleskope stören. Astronomen fordern deshalb dunklere Satelliten und Absprachen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mehr Verkehr im All",
+      "absaetze": [
+        "Je mehr Satelliten kreisen, desto größer wird das Risiko von Zusammenstößen. Daraus kann gefährlicher Weltraumschrott entstehen.",
+        "Die Satelliten müssen deshalb immer wieder ausweichen und am Ende ihrer Lebenszeit kontrolliert verglühen."
+      ],
+      "merke": "Mehr Satelliten erhöhen das Risiko von Zusammenstößen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dienen die großen Satellitennetze?",
+      "art": "mc",
+      "optionen": [
+        "Für weltweites Internet",
+        "Zur Wettervorhersage allein",
+        "Zur Mondlandung",
+        "Zum Heizen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein bekanntes Beispiel ist Starlink."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was hinterlassen die Satelliten auf Teleskopbildern?",
+      "art": "mc",
+      "optionen": [
+        "Helle Streifen",
+        "Bunte Kreise",
+        "Gar nichts",
+        "Schwarze Löcher"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie reflektieren Sonnenlicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mehr Satelliten erhöhen das Risiko von Zusammenstößen im All.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Daraus kann Weltraumschrott entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was fordern Astronomen?",
+      "art": "mc",
+      "optionen": [
+        "Dunklere Satelliten und Absprachen",
+        "Mehr helle Satelliten",
+        "Keine Teleskope mehr",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Funkstörungen sind ein Problem."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Große Netze bestehen aus Tausenden Satelliten.",
+        "Sie hinterlassen Streifen auf Teleskopbildern.",
+        "Auch Funksignale können stören.",
+        "Das Risiko von Zusammenstößen wächst."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "schlaf-b165-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum ist Asthma nachts oft schlimmer?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "asthma",
+    "atemwege",
+    "nacht"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Menschen mit Asthma wachen nachts hustend oder mit Atemnot auf.",
+        "Dafür gibt es mehrere Gründe."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die innere Uhr",
+      "absaetze": [
+        "Die Atemwege sind in den frühen Morgenstunden von Natur aus etwas enger. Auch bestimmte Hormone, die Entzündungen dämpfen, sind nachts niedriger.",
+        "Bei Menschen mit Asthma kann das Beschwerden auslösen."
+      ],
+      "merke": "Nachts sind die Atemwege von Natur aus etwas enger.",
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Auslöser im Schlafzimmer",
+      "absaetze": [
+        "Hausstaubmilben in Matratze und Bettzeug können Asthma verstärken. Auch kalte Luft oder Tierhaare im Schlafzimmer spielen eine Rolle.",
+        "Sodbrennen im Liegen kann ebenfalls Hustenreiz und Atemnot fördern."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Warnzeichen",
+      "absaetze": [
+        "Nächtliche Asthmabeschwerden gelten als Zeichen, dass das Asthma nicht gut kontrolliert ist. Sprich deshalb mit deiner Ärztin oder deinem Arzt darüber.",
+        "Oft hilft eine Anpassung der Behandlung. Milbendichte Bezüge können bei einer Milbenallergie sinnvoll sein."
+      ],
+      "merke": "Nächtliche Beschwerden sollten ärztlich besprochen werden.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann sind die Atemwege von Natur aus etwas enger?",
+      "art": "mc",
+      "optionen": [
+        "In den frühen Morgenstunden",
+        "Mittags",
+        "Nach dem Frühstück",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das hängt mit der inneren Uhr zusammen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Auslöser kann es im Schlafzimmer geben?",
+      "art": "mc",
+      "optionen": [
+        "Hausstaubmilben und Tierhaare",
+        "Bücher",
+        "Vorhänge in Blau",
+        "Wecker"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch kalte Luft spielt eine Rolle."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Nächtliche Asthmabeschwerden sind ein Zeichen guter Kontrolle.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie deuten auf schlecht kontrolliertes Asthma hin."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei häufigen nächtlichen Beschwerden sinnvoll?",
+      "art": "mc",
+      "optionen": [
+        "Mit der Ärztin oder dem Arzt sprechen",
+        "Nichts tun",
+        "Mehr Kissen kaufen",
+        "Die Heizung aufdrehen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft hilft eine Anpassung der Behandlung."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Nachts sind die Atemwege etwas enger.",
+        "Milben und Tierhaare können Asthma verstärken.",
+        "Nächtliche Beschwerden zeigen schlechte Kontrolle.",
+        "Die Behandlung kann oft angepasst werden."
+      ]
+    }
+  ]
+}

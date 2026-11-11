@@ -1,0 +1,128 @@
+{
+  "id": "tech-b165-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert eine Antenne?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Funk und Frequenzen",
+      "herausgeber": "Bundesnetzagentur",
+      "url": "https://www.bundesnetzagentur.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Nachrichtentechnik",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "antenne",
+    "funk",
+    "wellen"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Radio, Handy, WLAN und Navi: Alle brauchen eine Antenne.",
+        "Oft siehst du sie gar nicht, weil sie im Gerät versteckt ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wellen senden und empfangen",
+      "absaetze": [
+        "Eine Antenne wandelt elektrische Signale in elektromagnetische Wellen um und sendet sie aus. Beim Empfang funktioniert es umgekehrt.",
+        "Die Wellen erzeugen in der Antenne winzige elektrische Ströme, die das Gerät auswertet."
+      ],
+      "merke": "Antennen wandeln Signale in Funkwellen um und zurück."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Größe passt zur Welle",
+      "absaetze": [
+        "Die Länge einer Antenne hängt mit der Wellenlänge zusammen, die sie nutzen soll. Für lange Radiowellen braucht man große Antennen, für Handy und WLAN reichen kleine.",
+        "Moderne Smartphones enthalten mehrere Antennen für Mobilfunk, WLAN, Bluetooth und Ortung."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Schüsseln für den Satelliten",
+      "absaetze": [
+        "Eine Satellitenschüssel sammelt die schwachen Signale aus dem All und bündelt sie auf einen Empfänger in der Mitte. Deshalb muss sie genau auf den Satelliten ausgerichtet sein.",
+        "Welche Frequenzen wofür genutzt werden dürfen, regelt in Deutschland die Bundesnetzagentur."
+      ],
+      "merke": "Eine Satellitenschüssel bündelt schwache Signale."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was macht eine Antenne beim Senden?",
+      "art": "mc",
+      "optionen": [
+        "Sie wandelt elektrische Signale in Funkwellen um",
+        "Sie erzeugt Licht",
+        "Sie speichert Daten",
+        "Sie kühlt das Gerät"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beim Empfang geht es umgekehrt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wovon hängt die Länge einer Antenne ab?",
+      "art": "mc",
+      "optionen": [
+        "Von der Wellenlänge",
+        "Von der Farbe",
+        "Vom Preis",
+        "Vom Wetter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Lange Wellen brauchen große Antennen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein Smartphone enthält meist mehrere Antennen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Für Mobilfunk, WLAN, Bluetooth und Ortung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer regelt in Deutschland die Nutzung von Funkfrequenzen?",
+      "art": "mc",
+      "optionen": [
+        "Die Bundesnetzagentur",
+        "Die Polizei",
+        "Der ADAC",
+        "Die Post"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie teilt Frequenzen zu."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Antennen wandeln Signale in Funkwellen um.",
+        "Ihre Größe passt zur Wellenlänge.",
+        "Smartphones enthalten mehrere Antennen.",
+        "Satellitenschüsseln bündeln schwache Signale."
+      ]
+    }
+  ]
+}

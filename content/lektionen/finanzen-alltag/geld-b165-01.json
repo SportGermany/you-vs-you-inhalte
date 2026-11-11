@@ -1,0 +1,128 @@
+{
+  "id": "geld-b165-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wohin mit dem ganzen Kleingeld?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Bargeld",
+      "herausgeber": "Deutsche Bundesbank",
+      "url": "https://www.bundesbank.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kleingeld",
+    "muenzen",
+    "bank"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Im Sparschwein oder in der Schublade sammeln sich über die Jahre viele Münzen.",
+        "Doch wie bekommst du sie günstig zurück aufs Konto?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Banken verlangen oft Gebühren",
+      "absaetze": [
+        "Viele Banken berechnen Gebühren, wenn du größere Mengen Münzen einzahlst. Der Grund ist der Aufwand für Zählen und Prüfen.",
+        "Manche bieten Automaten an, an denen Kunden Münzen kostenlos oder günstig einzahlen können. Frag bei deiner Bank nach den Bedingungen."
+      ],
+      "merke": "Für das Einzahlen von Münzen verlangen viele Banken Gebühren."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Bundesbank tauscht",
+      "absaetze": [
+        "In den Filialen der Deutschen Bundesbank kannst du Münzen in haushaltsüblichen Mengen in der Regel kostenlos umtauschen. Oft sollen sie nach Sorten getrennt sein.",
+        "Informiere dich vorher über die Öffnungszeiten der nächsten Filiale."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Einfach ausgeben",
+      "absaetze": [
+        "Am einfachsten ist es, Kleingeld im Alltag auszugeben, etwa beim Bäcker. Ein kleines Münzfach im Portemonnaie erleichtert das.",
+        "Auch manche Spendendosen und Pfandautomaten-Spendenknöpfe freuen sich über Kleingeld."
+      ],
+      "merke": "Kleingeld im Alltag ausgeben spart Gebühren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum verlangen Banken oft Gebühren für Münzeinzahlungen?",
+      "art": "mc",
+      "optionen": [
+        "Wegen des Aufwands für Zählen und Prüfen",
+        "Weil Münzen verboten sind",
+        "Wegen der Farbe",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Manche bieten günstige Automaten an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kannst du Münzen in haushaltsüblichen Mengen meist kostenlos tauschen?",
+      "art": "mc",
+      "optionen": [
+        "In Filialen der Bundesbank",
+        "Im Supermarkt an der Fleischtheke",
+        "Bei der Post",
+        "Im Rathaus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft sollen sie nach Sorten getrennt sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kleingeld im Alltag auszugeben, ist eine einfache Lösung.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. So fallen keine Gebühren an."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erleichtert das Ausgeben von Kleingeld?",
+      "art": "mc",
+      "optionen": [
+        "Ein Münzfach im Portemonnaie",
+        "Ein Tresor",
+        "Ein Bankschließfach",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dann ist es griffbereit."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Banken verlangen für Münzeinzahlungen oft Gebühren.",
+        "Die Bundesbank tauscht haushaltsübliche Mengen meist kostenlos.",
+        "Vorher nach Sorten trennen.",
+        "Kleingeld im Alltag ausgeben."
+      ]
+    }
+  ]
+}

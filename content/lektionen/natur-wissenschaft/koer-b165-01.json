@@ -1,0 +1,122 @@
+{
+  "id": "koer-b165-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "koerper",
+  "titel": "Was passiert bei einer Muskelzerrung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Sportverletzungen",
+      "herausgeber": "Deutsche Gesellschaft für Orthopädie und Unfallchirurgie (DGOU)",
+      "url": "https://www.dgou.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "muskelzerrung",
+    "sportverletzung",
+    "erste-hilfe"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein schneller Sprint, und plötzlich zieht es im Oberschenkel.",
+        "Oft steckt eine Muskelzerrung dahinter."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Überdehnte Fasern",
+      "absaetze": [
+        "Bei einer Zerrung wird ein Muskel über seine Grenze hinaus gedehnt. Die Muskelfasern werden überdehnt, reißen aber nicht.",
+        "Typisch ist ein plötzlicher, krampfartiger Schmerz. Häufig betroffen sind Oberschenkel und Waden."
+      ],
+      "merke": "Bei einer Zerrung werden Muskelfasern überdehnt."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zerrung oder Riss",
+      "absaetze": [
+        "Bei einem Muskelfaserriss reißen dagegen einzelne Fasern. Der Schmerz ist stechend, und oft bildet sich ein Bluterguss.",
+        "Ein Muskelfaserriss braucht deutlich länger zum Heilen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erste Hilfe",
+      "absaetze": [
+        "Hör sofort mit dem Sport auf. Kühle die Stelle, lege einen leichten Druckverband an und lagere das Bein hoch.",
+        "Eine Zerrung ist meist nach ein bis zwei Wochen ausgestanden. Bei starken Schmerzen, Schwellung oder einer tastbaren Delle solltest du ärztlich abklären lassen."
+      ],
+      "merke": "Sofort aufhören, kühlen, Druck und Hochlagern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was passiert bei einer Muskelzerrung?",
+      "art": "mc",
+      "optionen": [
+        "Muskelfasern werden überdehnt",
+        "Der Knochen bricht",
+        "Die Haut reißt",
+        "Ein Gelenk springt heraus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Fasern reißen dabei nicht."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was unterscheidet einen Muskelfaserriss von einer Zerrung?",
+      "art": "mc",
+      "optionen": [
+        "Einzelne Fasern reißen",
+        "Es tut gar nicht weh",
+        "Es betrifft nur Finger",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Oft bildet sich ein Bluterguss."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bei einer Zerrung solltest du weitertrainieren.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Hör sofort mit dem Sport auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gehört zur Ersten Hilfe?",
+      "art": "mc",
+      "optionen": [
+        "Kühlen, Druckverband und Hochlagern",
+        "Heiß baden",
+        "Massieren mit Kraft",
+        "Dehnen bis zum Schmerz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Eine Zerrung ist meist nach ein bis zwei Wochen ausgestanden."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Bei einer Zerrung werden Muskelfasern überdehnt.",
+        "Beim Faserriss reißen einzelne Fasern.",
+        "Sofort aufhören, kühlen und hochlagern.",
+        "Bei starken Beschwerden ärztlich abklären."
+      ]
+    }
+  ]
+}
