@@ -1,0 +1,128 @@
+{
+  "id": "zeit-b167-01",
+  "version": 1,
+  "themenwelt": "geschichte-politik",
+  "unterthema": "zeitgeschichte",
+  "titel": "Wie kam es zum deutschen Kohleausstieg?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geschichte und Politik",
+      "herausgeber": "Bundeszentrale für politische Bildung",
+      "url": "https://www.bpb.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Energie und Klima",
+      "herausgeber": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "kohleausstieg",
+    "energiewende",
+    "klima"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Jahrzehntelang lieferte Kohle einen großen Teil des Stroms in Deutschland.",
+        "Aus Klimaschutzgründen soll damit Schluss sein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Die Kohlekommission",
+      "absaetze": [
+        "Kohlekraftwerke stoßen besonders viel Kohlendioxid aus. Um die Klimaziele zu erreichen, setzte die Bundesregierung 2018 eine Kommission ein.",
+        "Darin saßen Vertreter aus Wirtschaft, Gewerkschaften, Umweltverbänden und Regionen. Anfang 2019 legte sie ihren Vorschlag vor."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das Gesetz",
+      "absaetze": [
+        "2020 beschloss der Bundestag den Kohleausstieg bis spätestens 2038. Kraftwerksbetreiber erhalten Entschädigungen, betroffene Regionen Milliardenhilfen für den Strukturwandel.",
+        "Für das Rheinische Revier wurde der Ausstieg später auf 2030 vorgezogen."
+      ],
+      "merke": "Spätestens 2038 soll in Deutschland kein Kohlestrom mehr erzeugt werden."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Streit und Wandel",
+      "absaetze": [
+        "Um Tagebaue gab es heftige Konflikte, etwa um das Dorf Lützerath, das 2023 geräumt wurde. In den Kohleregionen sorgen sich viele um Arbeitsplätze.",
+        "Gleichzeitig ist der Anteil erneuerbarer Energien am Strom stark gestiegen."
+      ],
+      "merke": "Der Kohleausstieg ist mit großem Strukturwandel verbunden."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis wann soll Deutschland spätestens aus der Kohle aussteigen?",
+      "art": "mc",
+      "optionen": [
+        "2038",
+        "2025",
+        "2050",
+        "2100"
+      ],
+      "richtig": 0,
+      "erklaerung": "So steht es im Gesetz von 2020."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wer saß in der Kohlekommission?",
+      "art": "mc",
+      "optionen": [
+        "Vertreter aus Wirtschaft, Gewerkschaften und Umweltverbänden",
+        "Nur Politiker",
+        "Nur Kraftwerksbetreiber",
+        "Niemand"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie legte 2019 ihren Vorschlag vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Für das Rheinische Revier wurde der Ausstieg auf 2030 vorgezogen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Das wurde später vereinbart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Dorf wurde 2023 für den Tagebau geräumt?",
+      "art": "mc",
+      "optionen": [
+        "Lützerath",
+        "Wackersdorf",
+        "Gorleben",
+        "Brokdorf"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Räumung war heftig umstritten."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Kohle verursacht viel Kohlendioxid.",
+        "Eine Kommission erarbeitete einen Kompromiss.",
+        "Spätestens 2038 soll Schluss sein.",
+        "Regionen erhalten Hilfen für den Wandel."
+      ]
+    }
+  ]
+}

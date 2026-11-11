@@ -1,0 +1,122 @@
+{
+  "id": "tech-b167-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wozu dient ein Wasserturm?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Technik und Infrastruktur",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "wasserturm",
+    "trinkwasser",
+    "wasserdruck"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In vielen Städten stehen alte Wassertürme, manche sind heute Wohnungen oder Museen.",
+        "Früher waren sie für die Wasserversorgung unverzichtbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Druck durch Höhe",
+      "absaetze": [
+        "Ein Wasserturm hat oben einen großen Behälter. Das Wasser darin drückt durch sein Gewicht in die Leitungen.",
+        "Je höher der Behälter steht, desto größer ist der Wasserdruck in den Häusern darunter."
+      ],
+      "merke": "Die Höhe des Behälters sorgt für den Wasserdruck."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Puffer für Spitzenzeiten",
+      "absaetze": [
+        "Morgens und abends brauchen viele Menschen gleichzeitig Wasser. Der Turm gleicht diese Schwankungen aus.",
+        "Nachts, wenn wenig verbraucht wird, pumpen die Wasserwerke ihn wieder voll."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Heute oft ersetzt",
+      "absaetze": [
+        "Moderne Pumpen können den Druck heute direkt regeln. Viele Wassertürme sind deshalb außer Betrieb.",
+        "Wo die Landschaft es erlaubt, dienen Hochbehälter auf Hügeln demselben Zweck."
+      ],
+      "merke": "Wassertürme gleichen Spitzen im Verbrauch aus."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wodurch entsteht der Wasserdruck bei einem Wasserturm?",
+      "art": "mc",
+      "optionen": [
+        "Durch das Gewicht des hoch gelagerten Wassers",
+        "Durch Wind",
+        "Durch Sonnenlicht",
+        "Durch Magnete"
+      ],
+      "richtig": 0,
+      "erklaerung": "Je höher, desto mehr Druck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann wird ein Wasserturm meist aufgefüllt?",
+      "art": "mc",
+      "optionen": [
+        "Nachts, wenn wenig verbraucht wird",
+        "Mittags zur Spitzenzeit",
+        "Nur bei Regen",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Morgens und abends ist der Verbrauch hoch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Viele Wassertürme sind heute außer Betrieb.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Moderne Pumpen regeln den Druck."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was erfüllt auf Hügeln denselben Zweck?",
+      "art": "mc",
+      "optionen": [
+        "Hochbehälter",
+        "Windräder",
+        "Funkmasten",
+        "Brücken"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Höhe sorgt für Druck."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Wassertürme speichern Wasser in der Höhe.",
+        "Die Höhe sorgt für Wasserdruck.",
+        "Sie gleichen Spitzenzeiten aus.",
+        "Heute regeln oft Pumpen den Druck."
+      ]
+    }
+  ]
+}

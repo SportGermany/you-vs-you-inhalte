@@ -1,0 +1,128 @@
+{
+  "id": "steu-b167-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Was ist Quellensteuer auf ausländische Dividenden?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Kapitalerträge und Erstattungen",
+      "herausgeber": "Bundeszentralamt für Steuern",
+      "url": "https://www.bzst.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "quellensteuer",
+    "dividenden",
+    "steuersaetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Wer Aktien aus anderen Ländern besitzt, wundert sich oft über die Abrechnung.",
+        "Ein Teil der Dividende fehlt schon, bevor sie ankommt."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Steuer an der Quelle",
+      "absaetze": [
+        "Viele Staaten behalten auf Dividenden eine Steuer direkt ein, die Quellensteuer. Sie wird abgezogen, bevor das Geld zu dir überwiesen wird.",
+        "Bei US-Aktien sind das für Anleger aus Deutschland meist 15 Prozent, wenn ein bestimmtes Formular vorliegt. Das regelt deine Bank meist automatisch."
+      ],
+      "merke": "Viele Staaten behalten auf Dividenden Quellensteuer ein."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Anrechnung in Deutschland",
+      "absaetze": [
+        "Damit du nicht doppelt zahlst, gibt es Doppelbesteuerungsabkommen. Ein Teil der ausländischen Steuer wird auf die deutsche Abgeltungsteuer angerechnet.",
+        "Deine Bank übernimmt diese Anrechnung in der Regel."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenn zu viel einbehalten wird",
+      "absaetze": [
+        "Manche Länder behalten mehr ein, als in Deutschland angerechnet wird, etwa die Schweiz. Den zu viel gezahlten Teil musst du dir im jeweiligen Land selbst zurückholen.",
+        "Das ist oft aufwendig. Prüfe deshalb vor dem Kauf, wie viel Quellensteuer ein Land erhebt."
+      ],
+      "merke": "Zu viel einbehaltene Quellensteuer musst du selbst zurückfordern."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist Quellensteuer?",
+      "art": "mc",
+      "optionen": [
+        "Eine Steuer, die das Herkunftsland direkt einbehält",
+        "Eine Steuer auf Wasser",
+        "Eine Gebühr der Bank",
+        "Eine Strafe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie wird vor der Überweisung abgezogen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Quellensteuer fällt auf US-Dividenden meist an?",
+      "art": "mc",
+      "optionen": [
+        "15 Prozent",
+        "1 Prozent",
+        "70 Prozent",
+        "Gar keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Wenn ein bestimmtes Formular vorliegt."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Doppelbesteuerungsabkommen sollen verhindern, dass du doppelt zahlst.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Teil wird angerechnet."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du, wenn ein Land zu viel einbehält?",
+      "art": "mc",
+      "optionen": [
+        "Den Rest im jeweiligen Land zurückfordern",
+        "Nichts, er ist verloren",
+        "Die Aktie verschenken",
+        "Beim Arbeitgeber melden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist oft aufwendig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Viele Länder behalten Quellensteuer ein.",
+        "Bei US-Aktien sind es meist 15 Prozent.",
+        "Ein Teil wird in Deutschland angerechnet.",
+        "Zu viel Gezahltes musst du selbst zurückholen."
+      ]
+    }
+  ]
+}

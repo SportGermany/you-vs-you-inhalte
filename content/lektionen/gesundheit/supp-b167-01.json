@@ -1,0 +1,141 @@
+{
+  "id": "supp-b167-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von schwarzem Knoblauch zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Nahrungsergänzungsmittel",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "schwarzer-knoblauch",
+    "knoblauch",
+    "antioxidantien"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Schwarzer Knoblauch ist tiefschwarz, weich und schmeckt süßlich.",
+        "Er wird als Delikatesse und als Kapsel mit Gesundheitsversprechen verkauft."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie er entsteht",
+      "absaetze": [
+        "Schwarzer Knoblauch ist normaler Knoblauch, der über Wochen bei Wärme und hoher Luftfeuchtigkeit gelagert wird. Dabei verfärbt er sich und verliert seine Schärfe.",
+        "Der Geschmack erinnert an Lakritz oder Balsamico. In der Küche ist er eine interessante Zutat."
+      ],
+      "merke": "Schwarzer Knoblauch entsteht durch lange Lagerung bei Wärme."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was versprochen wird",
+      "absaetze": [
+        "Werbung verspricht Schutz für Herz, Gefäße und Immunsystem. Dafür gibt es vor allem Labor- und Tierversuche.",
+        "Ob Präparate beim Menschen einen Nutzen haben, ist unklar."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Vorsicht bei Blutverdünnern",
+      "absaetze": [
+        "Knoblauchpräparate können möglicherweise die Blutgerinnung beeinflussen. Wer Blutverdünner nimmt oder eine Operation vor sich hat, sollte das ärztlich besprechen.",
+        "Als Lebensmittel in üblichen Mengen ist schwarzer Knoblauch unbedenklich."
+      ],
+      "merke": "Bei Blutverdünnern Knoblauchpräparate ärztlich besprechen.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Bei Einnahme von Blutverdünnern ärztlich beraten lassen.",
+        "Vor Operationen ärztlich besprechen.",
+        "In Schwangerschaft und Stillzeit nur nach Rücksprache.",
+        "Nicht für Kinder."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht schwarzer Knoblauch?",
+      "art": "mc",
+      "optionen": [
+        "Durch lange Lagerung bei Wärme und Feuchtigkeit",
+        "Durch Färben mit Tinte",
+        "Durch Verbrennen",
+        "Er wächst schwarz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er verliert dabei seine Schärfe."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist ein Nutzen von Präparaten beim Menschen belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein, das ist unklar",
+        "Ja, eindeutig",
+        "Ja, für alle",
+        "Ja, er ersetzt Medikamente"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt vor allem Labor- und Tierversuche."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Knoblauchpräparate können möglicherweise die Blutgerinnung beeinflussen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Bei Blutverdünnern ärztlich besprechen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wonach schmeckt schwarzer Knoblauch?",
+      "art": "mc",
+      "optionen": [
+        "Süßlich, ähnlich wie Lakritz oder Balsamico",
+        "Extrem scharf",
+        "Nach Fisch",
+        "Nach nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist eine interessante Küchenzutat."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Schwarzer Knoblauch entsteht durch lange Lagerung.",
+        "Er schmeckt süßlich und mild.",
+        "Ein Nutzen von Präparaten ist unklar.",
+        "Bei Blutverdünnern ärztlich beraten lassen."
+      ]
+    }
+  ]
+}

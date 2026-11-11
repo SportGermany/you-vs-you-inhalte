@@ -1,0 +1,128 @@
+{
+  "id": "all-b167-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Welche Tiere flogen als Erste ins All?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Human and Robotic Exploration",
+      "herausgeber": "Europäische Weltraumorganisation (ESA)",
+      "url": "https://www.esa.int",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "tiere-im-all",
+    "laika",
+    "raumfahrt"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Bevor Menschen ins All flogen, wurden Tiere geschickt.",
+        "Mit ihnen wollten Forschende herausfinden, ob Leben dort überhaupt möglich ist."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Fliegen auf einer Rakete",
+      "absaetze": [
+        "Die ersten Tiere im All waren Fruchtfliegen. Die USA schickten sie 1947 mit einer erbeuteten deutschen V2-Rakete in große Höhe.",
+        "Die Kapsel mit den Fliegen kehrte an einem Fallschirm zurück."
+      ],
+      "merke": "Die ersten Tiere im All waren Fruchtfliegen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Laika",
+      "absaetze": [
+        "1957 kreiste die Hündin Laika an Bord von Sputnik 2 als erstes Tier um die Erde. Eine Rückkehr war nicht vorgesehen.",
+        "Laika starb schon nach wenigen Stunden an Überhitzung. Ihr Schicksal löste später viel Kritik aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Der Weg für Menschen",
+      "absaetze": [
+        "1960 kehrten die Hündinnen Belka und Strelka als erste Tiere lebend aus der Erdumlaufbahn zurück. 1961 flog der Schimpanse Ham für die USA ins All.",
+        "Wenige Monate später flog Juri Gagarin als erster Mensch ins All."
+      ],
+      "merke": "Belka und Strelka kehrten 1960 lebend aus dem Orbit zurück."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tiere waren als Erste im All?",
+      "art": "mc",
+      "optionen": [
+        "Fruchtfliegen",
+        "Hunde",
+        "Affen",
+        "Katzen"
+      ],
+      "richtig": 0,
+      "erklaerung": "1947 auf einer V2-Rakete."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie hieß die Hündin an Bord von Sputnik 2?",
+      "art": "mc",
+      "optionen": [
+        "Laika",
+        "Lassie",
+        "Bella",
+        "Strelka"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie kreiste 1957 um die Erde."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Laika kehrte lebend zur Erde zurück.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Eine Rückkehr war nicht vorgesehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Tiere kehrten 1960 lebend aus dem Orbit zurück?",
+      "art": "mc",
+      "optionen": [
+        "Belka und Strelka",
+        "Ham und Enos",
+        "Laika und Lassie",
+        "Keine"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach folgte bald der erste Mensch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Fruchtfliegen flogen 1947 als erste Tiere ins All.",
+        "Laika kreiste 1957 um die Erde.",
+        "Belka und Strelka kehrten 1960 lebend zurück.",
+        "1961 flog Gagarin als erster Mensch ins All."
+      ]
+    }
+  ]
+}

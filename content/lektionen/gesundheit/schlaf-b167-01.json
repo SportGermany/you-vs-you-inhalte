@@ -1,0 +1,130 @@
+{
+  "id": "schlaf-b167-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Brauchen Kinder ein Nachtlicht?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Kindergesundheit",
+      "herausgeber": "Kindergesundheit-info.de",
+      "url": "https://www.kindergesundheit-info.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "nachtlicht",
+    "kinder",
+    "angst"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Kinder fürchten sich im Dunkeln.",
+        "Ein Nachtlicht soll ihnen Sicherheit geben."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Angst vor der Dunkelheit",
+      "absaetze": [
+        "Angst vor der Dunkelheit ist im Kindergartenalter häufig. Die Fantasie wird lebhafter, und Schatten wirken schnell bedrohlich.",
+        "Meist legt sich diese Angst mit der Zeit von selbst."
+      ],
+      "merke": "Angst im Dunkeln ist bei kleinen Kindern häufig."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Welches Licht geeignet ist",
+      "absaetze": [
+        "Helles, bläuliches Licht kann möglicherweise das Einschlafen erschweren. Ein schwaches, warmes Licht in Orange oder Rot stört vermutlich weniger.",
+        "Gut untersucht ist das bei Kindern aber kaum. Es gibt nur erste Hinweise."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Alternativen",
+      "absaetze": [
+        "Oft reicht auch eine einen Spalt geöffnete Tür mit Licht im Flur. Ein festes Abendritual und ein Kuscheltier geben zusätzlich Sicherheit.",
+        "Behandle die Angst ernsthaft, ohne sie zu verstärken. Wird sie sehr stark, sprich mit der Kinderärztin oder dem Kinderarzt."
+      ],
+      "merke": "Ein festes Abendritual gibt Sicherheit."
+    },
+    {
+      "typ": "quiz",
+      "frage": "In welchem Alter ist Angst vor Dunkelheit häufig?",
+      "art": "mc",
+      "optionen": [
+        "Im Kindergartenalter",
+        "Nur bei Erwachsenen",
+        "Nur bei Babys unter einem Monat",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Fantasie wird dann lebhafter."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welches Nachtlicht stört vermutlich weniger?",
+      "art": "mc",
+      "optionen": [
+        "Ein schwaches, warmes Licht",
+        "Ein helles, bläuliches Licht",
+        "Ein flackerndes Licht",
+        "Eine Deckenlampe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es gibt dazu erste Hinweise."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Eine einen Spalt geöffnete Tür kann ein Nachtlicht ersetzen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Mit Licht im Flur."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was gibt Kindern zusätzlich Sicherheit?",
+      "art": "mc",
+      "optionen": [
+        "Ein festes Abendritual",
+        "Gruselgeschichten",
+        "Fernsehen im Bett",
+        "Laute Musik"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch ein Kuscheltier hilft."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Angst im Dunkeln ist bei Kindern häufig.",
+        "Ein schwaches, warmes Licht stört vermutlich wenig.",
+        "Eine offene Tür kann auch reichen.",
+        "Rituale geben Sicherheit."
+      ]
+    }
+  ]
+}

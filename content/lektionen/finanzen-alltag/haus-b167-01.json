@@ -1,0 +1,122 @@
+{
+  "id": "haus-b167-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "haushalt",
+  "titel": "Wie reinigst du Lampenschirme?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "lampenschirm",
+    "staub",
+    "reinigung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Auf Lampenschirmen sammelt sich mit der Zeit viel Staub.",
+        "Das macht das Licht trüber und sieht unschön aus."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Sicherheit zuerst",
+      "absaetze": [
+        "Schalte die Lampe aus und zieh den Stecker. Lass das Leuchtmittel abkühlen, bevor du beginnst.",
+        "Nimm den Schirm wenn möglich ab, dann kommst du besser überall hin."
+      ],
+      "merke": "Vor dem Reinigen Stecker ziehen und abkühlen lassen."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Je nach Material",
+      "absaetze": [
+        "Stoffschirme reinigst du mit einer Fusselrolle, einer weichen Bürste oder dem Staubsauger mit Bürstenaufsatz. Papierschirme nur trocken abstauben.",
+        "Glasschirme kannst du mit warmem Wasser und etwas Spülmittel abwaschen und danach gut trocknen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Regelmäßig abstauben",
+      "absaetze": [
+        "Staube Lampenschirme alle paar Wochen kurz ab. Dann setzt sich Staub nicht fest.",
+        "Flecken auf Stoff lassen sich manchmal vorsichtig mit etwas Seifenwasser abtupfen. Teste das zuerst an einer unauffälligen Stelle."
+      ],
+      "merke": "Papierschirme nur trocken reinigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was tust du vor dem Reinigen einer Lampe?",
+      "art": "mc",
+      "optionen": [
+        "Stecker ziehen und abkühlen lassen",
+        "Licht anschalten",
+        "Wasser hineingießen",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sicherheit geht vor."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Womit reinigst du einen Stoffschirm?",
+      "art": "mc",
+      "optionen": [
+        "Mit einer Fusselrolle oder weichen Bürste",
+        "Mit Stahlwolle",
+        "Im Geschirrspüler",
+        "Mit Bleiche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch der Staubsauger mit Bürstenaufsatz hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Papierschirme kannst du nass abwaschen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie nur trocken abstauben."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie reinigst du einen Glasschirm?",
+      "art": "mc",
+      "optionen": [
+        "Mit warmem Wasser und Spülmittel",
+        "Mit Sand",
+        "Gar nicht",
+        "Mit Öl"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach gut trocknen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vorher Stecker ziehen und abkühlen lassen.",
+        "Stoff mit Fusselrolle oder Bürste reinigen.",
+        "Papier nur trocken abstauben.",
+        "Glas mit Spülwasser waschen."
+      ]
+    }
+  ]
+}
