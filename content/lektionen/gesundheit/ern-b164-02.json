@@ -1,0 +1,130 @@
+{
+  "id": "ern-b164-02",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund sind Tintenfische als Lebensmittel?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "tintenfisch",
+    "calamari",
+    "meeresfruechte"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Calamari, Sepia oder Oktopus stehen in vielen Urlaubsländern auf der Speisekarte.",
+        "Alle gehören zu den Tintenfischen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Weichtiere mit Armen",
+      "absaetze": [
+        "Tintenfische sind keine Fische, sondern Weichtiere. Zu ihnen gehören Kalmare, Sepien und Kraken, die auch Oktopusse heißen.",
+        "Aus Kalmaren werden die bekannten Calamari-Ringe."
+      ],
+      "merke": "Tintenfische sind Weichtiere, keine Fische."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Was drinsteckt",
+      "absaetze": [
+        "Tintenfisch liefert viel Eiweiß und ist von Natur aus sehr fettarm. Er enthält vergleichsweise viel Cholesterin.",
+        "Frittierte Calamari saugen allerdings viel Fett auf. Gegrillt oder geschmort ist Tintenfisch deutlich leichter."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Richtig zubereiten",
+      "absaetze": [
+        "Tintenfisch wird schnell zäh. Brate ihn deshalb entweder nur ganz kurz oder schmore ihn lange, bis er weich ist.",
+        "Kraken gelten als sehr intelligente Tiere. Deshalb wird auch darüber diskutiert, wie sie gefangen und gehalten werden."
+      ],
+      "merke": "Tintenfisch nur kurz braten oder lange schmoren."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zu welcher Tiergruppe gehören Tintenfische?",
+      "art": "mc",
+      "optionen": [
+        "Zu den Weichtieren",
+        "Zu den Fischen",
+        "Zu den Säugetieren",
+        "Zu den Krebsen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehören Kalmare, Sepien und Kraken."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Woraus werden Calamari-Ringe gemacht?",
+      "art": "mc",
+      "optionen": [
+        "Aus Kalmaren",
+        "Aus Muscheln",
+        "Aus Garnelen",
+        "Aus Thunfisch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Kalmare sind eine Tintenfischart."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Frittierte Calamari sind besonders fettarm.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Sie saugen viel Fett auf."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie wird Tintenfisch nicht zäh?",
+      "art": "mc",
+      "optionen": [
+        "Ganz kurz braten oder lange schmoren",
+        "Mittellang bei mittlerer Hitze kochen",
+        "Roh einfrieren und essen",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazwischen wird er schnell gummiartig."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Tintenfische sind Weichtiere.",
+        "Sie liefern viel Eiweiß und wenig Fett.",
+        "Frittiert sind sie deutlich fettreicher.",
+        "Kurz braten oder lange schmoren."
+      ]
+    }
+  ]
+}

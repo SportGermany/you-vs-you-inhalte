@@ -1,0 +1,131 @@
+{
+  "id": "schlaf-b164-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "schlaf-regeneration",
+  "titel": "Warum schlafen viele als Beifahrer im Auto ein?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Informationen zum Schlaf",
+      "herausgeber": "Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)",
+      "url": "https://www.dgsm.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Müdigkeit am Steuer",
+      "herausgeber": "Deutscher Verkehrssicherheitsrat (DVR)",
+      "url": "https://www.dvr.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "auto",
+    "muedigkeit",
+    "beifahrer"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Kaum rollt das Auto auf der Autobahn, fallen manchen Beifahrern die Augen zu.",
+        "Auch Babys schlafen im Auto oft besonders schnell ein."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gleichmäßige Bewegung",
+      "absaetze": [
+        "Das Auto schwingt und vibriert sanft und gleichmäßig. Eine kleine Studie deutet darauf hin, dass solche Vibrationen müde machen können.",
+        "Vermutlich wirkt das ähnlich beruhigend wie Schaukeln."
+      ],
+      "merke": "Gleichmäßige Vibrationen machen vermutlich müde.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig zu tun",
+      "absaetze": [
+        "Als Beifahrer musst du nicht aufpassen. Die Landschaft zieht gleichförmig vorbei, und es gibt wenig Reize.",
+        "Dazu kommen oft Wärme im Auto und ein gewisses Schlafdefizit. Dann setzt sich die Müdigkeit möglicherweise schneller durch."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefährlich für den Fahrer",
+      "absaetze": [
+        "Was für Beifahrer harmlos ist, ist am Steuer gefährlich. Sekundenschlaf kann schwere Unfälle verursachen.",
+        "Bei Müdigkeit hilft nur eine Pause mit kurzem Schlaf. Offenes Fenster oder laute Musik helfen nicht zuverlässig."
+      ],
+      "merke": "Bei Müdigkeit am Steuer hilft nur eine Pause."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was deutet eine kleine Studie zu Vibrationen im Auto an?",
+      "art": "mc",
+      "optionen": [
+        "Sie können müde machen",
+        "Sie machen hellwach",
+        "Sie verursachen Kopfweh",
+        "Sie haben keine Wirkung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Vermutlich ähnlich wie Schaukeln."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum schlafen Beifahrer leichter ein als Fahrer?",
+      "art": "mc",
+      "optionen": [
+        "Sie müssen nicht aufpassen und haben wenig Reize",
+        "Sie sitzen höher",
+        "Sie hören lauter Musik",
+        "Sie trinken mehr"
+      ],
+      "richtig": 0,
+      "erklaerung": "Auch Wärme kann dazukommen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ein offenes Fenster ist ein zuverlässiges Mittel gegen Müdigkeit am Steuer.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Nur eine Pause mit kurzem Schlaf hilft."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist bei Müdigkeit am Steuer richtig?",
+      "art": "mc",
+      "optionen": [
+        "Eine Pause mit kurzem Schlaf machen",
+        "Schneller fahren",
+        "Weiterfahren und singen",
+        "Augen kurz schließen"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sekundenschlaf ist gefährlich."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Gleichmäßige Bewegung macht vermutlich müde.",
+        "Beifahrer haben wenig zu tun und wenig Reize.",
+        "Am Steuer ist Müdigkeit gefährlich.",
+        "Dann hilft nur eine Pause mit kurzem Schlaf."
+      ]
+    }
+  ]
+}

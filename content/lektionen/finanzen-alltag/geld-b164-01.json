@@ -1,0 +1,128 @@
+{
+  "id": "geld-b164-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "geld-sparen",
+  "titel": "Wie funktioniert eine Börse?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Geldanlage verstehen",
+      "herausgeber": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+      "url": "https://www.bafin.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "boerse",
+    "aktien",
+    "geldanlage"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "In den Nachrichten hört man täglich vom DAX und von steigenden oder fallenden Kursen.",
+        "Doch was passiert eigentlich an einer Börse?"
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Marktplatz für Wertpapiere",
+      "absaetze": [
+        "An einer Börse werden Wertpapiere wie Aktien und Anleihen gehandelt. Käufer und Verkäufer treffen sich dort, heute fast nur noch elektronisch.",
+        "Die größte Börse in Deutschland ist die Frankfurter Wertpapierbörse."
+      ],
+      "merke": "Die Börse ist ein Marktplatz für Wertpapiere."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie Preise entstehen",
+      "absaetze": [
+        "Der Kurs einer Aktie ergibt sich aus Angebot und Nachfrage. Wollen viele kaufen, steigt der Kurs, wollen viele verkaufen, fällt er.",
+        "Der DAX zeigt, wie sich die Kurse von 40 großen deutschen Unternehmen insgesamt entwickeln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wie du handeln kannst",
+      "absaetze": [
+        "Privatleute handeln nicht direkt an der Börse, sondern über eine Bank oder einen Broker. Dafür brauchst du ein Depot.",
+        "Jede Order kostet Gebühren, und Kurse können stark schwanken. Die Börsen in Deutschland werden staatlich beaufsichtigt."
+      ],
+      "merke": "Privatleute handeln über Bank oder Broker mit einem Depot."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was wird an einer Börse gehandelt?",
+      "art": "mc",
+      "optionen": [
+        "Wertpapiere wie Aktien und Anleihen",
+        "Nur Obst und Gemüse",
+        "Gebrauchte Autos",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Heute fast nur elektronisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie entsteht der Kurs einer Aktie?",
+      "art": "mc",
+      "optionen": [
+        "Aus Angebot und Nachfrage",
+        "Durch Würfeln",
+        "Durch den Staat",
+        "Er ist fest"
+      ],
+      "richtig": 0,
+      "erklaerung": "Viele Käufer lassen den Kurs steigen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Der DAX umfasst 40 große deutsche Unternehmen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Er zeigt deren Kursentwicklung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was brauchst du, um Aktien zu kaufen?",
+      "art": "mc",
+      "optionen": [
+        "Ein Depot bei Bank oder Broker",
+        "Einen Waffenschein",
+        "Ein Sparbuch",
+        "Nichts"
+      ],
+      "richtig": 0,
+      "erklaerung": "Jede Order kostet Gebühren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Die Börse ist ein Marktplatz für Wertpapiere.",
+        "Kurse entstehen aus Angebot und Nachfrage.",
+        "Der DAX umfasst 40 große Unternehmen.",
+        "Privatleute handeln über ein Depot."
+      ]
+    }
+  ]
+}

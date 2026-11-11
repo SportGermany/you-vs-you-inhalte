@@ -1,0 +1,141 @@
+{
+  "id": "supp-b164-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "supplements",
+  "titel": "Was ist von 5-HTP-Präparaten zu halten?",
+  "minuten": 3,
+  "studienlage": 1,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittelsicherheit",
+      "herausgeber": "Bundesinstitut für Risikobewertung (BfR)",
+      "url": "https://www.bfr.bund.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Gesundheitsinformationen",
+      "herausgeber": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "url": "https://gesund.bund.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "5-htp",
+    "serotonin",
+    "stimmung"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "5-HTP wird als natürliches Mittel für gute Laune, besseren Schlaf und weniger Appetit beworben.",
+        "Die Beweislage ist allerdings dünn."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Eine Vorstufe von Serotonin",
+      "absaetze": [
+        "5-HTP ist eine Vorstufe des Botenstoffs Serotonin. Für Präparate wird es meist aus den Samen einer afrikanischen Pflanze gewonnen.",
+        "Der Körper bildet 5-HTP auch selbst aus dem Eiweißbaustein Tryptophan, der in vielen Lebensmitteln steckt."
+      ],
+      "merke": "5-HTP ist eine Vorstufe von Serotonin."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Wenig belegt",
+      "absaetze": [
+        "Es gibt nur kleine Studien zu Stimmung, Schlaf oder Appetit. Ob 5-HTP dabei wirklich hilft, ist unklar.",
+        "Depressionen und Schlafstörungen sollten ärztlich behandelt werden, nicht mit Präparaten auf eigene Faust."
+      ],
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Gefährliche Kombinationen",
+      "absaetze": [
+        "Zusammen mit bestimmten Antidepressiva oder Migränemitteln kann 5-HTP möglicherweise zu viel Serotonin im Körper erzeugen. Das kann gefährlich werden.",
+        "Sprich deshalb vorher unbedingt mit Ärztin, Arzt oder Apotheke."
+      ],
+      "merke": "Gefahr bei Kombination mit Antidepressiva.",
+      "studienlage": 1
+    },
+    {
+      "typ": "wissen",
+      "titel": "Das solltest du beachten",
+      "absaetze": [
+        "Nicht mit Antidepressiva oder Migränemitteln kombinieren.",
+        "Nicht in Schwangerschaft und Stillzeit.",
+        "Nicht für Kinder.",
+        "Vorher ärztlich oder in der Apotheke beraten lassen."
+      ]
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was ist 5-HTP?",
+      "art": "mc",
+      "optionen": [
+        "Eine Vorstufe von Serotonin",
+        "Ein Vitamin",
+        "Ein Mineralstoff",
+        "Ein Antibiotikum"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Körper bildet es auch selbst."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Ist die Wirkung auf Stimmung und Schlaf gut belegt?",
+      "art": "mc",
+      "optionen": [
+        "Nein, es gibt nur kleine Studien",
+        "Ja, eindeutig",
+        "Ja, bei allen Menschen",
+        "Ja, es ersetzt Medikamente"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ob es hilft, ist unklar."
+    },
+    {
+      "typ": "quiz",
+      "frage": "5-HTP kann zusammen mit bestimmten Antidepressiva gefährlich werden.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es kann zu viel Serotonin entstehen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie sollten Depressionen behandelt werden?",
+      "art": "mc",
+      "optionen": [
+        "Ärztlich",
+        "Nur mit Präparaten aus dem Internet",
+        "Gar nicht",
+        "Mit Kaffee"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nicht auf eigene Faust."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "5-HTP ist eine Vorstufe von Serotonin.",
+        "Die Wirkung ist kaum belegt.",
+        "Mit Antidepressiva kann es gefährlich werden.",
+        "Depressionen gehören in ärztliche Behandlung."
+      ]
+    }
+  ]
+}

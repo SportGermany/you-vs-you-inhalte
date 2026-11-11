@@ -1,0 +1,131 @@
+{
+  "id": "ern-b164-01",
+  "version": 1,
+  "themenwelt": "gesundheit",
+  "unterthema": "ernaehrung-langlebigkeit",
+  "titel": "Wie gesund ist Zander?",
+  "minuten": 3,
+  "studienlage": 2,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Lebensmittel und Ernährung",
+      "herausgeber": "Bundeszentrum für Ernährung (BZfE)",
+      "url": "https://www.bzfe.de",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Ernährungsempfehlungen",
+      "herausgeber": "Deutsche Gesellschaft für Ernährung (DGE)",
+      "url": "https://www.dge.de",
+      "abgerufen": ""
+    }
+  ],
+  "hinweis": "Dies ist Bildung, keine medizinische Beratung. Sprich bei Beschwerden oder Medikamenten mit Ärztin oder Arzt.",
+  "tags": [
+    "zander",
+    "suesswasserfisch",
+    "eiweiss"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zander gilt als einer der feinsten Süßwasserfische.",
+        "Sein weißes Fleisch ist zart und hat wenige Gräten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Raubfisch aus Seen und Flüssen",
+      "absaetze": [
+        "Der Zander lebt in Seen und langsam fließenden Flüssen und jagt kleinere Fische. Er stammt aus Wildfang oder aus Aquakultur.",
+        "Sein Fleisch ist fest, weiß und hat nur wenige Gräten. Das macht ihn auch für Fischneulinge angenehm."
+      ],
+      "merke": "Zander hat zartes Fleisch mit wenigen Gräten."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mager und eiweißreich",
+      "absaetze": [
+        "Zander ist sehr fettarm und liefert hochwertiges Eiweiß. Dazu kommen B-Vitamine und Mineralstoffe wie Kalium und Phosphor.",
+        "Omega-3-Fettsäuren und Jod liefert er weniger als fettreiche Meeresfische."
+      ],
+      "studienlage": 2
+    },
+    {
+      "typ": "wissen",
+      "titel": "Abwechslung auf dem Teller",
+      "absaetze": [
+        "Die DGE empfiehlt, ein- bis zweimal pro Woche Fisch zu essen, darunter auch fettreichen Meeresfisch. Zander ist eine gute magere Ergänzung.",
+        "Er gelingt gebraten, gedünstet oder gegrillt. Achte beim Kauf auf Herkunft und Nachhaltigkeitssiegel."
+      ],
+      "merke": "Zander ist eine magere Ergänzung zu fettem Meeresfisch.",
+      "studienlage": 2
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo lebt der Zander?",
+      "art": "mc",
+      "optionen": [
+        "In Seen und langsam fließenden Flüssen",
+        "Nur in der Tiefsee",
+        "In Korallenriffen",
+        "Im Wattenmeer"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er jagt kleinere Fische."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie viel Fett enthält Zander?",
+      "art": "mc",
+      "optionen": [
+        "Sehr wenig",
+        "Sehr viel",
+        "Genauso viel wie Lachs",
+        "Mehr als Butter"
+      ],
+      "richtig": 0,
+      "erklaerung": "Er ist ein magerer Fisch."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Zander liefert mehr Jod als Meeresfisch.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Meeresfische liefern mehr Jod."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie oft empfiehlt die DGE Fisch?",
+      "art": "mc",
+      "optionen": [
+        "Ein- bis zweimal pro Woche",
+        "Dreimal täglich",
+        "Einmal im Jahr",
+        "Nie"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dazu gehört auch fettreicher Meeresfisch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zander hat zartes Fleisch mit wenigen Gräten.",
+        "Er ist mager und eiweißreich.",
+        "Jod und Omega-3 liefert er weniger als Meeresfisch.",
+        "Er ergänzt fettreichen Meeresfisch gut."
+      ]
+    }
+  ]
+}

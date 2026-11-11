@@ -1,0 +1,128 @@
+{
+  "id": "all-b164-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "weltall",
+  "titel": "Was ist der Asteroid Vesta?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Asteroids",
+      "herausgeber": "NASA",
+      "url": "https://science.nasa.gov",
+      "abgerufen": ""
+    },
+    {
+      "titel": "Raumfahrt",
+      "herausgeber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+      "url": "https://www.dlr.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "vesta",
+    "asteroid",
+    "dawn"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Zwischen Mars und Jupiter kreisen unzählige Asteroiden.",
+        "Einer der größten ist Vesta."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ein Riese im Asteroidengürtel",
+      "absaetze": [
+        "Vesta ist der zweitmassereichste Körper im Asteroidengürtel nach dem Zwergplaneten Ceres. Sie ist gut 500 Kilometer groß.",
+        "Weil ihre Oberfläche viel Licht zurückwirft, ist sie manchmal sogar mit bloßem Auge zu sehen."
+      ],
+      "merke": "Vesta gehört zu den größten Körpern im Asteroidengürtel."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Besuch von der Sonde Dawn",
+      "absaetze": [
+        "Von 2011 bis 2012 umkreiste die Raumsonde Dawn die Vesta. Danach flog sie weiter zu Ceres.",
+        "Dawn entdeckte am Südpol einen riesigen Einschlagkrater. Sein Zentralberg ist über 20 Kilometer hoch und gehört zu den höchsten Bergen im Sonnensystem."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Bruchstücke auf der Erde",
+      "absaetze": [
+        "Der gewaltige Einschlag schleuderte viel Gestein ins All. Manche Meteoriten, die auf der Erde gefunden werden, stammen von der Vesta.",
+        "So können Forschende Material eines Asteroiden im Labor untersuchen."
+      ],
+      "merke": "Manche Meteoriten stammen von der Vesta."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wo kreist Vesta?",
+      "art": "mc",
+      "optionen": [
+        "Im Asteroidengürtel zwischen Mars und Jupiter",
+        "Um die Erde",
+        "Hinter Neptun",
+        "Um die Venus"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie ist einer der größten Körper dort."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Sonde umkreiste Vesta?",
+      "art": "mc",
+      "optionen": [
+        "Dawn",
+        "Voyager 1",
+        "Rosetta",
+        "Apollo 11"
+      ],
+      "richtig": 0,
+      "erklaerung": "Danach flog sie zu Ceres."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Manche Meteoriten auf der Erde stammen von der Vesta.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Ein Einschlag schleuderte Gestein ins All."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was entdeckte Dawn am Südpol der Vesta?",
+      "art": "mc",
+      "optionen": [
+        "Einen riesigen Einschlagkrater",
+        "Einen Ozean",
+        "Leben",
+        "Einen Mond"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sein Zentralberg ist über 20 Kilometer hoch."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Vesta ist einer der größten Asteroiden.",
+        "Die Sonde Dawn umkreiste sie 2011 und 2012.",
+        "Am Südpol liegt ein riesiger Krater.",
+        "Manche Meteoriten stammen von der Vesta."
+      ]
+    }
+  ]
+}

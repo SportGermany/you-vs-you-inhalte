@@ -1,0 +1,122 @@
+{
+  "id": "vers-b164-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "versicherungen-vertraege",
+  "titel": "Wie lange ist ein Gutschein gültig?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Verbraucherfragen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "gutschein",
+    "verbraucherrecht",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Ein Gutschein liegt in der Schublade, und plötzlich stellt sich die Frage: Gilt der noch?",
+        "Die Antwort hängt davon ab, was auf dem Gutschein steht."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Ohne Datum: drei Jahre",
+      "absaetze": [
+        "Steht kein Ablaufdatum auf dem Gutschein, gilt die regelmäßige Verjährungsfrist von drei Jahren. Sie beginnt am Ende des Jahres, in dem der Gutschein gekauft wurde.",
+        "Ein Gutschein von 2025 gilt dann also bis Ende 2028."
+      ],
+      "merke": "Ohne Datum gilt ein Gutschein drei Jahre lang ab Jahresende."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Mit Datum",
+      "absaetze": [
+        "Händler dürfen eine kürzere Frist festlegen. Ist sie aber unangemessen kurz, kann sie unwirksam sein.",
+        "Bei Gutscheinen für einen bestimmten Termin, etwa ein Konzert, gelten oft eigene Regeln."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Tipps",
+      "absaetze": [
+        "Löse Gutscheine möglichst bald ein. Geht ein Geschäft pleite, ist der Gutschein oft nichts mehr wert.",
+        "Ist ein Gutschein abgelaufen, frag trotzdem nach. Viele Händler zeigen sich kulant, und die Verbraucherzentrale berät bei Streit."
+      ],
+      "merke": "Gutscheine möglichst bald einlösen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie lange gilt ein Gutschein ohne Datum?",
+      "art": "mc",
+      "optionen": [
+        "Drei Jahre ab Ende des Kaufjahres",
+        "Einen Monat",
+        "Für immer",
+        "Eine Woche"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das ist die regelmäßige Verjährungsfrist."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Bis wann gilt ein undatierter Gutschein von 2025?",
+      "art": "mc",
+      "optionen": [
+        "Bis Ende 2028",
+        "Bis Ende 2025",
+        "Bis Ende 2026",
+        "Bis Ende 2035"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Frist beginnt am Jahresende."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Sehr kurze Fristen auf Gutscheinen können unwirksam sein.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Sie müssen angemessen sein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Warum solltest du Gutscheine bald einlösen?",
+      "art": "mc",
+      "optionen": [
+        "Bei einer Pleite des Geschäfts sind sie oft wertlos",
+        "Sie werden jedes Jahr mehr wert",
+        "Sie verdoppeln sich",
+        "Gar nicht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein Risiko, das du vermeiden kannst."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Ohne Datum gilt ein Gutschein drei Jahre ab Jahresende.",
+        "Kürzere Fristen müssen angemessen sein.",
+        "Bei einer Pleite droht der Verlust.",
+        "Gutscheine bald einlösen."
+      ]
+    }
+  ]
+}

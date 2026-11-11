@@ -1,0 +1,122 @@
+{
+  "id": "tech-b164-01",
+  "version": 1,
+  "themenwelt": "natur-wissenschaft",
+  "unterthema": "technik",
+  "titel": "Wie funktioniert ein Lichtmikroskop?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": true,
+  "gueltig_von": null,
+  "gueltig_bis": null,
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Optik und Mikroskopie",
+      "herausgeber": "Deutsches Museum",
+      "url": "https://www.deutsches-museum.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "mikroskop",
+    "linsen",
+    "optik"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Mit einem Mikroskop werden Zellen, Bakterien und feinste Strukturen sichtbar.",
+        "Das Prinzip beruht auf geschickt kombinierten Linsen."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zwei Linsen hintereinander",
+      "absaetze": [
+        "Ein Lichtmikroskop hat zwei Linsensysteme. Das Objektiv nahe der Probe erzeugt ein vergrößertes Bild, das Okular am Auge vergrößert es noch einmal.",
+        "Die Gesamtvergrößerung ist das Produkt aus beiden. Ein Objektiv mit 40-facher und ein Okular mit 10-facher Vergrößerung ergeben 400-fach."
+      ],
+      "merke": "Objektiv und Okular vergrößern nacheinander."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Licht durch die Probe",
+      "absaetze": [
+        "Meist scheint Licht von unten durch eine dünne Probe. Deshalb müssen Proben oft hauchdünn geschnitten und manchmal eingefärbt werden.",
+        "Farbstoffe machen bestimmte Teile einer Zelle besser sichtbar."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Grenzen und Alternativen",
+      "absaetze": [
+        "Wegen der Wellenlänge des Lichts lassen sich mit Lichtmikroskopen nur Dinge bis etwa zwei Zehntausendstel Millimeter unterscheiden. Viele Viren sind kleiner.",
+        "Elektronenmikroskope nutzen statt Licht Elektronen. Damit lassen sich viel kleinere Strukturen erkennen."
+      ],
+      "merke": "Elektronenmikroskope zeigen viel kleinere Strukturen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie heißen die zwei Linsensysteme eines Lichtmikroskops?",
+      "art": "mc",
+      "optionen": [
+        "Objektiv und Okular",
+        "Prisma und Spiegel",
+        "Linse und Lampe",
+        "Fokus und Zoom"
+      ],
+      "richtig": 0,
+      "erklaerung": "Sie vergrößern nacheinander."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Welche Vergrößerung ergeben ein 40-faches Objektiv und ein 10-faches Okular?",
+      "art": "mc",
+      "optionen": [
+        "400-fach",
+        "50-fach",
+        "4-fach",
+        "4.000-fach"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Werte werden multipliziert."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Mit einem Lichtmikroskop sind alle Viren gut zu erkennen.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Falsch. Viele Viren sind zu klein."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Was nutzen Elektronenmikroskope statt Licht?",
+      "art": "mc",
+      "optionen": [
+        "Elektronen",
+        "Schall",
+        "Wärme",
+        "Magnete allein"
+      ],
+      "richtig": 0,
+      "erklaerung": "Damit sieht man kleinere Strukturen."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Objektiv und Okular vergrößern nacheinander.",
+        "Die Vergrößerungen werden multipliziert.",
+        "Licht begrenzt die Auflösung.",
+        "Elektronenmikroskope zeigen kleinere Strukturen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "steu-b164-01",
+  "version": 1,
+  "themenwelt": "finanzen-alltag",
+  "unterthema": "steuern",
+  "titel": "Lohnt sich für Studierende eine Steuererklärung?",
+  "minuten": 3,
+  "studienlage": null,
+  "zeitlos": false,
+  "gueltig_von": "2026-01-01",
+  "gueltig_bis": "2027-06-30",
+  "ersetzt_durch": null,
+  "stand": "2026-10",
+  "pruefstatus": "entwurf",
+  "quellen": [
+    {
+      "titel": "Steuern von A bis Z",
+      "herausgeber": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de",
+      "abgerufen": ""
+    }
+  ],
+  "tags": [
+    "studium",
+    "steuererklaerung",
+    "gesetze"
+  ],
+  "karten": [
+    {
+      "typ": "einstieg",
+      "absaetze": [
+        "Viele Studierende glauben, dass eine Steuererklärung für sie nichts bringt.",
+        "Oft lohnt sie sich aber doch."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Zu viel gezahlte Lohnsteuer zurück",
+      "absaetze": [
+        "Wer neben dem Studium jobbt, zahlt manchmal Lohnsteuer, obwohl das Jahreseinkommen unter dem Grundfreibetrag liegt. Mit einer Steuererklärung bekommst du diese Steuer zurück.",
+        "Eine freiwillige Erklärung kannst du bis zu vier Jahre rückwirkend abgeben."
+      ],
+      "merke": "Zu viel gezahlte Lohnsteuer gibt es mit der Erklärung zurück."
+    },
+    {
+      "typ": "wissen",
+      "titel": "Erststudium und Zweitstudium",
+      "absaetze": [
+        "Kosten für das Erststudium zählen als Sonderausgaben. Sie wirken sich nur aus, wenn du im selben Jahr Einkommen hast.",
+        "Ein Masterstudium oder ein Studium nach abgeschlossener Ausbildung gilt dagegen als Zweitausbildung. Die Kosten sind dann Werbungskosten."
+      ]
+    },
+    {
+      "typ": "wissen",
+      "titel": "Verluste für später sammeln",
+      "absaetze": [
+        "Werbungskosten können einen Verlust ergeben, den das Finanzamt feststellt. Dieser Verlust mindert später deine Steuer im ersten Job.",
+        "Bewahre dafür Belege für Fachbücher, Laptop, Fahrten und Studiengebühren auf."
+      ],
+      "merke": "Kosten einer Zweitausbildung können später Steuern sparen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wann bekommen jobbende Studierende Lohnsteuer zurück?",
+      "art": "mc",
+      "optionen": [
+        "Wenn ihr Einkommen unter dem Grundfreibetrag liegt",
+        "Nie",
+        "Nur bei einem Umzug",
+        "Nur im Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Dafür ist eine Steuererklärung nötig."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wie weit rückwirkend kannst du eine freiwillige Erklärung abgeben?",
+      "art": "mc",
+      "optionen": [
+        "Bis zu vier Jahre",
+        "Bis zu vier Wochen",
+        "Gar nicht",
+        "Unbegrenzt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Es lohnt sich, alte Jahre zu prüfen."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Kosten eines Masterstudiums gelten als Werbungskosten.",
+      "art": "tf",
+      "optionen": [
+        "Wahr",
+        "Falsch"
+      ],
+      "richtig": 0,
+      "erklaerung": "Richtig. Es zählt als Zweitausbildung."
+    },
+    {
+      "typ": "quiz",
+      "frage": "Wozu dient ein festgestellter Verlust?",
+      "art": "mc",
+      "optionen": [
+        "Er mindert später die Steuer im Job",
+        "Er wird sofort ausgezahlt",
+        "Er erhöht die Miete",
+        "Er verfällt sofort"
+      ],
+      "richtig": 0,
+      "erklaerung": "Belege sorgfältig aufbewahren."
+    },
+    {
+      "typ": "zusammenfassung",
+      "punkte": [
+        "Zu viel gezahlte Lohnsteuer gibt es zurück.",
+        "Erststudium zählt als Sonderausgabe.",
+        "Zweitausbildung zählt als Werbungskosten.",
+        "Verluste können später Steuern sparen."
+      ]
+    }
+  ]
+}
